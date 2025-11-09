@@ -1,0 +1,29 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_School_Panda">
+			<DisplayName>Duta Besar Guru</DisplayName>
+			<Desc>Panda Saint Saint sedang mencoba membangun hubungan persahabatan antara sekte kami dan[SCHOOL]</Desc>
+			<Selections.0.Display>setuju</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_FindPanda">
+			<DisplayName>Panda Giok</DisplayName>
+			<Desc>Dikatakan bahwa ada sepotong batu giok aneh di dalam hutan bambu besar. Hal ini ditandai dengan adanya separuh putih dan separuh hitam. Tampaknya itu adalah warisan dari panda.</Desc>
+			<Selections.0.Display>Cari dengan cermat</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_CallPanda">
+			<DisplayName>menghancurkan</DisplayName>
+			<Desc>Giok ini terdiri dari dua jenis nafas: yin dan yang. Itu adalah perpaduan antara kelucuan dan kekaguman.</Desc>
+			<Selections.0.Display>menghancurkan</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Fish">
+			<DisplayName>pencerahan pertama</DisplayName>
+			<Desc>[NAME]Dapatkan ide-ide baru!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="Little_Panda">
+			<DisplayName>PandaMenjahit</DisplayName>
+			<Desc>Panda lain datang ke sini setelah mendengar suara Saint Saint!</Desc>
+			<Selections.0.Display>selamat datang</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
