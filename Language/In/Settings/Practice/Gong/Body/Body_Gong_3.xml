@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_3">
+			<DisplayName>Tubuh Iblis Kejadian</DisplayName>
+			<Desc>Dikatakan bahwa itu adalah teknik budidaya tubuh yang diwarisi dari Dewa Asura pada zaman kuno. Mata pelajaran ini merupakan mata pelajaran yang luar biasa dalam membentuk organ dalam. Konon di dalam tubuh terdapat sumber energi misterius dengan kekuatan tak terbatas yang tersembunyi. Ketika praktisi telah berlatih hingga mencapai tingkat keterampilan tertinggi. Orang itu akan mendapatkan tubuh abadi yang bahkan bisa menghancurkan kehampaan. *Peringatan* Teknik ini diciptakan oleh Dewa Iblis kuno khusus untuk Ras Iblis. Sebab, ada tubuh misterius yang bergantung pada berbagai organ. yang hanya dimiliki oleh Ras Iblis, dan jika tubuh Anda tidak memiliki struktur tubuh yang tepat, Anda tidak dapat memahami inti dari keterampilan ini.</Desc>
+			<SelectDesc>Melangkah ke Jalur Budidaya Tubuh Abadi berarti Anda harus menggabungkan tubuh, qi, dan pikiran Anda menjadi satu. Hal ini membuat Anda tidak mungkin bisa menyulap qi ajaib atau bahkan menggunakan senjata magis. Satu-satunya hal yang dapat Anda andalkan adalah tubuh Anda. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Budidaya Tubuh Abadi?</SelectDesc>
+			<Stages.0.DisplayName>Selama pencairan tubuh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>membangun tubuh fisik</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>periode pembersihan sumsum tulang</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>transplantasi sumsum tulang</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Selama penciptaan tubuh ilahi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Gabungkan tubuh dan pikiran</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Selama perubahan tubuh astral</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tubuh abadi</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
