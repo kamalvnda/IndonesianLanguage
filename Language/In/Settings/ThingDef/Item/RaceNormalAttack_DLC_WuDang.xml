@@ -1,0 +1,31 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="XuanWu_NormalAttack" sParam="Item">
+			<ThingName>Esensi Yin Penyu Hitam</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>naga yang tenang</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>naga yang tenang</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>naga yang tenang</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>naga yang tenang</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="XuanWu_NormalAttack2" sParam="Item">
+			<ThingName>Esensi Kura-kura Hitam</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>naga yang marah</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>naga yang marah</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="WuDangYa_NormalAttack" sParam="Item">
+			<ThingName>Serangan Bebek Wutung.</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Posisi Pedang Tanpa Batas</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Energi Matahari Krabi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Posisi Pedang Tanpa Batas</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Energi Matahari Krabi</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Tinju Matahari Ungu</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Tai Chi Chuan</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>menyapu langit misterius</Item.Equip.AtkDamage.6.DescTags>
+			<Item.Equip.AtkDamage.7.DescTags>Tinju Matahari Ungu</Item.Equip.AtkDamage.7.DescTags>
+			<Item.Equip.AtkDamage.8.DescTags>Tai Chi Chuan</Item.Equip.AtkDamage.8.DescTags>
+			<Item.Equip.AtkDamage.9.DescTags>menyapu langit misterius</Item.Equip.AtkDamage.9.DescTags>
+		</Text>
+	</List>
+</Texts>
