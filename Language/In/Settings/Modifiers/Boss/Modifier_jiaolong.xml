@@ -1,0 +1,42 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_PartFight">
+      <DisplayName>Atribut pertempuran bagian umum BOSS</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong">
+      <DisplayName>naga</DisplayName>
+    </Text>
+    <Text Name="Boss_JiaolongFight">
+      <DisplayName>Atribut pertarungan naga</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part">
+      <DisplayName>Bagian naga</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_Part1">
+      <DisplayName>Bagian naga yang lemah</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_JiSiGongYang">
+      <DisplayName>tumbuh dewasa</DisplayName>
+      <Desc>Naga iblis memperoleh kekuatan dari pengorbanan tersebut, dan energi spiritualnya menjadi lebih kuat.</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Shuiling">
+      <DisplayName>Kekuatan roh air</DisplayName>
+      <Desc>Kumpulkan kekuatan roh air, dan ketika mencapai level 100, Zeguo akan dilepaskan.</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_LongNu">
+      <DisplayName>kemarahan naga</DisplayName>
+      <Desc>Naga iblis memasuki keadaan marah, dan semua atribut meningkat.</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_Longxi">
+      <DisplayName>Pernapasan Naga</DisplayName>
+      <Desc>Naga iblis itu menarik napas dalam-dalam, air di tubuh karakter itu hilang dengan cepat!</Desc>
+    </Text>
+    <Text Name="Boss_Jiaolong_zhenlong">
+      <DisplayName>naga asli</DisplayName>
+    </Text>
+    <Text Name="Boss_Jiaolong_fanshi">
+      <DisplayName>Serangan balik Devour-Dragon</DisplayName>
+      <Desc>Setelah jangka waktu tertentu, ia akan menjadi bumerang bagi senjata ajaibnya. Aura senjata ajaib akan terpotong menjadi dua, efek senjata sihir atribut api akan berlipat ganda, dan efek senjata sihir atribut bumi akan berkurang setengahnya.</Desc>
+    </Text>
+  </List>
+</Texts>
