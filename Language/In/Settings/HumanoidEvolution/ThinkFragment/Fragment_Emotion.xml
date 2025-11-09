@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>sedikit takut</DisplayName>
+			<SingleFormat.0>Rasakan {0} tentang hewan lain..</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} tentang lingkungan..</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>takut</DisplayName>
+			<SingleFormat.0>Rasakan {0} orang di dekatnya..</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>takut</DisplayName>
+			<SingleFormat.0>Mengingat hal itu adalah musuh alami dan terasa{0}..</SingleFormat.0>
+			<SingleFormat.1>Saya merasa {0} tentang masalah teman saya yang terbunuh..</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>sedikit bahagia</DisplayName>
+			<SingleFormat.0>Saya merasakan {0} tentang Fa Sai dan matahari.</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} tentang sesuatu yang enak.</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>berbahagialah</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat dikelilingi</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>ceria</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat bertemu balapan yang sama</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>sedikit marah</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat bertemu orang yang lewat</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>marah</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat orang lain berada dalam risiko</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>rewel</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat hewan lain berkelahi.</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} saat diintimidasi</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>sedikit khawatir</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat bertemu orang asing</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>khawatir</DisplayName>
+			<SingleFormat.0>Saya merasa {0} sungainya terlalu dalam.</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} tentang tepi tebing.</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>cemas</DisplayName>
+			<SingleFormat.0>Rasakan {0} tentang kematian</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} saat ditangkap oleh manusia</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>Sedikit kerinduan</DisplayName>
+			<SingleFormat.0>Rasakan {0} debu yang beterbangan.</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} pemandangannya</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>Kerinduan untuk</DisplayName>
+			<SingleFormat.0>Rasakan {0} kehidupan di luar</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} teman</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>kerinduan</DisplayName>
+			<SingleFormat.0>Saya merasa seperti {0} teman masa kecil.</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} aliran dalam memori</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>tenang</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat berjalan di lantai</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} ketika melihat makhluk hidup yang sudah mati</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>gelisah</DisplayName>
+			<SingleFormat.0>Secara naluriah hal itu membuat seseorang merasa {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>jenggot</DisplayName>
+			<SingleFormat.0>Rasakan {0} saat bunganya memudar</SingleFormat.0>
+			<SingleFormat.1>Rasakan {0} saat bunga persik layu</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>
