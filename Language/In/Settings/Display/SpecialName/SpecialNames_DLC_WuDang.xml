@@ -1,0 +1,87 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_HomeFood">
+		<Fish_SkyCrab>
+			<li Name="Kepiting kukus" Desc=""/>
+			<li Name="sup kepiting" Desc=""/>
+			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
+			<li Name="Bubur daging kepiting" Desc=""/>
+			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
+			<li Name="Kepiting Rebus Pedas" Desc=""/>
+			<li Name="Kepiting rebus" Desc=""/>
+			<li Name="Nasi goreng daging kepiting" Desc=""/>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="risotto ikan" Desc=""/>
+			<li Name="roti ikan" Desc=""/>
+			<li Name="taco ikan" Desc=""/>
+			<li Name="ikan bakar" Desc=""/>
+			<li Name="Ikan goreng kering" Desc=""/>
+			<li Name="ikan air jernih" Desc=""/>
+			<li Name="ikan kukus" Desc=""/>
+			<li Name="ikan rebus" Desc=""/>
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="risotto ikan" Desc=""/>
+			<li Name="roti ikan" Desc=""/>
+			<li Name="taco ikan" Desc=""/>
+			<li Name="ikan bakar" Desc=""/>
+			<li Name="Ikan goreng kering" Desc=""/>
+			<li Name="ikan air jernih" Desc=""/>
+			<li Name="ikan kukus" Desc=""/>
+			<li Name="ikan rebus" Desc=""/>
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Fish_SkyCrab>
+			<li Name="Panci daging kepiting" Desc=""/>
+			<li Name="Kepiting pedas" Desc=""/>
+			<li Name="Kaki kepiting kukus" Desc=""/>
+			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
+			<li Name="Kepiting Mabuk" Desc=""/>
+			<li Name="Tahu bubuk kepiting" Desc=""/>
+			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Fillet ikan panjang panas" Desc=""/>
+			<li Name="Nasi claypot ikan panjang" Desc=""/>
+			<li Name="Ikan rebus" Desc=""/>
+			<li Name="bakso ikan" Desc=""/>
+			<li Name="kue ikan" Desc=""/>
+			<li Name="Tiga panci ikan" Desc=""/>
+			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
+			<li Name="Ikan diisi dengan anggur" Desc=""/>
+			<li Name="Fillet ikan goreng" Desc=""/>
+			<li Name="Stok ikan rebus" Desc=""/>
+			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Fillet ikan panjang panas" Desc=""/>
+			<li Name="Nasi claypot ikan panjang" Desc=""/>
+			<li Name="ikan rebus" Desc=""/>
+			<li Name="bakso ikan" Desc=""/>
+			<li Name="kue ikan" Desc=""/>
+			<li Name="Tiga panci ikan" Desc=""/>
+			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
+			<li Name="Ikan diisi dengan anggur" Desc=""/>
+			<li Name="Fillet ikan goreng" Desc=""/>
+			<li Name="Stok ikan rebus" Desc=""/>
+			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Fish_SkyCrab>
+			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
+			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
+			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+		</Fish_SkySnake>
+		<Fish_SkyFish>	
+			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
+			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+		</Fish_SkyFish>
+	</SpecialItem>
+</List>
+</SpecialNames>
