@@ -1,0 +1,27 @@
+ID	Unlock	TXT
+10000及以上不参与随机 必须连续	该内容在几级解锁	[Isi]
+1	1	Untuk memaksimalkan stabilitas, sebaiknya Anda membuat rencana untuk ladang dan perkebunan Anda sesegera mungkin.
+2	4	Saya tidak tahu dari mana mereka berasal, mereka yang menyergap Sekte Taiyi. Sepertinya dunia kultivasi menjadi agak tidak menentu...
+3	3	[color=#D06508]Daging kering[/color] dan [color=#D06508]Roti[/color] cenderung lebih baik dalam penyimpanan dibandingkan makanan segar.
+4	3	Anda dapat meminum [color=#D06508]Forming Pill[/color] jika Anda ingin membuat kemajuan cepat dalam Pelatihan Dasar Anda.
+5	4	Kultivasi mengharuskan Anda waspada terhadap gangguan, bahkan sebagai murid batiniah. Jangan ambil pusing dengan urusan sepele, karena bisa menghambat latihanmu.
+6	4	Anda mengeluarkan [color=#D06508]Stamina[/color] saat berkultivasi, dan meningkatkan [color=#D06508]Max Qi[/color] Anda. Inilah yang dikenal sebagai Penyempurnaan Qi.
+7	1	Jika makanan Anda hampir habis, Anda dapat [color=#D06508]mengumpulkan[/color] sumber daya dari tanaman terdekat atau [color=#D06508]berburu[/color] hewan di area tersebut. Saya juga akan membantu ketika saatnya tiba.
+8	1	Murid-murid luar pasti mempunyai pekerjaan yang cocok untuk mereka. Anda dapat membangun beberapa struktur [color=#D06508]rekreasi[/color] agar dapat melepaskan tenaga bila diperlukan.
+9	1	[color=#D06508]Eksplorasi[/color] menghabiskan banyak [color=#D06508]energi[/color]. Saat Anda baru memulai, ada baiknya untuk menjelajah secukupnya.
+10	3	[color=#D06508]Buku Taiyi (F1) [/color] dikemas dengan informasi penting. Jika Anda mengalami kebuntuan, jangan ragu untuk membolak-baliknya.
+11	1	Anda harus menggali [color=#D06508]sumur[/color] sesegera mungkin untuk mendapatkan sumber air bersih.
+12	1	Berhati-hatilah untuk tidak mengeluarkan terlalu banyak perintah sekaligus, atau murid Anda akan kesulitan menyelesaikan semuanya.
+13	4	Jadi, ini adalah hukum terakhir yang tersisa dari Lima Hukum Agung Sekte Taiyi...
+14	4	Hampir sampai...
+15	4	Saya telah bertemu banyak orang selama bertahun-tahun, beberapa dengan teknik yang benar-benar...
+16	4	Sorot matamu tidak terlalu ramah.
+17	4	Segala sesuatunya tidak seimbang dalam dunia kultivasi. Saya telah menyaksikan terlalu banyak pengkhianatan dan pengkhianatan. Hati-hati, teman-teman.
+18	4	Saya hanya bisa pergi setelah saya yakin Anda berada di jalur yang benar.
+10000	-1	Tampaknya aman di sini untuk saat ini. Anda dapat [color=#D06508]memotong[/color] beberapa kayu untuk menyalakan [color=#D06508]api unggun[/color] dengan.
+10001	-1	Hm... Mengapa Anda tidak membuat [color=#D06508]Workstation[/color], dan mengolah [color=#D06508]wood[/color] menjadi [color=#D06508]Timber[/color] untuk digunakan nanti.
+10002	-1	Awal musim semi membawa udara dingin. Anda dapat membuat [color=#D06508]dinding[/color] untuk membuat [color=#D06508]ruangan[/color]. Kemudian Anda bisa menetap dan berlindung dari angin dan hujan.
+10003	-1	Pemimpin Sekte dan saya kembali ke masa lalu. Saya mengetahui masalah Taiyi dan datang secepat mungkin, tetapi sudah terlambat. Syukurlah para dewa baik hati dan tidak membiarkan ini menjadi akhir dari Sekte Taiyi. Akhirnya, saya menemukan Anda!\nJangan khawatir, saya akan tetap terisolasi untuk sementara waktu dan melindungi Anda semua. Jika anda pernah menemui kesulitan dalam perjalanan berkultivasi, jangan malu-malu. Tanyakan saja.
+10004	-1	Sudah waktunya bagi saya untuk berangkat. Semoga rejeki berpihak pada sekte Taiyi... Saya harap kemajuan kultivasi anda lancar.
+10005	-1	Saya merasa lega, melihat Anda berada di jalur yang benar. Saya akan terus memberikan perlindungan saya untuk sementara waktu. Jika Anda memiliki pertanyaan, beri tahu saya.
+10006	-1	*Mendesah*...
