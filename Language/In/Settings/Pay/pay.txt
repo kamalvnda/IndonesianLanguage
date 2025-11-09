@@ -1,0 +1,25 @@
+﻿ID	Name	Desc	DLCContent
+1	Ancient Beasts	Kebangkitan binatang purba dari zaman kuno telah memicu badai berdarah di dunia budidaya dan membawa peluang baru. Para pembudidaya kuno yang tersembunyi harus menunjukkan wajah mereka untuk mempertahankan sekte mereka dan memburu binatang purba. Akibatnya, dunia budidaya memasuki era yang penuh gejolak.	
+2	Mortals and Immortals	Konflik di bidang budidaya menimbulkan terlalu banyak kerugian bagi semua sekte. Untuk mengisi kembali darah, menemukan murid yang hebat, dan mengumpulkan sumber daya, semua sekte juga mulai memasuki kembali dunia fana dan membuka agen fana mereka sendiri. Di dunia manusia, kita harus bertindak dengan menahan diri. Kembalinya murid-murid dari semua sekte ke dunia manusia membawa persaingan, tetapi juga lebih banyak pertukaran.	
+3	Secret Volumes	Saat dunia kultivasi menjadi aktif kembali, warisan dari zaman kuno dan formasi muncul berbondong-bondong. Ye Xuan, seorang selebriti di dunia kultivasi, juga tidak mau kesepian dan memulai kembali pelelangan di Black Beach. Ketika dunia yang kacau ini mendekat, peluang-peluang yang belum pernah terjadi sebelumnya pun datang bersamanya.	
+4	Yaoguai Uprising	Ukiran batu tebing Naga, tanah suci keluarga iblis, mereproduksi dunia dan membawa banyak metode budidaya keluarga iblis yang hilang. Para Yaoguai, yang awalnya berada dalam posisi yang sangat dirugikan dalam dunia budidaya, juga mendapat kesempatan untuk bangkit kembali. Kuil Daemonia yang tersembunyi di Gurun Besar juga telah mengambil langkah untuk kembali ke dunia budidaya.	
+5	Deep in the Bamboo Forest	Di dunia para pencari keabadian, sebuah peristiwa besar telah terjadi: sebuah tanah kuno yang luar biasa bernama Hutan Bambu Besar telah ditemukan oleh beberapa petani yang sangat suka berpetualang. Ini adalah negeri yang penuh dengan sumber daya baru: kumpulkan rebung yang lezat untuk dimasak, dan tebang batang bambu untuk membangun bangunan dengan berbagai gaya, atau untuk membuat pancing! Dan jangan lupakan makhluk lucu dan misterius yang mengintai di dalamnya: PANDAS!	
+6	Newcomer bless	Berkah bagi pemain yang baru mengenal game ini, memudahkan pendatang baru untuk memulai, berlangsung selama 30 hari (waktu realistis)	
+7	Bless of Taixu	Diberkati oleh Taixu Dao, kesulitan budidaya lebih rendah, berlangsung selama 30 hari (waktu realistis).	
+8	Bless of Taiyi	Diberkati oleh Taiyi Dao, kesulitan merekrut jenius lebih rendah, berlangsung selama 30 hari (waktu realistis).	
+9	Bless of Taixuan	Diberkati oleh Taixuan Dao, kesulitan transaksi fana lebih rendah, berlangsung selama 30 hari (waktu realistis).	
+10	Bless of Taishi	Diberkati oleh Taishi Dao, terkadang Anda dapat membalikkan hasilnya, berlangsung selama 30 hari (waktu realistis).	
+11	Newcomer bless	Berkah bagi pemain yang baru mengenal game ini, memudahkan pendatang baru untuk memulai, secara permanen.	
+12	Bless of Taixu	Diberkati oleh Taixu Dao, kesulitan budidaya lebih rendah, secara permanen.	
+13	Bless of Taiyi	Diberkati oleh Taiyi Dao, kesulitan merekrut orang jenius menjadi lebih rendah, secara permanen.	
+14	Bless of Taixuan	Diberkati oleh Taixuan Dao, kesulitan transaksi fana menjadi lebih rendah, secara permanen.	
+15	Bless of Taishi	Diberkati oleh Taishi Dao, terkadang Anda dapat membalikkan hasilnya, secara permanen.	
+16	Immortal Tales of Wudang	Di Laut Timur, gunung abadi yang tinggi dan kabur tiba-tiba muncul di dunia fana. Para penggarap menjelajahi tempat itu dan menemukan bahwa itu adalah alam abadi yang telah lama hilang dan tak terbatas, dan tersembunyi di dalamnya adalah sekte Tao yang tertutup! Ajaran Tao dari sekte tersebut diturunkan langsung dari Prajurit Sempurna. Semua muridnya telah menguasai esensi Tao dan unggul dalam mengusir setan. Alam tersebut dikenal sebagai Pegunungan Wudang!	
+18	Newcomer's Casket	Dapatkan semua Metode Abadi: Blesses x1, Sky Bless x1, Reviver x1, Traders x1, Reforge x3, Chooser x3, Molder x3	
+19	Blesses Casket	Perolehan Berkah ×3:\nPanggil cuaca Berkah Abadi.	
+20	Sky Bless Casket	Dapatkan Berkat Langit ×3:\nHilangkan sebagian besar cuaca.	
+21	Reviver Casket	Dapatkan Reviver ×3:\nMenghidupkan kembali karakter.	
+22	Traders Casket	Dapatkan Pedagang ×3:\nDorong pedagang untuk datang.	
+23	Reforge Casket	Dapatkan Reforge ×9:\nJika Anda tidak puas dengan hasil penempaan artefak, Anda dapat melakukan reforge.	
+24	Chooser Casket	Gain Chooser ×9:\nJika Anda tidak puas dengan beberapa hasil acara, Anda dapat memilih ulang.	
+25	Molder Casket	Gain Molder ×9:\nJika Anda tidak puas dengan hasil cetakan ulang, Anda dapat memilih ulang.	
