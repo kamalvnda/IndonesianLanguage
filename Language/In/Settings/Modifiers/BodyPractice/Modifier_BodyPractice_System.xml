@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPractice_Attitude_Atk">
+			<DisplayName>Pose serangan</DisplayName>
+			<Desc>Fokuskan perhatian Anda pada serangan. Dalam gerakan ini, pengguna dapat meningkatkan kekuatan serangannya sebesar 25%, tetapi pada saat yang sama, kekuatan pertahanannya akan berkurang sebesar 50%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_Normal">
+			<DisplayName>Postur dasar</DisplayName>
+			<Desc>Lakukan gerakan dasar yang seimbang baik dalam menyerang maupun bertahan.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_ManJi">
+			<DisplayName>semangat juang</DisplayName>
+			<Desc>Gunakan tekadmu untuk mengontrol pergerakan tubuhmu dan menyerang musuh secara langsung. Memiliki efek meningkatkan kekuatan penghancur secara signifikan. Namun hal itu juga berpengaruh pada kekuatan pertahanan diri sendiri. Teknik ini meningkatkan kekuatan serangan pengguna sebesar 30% dan mengurangi kekuatan pertahanannya sebesar 25%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_WangZhe">
+			<DisplayName>Kehendak Raja</DisplayName>
+			<Desc>Tekad dan ketenangan seorang raja ketika menghadapi lawan yang kuat. Teknik ini meningkatkan kekuatan serangan pengguna sebesar 15%, kekuatan pertahanan sebesar 25%, dan pengurangan energi sebesar 20%.</Desc>
+		</Text>
+		<Text Name="BodyPractice_DefenseDebuff">
+			<DisplayName>keadaan lemah</DisplayName>
+			<Desc>Ketika dalam keadaan di mana Qi sejati telah mengering, maka kultivator akan berada dalam kondisi lemah. Mengurangi semua statistik sebesar 90%.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_AngerFire">
+			<DisplayName>kemarahan gila</DisplayName>
+			<Desc>Menghidupkan kembali kenangan menyakitkan yang tersegel dan mengaktifkan tubuh sepenuhnya dalam jangka waktu tertentu.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_JingXi">
+			<DisplayName>organ bekerja keras</DisplayName>
+			<Desc>Jantung dan paru-paru bekerja terlalu keras setelah menggunakan napas terlalu berat. Akibatnya, efisiensi pernapasan menjadi sangat berkurang.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_TunJin">
+			<DisplayName>Melahap hidup</DisplayName>
+			<Desc>Mempercepat penggunaan umur untuk mengeluarkan Life Qi saat True Qi mengering.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_XiuFu">
+			<DisplayName>perpindahan energi</DisplayName>
+			<Desc>Mengirimkan energi ke seluruh tubuh untuk mempercepat pemulihan dan menyembuhkan luka.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi1">
+			<DisplayName>Menghabiskan hidup</DisplayName>
+			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Ini akan sangat mempercepat umur pengguna dan kecepatan pemurnian.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi2">
+			<DisplayName>membakar kehidupan</DisplayName>
+			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Hal ini akan sangat mempercepat tingkat pemanfaatan umur pengguna dan meningkatkan tingkat keberhasilan perkembangan tubuh tingkat lanjut saat menempa tubuh.</Desc>
+		</Text>
+	</List>
+</Texts>
