@@ -1,0 +1,58 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>kosong</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_1">
+			<DisplayName>Inti Asli: Periode</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_2">
+			<DisplayName>Inti Asli: Kembali</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_3">
+			<DisplayName>Inti asli: melengkung</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_4">
+			<DisplayName>Inti asli: pengelasan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_1">
+			<DisplayName>Inti Asli: Tali</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_2">
+			<DisplayName>Inti Asli: Yod</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_3">
+			<DisplayName>Inti asli: baris</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_5_1">
+			<DisplayName>Inti Asli: Tersedia</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_6_1">
+			<DisplayName>Inti Asli: Lengkap</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_1_1">
+			<DisplayName>Sub-Sumbu Asli: Ikatan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_1">
+			<DisplayName>Sub-inti asli: berpasangan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_2">
+			<DisplayName>Sub-Sumbu Asli: Tersegmentasi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_3">
+			<DisplayName>Sub-inti asli: Integrasikan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_1">
+			<DisplayName>Sub-Sumbu Asli: Potong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_2">
+			<DisplayName>Sub-Sumbu Asli: Seberang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_3">
+			<DisplayName>Sub-inti asli: Terdistribusi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_4">
+			<DisplayName>Sub-Tema Asli: Krisis</DisplayName>
+		</Text>
+	</List>
+</Texts>
