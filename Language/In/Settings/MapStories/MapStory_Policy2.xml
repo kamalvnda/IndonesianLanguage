@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_TreeEXP">
+			<DisplayName>Pelajari Taoisme</DisplayName>
+			<Desc>Anda telah mempelajari Dao Surgawi cukup banyak dan sekarang Anda dapat menerapkannya pada pil pemurnian.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
