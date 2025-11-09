@@ -1,0 +1,56 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="t1">
+			<DisplayName>Cuaca umum</DisplayName>
+			<Desc>Cuaca umum</Desc>
+		</Text>
+		<Text Name="t2">
+			<DisplayName>Cuacanya sulit ditemukan.</DisplayName>
+			<Desc>Cuacanya sulit ditemukan.</Desc>
+		</Text>
+		<Text Name="t3">
+			<DisplayName>Harta karun jatuh dari langit</DisplayName>
+			<Desc>Harta karun jatuh dari langit</Desc>
+		</Text>
+		<Text Name="t8">
+			<DisplayName>Perkenalkan siswa</DisplayName>
+			<Desc>Perkenalkan siswa</Desc>
+		</Text>
+		<Text Name="t_vistor">
+			<DisplayName>Acara pengunjung</DisplayName>
+			<Desc>Acara pengunjung</Desc>
+		</Text>
+		<Text Name="t5">
+			<DisplayName>Serangan hewan liar</DisplayName>
+			<Desc>Serangan hewan liar</Desc>
+		</Text>
+		<Text Name="t6">
+			<DisplayName>Musuh datang.</DisplayName>
+			<Desc>Musuh datang.</Desc>
+		</Text>
+		<Text Name="t7">
+			<DisplayName>Serangan binatang iblis</DisplayName>
+			<Desc>Serangan binatang iblis</Desc>
+		</Text>
+		<Text Name="s_fabao">
+			<DisplayName>Rahasia - Temukan senjata ajaib</DisplayName>
+			<Desc>Rahasia - Temukan senjata ajaib</Desc>
+		</Text>
+		<Text Name="s_miji">
+			<DisplayName>Rahasia - Temukan Kitab Suci Rahasia.</DisplayName>
+			<Desc>Rahasia - Temukan Kitab Suci Rahasia.</Desc>
+		</Text>
+		<Text Name="s_daotong">
+			<DisplayName>Rahasia - Temukan Teknik Budidaya Kuno</DisplayName>
+			<Desc>Rahasia - Temukan Teknik Budidaya Kuno</Desc>
+		</Text>
+		<Text Name="s_dongfu">
+			<DisplayName>Rahasia - Temukan gua rahasia.</DisplayName>
+			<Desc>Rahasia - Temukan gua rahasia.</Desc>
+		</Text>
+		<Text Name="s_zhengxie">
+			<DisplayName>Rahasia - Jejak Yang Terkenal</DisplayName>
+			<Desc>Rahasia - Jejak Yang Terkenal</Desc>
+		</Text>
+	</List>
+</Texts>
