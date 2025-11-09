@@ -1,0 +1,159 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="DanFang_1">
+      <DisplayName>Kanon Pil Sejati</DisplayName>
+      <Desc>Ini adalah buku klasik yang berisi resep pil dan ramuan yang paling umum digunakan oleh para petani.</Desc>
+      <EffectDesc>Membuka resep:\nElixir Dasar\nRamuan Istana Kuning\nRamuan Kecambah Kuning\nBubuk Pengerukan Nadi\nPil Pemulihan Internal Lima Bentuk\nBubuk peremajaan\nResin Sanguis Draconis\nBubuk Roh Segudang</EffectDesc>
+    </Text>
+    <Text Name="DanFang_2">
+      <DisplayName>Panduan alkimia tingkat pemula</DisplayName>
+      <Desc>Kumpulan resep paling dasar untuk alkemis pemula.</Desc>
+      <EffectDesc>Membuka resep:\nRamuan Kebahagiaan\nPil Bigu\nPil India\nRamuan Penenang Hati\nRamuan Pembentuk Tubuh\nRamuan Tubuh Besar</EffectDesc>
+    </Text>
+    <Text Name="DanFang_3">
+      <DisplayName>Buku Lima Pil Imperial</DisplayName>
+      <Desc>Buku tebal ini berisi resep yang dibuat berdasarkan lima obat abadi pada zaman kuno.</Desc>
+      <EffectDesc>Membuka resep:\nPil Penetral Logam\nPil Musim Semi Hijau\nBubuk Pencahar Surga\nPil Api Sejati\nCampuran Penstabil Bumi\nPil Pemulihan Internal Lima Bentuk\nPil Darah Berwarna Viridescent</EffectDesc>
+    </Text>
+    <Text Name="DanFang_4">
+      <DisplayName>Panduan Pil Terkemuka (sebagian)</DisplayName>
+      <Desc>Bagian dari manual alkimia kuno yang berisi beberapa resep penyempurnaan bahan medis tertentu.</Desc>
+      <EffectDesc>Membuka resep:\nRamuan Matahari Ungu\nRamuan Istana Kuning\nRamuan Kecambah Kuning\nResin Sanguis Draconis</EffectDesc>
+    </Text>
+    <Text Name="DanFang_5">
+      <DisplayName>Catatan Inspirasi Ilahi</DisplayName>
+      <Desc>Dikatakan bahwa setelah penulis karya ini menyelesaikannya, dia langsung dibunuh oleh kesengsaraan surgawi.</Desc>
+      <EffectDesc>Membuka resep:\nPil Pengikat Jiwa\nPil Golden Reforge</EffectDesc>
+    </Text>
+    <Text Name="DanFang_6">
+      <DisplayName>Koleksi Emas Panjang Umur</DisplayName>
+      <Desc>Kumpulan gulungan ini berisi resep alkimia untuk meningkatkan umur seseorang.</Desc>
+      <EffectDesc>Membuka resep:\nRamuan Panjang Umur\nBubuk Kontinuitas Semangat Lembah\nRamuan Spiritual Lima Ekstremitas\nPil Reforge Emas\nRamuan Phoenix</EffectDesc>
+    </Text>
+    <Text Name="DanFang_7">
+      <DisplayName>避劫仙方</DisplayName>
+      <Desc>asuransi kesehatan yang baik苦找到丹方，却未能练成，最终寿元将至，只能强行渡劫，最终陨落之事。</Desc>
+      <EffectDesc>Membuka resep:\nRamuan umur panjang\nPil penghindar kesengsaraan\nPelet keras</EffectDesc>
+    </Text>
+    <Text Name="DanFang_8">
+      <DisplayName>Resep yang hilang</DisplayName>
+      <Desc>Koleksi resep alkimia yang sudah lama hilang.</Desc>
+      <EffectDesc>Membuka resep:\nPil Masuk Surga\nPil Sujud Bumi\nPil Santai Abadi\nPil Pikiran Jernih\nPil Pemberkahan Dewa\nPil Ilahi Lima Racun Lima Energi</EffectDesc>
+    </Text>
+    <Text Name="DanFang_9">
+      <DisplayName>Rahasia Jiwa</DisplayName>
+      <Desc>Kumpulan resep alkimia yang diwariskan sejak dahulu kala. Berisi metode pemurnian kristal jiwa menjadi ramuan ilahi.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Membuka resep:\nRamuan Air Mata Dewa\nRamuan Pemahaman Mendalam\nMembekukan Ramuan Kuning\nRamuan Pembakar Jiwa[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="YouJi_1_2">
+      <DisplayName>Panduan wisatawan: Dataran Tengah</DisplayName>
+      <Desc>Panduan fana bagi wisatawan yang berisi lokasi paling populer di Central Plains.</Desc>
+      <EffectDesc>Membuka lokasi: \nCentral Plains - Five Herbs Village\nCentral Plains - Green Reed Village\nCentral Plains - Flattop Mountain\nCentral Plains - Alchemy Peak\nCentral Plains - Cloud Platform Mountain</EffectDesc>
+    </Text>
+    <Text Name="YouJi_1_3">
+      <DisplayName>Panduan wisatawan: Tepi sungai</DisplayName>
+      <Desc>Panduan fana bagi wisatawan yang berisi lokasi paling populer di kawasan Riverside.</Desc>
+      <EffectDesc>Membuka lokasi: \nLadang Subur - Gunung Lu\nLadang Subur - Gunung Laurel\nLadang Subur - Kota Pegunungan Dingin\nLadang Subur - Desa Padi Wangi\nLadang Subur - Kota Matahari Terbenam</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_1">
+      <DisplayName>Perjalanan Yu Fengzi: Jilid pertama</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Volume pertama mencatat masa tinggalnya di Central Plains.</Desc>
+      <EffectDesc>Membuka lokasi: \nDataran Tengah - Gunung Cloud Platform\nDataran Tengah - Gunung Flattop\nDataran Tengah - Puncak Alkimia\nGunung Harimau Naga - Air Terjun Aliran Terbang\nGunung Harimau Naga - Hutan Kayu Ilahi\nGunung Lima Teratai - Kolam Surgawi</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_2">
+      <DisplayName>Perjalanan Yu Fengzi: Jilid kedua</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang dia rekam selama perjalanannya. Volume kedua mencatat perjalanannya ke wilayah barat laut.</Desc>
+      <EffectDesc>Membuka lokasi: \nGurun Besar - Dataran Pasir Ilusi\nPuncak Surga Tertinggi - Aliran Awan Terbang\nPuncak Surga Tertinggi - Jalur Surga Tertinggi\nGunung Hitam - Hutan Seribu Duri</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_3">
+      <DisplayName>Perjalanan Yu Fengzi: Jilid ketiga</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Jilid ketiga mencatat perjalanannya di wilayah barat.</Desc>
+      <EffectDesc>Membuka lokasi: \nGunung Kunlun - Gua Pembuluh Darah Naga\nGunung Kunlun - Platform Kunlun\nGunung Lubang Tenggelam - Lubang Tanpa Dasar\nGunung Ratusan Serangga - Lubang Berjuta Ular\nGunung Seratus Serangga - Gua Seribu Mayat</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_4">
+      <DisplayName>Perjalanan Yu Fengzi: Jilid keempat</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Jilid keempat mencatat kenaikannya di gunung Shu.</Desc>
+      <EffectDesc>Membuka lokasi: \nGunung Shu - Tebing Ningbi\nGunung Shu - Gua Guntur Mengaum\nGunung Shu - Gua Mata Air Giok\nGunung Shu - Makam Pedang\nGunung Shu - Gua Canxia</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_5">
+      <DisplayName>Perjalanan Yu Fengzi: Volume kelima</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Jilid kelima mencatat kenaikannya di gunung Jiuhua.</Desc>
+      <EffectDesc>Lokasi terbuka: \nGunung Jiuhua - Desa Jiuhua\nGunung Jiuhua - Danau Naga Tersembunyi\nGunung Jiuhua - Tebing Phoenix</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_6">
+      <DisplayName>Perjalanan Yu Fengzi: Volume keenam</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Volume keenam mencatat perjalanannya di Hutan Selatan.</Desc>
+      <EffectDesc>Membuka lokasi: \nHutan Selatan - Lembah Serangga\nHutan Selatan - Hutan Persik Busuk</EffectDesc>
+    </Text>
+    <Text Name="YouJi_2_7">
+      <DisplayName>Perjalanan Yu Fengzi: Volume ketujuh</DisplayName>
+      <Desc>Yu Fengzi yang abadi dalam perjalanan dikenal karena kecintaannya pada landmark terkenal. Buku harian ini berisi beberapa cerita yang ia catat selama perjalanannya. Jilid ketujuh mencatat perjalanannya ke Laut Timur.</Desc>
+      <EffectDesc>Lokasi terbuka: \nPulau Akasia - Lautan Kebencian yang Terlupakan\nPulau Akasia - Kolam Naga Racun</EffectDesc>
+    </Text>
+    <Text Name="YouJi_3">
+      <DisplayName>Sejarah pegunungan dan lautan</DisplayName>
+      <Desc>Kumpulan cerita aneh tentang pertemuan manusia fana dengan makhluk abadi. Ini sangat populer di dunia fana.</Desc>
+      <EffectDesc>Lokasi terbuka: \nGunung Kunlun - Platform Kunlun\nGunung Lima Teratai - Hutan Hujan Kayu Putih</EffectDesc>
+    </Text>
+    <Text Name="YouJi_4_1">
+      <DisplayName>Lokasi Rahasia: Volume Pertama</DisplayName>
+      <Desc>Dikatakan bahwa buku ini ditulis oleh seorang sarjana yang abadi. Ini mencatat beberapa tempat yang tidak diketahui.</Desc>
+      <EffectDesc>Lokasi terbuka: \nGunung Vermillion Cloud - Tebing Awan Vermillion\nGunung Vermillion Cloud - Danau Lima Naga\nGunung Lima Teratai - Kolam Surgawi</EffectDesc>
+    </Text>
+    <Text Name="YouJi_4_2">
+      <DisplayName>Lokasi Rahasia: Volume Kedua</DisplayName>
+      <Desc>Dikatakan bahwa buku ini ditulis oleh seorang sarjana yang abadi. Ini mencatat beberapa tempat yang tidak diketahui.</Desc>
+      <EffectDesc>Lokasi terbuka: \nGunung Shu - Gua Guntur Mengaum\nGunung Shu - Gua Canxia\nGunung Shu - Gua Mata Air Giok</EffectDesc>
+    </Text>
+    <Text Name="YouJi_4_3">
+      <DisplayName>Lokasi Rahasia: Volume Ketiga</DisplayName>
+      <Desc>Dikatakan bahwa buku ini ditulis oleh seorang sarjana yang abadi. Ini mencatat beberapa tempat yang tidak diketahui.</Desc>
+      <EffectDesc>Lokasi terbuka: \nGunung Jiuhua - Tebing Phoenix\nGunung Jiuhua - Danau Naga Tersembunyi\nPulau Akasia - Kolam Naga Racun</EffectDesc>
+    </Text>
+    <Text Name="YouJi_5">
+      <DisplayName>Petualangan Abadi</DisplayName>
+      <Desc>Kumpulan cerita dan rumor yang diturunkan sejak zaman kuno. Ini mencatat beberapa misteri kuno yang bahkan para penggarap akan menganggapnya menakjubkan. Tidak mungkin untuk memverifikasi apakah semua ini benar.</Desc>
+      <EffectDesc>Membuka lokasi: \nRahasia - Teras Naga\nRahasia - Rekahan Dunia Lain\nRahasia - Sisa Istana Santo</EffectDesc>
+    </Text>
+    <Text Name="YouJi_6_1">
+      <DisplayName>Misteri Di Atas Awan: Lingkar Luar</DisplayName>
+      <Desc>Berbagai cerita ganjil dan anekdot ganjil disusun menjadi satu buku oleh seorang daois abadi. Volume ini berisi beberapa rahasia Hutan Selatan dan Sumber Sungai Besar.</Desc>
+      <EffectDesc>Membuka lokasi: \nHutan Selatan - Makam Kaisar Jahat\nRahasia - Sumber Sungai Besar</EffectDesc>
+    </Text>
+    <Text Name="YouJi_6_3">
+      <DisplayName>Misteri Di Atas Awan: Padang Salju yang Hebat</DisplayName>
+      <Desc>Berbagai cerita ganjil dan anekdot ganjil disusun menjadi satu buku oleh seorang daois abadi. Volume ini berisi beberapa petunjuk yang menunjukkan lokasi yang ada di Great Snowfield.</Desc>
+      <EffectDesc>Membuka lokasi: \nLapangan Salju Besar - Lembah Dialidae\nLapangan Salju Besar - Dataran Badai Salju</EffectDesc>
+    </Text>
+    <Text Name="YouJi_6_4">
+      <DisplayName>Misteri Di Atas Awan: Gurun Besar</DisplayName>
+      <Desc>Berbagai cerita ganjil dan anekdot ganjil disusun menjadi satu buku oleh seorang daois abadi. Volume ini berisi beberapa petunjuk yang menunjukkan lokasi yang ada di Gurun Besar.</Desc>
+      <EffectDesc>Membuka lokasi: \nGurun Besar - Istana Segudang Iblis\nGurun Besar - Gua Api</EffectDesc>
+    </Text>
+    <Text Name="NanGongYiCe">
+      <DisplayName>Legenda Kuno: Volume pertama</DisplayName>
+      <Desc>Karya ini mencatat perbuatan para Dewa legendaris di zaman kuno. Gulungan ini berisi catatan dua Dewa - Nangong Hong dan Yuan Ruoxue.\nRumor mengatakan bahwa Nangong Hong adalah anak takdir yang dicintai oleh Surga. Banyak kultivator berbondong-bondong mendatangi mereka seperti burung selama ribuan tahun.\nYuan Ruoxue dikutuk oleh Inti Emas tingkat terendah, namun melawan Surga dan menyempurnakannya ke tingkat tertinggi, menjadi Dewa Abadi yang legendaris.</Desc>
+      <EffectDesc>Lokasi terbuka: \nRahasia - Istana Giok - kediaman Nangong Hong\nRahasia - Gua Giok Berharga di Eerie Grotto</EffectDesc>
+    </Text>
+    <Text Name="QunXianLu_2">
+      <DisplayName>Legenda Kuno: Jilid kedua</DisplayName>
+      <Desc>Karya ini mencatat perbuatan-perbuatan abadi yang legendaris di zaman dahulu times.本册记录的乃是青莲仙人年轻时游历的事迹。\n传闻青莲仙人乃是天上太白星转生,天生乃庚,于飞雷洞飞升。其最终隐居之所数千年来都无人寻到。</Desc>
+      <EffectDesc>Lokasi terbuka: \nRahasia - Gunung Teratai Hijau di Laut Selatan</EffectDesc>
+    </Text>
+    <Text Name="QunXianLu_3">
+      <DisplayName>Legenda Kuno: Volume ketiga</DisplayName>
+      <Desc>Karya ini mencatat perbuatan para dewa abadi yang legendaris di zaman kuno. Volume ini berisi catatan tentang nenek moyang Istana Surga Tertinggi dan perjalanannya setelah pendirian sekte tersebut.\nMenurut legenda, Nenek Moyang Surga Tertinggi mendirikan gua abadi di pegunungan utara dan segera pergi mengembara di dunia fana. Mereka mengatakan bahwa dia diam-diam melindungi murid sektenya selama pelatihan mereka di dunia. Ia telah lama menghilang ke dalam kabut sejarah, meninggalkan banyak rahasia dan legenda, dan salah satu yang paling misterius adalah rahasia tujuan akhirnya.</Desc>
+      <EffectDesc>Mulai misteri: \n古天极符</EffectDesc>
+    </Text>
+    <Text Name="ShangGuYiWen_1">
+      <DisplayName>Misteri Kuno: Volume pertama</DisplayName>
+      <Desc>Buku ini berisi rumor dan legenda zaman kuno.,本册记录的乃是上古龙族禁地Dragon Terrace的秘闻。\n传闻昔日龙族在Dragon Teras adalah tempat yang bagus untuk bersantai. Naga Teras求取机缘。</Desc>
+      <EffectDesc>Lokasi terbuka: \nRahasia - Teras Naga</EffectDesc>
+    </Text>
+    <Text Name="ShangGuYiWen_2">
+      <DisplayName>Misteri Kuno: Jilid kedua</DisplayName>
+      <Desc>Buku ini berisi rumor dan legenda zaman kuno. Volume kedua mencatat berbagai cerita seputar Medan Pertempuran Perang Yang abadi.\n上古时代末期，修行界渐渐诞生正邪之分。随着争端愈演越烈，古修士于南荒之地爆发决战。此战持续月余，打的天崩地裂，生灵涂炭。天地间阴阳之道于此崩裂,竟然于人间显化出烛龙之真形。烛龙一怒,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</Desc>
+      <EffectDesc>Membuka lokasi: \nRahasia - Medan Pertempuran Perang Keabadian</EffectDesc>
+    </Text>
+  </List>
+</Texts>
