@@ -1,0 +1,23 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_FirstNoLing">
+			<DisplayName>Qi roh iblis telah mengering.</DisplayName>
+			<Desc>Qi roh iblis telah habis seluruhnya. Anda harus membuat patung yang sesuai untuk menghidupkannya kembali. Dan proses ini akan memakan waktu tiga hari tiga malam.</Desc>
+			<Selections.0.Display>setuju</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_SecLs">
+			<DisplayName>Roh Iblis Kedua</DisplayName>
+			<Desc>Anda hanya dapat memiliki satu hewan peliharaan. Jika kamu memanggil roh iblis baru Roh iblis ini akan menghilang sesaat. Untuk memanggil roh iblis ini kembali, pertama-tama kamu harus membuat patungnya.</Desc>
+		</Text>
+		<Text Name="Ls_Outspread_Stability">
+			<DisplayName>Kehormatan Naga</DisplayName>
+			<Desc>Naga itu melayang di atas langit yang dipenuhi awan petir hitam disertai guntur dan kilat. Orang-orang melihatnya dengan ketakutan.</Desc>
+			<Selections.0.Display>setuju</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_Outspread_Attractive">
+			<DisplayName>Angsa yang menguntungkan</DisplayName>
+			<Desc>Vermillion Swan melayang di langit selama beberapa hari sebelum menukik ke aula utama dan mengeluarkan tiga tangisan panjang dan indah sebelum terbang menjauh. Kebanyakan orang percaya ini adalah pertanda keberuntungan.</Desc>
+			<Selections.0.Display>setuju</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
