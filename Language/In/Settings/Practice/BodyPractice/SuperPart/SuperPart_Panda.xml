@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Panda_1">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Yin Yang</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Panda Iblis Purba. Gunakan kekuatan Yin dan Yang untuk membentuk tubuh Anda hingga seimbang seperti langit dan bumi. Jika berhasil dipraktekkan maka akan menghasilkan kekuatan yang dapat mengguncang langit dan bumi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\nSedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\nSedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Panda_2">
+			<Prefix>kiri yin</Prefix>
+			<Suffix>benar Yang</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Panda Iblis Purba. Pusatkan energi Yin di lengan kiri Anda dan energi Yang di lengan kanan Anda. Ketika berhasil dilatih, kedua lengan yang disilangkan akan memiliki kekuatan untuk membelah retakan dimensional dan memiliki kekuatan untuk menekan semua senjata magis.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\nSangat meningkatkan kemungkinan menekan senjata magis Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\nSangat meningkatkan kemungkinan menekan senjata magis Fisik Misterius.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
