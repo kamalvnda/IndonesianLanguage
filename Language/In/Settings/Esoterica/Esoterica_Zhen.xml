@@ -1,0 +1,285 @@
+<Texts Type="Lainnya">
+<List>
+	<Text Name="Esoterika_ZhenFa_1">
+		<DisplayName>Ringkasan Taiji Dharma</DisplayName>
+		
+		
+		<Desc>Pengenalan formasi yang diajarkan oleh Taiyimen khusus untuk pemula. Ini mencatat prototipe pusat formasi umum dan mata formasi, yang dapat digunakan oleh pemula untuk menanamkan tata letak dan evolusi formasi. \nFormasi prototipe adalah fondasi dari semua formasi, sehingga dapat digabungkan dengan formasi tingkat tinggi lainnya. Meskipun menggunakan elemen formasi mata sebagai koneksi tidak akan memungkinkan Anda menikmati efek bonus tambahan, setidaknya ini dapat memastikan bahwa formasi tersebut lengkap dan beroperasi.</Desc>
+		<EffectDesc>Tingkatkan sedikit kapasitas beban formasi\nMembuka pusat formasi:\nYuan Zhen-inter\nYuan Zhen-sock\nYuan Zhen-miss\n Yuan Zhen-all\n\nMembuka simpul formasi:\nYuan Zhen eye-knot\n Yuan Zhen eye-right\n Yuan Zhen eye-separated\n Yuan Zhen eye-join\n Yuan Zhen eye-break\n Yuan Zhen eye-wrong\n Yuan Zhen eye-fall\n Yuan Zhen eye-pro.</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_2">
+		<DisplayName>Panduan Empat Formasi Kekaisaran</DisplayName>
+		
+		
+		<Desc>rahasia sekte Taiyimen, yang berisi pengetahuannya tentang formasi. Bentukan-bentukan tersebut merupakan turunan dari bentukan-bentukan paling umum yang tersebar luas di dunia budidaya. Variasi ini seimbang dan sangat mudah beradaptasi.</Desc>
+		<EffectDesc>Sejumlah kecil peningkatan dalam kapasitas beban formasi\nMembuka formasi pusat:\nTepi Tersembunyi Xuan Gang\nMembuka Kutukan Sihir Tersembunyi\nNiat Pedang Yuhe\nSegel Yunzhong Dharma\nMemadatkan Geng Sejati\nPi Zhuan Xuan Teng\nKeseimbangan Konstan di Semua Domain\n\nMembuka simpul formasi:\nPedang\nMetode\nGang\nKetangguhan\nMengisi pertemuan\nKomunikasi\nGang Pedang\nPedang Ketangguhan\nMetode Geng\nMetode Ketangguhan\nTepi Tersembunyi\nKutukan Tersembunyi</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_3">
+		<DisplayName>Album Formasi Kembalinya Semua Binatang</DisplayName>
+		
+		
+		<Desc>Rahasia formasi yang diturunkan dari zaman kuno hingga saat ini didasarkan pada bentuk roh semua binatang, yang unik dan misterius.</Desc>
+		<EffectDesc>Sedikit menambah kapasitas beban formasi\nMembuka pusat formasi:\nScorpion Tail Armor\nSnake Breath Scales\nTurtle Tail Sword\nTurtle Shape Reflection Spell\nTurtle Shell Rock\nFeng Yin Crane\nThunder Cloud Piercing Dragon\nXuanhai Tengjiao\n\nMembuka simpul formasi:\nSword\nMagic\nGang\nTough\nScorpion Tail\nSnake Nafas\nCiuman Buaya\nNyanyian Naga\nBentuk Penyu\nPedang Burung Bangau\nMirage</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_4">
+		<DisplayName>Peta Formasi Kutub Murni Gunung Zhongyuan</DisplayName>
+		
+		
+		<Desc>Itu diturunkan oleh Zhong Yuanshan, formasi sekte terkenal di Abad pertengahan. Filosofi budidaya Gunung Zhongyuan menekankan pada jalan tertinggi, dan metode pembentukan sekte juga menerapkan gagasan ini sampai akhir.</Desc>
+		<EffectDesc>Tingkatkan sedikit kapasitas beban formasi\nMembuka pusat formasi:\nNiat Pedang Yuhe\nSegel Dharma Yunzhong\nMemadatkan Geng Zhen\nPizhuan Xuan Teng\nPoros semua pedang\nPoros sepuluh ribu dharma\nPoros Geng Zhen\nPoros Xuan Teng\n\nMembuka simpul formasi:\nPedang\nFa\nGang\nPedang Tangguh\nTeknik Kondensasi\nChong Geng\nHe Ren\nNiat Pedang\nSegel Dharma\nGeng Zhen\nXuan Ren</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_5">
+		<DisplayName>Catatan Rahasia Kembalinya Terbentuknya Pengaruh Langit dan Bumi</DisplayName>
+		
+		
+		<Desc>mengikuti jalur bentukan alam, buku ini lahir dari zaman dahulu kala. Asal usulnya tidak dapat dijalankan. Jarang diturunkan dalam dunia praktik dan sangat misterius.</Desc>
+		<EffectDesc>Tingkatkan sedikit kapasitas beban formasi\nBuka pusat formasi:\nPisau jarum pinus hujan\nPisau pinus pola kutukan\nDuri tersembunyi di pohon kuno\nRoh tersembunyi di dahan mati\nPinus tua menangkap batu\nBaut tepi tetap\nFeng Yun Hengfa\nShen Feng Che Di\nPasir terbang kutukan suci\n\nMembuka simpul formasi:\nPedang\nFa\nGang\nTough\nPinus jarum\nPola kuno\nPelindung tanaman anggur</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_6">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Garis Besar Umum</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi\nMembuka pusat formasi:\nLangit dan bumi selaras\nAngin dan guntur harus berada di tengah\nYang menghasilkan Yang\nYang mempolarisasi Yin\nJalan Xuanyin\nJalan menuju Yang\n\nMembuka simpul formasi:\nLangit\nBumi\nAir\nApi\nGuntur\nAngin\nGunung\nZe</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_7">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Qiantian</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi\nMembuka simpul formasi:\ngan\ntai\nhewan besar yang kuat\nkebutuhan besar\n夬\nhewan kecil</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_8">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Kundi</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\nTidak\nKun\nYu\nPeel\nJin\nBi\nCui\nGuan</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_9">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Guntur</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\n无无\nFu\nZhen\n鐐\n雑\n屯\nSui\nyi</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_10">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Xunfeng</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\n姤\nSheng\nHeng\nGu\nTripod\nYah\nDa Guo\nXun</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_11">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Kanshui</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\nLitigasi\nShi\nSolusi\nMeng\nWeiji\nKan\nKesulitan\nHuan</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_12">
+		<DisplayName>Array Ilahi bawaan Heluo: Bab Lihuo</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\nDouren\nMingyi\nFeng\nBian\nLi\nJiji\nGe\nKeluarga</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_13">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Genshan</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi\nBuka kunci node formasi:\nDun\nQian\nXiaoguo\nGen\nlv\nJian\nXian\n secara bertahap</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_14">
+		<DisplayName>Formasi Ilahi bawaan Heluo: Bab Duize</DisplayName>
+		
+		
+		<Desc>Mengambil misteri Bagua untuk membentuk formasi dan meniru cara leluhur Heluo, telah lama hilang di zaman modern.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nMembuka simpul formasi:\nLu\nLin\nGui Mei\nKerugian\n罽\nJie\nDui\nZhongfu</EffectDesc>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_15">
+		<DisplayName>Formasi Ilahi Bawaan Heluo: Solusi Sejati untuk Kaisar Iblis</DisplayName>
+		
+		
+		<Desc>Kaisar Iblis Fu Pikong menggunakan bakatnya yang tak tertandingi untuk mengatur ulang Formasi Xiantian Heluo dan menciptakan mata transformasinya, yang sangat memperluas penerapan metode pembentukan. Ini adalah karya unik yang menghubungkan masa lalu dan masa depan.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi secara besar-besaran\nTingkatkan skala formasi\nMembuka simpul formasi:\nDua puluh empat formasi dewa bawaan berubah menjadi mata formasi</EffectDesc>
+	</Text> 
+	
+	
+	<Text Name="Esoterika_ZhenFa_16">
+		<DisplayName>Formasi Transformasi Surgawi: Jalan Matahari dan Bulan</DisplayName>
+		
+		
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Sangat meningkatkan kapasitas beban formasi\nMembuka pusat formasi:\nMatahari dan menyusutnya matahari dan bulan\n\nMembuka simpul formasi:\nMatahari dan langit\nMatahari dan guntur\nMatahari dan udara\nMatahari dan gunung\nBulan dan bumi\nBulan dan angin\nBulan dan api\nBulan dan ze</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_17">
+		<DisplayName>Formasi Transformasi Surgawi: Jalan Yin dan Yang</DisplayName>
+		
+		
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Meningkatkan kapasitas beban formasi secara besar-besaran\nMembuka formasi pusat:\nYin dan Yang naik dan turun\n\nMembuka simpul formasi:\nYang menghasilkan langit\nYang menghasilkan guntur\nYang menghasilkan udara\nYang menghasilkan gunung\nYin menghasilkan tanah\nYin menghasilkan angin\nYin menghasilkan api\nYin menghasilkan Ze</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_18">
+		<DisplayName>Formasi Transformasi Surgawi: Jalan Alam Semesta</DisplayName>
+		
+		
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Meningkatkan kapasitas beban formasi secara signifikan\nMembuka pusat formasi:\nPerkembangan alam semesta\n\nMembuka simpul formasi:\nYuhuatian\nYuhualei\nYuhuawater\nYuhuashan\nYuhualand\nAngin kosmos\nApi Zhouhua\nZhouhuaze</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_19">
+		<DisplayName>Formasi Transformasi Surgawi: Jalan dari Akhir</DisplayName>
+		
+		
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi secara besar-besaran\nMembuka formasi pusat:\nSelalu memutar\n\nMembuka simpul formasi:\nMulai dari langit\nMulai dari guntur\nMulai dari udara\nMulai dari gunung\nAkhirnya ke bumi\nAkhirnya ke angin\nAkhirnya ke api\nAkhirnya ke sungai</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_20">
+		<DisplayName>Formasi Transformasi Surgawi: Cara Hidup dan Mati</DisplayName>
+		
+		
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Sangat meningkatkan kapasitas beban formasi\nMembuka pusat formasi:\nSemua benda dilahirkan dan dihancurkan\n\nMembuka simpul formasi:\nLahir di langit yang sama\nLahir di guntur yang sama\nLahir di udara yang sama\nLahir di gunung yang sama\nHancur di tempat yang sama\nHancur dalam angin yang sama\nHancur dalam api yang sama\nHancur di sungai yang sama</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_21">
+		<DisplayName>Array Transformasi Surgawi: Cara Penciptaan</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Tingkatkan kapasitas beban formasi secara besar-besaran\nMembuka formasi pusat:\nMisteri penciptaan\n\nMembuka simpul formasi:\nDibuat menjadi langit\nDibuat menjadi guntur\nDibuat menjadi udara\nDibuat menjadi gunung\nMenjadi bumi\nMenjadi angin\nMenjadi api\nMenjadi danau</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_22">
+		<DisplayName>Formasi Hongmeng: Pembukaan Langit dan Bumi</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Meningkatkan kapasitas muatan formasi secara signifikan\nMembuka pusat formasi:\nHongmeng\n\nMembuka simpul formasi:\nMembuka dunia</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_23">
+		<DisplayName>Formasi Hongmeng: Turunan Ruang dan Waktu</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Sangat meningkatkan kapasitas muatan formasi\nMembuka kunci formasi:\nHongmeng\n\nMembuka simpul formasi:\nDerivasi ruang-waktu pusat</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_24">
+		<DisplayName>Formasi Hongmeng: Semua Roh Tumbuh</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Meningkatkan kapasitas muatan formasi secara signifikan\nMembuka formasi:\nHongmeng\n\nMembuka simpul formasi:\nSemua Roh Tumbuh</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_25">
+		<DisplayName>Formasi Hongmeng: Langit dan Bumi Kembali Hening</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Sangat meningkatkan kapasitas beban formasi\nMembuka pusat formasi:\nHongmeng\n\nMembuka simpul formasi:\nSurga dan Bumi Tenang</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_26">
+		<DisplayName>Formasi Hongmeng: Kemunduran Ruang dan Waktu</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Sangat meningkatkan kapasitas beban formasi\nMembuka pusat formasi:\nHongmeng\n\nMembuka simpul formasi:\nPeluruhan ruang dan waktu</EffectDesc>
+	</Text> 
+	<Text Name="Esoterika_ZhenFa_27">
+		<DisplayName>Formasi Hongmeng : Segala sesuatu yang hancur</DisplayName>
+		<Desc>Arti mendalam dari bentuk yang dipahami dari jalan langit dan bumi.</Desc>
+		<EffectDesc>Meningkatkan kapasitas muatan formasi secara signifikan\nMembuka formasi:\nHongmeng\n\nMembuka simpul formasi:\nSemua pusat benda dihancurkan</EffectDesc>
+	</Text> 
+	
+	
+	
+	<Text Name="Esoterika_ZhenFa_Suit1">
+		<DisplayName>Membunuh Formasi Pedang Abadi</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Pedang Zhuxian. Konon formasi ini merupakan formasi pembunuhan pertama pada zaman dahulu. Semuanya tidak bisa dihancurkan dan semuanya tidak bisa dihancurkan.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan array secara besar-besaran\nTingkatkan skala array\nBuka kunci peta array kuno:\nZhuxian Sword Array</EffectDesc>
+		<ZhenShapes.0.Name>Membunuh Formasi Pedang Abadi</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Formasi pembunuhan pertama sejak penciptaan alam semesta, peta formasi menyebar dan berubah menjadi empat gerbang bendera, dengan pedang tergantung di setiap gerbang bendera, mengelilingi pusatnya. Di bawah desakan Yuan Ling, keempat pedang itu bergetar bersama, dan energi pedang menyebar dengan bebas dalam formasi, sehingga menyulitkan bahkan Dewa Sepuluh Ribu Kesengsaraan untuk bertahan hidup.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit2">
+		<DisplayName>Formasi Pembantaian Iblis Beidou Zhenwu</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Pembunuh Iblis Bela Diri Sejati Beidou. Dikatakan bahwa formasi ini dapat menarik cahaya ilahi menghancurkan Beidou dan memiliki kekuatan untuk menghancurkan semua iblis.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan array secara besar-besaran\nTingkatkan skala array\nBuka kunci diagram array kuno:\nBeidou Zhenwu Demon-Slaying Array</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Pembantaian Iblis Beidou Zhenwu</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Dikabarkan bahwa Formasi Abadi diturunkan oleh Kaisar Agung Zhenwu Dangmo dari Alam Abadi Sembilan Surga. Formasi ini dapat menarik kekuatan Tujuh Bintang untuk memadatkan Cahaya Ilahi Penghancur Beidou, membunuh iblis, dan menangkal segala kejahatan.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit3">
+		<DisplayName>Formasi Abadi dari Lima Penjuru Langit dan Bumi</DisplayName>
+		<Desc>Ini mencatat peta rahasia terbentuknya abadi dari lima penjuru langit dan bumi. Konon formasi ini dapat membentuk penghalang abadi dengan bendera lima penjuru langit dan bumi untuk melindungi dunia sekitarnya.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan tata secara besar-besaran\nTingkatkan skala susunan\nBuka kunci diagram susunan kuno:\nFormasi Abadi Lima Arah Langit dan Bumi</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Abadi dari Lima Penjuru Langit dan Bumi</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Formasi besar tersebut didasarkan pada lima bendera persegi yang lahir pada awal mula dunia. Utara disebut Zhenwu Zaodiao, selatan disebut Li Di Yanguang, tengah disebut Wuji Xinghuang, barat disebut dunia awan polos, dan timur disebut Qinglian Baose. Pengumpulan lima elemen dapat menyebarkan dunia abadi ke lima penjuru langit dan bumi. Semua hukum bisa diubah dan tidak ada yang bisa melanggarnya.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit4">
+		<DisplayName>Ritual Enam Raja Kerajaan di Surga</DisplayName>
+		<Desc>Spektrum rahasia menyusun yang mencatat diagram umum ritual enam istana kerajaan di surga. Dikatakan bahwa susunan ini adalah susunan suasana spiritual dari enam istana kerajaan di surga. Formasi tersebut dapat mengubah dunia manusia menjadi negeri dongeng, menjadikan pikiran masyarakat jernih dan bebas dari rasa khawatir.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nBuka kunci peta formasi kuno:\nRitual enam gerakan pemerintahan di surga</EffectDesc>
+		<ZhenShapes.0.Name>Ritual Enam Raja Kerajaan di Surga</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Mengikuti ritual Enam Raja Surgawi, menyiapkan susunan ini dapat membuka alam spiritual murni Enam Raja Surgawi, mengubah dunia fana menjadi negeri dongeng, dan membuat pikiran orang jernih dan bebas dari rasa khawatir. .</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit5">
+		<DisplayName>Formasi Sembilan Naga kekaisaran</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Sembilan Naga Kerajaan. Dikabarkan bahwa formasi ini adalah formasi naga, dan jiwa naga dapat digunakan untuk melakukan beberapa formasi kuat dan kekuatan magis.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan susunan\nBuka kunci diagram susunan kuno:\nFormasi Sembilan Naga Kerajaan</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Sembilan Naga Kekaisaran</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Formasi aneh yang dibangun dengan tubuh naga sebagai dasarnya. Dikabarkan bahwa formasi ini merupakan formasi pengendali naga. Formasi tersebut dapat menggunakan jiwa naga untuk menampilkan beberapa kekuatan magis yang kuat.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit6">
+		<DisplayName>Formasi Bulu Pedang Phoenix Sejati</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Pedang Bulu Phoenix Sejati. Formasi yang dikabarkan ini merupakan formasi untuk mengendalikan burung phoenix. Formasi tersebut dapat menggunakan jiwa phoenix untuk melakukan beberapa formasi yang kuat dan kekuatan magis.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan larik\nBuka kunci diagram larik kuno:\nArray Pedang Bulu Phoenix Sejati</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Bulu Pedang Phoenix Sejati</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Formasi aneh berdasarkan tubuh burung phoenix yang ganas. Dikabarkan formasi ini merupakan formasi untuk melindungi burung phoenix. Formasi tersebut dapat menggunakan jiwa phoenix untuk melakukan beberapa formasi yang kuat dan kekuatan magis.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit7">
+		<DisplayName>Formasi Ilahi Dua Elemen Yin dan Yang</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Ilahi Yin dan Yang. Formasi Konon ini disusun dengan memanfaatkan jalur Yin dan Yang. Ini adalah fase Yin dan Yang dan sangat fleksibel.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan larik\nBuka kunci diagram larik kuno:\nArray Ilahi Dua Elemen Yin dan Yang</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Ilahi Dua Elemen Yin dan Yang</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Bentukan ini terangkum dari aliran yin dan yang di langit dan bumi. Dikatakan bahwa formasi ini diatur dengan mengendalikan jalan yin dan yang. Ini adalah fase yin dan yang dan sangat fleksibel.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit8">
+		<DisplayName>Tiga Yin dan Tiga Formasi Absolut</DisplayName>
+		<Desc>Ini mencatat peta rahasia formasi Tiga Yin dan Tiga Jue. Dikatakan bahwa formasi ini terbuat dari kekuatan Yin murni, dan kekuatan meningkat pesat dengan menggunakannya untuk mengendalikan hukum.</Desc>
+		<EffectDesc>Tambahkan kapasitas muatan susunan\nBuka kunci peta susunan kuno:\nTiga Yin dan Tiga Formasi Utama</EffectDesc>
+		<ZhenShapes.0.Name>Tiga Yin dan Tiga Formasi Absolut</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Dengan bantuan formasi yang disusun oleh yin murni dari tiga talenta langit, bumi dan manusia, dikatakan bahwa formasi ini dapat mengumpulkan kekuatan yin murni di dunia untuk mengendalikan hukum dan kekuatannya meningkat pesat.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit9">
+		<DisplayName>Formasi Pedang Kesengsaraan Surgawi Xuanjin delapan pintu</DisplayName>
+		<Desc>Ini mencatat peta rahasia Formasi Pedang Kesengsaraan Surgawi Delapan Gerbang. Pembentukan konon ini terbentuk berdasarkan prinsip Delapan Gerbang. Anda dapat membunuh saat maju, dan Anda dapat melindungi diri sendiri saat mundur. Ini sangat misterius.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan formasi\nBuka kunci peta formasi kuno:\nFormasi Pedang Kesengsaraan Surgawi Xuanjin Delapan Pintu</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Pedang Kesengsaraan Surgawi Xuanjin delapan pintu</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Konon formasi ini didasarkan pada prinsip delapan gerbang. Anda dapat membunuh saat maju, dan Anda dapat melindungi diri sendiri saat mundur. Ini sangat misterius.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit10">
+		<DisplayName>Formasi Ilahi Kayu Purba</DisplayName>
+		<Desc>Ini mencatat peta rahasia formasi dewa kayu A-Y bawaan. Formasi konon ini dapat membangkitkan energi pertumbuhan langit dan bumi serta menghidupkan kembali segala sesuatu.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan larik\nBuka kunci diagram larik kuno:\nArray Kayu A-B bawaan</EffectDesc>
+		<ZhenShapes.0.Name>Formasi Ilahi Kayu Purba</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Intisari dari kayu A dan B bawaan dikumpulkan menjadi sebuah susunan. Dikatakan bahwa susunan ini dapat membangkitkan energi pertumbuhan di langit dan bumi serta menghidupkan kembali segala sesuatu.</ZhenShapes.0.Descript>
+	</Text> 
+	
+	<Text Name="Esoterika_ZhenFa_Suit11">
+		<DisplayName>Kota Wufeng Guixu</DisplayName>
+		<Desc>Ini mencatat peta rahasia Kota Wufeng Guixu. Konon formasi ini dapat melindungi suatu kawasan berbentuk lima puncak dan tidak dapat dihancurkan.</Desc>
+		<EffectDesc>Tingkatkan kapasitas muatan susunan\nBuka kunci peta susunan kuno:\nKota Wufeng Guixu</EffectDesc>
+		<ZhenShapes.0.Name>Kota Wufeng Guixu</ZhenShapes.0.Name>
+		<ZhenShapes.0.Descript>Formasi tersebut dibentuk dengan esensi dari Lima Puncak Dewa Guixu. Konon formasi ini dapat melindungi suatu area berbentuk lima puncak sehingga tidak bisa dihancurkan.</ZhenShapes.0.Descript>
+	</Text> 
+</List>
+</Texts>
