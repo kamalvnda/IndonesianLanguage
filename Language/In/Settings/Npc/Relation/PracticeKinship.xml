@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PracticeMaster">
+			<DisplayNameF>pengajar</DisplayNameF>
+			<DisplayNameM>pengajar</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChild">
+			<DisplayNameF>murid</DisplayNameF>
+			<DisplayNameM>murid</DisplayNameM>
+		</Text>
+		<Text Name="PracticeMasterMaster">
+			<DisplayNameF>Tuan Paman</DisplayNameF>
+			<DisplayNameM>Tuan Paman</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChildChild">
+			<DisplayNameF>Cucu</DisplayNameF>
+			<DisplayNameM>Cucu</DisplayNameM>
+		</Text>
+		<Text Name="PracticeBrother">
+			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
+			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherBrother">
+			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
+			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMaster">
+			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
+			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChild">
+			<DisplayNameF>Cucu</DisplayNameF>
+			<DisplayNameM>Cucu</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMasterMaster">
+			<DisplayNameF>Tuan Pu</DisplayNameF>
+			<DisplayNameM>Tuan Pu</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChildChild">
+			<DisplayNameF>Cucu</DisplayNameF>
+			<DisplayNameM>Cucu</DisplayNameM>
+		</Text>
+	</List>
+</Texts>
