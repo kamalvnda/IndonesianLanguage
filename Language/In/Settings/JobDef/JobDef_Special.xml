@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobFreePatrol">
+      <DisplayName>Ronda</DisplayName>
+    </Text>
+    <Text Name="JobFreeFollow">
+      <DisplayName>Mengikuti</DisplayName>
+    </Text>
+    <Text Name="JobFollow">
+      <DisplayName>Mengikuti</DisplayName>
+    </Text>
+  </List>
+</Texts>
