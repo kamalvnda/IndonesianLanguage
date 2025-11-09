@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_1">
+			<DisplayName>Sembilan dewa petir surgawi</DisplayName>
+			<Desc>Sebuah metode untuk mengembangkan kekuatan para dewa yang telah lama menghilang sejak zaman kuno. Ini adalah metode penanaman dengan mengambil keyakinan makhluk hidup untuk mengubahnya menjadi kekuatan ilahi. Berbagai sekte yang mempraktikkan penanaman dewa semuanya memiliki metode penanaman yang serupa. Perbedaannya hanya pada metode mengubah kekuatan iman menjadi mentransformasikan energi ilahi dan menggunakan energi ilahi tersebut sebagai media untuk memanggil dewa penjaga yang berbeda. Teknik Ilahi Petir Sembilan Surga adalah teknik yang diwarisi dari Dewa Petir dari zaman kuno. Dalam pelatihan teknik ini, praktisi akan fokus menggunakan petir surgawi sebagai media untuk memanggil penjaga. Subjek ini luar biasa dalam menggunakan senjata magis untuk menyerang musuh.</Desc>
+			<SelectDesc>Penggarap Jalan Ilahi berbeda dari Penggarap Jalan Suci karena mereka mengandalkan keyakinan makhluk hidup untuk berlatih. Dan meskipun tidak ada persyaratan bakat untuk mengembangkan Jalan Ilahi, Namun Anda tetap harus memiliki tingkat kecerdasan yang sangat tinggi jika ingin mencapai puncak. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Kultivasi Ilahi?</SelectDesc>
+			<Stages.0.DisplayName>pertapa</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Pengorbanan</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Sempurnakan pikiran Anda</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>penciptaan</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>lima jalur</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Perintah: Lima Jalan</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>petir</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Perintah: Petir</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Yin Yang</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Perintah: Yin Yang</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Alam para dewa</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>nirwana</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Di atas dunia</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
