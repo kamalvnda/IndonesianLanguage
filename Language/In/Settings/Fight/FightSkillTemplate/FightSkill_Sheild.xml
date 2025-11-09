@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TSheildSkill">
+			<DisplayName>Peningkatan Perlindungan</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong5_1">
+			<DisplayName>Perisai Koagula</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong4_1">
+			<DisplayName>Perisai Roh</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong11_1">
+			<DisplayName>Batalkan Perlindungan</DisplayName>
+		</Text>
+	</List>
+</Texts>
