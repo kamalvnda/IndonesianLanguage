@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcDiscipleOfJinDan">
+			<Notes>Pendapat tentang para penggarap Saint Way</Notes>
+			<Title>Praktisi Saint Way</Title>
+			<Desc>Seorang praktisi yang mempraktikkan Hukum Esensi Emas untuk mengejar keabadian. Bahkan jika seorang kultivator Jalan Suci memilih aturan yang sulit, Tetapi Hukum Keagungan juga membantu Anda memahami dunia sepenuhnya, yang mengarah pada kebebasan tertinggi. Meski kekuatan mereka terbatas, Namun mereka mampu menciptakan formasi untuk menggabungkan kekuatan menghadapi musuh. di atas segalanya Mereka juga ahli dalam alkimia dan menulis jimat magis. Ubah hukum alam dengan berbagai mantra magis. Tidak ada keraguan bahwa mereka adalah pilar dunia kultivasi.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfGod">
+			<Notes>Pendapat tentang Penggarap Jalan Ilahi</Notes>
+			<Title>Penggarap Jalan Ilahi</Title>
+			<Desc>Seorang kultivator yang mengumpulkan kekuatan keyakinan dari manusia untuk mencari jalan para dewa. Meskipun mereka kuat karena mereka bisa mendapatkan kekuatan tak terbatas dari keyakinan mereka yang tak terbatas. Namun, mereka akan kehilangan identitas mereka secara permanen karena dirasuki oleh keyakinan mereka dan akhirnya menjadi dewa murni.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfBody">
+			<Notes>Pendapat tentang Penggarap Fisik Abadi</Notes>
+			<Title>Praktisi fisik</Title>
+			<Desc>Metode budidaya zaman dahulu Mengendalikan hakikat kehidupan antara langit dan bumi untuk membentuk tubuh manusia biasa menjadi tubuh abadi. Penggarap Fisik Abadi pandai bertarung karena mereka fokus menggunakan kekuatan fisik dalam latihan mereka. Bahkan pemula yang melatih gerakan dasar bisa dengan cepat menjadi kuat dalam pertarungan. Namun, metode pemurnian tubuh hanya berfokus pada tubuh sendiri, jadi meskipun mereka menyerap energi antara langit dan bumi, itu hanya akan menghasilkan imbalan dalam jumlah kecil. Akibatnya, sulit bagi mereka untuk terus berlatih. Dan seiring berjalannya waktu, akhirnya terlihat bahwa akan sulit bagi mereka untuk bersaing dengan para penggarap Jalan Suci. Jadi, kondisinya perlahan-lahan memburuk seiring berjalannya waktu</Desc>
+		</Text>
+		<Text Name="NpcWaiMen">
+			<Notes>Pendapat tentang siswa luar</Notes>
+			<Title>orang biasa</Title>
+			<Desc>Mereka yang belum pernah menginjakkan kaki ke dalam perisai budidaya seperti daun yang tertiup maju mundur di masa-masa sulit.</Desc>
+		</Text>
+		<Text Name="NpcDaNeng">
+			<Notes>Pendapat tentang Grandmaster</Notes>
+			<Title>Penggarap Kuno</Title>
+			<Desc>Penggarap yang tertidur karena mengeringnya Qi alami mereka di zaman kuno. Kini dia telah terbangun dan muncul. Orang-orang ini sangat berkuasa.</Desc>
+		</Text>
+		<Text Name="NpcPuppet">
+			<Notes>Pendapat tentang wayang</Notes>
+			<Title>wayang</Title>
+			<Desc>Sosok humanoid yang dikendalikan oleh energi magis. Mereka dapat membantu tugas-tugas dasar.</Desc>
+		</Text>
+		<Text Name="NpcZombie">
+			<Notes>Pendapat tentang zombie</Notes>
+			<Title>zombi</Title>
+			<Desc>dengan feng shui yang buruk Sesuatu telah bermutasi menjadi sesuatu yang tidak dipikirkan dan haus darah.</Desc>
+		</Text>
+		<Text Name="NpcTeacher">
+			<Notes>Pendapat tentang kultivator misterius</Notes>
+			<Title>Penggarap Misterius</Title>
+		</Text>
+	</List>
+</Texts>
