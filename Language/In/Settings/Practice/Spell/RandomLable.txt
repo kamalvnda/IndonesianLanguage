@@ -1,0 +1,59 @@
+Name	IsAddp	Level1	Level2	Level3	Level4	Desc
+nama atribut	Apakah ituAddp	nilai numerik1	nilai numerik2	nilai numerik3	nilai numerik4	Komentar tidak ada arti logis
+GlobalEfficiency	1	0.1	0.2	0.3	0.4	Kecepatan kerja global
+DrugProductSpeed	1	0.1	0.2	0.3	0.4	kecepatan pengobatan
+TreatmentExpectQuality	1	0.1	0.2	0.3	0.4	Efek terapeutik
+CookingSpeed	1	0.1	0.2	0.3	0.4	kecepatan memasak
+ButcherSpeed	1	0.1	0.2	0.3	0.4	Kecepatan penyembelihan
+ButcherYieldEfficiency	1	0.05	0.1	0.15	0.2	hasil pemotongan
+StoneWorkSpeed	1	0.1	0.2	0.3	0.4	Kecepatan pemrosesan batu
+ConstructionSpeed	1	0.1	0.2	0.3	0.4	kecepatan konstruksi
+PlantWorkSpeed	1	0.1	0.2	0.3	0.4	Kecepatan tanam
+PlantHarvestSpeed	1	0.1	0.2	0.3	0.4	Kecepatan panen
+PlantHarvestYieldEfficiency	1	0.05	0.1	0.15	0.2	hasil panen
+MiningSpeed	1	0.1	0.2	0.3	0.4	Kecepatan penambangan
+MiningYieldEfficiency	1	0.05	0.1	0.15	0.2	Produksi ekstraktif
+MadeQualityAddValue	0	0.05	0.1	0.15	0.2	Bonus kualitas produksi
+SmithingSpeed	1	0.1	0.2	0.3	0.4	Kecepatan penempaan
+HandworkSpeed	1	0.1	0.2	0.3	0.4	kecepatan manual
+TailoringSpeed	1	0.1	0.2	0.3	0.4	kecepatan menjahit
+CuttingSpeed	1	0.1	0.2	0.3	0.4	Kecepatan potong
+DisasterFightingSpeed	1	0.1	0.2	0.3	0.4	Kecepatan bantuan bencana
+CleanSpeed	1	0.1	0.2	0.3	0.4	Kecepatan pembersihan
+BaseEmotionAddV		2	4	6	8	Nilai dasar suasana hati
+MoveSpeed	1	0.1	0.2	0.3	0.4	Kecepatan gerakan
+ToleranceTMin		-5	-10	-15	-20	suhu ekstrim terendah
+ToleranceTMax		10	20	30	40	batas suhu maksimum
+RecoveryPower	1	0.1	0.2	0.3	0.4	ketahanan alami
+PainTolerance	1	0.1	0.2	0.3	0.4	batas rasa sakit
+IntelligenceSkillEXPConstant	1	0.1	0.2	0.3	0.4	kecepatan belajar
+NightmareHappenPercent		0.02	0.04	0.06	0.08	Kemungkinan mimpi buruk
+NiceDreamHappenPercent		0.02	0.04	0.06	0.08	Kemungkinan terjadinya mimpi indah
+FatigueConsumeConstant	1	-0.1	-0.2	-0.3	-0.4	Bonus kecepatan konsumsi energi
+FatigueRecoveryConstant	1	0.1	0.2	0.3	0.4	Bonus pengisian energi
+NutritionConsumeConstant	1	-0.1	-0.2	-0.3	-0.4	Bonus kecepatan konsumsi makanan
+NutritionConsumeConstant	1	0.5	1	1.5	2	Bonus kecepatan konsumsi makanan
+NutritionRecoveryConstant	1	0.1	0.2	0.3	0.4	Bonus suplemen makanan
+WaterConsumeConstant	1	-0.1	-0.2	-0.3	-0.4	Bonus kecepatan konsumsi air minum
+WaterRecoveryConstant	1	0.1	0.2	0.3	0.4	Bonus suplemen air minum
+HappyConsumeConstant	1	-0.1	-0.2	-0.3	-0.4	Bonus kecepatan konsumsi hiburan
+HappyRecoveryConstant	1	0.1	0.2	0.3	0.4	suplemen hiburan
+PracticeFoodConsumeConstant	1	0.1	0.2	0.3	0.4	Bonus kecepatan pemurnian esensi
+PracticeFoodRecoveryConstant	1	0.1	0.2	0.3	0.4	Bonus suplemen esensi
+PotentialOfBasepracticeAddValue		0.1	0.2	0.3	0.5	Potensi bonus
+DeepPracticeSpeedSpecialCoefficient	1	0.15	0.3	0.45	0.6	Bonus kecepatan pelatihan
+MindStateBaseValue		5	10	15	20	bonus suasana hati
+InspirationCoefficient	1	0.25	0.5	0.75	1	Pahami kemungkinan terjadinya
+FabaoMake_SpeedAddV		0.05	0.1	0.15	0.2	Bonus kecepatan pemurnian senjata ajaib
+FabaoMake_SuccessRateAddV		0.1	0.15	0.2	0.25	Bonus efisiensi pemurnian senjata ajaib
+FabaoMake_LingInheritRateAddV		0.1	0.15	0.2	0.25	Bonus level pemurnian senjata ajaib
+FabaoMake_QualityAddV		0.025	0.05	0.075	0.1	Bonus kualitas pemurnian senjata ajaib
+FabaoMake_TwelveRateChance		0.005	0.01	0.015	0.02	Bonus untuk kemungkinan membuat artefak
+DanMake_SpeedAddV		0.05	0.1	0.15	0.2	Bonus kecepatan pemurnian pil
+DanMake_SuccessRateAddV		0.05	0.1	0.15	0.2	Bonus efisiensi pemurnian ramuan
+DanMake_YieldAddP		0.1	0.15	0.2	0.25	Bonus hasil pemurnian ramuan
+PracticeRateAddPFromDan	1	0.1	0.15	0.2	0.25	Koefisien bonus probabilitas terobosan kemacetan
+WorldMapFlySpeedAddP	0	0.2	0.4	0.6	0.8	Rasakan kecepatan terbang
+AbilityLvAddV		-2	-4	-6	-8	Bonus Daoxing
+NpcFight_BaseHitChance		0.15	0.3	0.45	0.6	serangan tempur
+NpcFight_BaseDodgeChance		0.1	0.15	0.2	0.25	pertempuran menghindar
