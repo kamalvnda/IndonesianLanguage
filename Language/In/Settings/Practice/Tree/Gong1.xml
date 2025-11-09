@@ -1,0 +1,109 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong1_a0">
+			<DisplayName>Kontrak jiwa</DisplayName>
+		</Text>
+		<Text Name="Gong1_a1">
+			<DisplayName>Berikan jiwamu</DisplayName>
+		</Text>
+		<Text Name="Gong1_a4">
+			<DisplayName>pikiran musim semi</DisplayName>
+		</Text>
+		<Text Name="Gong1_a6">
+			<DisplayName>telapak nafas</DisplayName>
+		</Text>
+		<Text Name="Gong1_a8">
+			<DisplayName>Penyembuhan Qi</DisplayName>
+		</Text>
+		<Text Name="Gong1_b0">
+			<DisplayName>Hujan menari</DisplayName>
+		</Text>
+		<Text Name="Gong1_b1">
+			<DisplayName>menyerukan hujan</DisplayName>
+		</Text>
+		<Text Name="Gong1_b2">
+			<DisplayName>Periksa Feng Shui</DisplayName>
+		</Text>
+		<Text Name="Gong1_b4">
+			<DisplayName>Jantung dipadukan dengan nafas</DisplayName>
+		</Text>
+		<Text Name="Gong1_b5">
+			<DisplayName>Bersihkan pikiran</DisplayName>
+		</Text>
+		<Text Name="Gong1_b7">
+			<DisplayName>Flora Hati</DisplayName>
+		</Text>
+		<Text Name="Gong1_b7_1">
+			<DisplayName>Hujan</DisplayName>
+		</Text>
+		<Text Name="Gong1_b8">
+			<DisplayName>aliran surgawi</DisplayName>
+		</Text>
+		<Text Name="Gong1_b8_1">
+			<DisplayName>Aura misterius</DisplayName>
+		</Text>
+		<Text Name="Gong1_b10">
+			<DisplayName>laut biru</DisplayName>
+		</Text>
+		<Text Name="Gong1_c0">
+			<DisplayName>Fokuskan pikiran Anda dan latih pernapasan Anda.</DisplayName>
+		</Text>
+		<Text Name="Gong1_c0_1">
+			<DisplayName>Cermin air</DisplayName>
+		</Text>
+		<Text Name="Gong1_c1">
+			<DisplayName>Nafas Roh</DisplayName>
+		</Text>
+		<Text Name="Gong1_c2">
+			<DisplayName>Sihir yang terlahir kembali</DisplayName>
+		</Text>
+		<Text Name="Gong1_c3">
+			<DisplayName>selancar awan</DisplayName>
+		</Text>
+		<Text Name="Gong1_c3_1">
+			<DisplayName>teknik pergerakan angin</DisplayName>
+		</Text>
+		<Text Name="Gong1_c4">
+			<DisplayName>jeram</DisplayName>
+		</Text>
+		<Text Name="Gong1_c4_1">
+			<DisplayName>jantung lautan</DisplayName>
+		</Text>
+		<Text Name="Gong1_c9">
+			<DisplayName>Kayavari</DisplayName>
+		</Text>
+		<Text Name="Gong1_c10">
+			<DisplayName>Denyut Pranvari</DisplayName>
+		</Text>
+		<Text Name="Gong1_c11">
+			<DisplayName>perangkat lunak</DisplayName>
+		</Text>
+		<Text Name="Gong1_d0">
+			<DisplayName>hujan badai</DisplayName>
+		</Text>
+		<Text Name="Gong1_d0_1">
+			<DisplayName>Wilayah Thara</DisplayName>
+		</Text>
+		<Text Name="Gong1_d1">
+			<DisplayName>Kelahiran Roh Hitam</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5">
+			<DisplayName>Qi bertemu</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5_1">
+			<DisplayName>Qi bertemu</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5_2">
+			<DisplayName>Qi bertemu</DisplayName>
+		</Text>
+		<Text Name="Gong1_d8">
+			<DisplayName>semangat pencerahan</DisplayName>
+		</Text>
+		<Text Name="Gong1_1_e4">
+			<DisplayName>Pengobatan Langit Ilahi</DisplayName>
+		</Text>
+		<Text Name="Gong1_1_e8">
+			<DisplayName>Keterampilan Penempaan Surgawi</DisplayName>
+		</Text>
+	</List>
+</Texts>
