@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>kehilangan sesuatu</DisplayName>
+		</Text>
+		<Text Name="SYS_ATK">
+			<DisplayName>Pose serangan</DisplayName>
+			<Desc>Seorang Penggarap Fisik Abadi akan menyerang musuh dengan sekuat tenaga. Namun, ini akan melemahkan kemampuan pertahanan Fisik Misterius.</Desc>
+		</Text>
+		<Text Name="SYS_NORMAL">
+			<DisplayName>Postur dasar</DisplayName>
+			<Desc>Posisi bertarung standar bagi para penggarap Fisik Abadi. Langkah pertama adalah menghadapi senjata ajaib musuh lalu menyerang tubuhnya. Draf pose ini seimbang baik dalam menyerang maupun bertahan.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_ManJi">
+			<DisplayName>semangat juang</DisplayName>
+			<Desc>Gunakan niat bertarungmu yang kuat untuk memerintahkan seluruh tubuhmu bergerak dan menyerang tubuh musuh secara langsung. Secara dramatis meningkatkan kemampuan ofensif Anda sambil mempertahankan beberapa naluri bertahan Anda.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_WangZhe">
+			<DisplayName>Kehendak Raja</DisplayName>
+			<Desc>Tenangkan pikiran sambil menghadapi pertarungan dengan hati seorang raja. Mengurangi tingkat konsumsi energi Fisik Misterius.</Desc>
+		</Text>
+	</List>
+</Texts>
