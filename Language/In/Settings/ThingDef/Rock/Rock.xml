@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>batu coklat</ThingName>
+			<Desc>Pegunungan berbatu yang dipenuhi bebatuan berwarna coklat. Teksturnya yang berminyak sangat rapuh. Hal ini membuat sangat sulit untuk menambang batu yang dapat digunakan darinya.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>batu abu-abu</ThingName>
+			<Desc>Pegunungan berbatu yang dipenuhi bebatuan berwarna abu-abu Teksturnya cukup padat. Itu dapat ditambang dan digunakan sebagai bahan bangunan.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Marmer</ThingName>
+			<Desc>Gunung berbatu penuh marmer Dimana marmer bisa ditambang dari sini</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>benjolan batu giok</ThingName>
+			<Desc>Gunung berbatu yang dipenuhi batu giok Dimana batu giok dapat ditambang dari sini</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>gumpalan merkuri merah</ThingName>
+			<Desc>Gunung berbatu yang dipenuhi bongkahan merkuri merah Di sinilah merkuri merah dapat ditambang.</Desc>
+		</Text>
+	</List>
+</Texts>
