@@ -1,0 +1,207 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BodyPracticeBase" sParam="Item">
+			<ThingName>dasar</ThingName>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+			<ThingName>jiwa tua</ThingName>
+			<Desc>Energi yang ditinggalkan oleh daya kreatif sejak awal mula langit dan bumi. Core jenis ini sangat sulit ditemukan saat ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+			<ThingName>Kaenfa Dara</ThingName>
+			<Desc>Energi yang ditinggalkan oleh daya kreatif sejak awal mula langit dan bumi. Core jenis ini sangat sulit ditemukan saat ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JieMie" sParam="Item">
+			<ThingName>Hukuman Surga</ThingName>
+			<Desc>Inti dengan kekuatan Kehancuran Surgawi. Itu hanya dapat dikumpulkan dari Hukuman Surgawi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+			<ThingName>Esensi Sinar Matahari</ThingName>
+			<Desc>Energi yang memadatkan sinar matahari Sangat sulit untuk menyatukannya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+			<ThingName>esensi cahaya bulan</ThingName>
+			<Desc>Energi yang mengembunkan uap dingin bulan. Sangat sulit untuk menyatukannya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+			<ThingName>Kaen Tawan</ThingName>
+			<Desc>esensi matahari Hanya bisa dikumpulkan pada siang hari.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+			<ThingName>esensi bulan</ThingName>
+			<Desc>esensi bulan Hanya dapat dikumpulkan pada tengah malam.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXJin" sParam="Item">
+			<ThingName>Inti Emas Misterius</ThingName>
+			<Desc>Salah satu dari Lima Esensi Kejadian Hanya dapat ditemukan di tempat dengan item berelemen emas yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXMu" sParam="Item">
+			<ThingName>Intisari tumbuhan misterius</ThingName>
+			<Desc>Salah satu dari Lima Esensi Kejadian Dapat ditemukan di tempat-tempat dengan item berelemen Kayu. Hanya yang paling kuat</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXShui" sParam="Item">
+			<ThingName>Esensi air yang misterius</ThingName>
+			<Desc>Salah satu dari Lima Esensi Kejadian Hanya dapat ditemukan di tempat dengan item elemen air yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+			<ThingName>Esensi Api Misterius</ThingName>
+			<Desc>Salah satu dari Lima Esensi Kejadian Hanya dapat ditemukan di tempat dengan item elemen api yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXTu" sParam="Item">
+			<ThingName>Esensi Bumi yang Misterius</ThingName>
+			<Desc>Salah satu dari Lima Esensi Kejadian Hanya dapat ditemukan di tempat yang memiliki item elemen tanah yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jin" sParam="Item">
+			<ThingName>inti emas</ThingName>
+			<Desc>Salah satu esensi dari lima elemen utama. Itu dapat dikumpulkan di lokasi mana pun di seluruh dunia. Hanya perlu mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Mu" sParam="Item">
+			<ThingName>Kaen Pruksa</ThingName>
+			<Desc>Salah satu esensi dari lima elemen utama. Itu dapat dikumpulkan di lokasi mana pun di seluruh dunia. Hanya perlu mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Shui" sParam="Item">
+			<ThingName>Kaenwaree</ThingName>
+			<Desc>Salah satu esensi dari lima elemen utama. Itu dapat dikumpulkan di lokasi mana pun di seluruh dunia. Hanya perlu mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Huo" sParam="Item">
+			<ThingName>esensi api</ThingName>
+			<Desc>Salah satu esensi dari lima elemen utama. Itu dapat dikumpulkan di lokasi mana pun di seluruh dunia. Hanya perlu mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Tu" sParam="Item">
+			<ThingName>Inti bumi</ThingName>
+			<Desc>Salah satu esensi dari lima elemen utama. Itu dapat dikumpulkan di lokasi mana pun di seluruh dunia. Hanya perlu mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+			<ThingName>Esensi yang menguntungkan</ThingName>
+			<Desc>Inti yang secara bertahap terbentuk hanya di tempat-tempat dengan feng shui yang menguntungkan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+			<ThingName>Inti yang tidak beruntung</ThingName>
+			<Desc>Inti yang hanya terbentuk secara bertahap di tempat-tempat dengan feng shui yang tidak menguntungkan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Chun" sParam="Item">
+			<ThingName>inti bibit</ThingName>
+			<Desc>Inti yang dibentuk oleh kekuatan alam musiman langit dan bumi yang mengalir melaluinya. Ini mencerminkan kekuatan pertumbuhan musim semi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Xia" sParam="Item">
+			<ThingName>Inti berbunga</ThingName>
+			<Desc>Inti yang dibentuk oleh kekuatan alam musiman langit dan bumi yang mengalir melaluinya. Ini mencerminkan kekuatan mekarnya musim semi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Qiu" sParam="Item">
+			<ThingName>inti layu</ThingName>
+			<Desc>Inti yang dibentuk oleh kekuatan alam musiman langit dan bumi yang mengalir melaluinya. Ini mencerminkan kekuatan musim gugur yang gugur.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Dong" sParam="Item">
+			<ThingName>Titik balik</ThingName>
+			<Desc>Inti yang dibentuk oleh kekuatan alam musiman langit dan bumi yang mengalir melaluinya. Ini mencerminkan kekuatan kesunyian musim dingin.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_YongYe" sParam="Item">
+			<ThingName>esensi abadi</ThingName>
+			<Desc>Esensi misterius yang muncul dari dimensi langit dan bumi pada malam abadi. Asal usulnya masih belum diketahui. Dikatakan bahwa itu bukanlah sesuatu dari dunia ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+			<ThingName>Inti Naga Air</ThingName>
+			<Desc>Esensi yang mengandung kekuatan hidup misterius Naga Air. Ini sangat bermanfaat bagi Penggarap Fisik Abadi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+			<ThingName>Inti Angsa Menyala</ThingName>
+			<Desc>Esensi yang mengandung kekuatan hidup misterius dari Vermillion Swan. Ini sangat bermanfaat bagi Penggarap Fisik Abadi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+			<ThingName>Inti Lilin Naga</ThingName>
+			<Desc>Esensi yang mengandung kekuatan hidup misterius Naga Lilin. Ini sangat bermanfaat bagi Penggarap Fisik Abadi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+			<ThingName>Esensi Darah Iblis Kuno</ThingName>
+			<Desc>Esensi darah yang menetes dari binatang iblis kuno dengan tubuh yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+			<ThingName>Inti Iblis Kuno</ThingName>
+			<Desc>Inti tulang dari binatang iblis kuno dengan tubuh yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+			<ThingName>Esensi Iblis</ThingName>
+			<Desc>Inti dalam tubuh iblis ganas memiliki basis budidaya yang sangat tinggi. Itu mungkin adalah rahasia dari tubuh kuat bawaan iblis-iblis itu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+			<ThingName>esensi kehidupan murni</ThingName>
+			<Desc>esensi murni dari kekuatan hidup Dapat digunakan untuk menyehatkan tubuh dengan sangat baik.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+			<ThingName>esensi kehidupan</ThingName>
+			<Desc>Cahaya pelita kecil kehidupan kecil yang baru saja lahir</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+			<ThingName>Esensi kehidupan</ThingName>
+			<Desc>Nafas kehidupan secara alami dihasilkan oleh Qi langit dan bumi. Dikatakan juga sebagai tempat lahirnya kehidupan kuno.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_SiWang" sParam="Item">
+			<ThingName>Esensi jahat</ThingName>
+			<Desc>setelah kematian makhluk hidup, sebagian dari kekuatan hidup yang sebenarnya akan menyebar ke langit dan bumi. sementara bagian lain akan berubah menjadi esensi jenis ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuHui" sParam="Item">
+			<ThingName>esensi najis</ThingName>
+			<Desc>Meski asal muasal esensi semacam ini tidak jelas, Namun ia juga merupakan titik fokus energi negatif semua makhluk hidup. Ini berisi misteri mendalam reinkarnasi dan transformasi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuXing" sParam="Item">
+			<ThingName>esensi tak berbentuk</ThingName>
+			<Desc>Esensi yang sangat aneh. Itu transparan dan impersonal. Namun, masih ada dan bisa diekstraksi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+			<ThingName>esensi abadi</ThingName>
+			<Desc>Esensi yang dikumpulkan dari esensi emas seorang kultivator Saint Path. Namun, karena itu adalah inti yang Qi pemiliknya meresap ke dalamnya. Jadi tidak ada pengaruhnya. Bagi mereka yang mengembangkan Jalur Fisik Abadi Jika Anda masih bersikeras menempa tubuh Anda dengan esensi semacam ini, Itu akan menghancurkan kekuatan tubuh dari dalam, menghambat pemurnian tubuh, dan mengubahnya kembali ke keadaan semula.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
+			<ThingName>sumsum tulang utama</ThingName>
+			<Desc>Esensi tubuh seorang Saint terbuat dari esensi emas Saint tersebut. Karena esensi jenis ini sangat kuat sehingga menyebabkan rangsangan yang kuat pada tubuh Penggarap Fisik Abadi. Tidak ada yang tahu apa yang akan terjadi jika mereka menggunakannya untuk memurnikan tubuh mereka.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+			<ThingName>Sumsum Ilahi</ThingName>
+			<Desc>Hakikat tubuh dewa yang tercipta dari pikiran dewa seorang praktisi kultivasi dewa. Karena esensi jenis ini sangat kuat sehingga menyebabkan rangsangan yang kuat pada tubuh Penggarap Fisik Abadi. Tidak ada yang tahu apa yang akan terjadi jika mereka menggunakannya untuk memurnikan tubuh mereka.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_BaBao" sParam="Item">
+			<ThingName>Inti dari alam semesta</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan jalan alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanDao" sParam="Item">
+			<ThingName>inti asal</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan bagaimana alam semesta dilahirkan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiQing" sParam="Item">
+			<ThingName>Esensi Yin Yang</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini melambangkan jalan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+			<ThingName>Hakikat ruang dan waktu</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Hakikat ini menunjukkan jalan ruang dan waktu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+			<ThingName>Titik awal dan akhir</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan awal dan akhir jalan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jian" sParam="Item">
+			<ThingName>Esensi hidup dan mati</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan jalan hidup dan mati.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_LingYu" sParam="Item">
+			<ThingName>Hakikat kemakmuran</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan jalan menuju kemakmuran.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanGu" sParam="Item">
+			<ThingName>Esensi dari Kekosongan</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Tema ini menunjukkan jalan penyangkalan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+			<ThingName>inti dari kesendirian</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini mewakili jalan kesendirian.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiSha" sParam="Item">
+			<ThingName>Inti dari Penghapusan</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan jalan penghapusan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+			<ThingName>Esensi Takdir</ThingName>
+			<Desc>Di awal alam semesta ketika segala sesuatu dilahirkan. Esensi ini menunjukkan jalan takdir.</Desc>
+		</Text>
+	</List>
+</Texts>
