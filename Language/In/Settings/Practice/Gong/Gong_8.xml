@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_8_Jin">
+			<DisplayName>Teknik Budidaya Pedang Emas Pemotong Bintang</DisplayName>
+			<Desc>Salah satu dari lima teknik budidaya hukum unsur sejati dari Sekte Tai Yi. Gambarkan qi emas dari bintang-bintang untuk digunakan dalam mengolah senjata magis. Ketika praktisi dapat mengamalkan dan memahami esensinya. Itu akan memungkinkan mereka yang mengolahnya mendapatkan kekuatan yang tak tertandingi dalam pertempuran.</Desc>
+			<SelectDesc>Teknik ini terkenal karena menggunakan senjata magis yang kuat untuk menyerang musuh. Namun, para pembudidaya membutuhkan waktu yang lama untuk berlatih setiap level. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Inti Surga</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Inti Surga</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Giok Surgawi</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Giok Surgawi</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Mutiara Surgawi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Mutiara Surgawi</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Cahaya Surga</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Cahaya Surga</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Timbangan Surga</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Timbangan Surga</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nMenembus tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Bersihkan surga</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Perluas cakupannya</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.1.DisplayName>Bersihkan surga</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>Dengan menggabungkan Jiwa Primordialnya sendiri dengan Dao Surgawi. Orang itu harus menghadapi murka surga secara langsung.</Stages.5.Necks.1.Desc>
+			<Stages.6.DisplayName>Cahaya surgawi</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Cahaya surgawi</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>Dia meninggalkan tubuh kasarnya dan terlahir kembali di surga.</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>
