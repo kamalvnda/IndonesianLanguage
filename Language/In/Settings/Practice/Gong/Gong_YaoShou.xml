@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_YaoShou">
+			<DisplayName>Teknik Budidaya Intuisi</DisplayName>
+			<Desc>Sebuah teknik budidaya di mana binatang iblis mengandalkan naluri mereka sendiri untuk berkultivasi.</Desc>
+			<Stages.0.DisplayName>Langkah 1</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Langkah 1</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Langkah 2</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Langkah 2</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Langkah 3</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Langkah 3</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Langkah 4</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Langkah 4</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Langkah 5</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Langkah 5</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Langkah 6</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Langkah 6</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Langkah 7</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Langkah 7</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Langkah 8</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Langkah 8</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Langkah 9</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Langkah 9</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Langkah 10</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Langkah 10</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Langkah 11</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Langkah 11</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Langkah 12</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Langkah 12</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
