@@ -1,0 +1,453 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SchoolManager">
+			<Type>perkembangan</Type>
+			<DisplayName>Manajemen biro</DisplayName>
+			<Desc>Dalam tutorial ini Pelajari tentang berbagai fungsi dalam menu Klan dan bagaimana reputasi dan kecenderungan moral/tidak baik memengaruhi Klan.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Informasi dasar</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Buka kunci Biro</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>pemeriksaan reputasi</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Periksa nilai baik dan buruknya</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Periksa feng shui kantor.</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Periksa makanan biro.</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Lihatlah ajaran sekolah.</Chapters.0.Tasks.5>
+			<Chapters.1.DisplayName>Fungsi lain dari kantor</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Periksa struktur kantor</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa daftar siswa</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Pemeriksaan diplomasi</Chapters.1.Tasks.2>
+			<Tasks.2.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Ketika pemain sudah memiliki murid batiniah Akan dapat memeriksa dan mengelola kantor.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Ketuk untuk meninjau detail reputasi. Pemain bisa mendapatkan ketenaran melalui berbagai aksi seperti petualangan, peristiwa, dan keajaiban. Namun semakin tinggi reputasinya, musuh yang menyerang menjadi lebih kuat.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Klik untuk melihat informasi reputasi. Pemain bisa mendapatkan reputasi melalui tindakan seperti petualangan di dunia terbuka, acara, dan penggunaan keajaiban. Namun, reputasi yang lebih tinggi akan menarik musuh yang lebih kuat untuk menyerang.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Klan dapat berkembang setiap kali reputasinya mencapai level baru. Sekte yang lebih besar akan dapat menerima lebih banyak murid.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Klik untuk melihat tren dalam Dhamma dan Dhamma. Tindakan yang berbeda dalam permainan akan mempengaruhi kecenderungan faksi. Hal ini akan mempengaruhi hubungan pemain dengan orang lain. Termasuk pilihan dan perkembangan peristiwa.</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Feng shui suatu sekte ditentukan oleh feng shui seluruh ruangan dan feng shui bangunan. Hal ini akan mempengaruhi keberuntungan setiap siswa.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>Setelah pemain memilih makanan Klan, para murid akan secara otomatis mengeluarkan perintah memasak dua jam sebelum waktu makan. Pemain dapat memilih makanan berbeda untuk memperbaiki pola makan muridnya berdasarkan jumlah makanan yang disimpan saat ini. Ketika ada cukup makanan, Pemain juga dapat membatalkan pilihan.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Ketuk untuk melipat. "Teknik Tertinggi" di sebelah kiri</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Klik untuk melipat dan menyimpan. "Teknik Tertinggi" di sebelah kiri</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Di sini akan ditampilkan informasi detail tentang jenis-jenis pelajaran. Kompatibilitas kursus Tingkat subjek, dll.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Di sini akan ditampilkan informasi detail tentang jenis-jenis pelajaran. Kompatibilitas kursus Tingkat subjek, dll.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Klik untuk melihat peta inspirasi.</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>Di sini, peta inspirasi terperinci akan ditampilkan untuk ditinjau oleh pemain. Bagan ini akan memberikan informasi tentang kitab suci apa saja yang dapat dipelajari untuk teknik ini.</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Ketuk untuk menutup menu kursus.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Klik untuk menutup menu kursus.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Di halaman informasi dasar kantor, Pemain dapat dengan mudah mempelajari berbagai informasi tentang sekte saat ini untuk dikelola.</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Klik "Struktur Kantor"</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Ketika sekte pemain menjadi tempat surgawi akan dapat mendirikan cabang. Semakin mampu kepala cabang, semakin baik. Semakin banyak siswa di cabang, semakin banyak bonus yang akan mereka terima. Ketika cabang didirikan Akan dapat merencanakan area cabang melalui pembuatan yang akan memberikan hasil bonus kepada muridnya. Mengubah atau membuat pemimpin sekte pensiun juga akan mempengaruhi siswa.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>Ketika sekte pemain menjadi tempat surgawi akan dapat mendirikan cabang. Semakin mampu kepala cabang, semakin baik. Semakin banyak siswa di cabang, semakin banyak bonus yang akan mereka terima. Ketika cabang didirikan Akan dapat merencanakan area cabang melalui pembuatan yang akan memberikan hasil bonus kepada muridnya. Mengubah atau membuat pemimpin sekte pensiun juga akan mempengaruhi siswa.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Klik "Daftar Siswa"</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Pemain dapat mengetuk "X" untuk mengeluarkan murid.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TipsData.Desc>Pemain dapat mengklik "X" untuk mengusir murid.</Tasks.31.TipsData.Desc>
+			<Tasks.33.TaskDesc>Klik "Diplomasi"</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Pemain dapat memeriksa halaman ini untuk mempelajari informasi tentang hubungan, persahabatan, dan tren interaksi antara Klan Anda dan Klan lain agar dapat merencanakan pengembangan Klan mereka dengan lebih baik.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Klik "Detail" Romtawan Residence.</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Pemain dapat mengklik "Detail" untuk melihat hubungan antara satu Klan dengan Klan lainnya, mengetahui kekuatan Klan. dan melacak perubahan untuk merencanakan strategi yang berbeda.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Klik untuk menutup menu Romtawan Residence.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Fungsi Biro ini memainkan peran penting selama pertandingan. Dan pemain dapat menggunakannya untuk mengembangkan Klan mereka sendiri dan merencanakan berbagai strategi.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="FengShui">
+			<Type>perkembangan</Type>
+			<DisplayName>Feng Shui</DisplayName>
+			<Desc>Pelajari tentang lima elemen (The Five Elements) Feng Shui dan distribusi Qi dalam tutorial ini.</Desc>
+			<Chapters.0.DisplayName>Bangunan dan dekorasi Feng Shui</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa bangunan feng shui</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa dekorasinya</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Feng Shui Bangunan Feng Shui</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Periksa feng shui meja Anda.</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa feng shui di dekat meja.</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Tempatkan batang tembaga api.</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Pindahkan dekorasi</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Periksa Perubahan Feng Shui</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Cara mengatur feng shui pada sebuah ruangan</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Periksa feng shui di dalam kamar.</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Periksa bangunan feng shui</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Periksa tata letak ruangan</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Periksa arah pintu.</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk "Bahan Habis Pakai" untuk membuka jendela bangunan barang habis pakai.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Dalam permainan, sebagian besar bangunan yang diklasifikasikan dalam kategori Kegunaan, Bangunan, Kantor, dan Hiburan yang diberi label "Bangunan Feng Shui" dianggap sebagai Bangunan Feng Shui. Feng shui bangunan ini akan berubah sesuai dengan unsur lingkungan di lokasinya. Ketika unsur lingkungan melengkapi unsur bangunan maka feng shuinya akan baik dan sebaliknya.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Barang</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Dalam permainan, sebagian besar bangunan yang diklasifikasikan dalam kategori Kegunaan, Bangunan, Kantor, dan Hiburan yang diberi label "Bangunan Feng Shui" dianggap sebagai Bangunan Feng Shui. Feng shui bangunan ini akan berubah sesuai dengan unsur lingkungan di lokasinya. Ketika unsur lingkungan melengkapi unsur bangunan maka feng shuinya akan baik dan sebaliknya.</Tasks.4.TaskDesc>
+			<Tasks.7.TaskDesc>Dalam permainan, bangunan tanpa tanda "Bangunan Feng Shui" akan menjadi dekorasi. Sebagian besar bangunan ini mewarisi sifat unsur dari bahan utama dan mempengaruhi lingkungan unsur di sekitarnya. Mereka tidak terpengaruh oleh lima elemen dan tidak memiliki feng shui.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>Di dalam game, bangunan tertentu memiliki tag elemennya sendiri. Ketika sebuah bangunan mempunyai tag elemen atau tag yang tidak ditentukan, hal ini tidak dipengaruhi oleh elemen bahan induknya. Oleh karena itu, yang mempengaruhi unsur lingkungan adalah unsur dalam tanda.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TipsData.Desc>Ingatlah bahwa beberapa bangunan memiliki sifat unsur yang sesuai dengan tanah di mana bangunan tersebut berada. Ini sangat berbeda dengan elemen sebuah bangunan. Misalnya, dasar perapian adalah api. dan dasar sumurnya mengandung unsur air. Oleh karena itu, pemain harus mendalami fitur ini dan mempelajari lebih lanjut tentang Feng Shui.</Tasks.10.TipsData.Desc>
+			<Tasks.13.TaskDesc>Meja batu berwarna coklat merupakan bangunan feng shui elemen tanah. Oleh karena itu dipengaruhi oleh interaksi kelima unsur yang ada di lingkungan tersebut. Dalam mode Feng Shui Jika bangunan berwarna kuning atau merah Menunjukkan bahwa Feng Shui kurang baik. Bangunan saat ini berwarna merah. yang jelas terkena unsur mematikan itu.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Meja batu berwarna coklat merupakan bangunan feng shui elemen tanah. Ditandai dengan warna merah dalam mode Feng Shui. Karena terpengaruh oleh elemen pembunuh di dekatnya.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Lampu payung merupakan dekorasi berelemen kayu yang mempengaruhi elemen lingkungan sekitar.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Ketuk tombol Feng Shui lagi untuk keluar dari mode Feng Shui.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Klik lagi tombol Feng Shui kanan untuk mengaktifkan mode Feng Shui.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Ketuk "Tempatkan Barang"</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Ketuk untuk memilih "Batang Tembaga Api"</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Tempatkan barang</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Konfirmasikan pilihan</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Ketuk "Hancurkan"</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Pilih lampu peneduh di sebelah kanan meja brownstone.</Tasks.26.TaskDesc>
+			<Tasks.26.UiData.Name>membongkar</Tasks.26.UiData.Name>
+			<Tasks.27.TaskDesc>Ketuk "Pindahkan"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Ketuk "Tempel" dan letakkan di lokasi yang ditentukan.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>nenek dari pihak ibu</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Konfirmasikan pilihan</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>Tunggu sampai selesai.</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Menempatkan batang tembaga api meningkatkan elemen api di lingkungan.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Kehadiran lampu tembaga api meningkatkan unsur api di lingkungan.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Karena perubahan lingkungan unsur, meja batu coklat dipengaruhi oleh unsur api di lingkungan yang mendorong unsur tanah pada meja. Oleh karena itu, Feng Shui lebih baik.</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>Pemain dapat mengubah lima elemen feng shui di sekitar bangunan untuk mengubah feng shui. Dan feng shui bangunan akan mempengaruhi feng shui ruangan.</Tasks.40.TipsData.Desc>
+			<Tasks.42.TaskDesc>Pilih ruangan dengan mengklik ruang kosong di ruangan tersebut.</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Pemain dapat memeriksa tampilan Feng Shui di sini dan akan melihat bahwa Feng Shui suatu ruangan ditentukan oleh banyak faktor.</Tasks.43.TaskDesc>
+			<Tasks.45.TipsData.Desc>Feng shui semua bangunan mempengaruhi feng shui suatu ruangan. Hal ini ditentukan oleh feng shui keseluruhan seluruh bangunan didalamnya.</Tasks.45.TipsData.Desc>
+			<Tasks.47.TipsData.Desc>Tata letak ruangan yang sempit atau kosong akan merusak feng shui Anda.</Tasks.47.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>Tergantung fungsi ruangan Feng shui dipengaruhi oleh beberapa faktor seperti arah pintu dan banyaknya pintu. Kamar tidur harus menghadap ke selatan. Oleh karena itu, pintu harus dibangun di bawah. Gunakan "Bantuan" untuk memeriksa feng shui dan petunjuk arah untuk tipe kamar lainnya.</Tasks.48.TipsData.Desc>
+			<Tasks.50.TipsData.Desc>Pemain dapat mengetuk "Bantuan" di sudut kanan atas untuk memeriksa Feng Shui kamarnya di bagian Lima Elemen dan Feng Shui untuk mempelajari aturan lebih rinci tentang Feng Shui. Untuk lebih jelasnya Anda dapat mengetuk tombol bantuan di pojok kanan atas untuk memeriksa aturan Feng Shui kamar Anda.</Tasks.50.TipsData.Desc>
+		</Text>
+		<Text Name="RoomDesign">
+			<Type>perkembangan</Type>
+			<DisplayName>Ruang perencanaan untuk siswa di</DisplayName>
+			<Desc>Dalam tutorial ini Pelajari kebutuhan utama kamar murid dan cara mengikuti persyaratan feng shui.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Memilih kamar untuk siswa</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa jenis kursus</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa lima elemen ruangan.</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Buat titik latihan</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Pilih bahan utama</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Tunggu sampai konstruksi selesai.</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Pilih penduduk</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Meningkatkan Feng Shui</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Tempatkan lampu minyak.</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Tempatkan furnitur</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk untuk membuka panel karakter.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Ketuk tab Kursus.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Teknik muridnya berasal dari elemen emas. dan berdasarkan interaksi lima elemen Kita harus menetapkan ruang elemen tanah untuk murid ini.</Tasks.4.TipsData.Desc>
+			<Tasks.5.TaskDesc>Ketuk untuk menutup menu Budidaya dan Budidaya.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Ketuk "Feng Shui" di pojok kiri atas untuk masuk ke mode Feng Shui.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Ruangan ini memiliki elemen api yang tinggi. yang merusak elemen teknik murid Oleh karena itu, tidak cocok untuk ruangan mereka.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ruangan ini memiliki unsur tanah yang tinggi. yang melengkapi elemen teknik murid Oleh karena itu, cocok untuk ruangan mereka.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Ketuk tombol Feng Shui untuk keluar dari mode Feng Shui.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Silakan ikuti interaksi lima elemen untuk memilih ruangan bagi murid batin. Dan usahakan untuk menciptakan ruangan pada area tersebut yang memiliki unsur-unsur yang mengedepankan unsur murid.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Ketuk "Bahan Habis Pakai" untuk membuka jendela bangunan barang habis pakai.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Ketuk "Tempat Tidur" untuk memulai mode penempatan.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Barang</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Klik "Tempat Tidur" untuk memulai mode penempatan.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Murid ini adalah elemen emas. Oleh karena itu, mereka lebih cocok berlatih di lingkungan yang kaya akan unsur tanah. Bangunan feng shui harus dipadukan dengan dekorasi yang memiliki unsur yang mengedepankan bumi. Oleh karena itu, sebaiknya pilih elemen emas sebagai bahan utama untuk menempatkan banyak dekorasi elemen tanah yang mengedepankan elemen emas.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Keluar dari mode pembuatan.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Sentuh pembakar dupa.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Pilih meja kerja untuk menampilkan status di bawah ini.</Tasks.23.TaskDesc>
+			<Tasks.26.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Tunggu sampai konstruksi selesai.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Ketuk untuk mengatur kepemilikan.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Ketuk karakter pertama dan rapikan tempat tidurnya.</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>mengatur</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Konfirmasikan pengaturan</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Konfirmasikan pengaturan</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Tempat tidur, kursi, atau singgasana semuanya bisa digunakan sebagai tempat latihan. Materi utama harus memiliki elemen yang sama dengan teknik murid batin.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Ketuk Dekorasi untuk membuka jendela Dekorasi.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Ketuk "Lampu Minyak" untuk memulai mode penempatan.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Ketuk untuk memilih batu coklat sebagai bahan utama.</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Dekorasi</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Keluar dari mode pembuatan.</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Sentuh pembakar dupa.</Tasks.44.TaskDesc>
+			<Tasks.47.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.47.TaskDesc>
+			<Tasks.47.UiData.Name>mebel</Tasks.47.UiData.Name>
+			<Tasks.48.TaskDesc>Keluar dari mode pembuatan.</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.49.TaskDesc>
+			<Tasks.50.TaskDesc>Sentuh pembakar dupa.</Tasks.50.TaskDesc>
+			<Tasks.52.TaskDesc>Keluar dari mode pembuatan.</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Ditempatkan di lokasi yang ditentukan pada cetak biru.</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Sentuh pembakar dupa.</Tasks.54.TaskDesc>
+			<Tasks.57.TipsData.Desc>Struktur feng shui utama pada kamar murid dalam umumnya berupa tempat tidur, bantalan, bantalan nafas, dan lain-lain, dan orientasi ruangan dengan struktur feng shui seperti itu biasanya adalah kamar tidur yang menghadap ke selatan. Inti dari desain ruangan murid batin adalah penggunaan struktur dekoratif yang terbuat dari bahan yang memiliki sifat saling melengkapi. Ini sesuai dengan kualitas murid batiniah. Misalnya, murid batin dengan teknik elemen emas akan menggunakan lampu minyak elemen tanah untuk meningkatkan kekuatan mereka. dan menggunakan bahan elemen emas untuk poin budidaya mereka. (dalam tutorial ini Ambil tempat tidur sebagai contoh.)</Tasks.57.TipsData.Desc>
+		</Text>
+		<Text Name="WalkStop">
+			<Type>perkembangan</Type>
+			<DisplayName>berdagang</DisplayName>
+			<Desc>Dalam tutorial ini Pelajari informasi penting tentang perdagangan dan cara berdagang dengan pedagang.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Persiapan sebelum berdagang</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa informasi dari pedagang</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Merencanakan zona komersial</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Mempersiapkan barang untuk diperdagangkan</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Bagaimana cara berdagang</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Berdagang dengan pedagang</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Lihat menu perdagangan</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Ketuk "Konfirmasi"</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Ketuk pesan di sisi kanan.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Ketuk pesan "Pedagang telah tiba".</Tasks.4.TaskDesc>
+			<Tasks.6.TipsData.Desc>Pedagang akan datang ke sekte tersebut dari waktu ke waktu. Dan pemain dapat memperdagangkan sumber daya dengan mereka. Mata uang untuk sebagian besar perdagangan adalah batu roh. dan dapat menukarkan item dengan nilai yang sama. Pemain harus menyiapkan sumber daya untuk berdagang sebelum setiap transaksi.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TaskDesc>Ketuk untuk menutup panel pesan.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Ketuk "Area" untuk membuka jendela Area Bangunan.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk "Zona Perdagangan" untuk masuk ke mode area.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>daerah</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Tarik dan pilih zona perdagangan di lokasi yang ditentukan.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Keluar dari mode pembuatan.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Sentuh pembakar dupa.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Pilih meja kerja untuk menampilkan status di bawah ini.</Tasks.16.TaskDesc>
+			<Tasks.19.TaskDesc>Ketuk "Zona Perdagangan" pada daftar di bawah.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>zona komersial</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Tunggu hingga barang dipindahkan ke area perdagangan.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Setiap kali pedagang datang, mereka akan membawa banyak sumber daya. Oleh karena itu, sebaiknya persiapkan terlebih dahulu barang-barang yang perlu Anda perdagangkan jika Anda melewatkan waktu perdagangan.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Ketuk "Jual"</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Tunggu sampai muridnya pergi berdagang.</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>berdagang</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Tunggu sampai muridnya pergi berdagang.</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Ini adalah sumber daya di area perdagangan sekte pemain.</Tasks.32.TipsData.Desc>
+			<Tasks.33.TipsData.Desc>Ini adalah sumber daya yang diperdagangkan. Kiri atas adalah nilai total sumber daya yang diperdagangkan oleh pedagang. Dan di kanan atas adalah nilai sumber daya dari Klan pemain. Ketika kedua belah pihak menyetujui harga, Pemain dapat menekan "Konfirmasi" di bawah untuk menyelesaikan perdagangan.</Tasks.33.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Ini adalah sumber daya yang diperdagangkan. Kiri atas adalah nilai total sumber daya yang diperdagangkan oleh pedagang. Dan di kanan atas adalah nilai sumber daya dari Klan pemain. Ketika kedua belah pihak menyetujui harga, Pemain dapat menekan "Konfirmasi" di bawah untuk menyelesaikan perdagangan.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Setiap saudagar datang, mereka akan tinggal beberapa saat. Oleh karena itu, pemain dapat melakukan perdagangan berkali-kali. Namun harap diingat bahwa Jika seorang pedagang meninggal di kantor pemain, Semua sumber daya akan masuk ke Klan pemain. Tapi tidak ada lagi pedagang yang datang ke sekte tersebut untuk berdagang. Jadi harap berpikir matang-matang sebelum mengambil tindakan.</Tasks.37.TipsData.Desc>
+		</Text>
+		<Text Name="WorldMap">
+			<Type>perkembangan</Type>
+			<DisplayName>Tempat di dunia luas</DisplayName>
+			<Desc>Dalam tutorial ini Pelajari tentang tempat-tempat di dunia yang lebih luas dan peta dunia. dan cara berinteraksi dengan tempat-tempat ini\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>peta dunia</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa lokasinya</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Selidiki peristiwa rahasia</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Periksa daftar siswa</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Periksa perluasan wilayah</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Cara berpetualang dan mendirikan kemah</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kirim siswa dalam sebuah petualangan</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>dikirim untuk mendirikan kemah</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Periksa kemajuan survei</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Ketuk untuk membuka peta dunia.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Klik untuk membuka peta dunia.</Tasks.2.TaskDesc>
+			<Tasks.4.TipsData.Desc>Ketika pemain sudah memiliki murid batin, Anda dapat menggunakan peta dunia untuk mengirim murid ke lokasi ini untuk berpetualang. Di mana mereka akan menghadapi peristiwa rahasia dan menerima hadiah serta sumber daya darinya.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Klik "Acara Rahasia" di pojok kanan bawah.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Saat pemain menemukan peristiwa rahasia di dalam game, Peristiwa rahasia yang sedang berlangsung akan ditampilkan di sini. Klik pada acara rahasia dan kamera akan melompat ke lokasi acara.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Klik "Murid" di pojok kanan bawah.</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Jika pemain mengirim muridnya dalam petualangan atau berkemah di suatu tempat. Mereka akan ditampilkan di sini. Klik "Recall" jika pemain ingin memanggil kembali seorang murid.</Tasks.10.TipsData.Desc>
+			<Tasks.11.TaskDesc>Klik lagi untuk menutup panel murid.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Klik "Perluas" di sudut kiri atas untuk masuk ke mode perluasan.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Setiap kekuatan di peta memiliki batas dan wilayahnya masing-masing. Dan wilayah yang berbeda ditampilkan dalam warna berbeda. Ada banyak cara untuk memperluas kantor Anda. Dan kawasan netral merupakan kawasan yang paling mudah untuk dilalui.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Klik "Informasi" di sudut kiri atas untuk keluar dari mode perluasan.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>Setelah memperkenalkan peta dunia Kami telah belajar banyak tentang interaksi. Selanjutnya, mari kita membahas beberapa premis yang lebih mendasar.</Tasks.17.TipsData.Desc>
+			<Tasks.20.TaskDesc>Ketuk "Petualangan"</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Ketuk dan pilih murid.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Ketuk dan pilih murid.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Konfirmasikan pilihan</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Ketuk "Konfirmasi"</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Ketuk "Oke"</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Klik "OK"</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Ketuk dan pilih murid.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Ketuk dan pilih murid.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Ketuk "Konfirmasi"</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Klik "Konfirmasi"</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>Ini adalah kemajuan survei lokasi saat ini. Jalani petualangan dan berkemah. Pemain dapat maju dalam eksplorasi mereka secara bertahap. dan seiring kemajuan eksplorasi, lokasi rahasia di sekitarnya juga akan terbuka 100%, artinya lokasi tersebut telah dieksplorasi sepenuhnya.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TipsData.Desc>Setelah mempelajari tentang petualangan dan berkemah, Pemain dapat pergi ke berbagai lokasi di dunia terbuka untuk memperoleh berbagai sumber daya langka, menemukan peristiwa rahasia yang menarik. dan mengunjungi kantor lain, dll.</Tasks.35.TipsData.Desc>
+		</Text>
+		<Text Name="DLPlace">
+			<Type>perkembangan</Type>
+			<DisplayName>Pendirian cabang</DisplayName>
+			<Desc>Pelajari cara menyiapkan dan mengelola cabang dalam tutorial ini.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Periksa cabangnya</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Buka menu pengaturan</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kunjungi Cabang Gunung Thaksin</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Kelola cabang</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Periksa manajemen daya</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Mengeluarkan kebijakan</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Kumpulkan sumber daya</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Perhatikan baik-baik</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Periksa menu cabang</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Kelola acara di cabang</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Kelola acara amal</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Periksa hasilnya</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Kelola acara khusus</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Ketuk untuk membuka peta dunia.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Klik untuk membuka peta dunia.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Klik "Nakhon Promruek"</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Sebelum mahasiswa asing dikirim ke cabang Ada persyaratan yang harus dipenuhi.</Tasks.6.TipsData.Desc>
+			<Tasks.9.TaskDesc>Klik "Pegunungan Selatan"</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Ketika pelajar asing dikirim ke cabang, fungsi dan bangunan cabang tambahan akan dibuka.</Tasks.10.TipsData.Desc>
+			<Tasks.11.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Klik untuk menutup menu peta dunia.</Tasks.12.TaskDesc>
+			<Tasks.16.TipsData.Desc>Ketika pemain sudah memiliki cabang Akan dapat memantau dan mengelola cabang.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Ketuk "Buruh"</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Setiap cabang dapat memiliki kebijakan lokal yang berbeda. Ketika peristiwa khusus terjadi Keputusan kebijakan sering kali melibatkan faktor-faktor seperti pengaruh, kepercayaan, dan populasi.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Klik "Buruh"</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>Setiap cabang memiliki gudangnya sendiri, setiap saat. Pemain dapat mengetuk "Kumpulkan" untuk mengumpulkan sumber daya lokal. Namun perlu diingat bahwa penyimpanan terbatas.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Ketuk "Kumpulkan"</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Setiap cabang memiliki gudangnya sendiri, setiap saat. Pemain dapat mengklik "Kumpulkan" untuk mengumpulkan sumber daya lokal. Namun perlu diingat bahwa penyimpanan terbatas.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>Klik "Kumpulkan"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Ketuk "Awasi"</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>Terkadang mengawasi dengan cermat adalah cara yang baik untuk meningkatkan frekuensi acara di cabang. Tapi itu akan menggunakan lebih banyak sumber daya.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Klik "Awasi"</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Klik "Pegunungan Selatan"</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Ini adalah informasi utama tentang bidang yang dikontrol pemain, misalnya agen kunci. Bangunan utama, produksi, penyimpanan, dll.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Klik "Agen" di sebelah kiri.</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Ini adalah informasi tentang perwakilan cabang yang dikontrol pemain, seperti total statistik perwakilan dan murid yang mereka wakili.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.37.TaskDesc>
+			<Tasks.38.TipsData.Desc>Ini adalah informasi tentang nilai-nilai keyakinan di bidang yang dikuasai pemain, seperti aliran agama lokal, nilai-nilai keyakinan, patung, jumlah penduduk, dll.</Tasks.38.TipsData.Desc>
+			<Tasks.39.TaskDesc>Klik untuk menutup menu pegunungan selatan.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Klik untuk menutup menu peta dunia.</Tasks.40.TaskDesc>
+			<Tasks.42.TaskDesc>Klik untuk menutup menu manajemen daya.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Ketika pemain sudah memiliki cabang Akan dapat memantau dan mengelola cabang.</Tasks.44.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>Ketika acara selesai Jendela Kebijakan tidak lagi menampilkan tanda seru.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TaskDesc>Ketuk untuk menutup menu manajemen daya.</Tasks.49.TaskDesc>
+			<Tasks.50.TipsData.Desc>Mengikuti instruksi, pemain dapat memilih solusi yang tepat. Hasilnya biasanya berhubungan dengan statistik murid cabang.</Tasks.50.TipsData.Desc>
+			<Tasks.51.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.52.TaskDesc>
+			<Tasks.53.TipsData.Desc>Ketika acara selesai Jendela Kebijakan tidak lagi menampilkan tanda seru.</Tasks.53.TipsData.Desc>
+			<Tasks.54.TaskDesc>Jendela acara yang muncul setelah acara amal selesai.</Tasks.54.TaskDesc>
+			<Tasks.56.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Ketuk "Oke"</Tasks.57.TaskDesc>
+			<Tasks.59.TaskDesc>Jendela acara yang muncul setelah acara amal selesai.</Tasks.59.TaskDesc>
+			<Tasks.60.TaskDesc>Ketuk "Oke"</Tasks.60.TaskDesc>
+			<Tasks.61.TipsData.Desc>Setelah pemain menyelesaikan acara, Cabang tersebut akan mendapatkan banyak pengikut. Jumlah pengikut yang banyak bermanfaat untuk perluasan cabang.</Tasks.61.TipsData.Desc>
+			<Tasks.62.TaskDesc>Klik "OK"</Tasks.62.TaskDesc>
+			<Tasks.65.TaskDesc>Klik "OK"</Tasks.65.TaskDesc>
+			<Tasks.67.TaskDesc>Ketuk "Buat" di sudut kiri bawah untuk membuka jendela pembuatan.</Tasks.67.TaskDesc>
+			<Tasks.68.TaskDesc>Ketuk "Buruh"</Tasks.68.TaskDesc>
+			<Tasks.70.TipsData.Desc>Pemain dapat memeriksa pesan di sebelah kiri untuk melihat acara khusus yang sedang berlangsung di cabang.</Tasks.70.TipsData.Desc>
+			<Tasks.71.TaskDesc>Klik "Pegunungan Selatan"</Tasks.71.TaskDesc>
+			<Tasks.72.TipsData.Desc>Pemain harus menyelesaikan persyaratan berikut sebelum penghitung waktu mundur berakhir. Suatu peristiwa selesai ketika persyaratan terpenuhi sebelum penghitung waktu mundur berakhir. Sejumlah pengikut akan keluar jika acara tidak selesai. Pemain dapat menggunakan petualangan untuk membantu menyelesaikan acara khusus.</Tasks.72.TipsData.Desc>
+			<Tasks.74.TipsData.Desc>Terkadang ada acara khusus di cabang yang harus ditangani oleh para pemain. Jika ditangani dengan benar Cabang akan sangat terpengaruh. Pengaruh yang besar akan membantu pemain memperluas wilayahnya dan meningkatkan level cabangnya. Cabang juga dapat memberikan banyak manfaat bagi sekte pemain, seperti produk lokal, merekrut murid, mendapatkan poin kepercayaan, dll.</Tasks.74.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolInteractive">
+			<Type>perkembangan</Type>
+			<DisplayName>Interaksi antar kantor</DisplayName>
+			<Desc>Dalam tutorial ini Pelajari cara berinteraksi dengan sekte lain dan berdagang dengan mereka.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Membangun hubungan dengan kantor lain</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kunjungi Biro Su</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Selesaikan misi Biro.</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Cara berdagang dengan kantor lain</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>perdagangan biro</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa item untuk diperdagangkan</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Coba menawar</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Coba menawar lagi</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Ketuk untuk membuka peta dunia.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Klik untuk membuka peta dunia.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Ketuk "Kunjungi"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Klik "Kunjungi"</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Pemain harus mengadakan pertemuan dengan sekte untuk menyelesaikan kunjungan. Oleh karena itu, harap rencanakan zona perdagangan Anda terlebih dahulu dan pilih item perdagangan yang sesuai. Konten tambahan hanya akan dibuka setelah kunjungan Anda selesai.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Tingkatkan jumlahnya</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk "Konfirmasi"</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Ketuk "Konfirmasi"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tutup panel perdagangan</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Klik untuk menutup menu peta dunia.</Tasks.13.TaskDesc>
+			<Tasks.18.TipsData.Desc>Ketika pemberitahuan misi sekte muncul, Pemain dapat menghadiahkan item yang diinginkan di menu perluasan.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Klik "OK"</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Ketuk tombol Misi di sudut kanan bawah untuk membuka panel Misi.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Klik untuk membuka peta dunia.</Tasks.21.TaskDesc>
+			<Tasks.22.TipsData.Desc>Ketika misi sekte diaktifkan Tanda tanya akan muncul di atas tombol perluasan. Artinya pemain dapat memberikan bantuan kepada sekte lain dan membangun hubungan.</Tasks.22.TipsData.Desc>
+			<Tasks.23.TaskDesc>Ketuk "Obat Cheewan"</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Ini adalah item misi yang diinginkan sekte lain. Pemain harus menempatkan barang yang telah disiapkan di area perdagangan untuk diberikan kepada mereka.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>Ketuk "Oke"</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Ketuk "Konfirmasi"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Tutup panel perdagangan</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Ketuk tombol Misi di sudut kanan bawah untuk menutup panel Misi.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Klik "OK"</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Klik "Konfirmasi"</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Ketuk untuk memilih Su Sekte.</Tasks.33.TaskDesc>
+			<Tasks.35.TipsData.Desc>Ada banyak cara untuk membangun hubungan dengan kantor lain. yang mempengaruhi perdagangan di masa depan dengan sekte tersebut. Secara umum, Perdagangan dengan sekte tersebut akan mendapat manfaat dari hubungan baik.</Tasks.35.TipsData.Desc>
+			<Tasks.37.TaskDesc>Ketuk menu item untuk memperbesar.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Klik "Jual"</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>Pemain dapat melihat item apa saja yang bisa diperdagangkan di sini. Item yang ditampilkan dengan warna merah berarti hubungannya dengan sekte lain terlalu rendah untuk memperdagangkan item jenis ini.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Ketuk "Ginseng Merah" dari item Klan di sebelah kiri.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Pemain dapat mengklik dan memperbesar untuk melihat jenis perdagangan tambahan, seperti persewaan barang ajaib. dan meminta bantuan dari murid Inti Emas</Tasks.42.TipsData.Desc>
+			<Tasks.44.TaskDesc>Tingkatkan jumlahnya</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Ketuk "Coba menawar"</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Ketuk "Konfirmasi"</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Ketuk "Blood Talisman" dari item pemain di sebelah kanan.</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Tingkatkan jumlahnya</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Ketuk "Coba menawar"</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Ketuk "Konfirmasi"</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Ketuk "Konfirmasi"</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Klik "Coba menawar"</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Klik "Konfirmasi"</Tasks.54.TaskDesc>
+			<Tasks.55.TaskDesc>Klik "Konfirmasi"</Tasks.55.TaskDesc>
+			<Tasks.58.TipsData.Desc>Selama perdagangan biro, Pemain dapat menggunakan "Coba menawar" untuk memperkirakan nilai item sekte lain. Ini membantu dalam membeli barang dengan harga pantas.</Tasks.58.TipsData.Desc>
+		</Text>
+		<Text Name="MapExplore">
+			<Type>perkembangan</Type>
+			<DisplayName>survei</DisplayName>
+			<Desc>Pelajari cara memasukkan lokasi dan mulai menjelajah dalam tutorial ini.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>mengakses</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa yurisdiksi</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Beli akses</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>survei</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>periksa entri</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Masukkan peta</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>survei seluler</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>eksplorasi rahasia</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Interaksi peta</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Kumpulkan item</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>keluar dari peta</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Ketuk untuk membuka peta dunia.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Klik untuk membuka peta dunia.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Klik "Gunung Teratai"</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Di sini yurisdiksi lokasi saat ini ditampilkan. Jika tempat itu milik suatu kekuatan? Seorang murid harus mendapatkan akses ke pembangkit tenaga listrik itu untuk melakukan petualangan atau mendirikan kemah di sana.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Klik "Jual"</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Akses awal ke semua lokasi Biro dapat dibeli secara bebas. Hal ini memungkinkan pemain untuk menjelajahi lokasi lain dari sekte tersebut.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Tingkatkan jumlahnya</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk "Earth Core" dari item pemain di sebelah kanan.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Tingkatkan jumlahnya</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk "Konfirmasi"</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Ketuk "Konfirmasi"</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Tutup panel perdagangan</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Ketuk untuk menutup menu peta dunia.</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>Area merah di peta dunia merupakan tempat yang tidak bisa diakses oleh pemain. Anda dapat membeli akses ke wilayah milik kekuatan itu. Setelah membuka kunci, area tersebut akan berubah menjadi warna normal. Ini berarti pemain dapat pergi dan menjelajah.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Klik untuk memilih Su Biro.</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Sebagian besar lokasi dalam game dapat dijelajahi dengan mengirimkan murid yang berkemah di sana.</Tasks.21.TipsData.Desc>
+			<Tasks.24.TaskDesc>Klik "Masuk"</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Pemain dapat mengirim murid yang berkemah di sana untuk memasuki peta.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>Ketuk dan pilih murid.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Ketuk "Konfirmasi"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Ketuk "Ya"</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Klik "Ya"</Tasks.29.TaskDesc>
+		</Text>
+		<Text Name="MapExplore2">
+			<Type>perkembangan</Type>
+			<DisplayName>Survei II</DisplayName>
+			<Desc>Pelajari cara memasukkan lokasi dan mulai menjelajah dalam tutorial ini.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>survei</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>periksa entri</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Masukkan peta</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>survei seluler</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>eksplorasi rahasia</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Interaksi peta</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kumpulkan item</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>keluar dari peta</Chapters.1.Tasks.1>
+			<Tasks.3.TaskDesc>Ketuk dan pilih murid.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Anda dapat mengetuk untuk bergerak dan menjelajahi pemandangan.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Ketuk tombol kecepatan di sudut kanan bawah. dan ubah ke kecepatan maksimum</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Ketuk tombol kecepatan di pojok kanan bawah dan ubah menjadi kecepatan 2x.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Masukkan status pemungutan suara menggunakan tombol pindah.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk "Tempel" dan letakkan di lokasi yang ditentukan.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Tunggu sampai mereka bergerak.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Ketuk "Stealth" dan mulai mode sembunyi-sembunyi.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Bersembunyi</Tasks.12.UiData.Name>
+			<Tasks.14.TipsData.Desc>Saat diam-diam, jika ikon mata murid berwarna merah, mereka memiliki peluang lebih tinggi untuk terlihat oleh orang lain. Kalau warnanya kuning Kecil kemungkinannya untuk terlihat, kalau putih tidak akan terlihat. Jika tidak ada ikon mata Artinya tidak ada seorang pun di sini yang peduli dengan gerakan muridnya.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Masukkan status pemungutan suara menggunakan tombol pindah.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Ketuk dan pindah ke lokasi yang ditentukan.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Tunggu sampai mereka bergerak.</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>Kesempatan untuk terlihat sangat berkaitan dengan tubuh fisik dan indera muridnya. Hal ini juga dipengaruhi oleh jarak dan perbedaan level antara murid dengan karakter lainnya.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Perlu diingat bahwa tidak semua peta aman. Di beberapa peta, akan ada target musuh atau pembangkit tenaga listrik. Ada juga item dan bangunan di peta untuk berinteraksi sambil menjelajah. Ini dapat digunakan untuk mencari konten tambahan. Namun, mengumpulkan item sekte lain sambil diam-diam akan menimbulkan konsekuensi yang mengerikan jika muridnya ketahuan.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Ketuk "Kumpulkan" dan mulailah mengumpulkan.</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>menyusun</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Ketuk untuk mengambil item "Pedang Pemberontak".</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Konfirmasikan pengumpulan</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Tunggu sampai "Rebel Sword" terkumpul.</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>Item yang dikumpulkan pemain akan ditampilkan di menu ini. Dan setiap murid dapat membawa hingga enam jenis barang. Pemain dapat membuang item yang tidak diinginkan dengan mengklik tombol yang sesuai di menu item. Barang yang dikumpulkan akan diberikan setelah murid kembali dengan selamat ke sekte.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Ketuk dan pilih murid.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Masukkan status pemungutan suara menggunakan tombol pindah.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Ketuk dan pindah ke lokasi yang ditentukan.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Tunggu sampai mereka bergerak.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Ketuk "Stealth" dan hentikan mode sembunyi-sembunyi.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Bersembunyi</Tasks.34.UiData.Name>
+			<Tasks.36.TipsData.Desc>Pemain dapat mengetuk "Keluar" untuk keluar dari peta saat ini dan kembali ke dojo. Tapi siswanya harus selamat dulu. Mereka tidak dapat meninggalkan peta jika sedang bertempur. Jika nyawa siswa terancam, mereka pun akan terpaksa keluar.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>Ada banyak lokasi lain di dalam game. Namun metode survei dasarnya sama. Harap berhati-hati saat menjelajahi peta lain dan perhatikan bahaya dan peluang tersembunyi.</Tasks.38.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>
