@@ -1,0 +1,1061 @@
+<Helps>
+	<List>
+		<Help Name="1">
+			<Title>Perkenalan</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="2">
+			<Title>Jendela karakter</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="3">
+			<Title>Karya siswa luar</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="4">
+			<Title>Dasar-dasar menciptakan ruangan</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="5">
+			<Title>Lima Elemen dan Feng Shui</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="6">
+			<Title>Budidaya murid batin</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="7">
+			<Title>Perang Klan</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="8">
+			<Title>Perdagangkan dan perluas wilayah Anda</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="9">
+			<Title>Mengolah Jalan Ilahi</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="10">
+			<Title>Rahasia dan Masyarakat</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="11">
+			<Title>Merawat Setan dari Sekte</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="12">
+			<Title>transformasi hewan</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="13">
+			<Title>Mengolah Metode Fisik Abadi</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="14">
+			<Title>Roh Dao</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="P1">
+			<Title>Sistem lain</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="C1" Root="1">
+			<Title>konsep permainan</Title>
+			<Text>[img]ui/Bantuan_en/002[/img]
+			Amazing Cultivation Simulator adalah game simulasi roguelike yang menggabungkan elemen dari banyak genre game. Termasuk bertahan hidup, bermain peran, strategi, dan banyak lagi. 
+			
+			Dari sudut pandang Tuhan, pemain akan memandu karakter mereka untuk bertahan hidup, berproduksi, dan akhirnya membangun sekte mereka sendiri. Setelah itu, mereka akan melalui banyak pertempuran dan menjadi tuan abadi. Oleh karena itu, Anda hanya dapat [color=#2E589A]perintah umum[/color] pada karakter. Dan karakter akan menyelesaikan pesanan Anda sesuai dengan jadwal kerjanya. Dalam sebagian besar situasi, Anda tidak dapat secara langsung meminta karakter untuk melakukan tugas tertentu. 
+			Memeriksa suasana hati dan emosi setiap karakter sebagai [color=#2E589A]pengamat[/color] adalah kesenangan dari game ini.</Text>
+		</Help>
+		<Help Name="C2" Root="1">
+			<Title>kontrol</Title>
+			<Text>[color=#9e6404]Sesuaikan kamera[/color]
+					Gunakan tombol tengah mouse, W A S D, atau tombol panah untuk menggerakkan kamera. 
+				[img]ui/Bantuan_en/003[/img]
+				[color=#9e6404]Kecepatan Permainan[/color]
+					Gunakan tombol di pojok kiri atas untuk mengatur kecepatan permainan. Keempat tombol tersebut adalah: Jeda (pintasan: Spasi), Kecepatan 1x, Kecepatan 2x, Kecepatan 3x (Gunakan Q untuk memperlambat permainan dan E untuk meningkatkan). 
+				[img]ui/Bantuan_en/004[/img] 
+				[color=#9e6404]Pilih dan batalkan[/color]
+					Klik kiri untuk memilih target. Klik kanan untuk membatalkan pilihan. 
+				[img]ui/Help_en/005[/img]</Text>
+		</Help>
+		<Help Name="C3" Root="1">
+			<Title>Tombol pintas</Title>
+			<Text>[color=#9e6404]Lihat pintasan khusus di menu sistem[/color]</Text>
+		</Help>
+		<Help Name="21" Root="2">
+			<Title>Menu karakter</Title>
+			<Text>[img]ui\Help2_en\001[/img] 
+				Jendela karakter berisi berbagai informasi karakter. Anda dapat melihat statistik dasar seperti [color=#D06508]Hunger[/color], [color=#D06508]Quantity[/color], [color=#D06508]Emotion[/color], dan seterusnya.
+				Tombol-tombol di sudut kiri atas panel karakter berhubungan dengan pertarungan. Gunakan mereka untuk mengeluarkan perintah serangan/melarikan diri.
+				Tombol-tombol di bagian atas panel menu ditujukan untuk interaksi langsung. Digunakan untuk mengeluarkan perintah khusus untuk berinteraksi langsung dengan karakter.
+				Panel mantra ('energi magis' dalam pertempuran) yang terletak di sisi kanan menu karakter dapat digunakan untuk melihat/menggunakan mantra atau energi magis apa pun yang dimiliki karakter.</Text>
+		</Help>
+		<Help Name="22" Root="2">
+			<Title>Statistik dasar</Title>
+			<Text>Persepsi: Kemampuan karakter untuk mengeksplorasi dan mengumpulkan informasi dari dunia luar. Hal itu mempengaruhi visi karakter dan performa kerja yang baik.
+				Stamina: Kekuatan fisik karakter. Mempengaruhi umur karakter. Ketahanan dingin dan panas serta efisiensi kerja fisik
+				Karisma: Kemampuan karakter untuk disukai orang lain. Terlepas dari menggunakan penampilan atau kepribadian. Mempengaruhi kemampuan sosial karakter.
+				Intelegensi : Kemampuan berpikir seorang tokoh. Mempengaruhi kecepatan belajar. Keberuntungan: Sejauh mana suatu karakter disukai oleh surga. Mempengaruhi statistik terkait peluang. 
+				Potensi: Karakter yang lebih muda dengan lima statistik lebih baik akan memiliki potensi lebih tinggi daripada karakter yang lebih tua. Potensi mempengaruhi kecepatan latihan dasar dan besarnya lautan energi karakter. 
+				[img]ui/Bantuan_en/006[/img]</Text>
+		</Help>
+		<Help Name="23" Root="2">
+			<Title>Emosi dan kebutuhan</Title>
+			<Text>Secara umum, Anda dapat memahami kebutuhan karakter melalui emosinya. Jika suatu karakter “merasa kedinginan”, itu berarti mereka membutuhkan cara yang lebih efektif untuk tetap hangat. 
+				Anda dapat melihat suasana hati karakter Anda melalui jendela [color=#2E589A]Emosi dan Sosial[/color] di menu karakter.
+				
+				Anda harus memperhatikan mood karakter. Jika karakter memiliki terlalu banyak emosi negatif maka akan menimbulkan masalah.
+				Bagi siswa luar Berada dalam suasana hati yang buruk berarti mereka akan [color=#2E589A] lesu dalam bekerja[/color] dan hal ini juga meningkatkan tingkat ketidakpuasan mereka. Tingkat ketidakpuasan yang tinggi mungkin menyebabkan mereka meninggalkan sekte tersebut. 
+				[img]ui/Bantuan_en/007[/img]</Text>
+		</Help>
+		<Help Name="24" Root="2">
+			<Title>hubungan sosial</Title>
+			<Text>Karakter membentuk hubungan dengan orang lain dalam sekte: teman, kekasih, saingan cinta, dll.
+				Karakter berinteraksi secara berbeda tergantung pada hubungan mereka: teman dan kekasih sering kali berbicara satu sama lain. Sedangkan pesaing dan musuh akan saling menghina atau bahkan saling berkelahi.
+				Oleh karena itu, sangat penting untuk menjaga hubungan baik antara anggota sekte Anda satu sama lain.
+				
+				Anda dapat melihat hubungan sosial karakter Anda melalui tab [color=#2E589A]Emosi dan Sosial[/color] di menu karakter.
+				
+				Karakter yang makan bersama di meja akan secara efektif meningkatkan hubungan mereka. Cara ini bisa Anda gunakan untuk mengatur hubungan sosial antar anggota dalam sekte tersebut. 
+				[img]ui/Bantuan_en/007[/img]</Text>
+		</Help>
+		<Help Name="25" Root="2">
+			<Title>kekuatan hidup</Title>
+			<Text>Anda dapat melihat kesehatan karakter Anda melalui[color=#2E589A]kesehatan[/color]Di menu karakter[color=#9e6404]luka[/color] 
+				[img]ui\Help2_en\032[/img]Ketika seorang karakter terluka dan tidak mempunyai obat yang sesuai, Karakter yang bertanggung jawab atas perawatan medis secara otomatis akan datang untuk merawat orang yang terluka tersebut.
+				
+				Pemulihan dari luka berhubungan dengan[color=#D06508]pemulihan yang terluka[/color], [color=#D06508]Pengalaman medis praktisi[/color], Dan[color=#D06508]obat yang digunakan untuk mengobati[/color]Jika orang yang terluka tidak pulih setelah perawatan, cobalah untuk memperbaiki setidaknya satu hal.[color=#9e6404]cedera dalam[/color]
+				[img]ui\Help2_en\033[/img]Seiring berjalannya permainan, Karakter mungkin terluka karena intrusi Qi. Karakter tersebut tidak dapat pulih dari cedera yang disebabkan oleh gangguan Qi. Cedera semacam ini dapat disembuhkan dengan memberikannya kepada orang yang terluka[color=#D06508]Makan obat yang tepat[/color]saja
+				Pemulihan dari kerusakan internal melibatkan[color=#D06508]Biaya pemulihan orang yang terluka[/color]Dan[color=#D06508]Tingkat kedokteran[/color]Jika orang yang terluka tidak pulih setelah perawatan, cobalah untuk memperbaiki setidaknya satu hal.[color=#9e6404]Functions[/color]Informasi terkait fungsi ini terdapat di tab Kesehatan. Anda dapat melihat apakah fungsi karakter berfungsi atau tidak. Fungsi mempengaruhi kinerja karakter ketika melakukan hal-hal yang berkaitan dengan fungsi tersebut. 
+				
+				Sakit: Sejauh mana karakter merasakan sakit, yang mempengaruhi kesadaran karakter. Tiap karakter mempunyai toleransi rasa sakit yang berbeda-beda. Analgesik dapat digunakan untuk menghilangkan rasa sakit.
+				Kesadaran: Kesadaran karakter yang terkena cedera otak atau nyeri akut.
+				Qi Pulse Point: Aliran Qi Pulse karakter, yang mempengaruhi proses budidaya karakter dan kuantitas Qi maksimum.
+				Gerakan: Kemampuan karakter untuk bergerak. Terkena cedera kaki atau tulang belakang Gerakan memengaruhi kecepatan dan efisiensi gerakan karakter untuk hampir semua jenis tugas. 
+				Akurasi : Kemampuan karakter untuk bermanuver. Terkena cedera lengan atau tulang belakang Ketangkasan memengaruhi kinerja karakter untuk sebagian besar tugas. 
+				Observasi: Kemampuan karakter untuk memahami dunia luar. Terkena ketika mata dan telinga karakter rusak. Pengamatan memengaruhi jarak penglihatan dan kinerja di sebagian besar tugas.[img]ui/Help_en/008[/img]</Text>
+		</Help>
+		<Help Name="31" Root="3">
+			<Title>Jadwal kerja</Title>
+			<Text>Anda dapat menggunakan menu [color=#2E589A]Lembar Kerja[/color] di sudut kanan untuk mengatur alur kerja Anda.
+				Karakter akan menyelesaikan tugas sesuai prioritas yang ditampilkan. Disusun dari kiri ke kanan Jika pekerjaan tidak ditetapkan ke karakter tertentu di menu Pekerjaan, karakter tersebut tidak akan aktif.
+				Oleh karena itu, penggunaan menu tugas secara strategis dapat meningkatkan efisiensi seluruh kantor. 
+				[img]ui/Bantuan_en/009[/img]
+			[color=#9e6404]Prioritaskan[/color] 
+				Karakter menyelesaikan tugas berdasarkan prioritas, menyelesaikannya sebelum orang lain. 
+				[img]ui/Bantuan_en/010[/img]
+			[color=#9e6404]Jadwal untuk siswa luar[/color]
+				Jadwal keseluruhan kegiatan sehari-hari siswa luar Jadwal yang tepat mengatur karakter untuk makan, minum, dan tidur sebelum memendam emosi negatif karena lapar, haus, atau kurang tidur. 
+				[img]ui/Bantuan_en/011[/img]</Text>
+		</Help>
+		<Help Name="32" Root="3">
+			<Title>pesanan konstruksi</Title>
+			<Text>[img]ui/Bantuan_en/012[/img]
+				Anda dapat mengeluarkan perintah bangunan di menu bangunan di pojok kiri bawah.
+				Seiring berjalannya permainan, Berbagai bangunan Lainnya akan dibuka.
+				Jangan ragu untuk membuat kantor khusus dan unik Anda sendiri.</Text>
+		</Help>
+		<Help Name="33" Root="3">
+			<Title>Perintah dasar</Title>
+			<Text>Anda dapat menggunakan baris perintah di bagian bawah layar untuk mengeluarkan perintah dasar. 
+				Anda dapat mengeluarkan perintah pengumpulan sumber daya yang menargetkan beberapa objek dengan memilih dan menyeret.
+				
+				Harvest: Memanen produk tanaman seperti buah-buahan dan biji-bijian di area yang dipilih.
+				Memotong kayu: Memotong kayu pada area yang dipilih.
+				Penambangan: Menambang bijih di area yang dipilih.
+				Clean up: Membersihkan area yang dipilih.
+				Hancurkan: Hancurkan bangunan di area yang dipilih.
+				Jelajahi: Tetapkan tujuan eksplorasi. Karakter akan menuju ke titik yang dipilih dan menyebarkan kabut di sepanjang jalan.
+				Memadamkan Api: Memadamkan api di area yang dipilih.
+				Batal: Membatalkan semua pesanan yang dikeluarkan di area yang dipilih. [img]ui/Bantuan_en/013[/img]</Text>
+		</Help>
+		<Help Name="34" Root="3">
+			<Title>pesanan produksi</Title>
+			<Text>Beberapa bangunan dapat digunakan untuk memproduksi barang. Klik 'Produksi' pada dialog bangunan untuk membuka menu produksi.
+				di menu produksi Klik kiri pada produk untuk menambahkannya ke antrian produksi. 
+				[img]ui/Bantuan_en/014[/img]
+			[color=#9e6404]Pilih Bahan Utama[/color]
+				di menu produksi Klik kanan pada ikon produk untuk memilih bahan utama yang digunakan untuk membuat item ini. 
+				[img]ui/Bantuan_en/017[/img]
+			[color=#9e6404]Pengulangan Pembuatan[/color] 
+				di menu produksi Klik kiri tombol 'Ulangi' di antrian produksi untuk memilih jenis pengulangan untuk produk. 
+				[img]ui/Bantuan_en/016[/img]
+			[color=#9e6404]Atur Antrian[/color]
+				di menu produksi Klik kiri pada tombol. 'Prioritas tertinggi' dalam antrean produksi untuk memilih pekerjaan mana yang akan diprioritaskan. 
+				[img]ui/Bantuan_en/015[/img]</Text>
+		</Help>
+		<Help Name="35" Root="3">
+			<Title>Perintah interaktif</Title>
+			<Text>Saat memilih karakter Urutan interaksi yang dapat digunakan dengan karakter ini ditampilkan di bagian atas bilah karakter.
+				Anda dapat memilih urutan interaksi. Tujuannya kemudian untuk menghasilkan urutan interaksi tertentu untuk karakter tersebut.
+				
+				Perintah interaktif dasar meliputi: 
+				Makan: Makan apa yang Anda pilih. 
+				Keausan: Kenakan item yang dipilih. 
+				Attack: Menyerang item yang dipilih. 
+				Buat Senjata Ajaib: Tempa objek yang dipilih menjadi senjata ajaib.
+				Pil Pemurnian: Gunakan pil pemurnian. 
+				[img]ui/Bantuan_en/018[/img]</Text>
+		</Help>
+		<Help Name="36" Root="3">
+			<Title>perencanaan ruang</Title>
+			<Text>Seiring berjalannya permainan Anda dapat merencanakan ruang Anda dengan tiga cara berbeda: penyimpanan, lahan pertanian, dan kebun herbal. 
+				[color=#9e6404]Tempat penyimpanan[/color]
+				[img]ui\Help2_en\021[/img] 
+				Setelah merencanakan ruang penyimpanan, Karakter yang bertanggung jawab untuk menyeret akan memindahkan objek apa pun. yang memenuhi persyaratan penyimpanan ke tempat penyimpanan 
+				Anda dapat memilih tempat penyimpanan dan menetapkan aturan pemfilteran. yang dapat menyusun item ke dalam berbagai kategori dan memudahkan pencarian 
+				
+				[color=#9e6404]Area pertanian dan kebun herbal[/color]
+				[img]ui\Help2_id\019[/img]
+				Setelah merencanakan area tersebut, Karakter yang bertanggung jawab atas budidaya akan datang ke sini dan melakukan pekerjaan.
+				Anda dapat memilih lahan dan memilih tanaman yang akan ditanam di area tersebut. Menciptakan lingkungan yang cocok untuk tanaman dapat mempercepat pertumbuhan tanaman. 
+				[img]ui\Help2_en\018[/img]
+				[color=#9e6404]Ekspansi[/color]
+				Anda dapat memperluas ruang yang tersedia dengan menggambar kotak centang yang tumpang tindih.</Text>
+		</Help>
+		<Help Name="41" Root="4">
+			<Title>Pilih bahan baku utama</Title>
+			<Text>Anda dapat memilih [color=#2E589A]Bahan Utama[/color] yang berbeda untuk membuat berbagai objek dan bangunan.
+				Material utama mempengaruhi warna bangunan. Bangunan mewarisi komposisi unsur bahan induknya dan memiliki sifat unsur tersebut. 
+				[img]ui/Bantuan_en/019[/img]
+				
+				[color=#9e6404]Misalnya:[/color]
+				Dinding baja diisi dengan elemen logam. Hal ini membuatnya lebih kuat dan kecil kemungkinannya terbakar dibandingkan dinding kayu. 
+				Furnitur yang terbuat dari batu giok dipadukan dengan elemen tanah. Hal ini membuat mereka kurang tahan lama namun lebih menarik. 
+				[img]ui/Help_en/020[/img]</Text>
+		</Help>
+		<Help Name="42" Root="4">
+			<Title>Berinteraksi dengan bangunan</Title>
+			<Text>Beberapa bangunan mengharuskan karakternya berdiri di lokasi tertentu untuk berinteraksi dengan bangunan tersebut.
+				Saat menempatkan bangunan Pastikan untuk menyisakan ruang untuk tempat yang dapat diakses oleh karakter.
+				[img]ui/Bantuan_en/021[/img]</Text>
+		</Help>
+		<Help Name="43" Root="4">
+			<Title>ruang</Title>
+			<Text>Ruangan adalah ruangan yang seluruhnya dikelilingi oleh dinding dan pintu. 
+				Ruangan harus memiliki ukuran minimal [color=#2E589A]3[/color] tetapi tidak lebih. [color=#2E589A]400[/color] saluran 
+				Kamar-kamar dibagi menurut ukurannya sebagai berikut:
+
+				Sangat kecil: kurang dari 10 saluran
+				Ukuran kecil: 10-20 saluran 
+				Ukuran sedang: 20-50 saluran 
+				Ukuran besar: 50-100 saluran 
+				Sangat besar: lebih dari 100 saluran 
+				
+				Dinding dapat digunakan sebagai penyekat ruangan. Kontrol sumber panas di dalam ruangan untuk menjaga suhu ruangan yang nyaman. 
+				
+				Kamar memiliki peringkat yang berbeda. Lihat contoh di bawah ini: 
+			[img]ui/Bantuan_en/022[/img]
+				Anda dapat meningkatkan peringkat ruangan dengan meletakkan lantai atau menempatkan furnitur di dalamnya.</Text>
+		</Help>
+		<Help Name="51" Root="5">
+			<Title>lima elemen</Title>
+			<Text>Membentuk Klan akan membuka kunci bangunan: [color=#2E589A]Menara Bintang[/color] 
+			[img]ui/Bantuan_en/023[/img]
+				Setelah membangun observatorium Anda dapat melihat tingkat konsentrasi kelima elemen di suatu area tertentu. pengaruh hal-hal yang dapat mempengaruhi lingkungan dan feng shui bangunan 
+				[color=#9e6404]Lima Elemen[/color]
+				Mengarahkan mouse ke area yang ditunjukkan di bagian atas layar akan menampilkan tingkat konsentrasi kelima elemen. 
+			[img]ui/Bantuan_en/024[/img]
+			[color=#9e6404]Elemen elemen[/color] 
+				Klik kiri dan hal-hal seperti bangunan, area, atau objek. Untuk memeriksa konsentrasi elemen di sekitarnya Lingkaran yang mewakili elemen tersebut akan muncul tergantung pada area yang Anda pilih. Warna lingkaran melambangkan elemen. Sedangkan jari-jari lingkaran menunjukkan luas daerah yang dipengaruhi oleh benda tersebut. 
+				
+				[color=#9e6404]Feng Shui Benda[/color] Hijau berarti bangunan memiliki Feng Shui yang baik. Nuansa hijau berarti feng shui yang lebih baik dan menguntungkan. 
+				Kuning berarti bangunan tersebut memiliki feng shui yang buruk. Kuning akan berubah menjadi merah karena feng shui Anda semakin buruk dan semakin tidak menyenangkan. 
+				Bangunan tanpa warna apa pun (misalnya dinding) berarti tidak memiliki efek feng shui. 
+				Lihat interaksi antara lima elemen di bawah ini: 
+			[img]ui/Bantuan_en/025[/img]</Text>
+		</Help>
+		<Help Name="52" Root="5">
+			<Title>Mengolah Qi dan Lima Elemen</Title>
+			<Text>Pembinaan suatu karakter erat kaitannya dengan unsur yang dimilikinya. Umumnya setiap teknik budidaya memiliki unsurnya masing-masing.
+				
+				Jika unsur lingkungan sekitar Karakter itu menekan unsur budidaya. Karakter akan menghadapi banyak masalah selama pelatihan. dan mungkin gagal atau terluka ketika melanggar batas. 
+				Sebaliknya, jika komposisi unsur lingkungan sesuai dengan teknik budidaya, maka budidaya akan lebih mudah dan menembus batas. 
+			[img]ui/Bantuan_en/026[/img]
+				[color=#9e6404]Gunakan Enam Belas Langkah untuk Menguasai (Nam) sebagai contoh: [/color]
+				Karena unsur tanah menekan unsur air. Oleh karena itu, teknik budidaya ini tidak cocok untuk tempat dengan unsur tanah yang padat. Dalam hal ini, hindari penggunaan batu untuk furnitur di dalam ruangan. 
+				Di sisi lain, karena emas mempromosikan air. Oleh karena itu, subjek ini cocok untuk lingkungan dengan unsur emas pekat. Oleh karena itu, menempatkan lebih banyak furnitur berelemen emas di dalam ruangan akan membantu latihan tersebut.</Text>
+		</Help>
+		<Help Name="53" Root="5">
+			<Title>Feng Shui dan Lima Elemen</Title>
+			<Text>Feng Shui menggambarkan hubungan antara sebuah bangunan dan lingkungannya. yang dipengaruhi oleh [color=#2E589A]interaksi lima elemen[/color]: 
+				Jika komposisi unsur bangunan tidak sesuai dengan lingkungannya, Feng Shui akan berubah menjadi buruk. 
+				
+				[color=#9e6404]Menggunakan meja kayu sebagai contoh:[/color]
+				Jika ada bijih besi di dekatnya, feng shui meja akan tertekan oleh logam yang menekan kayu tersebut. 
+				[img]ui/Bantuan_en/036[/img]
+				Jika Anda membangun kolam di samping meja, Feng shui akan lebih baik karena air mendorong kayu. 
+				[img]ui/Help_en/035[/img]</Text>
+		</Help>
+		<Help Name="54" Root="5">
+			<Title>Feng Shui bangunan</Title>
+			<Text>Ada dua jenis bangunan: 
+			[warna=#9e6404]1. Bangunan dekoratif[/color]
+			Bangunan dalam kategori [color=#2E589A]dekorasi[/color], [color=#2E589A]struktur[/color] dan [color=#2E589A]lantai[/warna] umumnya termasuk dalam kategori ini.
+			Bangunan yang dihias dapat mempengaruhi unsur-unsur di sekitarnya berdasarkan bahan utama yang digunakan untuk membangunnya.
+			Bangunan yang dihias tidak memiliki feng shui sendiri. Hal ini sering digunakan untuk menyesuaikan feng shui bangunan fungsional. 
+			[warna=#9e6404]2. Bangunan yang berguna[/color] 
+			Umumnya, bangunan dalam kategori [color=#2E589A]kehidupan sehari-hari[/color], [color=#2E589A]karir[/color], [color=#2E589A]kantor[/color], dan [color=#2E589A]hiburan[/color] termasuk dalam kategori ini. 
+			Feng Shui ada pada bangunan yang memiliki kegunaan. Tips tentang "Bangunan Feng Shui" termasuk di antara bangunan yang memiliki kegunaan (lihat di bawah). 
+			Feng Shui suatu bangunan fungsional dipengaruhi oleh distribusi lima elemen di lokasinya. Semakin banyak elemen bangunan yang sesuai dengan lokasi bangunan, semakin baik. Semakin baik pula feng shui bangunan tersebut. 
+			[img]ui/Help_en/038[/img]</Text>
+		</Help>
+		<Help Name="55" Root="5">
+			<Title>Feng Shui ruangan</Title>
+			<Text>Feng shui suatu ruangan dipengaruhi oleh faktor-faktor berikut:  
+			I. Feng Shui dari semua bangunan Feng Shui di dalam ruangan. 
+			II. Tata letak ruangan (Baik sempit atau kosong, keduanya merusak Feng Shui.) 
+			AKU AKU AKU. Saat pintu kamar menghadap ke arah yang benar. Feng Shui akan bagus. 
+				Pintu Kamar Selatan: Kamar Tidur, Aula Pendiri 
+				Pintu Timur: Ruang Kerja, Ruang Pemurnian Senjata Ajaib, Ruang Pemurnian Obat 
+				Pintu barat: dapur 
+				
+			Kamar kosong tidak akan memiliki feng shui.
+			Ketika sebuah ruangan ditentukan oleh berbagai bangunan Feng shui suatu ruangan ditentukan oleh skor feng shui terendah dari daftar bangunan di dalam ruangan tersebut (misalnya, jangan letakkan tempat tidur di dapur). Jika tidak, Feng Shui akan menjadi lebih buruk.) 
+			
+			Setelah membuat bagan bintang Anda dapat melihat detail feng shui pada panel feng shui ruangan. 
+			[img]ui/Bantuan_en/037[/img]
+			
+			Situasi khusus:
+			Ketika sebuah ruangan memiliki banyak pintu, feng shui ruangan ditentukan berdasarkan aturan berikut: 
+				Ruangan mana pun yang tidak memiliki Feng Shui tidak relevan dengan aturan yang dibahas di sini. 
+				1. Jika hanya ada satu pintu yang menuju ke luar, itu menentukan arah ruangan. 
+				2. Jika ada lebih dari dua pintu yang menuju ke luar. Hal ini akan menyebabkan kebocoran Feng Shui. Hal ini akan sangat mengurangi skor Feng Shui ruangan. 
+				3. Bila tidak ada pintu yang menuju ke luar. Feng shui suatu ruangan ditentukan oleh pintu mana yang paling dekat dengan arah yang benar.</Text>
+		</Help>
+		<Help Name="56" Root="5">
+			<Title>Feng Shui kantor</Title>
+			<Text>Feng Shui suatu sekte ditentukan oleh semua ruangan dan bangunan lainnya. Semua di kantor 
+			Feng Shui sekte tersebut akan mempengaruhi keberuntungan setiap murid. Meski berdampak kecil pada kehidupan sehari-hari. Namun hal ini juga bisa berarti hidup dan mati pada saat-saat kritis. 
+			Lihat Feng Shui Klan di menu Klan. Setelah membuat bagan bintang Anda dapat melihatnya langsung menggunakan tombol Feng Shui di pojok kiri atas. 
+			[img]ui/Help_en/039[/img]</Text>
+		</Help>
+		<Help Name="61" Root="6">
+			<Title>Mengolah Qi</Title>
+			<Text>Saat karakter menjadi murid batin Anda dapat memilih perilaku karakter dengan mengubah pengaturan berikut. 
+			[img]ui\Help_en\028[/img]
+			[warna=#9e6404]1. keseimbangan[/warna] 
+			Karakter akan dilanjutkan dengan bentuk pengembangan, pikiran, atau latihan terbaik pada saat itu. 
+			[warna=#9e6404]2. Mengolah[/mewarnai] 
+			Karakter akan fokus pada budidaya Qi. 
+			[warna=#9e6404]3. pikiran[/warna] 
+			Karakter akan fokus pada peningkatan keadaan pikiran mereka. 
+			[warna=#9e6404]4. Latihan[/warna] 
+			Karakter akan fokus pada pelatihan untuk memperluas konsep mereka.</Text>
+		</Help>
+		<Help Name="62" Root="6">
+			<Title>Kecepatan budidaya</Title>
+			<Text>Anda dapat melihat kecepatan budidaya karakter Anda saat ini di menu budidaya. Perhatikan semua hal yang mempengaruhi kecepatan latihan Anda yang dapat ditingkatkan untuk mempercepat latihan Anda. 
+			[warna=#9e6404]1. Kompatibilitas subjek[/warna] 
+			Ini menunjukkan seberapa baik statistik utama karakter dan keterampilan budidaya digabungkan. Itu dapat ditingkatkan dengan meningkatkan lima statistik dasar. 
+			[warna=#9e6404]2. Kompatibilitas elemen[/warna] 
+			Ini menunjukkan bahwa elemen-elemen di area tersebut Dan seberapa cocok teknik budidayanya? Hal tersebut dapat diusahakan dengan pemilihan lokasi budidaya yang tepat. 
+			[warna=#9e6404]3. Menerima ajaran[/warna] 
+			Jika karakter diajarkan oleh guru dengan status lebih tinggi dari mereka, kecepatan pelatihan akan ditingkatkan. Kecepatannya akan sangat meningkat jika seorang guru berlatih menggunakan teknik budidaya yang sama. 
+			[warna=#9e6404]4. Energi bonus[/warna]
+			Ini menunjukkan apakah kepadatan Qi di daerah tersebut cocok untuk budidaya atau tidak. Hal tersebut dapat diusahakan dengan pemilihan lokasi budidaya yang tepat. 
+			[warna=#9e6404]5. Bonus kenyamanan[/warna]
+			Hal ini menunjukkan seberapa besar bantuan furnitur yang digunakan di ruang budidaya bagi para penggarap. Hal ini dapat diperbaiki dengan mengolah ruangan dengan feng shui yang baik. 
+			[warna=#9e6404]6. Bonus musim[/warna] 
+			Ini menunjukkan musim yang membantu mendorong budidaya. Kayu melambangkan musim semi. Api melambangkan musim panas. Logam melambangkan musim gugur. sedangkan air melambangkan musim dingin. Menerobos seni elemen alam bumi paling efektif di akhir setiap musim. 
+			[warna=#9e6404]7. Bonus emosional[/warna] 
+			Menunjukkan keadaan emosional yang membantu dalam budidaya. Hal ini dapat ditingkatkan dengan memberikan apa yang dibutuhkan murid tersebut. 
+			[warna=#9e6404]8. Bonus status mental[/warna] 
+			Menunjukkan kondisi kondisi mental yang membantu dalam budidaya. Hal ini dapat ditingkatkan dengan melatih pikiran. 
+			[img]ui/Bantuan_en/027[/img]
+			Setelah karakter memasuki Alam Inti Emas, basis budidaya yang diperlukan untuk menerobos alam akan meningkat pesat. Anda harus merapal mantra untuk membantu budidaya muridnya. 
+			[img]ui/Help_en/040[/img]</Text>
+		</Help>
+		<Help Name="63" Root="6">
+			<Title>Kekuatan fisik dan budidaya</Title>
+			<Text>Setelah menjadi murid batin, Karakter akan mulai menggunakan sumber daya baru yang disebut Stamina. Dengan menggunakan kekuatan fisiknya, karakter akan mampu menyempurnakan dan meningkatkan Qi maksimalnya. 
+				Penggunaan kekuatan fisik berhubungan dengan kecepatan latihan. Efektivitas menaikkan level lautan energi berkaitan dengan potensi karakter. 
+				
+				Konsumsi makanan dapat menciptakan kekuatan fisik bagi karakter. Setiap kali karakter memakan makanan dalam jumlah tertentu, mereka juga akan mengisi kembali sejumlah energi fisik. 
+				Seiring kemajuan budidaya, kecepatan metabolisme akan meningkat. Namun karakter tersebut akan memiliki kemampuan untuk menerima energi dari alam. Ini disebut 'Menyerap Qi dan berpuasa dari lima ramuan' 
+				Sesuaikan kecepatan konsumsi makanan dan efisiensi penyerapan qi. Untuk menjaga keseimbangan antara sumber daya sekte dan kecepatan budidayanya. 
+				
+				Selain itu, beberapa obat atau harta langka dapat digunakan untuk meningkatkan kekuatan fisik seseorang secara langsung. 
+			[img]ui/Help_en2/030[/img]</Text>
+		</Help>
+		<Help Name="64" Root="6">
+			<Title>Keadaan mental</Title>
+			<Text>Gagasan tentang keadaan mental sangat penting bagi murid batiniah. 
+			Keadaan mental seorang murid batiniah mempengaruhi orang tersebut dalam berbagai cara, termasuk: 
+				1. Budidaya 
+				2. Mendobrak batasan 
+				3. Pil pemurnian 
+				4. Menempa Senjata Ajaib 
+				Biasanya keadaan pikiran yang lebih baik berarti hasil akhir yang lebih baik. 
+				
+				Keadaan emosi itu mempunyai pengaruh yang besar terhadap keadaan mental. 
+				Suasana hati yang membosankan merusak kondisi mental dan mengakibatkan tertundanya pemulihan mental. Sebaliknya, jika suasana hati Anda sedang baik, Anda akan bisa memulihkan kondisi mental Anda lebih cepat. 
+				
+				Jika suasana hati seorang murid batiniah terlalu rendah, Hal itu dapat menyebabkan mereka jatuh ke pihak iblis. 
+				Dalam keadaan seperti itu, Anda tidak akan bisa mengendalikan murid itu. 
+				[img]ui/Bantuan_en/028[/img]</Text>
+		</Help>
+		<Help Name="65" Root="6">
+			<Title>melanggar batasan</Title>
+			<Text>Ketika seorang kultivator mencapai kemacetan tidak akan bisa maju lebih jauh. Menembus batas diperlukan untuk maju ke tahap budidaya berikutnya. 
+			Hambatannya bisa sebagai berikut:  
+			[warna=#9e6404]1. Kemacetan umum[/color] 
+			Pilih tempat yang tepat untuk mendobrak batasan. Jika statistik karakter dan kondisi lokasi yang dipilih memenuhi persyaratan, Menembus batas akan memiliki peluang sukses lebih besar. 
+			[warna=#9e6404]2. Petualangan Kemacetan[/color] 
+			Menembus batas semacam ini membutuhkan seorang kultivator untuk melakukan petualangan. Jika kemampuan sosialnya mencukupi, karakter akan mampu dengan mudah menembus batasan 
+			[warna=#9e6404]3. Leher Botol Sunta[/color] 
+			Sekali dimulai Mendobrak batasan seperti ini tidak bisa dihentikan di tengah jalan. Kultivator akan kehilangan seluruh Qi-nya dan menjadi murid luar lagi. Mereka harus mendapatkan kembali niat paling murni mereka melalui kerja keras setiap hari untuk menembus batasan. 
+			[warna=#9e6404]4. Leher Botol Inti Emas[/color] 
+			Pilih lokasi yang tepat untuk membuat inti emas. Jika statistik karakter dan kondisi lokasi yang dipilih memenuhi persyaratan, Kualitas porosnya bagus sesuai dengan kondisi tersebut. Inti emas yang baik berarti proses budidaya yang lebih mudah di masa depan. 
+			[warna=#9e6404]5. Hukuman Surga[/color] 
+			Pilih lokasi untuk selamat dari hukuman surga. Kemajuan seorang kultivator akan menentukan apakah mereka akan lolos dari Hukuman Surgawi atau tidak.</Text>
+		</Help>
+		<Help Name="66" Root="6">
+			<Title>Konsep dan benih Tao</Title>
+			<Text>Karakter dapat memperoleh [color=#2E589A]Ide[/color] selama budidaya di jendela 'Ide' pada halaman budidaya. Anda akan dapat menggunakan poin konsep untuk mempelajari mata pelajaran baru.
+				
+				Dan setiap kali karakter menggunakan idenya untuk mempelajari keterampilan baru. Karakter tersebut akan memiliki lebih banyak benih dio. Hal ini akan menghasilkan pembelajaran di masa depan. Pergi membutuhkan lebih banyak nilai konsep. 
+				
+				[color=#2E589A]Benih Dao[/color] adalah cerminan dari pengetahuan yang diserap karakter dari Dao Surgawi. Hal ini biasanya tidak meningkat dengan sendirinya. Semakin banyak benih dao yang dimiliki suatu karakter, semakin baik kemampuannya dalam mempelajari hal-hal baru. Akan semakin sulit. 
+			[img]ui/Help_en2/043[/img]</Text>
+		</Help>
+		<Help Name="67" Root="6">
+			<Title>Menjadi guru dan menerima murid</Title>
+			<Text>Ketika sebuah sekte memiliki murid yang berada di [color=#2E589A]Alam Inti Emas[/color], murid lain akan dapat memberi penghormatan kepada orang tersebut. bisa menjadi guru 
+				Ketika status budidaya seorang guru lebih tinggi dari pada seorang murid Pengajaran akan membantu budidaya para murid menjadi lebih baik. Dan jika mereka mempraktikkan teknik kultivasi yang sama, itu akan lebih meningkatkan pengembangan para murid. 
+				Ketika seorang murid melanggar batasan, gurunya akan melindungi dan memberikan dukungan. Hal ini akan semakin meningkatkan peluang keberhasilan dalam menembus batas. 
+				
+				Guru dapat menularkan ilmunya kepada siswanya. Menurut pepatah kuno: Siswa yang baik lebih baik dari gurunya. 
+			[img]ui/Bantuan_en/029[/img]</Text>
+		</Help>
+		<Help Name="68" Root="6">
+			<Title>Menempa ramuan dan senjata ajaib</Title>
+			<Text>[color=#9e6404]Pemurnian Obat[/color]
+			[img]ui/Help_en/030[/img]
+			Jika sekte tersebut memiliki murid dalam, Anda dapat memilih murid itu untuk memalsukan pil di tungku pil. Anda bisa mendapatkan formula obat baru. Dari buku yang didapat dari petualangan 
+			
+			[color=#9e6404]Menempa Senjata Ajaib[/color]
+			[img]ui/Bantuan_en/031[/img]
+			Jika sekte tersebut memiliki murid dalam dan tungku senjata ajaib Anda dapat mengklik tombol 'Menempa Senjata Ajaib' untuk membuat Senjata Ajaib Tempa. Semua item dapat dibuat dan digunakan untuk menempa senjata ajaib. Menurut karakteristik fisik item yang berbeda, senjata ajaib yang dibuat akan memiliki statistik yang berbeda. Item tingkat tinggi sulit untuk ditempa menjadi senjata magis. Namun jika berhasil disempurnakan, ia akan menjadi lebih kuat lagi. Item yang mengandung Qi dalam jumlah besar akan lebih mudah ditempa menjadi senjata magis. 
+			
+			[color=#9e6404]Menggambar Yantra[/color]
+			Jika sekte tersebut memiliki murid dalam Anda dapat mengklik tombol interaktif 'Gambar Yantra' untuk menggambar Yantra. Menggambar jimat membutuhkan jimat kertas yang dapat dibuat di meja gambar jimat. Semakin bagus kertas jimat yang digunakan maka akan semakin baik. Semakin kuat efek jimatnya. Pelajari gaya baru menggambar yantra. Jimat jenis baru harus digunakan. yang dapat ditemukan dalam petualangan Jimat yang sudah jadi hanya akan efektif jika dikenakan pada karakter. 
+			
+			[color=#9e6404]Halus[/color] 
+			Jika sekte tersebut memiliki murid dalam, Anda akan dapat menempa sesuatu menjadi batu roh. Jumlah batu roh yang diperoleh ditentukan oleh qi item tersebut. Setiap 5.000 qi setara dengan satu batu roh yang dihasilkan. Memurnikan senjata ajaib selalu menghasilkan batu roh. Menyempurnakan senjata sihir tingkat tinggi akan menghasilkan lebih banyak batu roh.</Text>
+		</Help>
+		<Help Name="69" Root="6">
+			<Title>mengeja</Title>
+			<Text>[img]ui/Bantuan_en/032[/img] 
+				Ketika seorang karakter memasuki alam budidaya yang lebih tinggi, mereka akan dapat mempelajari lebih banyak mantra. Beberapa spesies dapat membantu pertumbuhan tanaman. Beberapa di antaranya dapat digunakan untuk mempromosikan budidaya seseorang. Beberapa spesies dapat memprediksi masa depan. Sedangkan beberapa spesies dapat mengendalikan cuaca. 
+				Selain itu, para kultivator dapat memperoleh gulungan mantra selama petualangan mereka. yang dapat digunakan untuk mempelajari mantra baru</Text>
+		</Help>
+		<Help Name="610" Root="6">
+			<Title>petualangan</Title>
+			<Text>[img]ui/Bantuan_en/033[/img] 
+				Setelah sekte memiliki satu atau lebih murid dalam Anda dapat mengklik 'Dunia' di sudut kanan bawah layar untuk mengirim mereka bertualang. 
+				Penggarap akan menghadapi berbagai peristiwa. dan menerima hadiah dan sumber daya selama petualangan Anda 
+				Saat permainan berlangsung, lebih banyak lokasi akan dibuka, memungkinkan lebih banyak penggarap untuk menjelajah. Dibutuhkan waktu lebih lama untuk menjelajah ke lokasi yang lebih terpencil. 
+			[img]ui/Help_en2/007[/img]</Text>
+		</Help>
+		<Help Name="611" Root="6">
+			<Title>kantor</Title>
+			<Text>[img]ui/Bantuan_en/034[/img] 
+			Setelah karakter berhasil dalam pelatihan dasar dan menjadi murid batin, Anda dapat mengklik 'Klan' di pojok kanan bawah layar untuk masuk ke menu Klan untuk membuat Klan. 
+			[warna=#9e6404]1. Tingkat kantor[/warna] 
+				Sebuah sekte dapat naik hingga tiga tingkat jika ia memperoleh lebih banyak ketenaran.
+				Level Klan yang lebih tinggi akan meningkatkan populasi maksimum Klan dan membuka lebih banyak bangunan Klan dan mekanisme permainan. 
+			[warna=#9e6404]2. Reputasi klan dan kesulitan dalam bertarung[/color]
+				Petualangan dapat meningkatkan reputasi sekte tersebut. Sementara itu Musuh yang menyerang sekte tersebut akan menjadi lebih kuat. 
+			[warna=#9e6404]3. Manajemen kantor[/color] 
+				Anda dapat mengeluarkan murid dari Klan di menu Anggota Klan. 
+				Gunakan fungsi 'Masak Otomatis' di menu Klan untuk menginstruksikan murid luar memasak makanan secara otomatis selama waktu makan. 
+			[warna=#9e6404]4. Hubungan antar kantor[/color] 
+				Bertualang dan bangun hubungan dengan sekte lain. 
+				Ketika persahabatan bertambah, Karakter dapat menerima hadiah tambahan dari Klan lain. dengan mengunjungi mereka 
+			
+			[img]ui/Help_en2/006[/img]</Text>
+		</Help>
+		<Help Name="612" Root="6">
+			<Title>Struktur biro</Title>
+			<Text>Struktur Klan akan terbuka ketika Klan mencapai Tingkat Surga (Level 3). Anda dapat mengelola Klan Anda di 'Struktur Klan' pada menu Klan 
+			[warna=#9e6404]1. Janji temu[/warna]
+				Murid batin dapat ditunjuk sebagai pemimpin sekte atau pemimpin cabang. 
+				Posisi yang berbeda memerlukan tingkat keahlian yang berbeda. Misalnya, cabang Pill Refining memerlukan keterampilan Pill Refining yang memadai. Di sisi lain, cabang Penempaan Senjata Ajaib membutuhkan keterampilan Penempaan Senjata Ajaib yang memadai. 
+				Siswa dengan keterampilan yang baik akan tampil pada posisi yang lebih baik. 
+			[warna=#9e6404]2. Area cabang[/warna] 
+				Anda dapat menentukan 'Area cabang' yang dapat ditemukan di tab pembuatan area. 
+				Setelah menempatkan ruang Anda dapat menetapkan area ini ke cabang mana pun. 
+				Siswa cabang akan menerima berbagai bonus. Sedangkan di kawasan ini sesuai dengan cabang yang ditunjuk 
+			[warna=#9e6404]3. Tekanan, gangguan, dan ketidakmampuan master sekte[/color] 
+				Karakter merasa tertekan ketika harus melakukan terlalu banyak pekerjaan. 
+				Tekanan berubah menjadi gangguan. Mempengaruhi kondisi mental karakter. kecepatan latihan, dll. 
+				Kemampuan pemimpin sekte dapat mengurangi tekanan pada dirinya sendiri dan pemimpin cabang lainnya. secara efektif 
+			[warna=#9e6404]4. Keahlian cabang dan kemampuan kepala cabang[/color] 
+				Setelah biro memiliki cabang dengan keahlian khusus, Siswa di bawah cabang ini akan menerima berbagai bonus. terkait dengan kemampuan kepala cabang 
+				Murid cabang dapat memperoleh dua jenis bonus. 
+					1. Bonus area: hanya tersedia di area yang ditugaskan pada cabang. 
+					2. Bonus Umum: Tersedia selama siswa berada di bidang tersebut. 
+			[warna=#9e6404]5. Pensiun dan kelelahan[/color] 
+				Ketika dibebaskan dari semua tugas, Karakter akan mengalami kelelahan yang lama. 
+				Kelelahan ditentukan oleh seberapa lelah Anda dari pekerjaan sebelumnya. 
+				Durasi kelelahan tergantung pada jumlah hari karakter akan bertugas. Jika karakter mempunyai banyak tanggung jawab, Waktu tugas adalah dari awal tugas pertama Anda hingga akhir tugas terakhir Anda (terpendek: 14 hari, terlama: 84 hari). 
+				P.S. Tidak akan ada rasa lelah sedikit pun. Jika karakter tersebut hanya bertugas dalam waktu singkat sebelum pensiun</Text>
+		</Help>
+		<Help Name="71" Root="7">
+			<Title>Jelajahi dunia</Title>
+			<Text>
+			[color=#9e6404]1. Masukkan tempatnya[/color]Sebagian besar lokasi dalam game tersedia untuk dijelajahi oleh Penggarap Anda. 
+				Anda dapat mengirim pembudidaya ke lokasi yang dapat diakses dengan mengklik tombol "Masuk" untuk menjelajah lebih jauh.[img]ui/Help_en2/044[/img]Orang Suci dan Dewa dapat memasuki berbagai tempat dengan segera. Namun, para Suci dan Dewa akan mendapat masalah dengan hukuman Saint Exorcism yang menunggu mereka. 
+				Jika ada masa hukuman surgawi hingga para Suci yang menjelajahi tempat itu harus mengumpulkan semua Qi mereka untuk melawannya. Hal ini akan sangat mengurangi kemampuan bertarung mereka.[color=#9e6404]2. Jelajahi lokasinya[/color]Ada banyak harta karun, musuh, dan misteri yang tersembunyi di berbagai lokasi. 
+				Setelah memasuki tempat tersebut, Karakter dapat bergerak (hotkey: V) untuk menjelajahi area tersebut dan menemukannya.[img]ui/Help_en2/045[/img]Penggarap Anda mungkin menghadapi karakter bermusuhan saat menjelajahi lokasi. Pastikan untuk mengawasi mereka.[color=#9e6404]3. Berinteraksi dengan objek[/color]Anda dapat mengumpulkan item di peta lokasi dengan mengklik 'Kumpulkan' (F1) di sebelah panel karakter. Harap dicatat bahwa ini dapat menyebabkan kebencian pada karakter lain.[img]ui/Help_en2/046[/img]Kultivator dapat membawa hingga 6 item selama eksplorasi. Anda dapat menemukan item yang dikumpulkan di kolom [Kumpulkan] pada panel karakter. Anda dapat meninggalkan barang-barang koleksi Anda di sana. 
+				Klan Anda tidak akan menerima item ini secara resmi. Sampai karakter yang menahannya kembali dengan selamat ke sekte.[img]ui/Help_en2/047[/img]Ada juga objek interaktif khusus di berbagai lokasi. untuk Anda jelajahi[img]ui/Help_en2/049[/img] 
+			[color=#9e6404]4. Sembunyikan[/color]Saat berada di peta Karakter dapat menggunakan tombol 'Sembunyikan' (tombol pintas: F2) untuk bersembunyi. 
+				Saat bersembunyi, kemungkinan ketahuan bergantung pada stamina dan persepsi karakter, serta jarak antara karakter tersebut dengan karakter lainnya. serta perbedaan basis budidaya karakter 
+				Karakter yang menyelinap lebih mungkin ditemukan saat mereka mengumpulkan item langka (Tingkat III atau lebih tinggi), jadi berhati-hatilah. 
+				
+				Anda dapat memprediksi peluang karakter Anda untuk terlihat dari warna ikon mata pada karakter tersebut.[img]ui/Help_en2/050[/img]Jika tidak ada ikon mata pada karakter kamu, itu menunjukkan bahwa tidak ada yang peduli dengan tindakan karakter kamu. 
+				Ikon mata putih berarti karakter Anda tidak akan terlihat. 
+				Ikon mata kuning berarti kecil kemungkinan karakter Anda akan terlihat. 
+				Ikon mata merah berarti kemungkinan besar karakter Anda akan terlihat. 
+				Jika karakter Anda ditemukan oleh NPC ramah, tidak akan terjadi apa-apa. Namun, jika karakter Anda ditemukan oleh NPC musuh, Mereka akan langsung menyerang.[color=#9e6404]5. Sect Wars[/color]Anda dapat mendeklarasikan perang terhadap 11 sekte NPC dalam game dan memenangkan mereka agar tunduk. Setelah Anda mengatasinya, Anda dapat menjarah barang sesuka Anda. dan menerima dari mereka upeti tahunan. 
+				Klan NPC sekarang akan berinteraksi dengan dunia dengan cara yang sama seperti Klan Anda. dan berinteraksi satu sama lain Kekuatan mereka secara bertahap meningkat. bertambah atau berkurang seiring dengan berkembangnya jalan cerita
+				Kekuatan karakter NPC berhubungan langsung dengan kekuatan sekte mereka. 
+				Anda dapat memeriksa kekuatan Klan dan hubungan diplomatik dengan mengklik namanya di panel Lokasi.[img]ui/Help_en2/051[/img]</Text>
+		</Help>
+		<Help Name="72" Root="7">
+			<Title>Tempa senjata ajaib kuno</Title>
+			<Text>[warna=#9e6404]1. Dapatkan cara membuat[/color]
+					Anda dapat meminta gulungan tentang cara menempa senjata sihir kuno menggunakan berbagai metode. Setelah menerima garis besar untuk menempa senjata ajaib kuno, Anda dapat menempa Senjata Ajaib Kuno dengan menggunakan tombol Menempa Senjata Ajaib di panel karakter. 
+					[img]ui/Bantuan_en2/052[/img] 
+				[warna=#9e6404]2. Inkubasi[/warna] 
+					Senjata Sihir Primordial yang baru dibuat masih dalam masa inkubasi. Untuk membuka koleksi kondisi yang diperlukan Anda harus melanjutkan seperti yang ditentukan. 
+					[img]ui/Help_en2/053[/img]
+				[warna=#9e6404]3. Tetapkan pemilik[/warna]
+					Setelah aktivasi, senjata sihir primordial memerlukan hak kepemilikan yang harus ditetapkan oleh para penggarap agar dapat menggunakannya. Anda dapat melengkapi karakter Anda dengan senjata ajaib kuno. Dan gunakan dengan mengklik kanan untuk mengikat roh padanya.  
+					[img]ui/Help_en2/054[/img]
+					Senjata sihir purba hanya dapat digunakan oleh pemilik yang telah terikat dengannya.</Text>
+		</Help>
+		<Help Name="73" Root="7">
+			<Title>Sub-jiwa</Title>
+			<Text>Setelah mencapai Alam Roh Primordial, Seorang kultivator dapat membagi jiwanya menjadi sub-jiwa. 
+			Sub-jiwa penting untuk membuat para penggarap Alam Roh Primordial lebih kuat. 
+				[warna=#9e6404]1. Memutuskan jiwa[/warna] 
+					Seorang kultivator dapat memotong jiwanya maksimal 64 kali. Ada berbagai cara untuk memutuskan jiwa mereka. Entah itu mempelajari teknik, menggunakan mantra, mengatasi hukuman dewa, atau menggunakan obat ajaib untuk membantu. 
+				[warna=#9e6404]2. Menggunakan sub-jiwa[/color] 
+					Setelah mampu memisahkan jiwa, Penggarap dapat menanamkan sub-jiwa mereka ke dalam objek untuk memperkuat diri mereka sendiri. 
+					Semakin banyak sub-jiwa yang ada, semakin tinggi status Jiwa Primordial sang kultivator. 
+				[warna=#9e6404]3. Pemakaman Jiwa[/warna] 
+					Penggarap Alam Jiwa Purba dapat melampirkan Sub Jiwa mereka ke Perintah Pemurnian Senjata Sihir. 
+					[img]ui/Help_en2/055[/img]
+					Menanamkan sub-jiwa ke dalam sebuah peralatan berarti memasukkan sebagian kekuatan seorang kultivator ke dalamnya menggunakan sub-jiwa sebagai wadah. 
+					Setelah mengubur sub-jiwa, meskipun kehilangan sebagian kekuatannya, Penggarap akan memiliki ruang untuk mengembangkan diri. 
+					Semakin tinggi status Jiwa Primordial sang kultivator, Kekuatan sub-jiwa yang dapat ditanamkan menjadi semakin kuat. 
+					[img]ui/Help_en2/056[/img]
+				[warna=#9e6404]4. Peralatan Spiritual[/warna] 
+					Peralatan yang ditanamkan jiwa akan menjadi harta jiwa.
+					Harta Karun Spiritual memiliki efek tanpa syarat bila dilengkapi oleh Kultivator yang memiliki Harta Karun Spiritual. 
+					Namun, kultivator lain mungkin perlu melengkapi banyak harta spiritual agar dapat berfungsi. 
+					Semakin kuat kekuatan harta spiritual, Semakin besar jumlah peralatan yang dibutuhkan untuk mengaktifkannya, semakin tinggi jumlah item yang perlu dilengkapi. 
+					[img]ui/Help_en2/057[/img]</Text>
+		</Help>
+		<Help Name="74" Root="7">
+			<Title>Menghadapi Hukuman Surga</Title>
+			<Text>Setelah mencapai Alam Roh Primordial, Penggarap dapat menantang Hukuman Panjang Umur Surgawi atau Hukuman Dao Benih Surgawi di halaman informasi budidaya. 
+				[img]ui/Help_en2/058[/img]
+				Untuk setiap 100 benih dao, satu karakter dapat menantang Hukuman Dao Benih Surgawi satu kali. Jika mereka berhasil melewatinya, jumlah benih dao mereka akan berkurang dan mereka akan mendapatkan 1 jiwa kelopak. 
+				Setiap 1000 umur, satu karakter dapat menantang Hukuman Kehidupan Surgawi satu kali. Jika mereka berhasil melewati masa hidup mereka akan meningkat dan mereka akan mendapatkan 1 sub-jiwa. 
+				Selain itu, setiap kali karakter lolos dari Hukuman Surgawi di alam fisik, mereka memperoleh sub-jiwa dan konsep dalam jumlah besar. 
+				
+				Menghadapi Hukuman Surgawi adalah bagian yang sangat penting dalam meningkatkan jumlah sub-jiwa.</Text>
+		</Help>
+		<Help Name="75" Root="7">
+			<Title>Kamp mekanis</Title>
+			<Text>Penggarap dapat membuat formasi untuk melawan musuh. 
+				Dengan menciptakan kamp mekanis, setiap penggarap akan dipersatukan oleh takdir yang sama. Selain berbagi kerugian satu sama lain, Mereka juga dapat mengaktifkan senjata magis dan qi sihir yang kuat. yang terlalu kuat untuk mereka kendalikan sendiri. untuk menghancurkan musuh-musuh mereka[color=#9e6404]1. Struktur kamp[/color] 
+					[img]ui/Help_en2/059[/img]Biasanya, suatu formasi terdiri dari inti utama dan sub-inti. 
+					Inti adalah jantung dari formasi. sedangkan sub-inti mempromosikan kemampuan inti utama. 
+					Dengan petualangan keliling dunia Anda akan menerima kitab suci mengenai berbagai jenis sumbu utama dan sub-sumbu.[color=#9e6404]2. Mempersiapkan perkemahan[/color]Setelah membuka setidaknya satu tipe inti dan satu tipe sub-inti Anda dapat mengakses layar manajemen formasi dengan mengklik tombol formasi di sudut kanan bawah.[img]ui/Help_en2/060[/img]Anda harus membuat strategi baru saat pertama kali memasuki layar formasi.[img]ui/Help_en2/061[/img]Tunjuk karakter sentral untuk membuat rencana baru.[img]ui/Help_en2/062[/img]Setelah mengatur sumbu utama Anda dapat memeriksa peringkat formasi formasi. Kompleksitas atau kekuatan formasi tidak dapat melebihi kemampuan individu dari orang inti.[img]ui/Help_en2/063[/img]Stabilitas menunjukkan apakah formasi tersebut dapat bekerja dengan andal atau tidak. Formasi tidak dapat terbentuk jika stabilitasnya turun di bawah 0. 
+					Ukurannya ditentukan oleh jumlah sub-core pada mesin. Formasi besar akan mengalami stabilitas yang sangat tidak stabil. 
+					Beban formasi mewakili kompleksitas formasi. Jika formasinya terlalu rumit Biaya pemeliharaan formasi akan meningkat pesat. 
+					
+					Selama inti dapat menahannya Anda dapat menempatkan sumbu utama dan sumbu minor sesuai kebutuhan untuk membuat formasi di sisi kanan layar dan menggabungkannya.[img]ui/Help_en2/064[/img] 
+				[color=#9e6404]3. Koneksi jaringan[/color]Saat Anda mendesain kamp Anda akan melihat bahwa sumbu utama dan minor berbentuk heksagonal dengan karakter di sudutnya. 
+					Anda harus mendesainnya dengan menghubungkan inti utama dan sub-inti. Hanya sudut dengan karakter yang sama yang dapat dihubungkan.[img]ui/Help_en2/065[/img]Koneksi yang berbeda menghasilkan hasil yang berbeda. Pilih sub-inti dengan hasil yang diinginkan untuk membuat strategi Anda sendiri.[img]ui/Help_en2/066[/img]agar mesin dapat berfungsi sesuai harapan. Sudut dengan semua karakter harus terhubung satu sama lain. Jika tidak, mesin tidak akan dapat bekerja karena sambungan tidak lengkap.[img]ui/Help_en2/067[/img]Tag "void" dapat dikaitkan dengan tag lain. Koneksi yang dibuat dengan cara ini tidak memiliki efek khusus apa pun. Tapi itu membantu kamp berfungsi normal.[img]ui/Help_en2/068[/img]
+				[color=#9e6404]4. Tetapkan tugas[/color]Ketika Anda telah selesai membuat formasi formasi Anda. Anda dapat memberi nama kamp Anda dengan mengklik tombol. "Pengaturan Kampanye" di sudut kanan bawah dan masuk ke layar penetapan tugas 
+					Anda dapat memilih setiap karakter untuk ditetapkan sebagai inti dan sub-inti. 
+					sepanjang jalur dari sumbu minor ke sumbu utama Setiap kali elemen karakter meningkatkan elemen karakter di sebelahnya. Koneksi karakter akan memperkuat satu sama lain. Namun, jika unsur-unsur karakter saling bertentangan, akibatnya akan buruk bahkan terkadang berbahaya bagi mereka. Jadi harap perhatikan elemen karakter dalam formasi Anda![img]ui/Help_en2/069[/img]
+				[color=#9e6404]5. Kamp Militer Tuan Sombat[/color]Setiap formasi memiliki 9 statistik, dan itu menentukan seberapa kuat formasi Anda. 
+					Di layar penetapan peran Anda dapat memeriksa arti setiap bendera dengan mengarahkan kursor ke nama dan membaca instruksi yang ditampilkan.[img]ui/Help_en2/070[/img]
+				[color=#9e6404]6. Desain siap pakai untuk perkemahan Anda.[/color]Formasi Anda akan selesai setelah mengikuti petunjuk di atas. 
+					Anda dapat membentuk formasi dengan memilih karakter inti Anda dan mengklik "Formasi" di panel karakter kiri.[img]ui/Help_en2/071[/img]</Text>
+		</Help>
+		<Help Name="76" Root="7">
+			<Title>Kamp mekanis dalam pertempuran</Title>
+			<Text>Ketika formasi kamp selesai Anda dapat menggunakannya untuk melawan musuh Anda. Dan ada beberapa hal yang perlu kalian perhatikan ketika bertarung dengan strategi. 
+			[warna=#9e6404]1. Berbagi kerusakan[/color] 
+				Setiap kerusakan yang terjadi pada formasi dibagi rata di antara karakter yang menciptakannya. 
+			[warna=#9e6404]2. Keseimbangan Qi[/warna] 
+				Qi semua karakter yang membentuk wujud tersebut seimbang secara proporsional. 
+				Keseimbangan ini ditentukan oleh kekuatan formasi secara keseluruhan. 
+			[warna=#9e6404]3. Stabilitas kamp mekanis[/color] 
+				Stabilitas kamp katak akan menurun seiring dengan habisnya energi intinya. 
+				Jumlah sub-inti yang hancur akan sangat mengurangi stabilitas formasi. 
+				Jika intinya hancur, berarti stabilitas formasi akan turun menjadi nol. Hal ini akan mengakibatkan hancurnya formasi. 
+			[warna=#9e6404]4. Titik lemah[/warna] 
+				Setiap kestabilan formasi menurun Ada kemungkinan beberapa sub-inti akan menjadi titik lemah formasi. 
+				Semakin rendah stabilitas formasi maka semakin baik. Semakin besar kemungkinannya untuk mengungkap kelemahan formasi. 
+				Ketika hal itu terjadi, damage sharing tidak lagi menjadi kelebihan formasi, melainkan menjadi kelemahan formasi. Hal ini menimbulkan resiko yang tinggi dan akan menyebabkan formasi meledak sehingga mengakibatkan cedera serius pada seluruh karakter yang ada di dalam formasi tersebut. 
+				Ketika titik lemah muncul dalam formasi Anda, Anda dapat menyembunyikannya dengan mengubah formasi.</Text>
+		</Help>
+		<Help Name="80" Root="8">
+			<Title>Perdagangan antar kantor</Title>
+			<Text>Anda dapat berdagang dengan sekte lain saat Anda membuat sekte Anda sendiri.[color=#9e6404]1. Daerah perdagangan[/color]Sebelum berdagang dengan Sekte NPC, Anda harus menempatkan area perdagangan. Hanya barang yang ditempatkan di area perdagangan yang bisa dijual ke sekte lain. Item yang Anda terima melalui perdagangan juga akan muncul di sini.[color=#9e6404]2. Kunjungi kantor dan jalin kontak bisnis[/color]Anda harus secara resmi mengunjungi sekte lain sebelum bertukar dengan sekte tersebut. Klik ikon sekte tersebut, lalu klik "Kunjungi". Untuk melakukannya, Anda perlu menyiapkan beberapa hadiah yang membangun hubungan.[color=#9e6404]3. Perdagangan[/color]Klik "Trade" untuk membuka jendela perdagangan NPC. Anda tidak akan dapat membeli item dengan nama merah karena level hubungan tidak cukup. Klik "Negosiasi" untuk melihat apakah NPC bersedia membuat kesepakatan. Ketika mereka menyatakan kesediaannya, klik "Konfirmasi" untuk menyetujui pertukaran.[color=#9e6404]4. Hubungan[/color]Beberapa item tingkat tinggi memerlukan afinitas sebelum dapat diperdagangkan.[color=#9e6404]5. Hadiah[/color]Klik "Berikan Hadiah" untuk memberikan item kepada NPC.[color=#9e6404]6. Daerah terlarang[/color]Area merah di peta dibatasi. Anda dapat membeli hak untuk memasuki area ini dengan berdagang dengan sekte terkait. Karakter yang memasuki area terlarang tanpa izin akan diserang jika ditemui.[color=#9e6404]7. Suka[/color]Setiap Pemimpin Sekte memiliki hadiah favoritnya masing-masing. Anda akan mendapatkan poin Afinitas dan Favor Klan setelah memberikan item favorit Pemimpin Klan. Namun, setiap hadiah hanya berlaku saat pertama kali dikirimkan.[color=#9e6404]8. Meminjam senjata ajaib[/color]Setelah Anda memiliki hubungan persahabatan dengan sekte NPC, Anda dapat menyewa senjata ajaib mereka. Senjata ajaib yang disewa akan dikembalikan secara otomatis pada saat jatuh tempo. Jika senjata ajaib itu rusak sebelum dikembalikan, Anda akan kehilangan afiliasi dan dukungan dari sekte yang meminjamkan senjata ajaib itu kepada Anda.[color=#9e6404]8. Meminta Bantuan[/color]Setelah Anda memiliki hubungan persahabatan dengan sekte NPC, Anda dapat meminta mereka mengirim muridnya ke sekte Anda sebagai bala bantuan. Karakter yang dikirim ke sekte Anda akan bertahan selama beberapa hari. Anda tidak dapat mengontrol karakter ini. Namun mereka akan menyerang musuhmu secara otomatis. Jika murid NPC meninggal selama mereka tinggal, Anda akan kehilangan afinitas dan dukungan dari sekte mereka.</Text>
+		</Help>
+		<Help Name="81" Root="8">
+			<Title>Misi Biro</Title>
+			<Text>Berbagai misi acak Ini akan berlangsung di kantor NPC dan mereka akan memberi Anda misi. Beberapa acara juga akan memberi Anda misi.
+				[warna=#9e6404]1. Misi memberikan banyak hal[/color] 
+					Klik "Perluas" di layar dunia untuk melihat item yang dibutuhkan untuk menyelesaikan misi. Anda akan menerima hadiah setelah mengirimkan barang yang dibutuhkan oleh sekte itu. 
+				[warna=#9e6404]2. Misi lainnya[/color] 
+					Kantor NPC mungkin meminta Anda untuk membunuh karakter tertentu di lokasi tertentu. Anda harus memasuki peta untuk membunuh target.</Text>
+		</Help>
+		<Help Name="83" Root="8">
+			<Title>Berdagang dengan pedagang keliling</Title>
+			<Text>Seorang penjual akan datang ke kantor Anda dari waktu ke waktu. Mereka menjual berbagai macam produk dan Anda dapat melihat harganya secara langsung. Namun, produk yang dijual pedagang asongan seringkali lebih mahal dari biasanya. Anda juga bisa membeli undangan lelang dari pedagang kaki lima.</Text>
+		</Help>
+		<Help Name="84" Root="8">
+			<Title>Berpartisipasi dalam pelelangan</Title>
+			<Text>Baca undangan lelang untuk berpartisipasi dalam lelang. 
+			[warna=#9e6404]1. Barang lelang[/warna] 
+				Daftar lengkap barang akan ditampilkan pada awal lelang. 
+			[warna=#9e6404]2. Aturan lelang[/color] 
+				Anda dapat mengklik harga yang ditampilkan di bawah item untuk meningkatkan tawaran Anda. Jika Anda menyerah, Anda tidak akan dapat menawar item ini lagi. Saat lelang berakhir Penawar tertinggi memenangkan barang tersebut. Jika harganya berwarna merah, ini menandakan kamu tidak memiliki cukup Spirit Stone untuk membeli item. Silakan menawar dengan risiko Anda sendiri. 
+			[warna=#9e6404]3. Barang misterius[/color] 
+				Dalam beberapa lelang Anda tidak akan mengetahui barang apa yang Anda tawar sampai Anda memenangkan lelang. 
+			[warna=#9e6404]4. Hasil lelang[/warna] 
+				Barang yang dibeli dalam lelang ini akan ditampilkan di layar ini.</Text>
+		</Help>
+		<Help Name="85" Root="8">
+			<Title>Perluas pengaruh Anda</Title>
+			<Text>Setelah Anda membuat kantor, Anda dapat mengirimkan perwakilan biro ke berbagai lokasi.[color=#9e6404]1. Menugaskan perwakilan kantor[/color]Klik lokasi dan pilih "Kirim" untuk mengirim murid luar sekte Anda ke sana. Murid luar yang Anda pilih akan datang ke tempat yang Anda pilih dan menjadi perwakilan Anda di sana. Anda dapat menggunakan pengaruh Anda dalam mendirikan berbagai agensi.[color=#9e6404]2. Agen konstruksi[/color]Ketika Anda telah membuat perwakilan biro Anda dapat membuka panel ekstensi. Anda dapat menggunakan sumber daya untuk membangun berbagai bangunan. di agensi Anda dapat meningkatkan aula utama setelah Anda memiliki cukup murid dan sumber daya. Meningkatkan Aula Utama akan membuka slot bangunan tambahan untuk unit Anda. Setiap gedung memberikan produk yang berbeda-beda. yang akan masuk ke penyimpanan Anda[color=#9e6404]3. Kebijakan[/color]Beberapa bangunan akan membuka kunci kebijakannya. Setiap kebijakan mempunyai biaya yang berbeda-beda. dan akan menyebabkan peristiwa yang berbeda[color=#9e6404]4. Peristiwa kebijakan[/color]Setelah Anda memilih kebijakan untuk perwakilan biro, Acara khusus akan diadakan dari waktu ke waktu. Saat peristiwa terjadi Anda akan melihat pemberitahuan berwarna merah muncul di sisi kiri layar. dan tanda seru berwarna merah pada tombol "On/Off" di sebelah kanan. Acara akan menghasilkan hasil yang berbeda tergantung pada pilihan Anda.[color=#9e6404]5. Kirim lebih banyak murid[/color]Anda dapat mengirim murid luar ke departemen yang sudah mapan untuk menerima bonus statistik untuk perwakilan sekte. Statistik perwakilan klan memengaruhi hadiah dan hasil acara kebijakan. Harap diingat bahwa ketika mengirim murid luar itu tidak akan dapat kembali ke sekte Anda.[color=#9e6404]6. Rekrut siswa[/color]Pilih Spirit Master Hall dan klik "Rekrut" untuk merekrut murid. Anda dapat mengirim murid terpilih ke sekte Anda atau organisasi mana pun.[color=#9e6404]7. Kantor lainnya[/color]Anda akan bertemu dengan perwakilan biro dari biro lain. Perwakilan sekte NPC akan menarik orang untuk menjadi murid mereka. Jika Anda ingin mengalahkan mereka Anda perlu menggunakan beberapa strategi khusus.[color=#9e6404]8. Keajaiban[/color]Anda dapat menciptakan hal-hal menakjubkan saat meningkatkan aula utama. Keajaiban akan memberi Anda bonus besar. Namun di tempat tertentu Anda hanya dapat menciptakan satu keajaiban. Ada juga batasan keajaiban yang dapat Anda ciptakan tergantung pada lokasinya.[color=#9e6404]9. Bencana[/color]Berbagai bencana akan terjadi di berbagai tempat. Bencana membuka pilihan bantuan bencana bagi Anda. Setiap hari menggunakan jumlah sumber daya yang berbeda untuk mengisi kembali meteran bantuan bencana, tergantung pada pilihan Anda. Perwakilan dari kantor lain Ini juga akan membantu meringankan bencana. Ketika tindakan bantuan bencana sudah penuh Bencana akan berakhir. Sebaliknya jika meteran tidak penuh setelah jangka waktu tertentu akan menimbulkan akibat yang serius.[color=#9e6404]10. Pengaruh[/color]Tekan tombol K atau klik "Pengaruh" untuk membuka jendela Pengaruh. Anda dapat mengelola acara, mentransfer item gudang ke Klan Anda, atau mengklik ikon lokasi untuk membuka panel perluasan.</Text>
+		</Help>
+		<Help Name="91" Root="9">
+			<Title>keyakinan</Title>
+			<Text>Ketika karakter telah mempelajari aturan jalan ilahi, mereka mungkin menjadi Penggarap Jalan Ilahi dan menuju Alam Ilahi. Mengolah Jalan Ilahi bergantung pada sumber daya khusus yang disebut keyakinan. 
+			[warna=#9e6404]1. Mendapatkan iman[/color] 
+				Iman adalah satu-satunya sumber di jantung pengembangan jalan ilahi. Anda mungkin menerima iman yang tercantum di bawah ini. 
+				1. Kirimkan murid-murid yang berlatih Teknik Budidaya Jalan Ilahi untuk melakukan petualangan. Anda mungkin memperoleh keyakinan dari peristiwa yang terjadi selama petualangan Anda. 
+				2. Anda bisa memperoleh keyakinan melalui rahasia dan acara khusus tertentu. 
+				3. Penggarap Jalan Ilahi dapat pergi ke kantor sekte Anda untuk mengumpulkan akumulasi keyakinan. Setelah menciptakan alam ilahi Anda, Anda dapat membuat patung di organisasi Anda untuk mengumpulkan keyakinan secara otomatis. 
+				4. Para murid Penggarap Jalan Ilahi akan mendukung mereka dengan keyakinan. 
+				5. Murid inti akan memberikan banyak keyakinan kepada para penggarap Jalan Ilahi. 
+				Kapan pun seorang Penggarap Jalan Ilahi memperoleh keyakinan Jumlah keyakinan yang diperoleh berhubungan positif dengan kondisi mental dan tingkat senjata ilahi mereka, dan berhubungan negatif dengan semangat ilahi dan penderitaan mereka. 
+			[warna=#9e6404]2. Gunakan iman Anda untuk digunakan[/color]
+				Sebagai sumber penting untuk mengembangkan Jalan Iman Ilahi, ini dapat digunakan: 
+				1. Mengisi Qi Para penggarap Jalan Ilahi dapat menggunakan keyakinan mereka untuk mengisi kembali Qi mereka.
+				2. Meningkatkan tingkat kultivasi Para Penggarap Jalan Ilahi dapat memberikan keajaiban tertentu untuk mengubah keyakinan mereka menjadi basis kultivasi mereka. 
+				3. Ciptakan Alam Ilahi. Iman akan digunakan untuk menciptakan Alam Ilahi dari Penggarap Jalan Ilahi. 
+				4. Memberi berkah dengan mendengarkan suara murid-muridnya melalui alam ketuhanan. Seorang praktisi Jalan Ilahi dapat mengabulkan keinginan murid-muridnya. Dengan itu, mereka akan mendapatkan tambahan murid baru.</Text>
+		</Help>
+		<Help Name="92" Root="9">
+			<Title>murid</Title>
+			<Text>Murid sangat penting bagi para penggarap jalan ilahi. Ada dua jenis murid: 
+			[color=#9e6404]1.Murid umum[/color]
+				Anda mungkin menerima murid atau murid alam dewa seperti yang tercantum di bawah ini. 
+				1. Kirimkan murid-murid yang berlatih Teknik Budidaya Jalan Ilahi untuk melakukan petualangan. Anda bisa mendapatkan murid melalui peristiwa yang terjadi selama petualangan mereka. 
+				2. Anda bisa mendapatkan murid melalui rahasia dan acara khusus tertentu. 
+				3. Setelah menciptakan Alam Ilahi Anda dapat membangun patung di unit Anda untuk mendapatkan murid secara bertahap. 
+				4. Dengan mendengarkan murid-murid mereka melalui kerajaan Jalan Ilahi, para kultivator dapat mengabulkan keinginan mereka dan mendapatkan banyak murid baru. 
+			[warna=#9e6404]2. Pemimpin murid[/color] 
+				Pemimpin murid dapat melakukan keajaiban setelah Anda membangun alam ketuhanan Anda. Seorang kultivator Jalan Ilahi dapat menjadikan seseorang menjadi pemimpin murid melalui persuasi. 
+				Besarnya iman yang dapat diberikan oleh seorang pemimpin murid bergantung pada sejauh mana iman mereka. 
+				Ketika batas keimanan murid inti mencapai 100%, mereka dapat ditunjuk sebagai penjaga di Altar Penjaga. yang memberi kekuatan lebih besar kepada para penggarap Jalan Ilahi. 
+				Anda dapat meningkatkan cakupan iman para pemimpin murid Anda dengan mendengarkan keinginan mereka dan mewujudkannya. 
+				Hasil bujukan para murid dan sejauh mana keyakinan awal mereka berhubungan positif dengan nasib mereka dengan nasib murid-murid Anda.</Text>
+		</Help>
+		<Help Name="93" Root="9">
+			<Title>menderita</Title>
+			<Text>[color=#9e6404]Penderitaan[/color] 
+				Berbeda dengan kultivator biasa. Emosi seorang Penggarap Jalan Ilahi akan selalu menimbulkan penderitaan. Entah itu positif atau negatif. Semakin banyak emosi yang dirasakan oleh Penggarap Jalan Ilahi, semakin banyak pula emosi yang ia rasakan. Semakin mereka menderita, semakin mereka menderita. 
+				[color=#9e6404]Mengurangi penderitaan[/color]
+				Penderitaan karakter dapat dikurangi dengan cara-cara berikut: 
+					1. Gunakan mantra "Potong Pikiran" 
+					2. Meningkatkan semangat ketuhanan 
+					3. Menentukan tingkah laku tokoh yang akan diutarakan dengan sendirinya.</Text>
+		</Help>
+		<Help Name="94" Root="9">
+			<Title>Kondisi mental seorang praktisi Jalan Ilahi</Title>
+			<Text>Jalur pengembangan dewa berkaitan erat dengan kondisi pikiran seseorang. Hanya pikiran yang paling stabil yang dapat mendukung doa yang tak henti-hentinya dari begitu banyak murid. Ada tujuh kondisi pikiran bagi seorang kultivator Jalan Ilahi. Seorang praktisi Jalan Ilahi harus memenuhi kebutuhan yang berbeda-beda setiap saat untuk menerobos ke tataran cita yang lebih tinggi.[color=#9e6404]1. Jangan pernah berhenti[/color]Meningkat: Saat dalam keadaan pikiran 'non-stop', secara alami akan meningkat, terutama saat suasana hati sedang baik. Semakin cepat peningkatannya. 
+				Dalam menjalani keadaan pikiran ini Anda harus menjaga kondisi mental Anda pada angka 100 selama 3 hari dalam keadaan memanjakan diri.[color=#9e6404]2. Tenang[/color]Peningkatan: Ketika kondisi pikiran 'stabil', secara alami akan terus meningkat tanpa dipengaruhi oleh faktor eksternal. 
+				Dalam menjalani keadaan pikiran ini Anda harus menjaga kondisi mental Anda pada 200 dan penderitaan Anda di bawah 50, dan melakukan deduksi mental untuk jangka waktu tertentu. Semakin cerdas suatu karakter, semakin lama waktu yang dibutuhkannya untuk mencapai kondisi mental tersebut.[color=#9e6404]3. Stabil[/color]Meningkat: Ketika dalam keadaan pikiran 'tenang', hal itu akan meningkat hanya jika nilai penderitaan lebih rendah dari 100. Semakin rendah nilai penderitaan, semakin cepat peningkatannya. Jika tidak bisa, maka akan terus berkurang. 
+				Dalam bergerak melalui keadaan pikiran ini Anda harus menjaga kondisi mental Anda pada usia 30 dan memiliki roh ketuhanan lebih dari 20 saat melakukan self-hypnosis setelah mencapai alam ketuhanan. Semakin besar kecerdasan karakter, maka semakin lama waktu yang dibutuhkan untuk mencapai keadaan pikiran tersebut.[color=#9e6404]4. Murni[/color]Peningkatan: Ketika berada dalam kondisi kesadaran 'murni', itu akan meningkat hanya jika roh ketuhanan lebih dari 50. Lebih banyak roh ketuhanan berarti peningkatan yang lebih cepat. Jika Roh Ilahi lebih rendah dari 50, kondisi mental juga akan menurun.
+				Dalam menjalani keadaan pikiran ini Harus mempertahankan kondisi mental pada 400 untuk jangka waktu tertentu. Semakin banyak kecerdasan yang dimiliki seorang karakter, semakin cepat dia dapat mencapai kondisi pikiran tersebut.[color=#9e6404]5. Filsuf[/color]Peningkatan: Ketika berada dalam kondisi mental 'Sage', akan meningkat jika kecerdasannya di atas 8. Semakin tinggi kecerdasannya, semakin cepat pula kondisi mentalnya dapat ditingkatkan. Namun, jika kecerdasan Anda lebih rendah dari 8, kondisi mental Anda juga akan menurun. 
+				Dalam menjalani keadaan pikiran ini Anda harus menjaga kondisi mental Anda pada 500 dan penderitaan Anda kurang dari 10 selama pemotongan mental setelah mencapai alam Nirwana selama 10 hari.[color=#9e6404]6. Kosong[/color]Meningkat: Ketika berada dalam kondisi mental 'kosong', nilai penderitaannya akan meningkat hanya jika nilai penderitaannya di bawah 50. Semakin rendah nilai penderitaannya, semakin cepat peningkatannya. Namun, begitu penderitaan mereka melebihi 50, kondisi mental mereka akan mulai menurun. 
+				Dalam menjalani keadaan pikiran ini Anda harus menjaga kondisi mental 600 dan jiwa manusia di atas 60 sambil melepaskan diri. Semakin besar keberuntungan karakter, semakin cepat dia mencapai kondisi pikiran tersebut.[color=#9e6404]7. Semangat[/color]Bangkit: keadaan pikiran yang sempurna
+				tingkat kondisi mental tertinggi</Text>
+		</Help>
+		<Help Name="95" Root="9">
+			<Title>perilaku</Title>
+			<Text>Setelah menjadi praktisi jalan ketuhanan, Karakter akan mampu mengendalikan perilakunya sendiri sesuai dengan kebutuhannya yang berbeda. 
+			[warna=#9e6404]1. keseimbangan[/warna] 
+				Karakter dengan perilaku seimbang dapat melakukan apapun yang diinginkannya. 
+			[warna=#9e6404]2. Eja diri Anda[/warna] 
+				Karakter dengan perilaku menahan diri Menekan keinginan seseorang mengakibatkan peningkatan kecepatan naiknya Roh Ilahi. 
+				Semakin sedikit penderitaan, semakin cepat Roh Ilahi akan meningkat. 
+				Karakter yang terpesona akan menerima bonus roh ketuhanan hingga 150% dari roh ketuhanan normalnya. 
+				Mereka kurang terpengaruh oleh emosi. dan menginginkan hal-hal lain yang Kurang dalam kehidupan sehari-hari juga. 
+				Kondisi mental mereka tidak akan otomatis menurun dalam kondisi ini. dan akan menerima bonus sebesar 50% dari peningkatan kondisi mental.
+			[warna=#9e6404]3. Lepaskan dirimu[/warna] 
+				Karakter yang memanjakan diri sendiri akan bertindak sesuai dengan keinginannya sendiri. Akibatnya, kecepatan Roh Ilahi meningkat lebih lambat. 
+				Semakin tinggi penderitaan mereka, Pikiran ilahi hanya akan berkurang. 
+				Karakter yang melepaskan Roh Ilahinya akan menderita hingga 50% dari Roh Ilahi normalnya. 
+				Mereka lebih dipengaruhi oleh emosi. dan menginginkan hal lain yang lebih banyak dalam kehidupan sehari-hari juga 
+				Kondisi mental mereka tidak akan meningkat secara otomatis dalam kondisi ini. dan kecepatan peningkatan kondisi mental menurun sebesar 50%.</Text>
+		</Help>
+		<Help Name="96" Root="9">
+			<Title>Pikiran ilahi dan pikiran manusia</Title>
+			<Text>Ketika seorang penggarap jalan ketuhanan terus berlatih, Mereka akan menerima roh ketuhanan. Namun dalam kasus yang sama, mereka secara bertahap akan kehilangan rasa kemanusiaannya juga. 
+				Ini adalah proses yang hampir tidak bisa diubah. Anda akan dapat memulihkan pikiran manusia melalui cara yang terbatas. Ketika roh ilahi suatu karakter mencapai 100, mereka kehilangan seluruh kemanusiaannya dan akan memanggil Hukuman Iman. Jika Anda dapat selamat dari hukuman keyakinan Anda, para penggarap Jalan Ilahi akan meninggalkan tubuh fana mereka dan menjadi dewa yang bereinkarnasi ke alam surga. 
+				Pikiran Ilahi akan mempengaruhi pelatihan Jalan Ilahi Anda dalam berbagai cara: 
+				1. Semakin tinggi semangat ketuhanan karakter, semakin baik. Kekuatan mereka semakin meningkat. 
+				2. Semakin tinggi semangat ketuhanan karakter tersebut, semakin baik. Lebih sulit lagi untuk memahami pemikiran murid-murid mereka. Hal ini menyebabkan penerimaan iman menjadi lebih lambat. 
+				3. Semakin tinggi semangat ketuhanan karakter tersebut, semakin baik. Mereka juga tidak terlalu terpengaruh oleh emosi.</Text>
+		</Help>
+		<Help Name="97" Root="9">
+			<Title>senjata suci</Title>
+			<Text>Seorang Penggarap Jalan Ilahi hanya dapat menciptakan salah satu Senjata Ilahi mereka seumur hidup. 
+				Penggarap Jalan Ilahi dapat meningkatkan Senjata Ilahi mereka dengan memanipulasi Alam Ilahi mereka: 
+					1. Meningkatkan level senjata suci 
+					2. Menambahkan karakteristik pada senjata suci dan mengubah kualitasnya. 
+					3. Menambahkan sufiks langka pada nama senjata ilahi dan menjadikannya benar-benar unik.</Text>
+		</Help>
+		<Help Name="98" Root="9">
+			<Title>Alam para dewa</Title>
+			<Text>Ketika seorang penggarap jalan ilahi cukup berlatih, Mereka dapat menciptakan alam ilahi mereka sendiri.[color=#9e6404]1. Ciptakan alam ilahi[/color]Ukuran awal Alam Ilahi berhubungan langsung dengan jumlah murid karakter, tingkat kondisi mental, Jiwa Ilahi, tingkat penderitaan, serta posisi kultivator pada saat menerobos alam. Ukuran juga memiliki hubungan negatif dengan Distress karakter. 
+				Ukuran awal Alam Ilahi bisa mencapai 49 unit. 
+				dalam memperluas ukuran alam ilahi, Penggarap Jalan Ilahi harus menghadapi keinginan batin mereka dan memicu Hukuman Surgawi sendiri. Dengan mengatasi Hukuman Surgawi, mereka akan mampu menyingkirkan kekotoran batin mereka. Itu juga memperluas ukuran Alam Ilahi sebanyak 1 unit lagi.[color=#9e6404]2. Bangunan Alam Ilahi[/color]Ada banyak bangunan yang bisa dibangun di Alam Ilahi. Membangun gedung Alam Ilahi akan membuat seorang penggarap Jalan Ilahi menjadi lebih kuat. 
+				Ada banyak hal yang perlu dipelajari sebelum menciptakan Alam Ilahi. 
+				1. Batasan Jumlah Murid: Murid dari Penggarap Jalan Ilahi dianggap berada di Alam Ilahi mereka. Dengan membangun sebuah kerajaan, Anda dapat meningkatkan populasi Anda. Hasilnya, akan ada lebih banyak ruang bagi para murid. Ketika jumlah pengikut melebihi batas, kelebihan jumlah murid akan menjadi tunawisma di Alam Ilahi. Hal ini akan menumpuk kebencian mereka. Ketika kebencian mencapai 100%, ia akan memanggil Hukuman Surgawi untuk menyerang mereka yang memiliki Alam Ilahi. 
+				2. Murid dalam pengawasan: Kemampuan menerima doa murid ditentukan oleh kondisi mental kultivator Jalan Ilahi. Ketika jumlah pengikut melebihi batas, Penggarap tidak akan dapat menanggapi doa para murid tersebut. Hal ini mengakibatkan kebencian yang terakumulasi. Ketika kebencian mencapai 100%, ia akan memanggil Hukuman Surgawi untuk menyerang mereka yang memiliki Alam Ilahi. 
+				3. Persyaratan Murid: Bangunan Tanah Suci memerlukan doa dari sejumlah murid agar dapat berfungsi. Jika permintaan murid melebihi jumlah murid saat ini, itu akan menyebabkan mereka bekerja terlalu keras. Hal ini mengakibatkan akumulasi kebencian. Ketika kebencian mencapai 100%, ia akan memanggil Hukuman Surgawi untuk menyerang mereka yang memiliki Alam Ilahi. 
+				4. Batasan jumlah pemimpin murid: Setiap penggarap Jalan Ilahi dapat memiliki pemimpin murid dalam jumlah terbatas. Setelah Anda menerima murid inti, Anda tidak akan bisa mengeluarkan mereka lagi. Jadi harap berhati-hati saat memilihnya.[color=#9e6404]3. Guard[/color]Dengan membangun kuil penjaga, Penggarap jalan ilahi dapat menunjuk murid-murid terkemuka sebagai pengawal. Penjaga yang berbeda dapat memberikan kekuatan yang berbeda kepada para penggarap Jalan Ilahi. 
+				Ketika para penggarap Jalan Ilahi mengembangkan diri mereka ke alam yang lebih tinggi. Mereka akan membuka lebih banyak Penjaga. Selain itu, Penggarap Jalan Ilahi juga bisa mendapatkan wali baru. Jalani beberapa peristiwa selama petualangan Anda. 
+				Semakin tinggi level kuil penjaga, semakin kuat kekuatan penjaganya.[color=#9e6404]4. Keajaiban Penggarap Jalan Ilahi[/color]Bangunan tertentu di Alam Ilahi akan memberi Anda kemampuan untuk melakukan berbagai keajaiban. Bagi mereka yang mengembangkan jalan ilahi</Text>
+		</Help>
+		<Help Name="99" Root="9">
+			<Title>Hukuman iman</Title>
+			<Text>Penggarap Jalan Ilahi harus menghadapi hukuman iman selama mereka berkultivasi. 
+				Setiap kali mereka lolos dari hukuman iman mereka, hukuman iman berikutnya akan lebih dahsyat. 
+				Ada 3 cara untuk memicu hukuman iman: 
+				[warna=#9e6404]1. Kelahiran kembali ke surga[/color] 
+					Saat roh ilahi seorang kultivator mencapai 100, hal itu akan memicu hukuman yang berat untuk menyerang mereka. Jika Anda bisa mengatasi hukuman surgawi Mereka akan dapat bereinkarnasi ke alam surga dengan meninggalkan tubuh fisik mereka. 
+				[warna=#9e6404]2. Kebencian meletus[/warna] 
+					Ketika kebencian para murid di Alam Ilahi mencapai 100%, hal itu akan memicu Hukuman Iman untuk menyerang mereka. Jika Anda bisa mengatasi hukuman surgawi, kebencian itu akan menjadi nol. 
+				[warna=#9e6404]3. Menghadapi hawa nafsu[/color] 
+					Seorang praktisi Jalan Ilahi dapat memilih untuk menghadapi keinginannya kapan saja. Itu akan merangsang Hukuman Iman untuk menyerang mereka. Jika mereka bisa mengatasi hukuman surgawi, mereka akan mampu menekan keinginan tersebut. Itu juga memperluas ukuran Alam Ilahi sebanyak 1 unit lagi. 
+					Berat ringannya siksa keimanan ditentukan oleh faktor-faktor berikut: 
+						1. Banyaknya Siksaan Ilahi yang dialami : Semakin banyak akhlak yang lolos dari Siksaan Iman, maka Siksaan Iman selanjutnya akan semakin berat. 
+						2. Poin Prestasi/ Poin Dosa: Semakin banyak Poin Sin yang dimiliki suatu karakter, semakin baik. Sebaliknya, semakin berat hukuman atas keyakinan yang masuk, semakin banyak poin pahala yang Anda miliki. Hukuman keimanan yang datang hanya lebih ringan. 
+						3. Bonus Nomor Murid: Jika perwujudan Penggarap Jalan Ilahi menerima sejumlah murid dan daya tarik tertentu, Beratnya hukuman keyakinan akan sangat berkurang.</Text>
+		</Help>
+		<Help Name="101" Root="10">
+			<Title>rahasia</Title>
+			<Text>Saat mencoba mencari tahu kebenaran kehancuran Sekte Tai Yi, Anda akan menemui berbagai misteri. yang harus dipecahkan untuk menemukan jawabannya. Anda harus menemukan tersangka dan motifnya. Sertakan bukti untuk mendukung teori Anda. 
+			[warna=#9e6404]1. Peserta[/warna] 
+				Siapa yang mungkin terlibat dalam misteri ini? 
+				Jika Anda mengetahui tentang peserta melalui desas-desus Anda harus memperoleh bukti yang relevan agar dapat diandalkan. 
+			[warna=#9e6404]2. Motivasi[/warna] 
+				Secara umum, ada alasan mengapa sebagian orang terlibat dalam rahasia. Jika Anda tidak mengetahui motifnya Anda tidak akan dapat mengidentifikasi pesertanya. 
+				Jika Anda mempelajari motivasi dari desas-desus Anda harus menerima bukti yang konsisten agar dapat diandalkan. 
+			[warna=#9e6404]3. bukti[/warna] 
+				Bukti digunakan untuk memberikan penghargaan pada teori Anda tentang siapa yang terlibat dan mengapa mereka melakukannya. Beberapa bukti penting mungkin tiba-tiba memberi kita kejelasan dan mengungkap misteri.
+			Saat Anda mempelajari pelakunya, motif, dan buktinya, misterinya akan terungkap. 
+			Mengungkap rahasia akan memunculkan misteri yang sulit dipahami atau bahkan mengungkap keseluruhan cerita.</Text>
+		</Help>
+		<Help Name="102" Root="10">
+			<Title>karakter</Title>
+			<Text>Informasi tentang orang yang Anda kenal akan disimpan di layar karakter. Anda dapat mengetahui fakta-fakta berikut dengan memeriksa informasi karakter: 
+			[warna=#9e6404]1. Teka-teki[/warna] 
+				Informasi rahasia yang diketahui karakter ini Untuk mempelajari misteri dari mereka Anda harus menyadari fakta bahwa mereka mengetahui misteri tersebut melalui karakter lain. 
+			[warna=#9e6404]2. Jejak[/warna] 
+				Posisi terakhir karakter Anda dapat mencari karakter di lokasi tertentu. 
+			[warna=#9e6404]3. Kepribadian[/warna] 
+				Ciri-ciri alamiah karakter Ada beberapa tipe kepribadian: 
+					Lemah: Menginterogasi roh akan selalu membuat mereka mengungkapkan rahasianya. 
+					Innocent: Komunikasi yang bersahabat akan selalu membuat mereka tetap terbuka. 
+					Serakah: Mereka akan terbuka ketika diberikan barang kesukaannya. 
+					Keras: Menginterogasi roh tidak akan pernah membuat mereka membocorkan rahasianya. 
+					Tutup diri Anda: Komunikasi yang bersahabat tidak akan membuat mereka terbuka. 
+			[warna=#9e6404]4. Titik lemah[/warna] 
+				Kelemahan Karakter Setelah mengetahui kelemahan karakter Anda, Anda dapat membuatnya terbuka dengan berbicara dengannya di waktu yang tepat.
+			[warna=#9e6404]5. Barang sudah diterima[/warna] 
+				Kitab suci yang mereka praktikkan Anda dapat menerima kitab suci ini setelah dibuka untuk Anda. 
+			[warna=#9e6404]6. Hal favorit[/warna] 
+				Hal favorit karakter Anda dapat memberi mereka hadiah item ini untuk meningkatkan kebaikan mereka. 
+				Saat secara resmi mengunjungi pemimpin sekte Anda dapat memberi mereka barang favorit mereka untuk mendapatkan banyak ketertarikan dan bantuan. 
+			[warna=#9e6404]7. Hal-hal yang kamu benci[/color] 
+				Hal-hal yang dibenci oleh karakter Anda dapat menghadiahkan mereka barang-barang ini untuk mengurangi manfaatnya. 
+			[warna=#9e6404]8. Properti pribadi[/warna] 
+				Harta yang dimiliki karakter tersebut</Text>
+		</Help>
+		<Help Name="103" Root="10">
+			<Title>petunjuk</Title>
+			<Text>Saat Anda mencoba mengungkap misteri Kontributor, motivasi, dan bukti Teori B semuanya merupakan petunjuk. Beberapa petunjuk tidak membantu penyelidikan Anda. Anda harus menggunakan alasan Anda untuk menemukan petunjuk yang berguna.</Text>
+		</Help>
+		<Help Name="104" Root="10">
+			<Title>interaksi sosial</Title>
+			<Text>Setiap karakter NPC memiliki perasaan, keinginan, dan ceritanya masing-masing. Anda bisa mengenal mereka. Mintalah informasi yang Anda butuhkan. dan menerima harta dari bantuan mereka. Anda dapat berinteraksi dengan karakter NPC dengan cara berikut: 
+			[warna=#9e6404]1. Bicara[/warna] 
+				Ngobrol dengan karakter dari waktu ke waktu. Anda mungkin mempelajari beberapa rahasia atau informasi khusus dari mereka. 
+				Berbicara dengan karakter meningkatkan kesukaan mereka sebelum mencapai 30. 
+			[warna=#9e6404]2. Diskusi[/warna]
+				Diskusikan semua yang ditampilkan di panel informasi karakter. 
+				Dengan memilih topik Anda dengan hati-hati. Anda mungkin menerima informasi berguna atau mencapai beberapa tujuan dalam pikiran Anda. 
+			[warna=#9e6404]3. Berinteraksi[/warna] 
+				Lakukan sesuatu dengan karakter ini. Anda dapat mengundang mereka ke kantor Anda. Atau beri mereka hadiah. 
+			[warna=#9e6404]4. Selamat tinggal[/warna] 
+				Akhir percakapan</Text>
+		</Help>
+		<Help Name="111" Root="11">
+			<Title>hewan peliharaan roh</Title>
+			<Text>Hewan peliharaan atau hewan peliharaan roh adalah jenis hewan khusus. Mereka seperti murid yang mempunyai tingkah laku sempurna. dan ketika statistik hewan peliharaan mencapai tingkat tertentu Mereka membuka akses ke keajaiban dan energi magis yang lebih kuat. 
+
+			Hewan peliharaan mempunyai ciri-ciri sebagai berikut: 
+			[warna=#9e6404]1. Pelatihan[/warna]
+			Pemain dapat mengubah perilaku hewan peliharaannya menggunakan pelatihan. Hal ini memungkinkan mereka untuk mengembangkan hewan peliharaannya dengan cara atau arah tertentu.
+			[warna=#9e6404]2. Perilaku[/warna]
+			Hewan peliharaan memilih cara berperilaku berdasarkan faktor perilakunya sendiri.
+			[warna=#9e6404]3. Panggil[/warna]
+			Pemain dapat memanggil hewan peliharaan ketika memasuki peta lain.
+			[warna=#9e6404]4. Kematian dan kelahiran kembali[/color]
+			Hewan peliharaan roh tidak akan pernah mati. Ketika energi mereka habis Mereka akan kembali ke patung mereka. Pemain dapat memanggil mereka melalui patung-patung itu.
+			[warna=#9e6404]5. Ubah [/warna]
+			Pemain hanya dapat memiliki satu hewan peliharaan. Untuk mengubah hewan peliharaan ke hewan peliharaan lain, Anda perlu membuat patung untuk melakukannya.</Text>
+		</Help>
+		<Help Name="112" Root="11">
+			<Title>Statistik dasar</Title>
+			<Text>Hewan peliharaan memiliki statistik dasar berikut: 
+			[warna=#9e6404]1. Pertumbuhan[/warna]
+				Hewan peliharaan akan tumbuh secara bertahap seiring berjalannya waktu. Hewan peliharaan akan tetap muda hingga tumbuh hingga 30%, yang berarti Anda tidak dapat mengontrol makanannya. Dari 30%-100%, pertumbuhan dan kecepatan pelatihan hewan peliharaan cukup cepat. Ketika hewan peliharaan mencapai umur 100%, mereka sudah dewasa.
+			[warna=#9e6404]2. Intelijen[/warna]
+				Mempengaruhi kecepatan latihan hewan peliharaan. Sementara itu, ini akan membuka berbagai perilaku. Lebih banyak menurut tingkat yang lebih tinggi
+			[warna=#9e6404]3. Pran[/warna]
+				Mempengaruhi Qi maksimum hewan peliharaan. Membuat mereka lebih sulit untuk mati. Hal ini memungkinkan mereka menggunakan lebih banyak energi magis. Itu juga meningkatkan jumlah Qi untuk inti iblis.
+			[warna=#9e6404]4. Armor Qi[/warna]
+				Mempengaruhi kemampuan armor untuk menyerap kerusakan.
+			[warna=#9e6404]5. Pran Veda[/warna]
+				Mempengaruhi kerusakan hewan peliharaan dan jumlah mana yang digunakan untuk mengeluarkan sihir.
+			[warna=#9e6404]6. Inti iblis[/warna]
+				Mempengaruhi kekuatan serangan inti iblis.
+			[warna=#9e6404]7. Suci/Terkutuk[/color]
+				Suci atau terkutuk adalah kombinasi kebaikan dan kejahatan yang terkait dengan setiap perilaku. Jika hewan peliharaan senang membantu orang, itu menunjukkan bahwa mereka memiliki nilai sakral yang tinggi. Sebaliknya, jika hewan peliharaan senang membunuh. Itu juga memiliki nilai kutukan yang tinggi. Ketika mencapai level tertentu, penampilan mereka akan berubah. Nilai kutukan yang lebih tinggi menghasilkan kekuatan serangan yang sangat baik dan nilai suci yang lebih tinggi menghasilkan pertahanan yang sangat baik.
+			[warna=#9e6404]8. Obesitas[/warna]
+				Obesitas bertambah atau berkurang tergantung pada makanan yang dimakan dan perilaku hewan peliharaan. Semakin tipis petnya, Semakin cepat cooldown energi sihirnya, semakin cepat pula cooldownnya. Sebaliknya, semakin gemuk hewan peliharaannya. Semakin lambat kecepatan gerakan mereka. Tapi Qi mereka akan menjadi lebih tinggi.
+			[warna=#9e6404]9. Otot[/warna]
+				Otot akan bertambah atau berkurang tergantung makanan yang dimakan dan perilakunya. Semakin kurus hewan peliharaannya, sebaliknya jika hewan peliharaan memiliki tubuh berotot, inti iblisnya akan menjadi lebih kuat.</Text>
+		</Help>
+		<Help Name="113" Root="11">
+			<Title>perilaku hewan peliharaan</Title>
+			<Text>Hewan peliharaan memiliki banyak tipe perilaku yang berbeda. Beberapa perilaku sangat berguna dalam membangun sebuah sekte. Beberapa berguna untuk bertarung. Pemain dapat menggunakan pelatihan untuk mengubah perilaku mereka. Ini akan membantu mereka berkembang menjadi hewan peliharaan dengan cara atau arah yang diinginkan. Memberikan dorongan akan membuat anjing lebih sering melakukan perilaku tersebut, namun jika ditegur, perilaku tersebut akan berkurang frekuensinya. Ada beberapa jenis perilaku hewan peliharaan berikut:
+			[warna=#9e6404]1. Makan[/warna]
+				Hewan peliharaan akan mencoba memakan berbagai jenis makanan. Anda bisa melatih mereka untuk makan atau tidak makan makanan tertentu. Anda juga dapat menggunakan menu untuk memprioritaskan jenis makanan tertentu.
+			[warna=#9e6404]2. Ekskresi[/warna]
+				Setelah hewan peliharaan memakan makanan dalam jumlah tertentu Seiring waktu, mereka perlu mengeluarkan kotoran. Hewan peliharaan dapat dilatih untuk buang air besar di tempat yang telah ditentukan.
+			[warna=#9e6404]3. Menyerang[/warna]
+				Pet dapat menyerang musuhnya sendiri dan dapat dilatih untuk menyerang secara otomatis juga. Hewan peliharaan juga memiliki energi magis yang dapat mereka gunakan atas kemauannya sendiri.
+			[warna=#9e6404]4. Menyenangkan untuk dimainkan[/warna]
+				Saat hewan peliharaan merasa stres, mereka akan mencoba bermain dan bersantai sendiri.
+			[warna=#9e6404]5. istirahat[/warna]
+				Ketika energi hewan peliharaannya habis Mereka akan pergi mencari tempat untuk beristirahat.
+			[warna=#9e6404]6. Bantuan[/warna]
+				Hewan peliharaan akan membantu murid luar menyelesaikan semua jenis tugas.
+			[warna=#9e6404]7. Bantuan lanjutan[/warna]
+				Hewan peliharaan akan membantu murid batin dalam pelatihan mereka. Namun, mereka membutuhkan kecerdasan tinggi untuk melakukan hal ini.
+			[warna=#9e6404]8. Transportasi[/warna]
+				Hewan peliharaan akan menyeret mayat semua jenis orang atau karakter tidak sadar ke lokasi yang ditentukan. Namun, mereka membutuhkan kecerdasan tinggi untuk melakukan hal ini.
+			[warna=#9e6404]9. Latihan[/warna]
+				Saat hewan peliharaan merasa rileks Mereka akan mulai melatih dirinya sendiri. Budidaya mereka akan menyebabkan statistik mereka meningkat dan efeknya dapat ditingkatkan dengan makanan dan minuman.</Text>
+		</Help>
+		<Help Name="114" Root="11">
+			<Title>makanan hewan peliharaan roh</Title>
+			<Text>Semua makanan bergizi yang dikonsumsi hewan peliharaan ditampilkan di sini. Menggunakan berbagai hal yang memiliki nilai gizi dapat meningkatkan hasil budidayanya. Namun hal-hal tersebut bisa memberikan dampak baik dan buruk bagi tubuhnya. dan membuat mereka menjadi gemuk juga.  Jenis-jenis makanannya adalah sebagai berikut: 
+			[warna=#9e6404]1. buah[/warna]
+				Membantu meningkatkan kecerdasan
+			[warna=#9e6404]2. Makanan yang dimasak[/warna]
+				Membantu meningkatkan armor
+			[warna=#9e6404]3. Jamur[/warna]
+				Membantu meningkatkan jumlah energi
+			[warna=#9e6404]4. Ginseng herbal[/warna]
+				Membantu meningkatkan kekuatan sihir
+			[warna=#9e6404]5. tekstur[/warna]
+				Membantu meningkatkan kekuatan inti iblis.
+			[warna=#9e6404]6. Sot[/warna]
+				Setelah meminum pil, diperlukan waktu 3 hari agar pil dapat terserap seluruhnya. Pil lain yang dikonsumsi selama ini tidak akan memberikan efek apa pun.</Text>
+		</Help>
+		<Help Name="121" Root="12">
+			<Title>transfigurasi</Title>
+			<Text>Jika seekor hewan ingin bertransformasi Ada tiga langkah yang harus dilakukan: 
+			[warna=#9e6404]1. Kebangkitan[/warna]
+				Hewan harus memiliki pemahaman tentang kecerdasannya sebelum dapat dilatih. Anda dapat menggunakan beberapa obat untuk membantu mereka bangun. Anda mungkin bisa menangkapnya di alam liar, membelinya dari berbagai sekte, membelinya dari pedagang asongan, atau membelinya dari balai lelang.
+			[warna=#9e6404]2. Berubah menjadi setengah iblis[/color]
+				Transformasi hewan memerlukan tingkat fisik dan intelektual yang setara dengan manusia. Ini berasal dari penggabungan kristal kebijaksanaan. Ada tiga jenis kecerdasan kristal: kesadaran, akal, dan pemahaman. Setelah memiliki kristal kebijaksanaan yang cukup, mereka kemudian dapat berubah menjadi bentuk setengah iblis.
+			[warna=#9e6404]3. Transformasi lengkap[/warna]
+				Setelah bertransformasi menjadi setengah iblis Seiring berjalannya waktu, para dewa akan menghadapi hukuman transformasi. Semakin tinggi jumlah setengah iblis, semakin tinggi pula jumlah kristal kecerdasannya. Semakin cepat hukuman transformasi datang. Ketika setengah iblis mampu mengatasi hukuman transformasi. Mereka akan menjadi manusia seutuhnya.</Text>
+		</Help>
+		<Help Name="122" Root="12">
+			<Title>kekuatan fisik dan kecerdasan</Title>
+			<Text>Kristal kecerdasan adalah sumber daya khusus untuk makhluk yang belum sepenuhnya berubah. Bagian ini dapat meningkatkan beberapa statistik. Jika Anda ingin hewan peliharaan Anda menjadi setengah iblis Anda harus menggunakan kekuatan fisik dan kristal kebijaksanaan dalam jumlah yang cukup. Kekuatan mereka terakumulasi secara perlahan. Seiring dengan sistem pencernaan Ada tiga jenis kecerdasan kristal yang dapat disintesis: (kesadaran/rasionalitas/pemahaman).
+			[warna=#9e6404]1. Kewajaran[/warna]
+				Merah melambangkan pemikiran tentang berbagai peristiwa. Status mereka sebagian besar mempengaruhi kecepatan budidaya mereka.
+			[warna=#9e6404]2. Pengertian[/warna]
+				Biru mewakili pemikiran tentang emosi.  Sebagian besar statistik mereka berdampak positif pada statistik dasar mereka. Namun akan mengurangi resistensi terhadap berbagai elemen.
+			[warna=#9e6404]3. Kesadaran[/warna]
+				Hijau mewakili pemikiran tentang berbagai hal.  Statistik mereka sebagian besar memengaruhi keterampilan mereka.</Text>
+		</Help>
+		<Help Name="123" Root="12">
+			<Title>Gagak berpikir dan berpikir.</Title>
+			<Text>Hewan menghasilkan fragmen pemikiran seiring berjalannya waktu. yang bila lengkap harus disintesis menjadi kristal kebijaksanaan melalui proses berpikir. Mohon perhatikan hal-hal berikut jika ingin mempercepat proses ini:
+			[warna=#9e6404]1. Kenyamanan[/warna]
+			Hewan menciptakan fragmen pemikiran seiring berjalannya waktu. Dan semakin tinggi tingkat kenyamanan mereka, semakin baik. Semakin cepat mereka diproduksi. pada saat yang sama Sepotong pemikiran khusus hanya dapat diperoleh melalui observasi.
+			[warna=#9e6404]2. Proses berpikir[/warna]
+			Proses berpikir memungkinkan Anda menyatukan tiga buah pemikiran yang sejenis menjadi satu kristal kebijaksanaan. Semua pemikiran yang tersisa akan dilupakan. Fragmen-fragmen pemikiran dapat ditempatkan dalam ingatan untuk dilestarikan dan fragmen-fragmen pemikiran tersebut baru dilupakan setelah beberapa kali proses berpikir. Jika Anda ingin mendapatkan ide yang lebih baik. Anda harus memanfaatkan ingatan Anda dengan baik untuk menangkap ide-ide yang lebih baik.
+			[warna=#9e6404]3. Pengamatan[/warna]
+			Sebagian besar pemikiran dapat diperoleh melalui observasi. Jika Anda menerima dua buah gagasan yang sama, buah ketiga dapat diperoleh melalui observasi.
+			[warna=#9e6404]4. Lupa[/warna]
+			Harap berhati-hati karena pikiran dan kenangan pada akhirnya akan terlupakan. Jadi jangan mencoba menunggu terlalu lama untuk mendapatkan pecahan yang ideal.</Text>
+		</Help>
+		<Help Name="131" Root="13">
+			<Title>Mendapatkan esensi alam</Title>
+			<Text>Latihan fisik membutuhkan esensi alami untuk berasimilasi dengan tubuh Anda. Ada dua metode utama. Untuk mendapatkan esensi alami:
+			[warna=#9e6404]1. Berjalan nafas[/warna]
+			Dengan metode khusus dalam bernapas, para kultivator Fisik Abadi akan dapat menggunakan tubuh mereka yang kuat untuk mengekstrak esensi alam. yang dapat digunakan untuk membentuk tubuh baru. Berjalannya nafas pada waktu yang berbeda memberikan esensi alam yang berbeda pula.
+			Praktisi Fisik Abadi dapat bernapas di tempat berbeda.
+			Pemain dapat menggunakannya untuk merencanakan gerakan napas mereka pada waktu yang berbeda.
+			Pemain dapat secara otomatis menentukan lokasi jalan nafas dengan menempatkan bantal atau tempat tidur dan menugaskannya ke Penggarap Fisik Abadi.
+			[warna=#9e6404]2. Tertelan[/warna]
+			Penggarap Fisik Abadi akan mendapat manfaat dari memiliki sistem pencernaan yang sehat. Pencernaan mereka tidak lagi selemah orang normal. Mereka bisa makan apa saja dan mengekstrak esensi alaminya untuk digunakan dalam memurnikan tubuh mereka.
+			Tingkat item yang dapat dimakan berhubungan dengan tingkat keterampilan observasi latihan fisik. Pelatihan fisik dapat lebih meningkatkan keterampilan observasi melalui penggunaan objek secara berulang-ulang. Selain itu Pemain juga dapat meningkatkan status ini dengan membangun kembali organ sistem pencernaannya.</Text>
+		</Help>
+		<Help Name="132" Root="13">
+			<Title>Pemurnian Tubuh</Title>
+			<Text>Tubuh kuat dari Penggarap Fisik Abadi diperoleh dengan menyempurnakan berbagai bagian tubuh mereka. Saat tubuh mereka menjadi lebih kuat, jumlah bagian tubuh yang bisa ditempa juga akan bertambah.
+			bagian tubuh Mereka akan memiliki hasil peningkatan yang berbeda.
+			[warna=#9e6404]1. Otot dan darah[/warna]
+			Perpaduan otot dan darah meningkatkan kecepatan, akurasi, dan peluang keberhasilan dalam bertahan.
+			[warna=#9e6404]2. Tulang[/warna]
+			Memurnikan tulang meningkatkan kekuatan serangan dan daya tahan tubuh.
+			[warna=#9e6404]3. Organ dalam[/warna]
+			Penempaan organ dalam akan meningkatkan kemampuan tambahan tubuh tergantung dari organ yang ditempa.</Text>
+		</Help>
+		<Help Name="133" Root="13">
+			<Title>Pelatihan Tubuh Misterius</Title>
+			<Text>[warna=#9e6404]1. Mengaktifkan Fisik Misterius[/color]
+			Jika seorang kultivator Metode Fisik Abadi memenuhi persyaratan dasar untuk menyempurnakan berbagai bagian tubuh, Mereka akan dapat mengaktifkan Fisik Misterius.
+			[warna=#9e6404]2. Menggunakan Fisik Misterius[/color]
+			Setelah menerima Fisik Misterius Hasilnya tidak akan terpengaruh. Pemain harus melengkapi Pose Tubuh Misterius kepada Penggarap Fisik Abadi. Penggarap Fisik Abadi akan berusaha menyerang dan bertahan dengan Fisik Misterius yang mereka kenakan.</Text>
+		</Help>
+		<Help Name="134" Root="13">
+			<Title>Pertempuran Penggarap Fisik Abadi</Title>
+			<Text>[warna=#9e6404]1. Serangan Fisik Misterius[/color]
+			Ketika seorang penggarap Fisik Abadi memasuki mode pertempuran, mereka akan menggunakan Fisik Misterius yang ditunjuk untuk menyerang musuh-musuh mereka. Namun, pemain dapat memerintahkan mereka untuk menggunakan gerakan khusus untuk menyerang. Gerakan khusus ini memerlukan Qi Sejati seorang kultivator sebagai gantinya. Menghasilkan akurasi 100% dan penetrasi armor energi 300%.
+			[warna=#9e6404]2. Kemarahan gila[/color]
+			Penggarap Fisik Abadi mampu mengingat kenangan menyakitkan dan menggunakannya sebagai energi dalam kemarahan mereka yang hiruk pikuk. Dengan melakukan ini, kekuatan serangan Penggarap Fisik Abadi akan meningkat pesat.
+			[warna=#9e6404]3. Bangkit kembali[/warna]
+			Ketika Fisik Misterius dirilis Ada peluang untuk merangsang pemulihan. Saat diaktifkan, ini akan mereset cooldown Fisik Misterius dan memungkinkannya digunakan terus menerus tanpa biaya untuk beberapa saat.
+			Peluang pemicu meningkat 100% dalam kondisi mengamuk.</Text>
+		</Help>
+		<Help Name="141" Root="14">
+			<Title>membangkitkan benda-benda roh</Title>
+			<Text>Segala sesuatu di bumi dipengaruhi oleh perubahan di alam semesta. Selain membuka hati suatu benda dan mendatangkan hikmah, benda juga dapat membangkitkan semangat dalam situasi berikut:
+			[warna=#9e6404]1. Dibangunkan oleh pemiliknya[/color]
+			Penggarap dengan benih dao dan pencerahan mendalam tentang langit dan bumi sering kali mempengaruhi lingkungan sekitar mereka. Jika Anda cukup beruntung, pengaruh semacam ini dapat menyebabkan kebangkitan roh benda mati.
+			[warna=#9e6404]2. Dibangunkan oleh surga[/color]
+			Kebangkitan ketuhanan merupakan cerminan perubahan hukum langit dan bumi. Jika hal ini terjadi maka hal ini akan mengakibatkan benda-benda tak berjiwa mendapatkan jiwanya.
+			[warna=#9e6404]3. Membangkitkan semangat dengan mantra sihir[/color]
+			Ini adalah penggunaan mantra tertentu untuk merangsang semangat suatu objek. Namun, dengan metode ini, peluang keberhasilannya kecil.</Text>
+		</Help>
+		<Help Name="142" Root="14">
+			<Title>Objek spiritual dan unsur</Title>
+			<Text>Manusia secara alamiah mempunyai keseimbangan kelima unsur tersebut. Namun objek rohnya tidak seperti itu. Pada saat lahirnya badan Perbandingan lima unsur yang dimiliki suatu materi roh akan mempengaruhi lima kualitas dan potensi tubuh yang akan diciptakan. Meskipun kelima elemen tersebut tidak sama, namun dapat menyebabkan cacat. Namun dapat menciptakan suatu tubuh dari unsur-unsur yang tidak dapat dilakukan oleh tubuh manusia.
+			Objek jiwa menyesuaikan rasio lima elemen yang mereka miliki dengan memakan elemen berbeda sebagai persiapan untuk transfigurasi.
+			Jika proporsi lima elemen ditentukan, pemain dapat menggunakan mantra "Fisik Pertama" untuk membuat tubuh objek roh.</Text>
+		</Help>
+		<Help Name="143" Root="14">
+			<Title>Objek roh yang terbangun</Title>
+			<Text>Tubuh materi roh berbeda dengan tubuh manusia dan mungkin memiliki sifat yang lebih kuat daripada manusia biasa. Bakat semacam ini terlalu sulit untuk dipahami oleh makhluk lain. Hal ini karena sangat sulit bagi suatu objek untuk memiliki kesadaran dan menciptakan tubuh fisik. Mungkin talenta-talenta ini adalah kompensasi dari surga.
+			Bakat benda roh adalah sebagai berikut:
+			    Obat Jiwa: Pertama kali mengkonsumsi obat, tidak akan ada resistensi obat di tubuh Anda.
+			    Makanan Jiwa: Memiliki kemampuan menyerap qi dan rasio mengubah energi fisik menjadi lautan qi yang tinggi.
+			    Permata Roh: Meningkatkan tingkat keberhasilan penyempurnaan Permata Roh Tanpa Duka dan Permata Roh Pembunuh sebesar 100%.
+			    Spirit Spirit Stone: Memiliki basis dengan jumlah Qi yang lebih tinggi dari biasanya.
+			    Spirit of Magic Talisman: Memungkinkan Anda menggunakan jimat tambahan sebanyak 1 slot.
+			    Equipment Spirit: Meningkatkan efek peralatan yang dilengkapi sebesar 100%.
+			    Roh Harta Karun Ajaib: Meningkatkan efek harta karun Feng Shui sebesar 100%. 
+			    Jiwa Material: Dapat tumbuh dengan mengonsumsi item yang sejenis dengan dirinya.
+			    Roh Senjata Ajaib: Meningkatkan keterampilan senjata ajaib.
+			    Membangun Semangat: Dapat dengan cepat memulihkan bagian tubuh yang hilang dengan menggunakan bahan bangunan.
+			    Spirit Tree: Memiliki pertumbuhan yang tidak dapat diprediksi, yaitu dapat tumbuh dengan sendirinya seiring berjalannya waktu. Seiring berjalannya waktu
+			    Roh Lainnya: Memiliki keberuntungan yang sangat tinggi.</Text>
+		</Help>
+		<Help Name="P11" Root="P1">
+			<Title>Bab terakhir karakter</Title>
+			<Text>Untuk setiap karakter yang naik ke surga, dikeluarkan dari sekte, atau meninggal, ada epilog karakter untuk mereka. 
+				Epilog karakter dikategorikan berdasarkan permainan yang disimpan. Anda dapat memeriksa epilog karakter Anda dengan mencari permainan yang Anda simpan. 
+				Mengakses epilog karakter dilakukan melalui layar yang secara otomatis menampilkan epilog karakter dari permainan terakhir Anda yang disimpan.</Text>
+		</Help>
+		<Help Name="P12" Root="P1">
+			<Title>Aula Alkitab</Title>
+			<Text>Balai Kitab Suci: Kini Anda dapat menyimpan dan mengelola kitab suci Anda melalui Balai Kitab Suci. Setiap rak memiliki kapasitas penyimpanannya masing-masing. Semakin maju subjeknya, semakin banyak ruang yang dibutuhkan untuk menyimpannya. Anda dapat mengumpulkan gulungan dengan cara berikut: 
+			[warna=#9e6404]1. Salin subjek budidaya[/warna] 
+				Salin semua teknik budidaya tingkat pertama ke dalam aula kitab suci. 
+			[warna=#9e6404]2. Salin kitab suci[/color] 
+				Salin 1 buku 
+			[warna=#9e6404]3. Salin ilmu yang anda punya[/color] 
+				Salin ilmu yang dimiliki karakter tersebut. 
+			Semakin banyak manual yang disimpan di aula kitab suci, semakin banyak. Semakin banyak bonus yang akan diterima setiap murid Anda di sekte tersebut. Mereka membutuhkan lebih sedikit benih dao untuk mempelajari kitab suci.</Text>
+		</Help>
+		<Help Name="P13" Root="P1">
+			<Title>Membuat Cetak Biru</Title>
+			<Text>Fitur Baru: Menambahkan Cetak Biru Bangunan. 
+				Anda sekarang dapat memilih area yang tidak lebih besar dari 20 x 20 ubin dan menyimpan tata letaknya sebagai cetak biru. Cetak biru yang disimpan dapat digunakan di game apa pun yang Anda simpan. 
+				Anda juga dapat membagikannya melalui workshop.</Text>
+		</Help>
+		<Help Name="P14" Root="P1">
+			<Title>Pesan dan aturan biro</Title>
+			<Text>Pemain kini dapat mengatur jenis pesan apa yang ingin mereka tampilkan di layar. Pemain dapat memilih untuk mengabaikan jenis pesan tertentu dan mencegah pop-up muncul.
+			Pemain sekarang dapat menetapkan aturan sekte di halaman Manajemen Klan. Murid Anda akan secara otomatis membuat keputusan sesuai dengan aturan sekte saat melakukan petualangan.</Text>
+		</Help>
+		
+		<Help Name="P15" Root="P1">
+			<Title>Kontrak Hewan Roh</Title>
+			<Text>Setelah memasang kontrak roh Kita akan memiliki kecepatan petualangan yang lebih tinggi. Selain itu, karakter akan mendapatkan fitur khusus jika mencapai alam yang lebih tinggi. Setelah mencapai Alam Inti Emas, jumlah Qi maksimum mereka akan meningkat. Setelah mencapai Alam Roh Primordial, mereka akan memperoleh kemampuan khusus yang berbeda untuk setiap jenis binatang iblis sebagai berikut:
+	    
+			· Menambahkan 12 kontrak roh yang berbeda.
+
+				Kelinci: Bonus Kecepatan Petualangan
+			    Ayam: Bonus Persepsi
+			    Serigala: Bonus Keterampilan Senjata Ajaib
+			    Ular: Bonus keterampilan Qi Ajaib
+			    Babi Hutan: Bonus Stamina
+			    Beruang: Bonus Stamina, Bonus Keterampilan Senjata Ajaib
+			    Katak: Bonus Indera Nafas
+			    Penyu: Bonus Armor Energi
+			    Kucing: Bonus Kerajinan
+			    Banteng: Bonus Stamina, Bonus Keterampilan Pemurnian Obat
+			    Harimau: Bonus keterampilan bertarung, bonus keterampilan Senjata Ajaib.
+			    Panda: Bonus Keberuntungan [Jauh di Dalam Hutan Bambu]
+
+			· Menambahkan 2 kontrak jiwa khusus.
+			    Ada dua kontrak roh khusus: kontrak Lu Su dan Fei yang hanya bisa dibeli di lelang. Kontrak ini tidak berguna untuk berperang. Tapi itu bisa membuat karakter menggunakan keajaiban asli Lu Su dan Fei untuk memanggil hujan atau menghilangkan awan.
+
+			·Enam belas Teknik Budidaya, Langkah-Langkah Penguasaan: Kontrak Jiwa
+			    Itu bisa dilemparkan pada binatang yang tidak sadarkan diri dengan level lebih rendah dari milikmu. Merapalkan mantra memungkinkan Anda menyegelnya dalam kontrak roh. Semakin tinggi jangkauan binatang iblis itu, semakin tinggi pula jangkauannya. Semakin tinggi efek spesial dari kontrak roh, semakin tinggi pula efeknya.
+
+			· Menambahkan pengaturan baru: Flying Demonic Beast (dapat dipilih di halaman peralatan) 
+			    Setelah mengklik dan memilih, Karakter ini mengendarai monster sinyal saat bepergian di peta.</Text>
+		</Help>
+	</List>
+</Helps>
