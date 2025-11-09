@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="rpgDlg_test1">
+			<Nodes.0.Text>awal</Nodes.0.Text>
+			<Nodes.1.Text>000001_1 Karakter pemain[HIM]Halo[LUA=XXXXX]!</Nodes.1.Text>
+			<Nodes.2.Text>000001_2 Karakter Pemain[HIM]Halo[LUA=XXXXX]!</Nodes.2.Text>
+			<Nodes.3.Text>Opsi A || Opsi A1 || Opsi A2 || Opsi A3</Nodes.3.Text>
+			<Nodes.4.Text>Pilihan B</Nodes.4.Text>
+			<Nodes.5.Text>Opsi C</Nodes.5.Text>
+			<Nodes.6.Text>Opsi D</Nodes.6.Text>
+			<Nodes.7.Npc>peragawati</Nodes.7.Npc>
+			<Nodes.7.Text>Anda telah memilih opsi A || Anda telah memilih opsi A1 || Anda telah memilih opsi A2</Nodes.7.Text>
+			<Nodes.8.Text>Anda telah memilih opsi B.</Nodes.8.Text>
+			<Nodes.9.Text>Anda telah memilih opsi A.</Nodes.9.Text>
+			<Nodes.10.Text>Anda telah memilih opsi B.</Nodes.10.Text>
+			<Nodes.11.Text>Anda telah memilih opsi A.</Nodes.11.Text>
+			<Nodes.12.Text>Anda telah memilih opsi B.</Nodes.12.Text>
+		</Text>
+	</List>
+</Texts>
