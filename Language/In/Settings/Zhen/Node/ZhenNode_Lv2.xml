@@ -1,0 +1,310 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv2_4_1">
+			<DisplayName>Langit dan Bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_2">
+			<DisplayName>Angin dan Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_3">
+			<DisplayName>Yin mengubah Yang</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_4">
+			<DisplayName>Yang menggantikan Yin</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_5">
+			<DisplayName>yin murni</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_6">
+			<DisplayName>yang murni</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_1">
+			<DisplayName>surga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_2">
+			<DisplayName>bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_3">
+			<DisplayName>Air</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_4">
+			<DisplayName>api</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_5">
+			<DisplayName>baut</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_6">
+			<DisplayName>badai</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_7">
+			<DisplayName>gunung</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_8">
+			<DisplayName>rawa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_9">
+			<DisplayName>menciptakan surga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_10">
+			<DisplayName>lahirnya dunia</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_11">
+			<DisplayName>Air yang tak terduga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_12">
+			<DisplayName>Api yang tidak terputus</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_13">
+			<DisplayName>Petir yang Marah</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_14">
+			<DisplayName>angin sepoi-sepoi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_15">
+			<DisplayName>gunung yang stabil</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_16">
+			<DisplayName>Bueng Suksan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_17">
+			<DisplayName>perdamaian</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_18">
+			<DisplayName>kekuatan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_19">
+			<DisplayName>kemakmuran</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_20">
+			<DisplayName>kelimpahan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_21">
+			<DisplayName>mengharapkan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_22">
+			<DisplayName>resolusi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_23">
+			<DisplayName>bantuan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_24">
+			<DisplayName>tergenang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_25">
+			<DisplayName>antusias</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_26">
+			<DisplayName>dari perpisahan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_27">
+			<DisplayName>kemajuan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_28">
+			<DisplayName>Mengintegrasikan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_29">
+			<DisplayName>menyusun</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_30">
+			<DisplayName>merenungkan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_31">
+			<DisplayName>murni</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_32">
+			<DisplayName>kembali</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_33">
+			<DisplayName>hangat</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_34">
+			<DisplayName>angsa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_35">
+			<DisplayName>bibit</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_36">
+			<DisplayName>mengikuti</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_37">
+			<DisplayName>memperluas</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_38">
+			<DisplayName>mundur</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_39">
+			<DisplayName>sederhana</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_40">
+			<DisplayName>Kelebihan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_41">
+			<DisplayName>pengembara</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_42">
+			<DisplayName>rintangan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_43">
+			<DisplayName>daya tarik</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_44">
+			<DisplayName>perkembangan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_45">
+			<DisplayName>persahabatan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_46">
+			<DisplayName>dalam</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_47">
+			<DisplayName>boros</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_48">
+			<DisplayName>tata krama</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_49">
+			<DisplayName>menyelesaikan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_50">
+			<DisplayName>merevolusionerkan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_51">
+			<DisplayName>keluarga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_52">
+			<DisplayName>konflik</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_53">
+			<DisplayName>tentara</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_54">
+			<DisplayName>kebebasan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_55">
+			<DisplayName>menelantarkan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_56">
+			<DisplayName>tidak lengkap</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_57">
+			<DisplayName>sulit</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_58">
+			<DisplayName>menyebar</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_59">
+			<DisplayName>Ambil satu langkah</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_60">
+			<DisplayName>mendekati</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_61">
+			<DisplayName>pengantin perempuan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_62">
+			<DisplayName>mengurangi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_63">
+			<DisplayName>penentang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_64">
+			<DisplayName>membatasi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_65">
+			<DisplayName>Kejujuran</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_66">
+			<DisplayName>menghadapi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_67">
+			<DisplayName>ke surga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_68">
+			<DisplayName>periode</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_69">
+			<DisplayName>Bencana</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_70">
+			<DisplayName>kompor</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_71">
+			<DisplayName>kolam</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_72">
+			<DisplayName>unggul</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_1">
+			<DisplayName>Keterampilan Pedang Kosmik</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_2">
+			<DisplayName>Keterampilan sihir kosmik</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_3">
+			<DisplayName>Keterampilan Armor Kosmik</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_4">
+			<DisplayName>Keterampilan Pedang Bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_5">
+			<DisplayName>Keterampilan sihir bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_6">
+			<DisplayName>Keterampilan Pelindung Bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_7">
+			<DisplayName>Keterampilan Pedang Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_8">
+			<DisplayName>Keterampilan Sihir Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_9">
+			<DisplayName>Keterampilan Armor Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_10">
+			<DisplayName>Keterampilan Pedang Angin</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_11">
+			<DisplayName>Keterampilan Sihir Angin</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_12">
+			<DisplayName>Keterampilan Pelindung Angin</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_13">
+			<DisplayName>Keterampilan Pedang Air</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_14">
+			<DisplayName>Keterampilan Veda Air</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_15">
+			<DisplayName>Keterampilan Pelindung Air</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_16">
+			<DisplayName>Keterampilan Pedang Api</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_17">
+			<DisplayName>Keterampilan Sihir Api</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_18">
+			<DisplayName>Keterampilan Armor Api</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_19">
+			<DisplayName>Keterampilan Pedang Gunung</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_20">
+			<DisplayName>Keterampilan Sihir Gunung</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_21">
+			<DisplayName>Keterampilan Armor Gunung</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_22">
+			<DisplayName>Keterampilan Pedang Variabel</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_23">
+			<DisplayName>Keterampilan Sihir Variabel</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_24">
+			<DisplayName>Keterampilan Armor Variabel</DisplayName>
+		</Text>
+	</List>
+</Texts>
