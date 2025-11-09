@@ -1,0 +1,63 @@
+仓库	Storage
+房间	Room
+野猪皮薄衣衫	Thin Shirt
+黑布薄下裳	Black Fabric Thin Pants
+靛蓝布休闲衣衫	Casual Shirt
+黑布休闲下裳	Casual Pants
+木墙	Wood Wall
+木门	Wood Door
+木床	Wood Bed
+木油灯	Wood Oil Lamp
+<font color=MYCOLOR>钟心</font>突然觉得右眼跳了跳。	<font color=MYCOLOR>Zhong Xin</font> suddenly felt [POSSESSIVE] right eye twitch.
+2天 13:54	2d 13:54
+钟	Zhong
+心	Xin
+惊魂初定	Soul-Shock Initial Calm
+思淼	Simiao
+公西	Gongxi
+莲	Lian
+<font color=MYCOLOR>常进</font>在割除<font color=OBJCOLOR>蒲公英</font>时，突然觉得莫名烦躁。	<font color=MYCOLOR>Chang Jin</font> suddenly felt inexplicably irritable while <font color=OBJCOLOR>weeding dandelions</font>.
+2天 13:21	2d 13:21
+常	Chang
+进	Jin
+泽	Ze
+权	Quan
+宛凝	Wanning
+食物储量不足	Insufficient food reserves.
+药物储量不足	Insufficient medicine reserves.
+存档写入完成	Game Saved
+有版本更新	Version Update Available
+游戏版本更新0.9736	Game version updated to 0.9736
+钟心：受伤	Zhong Xin: hurt.
+药草	Medicinal Herb
+药草正在发挥药效	Herbs are taking effect
+天岭神视纪要	Celestial Ridge Divine Vision
+蜀山十二都天	Shushan Twelve Primordial Deities Formation
+阴阳不朽诀	Yin Yang Immortality Art
+冷月不坏诀	Frost Moon Indestructible Art
+戊土不坏咒	Earth Invulnerability Curse
+金刚密卷	Vajra Secret Scroll
+少量的	Slightly
+奠基经	Foundation Scripture
+戊己奠基秘册	Secret Manual of Wu-Ji Foundation
+中量的	Visibly
+坤元奠基密卷	Earth Origin Foundation Scripture
+东华金刚秘册	Eastern Splendor Diamond Manual
+五内金刚宝典	Five Viscera Vajra Canon
+入道奠基密卷	Path Initiation Foundation Secret Scroll
+大量的	Greatly
+长生金刚秘册	Longevity Vajra Secret Manual
+五内摄神	Spirit Capture of Five Viscera
+万里摄神典	Ten Thousand Miles Spirit-Snatching Scripture
+御气神农宝册	Qi-Control Divine Farmer Manual
+冷月合一书	Frostmoon Unity Tome
+坤元神佑要诀	Earth Origin Divine Protection Essence
+海量的	Massively
+本源决意要诀	Essence Resolve Technique
+归真沃野要诀	Return to Truth Fertile Land Formula
+麒麟流光神雷	Kirin Radiance Divine Thunder Technique
+御灵术	Spirit Control Art
+求雨术	Rain-Summoning Art
+他化自在大法	Self-Transformation Supreme Art
+摄神御鬼大法	Spirit-Capture Ghost Control Art
+东海气摄纪要	Eastern Sea Qi Control Notes
