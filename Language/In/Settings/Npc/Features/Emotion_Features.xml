@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>pesimistis</DisplayName>
+			<Desc>Mengapa dunia ini diciptakan? Mengapa kita harus menderita seperti ini?</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>Optimis</DisplayName>
+			<Desc>Segala sesuatu ada naik turunnya. Apakah saya benar?</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>Sisi mati rasa</DisplayName>
+			<Desc>Stres sehari-hari membuat orang Orang ini memiliki pikiran yang tumpul. Namun, ini berarti demikian[IT]Oleh karena itu, mereka terbiasa dengan stres dan rasa sakit[IT]Tidak akan kendur dalam bekerja karena keadaan pikiran yang tertekan.</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>penasaran</DisplayName>
+			<Desc>[IT]Mereka sangat ingin tahu tentang dunia luar dan tidak tahan dengan gaya hidup yang monoton.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Ramah</DisplayName>
+			<Desc>[IT]Sangat ramah kepada semua orang</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>blokir dirimu sendiri</DisplayName>
+			<Desc>[IT]Jangan percaya pada cinta sejati dan jangan percaya siapa pun.</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>Pikiran yang kuat</DisplayName>
+			<Desc>[IT]Miliki pikiran yang kuat dan tahan lebih banyak rasa sakit daripada yang lain.</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>lemah</DisplayName>
+			<Desc>[IT]Selalu terlindungi dan nyaris tidak mampu menahan rasa sakit.</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>Pikiranku bingung.</DisplayName>
+			<Desc>[IT]Seringkali gelisah dan tidak mampu menyelesaikan tugas yang diberikan</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>pikiran yang stabil</DisplayName>
+			<Desc>[IT]memiliki pikiran yang stabil[IT]Sangat sulit untuk merasa jengkel atau sedih.</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>ceroboh</DisplayName>
+			<Desc>[IT]Padahal mereka selalu lalai dalam pekerjaannya[IT]Akan menyelesaikan pekerjaan lebih cepat dibandingkan orang lain. Namun karya yang dihasilkan kurang bagus.</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>teliti</DisplayName>
+			<Desc>[IT]Mereka sangat teliti dalam pekerjaannya. Ini membuat[IT]Bekerja cukup lambat Tapi hasilnya sangat bagus.</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>malas</DisplayName>
+			<Desc>[IT]tidak suka bekerja</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>berjuang keras</DisplayName>
+			<Desc>[IT]Mereka rajin dan memiliki efisiensi yang sangat baik dalam pekerjaannya.</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>Hati seorang wanita</DisplayName>
+			<Desc>Meskipun tubuhnya laki-laki,[IT]memiliki kepribadian dan kepribadian yang lebih feminim</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>Hati adalah seorang pria.</DisplayName>
+			<Desc>Meski tubuhnya berjenis kelamin perempuan,[IT]memiliki kepribadian dan kepribadian yang lebih mirip laki-laki</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Bersikaplah penuh perhatian</DisplayName>
+			<Desc>Seseorang yang memiliki kebaikan membuat orang lain ingin bergaul dengan Anda juga.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>kejam</DisplayName>
+			<Desc>Orang ini berpikiran sempit dan kejam. dan selalu menimbulkan ketidakpuasan di kalangan orang lain</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>Ada masalah di hatiku.</DisplayName>
+			<Desc>Orang ini mempunyai hati yang berat.[IT]Saya merasa tertekan sepanjang waktu. Adapun ketika dia tidur, dia tidak bisa tidur nyenyak karena mimpi buruk yang menghantuinya.[IT]</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>Tertekan</DisplayName>
+			<Desc>Semuanya... Ini sangat tidak ada artinya</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>melepaskan</DisplayName>
+			<Desc>Orang ini telah mencapai keadaan tidak ada.[IT]Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>Takut pada api</DisplayName>
+			<Desc>Orang ini sangat takut pada api dan tidak dapat melakukan apapun yang berhubungan dengan api.</Desc>
+		</Text>
+	</List>
+</Texts>
