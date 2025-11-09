@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SpellPaper" sParam="Item">
+			<ThingName>kertas Yantra</ThingName>
+			<Desc>Kertas yang dibuat khusus yang dapat diubah menjadi jimat ajaib dengan menggambar karakter unik dengan tinta darah setan merah di atasnya.</Desc>
+			<Item.FabaoSuffix>Yantra, mantra, terlarang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellPaperLv2" sParam="Item">
+			<ThingName>kertas jimat darah</ThingName>
+			<Desc>Kertas terbuat dari darah setan. Itu dapat diubah menjadi jimat ajaib dengan menggambar karakter unik dengan tinta darah iblis merah.</Desc>
+		</Text>
+		<Text Name="Item_SpellPaperLv3" sParam="Item">
+			<ThingName>Kertas Yantra Ilahi</ThingName>
+			<Desc>Kertas terbuat dari Manijit yang bebas kesedihan. Itu dapat diubah menjadi jimat ajaib dengan menggambar karakter unik dengan tinta darah iblis merah.</Desc>
+		</Text>
+		<Text Name="Item_Spell" sParam="Item">
+			<ThingName>jimat</ThingName>
+			<Desc>Jimat yang berhasil dibuat Dapat dikenakan di tubuh untuk mendapatkan kemampuan bonus tertentu.</Desc>
+			<Item.FabaoSuffix>Yantra, mantra, terlarang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellLv2" sParam="Item">
+			<ThingName>jimat</ThingName>
+			<Desc>Jimat yang berhasil dibuat Dapat dikenakan di tubuh untuk mendapatkan kemampuan bonus tertentu.</Desc>
+		</Text>
+		<Text Name="Item_SpellLv3" sParam="Item">
+			<ThingName>jimat</ThingName>
+			<Desc>Jimat yang berhasil dibuat Dapat dikenakan di tubuh untuk mendapatkan kemampuan bonus tertentu.</Desc>
+		</Text>
+	</List>
+</Texts>
