@@ -1,0 +1,254 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhuJi">
+			<Type>Latihlah ketekunan</Type>
+			<DisplayName>pelatihan pembangunan pondasi</DisplayName>
+			<Desc>Pelajari metode dan makna pelatihan dasar untuk siswa luar dalam tutorial ini.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Arti dari pelatihan dasar</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Lihatlah latihan membangun fondasi.</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>pelatihan pembangunan pondasi</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Aktifkan "Latihan"</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Tetapkan jadwal pelatihan</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Tetapkan tempat latihan</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Tunggu sampai muridnya mulai berlatih.</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Cara lain untuk memperkuat fondasi</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Periksa empedu beruang</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Periksa fondasinya</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Makan empedu</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Periksa fondasinya</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Ketuk karakter acak.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk untuk membuka panel karakter.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Ketuk untuk membuka menu Budidaya dan Budidaya.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>seperti yang ditunjukkan pada gambar Jika murid luar mengabaikan latihan hariannya, Fondasi mereka akan berkurang 1k. Bahkan para murid yang telah menyelesaikan budidaya fondasi mereka tidak terkecuali.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TipsData.Desc>Pelatihan pembangunan pondasi murid luar hanya akan selesai ketika pondasi mereka mencapai 25k. Ini adalah syarat terpenting untuk menjadi murid batiniah.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Ketuk untuk mengaktifkan. "Latihlah ketekunan"</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk untuk menutup menu Budidaya dan Budidaya.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk untuk membuka menu jadwal.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Klik untuk membuka menu jadwal.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Setel ke "Latihan"</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Setel ke "Latihan"</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Setel ke "Latihan"</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Setel ke "Latihan"</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Tutup jendela ini</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Ketuk "Tengah" untuk membuka jendela bangunan Klan.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Ketuk "Tempat Latihan"</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>kantor</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Tempatkan lapangan latihan di lokasi yang ditentukan.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Konfirmasikan pembuatan</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Keluar dari mode pembuatan.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Sentuh pembakar dupa.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Pilih meja kerja untuk menampilkan status di bawah ini.</Tasks.29.TaskDesc>
+			<Tasks.32.TaskDesc>Pilih kecepatan 2x untuk bermain game.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Pilih kecepatan 2x untuk bermain game.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Tunggu sampai murid luar memasuki tempat latihan dan memulai pelatihan.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Pemain dapat mengatur dan menyesuaikan jadwal pelatihan murid luar untuk memastikan bahwa mereka mematuhi rutinitas pelatihan harian mereka. Murid Luar Aktif "Praktisi" berlatih di luar pekerjaan sehari-hari mereka. Murid dengan karakteristik tertentu dapat meningkatkan fondasinya lebih cepat.</Tasks.37.TipsData.Desc>
+			<Tasks.39.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.40.TaskDesc>
+			<Tasks.41.TipsData.Desc>Anda dapat melihat detail barang.</Tasks.41.TipsData.Desc>
+			<Tasks.43.TaskDesc>Ketuk karakter acak.</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Pemain dapat menggunakan menu status di bagian bawah kapan saja untuk mengakses informasi dasar Murid Luar dengan cepat dan menyesuaikan strategi budidaya mereka.</Tasks.44.TipsData.Desc>
+			<Tasks.46.TaskDesc>Ketuk untuk memilih "Empedu beruang"</Tasks.46.TaskDesc>
+			<Tasks.46.UiData.Name>makan</Tasks.46.UiData.Name>
+			<Tasks.47.TaskDesc>Tingkatkan jumlah makan</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Konfirmasikan makan</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Konfirmasikan makan</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Tunggu sampai Anda selesai makan empedunya.</Tasks.51.TaskDesc>
+			<Tasks.53.TipsData.Desc>Murid ini dengan cepat memperoleh Poin Dasar dalam jumlah besar dengan memakan empedunya.</Tasks.53.TipsData.Desc>
+			<Tasks.55.TipsData.Desc>Item seperti ramuan dan ramuan juga bisa dimakan untuk meningkatkan statistik dasar dengan cepat. Dan ada cara lain untuk mempercepat pelatihan pembangunan landasan. Menunggu pemain untuk menjelajah</Tasks.55.TipsData.Desc>
+		</Text>
+		<Text Name="GongSelect">
+			<Type>Latihlah ketekunan</Type>
+			<DisplayName>Memilih mata pelajaran dan format pelatihan</DisplayName>
+			<Desc>Pelajari cara memilih kursus yang tepat. Arti kesesuaian teknik Cara belajar dari guru dan beberapa pola praktek umum pada tutorial ini\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Kompatibilitas dan pemilihan mata pelajaran</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa kompatibilitas teknik Tian Wan.</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa kompatibilitas teknik Zhonglishu.</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Pilih subjek untuk menjadi murid</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Mengapa siswa harus memiliki guru?</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Pilih seorang guru</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa gurunya</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Buka panel pesan</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk pemberitahuan selesainya Pelatihan Dasar di sebelah kiri.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Tutup panel pesan.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Ketuk tombol "Promosi" pada status murid di bawah.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Mendorong</Tasks.5.UiData.Name>
+			<Tasks.7.TipsData.Desc>Murid ini tidak cocok untuk teknik saat ini. Silakan periksa apakah siswa lain kompatibel dengan teknik ini atau tidak.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Ketuk untuk menutup menu pilihan kursus.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Ketuk dan pilih murid lain.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk tombol "Promosi" pada status murid di bawah.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Mendorong</Tasks.11.UiData.Name>
+			<Tasks.13.TipsData.Desc>Pemain dapat menggunakan bagan kompatibilitas keterampilan untuk melihat apakah seorang murid cocok untuk melatih keterampilan tersebut. Semakin tinggi kualitas lima elemen seorang murid, semakin baik mereka terbiasa dengan tekniknya. Oleh karena itu, setiap murid mungkin memiliki teknik kompatibel yang berbeda.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TaskDesc>Ketuk "Pilih kursus"</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Ketuk "Ya"</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Ketuk tombol kecepatan permainan di sudut kanan bawah.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Pilih kecepatan 2x untuk bermain game.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Tunggu sampai muridnya dipromosikan.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>Saat memilih kursus Itu tidak dapat diubah atau dibatalkan. Oleh karena itu, kesesuaian teknik akan mempunyai pengaruh besar pada budidaya murid di masa depan.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Ketuk "Guru" di menu status.</Tasks.24.TaskDesc>
+			<Tasks.24.UiData.Name>pengajar</Tasks.24.UiData.Name>
+			<Tasks.25.TaskDesc>Pilih seorang murid dalam Tahap Inti Emas</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>mengonfirmasi</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Tunggu sampai siswa menghormati mereka sebagai guru.</Tasks.28.TaskDesc>
+			<Tasks.31.TaskDesc>Ketuk untuk memilih murid dalam Tahap Inti Emas.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Guru dapat mengajarkan tulisan suci yang telah mereka pelajari kepada siswanya. Ketika guru mengajarkan kitab suci Dibutuhkan lebih sedikit inspirasi.</Tasks.32.TipsData.Desc>
+			<Tasks.32.TipsData.Name>mengajar</Tasks.32.TipsData.Name>
+			<Tasks.34.TipsData.Desc>Ketika seorang murid dipromosikan menjadi murid batin Mereka dapat memilih murid batin di Tahap Inti Emas atau lebih tinggi sebagai guru. Ketika teknik murid sama dengan teknik guru. Latihan yang rajin dari muridnya akan lebih efektif.</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="GetJingYuan">
+			<Type>Latihlah ketekunan</Type>
+			<DisplayName>Jingyuan</DisplayName>
+			<Desc>Pelajari cara memperoleh dan mengelola Jingyuan secara otomatis dalam tutorial ini.\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
+			<Chapters.0.DisplayName>Bagaimana cara mendapatkan Jingyuan</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa Jing Yuan</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Makan Pil Jingyuan</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Periksa Jingyuan lagi.</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Teruslah berlatih dengan tekun.</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Manajemen otomatis Jingyuan</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Secara otomatis memantau makan</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa penggunaan obat terlebih dahulu.</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk untuk beralih ke panel status.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Anda dapat memeriksa jumlah Jing Yuan dengan melihat bilah Jing Yuan di panel status. Budidaya murid batin membutuhkan penggunaan Jing Yuan secara terus menerus. Dan ketika Jing Yuan habis. Seorang murid tidak akan dapat terus berkultivasi sampai dia mengonsumsi obat atau makanan untuk mengisi kembali Jingyuannya.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Ketuk untuk memilih "Obat Jing Yuan"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Anda dapat melihat detail barang.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Ketuk untuk memilih murid yang baru saja Anda pilih.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk "Makan" di menu status karakter.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>makan</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Ketuk untuk memilih "Obat Jing Yuan"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tingkatkan jumlah makan</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Konfirmasikan makan</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk tombol kecepatan permainan di sudut kanan bawah.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Pilih kecepatan 3x untuk bermain game.</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>Tunggu hingga NPC selesai makan.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Tunggu sampai Jing Yuan terisi kembali.</Tasks.19.TaskDesc>
+			<Tasks.21.TipsData.Desc>Lihat bilah Jingyuan pada status di bawah. Jingyuan muridnya sekarang telah pulih dari konsumsi obatnya.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Ketuk untuk beralih ke panel status.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Ketuk "Latihan" di menu status karakter.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Murid batin juga bisa mengonsumsi makanan dan berubah menjadi Jing Yuan. Atau tingkatkan tingkat konsumsi makanan dan tingkat perolehan jingyuan untuk lebih meningkatkan efek konversi dari makanan ke jingyuan.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Ketuk untuk membuka panel karakter.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Ketuk untuk membuka menu Budidaya dan Budidaya.</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Pemain dapat mengetuk di sini untuk mengatur preferensi mereka. "Makan Otomatis" untuk memungkinkan murid makan makanan untuk mendapatkan Jing Yuan secara otomatis.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TipsData.Desc>Pemain dapat mengetuk di sini untuk mengatur preferensi mereka. “Gunakan obatnya dulu” sehingga muridnya memilih untuk memakan obatnya terlebih dahulu agar otomatis menerima Jing Yuan.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Ada banyak item yang meningkatkan Jing Yuan atau kecepatan memperoleh Jing Yuan, seperti obat-obatan langka dan berharga, obat-obatan, jimat, dll.</Tasks.34.TipsData.Desc>
+		</Text>
+		<Text Name="FuQi">
+			<Type>Latihlah ketekunan</Type>
+			<DisplayName>Penyerapan Qi dan Puasa</DisplayName>
+			<Desc>Pelajari arti menyerap qi dan berpuasa. dan perbedaan keduanya pada tutorial ini\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
+			<Chapters.0.DisplayName>Apa itu puasa?</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa obat puasa</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa persyaratan diet</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Gunakan pil diet</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Periksa kembali kebutuhan diet Anda.</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Apa itu penyerapan nafas?</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Lihatlah obat tanpa biji-bijian</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa pita serapan.</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Gunakan obat tanpa biji-bijian</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Periksa kembali bilah penyerapan Qi.</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Ketuk untuk memilih "Pil Puasa"</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Anda dapat melihat detail barang.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Ketuk untuk beralih ke panel status.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Anda dapat melihat tab makanan pada panel di bawah.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Ketuk "Makan" di menu status karakter.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>makan</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Ketuk untuk memilih "Pil Puasa"</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Tingkatkan jumlah makan</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Konfirmasikan makan</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk tombol kecepatan permainan di sudut kanan bawah.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Pilih kecepatan 3x untuk bermain game.</Tasks.14.TaskDesc>
+			<Tasks.17.TaskDesc>Tunggu hingga NPC selesai makan.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Anda dapat melihat tab makanan pada panel di bawah.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Alasan puasa dalam permainan ini adalah untuk mengurangi konsumsi makanan dan air muridnya. Untuk mengurangi permintaan makanan dan minuman dan mengurangi biaya sumber daya Namun mengurangi kebutuhan murid batin akan makanan dan air akan mengurangi jumlah jingyuan yang dikonversi dari makanan.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Ketuk untuk memilih "Obat tanpa biji-bijian"</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Anda dapat melihat detail barang.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Ketuk untuk beralih ke panel status.</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Anda dapat melihat tab makanan pada panel di bawah.</Tasks.29.TipsData.Desc>
+			<Tasks.31.TaskDesc>Ketuk "Makan" di menu status karakter.</Tasks.31.TaskDesc>
+			<Tasks.31.UiData.Name>makan</Tasks.31.UiData.Name>
+			<Tasks.32.TaskDesc>Ketuk untuk memilih "Obat tanpa biji-bijian"</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Tingkatkan jumlah makan</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Konfirmasikan makan</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Tunggu hingga NPC selesai makan.</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Anda dapat melihat tab makanan pada panel di bawah.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Alasan penyerapan prana adalah untuk memperoleh energi dari lingkungan untuk menjaga tingkat rasa lapar dan haus. Semakin efisien muridnya menyerap Qi, semakin baik. Semakin baik mereka bisa mengubah makanan menjadi jingyuan. Ketika konsumsi makanan dan air murid batin meningkat Jumlah Jing Yuan yang dapat dikonversi juga akan meningkat.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="DProduction">
+			<Type>Latihlah ketekunan</Type>
+			<DisplayName>produksi</DisplayName>
+			<Desc>Pelajari cara membuat benda ajaib, membuat ramuan, dan menggambar jimat dalam tutorial ini.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
+			<Chapters.0.DisplayName>Cara menyiapkan obat</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Dapatkan bangunan tambahan</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Siapkan Pil Jingyuan</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Gunakan pengulangan untuk meramu obat.</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Cara membuat item ajaib</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Buat item ajaib</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Bandingkan bahan mentah tingkat lanjut</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Bandingkan bahan baku dasar</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Konfirmasikan pembuatan</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Cara menggambar karakter yantra</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Gambarlah "jimat gesit"</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Pengaruh kertas pada yantra</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>Metode peleburan</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Periksa energi item tersebut</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Barang Tempa</Chapters.3.Tasks.1>
+			<Tasks.1.TipsData.Desc>Setelah murid menjadi murid batin Akan ada interaksi baru yang menunggu untuk diaktifkan dengan membangun gedung khusus ini.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Ketuk "Ramuan" di menu status karakter.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>ramuan</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Ketuk untuk memilih "Obat Jing Yuan"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Ketuk "Konfirmasi"</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Ketuk untuk memilih "Tungku Peleburan Obat"</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Konfirmasikan pilihan</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk untuk memilih "Tungku Peleburan Obat"</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Ketuk "Pil Jingyuan" pada panel Tungku Pil.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk "Ulangi 10 kali"</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Ketuk tombol kecepatan permainan di sudut kanan bawah.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Pilih kecepatan 3x untuk bermain game.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Tunggu sampai Pil Jingyuan selesai dibuat.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Ketuk "Pil Jingyuan" pada panel Tungku Pil.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Ketuk tombol tutup di sebelah "Jingyuan Pill" di halaman tungku pil bawah untuk membatalkan produksi.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>Pembuatan pil tidak hanya membutuhkan bahan dasar pil saja. Namun muridnya masih harus meningkatkan level alkimianya atau mempelajari formula pil lain untuk membuat pil yang lebih canggih. Pemain juga dapat menggunakan "Ulangi" untuk meramu sejumlah obat. atau batalkan pengulangan untuk berhenti memasak.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Ketuk "Penciptaan" di menu status karakter.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Penciptaan</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Ketuk "Membuat Keajaiban"</Tasks.26.TaskDesc>
+			<Tasks.29.TaskDesc>Anda dapat memilih "Pedang Batu Suci" untuk memeriksa material dan levelnya. Dan tingkat keberhasilan serta persyaratan bangunan juga ditampilkan di atas.</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Periksa tingkat keberhasilan dan persyaratan bangunan.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Anda dapat memilih "Pedang Batu Abu-abu" untuk memeriksa material dan levelnya. Dan tingkat keberhasilan serta persyaratan bangunan juga ditampilkan di atas.</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>Periksa tingkat keberhasilan dan persyaratan bangunan.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Konfirmasikan pilihan</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Tunggu hingga item ajaib dibuat.</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Bahan biasa bisa digunakan untuk membuat benda ajaib. Tapi itu akan menggunakan sejumlah energi. Semakin tinggi levelnya, semakin banyak Qi yang dibutuhkan, semakin banyak pula Qi yang dibutuhkan. Tingkat keberhasilan menciptakan benda-benda magis berhubungan langsung dengan kondisi pikiran murid serta tingkat penciptaan magis mereka.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TaskDesc>Ketuk "Menggambar" di menu status karakter.</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Menggambar</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Ketuk untuk memilih kertas jimat.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Konfirmasikan pilihan</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Ketuk "Jimat Cekatan"</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Ketuk untuk mengonfirmasi.</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Silakan ikuti instruksi menggambar jimat dan konfirmasi setelah selesai.</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Ketuk "Ya"</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Tunggu hingga jimat selesai digambar.</Tasks.48.TaskDesc>
+			<Tasks.50.TaskDesc>Ketuk untuk memilih "Meja gambar Jimat"</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Ketuk "Produksi"</Tasks.51.TaskDesc>
+			<Tasks.51.UiData.Name>pembuatan</Tasks.51.UiData.Name>
+			<Tasks.52.TipsData.Desc>Seperti yang ditunjukkan pada halaman produksi, ada banyak jenis kertas jimat yang akan memiliki efek bonus berbeda setelah menggambar jimat. Secara umum, Efek bonus berhubungan langsung dengan level kertas jimat.</Tasks.52.TipsData.Desc>
+			<Tasks.53.TaskDesc>Tutup jendela produksi.</Tasks.53.TaskDesc>
+			<Tasks.55.TipsData.Desc>Keindahan gambar jimat pemain menentukan kualitas produk akhir. Ini merupakan faktor penting yang mempengaruhi kinerjanya juga.</Tasks.55.TipsData.Desc>
+			<Tasks.57.TaskDesc>Ketuk untuk memilih sampah.</Tasks.57.TaskDesc>
+			<Tasks.58.TaskDesc>Ketuk Detail di panel item bawah.</Tasks.58.TaskDesc>
+			<Tasks.59.TipsData.Desc>Anda dapat memeriksa jumlah Qi yang diserap sampah.</Tasks.59.TipsData.Desc>
+			<Tasks.61.TaskDesc>Tutup panel item.</Tasks.61.TaskDesc>
+			<Tasks.64.TaskDesc>Ketuk untuk memilih sampah.</Tasks.64.TaskDesc>
+			<Tasks.65.TaskDesc>Keluar dari mode saat ini</Tasks.65.TaskDesc>
+			<Tasks.66.TaskDesc>Keluar dari mode saat ini</Tasks.66.TaskDesc>
+			<Tasks.69.TaskDesc>Tunggu hingga pencairan selesai.</Tasks.69.TaskDesc>
+			<Tasks.70.TipsData.Desc>Pemain baru saja mendapatkan beberapa batu roh dari pemurnian sampah.</Tasks.70.TipsData.Desc>
+			<Tasks.72.TipsData.Desc>Di dalam game, berbagai item secara bertahap akan menyerap Qi alami. Murid batiniah dapat memurnikannya untuk mendapatkan batu roh dan membuang sumber daya yang tidak diinginkan.</Tasks.72.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>
