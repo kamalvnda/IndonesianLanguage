@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>Hua Jian</DisplayName>
+			<Desc>Anjing Surgawi Hua Jian adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>Guk guk</TalkBefore>
+			<TalkAfter>Pakan!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>Qing Muxue</DisplayName>
+			<Desc>Rubah roh Qing Mu Xue adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>Biru</TalkBefore>
+			<TalkAfter>Biru!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>Changhai</DisplayName>
+			<Desc>Naga Langit Changhai adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>Wah!</TalkBefore>
+			<TalkAfter>Wah!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>Yi Ming</DisplayName>
+			<Desc>Yiming Swan adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>Jip jip</TalkBefore>
+			<TalkAfter>Jib!</TalkAfter>
+		</Text>
+	</List>
+</Texts>
