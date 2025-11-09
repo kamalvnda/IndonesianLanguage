@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Tower_Enemy_achai">
+			<DisplayName>Ah Chai berubah</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Cat">
+			<DisplayName>Posisi Wilar</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Xian">
+			<DisplayName>Qi yang kental</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Ti">
+			<DisplayName>Qi yang kental</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Yao">
+			<DisplayName>Qi yang kental</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Root">
+			<DisplayName>Qi yang kental</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Part">
+			<DisplayName>Qi yang kental</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiQi">
+			<DisplayName>Air pasang naik</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXi0">
+			<DisplayName>arus tenang</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiLuo">
+			<DisplayName>air surut</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongOur">
+			<DisplayName>bobrok</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongEnm">
+			<DisplayName>makmur</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_WuZhi">
+			<DisplayName>sangkar kebenaran</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian0">
+			<DisplayName>percaya iman</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian1">
+			<DisplayName>Perkuat iman</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown1">
+			<DisplayName>Alam Segel Ilahi</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown2">
+			<DisplayName>Alam Segel Setan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown3">
+			<DisplayName>Mohon Dan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown4">
+			<DisplayName>Larangan Raja</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown5">
+			<DisplayName>menahan pikiran</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown6">
+			<DisplayName>nafas keserakahan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown7">
+			<DisplayName>Botol terlarang</DisplayName>
+		</Text>
+	</List>
+</Texts>
