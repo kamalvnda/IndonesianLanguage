@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Magic_XuanWuHeart">
+			<DisplayName>Berjalan untuk menenangkan pikiran</DisplayName>
+			<Desc>Tidak memerlukan air, makanan dan istirahat selama 3 hari, namun akan memperlambat pergerakan Anda.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuShield">
+			<DisplayName>Perisai Armor Hitam</DisplayName>
+			<Desc>Sangat meningkatkan armor dalam dan daya tahan Fisik Misterius dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuBreak">
+			<DisplayName>Runtuhnya retakan</DisplayName>
+			<Desc>Mengurangi Qi Armor dan daya tahan Fisik Misterius secara signifikan dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="Modifier_JinFish">
+			<DisplayName>Inti Cakar Emas</DisplayName>
+			<Desc>Tingkatkan armor mendalam dan daya tahan Fisik Misterius dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou1">
+			<DisplayName>berpikir jernih</DisplayName>
+			<Desc>Tingkatkan kondisi mental Anda sedikit setelah dengan tulus berdoa dan memohon berkah pada Upacara Persembahan Dupa Naga tahunan.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou2">
+			<DisplayName>meditasi tingkat lanjut</DisplayName>
+			<Desc>Peluang untuk menembus batasan sangat meningkat setelah berdoa dengan tulus dan meminta berkah pada Upacara Dupa Naga tahunan.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou3">
+			<DisplayName>Keberuntungan memimpin</DisplayName>
+			<Desc>Sedikit meningkatkan peluang perlindungan Anda setelah dengan tulus berdoa dan meminta berkah pada Upacara Dupa Naga tahunan.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou5">
+			<DisplayName>Menghukum orang yang serakah</DisplayName>
+			<Desc>Karena keserakahan dalam meminta berkah dalam jumlah besar pada Upacara Dupa Naga tahunan, hal itu mengakibatkan hukuman dari surga. Hasilnya, kelima statistik tersebut berkurang secara signifikan.</Desc>
+		</Text>
+	</List>
+</Texts>
