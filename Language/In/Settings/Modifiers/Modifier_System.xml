@@ -1,0 +1,282 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SysNpcPuppet">
+      <DisplayName>wayang</DisplayName>
+      <Desc>Ini adalah boneka yang akan menjadi usang dan tidak dapat diperbaiki lagi saat bekerja.</Desc>
+    </Text>
+    <Text Name="SysNewYearLink">
+      <DisplayName>Selamat Festival Musim Semi</DisplayName>
+    </Text>
+    <Text Name="SysNewYear">
+      <DisplayName>Selamat Festival Musim Semi</DisplayName>
+      <Desc>Ini adalah monster yang akan membawa keberuntungan sepanjang tahun.</Desc>
+    </Text>
+    <Text Name="SysNewYear2">
+      <DisplayName>Selamat Festival Musim Semi</DisplayName>
+      <Desc>Ini adalah monster yang akan membawa keberuntungan sepanjang tahun.</Desc>
+    </Text>
+    <Text Name="SysExploreModifier">
+      <DisplayName>Menjelajahi..</DisplayName>
+    </Text>
+    <Text Name="SysCallUp">
+      <DisplayName>bangun</DisplayName>
+      <Desc>Tiba-tiba saya terbangun dan tidak bisa tidur sama sekali.</Desc>
+    </Text>
+    <Text Name="SysDemonColdDown">
+      <DisplayName>CD Nyuuma</DisplayName>
+    </Text>
+    <Text Name="SysGodPractice">
+      <DisplayName>perlawanan</DisplayName>
+      <Desc>Bermeditasi untuk melawan dan memperlambat bencana yang akan datang.</Desc>
+    </Text>
+    <Text Name="SysTeacherModifier">
+      <DisplayName>praktisi mistik</DisplayName>
+      <Desc>Tinggallah sebentar dan segera pergi.</Desc>
+    </Text>
+    <Text Name="SysVistorModifier">
+      <DisplayName>pengunjung</DisplayName>
+      <Desc>Tinggallah sebentar dan segera pergi.</Desc>
+    </Text>
+    <Text Name="SysGodMonsterModifier">
+      <DisplayName>datang</DisplayName>
+      <Desc>Tinggallah sebentar dan segera pergi.</Desc>
+    </Text>
+    <Text Name="SysFlyingModifier">
+      <DisplayName>Status penerbangan..</DisplayName>
+    </Text>
+    <Text Name="SysPracticeDie">
+      <DisplayName>Fondasi jalan telah hancur</DisplayName>
+      <Desc>Fondasi Tao telah hancur, dan tidak peduli seberapa keras Anda berlatih, Anda tidak akan dapat membuat kemajuan lagi.</Desc>
+    </Text>
+    <Text Name="SysExploreEatModifier">
+      <DisplayName>menikmati makanan</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Positive">
+      <DisplayName>Senjata ajaib saling melengkapi</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Same">
+      <DisplayName>Senjata ajaibnya sama</DisplayName>
+    </Text>
+    <Text Name="SysFabao_Negative">
+      <DisplayName>Senjata ajaib saling bertentangan</DisplayName>
+    </Text>
+    <Text Name="SysEndureHunger">
+      <DisplayName>Tahan terhadap rasa lapar</DisplayName>
+      <Desc>Setelah mengonsumsi makanan kering, Anda akan lebih tahan terhadap rasa lapar.</Desc>
+    </Text>
+    <Text Name="NegativeTime">
+      <DisplayName>sabotase</DisplayName>
+      <Desc>Kehidupan seperti ini sungguh berantakan, dan saya tidak punya niat untuk bekerja. [color=#D06508](emosi di atas 45 menghilang)[/color]</Desc>
+    </Text>
+    <Text Name="NegativeTime_Hearten">
+      <DisplayName>semangat!</DisplayName>
+      <Desc>Hidup terus berjalan, semangat.</Desc>
+    </Text>
+    <Text Name="Dissatisfaction">
+      <DisplayName>tidak puas</DisplayName>
+      <Desc>Aku benar-benar sudah muak dengan kehidupan seperti ini...</Desc>
+    </Text>
+    <Text Name="SysDoBasePractice">
+      <DisplayName>berlatih seni bela diri</DisplayName>
+    </Text>
+    <Text Name="SysTooTired">
+      <DisplayName>terlalu banyak bekerja</DisplayName>
+    </Text>
+    <Text Name="Sys_JieNanShenyu">
+      <DisplayName>tubuh ingin dirampok</DisplayName>
+      <Desc>Konsumsi dasar meningkat lima kali lipat</Desc>
+    </Text>
+    <Text Name="Sys_JieNanZhenkong">
+      <DisplayName>kesengsaraan vakum</DisplayName>
+      <Desc>Kehilangan semua kekuatan magis</Desc>
+    </Text>
+    <Text Name="Sys_JieNanHuangu">
+      <DisplayName>Bencana yang mengubah tulang</DisplayName>
+      <Desc>Dari waktu ke waktu terjadi kerusakan pada tulang</Desc>
+    </Text>
+    <Text Name="Sys_WorkBroken">
+      <DisplayName>pencerahan</DisplayName>
+      <Desc>Setelah kehilangan semua kekuatan magisnya, dia belajar di sekte luar dan mencoba menerobos hambatan dalam keterampilannya.</Desc>
+    </Text>
+    <Text Name="Sys_MasterHelp">
+      <DisplayName>Pelindung Dharma</DisplayName>
+      <Desc>Guru memberi Anda perlindungan, dan kondisi pikiran Anda meningkat dan tetap stabil.</Desc>
+    </Text>
+    <Text Name="Sys_DrugTime">
+      <DisplayName>BUFF Narkoba</DisplayName>
+    </Text>
+    <Text Name="Sys_FabaoPowerAdd">
+      <DisplayName>Tingkatkan kekuatan senjata ajaib</DisplayName>
+    </Text>
+    <Text Name="Sys_SkillPowerAdd">
+      <DisplayName>Meningkatkan kekuatan mantra</DisplayName>
+    </Text>
+    <Text Name="Sys_SheildPowerAdd">
+      <DisplayName>Meningkatkan kekuatan perlindungan tubuh</DisplayName>
+    </Text>
+    <Text Name="SeeGod">
+      <DisplayName>Bersihkan Jalan Surga</DisplayName>
+      <Desc>Menyaksikan kenaikan dengan mata kepala sendiri, tubuh dan pikiran Anda dilatih menuju jalan surga. Selama waktu ini, latihan akan lebih efektif dengan sedikit usaha.</Desc>
+    </Text>
+    <Text Name="BasePracticeAchievements1">
+      <DisplayName>Keberhasilan membangun fondasi</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements2">
+      <DisplayName>Pembangunan fondasi yang sukses</DisplayName>
+    </Text>
+    <Text Name="BasePracticeAchievements3">
+      <DisplayName>Pembangunan fondasi yang sukses</DisplayName>
+    </Text>
+    <Text Name="Sys_Demon">
+      <DisplayName>Setan([TXT])</DisplayName>
+      <Desc>Dimiliki karena suatu alasan</Desc>
+    </Text>
+    <Text Name="Fengshui1">
+      <DisplayName>tanah yang diberkati</DisplayName>
+    </Text>
+    <Text Name="Fengshui2">
+      <DisplayName>Semoga beruntung</DisplayName>
+    </Text>
+    <Text Name="Fengshui3">
+      <DisplayName>Xiaoji</DisplayName>
+    </Text>
+    <Text Name="Fengshui4">
+      <DisplayName>kejahatan kecil</DisplayName>
+    </Text>
+    <Text Name="Fengshui5">
+      <DisplayName>Sial</DisplayName>
+    </Text>
+    <Text Name="Fengshui6">
+      <DisplayName>Jedi</DisplayName>
+    </Text>
+    <Text Name="Sys_AbsorbGong_5">
+      <DisplayName>Karuna</DisplayName>
+      <Desc>Karakter ini berada di bawah pengaruh mantra Karuna. Ketika emosi mereka didorong secara ekstrim, budidaya dan pemahaman pengguna akan meningkat.</Desc>
+    </Text>
+    <Text Name="Sys_AbsorbGong_6">
+      <DisplayName>Inang Parasit</DisplayName>
+      <Desc>Karakter ini berperan sebagai inang bagi Parasit Jiwa. Mereka sedikit melemah dan kecepatan kerja mereka menurun. Mereka akan mentransfer seluruh Dao Foundation mereka ke kastor sekali sehari.</Desc>
+    </Text>
+    <Text Name="Sys_DaoLv">
+      <DisplayName>Sahabat Tao berbagi ginseng yang sama</DisplayName>
+      <Desc>Ketika saya bersama rekan Tao saya, saya merasa pikiran saya terhubung, dan bahkan latihan saya menjadi sangat efektif.</Desc>
+    </Text>
+    <Text Name="Sys_Zombie">
+      <DisplayName>zombi</DisplayName>
+    </Text>
+    <Text Name="Sys_Jianglingfenshen">
+      <DisplayName>Datang klon</DisplayName>
+      <Desc>Klon dari nenek moyang, klon ini hanya bisa bertarung dan akan pergi setelah beberapa saat.</Desc>
+    </Text>
+    <Text Name="Sys_Jianglingjiangdao">
+      <DisplayName>Datang klon</DisplayName>
+      <Desc>Klon dari Patriark. Klon tersebut sedang berkhotbah dan akan pergi setelah beberapa saat.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff">
+      <DisplayName>Gangguan (kepala)</DisplayName>
+      <Desc>Beban yang disebabkan oleh manajemen pemimpin sekte mengurangi kondisi pikiran, kecepatan kultivasi, kecepatan perolehan pemahaman, kemungkinan terobosan, dan atribut terkait budidaya lainnya. Semakin banyak cabang sekte yang dibuka, semakin besar bebannya. Akan dikurangi atau dikurangi berdasarkan kemampuan pemimpin dalam mengendalikan.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff">
+      <DisplayName>Pikiran Lain-Lain (Hall Master)</DisplayName>
+      <Desc>Beban yang disebabkan oleh manajemen pemimpin murid cabang mengurangi kondisi pikiran, kecepatan kultivasi, kecepatan perolehan pemahaman, kemungkinan terobosan, dan atribut terkait kultivasi lainnya. Semakin banyak murid di bawah satu cabang, semakin besar bebannya. Akan dikurangi atau dikurangi berdasarkan kemampuan pemimpin dalam mengendalikan.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_ZangMenDebuff_Old">
+      <DisplayName>lelah</DisplayName>
+      <Desc>Meskipun Anda telah mengundurkan diri sebagai pemimpin, Anda tidak akan bisa lepas dari tekanan berat dalam mengelola sekte untuk waktu yang singkat. Mengurangi keadaan pikiran, kecepatan kultivasi, kecepatan perolehan pemahaman, kemungkinan terobosan, dan atribut terkait kultivasi lainnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TangZhuDebuff_Old">
+      <DisplayName>lelah</DisplayName>
+      <Desc>Meski Anda sudah mengundurkan diri sebagai pemimpin gereja, Anda tidak akan bisa lepas dari tekanan berat mengelola gereja cabang dalam waktu singkat. Mengurangi keadaan pikiran, kecepatan kultivasi, kecepatan perolehan pemahaman, kemungkinan terobosan, dan atribut terkait kultivasi lainnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAreaBuff">
+      <DisplayName>Tidak ada bonus daerah</DisplayName>
+      <Desc>Karena kurangnya kemampuan ketua aula, murid aula ini tidak dapat memperoleh bonus regional.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_NoAllBuff">
+      <DisplayName>Tidak ada bonus permanen</DisplayName>
+      <Desc>Karena kurangnya kemampuan ketua aula, murid aula ini tidak dapat memperoleh bonus permanen.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Dan">
+      <DisplayName>Spesialisasi Alkimia (Sekte Dalam)</DisplayName>
+      <Desc>Murid batin dapat meningkatkan kecepatan, tingkat keberhasilan, dan hasil alkimia dalam lingkup aula. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Dan">
+      <DisplayName>Spesialisasi Alkimia (Sekte Luar)</DisplayName>
+      <Desc>Murid luar dapat memperoleh obat-obatan dalam lingkup aula dan meningkatkan kemampuan penyembuhan mereka. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Dan">
+      <DisplayName>Spesialisasi Alkimia (Residen)</DisplayName>
+      <Desc>Meningkatkan tingkat keterampilan Qihuang/alkimia dan atribut kesadaran ilahi. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya. (Siklus penyegaran spesialisasi residen adalah 1 hari)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Qi">
+      <DisplayName>Spesialisasi Pemurnian Senjata (Sekte Dalam)</DisplayName>
+      <Desc>Murid batin dapat meningkatkan kecepatan, tingkat keberhasilan, tingkatan, dan kualitas pemurnian senjata dalam lingkup aula. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Qi">
+      <DisplayName>Spesialisasi Pemurnian Senjata (Sekte Luar)</DisplayName>
+      <Desc>Murid luar dapat memperoleh peningkatan kemampuan produksi dalam lingkup aula ini. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Qi">
+      <DisplayName>Spesialisasi Pemurnian Senjata (Residen)</DisplayName>
+      <Desc>Meningkatkan tingkat keterampilan pengrajin/pemurni dan atribut tulang akar. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya. (Siklus penyegaran spesialisasi residen adalah 1 hari)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_Zhan">
+      <DisplayName>Spesialisasi Tempur (Gerbang Dalam)</DisplayName>
+      <Desc>Murid batiniah dapat memperoleh ketahanan dan toleransi rasa sakit dalam lingkup aula ini. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_Zhan">
+      <DisplayName>Spesialisasi Tempur (Pintu Luar)</DisplayName>
+      <Desc>Murid luar bisa mendapatkan ketahanan dan toleransi rasa sakit dalam lingkup aula ini. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_Zhan">
+      <DisplayName>Spesialisasi Tempur (Residen)</DisplayName>
+      <Desc>Meningkatkan kemampuan terkait pertempuran, tingkat keterampilan tempur, kesadaran, dan atribut akar. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya. (Siklus penyegaran spesialisasi residen adalah 1 hari)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_XiuLian">
+      <DisplayName>Spesialisasi Praktek (Sekte Dalam)</DisplayName>
+      <Desc>Murid batiniah dapat meningkatkan kondisi pikiran, kecepatan kultivasi, perolehan pencerahan, dan kemungkinan terobosan mereka dalam lingkup aula ini. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_XiuLian">
+      <DisplayName>Spesialisasi Praktek (Sekte Luar)</DisplayName>
+      <Desc>Murid luar dapat meningkatkan kecepatan pembangunan pondasi dalam lingkup aula. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_XiuLian">
+      <DisplayName>Spesialisasi Praktek (Residen)</DisplayName>
+      <Desc>Tingkatkan tingkat keterampilan Qi Sense dan atribut pemahaman. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya. (Siklus penyegaran spesialisasi residen adalah 1 hari)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Nei_WaiShi">
+      <DisplayName>Spesialisasi Luar Negeri (Pintu Dalam)</DisplayName>
+      <Desc>Murid batin bisa mendapatkan bonus efisiensi global dalam lingkup aula. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Wai_WaiShi">
+      <DisplayName>Spesialisasi Luar Negeri (Urusan Luar Negeri)</DisplayName>
+      <Desc>Murid luar bisa mendapatkan bonus efisiensi global dalam lingkup aula. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_All_WaiShi">
+      <DisplayName>Spesialisasi Luar Negeri (Penduduk)</DisplayName>
+      <Desc>Tingkatkan kecepatan pengalaman, bonus perolehan reputasi, kecepatan terobosan kemacetan pengalaman dan atribut lainnya, tingkat keterampilan hidup, pesona, dan atribut peluang. Semakin kuat kemampuan pemimpin aula, semakin tinggi bonusnya. (Siklus penyegaran spesialisasi residen adalah 1 hari)</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_Magic_Prophesy">
+      <DisplayName>Perhitungan Ilahi</DisplayName>
+      <Desc>Prompt akan diberikan terlebih dahulu ketika suatu peristiwa akan terjadi.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CanNotExperience">
+      <DisplayName>mundur</DisplayName>
+      <Desc>Murid ini baru saja kembali dari pelatihan jangka panjang dan membutuhkan periode latihan tenang untuk menstabilkan kultivasinya.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_TameCD">
+      <DisplayName>interval pemberian makan</DisplayName>
+      <Desc>Hewan itu baru saja diberi makan.</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_GodMode">
+      <DisplayName>Tak terkalahkan</DisplayName>
+      <Desc>Keadaan tak terkalahkan</Desc>
+    </Text>
+    <Text Name="Modifier_Sys_CantSelect">
+      <DisplayName>Tidak dapat dipilih</DisplayName>
+    </Text>
+    <Text Name="Mini_Follow">
+      <DisplayName>ikuti hewan peliharaan</DisplayName>
+    </Text>
+  </List>
+</Texts>
