@@ -1,0 +1,63 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_CapeBase" sParam="Item">
+			<Item.FabaoSuffix>sutra, benang, satin</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cape_Nomal1" sParam="Item">
+			<ThingName>Jubah Api</ThingName>
+			<Desc>Jubah untuk berpakaian Itu sangat populer di kalangan petani.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal2" sParam="Item">
+			<ThingName>Jubah Awan</ThingName>
+			<Desc>Jubah untuk berpakaian Itu sangat populer di kalangan petani.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal3" sParam="Item">
+			<ThingName>Jubah Hitam</ThingName>
+			<Desc>Jubah untuk berpakaian Itu sangat populer di kalangan petani.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal4" sParam="Item">
+			<ThingName>kerudung ringan</ThingName>
+			<Desc>Jubah untuk berpakaian Itu sangat populer di kalangan petani.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp1" sParam="Item">
+			<ThingName>Zhou Liu</ThingName>
+			<Desc>Jubah dengan motif yang indah. Ini adalah simbol pemenang Kompetisi Roh Weda dari Festival Gunung Kunlun.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp2" sParam="Item">
+			<ThingName>Api melahap langit</ThingName>
+			<Desc>Simbol kemenangan atas burung api. Pola di atasnya merupakan representasi sifat sari pada tubuh Burung Api. Kelihatannya sangat misterius.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp3" sParam="Item">
+			<ThingName>awan es</ThingName>
+			<Desc>Simbol kemenangan atas Naga Air. Pola di atasnya merupakan representasi sifat sari pada tubuh Naga Air. Kelihatannya sangat misterius.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp4" sParam="Item">
+			<ThingName>harta benda</ThingName>
+			<Desc>Jubah dengan motif yang indah. Itu adalah simbol pemenang Kompetisi Penempaan Senjata Ajaib dari Festival Gunung Kunlun.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp5" sParam="Item">
+			<ThingName>Tan Xi</ThingName>
+			<Desc>Jubah dengan motif yang indah. Itu adalah simbol pemenang kompetisi pemurnian alkimia dari Festival Gunung Kunlun.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp6" sParam="Item">
+			<ThingName>Puing</ThingName>
+			<Desc>Jubah dengan motif yang indah. Itu adalah simbol pemenang Kompetisi Keterampilan Senjata Ajaib Festival Gunung Kunlun.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp7" sParam="Item">
+			<ThingName>Semua makhluk hidup</ThingName>
+			<Desc>Jubah dari dunia lain Polanya berarti musim dingin telah berakhir. musim semi akan datang Dan semuanya akan segera muncul</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp8" sParam="Item">
+			<ThingName>Fisik Bayangan</ThingName>
+			<Desc>Simbol kemenangan atas Naga Lilin. Kawat miring yang muncul di jubah itu menyampaikan esensi Yin pada tubuh Naga Tian. Kelihatannya sangat misterius.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp9" sParam="Item">
+			<ThingName>bulu berkilau</ThingName>
+			<Desc>Simbol kemenangan atas Naga Lilin. Kawat miring yang muncul di jubah itu menyampaikan esensi Yang di tubuh Naga Tian. Kelihatannya sangat misterius.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp10" sParam="Item">
+			<ThingName>Tao alami</ThingName>
+			<Desc>Jubah dengan motif yang indah. Merupakan lambang pemenang Kompetisi Diskusi Dao dari Festival Gunung Kunlun. Dikatakan bahwa ia memiliki pola yang mewakili cara-cara kuno Taoisme. Seperti kata pepatah, Mengetahui masa lalu berarti mengetahui hakikat Tao, Tao yang alamiah.</Desc>
+		</Text>
+	</List>
+</Texts>
