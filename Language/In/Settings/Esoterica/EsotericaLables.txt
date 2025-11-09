@@ -1,0 +1,39 @@
+﻿ID	Desc	MidName
+ID	描述	中间词缀 参与名字随机
+1	Meningkatkan kekuatan harta karun	Calamity
+2	Meningkatkan tingkat pengisian Qi harta karun	Maelstrom
+3	Mengurangi interval serangan harta karun	Quick Strike
+4	Meningkatkan Qi maksimum harta	Chaos
+5	Meningkatkan jarak pengusiran harta karun	Thousand Tons
+6	Meningkatkan kecepatan harta karun	Afterimages
+7	Meningkatkan kecepatan putaran harta karun	Wheel
+8	Meningkatkan resistensi penolak harta karun	Earth Strength
+9	Meningkatkan panjang jejak harta karun	Shadow
+2000	Mengurangi konsumsi mantra Qi	Hidden Reserves
+2001	Mengurangi waktu penggunaan mantra	Quickening
+2002	Meningkatkan kekuatan mantra	Skyrending
+2003	Mengurangi cooldown mantra	Arcanery
+2004	Pelajari keterampilan tempur	Mantra
+3001	Meningkatkan tingkat perlindungan Qi	Strong Foundation
+3002	Meningkatkan kekuatan perlindungan Qi	Golden Shield
+4001	Meningkatkan kecepatan penyempurnaan pil	Quick Hands
+4002	Meningkatkan tingkat keberhasilan penyempurnaan pil	Divine Alchemy
+4003	Meningkatkan hasil penyempurnaan pil	Demon Bounty
+5001	Meningkatkan kecepatan pemurnian harta karun	Demonic Hands
+5002	Meningkatkan tingkat keberhasilan pemurnian harta karun	Myriad Treasures
+5003	Meningkatkan nilai harta karun yang dimurnikan	Jade Etching
+5004	Meningkatkan kualitas harta karun yang dimurnikan	Hundred Refinements
+6001	Meningkatkan Indra	Divine Vision
+6002	Meningkatkan Fisik	Ancestral Blessings
+6003	Meningkatkan nutrisi Qi	Bigu
+6004	Meningkatkan konversi esensi	Gluttony
+6005	Mengurangi penumpukan kelelahan	Vigour
+6006	Meningkatkan pemulihan kelelahan	Rejuvenation
+6007	Meningkatkan umur panjang	Divine Turtle ,Thousand Years ,Longevity
+6008	Meningkatkan toleransi rasa sakit	Determination
+6009	Meningkatkan stabilitas emosional	Clear Heart
+7001	Meningkatkan Pemahaman	Wisdom
+7002	Meningkatkan Pesona	Charm
+7003	Meningkatkan Keberuntungan	Fortune
+7004	Mengurangi penipisan kesenangan	Buddha Heart
+7005	Meningkatkan kesenangan membangun	Leisure
