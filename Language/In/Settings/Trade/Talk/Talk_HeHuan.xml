@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_HeHuan">
+			<Hate.0>Kamu lagi?</Hate.0>
+			<Hate.1>Anda tidak perlu datang berbicara dengan saya. Aku takut tertular kuman darimu.</Hate.1>
+			<Hate.2>Jika ada yang ingin kau katakan, cepat beritahu aku. Aku merasa sangat mual setiap kali melihat wajahmu.</Hate.2>
+			<Normal.0>Apa yang kamu inginkan?</Normal.0>
+			<Normal.1>Cepat, aku ingin mandi.</Normal.1>
+			<Like.0>Ayo jalan-jalan. Kalau begitu beri tahu aku siswa mana yang kamu sukai? hehe!</Like.0>
+			<Like.1>Oh, angin apa yang membawamu ke sini? Datang.</Like.1>
+			<Submiss.0>Oh, tamu yang terhormat. Apa yang kamu inginkan kali ini? Harta yang tak ternilai harganya? Atau...?</Submiss.0>
+			<Submiss.1>Oh, lihat siapa yang bilang, nona-nona, keluarlah dan sapa tamu kita!</Submiss.1>
+			<GiftLike.0>Anda tahu bahwa saya menyukai hal semacam ini? Sepertinya kita ditakdirkan untuk bersama.</GiftLike.0>
+			<GiftLike.1>Tiba-tiba aku merasa tertarik dengan pemilik benda ini... Aku akan menerimanya.</GiftLike.1>
+			<LowValueGift.0>Saya tidak tahu siapa Anda, tetapi Anda segera mengemasi barang-barang Anda dan pergi sekarang.</LowValueGift.0>
+			<LowValueGift.1>Hadiah yang tidak sopan.</LowValueGift.1>
+			<LowValueGift.2>Ini memalukan reputasi sekte kami.</LowValueGift.2>
+		</Text>
+	</List>
+</Texts>
