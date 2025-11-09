@@ -1,0 +1,174 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Star">
+			<DisplayName>bintang</DisplayName>
+			<SingleFormat.0>Bayangkan cahaya {0} di malam hari.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang terlihat jelas dari lembah.</SingleFormat.1>
+		</Text>
+		<Text Name="Cloud">
+			<DisplayName>milik</DisplayName>
+			<SingleFormat.0>Bayangkan {0} yang mudah dipatahkan.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang bersinar.</SingleFormat.1>
+		</Text>
+		<Text Name="Sun">
+			<DisplayName>matahari</DisplayName>
+			<SingleFormat.0>Bayangkan suatu hari ketika {0} cerah.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang terang saat Anda melihatnya.</SingleFormat.1>
+		</Text>
+		<Text Name="Moon">
+			<DisplayName>bulan</DisplayName>
+			<SingleFormat.0>Bayangkan cahaya lembut {0}.</SingleFormat.0>
+			<SingleFormat.1>Saya memikirkan satu {0} yang sedang menatap saya.</SingleFormat.1>
+		</Text>
+		<Text Name="Meteriod">
+			<DisplayName>meteor</DisplayName>
+			<SingleFormat.0>Saya menyadari bahwa saya tidak melihat banyak {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Jade">
+			<DisplayName>permata</DisplayName>
+			<SingleFormat.0>Saya menyadari bahwa saya jarang melihat {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Sculpture">
+			<DisplayName>patung</DisplayName>
+			<SingleFormat.0>Saya menyadari bahwa {0} sangat mirip dengan diri saya.</SingleFormat.0>
+		</Text>
+		<Text Name="Spring">
+			<DisplayName>musim semi</DisplayName>
+			<SingleFormat.0>Ah, aroma {0}.</SingleFormat.0>
+			<SingleFormat.1>Hujan selama {0} membawa kembali kenangan lama.</SingleFormat.1>
+		</Text>
+		<Text Name="Summer">
+			<DisplayName>musim panas</DisplayName>
+			<SingleFormat.0>Bayangkan matahari yang terik di {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan suara keras serangga di {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Autumn">
+			<DisplayName>jatuh</DisplayName>
+			<SingleFormat.0>Bayangkan dedaunan yang berguguran di {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan daun maple yang berguguran di {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Winter">
+			<DisplayName>musim dingin</DisplayName>
+			<SingleFormat.0>Bayangkan cuaca dingin di {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan angin yang sangat dingin di {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Earth">
+			<DisplayName>tanah</DisplayName>
+			<SingleFormat.0>Bayangkan tumbuh-tumbuhan dan bunga di {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang terpecah.</SingleFormat.1>
+		</Text>
+		<Text Name="Rain">
+			<DisplayName>hujan</DisplayName>
+			<SingleFormat.0>Saya ingat menonton {0} di sebuah lubang kecil.</SingleFormat.0>
+			<SingleFormat.1>Mengingat warna daun yang lebih gelap pada saat {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Snow">
+			<DisplayName>salju</DisplayName>
+			<SingleFormat.0>Ingat kedamaian yang dimiliki {0}</SingleFormat.0>
+			<SingleFormat.1>Ingat {0} di pohon musim dingin</SingleFormat.1>
+		</Text>
+		<Text Name="Lake">
+			<DisplayName>laguna</DisplayName>
+			<SingleFormat.0>Bayangkan rasa air dalam jumlah besar {0}</SingleFormat.0>
+			<SingleFormat.1>Bayangkan seekor ikan {0} yang besar.</SingleFormat.1>
+		</Text>
+		<Text Name="Wind">
+			<DisplayName>angin semilir</DisplayName>
+			<SingleFormat.0>Bayangkan perasaan nyaman dari {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang terkadang sangat kuat.</SingleFormat.1>
+		</Text>
+		<Text Name="Thunder">
+			<DisplayName>guruh</DisplayName>
+			<SingleFormat.0>Bayangkan kegelapan saat {0} muncul.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} yang menyebabkan orang menjadi liar.</SingleFormat.1>
+		</Text>
+		<Text Name="Tree">
+			<DisplayName>pohon</DisplayName>
+			<SingleFormat.0>Bayangkan {0} penuh dengan burung.</SingleFormat.0>
+			<SingleFormat.1>Pikirkan tentang memetik buah dari {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Flower">
+			<DisplayName>bunga</DisplayName>
+			<SingleFormat.0>Pikirkan semua warna yang dimiliki {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan kerapuhan {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Human">
+			<DisplayName>manusia</DisplayName>
+			<SingleFormat.0>Bayangkan {0} yang cenderung melakukan segalanya.</SingleFormat.0>
+			<SingleFormat.1>Pikirkan tentang bagaimana {0} diberi makan.</SingleFormat.1>
+		</Text>
+		<Text Name="Self">
+			<DisplayName>saya sendiri</DisplayName>
+			<SingleFormat.0>Aku memikirkan {0} saat melihat pantulan di air.</SingleFormat.0>
+		</Text>
+		<Text Name="Food">
+			<DisplayName>makanan</DisplayName>
+			<SingleFormat.0>Pikirkan {0} yang Anda sukai.</SingleFormat.0>
+			<SingleFormat.1>Terlintas dalam benak saya bahwa orang terkadang diklasifikasikan sebagai {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Barrier">
+			<DisplayName>pagar</DisplayName>
+			<SingleFormat.0>Bayangkan {0} yang terkadang menghalangi.</SingleFormat.0>
+		</Text>
+		<Text Name="Weed">
+			<DisplayName>gulma</DisplayName>
+			<SingleFormat.0>Bayangkan salad salad dari berbagai {0}</SingleFormat.0>
+		</Text>
+		<Text Name="Wall">
+			<DisplayName>dinding</DisplayName>
+			<SingleFormat.0>Pikirkan betapa sulitnya {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Coat">
+			<DisplayName>pakaian</DisplayName>
+			<SingleFormat.0>Saya terpikir bahwa {0}beberapa di antaranya terbuat dari bulu.</SingleFormat.0>
+			<SingleFormat.1>Pikirkan warna cerah yang seharusnya dimiliki {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Pants">
+			<DisplayName>celana panjang</DisplayName>
+			<SingleFormat.0>Saya terpikir bahwa {0}beberapa di antaranya terbuat dari bulu.</SingleFormat.0>
+			<SingleFormat.1>Pikirkan warna cerah yang seharusnya dimiliki {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Fellows">
+			<DisplayName>teman-teman</DisplayName>
+			<SingleFormat.0>Saya memikirkan banyak {0} yang telah meninggal.</SingleFormat.0>
+			<SingleFormat.1>Memikirkan tentang waktu yang dihabiskan bersama dengan {0}</SingleFormat.1>
+		</Text>
+		<Text Name="Mines">
+			<DisplayName>mineral</DisplayName>
+			<SingleFormat.0>Saya terpikir bahwa {0}beberapa di antaranya dapat bersinar.</SingleFormat.0>
+			<SingleFormat.1>Saya menyadari bahwa beberapa dari mereka memiliki bau yang aneh.</SingleFormat.1>
+		</Text>
+		<Text Name="Weapon">
+			<DisplayName>senjata</DisplayName>
+			<SingleFormat.0>Bayangkan {0} digunakan untuk membunuh teman.</SingleFormat.0>
+		</Text>
+		<Text Name="Nature">
+			<DisplayName>nafas awal</DisplayName>
+			<SingleFormat.0>Bayangkan {0} di tengah alam semesta.</SingleFormat.0>
+		</Text>
+		<Text Name="Fog">
+			<DisplayName>kabut</DisplayName>
+			<SingleFormat.0>Bayangkan cahaya redup di tengah-tengah {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="House">
+			<DisplayName>pintu</DisplayName>
+			<SingleFormat.0>Bayangkan orang-orang yang lewat{0}</SingleFormat.0>
+			<SingleFormat.1>Bayangkan angin yang tidak dapat melewati {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Farm">
+			<DisplayName>peternakan</DisplayName>
+			<SingleFormat.0>Bayangkan bau paling buruk dari {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan diri Anda sedang bersantai di dalam ruangan{0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Sharp">
+			<DisplayName>jarum</DisplayName>
+			<SingleFormat.0>Pikirkan betapa tajamnya {0} seharusnya.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan betapa sakitnya ditusuk oleh {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Ring">
+			<DisplayName>kerah</DisplayName>
+			<SingleFormat.0>Bayangkan ketidaknyamanan yang disebabkan oleh {0}.</SingleFormat.0>
+			<SingleFormat.1>Bayangkan {0} di leher binatang iblis.</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>
