@@ -1,0 +1,410 @@
+ID	Name	Desc
+
+1	First-time Ascension	1 orang naik
+2	Ascension Adept	3 orang naik
+3	Frequent Ascension	5 orang naik
+4	Renowned Cultivator	10 orang naik
+5	Young and Inexperienced	Total 1 petualangan
+6	Casual Adventurer	Total 100 petualangan
+7	Expert Adventurer	Total 500 petualangan
+8	Adventure Master	Total 1.000 petualangan
+9	First-time Alchemist	1 latihan alkimia
+10	Skilled Alchemist	50 praktik alkimia
+11	Great Alchemist	100 praktik alkimia
+12	Master Alchemist	500 praktik alkimia
+13	First-time Craftsman	1 artefak dibuat
+14	Skilled Craftsman	50 artefak dibuat
+15	Expert Craftsman	100 artefak dibuat
+16	Master Craftsman	500 artefak dibuat
+17	First-time Drawing	1 jimat ditarik
+18	Skilled Drawing	50 jimat ditarik
+19	Expert Drawing	100 jimat ditarik
+20	Master Drawing	500 jimat ditarik
+21	First-time Killer	1 makhluk terbunuh
+22	Professional Killer	100 makhluk terbunuh
+23	Stone Cold Killer	500 makhluk terbunuh
+24	Slayer	1.000 makhluk terbunuh
+25	Cultivator Killer	1 petani terbunuh
+26	Cultivators' Nemesis	100 petani terbunuh
+27	Butcher of Cultivators	500 petani terbunuh
+28	Slayer of Cultivators	1.000 petani terbunuh
+29	First-time Searcher	1 jiwa dicari
+30	Skilled Searcher	10 jiwa dicari
+31	Expert Searcher	50 jiwa dicari
+32	Master Searcher	100 jiwa dicari
+33	Cook	10 jenis makanan dimasak
+34	Chef	20 jenis makanan dimasak
+35	Master Chef	50 jenis makanan dimasak
+36	A Flash of Insight	1 karya seni Tingkat VII dibuat
+37	Flow of Ideas	10 karya seni Tingkat VII dibuat
+38	Gifted Artist	50 karya seni Tingkat VII dibuat
+39	One More Sell	1 wisatawan dibujuk untuk bergabung
+40	Five More Sells	5 wisatawan dibujuk untuk bergabung
+41	Ten More Sells	10 wisatawan dibujuk untuk bergabung
+42	The More The Merrier	20 wisatawan dibujuk untuk bergabung
+43	First-time Reader	1 manual dipelajari melalui membaca
+44	Avid Reader	10 manual dipelajari melalui membaca
+45	Scholar	50 manual dipelajari melalui membaca
+46	Bibliophile	100 manual dipelajari melalui membaca
+47	Unfortunate Accident	1 murid meninggal
+48	Misfortunes Never Come Singly	5 murid meninggal
+49	When It Rains, It Pours	10 murid meninggal
+50	Fragility of Life	50 murid meninggal
+51	Heavy Loss	1 murid batin meninggal
+52	Great Loss	5 murid batin meninggal
+53	Tragic Loss	10 murid batin meninggal
+54	Heartbroken	20 murid batin meninggal
+55	I Am You	1 orang kesurupan
+56	They Are Me	5 orang kesurupan
+57	I Am Everyone	10 orang kesurupan
+58	King of Possession	20 orang kesurupan
+59	Blink of an Eye	Total meditasi 100 tahun
+60	As Time Goes By	Total meditasi 500 tahun
+61	Forgotten Years	Total meditasi 1.000 tahun
+62	Master of Solitude	Total meditasi 5.000 tahun
+63	Give Me Your Life	Total 10 tahun umur orang lain dicuri
+64	Give Me More Life	Total 50 tahun umur orang lain dicuri
+65	Such Is Life	Total 500 tahun umur orang lain dicuri
+66	Grim Reaper	Total 1.000 tahun umur orang lain dicuri
+67	Grave Pain	1 jiwa dimurnikan
+68	Wailing Souls	10 jiwa dimurnikan
+69	Source of Misery	50 jiwa dimurnikan
+70	Devil	100 jiwa dimurnikan
+71	Soul Snatcher	1 jiwa diambil
+72	Fresh Souls	10 jiwa diambil
+73	Proxy of Souls	50 jiwa diambil
+74	Master of Souls	100 jiwa diambil
+75	Sanguine Absorption	Penyerapan Sanguin dilakukan satu kali
+76	Circle of Life	Penyerapan Sanguin dilakukan sebanyak 10 kali
+77	Yin-Yang Rule	Penyerapan Sanguin dilakukan sebanyak 50 kali
+78	The King of Death	Penyerapan Sanguin dilakukan sebanyak 100 kali
+79	Evildoer	1 pengorbanan selesai
+80	Faith of Evil	10 pengorbanan selesai
+81	Evilbringer	50 pengorbanan selesai
+82	Evil Apostle	100 pengorbanan selesai
+83	Soul Possession	jiwa 1 orang kesurupan
+84	Undead Soul	Jiwa 10 orang kerasukan
+85	Eternal Soul	50 jiwa orang dirasuki
+86	Violation of Creed	100 jiwa orang dirasuki
+87	Ally	1 artefak lebih besar diperoleh
+88	Harmony	10 artefak lebih besar diperoleh
+89	Traveler	5 tempat baru yang ditemukan selama petualangan (tidak termasuk tempat yang dipelajari melalui buku)
+90	Explorer	25 tempat baru yang ditemukan selama petualangan (tidak termasuk tempat yang dipelajari melalui buku)
+91	Great Wanderer	50 tempat baru yang ditemukan selama petualangan (tidak termasuk tempat yang dipelajari melalui buku)
+1002	Purification	Buatlah Pil Samsara
+1003	Crystallization	Buatlah Pil Keabadian
+1004	My Destiny	Berbentuk Inti Emas
+1005	The Chosen One	Berbentuk Inti Emas Tingkat I
+1006	Scion of Supreme Steps	Kembangkan Hukum Enam Belas Langkah Tertinggi
+1007	Orthodox Training: Supreme Steps	Kembangkan Hukum Enam Belas Langkah Tertinggi dengan kompatibilitas lebih dari 150%.
+1008	Tier I: Supreme Steps	Bentuk Inti Emas Tingkat I dengan Hukum Enam Belas Langkah Tertinggi
+1009	Mastery: Supreme Steps	Naik melalui Hukum Enam Belas Langkah Tertinggi
+1010	Scion of Myriad Artifact	Kembangkan Hukum Artefak Segudang
+1011	Orthodox Training: Myriad Artifact	Kembangkan Hukum Artefak Segudang dengan kompatibilitas lebih dari 150%.
+1012	Tier I: Myriad Artifact	Bentuk Inti Emas Tingkat I dengan Hukum Artefak Segudang
+1013	Mastery: Myriad Artifact	Naik melalui Hukum Artefak Segudang
+1014	Scion of Sword	Kembangkan Pedang Tujuh Pembantaian
+1015	Orthodox Training: Sword	Kembangkan Pedang Tujuh Pembantaian dengan kompatibilitas lebih dari 150%.
+1016	Tier I: Sword	Bentuklah Inti Emas Tingkat I dengan Pedang Tujuh Pembantaian
+1017	Mastery: Sword	Naik melalui Pedang Tujuh Pembantaian
+1018	Scion of Jade purity	Kembangkan Hukum Abadi Kemurnian Giok
+1019	Orthodox Training: Jade purity	Kembangkan Hukum Abadi Kemurnian Giok dengan kompatibilitas lebih dari 150%.
+1020	Tier I: Jade purity	Bentuk Inti Emas Tingkat I dengan Hukum Keabadian Kemurnian Giok
+1021	Mastery: Jade purity	Naik melalui Hukum Abadi Kemurnian Giok
+1022	Scion of Heaven stealing	Kembangkan Hukum Mencuri Surga
+1023	Orthodox Training: Heaven stealing	Kembangkan Hukum Mencuri Surga dengan kompatibilitas lebih dari 150%.
+1024	Tier I: Heaven stealing	Bentuk Inti Emas Tingkat I dengan Hukum Mencuri Surga
+1025	Mastery: Heaven stealing	Naik melalui Hukum Mencuri Surga
+1026	Scion of Alchemy	Kembangkan Hukum Alkimia Primordial
+1027	Orthodox Training: Alchemy	Kembangkan Hukum Alkimia Primordial dengan kompatibilitas lebih dari 150%.
+1028	Tier I: Alchemy	Bentuk Inti Emas Tingkat I dengan Hukum Alkimia Primordial
+1029	Mastery: Alchemy	Naik melalui Hukum Alkimia Primordial
+1030	Scion of Grand Chariot	Kembangkan Hukum Kebijaksanaan Kereta Agung
+1031	Orthodox Training: Grand Chariot	Kembangkan Hukum Kebijaksanaan Kereta Agung dengan kompatibilitas lebih dari 150%.
+1032	Tier I: Grand Chariot	Bentuklah Inti Emas Tingkat I dengan Hukum Kebijaksanaan Kereta Agung
+1033	Mastery: Grand Chariot	Naik melalui Hukum Kebijaksanaan Kereta Agung
+1034	Scion of Reincarnation	Kembangkan Hukum Reinkarnasi Enam Jalan
+1035	Orthodox Training: Reincarnation	Kembangkan Hukum Reinkarnasi Enam Jalan dengan kompatibilitas lebih dari 150%.
+1036	Tier I: Reincarnation	Bentuk Inti Emas Tingkat I dengan Hukum Reinkarnasi Enam Jalur
+1037	Mastery: Reincarnation	Naik melalui Hukum Reinkarnasi Enam Jalan
+1038	Scion of True Sun	Kembangkan Hukum Pemurnian Matahari Sejati
+1039	Orthodox Training: True Sun	Kembangkan Hukum Pemurnian Matahari Sejati dengan kompatibilitas lebih dari 150%.
+1040	Tier I: True Sun	Bentuk Inti Emas Tingkat I dengan Hukum Pemurnian Matahari Sejati
+1041	Mastery: True Sun	Naik melalui Hukum Pemurnian Matahari Sejati
+1042	Scion of Sunflower Refining	Kembangkan Hukum Pemurnian Bunga Matahari
+1043	Orthodox Training: Sunflower Refining	Kembangkan Hukum Pemurnian Bunga Matahari dengan kompatibilitas lebih dari 150%.
+1044	Tier I: Sunflower Refining	Bentuk Inti Emas Tingkat I dengan Hukum Pemurnian Bunga Matahari
+1045	Mastery: Sunflower Refining	Naik melalui Hukum Pemurnian Bunga Matahari
+1046	Scion of Emotion Severing	Kembangkan Hukum Pemutusan Emosi
+1047	Orthodox Training: Emotion Severing	Kembangkan Hukum Pemutusan Emosi dengan kompatibilitas lebih dari 150%.
+1048	Tier I: Emotion Severing	Bentuk Inti Emas Tingkat I dengan Hukum Pemutusan Emosi
+1049	Mastery: Emotion Severing	Naik melalui Hukum Pemutusan Emosi
+1050	Unrecognized	Reputasi sekte mencapai 400: Tidak diakui
+1051	Visible	Reputasi sekte mencapai 1.000: Terlihat
+1052	Distinguished	Reputasi sekte mencapai 5.000: Terhormat
+1053	Prominent	Reputasi sekte mencapai 10.000: Terkemuka
+1054	Unparalleled	Reputasi sekte mencapai 40.000: Tak tertandingi
+1055	Respected	Sekte menjadi: Dihormati
+1056	Honored	Sekte menjadi: Terhormat
+1057	Celebrated	Sekte menjadi: Dirayakan
+1058	Shady	Sekte menjadi: Teduh
+1059	Notorious	Sekte menjadi: Terkenal
+1060	Infamous	Sekte menjadi: Terkenal
+1061	Established	5 murid di sekte tersebut
+1062	Expanding	10 murid di sekte tersebut
+1063	Thriving	18 murid di sekte tersebut
+1064	A New Beginning	1 murid dalam di sekte tersebut
+1065	Burgeoning	4 murid dalam di sekte tersebut
+1066	Wealth of Talent	8 murid batin di sekte tersebut
+1067	Disaster: Extreme Cold	Bertahan hidup dalam cuaca yang sangat dingin
+1068	Disaster: Heat Wave	Bertahan hidup melalui gelombang panas
+1069	Disaster: Polar Night	Bertahan hidup melewati malam kutub
+1070	Psychokinetic	Penguasaan Artefak mencapai Level 20
+1071	Spellbinding	Mantra mencapai Level 20
+1072	Death Proof	Perlindungan mencapai Level 20
+1073	Immortal Doctor	Alkimia mencapai Level 20
+1074	Craftsman	Pembuatan Artefak mencapai Level 20
+1075	Coming of Winter	Lulus tahun pertama dalam game
+1076	Time Flies	Lewati tahun ke-5 dalam game
+1077	Days Gone By	Lewati tahun ke 10 dalam game
+1078	Enlightened	Keajaiban pertama terjadi: Tercerahkan
+1079	Charismatic	Keajaiban pertama terjadi: Karismatik
+1080	Perceptive	Keajaiban pertama terjadi: Perseptif
+1081	Resilient	Keajaiban pertama terjadi: Tangguh
+1082	Reconstructor	Keajaiban pertama terjadi: Rekonstruksi
+1083	Rainmaker	Keajaiban pertama terjadi: Hujan
+1084	Cloudless	Keajaiban pertama terjadi: Penyebaran Awan
+1085	Lobotomy	Bagian atas tengkorak rusak
+1086	Headshot!	Kepala rusak
+1087	Living Dead	Otak rusak
+1088	Liver-less!	Hati rusak
+1089	Asexual	Disterilkan
+1090	My Heart Will Go On	Hati rusak
+1091	Cultivated	Feng Shui sekte menjadi terpelajar
+1092	Blessed	Feng Shui sekte menjadi diberkati
+1093	Auspicious	Feng Shui satu ruangan menjadi membawa keberuntungan
+1094	Great Feng Shui	Feng Shui suatu ruangan menjadi sangat menguntungkan
+1095	Tier I Immortal	Seorang abadi yang selamat dari satu kesengsaraan tetap berada di sekte tersebut
+1096	Tier III Immortal	Seorang abadi yang selamat dari tiga kesengsaraan tetap berada di sekte tersebut
+1097	Tier V Immortal	Seorang abadi yang selamat dari lima kesengsaraan tetap berada di sekte tersebut
+1098	Tier IX Immortal	Seorang abadi yang selamat dari sembilan kesengsaraan masih berada di sekte tersebut
+1099	Rare	Dapatkan satu artefak yang telah melalui 1 perbaikan surgawi
+1100	Precious	Dapatkan satu artefak yang telah melalui 5 perbaikan surgawi
+1101	Exquisite	Dapatkan satu artefak yang telah melalui 10 perbaikan surgawi
+1102	Legendary	Dapatkan satu artefak yang telah melalui 20 perbaikan surgawi
+2000	Skillful	Artefak dengan kualitas 100 dibuat
+2001	Ingenious	Artefak Tingkat XII dibuat
+2002	Incredible Ink	Jimat dengan kualitas lebih dari 95 ditarik
+2003	Extravagant	Artefak tingkat XII dilebur
+2004	Triumphant	Selamat dari kesengsaraan
+2005	Devastating	Gagal dalam kesengsaraan dan mati
+2006	Despairing	Gagal dalam kesengsaraan tetapi selamat
+2007	Excellent	Terobosan pertama
+2008	Establishment	Mendirikan sekte
+2009	Development	Sekte berkembang ke sekolah
+2010	Emergence	Sekte berkembang menjadi adobe surgawi
+2011	Humble	Pertama kali mengakui seseorang sebagai master
+2012	Adviser	Pertama kali menginstruksikan seseorang
+2013	Love	Pertama kali menjalin hubungan
+2014	First Step	Pengakuan cinta pertama
+2015	Doki Doki Memory	Pengakuan cinta pertama berhasil
+2016	Nice Guy	Pengakuan cinta pertama gagal
+2017	Corrupted	Pertama kali jatuh ke sisi iblis
+2018	Cold Hearted	Pertama kali mengusir seorang murid
+2019	Miraculous	Pertama kali menggali peti mati kuno
+2020	Repulsion	Pertama kali makan kotoran
+2021	Indifference	Pertama kali makan kotoran
+2022	I Reject My Humanity	Memiliki seekor binatang
+2023	Time to Sleep, Not Cultivate!	Permainan telah berjalan selama lebih dari 4 jam, dan waktu saat ini adalah antara 0:00-5:00.
+2024	Slain	Bunuh Naga Banjir
+2025	Fallen	Bunuh Phoenix
+2026	Yin-Yang Rule	Naga Obor terbunuh
+2027	Fast-paced	Membuat Naga Banjir berubah menjadi wujud aslinya dalam waktu kurang dari 60 detik
+2028	Horn Breaker	Bunuh Naga Banjir setelah menghancurkan tanduknya
+2029	Tail Cutter	Bunuh Naga Banjir setelah menghancurkan ekornya
+2030	Furious	Bunuh Naga Banjir setelah menghancurkan Skala Terlarangnya
+2031	Enraged	Bunuh Flood Dragon sebelum mengeluarkan Dragon's Rage
+2032	Hydrated	Bunuh Naga Banjir sebelum mengeluarkan Banjir Mematikan
+2033	Sun Strike! Sun Strike!	5 orang masing-masing menyerap Phoenix's Melting, dan tidak ada yang terluka
+2034	Staring	Tahan Flame Eyes selama 20 detik tanpa terluka
+2035	Radiating	Bunuh Phoenix setelah mengeluarkan Crystal of the Sun
+2036	Beauty of the Beast	Bunuh Phoenix setelah menghancurkan bulu mahkotanya
+2037	Tail of Troubles	Bunuh Phoenix setelah menghancurkan bulu ekornya
+2038	Qi Condenser	Jaga agar telur Phoenix tidak menetas atau mati selama lebih dari 36 hari
+2039	Clean Sweep	Lebih dari 9 telur berhasil ditundukkan dengan mengalahkan Naga Obor
+2040	Irreverence	Kalahkan Naga Obor setelah menghancurkan skala ilahinya
+2041	Chaos	Kalahkan Naga Obor setelah menghancurkan gioknya
+2042	Paradox	Kalahkan Torch Dragon dengan satu karakter di Mind Mask dan Wild Fire
+2043	Subduer	Kalahkan Naga Obor tanpa ada telur yang menetas
+2044	Breathtaking	Kalahkan Naga Obor tanpa ada yang terkena nafasnya
+2045	Spirit Root	Pertama kali menanam Spirit Root
+2046	Harvest	Panen Akar Lima Elemen
+2047	Extremity	Akar Lima Elemen mencapai batas berkah atau terkutuknya
+2048	Natural Law	Pertama kali memahami Hukum alam
+2049	Divergent Law	Pertama kali memahami Hukum yang berbeda
+2050	Rest In Peace	Bunuh seorang bijak kuno
+2051	Animal Trainer	Pertama kali menjinakkan binatang
+2052	Rebel!	Pertama kali seekor binatang berubah menjadi binatang buas
+10000	Valley of Worms	Selesaikan petualangan spesial: Valley of Worms
+10001	Treasure of Venom	Selesaikan petualangan spesial: Treasure of Venom
+10002	Heavenly Palace	Selesaikan petualangan spesial: Istana Surgawi
+10003	Cave of Fire	Selesaikan petualangan spesial: Gua Api
+10004	Lake of Heaven	Selesaikan petualangan spesial: Danau Surga
+10005	Devil's Seal	Selesaikan petualangan spesial: Segel Setan
+10006	Out of the Heaven	Ketahui kebenaran dunia
+3000	Education First	Bangun Paviliun Manual untuk pertama kalinya.
+3001	Knowledge Sharing	Transkripsikan manual menggunakan Manual Pavilion untuk pertama kalinya.
+3002	Study Hard	Pelajari manual dalam koleksi Manual Pavilion untuk pertama kalinya.
+3003	A Great Collection	Total Pencapaian koleksi Manual Pavilion mencapai 500.
+3004	A Vast Collection	Total Pencapaian koleksi Manual Pavilion mencapai 2000.
+3005	An Immense Collection	Total Pencapaian koleksi Manual Pavilion mencapai 5000.
+3006	An Unrivaled Collection	Total Pencapaian koleksi Manual Pavilion mencapai 10.000.
+3007	Unleash the Light	Buat Artefak Langka untuk pertama kalinya.
+3008	Blood Pact	Aktifkan Artefak Langka untuk pertama kalinya.
+3009	Artifact Novice	Aktifkan 1 Artefak Langka.
+3010	Artifact Veteran	Aktifkan 5 Artefak Langka yang berbeda.
+3011	Artifact Expert	Aktifkan 10 Artefak Langka yang berbeda.
+3012	Artifact Master	Aktifkan 20 Artefak Langka yang berbeda.
+3013	You Awake?	Mencerahkan roh yang hidup.
+3014	Quiet at Last	Bunuh roh yang hidup dengan Soul Chant.
+3015	Listen to My Heart	Saksikan lahirnya makhluk halus karena mendampingi karakter dalam waktu yang lama.
+3016	Nature's Child	Saksikan lahirnya roh yang hidup di lingkungan alam.
+3017	What Even Are You?	Temui roh makhluk liar.
+3018	Central Plains: Becoming Human	Bentuklah tubuh untuk roh yang hidup.
+3019	Nutritional Balance	Bentuklah tubuh untuk roh yang hidup dengan rasio Lima Elemen yang seimbang.
+3020	To Each Their Own	Bentuk tubuh untuk roh yang hidup dengan proporsi 100% elemen tertentu, pilih Hukum yang sesuai untuk mereka, dan promosikan mereka menjadi Murid Batin.
+3021	Food for Everyone	Bertahan selama 2 tahun tanpa karakter mati dengan semua opsi Narrow Escape diaktifkan.
+3022	In All Weathers	Bertahan selama 1 tahun tanpa karakter mati dengan semua opsi Cuaca Keras diaktifkan.
+3023	Heavenly Might	Bunuh semua monster di peta awal dalam tahun pertama dengan semua monster tambahan diaktifkan.
+3024	Intricate Buildings	Bangun Mini Universe dalam tahun pertama dengan semua opsi Bangunan Rumit diaktifkan.
+3025	Self-taught	Raih sekte Heavenly Abode dalam tahun pertama dengan semua opsi Lost Arts diaktifkan.
+3026	Strict Budget	Bangun Mini Universe dalam tahun pertama dengan semua opsi Sumber Daya Langka diaktifkan.
+3027	Best You Can Get	Ambil karakter dengan semua Statistik Umum di atas 5 dengan semua opsi Masa Sulit diaktifkan.
+3028	Hard Bargain	Beli item Tier 10 atau lebih tinggi dari Travelling Merchant dalam tahun pertama dengan semua opsi Mean Merchants diaktifkan.
+3029	Go with the Flow	Bantu karakter mencapai Roh Primordial atau kondisi kultivasi setara dalam tahun pertama dengan semua opsi Tao Inordinance diaktifkan.
+3030	Good Doggo	Bunuh monster dengan status Inti Emas atau lebih tinggi hanya dengan hewan peliharaan rohmu dalam tahun pertama dengan semua opsi Hewan Peliharaan Lemah diaktifkan.
+3031	Well-connected	Raih 100 Bantuan dengan semua pemimpin sekte dengan semua opsi Dunia Dingin diaktifkan.
+3032	Taoist Exorcist	Bunuh semua penyerang Yaoguai pada hari ke-80.
+3033	Cultivator Killer Killer	Bunuh Pembunuh Penggarap yang menyerang pada hari ke 150.
+3034	Don't Look	Jangan biarkan Naga Jiao muncul dalam 200 hari pertama sementara gua misterius muncul pada hari ke-30, lalu bunuh naga tersebut.
+3035	The Farmer and the Dragon	Jangan biarkan Naga Jiao muncul dalam 200 hari pertama dengan semua opsi Kekaguman Kuno diaktifkan, lalu bunuh naga tersebut.
+3036	Higher Level = More Dignity	Tingkatkan Aula Utama di semua wilayah dan kota ke Level 3 dalam waktu 3 tahun dengan semua opsi Pekerjaan Duniawi diaktifkan.
+3037	Immortals do not believe in tears	Beli item Tingkat 12 atau lebih tinggi dari sekte budidaya dalam tahun pertama dengan semua opsi Dewa Tanpa Emosi diaktifkan.
+3038	Immortal Slayer	Membuat semua sekte menyerah di bawah pengaturan kekuatan sekte NPC tertinggi.
+3039	Yin Slayer	Bunuh Naga Jiao di bawah pengaturan kekuatan Naga Jiao tertinggi.
+3040	Yang Slayer	Bunuh Phoenix di bawah pengaturan kekuatan Phoenix tertinggi.
+3041	Tao Slayer	Bunuh Torch Dragon di bawah pengaturan kekuatan Torch Dragon tertinggi.
+3042	Final Showdown	Kalahkan musuh yang menyerang pada hari ke 1000 dengan opsi It get Harder diaktifkan.
+3043	Ascension Beginner	Buatlah seorang murid naik atau lebih tinggi dari tingkat kesulitan Kesengsaraan I.
+3046	Ascension Professional	Membuat murid naik atau lebih tinggi dari tingkat kesulitan Kesengsaraan IV.
+3049	Ascension Master	Membuat murid naik atau lebih tinggi dari tingkat kesulitan Kesengsaraan VII.
+3052	Conquest Beginner	Taklukkan semua sekte yang tingkat kesulitannya lebih tinggi dari Kesengsaraan I.
+3055	Conquest Professional	Taklukkan semua sekte yang tingkat kesulitannya lebih tinggi dari Kesengsaraan IV.
+3058	Conquest Master	Taklukkan semua sekte yang tingkat kesulitannya lebih tinggi dari Kesengsaraan VII.
+3061	Way of Formations	Belajar dari manual Formasi untuk pertama kalinya.
+3062	Ancient Formation	Pelajari formasi kuno untuk pertama kalinya.
+3063	Not as Many, but as One	Bentuk formasi untuk pertama kalinya.
+3064	Legend Reborn	Bentuk formasi kuno untuk pertama kalinya.
+3065	Worldly Agency	Tetapkan Agensi kepada seorang murid untuk pertama kalinya.
+3066	World Explorer	Menyiapkan dan menugaskan Agensi di setiap kota dan wilayah.
+3067	Excelling Nature	Bangun Keajaiban.
+3068	Just Stop	Bangun semua Keajaiban.
+3069	People's Choice	Dapatkan lebih dari 20.000 Pengikut dari satu acara Kebijakan.
+3070	Major Religion	Jadikan 40% atau lebih populasi suatu kota atau daerah menjadi pengikut sekte Anda.
+3071	Missionary	Jadikan 40% atau lebih populasi setiap kota atau wilayah menjadi pengikut sekte Anda.
+3072	Hear Ye, Hear Ye	Ikut serta dalam Lelang untuk pertama kalinya.
+3073	Can't Have It All, Huh?	Beli semua item dalam Lelang.
+3074	Ante Up	Beli item misterius di Lelang.
+3075	Lucky Deal	Tawar dengan harga lebih rendah dari harga pasar dan dapatkan barang yang dilelang.
+3076	Did I Win?	Tawar dengan harga 10 kali lipat dari harga pasar atau lebih tinggi dan dapatkan barang yang dilelang.
+3077	Fair Exchange	Berdaganglah dengan Traveling Merchant untuk pertama kalinya.
+3078	Last in Stock	Belilah Batu Roh Pedagang Keliling.
+3079	Kill Not the Goose	Bunuh Pedagang Keliling.
+3080	Timely Assistance	Dapatkan 1 Koneksi dari sekte NPC.
+3081	BFF	Dapatkan 10 Koneksi dari satu sekte NPC.
+3082	Help!!!	Pinjam seorang murid untuk pertama kalinya.
+3083	All for One	Pinjam 4 murid sekaligus, masing-masing dari sekte berbeda.
+3084	Hit the Spot	Berikan pemimpin sekte barang favoritnya sebagai hadiah saat melakukan kunjungan resmi.
+3085	Big Big World	Masukkan peta hutan belantara untuk pertama kalinya.
+3086	Just Passing By	Masukkan peta sekte untuk pertama kalinya.
+3087	All Mine!	Kumpulkan item di peta hutan belantara untuk pertama kalinya.
+3088	Now or Never	Ambil harta karun di peta sekte sambil bersembunyi.
+3089	Conquest: Sunshade Abode	Taklukkan Tempat Tinggal Kerai.
+3090	Conquest: Kunlun Palace	Taklukkan Istana Kunlun.
+3091	Conquest: Skydome Palace	Taklukkan Istana Skydome.
+3092	Conquest: Purple Cloud Temple	Taklukkan Kuil Awan Ungu.
+3093	Conquest: Mystic Unity Sect	Taklukkan Sekte Persatuan Mistik.
+3094	Conquest: Blue Lotus Temple	Taklukkan Kuil Teratai Biru.
+3095	Conquest: Evenfall Abode	Taklukkan Evenfall Abode.
+3096	Conquest: Mt. Hundred Insects	Taklukkan Gunung Seratus Serangga.
+3097	Conquest: Pit of Doom	Taklukkan Lubang Kehancuran.
+3098	Conquest: Seven Slaughtering Sect	Taklukkan Tujuh Sekte Pembantaian.
+3099	Conquest: Exultant Sect	Taklukkan Sekte Gembira.
+3100	Conquest: Daemonia Temple	Taklukkan Kuil Daemonia.
+3101	World Conquest	Taklukkan semua sekte budidaya.
+3102	World Beater	Taklukkan semua sekte NPC dan jadikan 40% atau lebih populasi setiap kota atau wilayah menjadi pengikut sekte Anda.
+3103	Hello There	Bersosialisasi dengan orang lain untuk pertama kalinya.
+3104	Our Respective Problems	Pelajari obsesi seseorang untuk pertama kalinya.
+3105	Play with Heart	Turunkan penjagaan seseorang untuk pertama kalinya.
+3106	Let Me Show You Around	Undang seseorang ke sekte Anda untuk pertama kalinya.
+3107	Truth Revealed	Pecahkan sebuah misteri.
+3108	Spirit Pet: Divine Dog	Dapatkan Anjing Ilahi.
+3109	Spirit Pet: Spirit Fox	Dapatkan Rubah Roh.
+3110	Spirit Pet: Float Dragon	Dapatkan Naga Apung.
+3111	Spirit Pet: Dark Phoenix	Dapatkan Phoenix Gelap.
+3112	Fully Grown	Bangkitkan sepenuhnya Hewan Peliharaan Roh.
+3113	Animal Friend	Mencerahkan seekor binatang.
+3114	Shapeshifting: 5 Shards	Membuat Yaoguai yang memiliki 5 atau lebih Pecahan Intelijen selamat dari Kesengsaraan Perubahan Bentuk.
+3115	Shapeshifting: 7 Shards	Membuat Yaoguai yang memiliki 7 atau lebih Pecahan Intelijen selamat dari Kesengsaraan Perubahan Bentuk.
+3116	Shapeshifting: 9 Shards	Membuat Yaoguai yang memiliki 9 atau lebih Pecahan Intelijen selamat dari Kesengsaraan Perubahan Bentuk.
+3117	Heaven Survivor	Bertahan dari 5 kesengsaraan pencapaian.
+3118	Unmatched Longevity	Bertahan dari 5 kesengsaraan seumur hidup.
+3119	A Cult of One's Own	Mendirikan patung kepercayaan di sebuah kota dan menghubungkannya dengan seorang kultivator Shendao.
+3120	A Guard of One's Own	Tunjuk Penjaga.
+3121	A Creed of One's Own	Dapatkan pengikut inti.
+3122	Followers of One's Own	Kabulkan permintaan Epic pengikut.
+3123	A Relic of One's Own	Tingkatkan Relik Suci ke Tingkat 15.
+3124	A Realm of One's Own	Perluas wilayah ilahi Anda dengan selamat dari kesengsaraan detasemen.
+3125	A Heart of One's Own	Capai kondisi mental tertinggi dalam kultivasi Shendao.
+3126	Prayer: Celestial Thunder	Pelajari Sutra Guntur Surgawi.
+3127	Creation: Celestial Thunder	Bangun Alam Ilahi menggunakan Sutra Guntur Surgawi.
+3128	Attainment: Celestial Thunder	Raih ukuran maksimal saat membangun Alam Ilahi menggunakan Sutra Guntur Surgawi.
+3129	Ascension: Celestial Thunder	Naik dengan mempelajari Sutra Guntur Surgawi.
+3130	Prayer: Eight Cosmos	Pelajari Sutra Delapan Kosmos.
+3131	Creation: Eight Cosmos	Membangun Alam Ilahi menggunakan Sutra Delapan Kosmos.
+3132	Attainment: Eight Cosmos	Raih ukuran maksimal saat membangun Alam Ilahi menggunakan Sutra Delapan Kosmos.
+3133	Ascension: Eight Cosmos	Naik dengan mempelajari Sutra Delapan Kosmos.
+3134	Prayer: Nether Salvation	Pelajari Sutra Keselamatan Nether.
+3135	Creation: Nether Salvation	Bangun Alam Ilahi menggunakan Sutra Keselamatan Nether.
+3136	Attainment: Nether Salvation	Raih ukuran maksimal saat membangun Alam Ilahi menggunakan Sutra Keselamatan Nether.
+3137	Ascension: Nether Salvation	Naik dengan mempelajari Sutra Keselamatan Nether.
+3138	Illusion Essence	Dapatkan Esensi Ilusi melalui pernapasan.
+3139	Nimbus Essence	Dapatkan Nimbus Essence melalui pernapasan.
+3140	Ignis Essence	Dapatkan Ignis Essence melalui pernapasan.
+3141	Aqualuna Essence	Dapatkan Aqualuna Essence melalui pernafasan.
+3142	Supreme Body	Aktifkan badan rahasia untuk pertama kalinya.
+3143	Battle-hardened	Capai 100 tumpukan Tempered.
+3144	Initiation: Primordial Unity	Pelajari Tubuh Kesatuan Primordial.
+3145	Ascension: Primordial Unity	Naik dengan Tubuh Kesatuan Primordial.
+3146	Initiation: Barbarous Forging	Pelajari Tubuh Penempaan Barbar.
+3147	Ascension: Barbarous Forging	Naik dengan Tubuh Penempaan Barbar.
+3148	Initiation: Ancestral Yaoguai	Pelajari Tubuh Leluhur Yaoguai.
+3149	Ascension: Ancestral Yaoguai	Naik dengan Tubuh Leluhur Yaoguai.
+3150	Initiation: Fallen Obliteration	Pelajari Tubuh Kewajiban yang Jatuh.
+3151	Ascension: Fallen Obliteration	Naik dengan Tubuh Kewajiban yang Jatuh.
+3152	Join us and seek immortality!	Dapatkan hewan peliharaan Xiuxiu dan Xianxian.
+3153	Immortal Panda	Ubah panda menjadi manusia dan bantu ia naik menuju keabadian.
+3154	One Fish	Tangkap satu ikan.
+3155	100 Fish	Tangkap 100 ikan.
+3156	1,000 Fish	Tangkap 1.000 ikan.
+3157	10,000 Fish	Tangkap 10.000 ikan.
+3158	Bait Taken	Tangkap binatang saat memancing.
+3159	I Choose You!	Tangkap monster saat memancing.
+3160	Shiny Object	Tangkap Batu Roh saat memancing.
+3161	Master Fisher	Tangkap semua spesies ikan.
+3162	Kraken Catcher	Tangkap ikan yang beratnya lebih dari 25 kati.
+3163	Conquest Ingenuity	Dapatkan semua harta rahasia dari prasasti di Istana Awan Ungu
+3164	Yin Yang Unity	Dapatkan hewan peliharaan Black Tortoise Miao
+3165	Orthodox Training: Nimbus	Kembangkan Hukum Penaklukan Nimbus dengan kompatibilitas lebih dari 150%.
+3166	Tier I: Nimbus	Bentuk Inti Emas Tingkat I dengan Hukum Penaklukan Nimbus
+3167	Mastery: Nimbus	Naik melalui Hukum Penaklukan Nimbus
