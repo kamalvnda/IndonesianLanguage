@@ -1,0 +1,55 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Classic">
+			<DisplayName>Lelang harta karun umum</DisplayName>
+			<Npc.0.Talk.Bid.0>meningkatkan!</Npc.0.Talk.Bid.0>
+			<Npc.0.Talk.Bid.1>saya ikuti!</Npc.0.Talk.Bid.1>
+			<Npc.0.Talk.Bid.2>Sangat murah lagi!</Npc.0.Talk.Bid.2>
+			<Npc.0.Talk.Exceed.0>Lawan yang layak.</Npc.0.Talk.Exceed.0>
+			<Npc.0.Talk.Exceed.1>Lebih kaya dari saya?</Npc.0.Talk.Exceed.1>
+			<Npc.0.Talk.Buy.0>Ha ha! Saya telah mendapatkan harta karun ini!</Npc.0.Talk.Buy.0>
+			<Npc.0.Talk.Buy.1>Ha ha! Orang miskin sepertimu ingin bersaing memperebutkan kekayaan denganku?</Npc.0.Talk.Buy.1>
+			<Npc.0.Talk.Like.0>Saya ingin ini!</Npc.0.Talk.Like.0>
+			<Npc.0.Talk.Like.1>Saya sudah mengambil keputusan!</Npc.0.Talk.Like.1>
+			<Npc.0.Talk.Like.2>Apakah kamu melihatnya? Benda ini akan menjadi milikku.</Npc.0.Talk.Like.2>
+			<Npc.0.Talk.Last.0>Akhirnya hal itu telah tiba. Harta yang tak ternilai harganya!</Npc.0.Talk.Last.0>
+			<Npc.0.Talk.Last.1>Harta paling langka di dunia!</Npc.0.Talk.Last.1>
+			<Npc.0.Talk.DontKnow.0>Meski terlihat aneh. Namun ternyata sangat menarik bukan?</Npc.0.Talk.DontKnow.0>
+			<Npc.0.Talk.Chat.0>Saya pernah pergi ke Danau Surgawi dan melihat seorang dewi sedang mandi. Ha ha!</Npc.0.Talk.Chat.0>
+			<Npc.0.Talk.Chat.1>Tahun ini, saya hanya mengumpulkan uang sewa sebesar 800.000 yuan. Dompetku menangis!</Npc.0.Talk.Chat.1>
+			<Npc.0.Talk.Chat.2>Jika aku mengetahuinya lebih awal, aku akan mengirim pembantuku dan memerintahkan dia untuk membeli semuanya.</Npc.0.Talk.Chat.2>
+			<Npc.1.Talk.Bid.0>Ini agak mahal. Tapi saya tetap ingin menawarkan harga yang lebih tinggi!</Npc.1.Talk.Bid.0>
+			<Npc.1.Talk.Bid.1>Saya akan pergi tanpa makanan selama 2 hari bulan ini untuk menghemat sedikit uang...</Npc.1.Talk.Bid.1>
+			<Npc.1.Talk.Bid.2>(Menghentakkan kaki) Saya ikuti!</Npc.1.Talk.Bid.2>
+			<Npc.1.Talk.Exceed.0>Bukankah itu cukup untuk membelinya?</Npc.1.Talk.Exceed.0>
+			<Npc.1.Talk.Exceed.1>Itu adalah harta berharga yang semua orang Mereka semua menginginkannya.</Npc.1.Talk.Exceed.1>
+			<Npc.1.Talk.Exceed.2>Ini sedikit menggoda. Haruskah saya meminta lebih banyak atau tidak?</Npc.1.Talk.Exceed.2>
+			<Npc.1.Talk.Buy.0>Hebat, sungguh hebat, basis kultivasi saya akan meningkat pesat dengan ini!</Npc.1.Talk.Buy.0>
+			<Npc.1.Talk.Buy.1>Hebat, akhirnya ada di tanganku!</Npc.1.Talk.Buy.1>
+			<Npc.1.Talk.Like.0>Guru pernah memberi tahu saya bahwa obat ini mempunyai khasiat yang luar biasa. Saya akan membelinya!</Npc.1.Talk.Like.0>
+			<Npc.1.Talk.Like.1>Senjata untuk berperang. Pengobatan adalah untuk latihan mandiri! Benda ini terlihat sangat keren!</Npc.1.Talk.Like.1>
+			<Npc.1.Talk.Last.0>Waktunya akhirnya tiba. Harta yang langka dan berharga!</Npc.1.Talk.Last.0>
+			<Npc.1.Talk.Last.1>Ahhh, mataku! Harta macam apa ini?</Npc.1.Talk.Last.1>
+			<Npc.1.Talk.DontKnow.0>Benda apa ini?</Npc.1.Talk.DontKnow.0>
+			<Npc.1.Talk.Chat.0>Ada banyak orang asing berkumpul di sini. Apakah mereka benar-benar kaya??</Npc.1.Talk.Chat.0>
+			<Npc.2.Talk.Bid.0>Bagaimana anda mengukur nilai seorang praktisi berdasarkan jumlah uangnya? saya ikuti!</Npc.2.Talk.Bid.0>
+			<Npc.2.Talk.Bid.1>Basis kultivasi saya akan meningkat pesat jika saya mendapatkan ini!</Npc.2.Talk.Bid.1>
+			<Npc.2.Talk.Bid.2>Tuanku menginginkan ini!</Npc.2.Talk.Bid.2>
+			<Npc.2.Talk.Exceed.0>Bagaimana bisa...</Npc.2.Talk.Exceed.0>
+			<Npc.2.Talk.Buy.0>Luar biasa, tinggal beberapa langkah lagi!</Npc.2.Talk.Buy.0>
+			<Npc.2.Talk.Like.0>Benda ini benar-benar harta karun. Dan hanya aku yang layak memilikinya!!</Npc.2.Talk.Like.0>
+			<Npc.2.Talk.Last.0>Kali ini, harta rahasia sekte manakah itu?</Npc.2.Talk.Last.0>
+			<Npc.2.Talk.DontKnow.0>Hal-hal di dalamnya misterius dan tidak mungkin diketahui...</Npc.2.Talk.DontKnow.0>
+			<Npc.2.Talk.Chat.0>Saya datang ke sini atas perintah Guru saya.</Npc.2.Talk.Chat.0>
+			<Npc.2.Talk.Chat.1>Saya akan segera lahir!</Npc.2.Talk.Chat.1>
+			<Npc.3.Talk.Bid.0>Saya harus mendapatkan ini.</Npc.3.Talk.Bid.0>
+			<Npc.3.Talk.Exceed.0>kasar!</Npc.3.Talk.Exceed.0>
+			<Npc.3.Talk.Like.0>Jangan berharap! Apapun yang terjadi, aku harus mendapatkan ini!</Npc.3.Talk.Like.0>
+			<Npc.3.Talk.Like.1>Ini terlalu menarik! Saya minta maaf tentang ini!</Npc.3.Talk.Like.1>
+			<Npc.3.Talk.Buy.0>Haha, kalian tidak akan pernah mendapatkannya!</Npc.3.Talk.Buy.0>
+			<Npc.3.Talk.Last.0>A-atau ini dia!</Npc.3.Talk.Last.0>
+			<Npc.3.Talk.DontKnow.0>Apa sebenarnya benda apa ini?</Npc.3.Talk.DontKnow.0>
+			<Npc.3.Talk.Chat.0>Mari kita hancurkan kesombongan orang-orang ini.</Npc.3.Talk.Chat.0>
+		</Text>
+	</List>
+</Texts>
