@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGAnimal_BearBody">
+			<Part.Parts.0.DisplayName>kepala</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>tengkorak</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>otak</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>mata kiri</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>mata kanan</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>telinga kiri</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>telinga kanan</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>hidung</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>mulut</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>leher</Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>gigi taring atas</Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.0.Parts.11.DisplayName>menghadapi</Part.Parts.0.Parts.11.DisplayName>
+			<Part.Parts.0.Parts.12.DisplayName>otot kepala</Part.Parts.0.Parts.12.DisplayName>
+			<Part.Parts.0.Parts.13.DisplayName>mencatut</Part.Parts.0.Parts.13.DisplayName>
+			<Part.Parts.0.Parts.14.DisplayName>kepala</Part.Parts.0.Parts.14.DisplayName>
+			<Part.Parts.1.DisplayName>Batang tubuh</Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>tulang rusuk kiri</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>tulang rusuk kanan</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>tulang belakang</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>panggul</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>jantung</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>hati</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>limpa</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>paru-paru</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>ginjal</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Perut</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>usus</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>alat kelamin</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Otot pinggul</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Otot dada</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.1.Parts.14.DisplayName>otot punggung</Part.Parts.1.Parts.14.DisplayName>
+			<Part.Parts.1.Parts.15.DisplayName>Otot perut</Part.Parts.1.Parts.15.DisplayName>
+			<Part.Parts.1.Parts.16.DisplayName>Otot pinggang</Part.Parts.1.Parts.16.DisplayName>
+			<Part.Parts.1.Parts.17.DisplayName>kulit tubuh</Part.Parts.1.Parts.17.DisplayName>
+			<Part.Parts.1.Parts.18.DisplayName>ekor beruang</Part.Parts.1.Parts.18.DisplayName>
+			<Part.Parts.1.Parts.19.DisplayName>Batang tubuh</Part.Parts.1.Parts.19.DisplayName>
+			<Part.Parts.2.DisplayName>kaki kiri depan</Part.Parts.2.DisplayName>
+			<Part.Parts.2.Parts.0.DisplayName>kulit kaki kiri depan</Part.Parts.2.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.DisplayName>skapula kiri</Part.Parts.2.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.0.DisplayName>otot bahu kiri</Part.Parts.2.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.DisplayName>tulang paha kiri</Part.Parts.2.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>otot paha anterior kiri</Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>Tibia kiri anterior</Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot tulang kering kiri anterior</Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>tulang cakar depan kiri</Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot cakar anterior kiri</Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.DisplayName>kaki kanan depan</Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>kulit kaki kanan depan</Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>skapula kanan</Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.0.DisplayName>otot bahu kanan</Part.Parts.3.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.DisplayName>Tulang paha kanan anterior</Part.Parts.3.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>Otot paha kanan anterior</Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>Tibia kanan anterior</Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot tulang kering kanan anterior</Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>tulang cakar kanan depan</Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot cakar anterior kanan</Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.DisplayName>kaki kiri belakang</Part.Parts.4.DisplayName>
+			<Part.Parts.4.Parts.0.DisplayName>kulit kaki kiri belakang</Part.Parts.4.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.DisplayName>Femur kiri posterior</Part.Parts.4.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.0.DisplayName>otot paha kiri</Part.Parts.4.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.DisplayName>Tibia kiri posterior</Part.Parts.4.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.0.DisplayName>Otot tulang kering kiri posterior</Part.Parts.4.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.1.DisplayName>Tulang cakar kiri posterior</Part.Parts.4.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>otot cakar punggung kiri</Part.Parts.4.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.DisplayName>kaki kanan belakang</Part.Parts.5.DisplayName>
+			<Part.Parts.5.Parts.0.DisplayName>kulit kaki kanan belakang</Part.Parts.5.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.DisplayName>Femur kanan posterior</Part.Parts.5.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.0.DisplayName>Otot paha kanan posterior</Part.Parts.5.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.DisplayName>Tibia kanan posterior</Part.Parts.5.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.0.DisplayName>Otot tibialis kanan posterior</Part.Parts.5.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.1.DisplayName>Tulang cakar kanan posterior</Part.Parts.5.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot cakar kanan posterior</Part.Parts.5.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.6.DisplayName>Seluruh tubuh</Part.Parts.6.DisplayName>
+			<Part.Parts.7.DisplayName>Titik fokus dari denyut Qi</Part.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.0.DisplayName>Titik berkumpulnya Kepala Qi</Part.Parts.7.Parts.0.DisplayName>
+			<Part.Parts.7.Parts.1.DisplayName>Titik berkumpulnya Qi Hati</Part.Parts.7.Parts.1.DisplayName>
+			<Part.Parts.7.Parts.2.DisplayName>Titik berkumpulnya perut bagian bawah.</Part.Parts.7.Parts.2.DisplayName>
+			<Part.Parts.7.Parts.3.DisplayName>meridian Nhan</Part.Parts.7.Parts.3.DisplayName>
+			<Part.Parts.7.Parts.4.DisplayName>meridian</Part.Parts.7.Parts.4.DisplayName>
+			<Part.Parts.7.Parts.5.DisplayName>minuman meridian</Part.Parts.7.Parts.5.DisplayName>
+			<Part.Parts.7.Parts.6.DisplayName>meridian Tai</Part.Parts.7.Parts.6.DisplayName>
+			<Part.Parts.7.Parts.7.DisplayName>meridian Yinwei</Part.Parts.7.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.8.DisplayName>meridian Yin Qiao</Part.Parts.7.Parts.8.DisplayName>
+			<Part.Parts.7.Parts.9.DisplayName>meridian Yang Wei</Part.Parts.7.Parts.9.DisplayName>
+			<Part.Parts.7.Parts.10.DisplayName>meridian Yang Qiao</Part.Parts.7.Parts.10.DisplayName>
+		</Text>
+	</List>
+</Texts>
