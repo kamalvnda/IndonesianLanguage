@@ -1,0 +1,74 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TerrainBase">
+			<DisplayName>Dasar-dasar Topografi</DisplayName>
+			<StoryDesc>Itu terjadi di jalan.</StoryDesc>
+		</Text>
+		<Text Name="Null">
+			<DisplayName>kosong</DisplayName>
+		</Text>
+		<Text Name="Soil">
+			<DisplayName>bumi</DisplayName>
+			<StoryDesc>Ini adalah area yang bisa dibudidayakan.</StoryDesc>
+		</Text>
+		<Text Name="Soil_Sand">
+			<DisplayName>pasir</DisplayName>
+			<StoryDesc>Itu adalah area yang dipenuhi pasir.</StoryDesc>
+		</Text>
+		<Text Name="Mud">
+			<DisplayName>lumpur</DisplayName>
+			<StoryDesc>Ini adalah daerah berlumpur.</StoryDesc>
+		</Text>
+		<Text Name="BlackB">
+			<DisplayName>kosong</DisplayName>
+			<StoryDesc>Itu kosong</StoryDesc>
+		</Text>
+		<Text Name="WetLand">
+			<DisplayName>lahan basah</DisplayName>
+			<StoryDesc>Ini adalah tanah basah.</StoryDesc>
+		</Text>
+		<Text Name="FertileSoil">
+			<DisplayName>Tanah yang sangat bagus</DisplayName>
+			<StoryDesc>Ini adalah area yang bisa dibudidayakan.</StoryDesc>
+		</Text>
+		<Text Name="StoneLand">
+			<DisplayName>tekstur batu</DisplayName>
+			<StoryDesc>Itu berada di permukaan berbatu yang kasar.</StoryDesc>
+		</Text>
+		<Text Name="SandLand">
+			<DisplayName>lantai pasir</DisplayName>
+			<StoryDesc>Itu berada di permukaan berbatu yang kasar.</StoryDesc>
+		</Text>
+		<Text Name="LingSoil">
+			<DisplayName>tanah roh</DisplayName>
+			<StoryDesc>Itu adalah tanah yang kaya akan Qi alami.</StoryDesc>
+		</Text>
+		<Text Name="DepthDepthWater">
+			<DisplayName>air yang dalam</DisplayName>
+		</Text>
+		<Text Name="DepthWater">
+			<DisplayName>air yang dalam</DisplayName>
+		</Text>
+		<Text Name="YunHai">
+			<DisplayName>lautan kabut</DisplayName>
+		</Text>
+		<Text Name="ShallowWater">
+			<DisplayName>perairan dangkal</DisplayName>
+			<StoryDesc>Ini adalah daerah yang tergenang air tetapi dangkal.</StoryDesc>
+		</Text>
+		<Text Name="BloodWater">
+			<DisplayName>genangan darah</DisplayName>
+			<StoryDesc>Ini adalah area yang sering terlihat. Setelah Pembantaian</StoryDesc>
+		</Text>
+		<Text Name="DepthBloodWater">
+			<DisplayName>genangan darah</DisplayName>
+		</Text>
+		<Text Name="LingWater">
+			<DisplayName>air roh</DisplayName>
+			<StoryDesc>Itu adalah permukaan air yang kaya akan Qi alami.</StoryDesc>
+		</Text>
+		<Text Name="Sand">
+			<DisplayName>pasir</DisplayName>
+		</Text>
+	</List>
+</Texts>
