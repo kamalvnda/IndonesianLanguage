@@ -1,0 +1,164 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Give1">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Ini hari yang baik, Perwakilan Biro.[NAME]Dia memimpin murid-muridnya ke jalan-jalan kota dan membagikan makanan kepada orang yang lewat.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give2">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Ini hari yang baik, Perwakilan Biro.[NAME]Dia memimpin murid-muridnya ke jalan-jalan kota dan membagikan sumbangan kepada orang yang lewat. Banyak pengemis datang meminta uang di kedua sisi jalan.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give3">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Ini hari yang baik, Perwakilan Biro.[NAME]Dia memimpin murid-muridnya ke jalan-jalan kota dan membagikan sumbangan kepada orang yang lewat. Belakangan, dia melihat jembatan batu itu runtuh dan orang tidak bisa lagi lewat di sini.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give4">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Ini hari yang baik, Perwakilan Biro.[NAME]Dia memimpin murid-muridnya ke jalan-jalan kota dan membagikan sumbangan kepada orang yang lewat. Dia melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give5">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia melihat dua pria berebut seorang wanita.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give6">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Mereka melihat dua pria raksasa sedang berkelahi. Seseorang yang lewat menjelaskan bahwa itu karena ada orang yang menanam pohon. Tetapi buah itu jatuh ke rumah orang lain, dan orang itu tidak mau memberikannya kepada pemilik pohon itu.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give7">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Bersiap untuk melakukan perbuatan baik Tiba-tiba, seorang wanita cantik masuk ke rumah perwakilan sekte.[NAME]Setelah itu, dia mulai menangis dan mengatakan bahwa anaknya hilang.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give8">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Bersiap untuk melakukan perbuatan baik Tiba-tiba seorang pria masuk dan bertanya kepada perwakilan sekte.[NAME]Bantu istrinya yang sekarat</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give9">
+			<DisplayName>acara khusus</DisplayName>
+			<Desc>Perwakilan biro[NAME]Bepergian ke tempat-tempat yang relatif terpencil untuk membabarkan Dhamma. Namun diserang oleh sekelompok pencuri.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give10">
+			<DisplayName>acara khusus</DisplayName>
+			<Desc>Perwakilan biro[NAME]Melewati dan bertemu murid-murid dari[SCHOOL0]dan melihat bahwa mereka memberi sedekah kepada orang yang lewat</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give11">
+			<DisplayName>acara khusus</DisplayName>
+			<Desc>Perwakilan biro[NAME]Melewati dan bertemu murid-murid dari[SCHOOL0]dan melihat bahwa mereka menyebarkan ajaran</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give12">
+			<DisplayName>acara khusus</DisplayName>
+			<Desc>Perwakilan biro[NAME]Melewati dan bertemu murid-murid dari[SCHOOL0]dan melihat bahwa mereka sedang bermeditasi</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give13">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia menemukan sebuah rumah kayu rusak dan pemiliknya cacat dan tidak dapat memperbaikinya sendiri.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give14">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia melihat seorang pria mengenakan pakaian asing memikat orang yang lewat.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give15">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia berjalan melewati dua toko minuman keras yang terletak berseberangan dan tampak sedang berdebat tentang bisnis.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give16">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia bertemu dengan sekelompok pengungsi.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give17">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia melihat seorang pria yang sakit parah dan sekarat di pinggir jalan. Pria itu memohon kepada perwakilan biro.[NAME]Selamatkan dia dari penderitaan.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give18">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Perwakilan biro[NAME]Dia memimpin murid-muridnya ke kota dan membagikan sumbangan kepada orang yang lewat. Dia tidak sengaja menyentuh seorang lelaki tua. Kemudian, lelaki tua itu berbaring dan berteriak, "Ah! Kakiku patah! Benda ini mematahkan rambutku!"</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon1">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]pergi ke kota dan bersiap untuk menyebarkan ajaran</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon2">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]Telah menyebarkan ajaran Tiba-tiba seorang laki-laki berteriak. "Apa yang kamu bicarakan?!"</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon3">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]Telah menyebarkan ajaran Kemudian, seorang lulusan datang berdebat dan mengatakan bahwa kantor perwakilan[NAME]Mengatakan itu salah... Itu semua bohong</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon4">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]Telah menyebarkan ajaran Dan ada seorang wanita paruh baya yang bertepuk tangan seperti orang gila. Tapi wanita itu sama sekali bukan muridnya.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret1">
+			<DisplayName>Buatlah rencana</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]Dia berjalan ke paviliun rahasia dan menyiapkan rencana.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret2">
+			<DisplayName>Buatlah rencana</DisplayName>
+			<Desc>Perwakilan biro[NAME]menemukan itu[SCHOOL0]sedang mempersiapkan untuk menarik penduduk desa untuk berpartisipasi dengan menyumbangkan barang-barang. Oleh karena itu, perwakilan[NAME]Jadi dia menyiapkan rencana untuk mencegahnya.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret3">
+			<DisplayName>Buatlah rencana</DisplayName>
+			<Desc>Perwakilan biro[NAME]menemukan itu[SCHOOL0]Bersiap untuk menyebarkan ajaran...sebuah rencana tiba-tiba muncul di benaknya.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret4">
+			<DisplayName>Buatlah rencana</DisplayName>
+			<Desc>Perwakilan biro[NAME]menemukan itu[SCHOOL0]Bersiap untuk menyelenggarakan acara besar yang menghasilkan prestasi Oleh karena itu, perwakilannya[NAME]Jadi aku memutuskan untuk merencanakan sesuatu....</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp1">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Hari ini adalah hari dengan cuaca bagus. Perwakilan biro[NAME]Dia masuk ke biara dan bersiap untuk melakukan upacara pelepasan keinginannya.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp2">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Perwakilan biro[NAME]Melihat masyarakatnya hidup mewah, ia memutuskan untuk mengadakan upacara untuk melepaskan diri dari hawa nafsu.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp3">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Perwakilan biro[NAME]Saya melihat orang-orang kaya hidup mewah. Sedangkan bagi masyarakat miskin, mereka mati di pinggir jalan tanpa ada yang memperhatikan. Oleh karena itu, diputuskan untuk mengadakan upacara untuk melepaskan diri dari hawa nafsu.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp4">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Perwakilan biro[NAME]Saya melihat rumah itu penuh dengan penjahat. Sedangkan bagi mereka yang berkuasa, mereka mengabaikannya. Beberapa mendukung mereka. Oleh karena itu, diputuskan untuk mengadakan upacara pelepasan kekotoran batin agar dapat menyampaikan khotbah kepada orang-orang di kota.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp5">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Perwakilan biro[NAME]Terlihat bahwa tentara, bukannya melindungi mereka, malah menganiaya penduduk desa dan penegak hukum menggunakan hukum dengan cara yang salah. Oleh karena itu, diputuskan untuk mengadakan upacara pencemaran nama baik.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_God1">
+			<DisplayName>keajaiban</DisplayName>
+			<Desc>Perwakilan biro[NAME]Memutuskan bahwa hari ini adalah hari yang baik untuk membiarkan para murid menyaksikan keajaiban para penggarap Jalan Ilahi.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
