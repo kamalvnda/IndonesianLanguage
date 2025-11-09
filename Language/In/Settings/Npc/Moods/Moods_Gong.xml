@@ -1,0 +1,154 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeck1">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Akhirnya, tiba waktunya untuk menerobos batas menuju alam yang lebih tinggi.</Desc>
+			<StoryDesc>Rasakan keseruannya saat hendak menerobos batas menuju batas selanjutnya.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck2">
+			<DisplayName>Gagal menembus batas</DisplayName>
+			<Desc>Mempraktikkan asketisme jauh lebih sulit dari yang saya kira...</Desc>
+			<StoryDesc>Rasanya gagal menembus batasan memang membuat masyarakat patah semangat.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck3">
+			<DisplayName>Situasi kemacetan...</DisplayName>
+			<Desc>Aku sudah terjebak di dunia ini begitu lama sehingga aku merasa putus asa...</Desc>
+			<StoryDesc>Rasanya berada dalam kondisi kemacetan dalam waktu yang lama membuat orang merasa putus asa dan putus asa.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck4">
+			<DisplayName>Berhasil menembus batas.</DisplayName>
+			<Desc>Kerja kerasku akhirnya membuahkan hasil yang memuaskan!</Desc>
+			<StoryDesc>Merasa berhasil mengatasi rintangan yang sulit membuat semangat terasa gembira.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck5">
+			<DisplayName>Kondisi kemacetan</DisplayName>
+			<Desc>Aku sudah terjebak di dunia ini begitu lama sehingga aku merasa putus asa...</Desc>
+			<StoryDesc>Rasanya terlalu lama berada dalam kemacetan membuat orang merasa putus asa.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster1">
+			<DisplayName>Hukuman surga sudah dekat</DisplayName>
+			<Desc>Dia bisa merasakan hukuman surgawi mendekat.</Desc>
+			<StoryDesc>Saya merasa cukup sulit untuk menjaga pikiran saya tetap tenang dalam situasi seperti ini.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster2">
+			<DisplayName>Melewati hukuman surga!</DisplayName>
+			<Desc>Ini akhirnya berakhir. Oh, ini hampir berakhir.</Desc>
+			<StoryDesc>Rasanya dunia kembali cerah setelah melalui begitu banyak hukuman surgawi!</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster3">
+			<DisplayName>Basis budidaya hancur.</DisplayName>
+			<Desc>Hukuman dari hukuman surga sungguh kejam.. Sepertinya saya sudah kehabisan cara untuk maju di jalur kultivasi.</Desc>
+			<StoryDesc>Merasa kegagalan menghadapi azab surga membuat seseorang tahu seperti mati hidup-hidup.</StoryDesc>
+		</Text>
+		<Text Name="Dan1">
+			<DisplayName>dekat dengan tuan</DisplayName>
+			<Desc>Jalan untuk menjadi master abadi ada dalam jangkauan Anda!</Desc>
+			<StoryDesc>Dia merasakan gerbang tuan abadi mendekat.</StoryDesc>
+		</Text>
+		<Text Name="Dan2">
+			<DisplayName>Melangkah untuk menjadi master abadi</DisplayName>
+			<Desc>Membentuk Inti Emas adalah langkah pertama untuk menjadi Orang Suci Abadi sejati.</Desc>
+			<StoryDesc>Inti emas di dalam tubuhnya dirasakan membuatnya lebih mampu merasakan dan menyerap Qi langit dan bumi.</StoryDesc>
+		</Text>
+		<Text Name="Dan3">
+			<DisplayName>Inti Emas Kelas Tinggi</DisplayName>
+			<Desc>Saya bisa membuat esensi emas bermutu tinggi?! Sungguh menyenangkan!</Desc>
+			<StoryDesc>Merasa bangga dengan pencapaian luar biasa ini.</StoryDesc>
+		</Text>
+		<Text Name="Dan4">
+			<DisplayName>Inti Emas Menengah</DisplayName>
+			<Desc>Inti emas kelas menengah cukup sulit dibuat.</Desc>
+			<StoryDesc>Rasanya kesuksesan seperti itu benar-benar membuat orang merasa berprestasi.</StoryDesc>
+		</Text>
+		<Text Name="StageUp">
+			<DisplayName>Naikkan level dasar pengawetan</DisplayName>
+			<Desc>Berlatih meditasi dalam jangka waktu lama pada akhirnya membawa manfaat yang bermanfaat.</Desc>
+			<StoryDesc>Saya merasa kemajuan ini sangat memuaskan.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind1">
+			<DisplayName>Ketakutan</DisplayName>
+			<Desc>I-Ini terlalu bajingan. K-Kenapa aku tidak bisa melakukannya!</Desc>
+			<StoryDesc>Merasa bahwa keadaan pikiran yang tertekan menyebabkan pikiran menyimpang</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind2">
+			<DisplayName>keadaan mental yang tidak stabil</DisplayName>
+			<Desc>Saya merasa terganggu dan tidak bisa menenangkan diri...</Desc>
+			<StoryDesc>Merasa kondisi mental Anda tidak stabil membuat Anda merasa gugup.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind3">
+			<DisplayName>Pikiran terkonsentrasi.</DisplayName>
+			<Desc>Segala sesuatu tidak kekal. Itu tidak baik atau buruk.</Desc>
+			<StoryDesc>Saya merasa pikiran saya mantap dan tidak goyah.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind4">
+			<DisplayName>Ketenangan pikiran</DisplayName>
+			<Desc>Pikiran itu seperti bulan yang memantulkan cahaya matahari. Berpikir itu seperti arus pasang surut.</Desc>
+			<StoryDesc>Merasa pikiran tenang dan stabil</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind5">
+			<DisplayName>Pikiran itu bebas.</DisplayName>
+			<Desc>Pikiranku adalah cerminan diriku sendiri.</Desc>
+			<StoryDesc>Saya merasa saat ini saya bisa melepaskan diri saya sendiri. Semuanya sia-sia.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind6">
+			<DisplayName>Pikiran yang cerdas</DisplayName>
+			<Desc>Pikiranku stabil seperti batu. Lembut bagaikan air pasang. Luasnya bagaikan langit</Desc>
+			<StoryDesc>Rasakan keadaan jenius yang murni</StoryDesc>
+		</Text>
+		<Text Name="TravelExperience">
+			<DisplayName>Ingin keluar dan menjelajahi dunia</DisplayName>
+			<Desc>Sudah lama sekali aku tidak melakukan petualangan. Sekarang saya ingin keluar dan mendapatkan pengalaman baru.</Desc>
+			<StoryDesc>Merasa terjebak di suatu tempat Terlalu banyak waktu sendirian membuat seseorang merasa rindu akan petualangan.</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged1">
+			<DisplayName>Duduk dan berlatih keras.</DisplayName>
+			<Desc>Jika ada tempat yang lebih baik di mana saya bisa berlatih, itu akan sangat bagus...</Desc>
+			<StoryDesc>Rasanya meditasi di lantai menimbulkan gangguan.</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged2">
+			<DisplayName>Duduk dan berlatih dengan nyaman.</DisplayName>
+			<Desc>Sekarang saya merasa bisa berkultivasi dan mendapatkan hasil dua kali lipat dengan setengah usaha!</Desc>
+			<StoryDesc>Latihan yang membahagiakan dirasa membuat pikiran terasa rileks.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing1">
+			<DisplayName>Qi padat</DisplayName>
+			<Desc>Tempat ini memiliki Qi yang padat dan sangat cocok untuk budidaya.</Desc>
+			<StoryDesc>Rasanya kultivasinya lancar dengan Qi alami yang begitu padat.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing2">
+			<DisplayName>nafas umum</DisplayName>
+			<Desc>Tempat ini memiliki Qi yang cukup untuk berlatih asketisme.</Desc>
+			<StoryDesc>Ia merasa budidayanya harus berjalan dengan baik karena Qi alami di tempat ini sudah mencukupi.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing3">
+			<DisplayName>Nafas ringan</DisplayName>
+			<Desc>Tempat ini tidak memiliki banyak qi alami dan terkadang saya harus menanggungnya.</Desc>
+			<StoryDesc>Dirasa bahwa tempat dengan Qi alami yang jarang tidak cocok untuk budidaya.</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing4">
+			<DisplayName>Nafasnya mengering.</DisplayName>
+			<Desc>Tempat ini sama sekali tidak cocok untuk bercocok tanam. Hampir tidak ada Qi alami yang tersisa.</Desc>
+			<StoryDesc>Rasanya mencoba berlatih kultivasi di tempat yang Qi sangat kering adalah hal yang bodoh.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement1">
+			<DisplayName>Kelima elemen tersebut saling mendukung dengan sempurna.</DisplayName>
+			<Desc>Kelima elemen tersebut saling melengkapi secara sempurna dengan elemen saya. Tempat ini sangat cocok untuk mengolah Qi.</Desc>
+			<StoryDesc>Rasanya lima elemen yang saling menopang dengan sempurna membuatnya terasa seperti ikan yang mendapatkan air.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement2">
+			<DisplayName>Kelima elemen tersebut saling mendukung.</DisplayName>
+			<Desc>Kelima elemen tersebut saling mendukung. Tempat ini bukanlah tempat yang buruk untuk mengolah Qi.</Desc>
+			<StoryDesc>Dirasakan bahwa budidaya berjalan lancar karena lima elemen saling melengkapi satu sama lain.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement3">
+			<DisplayName>Kelima elemen berada dalam kekacauan.</DisplayName>
+			<Desc>Kelima elemen berada dalam kekacauan. Itu bukanlah tempat yang baik untuk mengolah Qi.</Desc>
+			<StoryDesc>Rasanya seperti mencoba berkultivasi di tempat di mana lima elemen berada dalam kekacauan akan membuat orang merasa gelisah.</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement4">
+			<DisplayName>Kelima elemen tersebut saling bertentangan.</DisplayName>
+			<Desc>Saya tidak bisa tinggal lama di sini. Kelima elemen tersebut saling menekan dan itu sangat mempengaruhi elemen saya.</Desc>
+			<StoryDesc>Dirasakan bahwa lima elemen yang saling bertentangan akan sangat merugikan kultivasi seseorang.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
