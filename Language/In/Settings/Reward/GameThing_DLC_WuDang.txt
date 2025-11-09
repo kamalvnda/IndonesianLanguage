@@ -1,0 +1,3 @@
+ID	FabaoName	FabaoDes
+
+125	Perfected Warrior Sword	Pedang Prajurit Sempurna	Juga dikenal sebagai Exorcist Prime, pedang berharga ini digunakan oleh Prajurit Sempurna untuk mengusir segala bentuk kejahatan. Panjangnya sekitar 3 inci, pedang ini ditempa ulang dari batu giok dengan kekuatan sejati pengusiran roh jahat; karena itu, pedang ini memancarkan cahaya ungu yang megah. Saat dihunus, pedang ini berubah menjadi kilatan petir ungu sepanjang satu inci yang menghancurkan apa pun yang disentuhnya.
