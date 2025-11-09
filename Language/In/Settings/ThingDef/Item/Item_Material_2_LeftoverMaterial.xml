@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>Potong dengan rapi sisa bahan yang akan digunakan sebagai lantai atau atap.</Desc>
+			<Item.FabaoSuffix>paku, anak panah, besi tua</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>memotong papan kayu</ThingName>
+			<Desc>Papan kayu tersebut terbagi rapi menjadi beberapa bagian. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>potong daun emas</ThingName>
+			<Desc>Lempengan emas itu terbagi secara rumit. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu emas</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>Potongan papan kayu Fire Swan</ThingName>
+			<Desc>Kayu phoen yang menyala dipotong menjadi beberapa bagian yang rumit. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Kayu angsa</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>Potong Kayu Roh</ThingName>
+			<Desc>Kayu roh dipotong menjadi beberapa bagian yang rumit. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu roh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>lempengan batu berwarna coklat</ThingName>
+			<Desc>Lempengan batu berwarna coklat yang dipotong rapi. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>lempengan batu abu-abu</ThingName>
+			<Desc>Lempengan batu abu-abu itu dipotong rapi menjadi beberapa bagian. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>potong lempengan marmer</ThingName>
+			<Desc>Lembaran marmer yang dipotong halus Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>marmer</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>potong lempengan batu giok</ThingName>
+			<Desc>Lempengan batu giok yang dipotong halus. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>giok</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>Potongan Lempengan Batu Suci</ThingName>
+			<Desc>Lempengan batu suci dipotong menjadi beberapa bagian yang rumit. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>batu suci</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>Potong Batu Tulis Roh</ThingName>
+			<Desc>Lempengan batu roh telah dipotong halus. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>batu roh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>Potongan Cakram Kristal Jiwa</ThingName>
+			<Desc>Lempengan kristal jiwa yang telah dipotong menjadi beberapa bagian yang rumit. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Kristal Roh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>pemotongan pelat baja</ThingName>
+			<Desc>Pelat baja yang terbagi rapi Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>besi</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>pemotongan lembaran tembaga api</ThingName>
+			<Desc>Pelat tembaga api yang dibelah halus. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Tembaga Api</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>potong lembaran kristal es</ThingName>
+			<Desc>Lembaran kristal es yang terbagi halus. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>kristal es</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>Memotong lembaran baja Nilkan</ThingName>
+			<Desc>Pelat baja Nilkantha yang terbagi rapi menjadi beberapa bagian. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Baja Nilkan</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>Potong Lembar Bijih Cahaya Bintang</ThingName>
+			<Desc>Lempengan bijih cahaya bintang yang terbagi rapi. Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Bijih Cahaya Bintang</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
