@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_WaitLeave">
+			<DisplayName>Keluar dari hitungan mundur.</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpringBox">
+			<DisplayName>peti harta karun musim semi</DisplayName>
+		</Text>
+	</List>
+</Texts>
