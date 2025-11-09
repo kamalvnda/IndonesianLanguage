@@ -1,0 +1,25 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LookAtSky">
+      <Desc>Bingung/Menatap langit/matahari/bulan</Desc>
+    </Text>
+    <Text Name="Dance">
+      <Desc>Tarian</Desc>
+    </Text>
+    <Text Name="Music">
+      <Desc>Bermain musik</Desc>
+    </Text>
+    <Text Name="PlayBird">
+      <Desc>Bermain dengan seekor burung</Desc>
+    </Text>
+    <Text Name="Calligraphy">
+      <Desc>Menulis</Desc>
+    </Text>
+    <Text Name="PlayChess">
+      <Desc>Bermain Catur</Desc>
+    </Text>
+    <Text Name="PlayTicTacToe">
+      <Desc>Memainkan TicTacToe</Desc>
+    </Text>
+  </List>
+</Texts>
