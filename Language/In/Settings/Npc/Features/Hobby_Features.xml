@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Reader">
+			<DisplayName>Cerdas</DisplayName>
+			<Desc>Orang ini berpendidikan tinggi dan mampu memahami materi yang sulit. dengan mudah</Desc>
+		</Text>
+		<Text Name="Craftsman">
+			<DisplayName>tukang</DisplayName>
+			<Desc>Orang ini sangat ahli dalam keahliannya.[IT]Dapat membuat atau menciptakan berbagai peralatan. Cepat dan pekerjaannya selesai dengan baik.</Desc>
+		</Text>
+		<Text Name="CraftsmanEX">
+			<DisplayName>Penggemar Gunpla</DisplayName>
+			<Desc>Orang ini adalah orang yang terobsesi dengan model Gunpla. Hal ini menyebabkan orang tersebut memiliki keterampilan kerajinan tangan yang halus. Hasilnya, Anda dapat membuat atau menciptakan berbagai perangkat. Cepat dan pekerjaannya selesai dengan baik.</Desc>
+		</Text>
+		<Text Name="Artist">
+			<DisplayName>Artis jenius</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat emosional.[IT]Memiliki imajinasi yang luar biasa dan tak terduga.</Desc>
+		</Text>
+		<Text Name="Warrior">
+			<DisplayName>prajurit</DisplayName>
+			<Desc>Orang ini pada dasarnya adalah seorang pejuang.[IT]Mampu menoleransi rasa sakit dengan sangat baik dan mampu tetap tenang dalam situasi apapun.</Desc>
+		</Text>
+		<Text Name="DeepPotential">
+			<DisplayName>hadiah</DisplayName>
+			<Desc>Orang ini terlahir dengan Qi Root yang luar biasa. Hal ini memungkinkan dia untuk mengolah Qi lebih mudah dan cepat dibandingkan orang lain.</Desc>
+		</Text>
+	</List>
+</Texts>
