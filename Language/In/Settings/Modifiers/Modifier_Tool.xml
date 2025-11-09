@@ -1,0 +1,91 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SysTool_Fun1">
+      <DisplayName>dadu</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun2">
+      <DisplayName>bel</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun3">
+      <DisplayName>gelang</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun4">
+      <DisplayName>sapu tangan</DisplayName>
+    </Text>
+    <Text Name="SysTool_Fun5">
+      <DisplayName>bungkusan</DisplayName>
+    </Text>
+    <Text Name="SysTool_Axe">
+      <DisplayName>Kapak</DisplayName>
+    </Text>
+    <Text Name="SysTool_Pickaxe">
+      <DisplayName>Beliung</DisplayName>
+    </Text>
+    <Text Name="SysTool_Sickle">
+      <DisplayName>Bagaimana</DisplayName>
+    </Text>
+    <Text Name="SysTool_Acupuncture">
+      <DisplayName>Jarum</DisplayName>
+    </Text>
+    <Text Name="SysTool_Umbrella">
+      <DisplayName>Payung</DisplayName>
+    </Text>
+    <Text Name="SysTool_LunHui1">
+      <DisplayName>dunia yang indah</DisplayName>
+    </Text>
+    <Text Name="SysTool_LunHui_QiYuan1">
+      <DisplayName>Hati yang berdoa</DisplayName>
+      <Desc>Dengan hati yang berdoa, orang-orang di sekitar Anda akan merasa damai dan bahagia.</Desc>
+    </Text>
+    <Text Name="SysTool_LunHui_QiYuan2">
+      <DisplayName>Kekuatan doa</DisplayName>
+    </Text>
+    <Text Name="SysTool_SP_BaiYuShi">
+      <DisplayName>Shiratamaishi</DisplayName>
+      <Desc>Di bawah pengaruh batu giok putih, kekuatan pemulihannya menjadi dua kali lipat.</Desc>
+    </Text>
+    <Text Name="SysTool_QingLianShan_SiXiang">
+      <DisplayName>Tutupi langit</DisplayName>
+      <Desc>Dengan menutupi rahasia surgawi, Anda tidak akan diganggu oleh musibah surgawi selama sembilan tahun.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Yao_WolfAtk">
+      <DisplayName>Taring serigala iblis</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_RabbitLuck">
+      <DisplayName>Kaki kelinci setan</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_SnakeHanLin">
+      <DisplayName>Sisik dingin ular iblis</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_BearPiMao">
+      <DisplayName>Rambut leher beruang setan</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Yao_TurtleKe">
+      <DisplayName>cangkang kura-kura raksasa</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_DragonScale">
+      <DisplayName>skala naga</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_HuoYu">
+      <DisplayName>Feng Yu</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_TouYu">
+      <DisplayName>bulu jambul</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossLong_Jiao">
+      <DisplayName>longtianjiao</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_TianLin">
+      <DisplayName>Skala Langit Naga Lilin</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_LongYu">
+      <DisplayName>Giok Naga Kekacauan</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossLong_NiLin">
+      <DisplayName>skala terbalik naga</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_BossFeng_HongYu">
+      <DisplayName>Phoenix Yan Giok</DisplayName>
+    </Text>
+  </List>
+</Texts>
