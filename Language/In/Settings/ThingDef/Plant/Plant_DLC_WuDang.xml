@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="DLC_Plant_HuangJing" sParam="Plant">
+			<ThingName>inti tanah</ThingName>
+			<Desc>Tumbuhan yang tumbuh di Gunung Wutung ini menyukai tempat yang teduh dan lembab. Penting untuk menanamnya di tanah yang subur.</Desc>
+		</Text>
+	</List>
+</Texts>
