@@ -1,0 +1,76 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LingShouShitPlace" sParam="Building">
+			<ThingName>Titik ekskresi</ThingName>
+			<Desc>Tempat yang ditunjuk bagi makhluk roh untuk buang air besar secara resmi.</Desc>
+		</Text>
+		<Text Name="LSEnemyCarryPlace" sParam="Building">
+			<ThingName>tempat peristirahatan musuh</ThingName>
+			<Desc>Makhluk roh dapat mengangkut musuh yang tidak sadarkan diri ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSWaiCarryPlace" sParam="Building">
+			<ThingName>Titik peristirahatan bagi murid luar</ThingName>
+			<Desc>Binatang Iblis Spiritual mampu memindahkan murid luar yang tidak sadarkan diri ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSNeiCarryPlace" sParam="Building">
+			<ThingName>Titik peristirahatan bagi tubuh murid batin</ThingName>
+			<Desc>Binatang Iblis Spiritual dapat memindahkan murid-murid batin yang tidak sadarkan diri ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSVistorCarryPlace" sParam="Building">
+			<ThingName>Tempat istirahat bagi pengunjung</ThingName>
+			<Desc>Makhluk roh dapat mengangkut pengunjung yang tidak sadarkan diri ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSIncomingCarryPlace" sParam="Building">
+			<ThingName>Tempat istirahat bagi para tamu</ThingName>
+			<Desc>Makhluk roh dapat mengangkut tamu yang tidak sadarkan diri ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
+			<ThingName>Tempat pengumpulan mayat musuh</ThingName>
+			<Desc>Makhluk roh dapat mengangkut mayat musuh ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
+			<ThingName>Lokasi jenazah siswa luar</ThingName>
+			<Desc>Spiritual Demonic Beast mampu mengangkut mayat murid-murid Sekte Luar ke area ini dengan menyeret tubuh mereka ke dalam. Sosok yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
+			<ThingName>Tempat dimana tubuh murid batin disimpan</ThingName>
+			<Desc>Binatang Iblis Spiritual dapat memindahkan mayat murid-murid dalam ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
+			<ThingName>Kuburan pengunjung</ThingName>
+			<Desc>Makhluk roh dapat mengangkut mayat pengunjung ke area ini dengan menyeret tubuhnya. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
+			<ThingName>Tempat menyimpan jenazah para tamu</ThingName>
+			<Desc>Makhluk roh dapat mengangkut mayat tamu ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
+			<ThingName>Mayat rakyat jelata</ThingName>
+			<Desc>Makhluk spiritual dapat mengangkut mayat manusia biasa ke area ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. dan titik yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
+		</Text>
+		<Text Name="LSMortalCarryPlace" sParam="Building">
+			<ThingName>Tempat peristirahatan bagi orang-orang biasa</ThingName>
+			<Desc>Binatang Iblis Spiritual mampu mengangkut mayat orang-orang biasa yang pingsan ke daerah ini dengan menyeret tubuh mereka. Angka yang diseret dan ditempatkan tidak akan tumpang tindih. Dan titik yang paling dekat dengan pet akan dipilih.</Desc>
+		</Text>
+		<Text Name="LsDogHouse" sParam="Building">
+			<ThingName>Tempat Tidur Roh Setan</ThingName>
+			<Desc>Tempat tidur binatang roh</Desc>
+		</Text>
+		<Text Name="LsDog_Carve" sParam="Building">
+			<ThingName>Patung Anjing Surgawi</ThingName>
+			<Desc>Patung Anjing Surgawi Dapat digunakan untuk menghidupkan kembali atau memanggil anjing surgawi.</Desc>
+		</Text>
+		<Text Name="LsFox_Carve" sParam="Building">
+			<ThingName>Patung Roh Rubah</ThingName>
+			<Desc>Patung roh rubah Dapat digunakan untuk menghidupkan kembali atau memanggil roh rubah.</Desc>
+		</Text>
+		<Text Name="LsDragon_Carve" sParam="Building">
+			<ThingName>Patung Naga Biru</ThingName>
+			<Desc>Patung Naga Langit Dapat digunakan untuk menghidupkan kembali atau memanggil Naga Air.</Desc>
+		</Text>
+		<Text Name="LsPhoenix_Carve" sParam="Building">
+			<ThingName>Patung angsa Nilkan</ThingName>
+			<Desc>Patung Angsa Nilkan Dapat digunakan untuk menghidupkan kembali atau memanggil burung phoenix yang menyala.</Desc>
+		</Text>
+	</List>
+</Texts>
