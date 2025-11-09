@@ -1,0 +1,153 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOASBUILDING" sParam="Building">
+			<ThingName>bangunan yang hilang</ThingName>
+			<Desc>Bangunan yang hilang dan tidak dapat dikenali\n(kosong)</Desc>
+		</Text>
+		<Text Name="FillSoil" sParam="Building">
+			<ThingName>bumi</ThingName>
+			<Desc>Buatlah lahan baru. Pekerjaan seperti itu membutuhkan waktu yang sangat lama.</Desc>
+		</Text>
+		<Text Name="FillFertileSoil" sParam="Building">
+			<ThingName>Tanah yang sangat bagus</ThingName>
+			<Desc>Membuat lahan baru menjadi tanah yang bagus. Pekerjaan seperti itu membutuhkan waktu yang sangat lama.</Desc>
+		</Text>
+		<Text Name="FillShallowWater" sParam="Building">
+			<ThingName>perairan dangkal</ThingName>
+			<Desc>Membuat area baru menjadi perairan dangkal. Pekerjaan seperti itu membutuhkan waktu yang sangat lama.</Desc>
+		</Text>
+		<Text Name="NPCBornPoint_SchoolCore" sParam="Building">
+			<ThingName>Poin kemunculan NPC utama</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Ordinary" sParam="Building">
+			<ThingName>Tempat lahirnya orang-orang biasa</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Random" sParam="Building">
+			<ThingName>Kultivator Umum</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Fill" sParam="Building">
+			<ThingName>Penggarap Pengisi</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_JYMonster" sParam="Building">
+			<ThingName>Tempat kelahiran binatang itu</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Animal" sParam="Building">
+			<ThingName>Tempat lahirnya hewan liar</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Gong" sParam="Building">
+			<ThingName>Tempat lahirnya teknik budidaya</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_RPG" sParam="Building">
+			<ThingName>Tempat lahirnya karakter</ThingName>
+		</Text>
+		<Text Name="NormalPoint_RPG" sParam="Building">
+			<ThingName>Poin logis</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Outs" sParam="Building">
+			<ThingName>Perpanjang pondasi bangunan</ThingName>
+			<StoryBnts.0.Name>Ekspor konten bangunan</StoryBnts.0.Name>
+		</Text>
+		<Text Name="FillBuild_Hide" sParam="Building">
+			<Desc>Bangunan tersembunyi digunakan untuk memulihkan permukaan dunia.</Desc>
+		</Text>
+		<Text Name="FillBuild_Empty" sParam="Building">
+			<Desc>Bangunan tersembunyi untuk penempatan</Desc>
+		</Text>
+		<Text Name="HideBuild_Empty" sParam="Building">
+			<Desc>Bangunan tersembunyi untuk penempatannya Tidak ada arti lain.</Desc>
+		</Text>
+		<Text Name="Building_SwordTower" sParam="Building">
+			<ThingName>Pedang Penjaga</ThingName>
+			<Desc>menara bawah tanah yang besar Sepertinya digunakan untuk menekan sesuatu.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HenZhiBei" sParam="Building">
+			<ThingName>Batu Kebencian</ThingName>
+			<Desc>Prasasti batu bertuliskan "Batu Kebencian" ditempatkan di atasnya. Siapa yang dia benci?</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LongZhiBei" sParam="Building">
+			<ThingName>batu prasasti naga</ThingName>
+			<Desc>Prasasti batu dengan tulisan "Nisan Naga" memiliki bau yang kuat. Mungkinkah seekor naga dikuburkan di sini?</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShouZhiBei" sParam="Building">
+			<ThingName>Batu Prasasti Setan</ThingName>
+			<Desc>Prasasti batu dengan tulisan "Batu Prasasti Setan" ditempatkan di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JiZhiBei" sParam="Building">
+			<ThingName>Batu Keangkeran</ThingName>
+			<Desc>Prasasti batu dengan tulisan “Batu Keangkeran” ditempatkan di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HuanZhiBei" sParam="Building">
+			<ThingName>Batu Ilusi</ThingName>
+			<Desc>Sebuah batu prasasti dengan tulisan "Batu Ilusi" terukir di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhongBei" sParam="Building">
+			<ThingName>Batu Akhir</ThingName>
+			<Desc>Prasasti batu dengan tulisan "Batu Akhir" ditempatkan di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LingBei" sParam="Building">
+			<ThingName>Batu Roh</ThingName>
+			<Desc>Prasasti batu dengan tulisan "Batu Roh" ditempatkan di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XingBei" sParam="Building">
+			<ThingName>batu bintang</ThingName>
+			<Desc>Prasasti batu dengan tulisan "Batu Bintang" ditempatkan di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_MuBei" sParam="Building">
+			<ThingName>Pohon Sila</ThingName>
+			<Desc>Sebuah batu prasasti dengan tulisan "Batu Buah" terukir di atasnya.</Desc>
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiMen" sParam="Building">
+			<ThingName>Gerbang Taiyi</ThingName>
+			<Desc>Pintu depan Sekte Tai Yi</Desc>
+			<StoryBnts.0.Name>ke dalam</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Masuki sekte Tai Yi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="StreetNoLight" sParam="Building">
+			<ThingName>tiang lampu</ThingName>
+			<Desc>Lampu hias yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>meneliti</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="FireLantern" sParam="Building">
+			<ThingName>lampu</ThingName>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>meneliti</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="GolemLantern" sParam="Building">
+			<ThingName>tiang lampu</ThingName>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>meneliti</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="OddLantern" sParam="Building">
+			<ThingName>lampu</ThingName>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>meneliti</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiTower" sParam="Building">
+			<ThingName>Pagoda Burapha</ThingName>
+			<Desc>Pagoda berharga sekte yang selamat dari bencana tersebut.</Desc>
+			<StoryBnts.0.Name>mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba menemukan harta karun di dalamnya</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
