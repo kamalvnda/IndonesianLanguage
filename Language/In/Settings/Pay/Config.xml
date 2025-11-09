@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="CosmeticPack_XiaoWuJian">
+			<Display>Paket Penampilan Furnitur Iblis</Display>
+		</Text>
+		<Text Name="CosmeticPack_Building">
+			<Display>Paket Penampilan Figur Besar</Display>
+		</Text>
+		<Text Name="CosmeticPack_Others">
+			<Display>Paket Kulit Kontrak Kapal/Hewan Peliharaan/Roh</Display>
+		</Text>
+	</List>
+</Texts>
