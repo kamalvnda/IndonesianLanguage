@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>Periksa Kitab Suci</DisplayName>
+			<Desc>[NAME]Pelajarilah tulisan suci dengan cermat.</Desc>
+			<Selections.0.Display>membaca</Selections.0.Display>
+			<Selections.1.Display>Gunakan segel kuno untuk membuka segelnya.</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>periksa bukunya</DisplayName>
+			<Desc>[NAME]Lakukan resensi buku</Desc>
+			<Selections.0.Display>membaca</Selections.0.Display>
+			<Selections.1.Display>Gunakan Segel Kosmik untuk membuka segelnya.</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>Periksa pecahannya</DisplayName>
+			<Desc>[NAME]Cobalah untuk memeriksa sisa-sisa Kotak Kitab Suci Emas.</Desc>
+			<Selections.0.Display>Examine</Selections.0.Display>
+			<Selections.1.Display>Gunakan Segel Primordial untuk membuka segelnya.</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
