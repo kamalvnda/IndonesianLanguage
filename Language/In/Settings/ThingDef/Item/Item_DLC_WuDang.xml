@@ -1,0 +1,77 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WuDang_HuangJing" sParam="Item">
+			<ThingName>inti tanah</ThingName>
+			<Desc>Salah satu jenis jamu yang memiliki rasa manis dan menyegarkan. Mengonsumsinya tidak hanya mengurangi rasa lapar tetapi juga mengisi kembali tubuh dengan nutrisi. Nilainya dapat dibandingkan dengan lingzhi ungu. Disebut ramuan ini sebagai inti tanah karena menyerap unsur hara dan mineral penting dari dalam tanah.</Desc>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
+			<ThingName>bubuk inti tanah liat</ThingName>
+			<Desc>Bubuk ekstra hasil penggilingan inti tanah liat yang halus Walaupun mempunyai efek yang kecil Namun sering digunakan sebagai bahan pembuatan obat.</Desc>
+			<Item.FabaoSuffix>pasir, kristal, debu, bubuk, aura</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponFuChen" sParam="Item">
+			<ThingName>Cambuk membalik awan</ThingName>
+			<Desc>Cambuk kuda yang sering digunakan oleh para biksu Tao.</Desc>
+			<Item.FabaoSuffix>lembut, sikat</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponDaoSword" sParam="Item">
+			<ThingName>Pedang Tao</ThingName>
+			<Desc>Pedang yang cocok dengan Qi langit dan bumi. Ini sering digunakan oleh para biksu Tao.</Desc>
+			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
+			<ThingName>Lempeng Awan Suci</ThingName>
+			<Desc>Liontin itu diukir dengan nama suci Kaisar Dewa Perang. Orang yang memakainya akan menerima berkah Kaisar, meningkatkan kondisi mentalnya dan meningkatkan keberuntungannya.</Desc>
+			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
+			<ThingName>obat-obatan, bukan pernapasan</ThingName>
+			<Desc>Obat rahasia yang digunakan untuk menggantikan makanan Gunung Wutung. Jika dibandingkan dengan Pengobatan Imthip Obat yang digunakan sebagai pengganti qi akan mempunyai efek yang relatif lebih lama (efek obat akan bertahan selama 30 hari).</Desc>
+		</Text>
+		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
+			<ThingName>Tiga pil inti</ThingName>
+			<Desc>Obat ajaib rahasia Gunung Wutung Dapat digunakan untuk meningkatkan jumlah Qi secara maksimal. Meskipun itu tidak berguna bagi petani tingkat lanjut. Namun, itu sangat berguna bagi para pembudidaya baru. Namun efeknya akan sangat berkurang jika digunakan berulang kali.</Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
+			<ThingName>Pedang Dewa Perang</ThingName>
+			<Desc>Pedang Kaisar Jin Wu, juga dikenal sebagai Kaisar Dewa Perang. Pedang ini adalah pedang yang dia gunakan untuk memusnahkan iblis. Pedang itu panjangnya dua kaki tujuh inci. Pedang itu ditempa dari batu giok ajaib yang mengalirkan Qi Langit dan Bumi melaluinya. Oleh karena itu, bilah pedang bersinar terang dengan Qi langit dan bumi. Saat pedang dicabut dari sarungnya, pedang itu berubah menjadi petir yang dapat menghancurkan apapun yang bersentuhan dengannya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh Iblis Ular Roh Primordial sambil membawa pedang ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Bunuh Iblis Serigala Roh Primordial sambil membawa pedang ini.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Bunuh 1 Iblis Beruang Roh Primordial sambil membawa pedang ini.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Bunuh Iblis Penyu Roh Primordial sambil membawa pedang ini.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Bunuh 1 Primordial Spirit Wild Boar sambil membawa pedang ini.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 3x kerusakan saat digunakan melawan ras non-manusia.</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>Menimbulkan kerusakan 3x saat dipakai oleh umat manusia.</Item.Fabao.SpecialAbility.1.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
+			<ThingName>Staf Radius Awan Ungu</ThingName>
+			<Desc>Senjata Ajaib Misterius Sekte Wutung Diukir dari batu suci. Tubuhnya memiliki karakter kuno yang diukir dengan Tujuh Nafas Surga dan Tujuh Nafas Bintang. Setelah itu, dia dikenakan hukuman surgawi selama 7 hari 7 malam ketika dia menerima senjata tersebut. Pengguna dapat melihat karma semua makhluk hidup. Itu juga bisa digunakan untuk mempercepat datangnya Hukuman Surgawi pada musuh.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Lolos dari hukuman ahli sebanyak 7 kali sambil membawa senjata ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Kekuatan serangannya didasarkan pada perbedaan jumlah biji dadu antara kedua belah pihak. Setiap benih dio yang berjarak 1 benih akan meningkatkan kekuatan serangannya sebesar 1%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Fish_SkySnake" sParam="Item">
+			<ThingName>belut awan</ThingName>
+			<Desc>Belut yang unik di Lautan Awan karena tubuhnya mengandung Qi Lautan Awan. Hal ini membuat teksturnya selembut dan seringan awan.</Desc>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_SkyFish" sParam="Item">
+			<ThingName>Ikan mas malam</ThingName>
+			<Desc>Ikan mas yang hidup di lautan awan dan hanya muncul pada malam hari.</Desc>
+		</Text>
+		<Text Name="Fish_SkyCrab" sParam="Item">
+			<ThingName>kepiting emas</ThingName>
+			<Desc>Kepiting yang hidup di lautan awan memiliki tubuh yang sangat kuat. Konon makanannya adalah petir di lautan awan.</Desc>
+		</Text>
+		<Text Name="Item_XuanWuEgg" sParam="Item">
+			<ThingName>giok penyu hitam</ThingName>
+			<Desc>Sebuah batu giok yang dikirim sebagai hadiah dari Sekte Wu Tung. Sepertinya itu adalah salah satu dari satu set peralatan.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Periksa batu giok penyu hitam</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
+			<ThingName>pedoman yang lengkap</ThingName>
+			<Desc>Beberapa pedoman sempurna Kaisar Dewa Perang Ini dapat digunakan sebagai panduan untuk membuat patung Kaisar Dewa Perang.</Desc>
+		</Text>
+	</List>
+</Texts>
