@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TestABC">
+			<DisplayName>lelang</DisplayName>
+			<Selections.0.Display>Buku pelajaran</Selections.0.Display>
+			<Selections.1.Display>obat</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
