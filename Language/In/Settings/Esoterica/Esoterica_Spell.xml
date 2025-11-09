@@ -1,0 +1,34 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="SpellEsoterica_1">
+      <DisplayName>Tiga simbol batu giok</DisplayName>
+      <Desc>Seperangkat simbol yang diturunkan pada suatu sekte tertentu. Sangat bermanfaat bagi para pembudidaya.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nPesona kekosongan\nPesona yang mengungkap\nPesona yang mengoyak roh</EffectDesc>
+    </Text>
+    <Text Name="SpellEsoterica_2">
+      <DisplayName>Lima pesona ilahi kanon</DisplayName>
+      <Desc>Kanon ini memuat lima simbol jimat bagi para penggarap.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nPesona yang merobek ruang\nPesona lima roh harta karun\nPesona pil segudang\nPesona Kehendak Surga\nPesona ketenangan</EffectDesc>
+    </Text>
+    <Text Name="SpellEsoterica_3">
+      <DisplayName>Panduan tujuh berkah</DisplayName>
+      <Desc>Panduan ini berisi tujuh simbol pesona umum. Sangat bermanfaat bagi manusia.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nPesona tubuh ringan\nPesona peremajaan\nPesona penglihatan ilahi\nPesona semangat\nPesona Bigu\nPesona penghirupan Qi\nPesona kebahagiaan</EffectDesc>
+    </Text>
+    <Text Name="SpellEsoterica_4">
+      <DisplayName>Panduan pengadilan kerajaan</DisplayName>
+      <Desc>Sebuah manual simbol jimat yang telah diwariskan di istana kerajaan.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nPesona Yang Lebih Besar\nPesona Parutan Yin\nPesona Kecerdasan\nPesona Prajurit\nPesona Pekerja Ilahi\nPesona Pengrajin\nPesona Kelimpahan\nPesona Tabib</EffectDesc>
+    </Text>
+    <Text Name="SpellEsoterica_5">
+      <DisplayName>Panduan pesona Harmoni Hebat</DisplayName>
+      <Desc>Kumpulan simbol yang relatif lengkap untuk jimat yang paling umum.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nPesona Semangat\nPesona Bigu\nPesona Kebahagiaan\nPesona Yang Lebih Besar\nPesona Yin Yang Lebih Besar\nPesona Pekerja Ilahi\nPesona Pengrajin\nPesona Kelimpahan\nPesona Tabib</EffectDesc>
+    </Text>
+    <Text Name="SpellEsoterica_6">
+      <DisplayName>Atlas Melati Musim Dingin</DisplayName>
+      <Desc>Sebuah buku misterius dari dunia lain. Berisi catatan tentang adat istiadat dan budaya suatu bangsa besar tertentu.</Desc>
+      <EffectDesc>Membuka simbol untuk:\nSimbol keberuntungan\nSimbol hadiah\nSimbol umur panjang\n\nMembuka konstruksi：\Lentera Kemakmuran\nLentera Harmoni\nAtap (Pegas)\nAtap (Festival)\nKembang Api (Naga)</EffectDesc>
+    </Text>
+  </List>
+</Texts>
