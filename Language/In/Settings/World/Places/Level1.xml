@@ -1,0 +1,95 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level1Base">
+			<Desc>Templat Lokasi Lv.1</Desc>
+		</Text>
+		<Text Name="Place_DanXia">
+			<DisplayName>Gunung Tirai Biru</DisplayName>
+			<Desc>Salah satu gunung terkenal di dunia yang merupakan rumah dari Sekte Manusia Langit. Itu adalah sekte terbesar ketiga di dunia kultivator. Gunung ini berdiri tinggi dan menjulang tinggi. Itu juga sangat indah dan spektakuler. Apalagi saat matahari terbenam. Blue Man Mountain kaya akan ginseng kuno dalam jumlah besar. Dan konon ada sebuah tempat ajaib bernama Danau Lima Naga, yang merupakan tempat di mana Sekte Manusia Langit biasa menanam Teratai Emas Lima Warna.</Desc>
+		</Text>
+		<Text Name="Place_KunLun">
+			<DisplayName>Gunung KunLun</DisplayName>
+			<Desc>Gunung paling suci dan tertua di dunia. Itu adalah gunung dengan urat naga yang sangat kaya. Lokasi Dao Sekte terkuat adalah Istana Kunlun. Gunung Kunlun adalah jenis tambang khusus yang berisi batu-batu yang sangat berharga, seperti batu keramat. Terlebih lagi, di dalam gunung tersebut terdapat jalan setapak yang menghubungkan ke Gua Pembuluh Darah Naga, yang merupakan tempat Istana Kun Lun menanam Pohon Inti Bumi Kuning.</Desc>
+		</Text>
+		<Text Name="Place_TianJi">
+			<DisplayName>Sky Peak</DisplayName>
+			<Desc>Tiaap Sky Peak merupakan puncak yang tingginya 10.000 meter. Ini adalah puncak terpencil yang berdiri tegak ke langit. Itu juga merupakan lokasi sekte misterius yang disebut Nuea Sky Palace. Istana Nuea Napa dapat dianggap sebagai sekte yang tidak bergantung pada pihak mana pun, baik itu pihak Dharma maupun pihak iblis. Para murid dalam sekte mereka, baik laki-laki atau perempuan, sangat menarik. Puncak setinggi langit ini kaya akan rerumputan jernih, dan di puncak gunung terdapat lembah indah bernama Cloud Valley. Konon Istana Langit Nuea menanam Pohon Bintang Emas di gua itu.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua">
+			<DisplayName>Gunung Sembilan Bunga</DisplayName>
+			<Desc>Gunung Sembilan Bunga memiliki sembilan puncak tumpang tindih yang tersembunyi jauh di dalam gunung. Gunung ini adalah lokasi Biara Awan Ungu. Sekte besar ini menduduki peringkat di antara sepuluh sekte terbesar di dunia. Legenda mengatakan bahwa seorang guru pernah menunggangi angsa dan naga ke surga dari gunung ini. Gunung Sembilan Bunga adalah gunung yang kaya akan batu mineral berharga. Hal ini menyebabkan orang sering datang secara ilegal dan mengambil batu mulia seperti batu giok.</Desc>
+		</Text>
+		<Text Name="Place_LongHu">
+			<DisplayName>Gunung Macan Naga</DisplayName>
+			<Desc>Gunung Tao yang terletak di dataran tengah tempat banyak penyair dan cendekiawan sering berkunjung dan belajar. Apalagi gunung ini juga menjadi lokasi sekte rahasia yang sangat disegani oleh penduduk desa. Ada rumor yang mengatakan bahwa jauh di dalam gunung ini terdapat hutan roh yang tersembunyi. Tempat yang banyak terdapat tanaman langka, termasuk Akar Spiritual Langit dan Bumi seperti Tanaman Anggur Panalai.</Desc>
+		</Text>
+		<Text Name="Place_Shu">
+			<DisplayName>Gunung Su</DisplayName>
+			<Desc>Gunung itu sangat misterius. Jalurnya sangat berkelok-kelok sehingga hewan lincah seperti monyet pun tidak dapat melewatinya. Tempat ini juga merupakan lokasi Biara Indigo Lotus yang merupakan salah satu dari sepuluh sekte besar di dunia. Gunung Su adalah tempat yang sangat berbahaya. Konon banyak makhluk berbahaya yang bersembunyi di sana, seperti ular berbisa tujuh warna bahkan naga. Namun meski begitu, orang masih sering datang ke sini. Itu karena gunung merupakan sumber mineral dan mata air ajaib, sehingga para pengrajin sering menggunakannya untuk menempa senjata magis yang bagus. Konon letaknya jauh di pegunungan. Guru dari Biara Teratai Indigo diam-diam menanam tanaman surga dan bumi, Buah Api Abadi, di Tebing Batu Giok.</Desc>
+		</Text>
+		<Text Name="Place_WuLian">
+			<DisplayName>Gunung Teratai Lima Warna</DisplayName>
+			<Desc>Gunung ini terletak di perbatasan barat. Keunikan gunung ini adalah memiliki lima puncak yang bentuknya seperti bunga teratai yang sedang mekar. Oleh karena itu, orang menyebut tempat ini Gunung Teratai Lima Warna. Gunung ini adalah rumah dari Sekte Cahaya Malam, salah satu dari sepuluh sekte besar di dunia. Gunung Teratai Lima Warna terkenal di seluruh dunia karena di dalamnya terdapat danau surgawi yang dipenuhi Qi surgawi dan duniawi yang subur. Hal ini menghasilkan banyak tanaman yang indah. Varietas tumbuh di sini The Evening Light Sect juga menggunakan lokasi yang menguntungkan ini dan menjadi sangat terkenal dengan seni pengobatan mereka.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan">
+			<DisplayName>Gunung Ratusan Serangga</DisplayName>
+			<Desc>Gunung di sebelah barat tempat Sekte Iblis berada. Ada banyak binatang iblis ganas di dalam gunung itu. Apalagi seluruh gunung ditutupi tanaman. Tanaman ini mengeluarkan racun yang kuat dan juga membawa bau busuk yang unik ratusan mil jauhnya. Hal menakutkan lainnya tentang gunung ini adalah bahwa gunung ini adalah rumah bagi berbagai jenis serangga beracun, jadi tempat ini seperti surga bagi Sekte Iblis yang fokus pada budidaya racun.</Desc>
+		</Text>
+		<Text Name="Place_XianKong">
+			<DisplayName>Abyss Pit Mountain</DisplayName>
+			<Desc>Gunung aneh yang terletak di perbatasan. Di dalam gunung, ada lubang aneh dengan kedalaman tak terduga yang konon terhubung dengan dunia bawah tempat tinggal dewi Thorn. Bagian gunung yang datar memiliki gaya magnet yang sangat padat. Hal ini cenderung menarik meteorit untuk jatuh di sini.</Desc>
+		</Text>
+		<Text Name="Place_Hei">
+			<DisplayName>Gunung Batu Gelap</DisplayName>
+			<Desc>Gunung tempat Istana Setan Tujuh Pembantaian berada, terletak di bagian utara benua. Ada sekte setan terkenal di sini, Sekte Pembunuhan Tujuh Jalan, yang merupakan salah satu sekte setan terkuat di dunia. Mereka memiliki Teknik Tujuh Pedang Pembantaian yang kuat dan brutal. Gunung ini memiliki tiga puncak yang melambangkan langit, bumi, dan manusia. Sekte Tujuh Jalan Pembunuhan telah menggunakan ketiga puncak ini untuk membentuk formasi kuat yang dikatakan tidak mampu menghancurkan siapa pun dari masa lalu hingga sekarang. Selama bertahun-tahun, pihak Dharma dan pihak iblis telah saling bertarung dan membunuh. Ada banyak sekali kerangka dan kepala yang terkubur di bawah kamp Tentara Tujuh Pembunuhan ini.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan">
+			<DisplayName>Pulau Saranrom</DisplayName>
+			<Desc>Lokasi sekte setan terletak di timur. Pulau ini dikenal sebagai pulau yang sangat indah. Itu juga kaya akan Qi alami yang padat. Sekte Saranrom telah bekerja keras selama lebih dari seratus tahun untuk menciptakan formasi Enam Kekotoran Hati Bunga Persik. Formasi ini panjangnya lebih dari 167 li, meliputi seluruh pulau. Nelayan yang tidak sengaja memasukinya akan diubah menjadi pil obat melalui formasi untuk meningkatkan vitalitasnya. Sebagian besar siswa dari Sekte Saranrom selalu awet muda. Ini mungkin karena mata air suci yang selalu memberi mereka tetesan tanah.</Desc>
+		</Text>
+		<Text Name="Place_Desert">
+			<DisplayName>Gurun Tanpa Batas</DisplayName>
+			<Desc>Gurun yang luas dan tak terbatas. Masih banyak benda dan reruntuhan misterius yang tersembunyi di balik hamparan pasir kuning yang luas ini. Legenda mengatakan bahwa jauh di gurun barat terdapat Istana Sepuluh Ribu Iblis.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest">
+			<DisplayName>Hutan Selatan</DisplayName>
+			<Desc>Hutan belantara terpencil di bagian selatan benua. Tempat yang penuh dengan jenis binatang misterius dan kabut beracun yang menyebar sepanjang tahun Legenda mengatakan bahwa jauh di dalam hutan ini terdapat sebuah lembah misterius yang disebut Lembah Cacing. Itu adalah tempat yang penuh dengan bahaya yang tak terukur karena kabut beracun dan serangga beracun di daerah tersebut sangat beracun. Namun, karena kelembapan dan kehangatannya, tempat tersebut ideal untuk pertumbuhan Akar Spiritual Langit dan Bumi yang dikenal sebagai Pohon Anggur Fanalai. Selain itu, dikatakan sebagai makam Kaisar Iblis yang mendirikan Sekte Iblis pada tahun 1000. Tahun lalu tersembunyi jauh di dalam hutan ini.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield">
+			<DisplayName>Tanah Salju Abadi</DisplayName>
+			<Desc>Tanah utara tertutup salju yang membentang hingga ke cakrawala. Ada area es dan salju di tengah hutan pinus luas yang tidak dapat diakses oleh orang biasa. Tempat ini kaya akan ginseng dan batu giok berharga yang sulit diekstraksi. Dikatakan bahwa jauh di dalam padang salju ini terdapat Danau Batu Giok, yang tidak peduli seberapa dingin cuacanya, ia tidak pernah membeku. Danau ini juga merupakan tempat tumbuhnya sejenis akar roh langit dan bumi yang disebut Teratai Emas Lima Warna.</Desc>
+		</Text>
+		<Text Name="Place_FertileField">
+			<DisplayName>Dataran Sai Nam Huan</DisplayName>
+			<Desc>Dataran subur di sepanjang tepi sungai besar berpenduduk padat dan kaya akan produksi biji-bijian. Di sebelah timur ladang ini ada sebuah gunung bernama Gunung Lu. Tempat yang dikabarkan bahwa akar roh langit dan bumi yang disebut Buah Belimbing Emas tumbuh di tebing curam.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains">
+			<DisplayName>Central Plains</DisplayName>
+			<Desc>Dataran Tinggi Tengah berpenduduk padat dan kaya akan berbagai tanaman. Ini adalah rumah bagi banyak gunung terkenal dan situs suci. Salah satunya adalah Gunung Khao Soth. Tempat dimana seorang ahli pengobatan konon menanam tanaman langit dan bumi disebut Inti Bumi Kuning.</Desc>
+		</Text>
+		<Text Name="Place_SouthMount">
+			<DisplayName>Gunung Selatan</DisplayName>
+			<Desc>Ini adalah gunung yang terletak di bagian selatan benua. Tempat ini sangat jarang penduduknya. Akibatnya, masih banyak sumber daya di tempat ini yang belum ditemukan atau dieksploitasi. Tempat ini adalah lokasi asli dari sekte yang disebut Sekte Tai Yi, dan orang-orang di daerah tersebut sangat percaya pada sekte ini.</Desc>
+		</Text>
+		<Text Name="Place_HeYinCity">
+			<DisplayName>Kota Sungai Huan</DisplayName>
+			<Desc>Kota besar ini dibangun di tepi sungai. Karena banyaknya hasil alam, warga di sini tidak perlu khawatir soal makanan atau pakaian. Hasilnya, peradaban dan kebudayaan berkembang sangat pesat. Hasilnya, orang-orang yang tinggal di sini seringkali cerdas dan terampil.</Desc>
+		</Text>
+		<Text Name="Place_HuCity">
+			<DisplayName>Oceanscape City</DisplayName>
+			<Desc>Sebuah kota yang dibangun di pantai timur benua. Karena kota ini merupakan kota pelabuhan. Oleh karena itu, transportasi sangat makmur. Alhasil, banyak pedagang yang datang berdagang menggunakan kota ini sebagai persinggahan. Oleh karena itu, masyarakat kota ini memiliki pengalaman dalam bisnis dan kemampuan yang sangat baik dalam mengamati kata-kata dan ungkapan.</Desc>
+		</Text>
+		<Text Name="Place_PanSheCity">
+			<DisplayName>Desa Ekor Ular</DisplayName>
+			<Desc>Desa ini seperti gerbang menuju hutan selatan. Itu juga merupakan desa terbesar di bagian selatan benua. Tempat ini menghargai tradisi mereka dalam menghormati hukum alam dan ketuhanan. Ini mungkin menjadi alasan mengapa orang yang tinggal di sini lebih beruntung daripada orang biasa.</Desc>
+		</Text>
+		<Text Name="Place_ShanCity">
+			<DisplayName>Kota Mahasap</DisplayName>
+			<Desc>kota besar di selatan-tengah Itu adalah kota besar yang dibangun di tempat yang merupakan persimpangan penting untuk perdagangan antar kota. Hasilnya, kota ini menjadi sangat makmur. Penduduk kota ini sangat lugas dan berpikiran terbuka. Mereka memiliki pesona unik yang memudahkan mereka memenangkan hati orang lain.</Desc>
+		</Text>
+		<Text Name="Place_DaLiangCity">
+			<DisplayName>Kota Daliang</DisplayName>
+			<Desc>Sebuah kota besar di wilayah perbatasan barat. Itu dibangun di tanah kosong antara Dataran Tengah dan Gurun Tanpa Batas. Kota ini kaya akan mineral dan batu berharga. Dan karena letak geografis kotanya, orang-orang di sini secara fisik lebih kuat daripada orang biasa.</Desc>
+		</Text>
+	</List>
+</Texts>
