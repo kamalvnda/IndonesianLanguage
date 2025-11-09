@@ -1,0 +1,157 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MapSize">
+			<DisplayName>Ukuran Peta</DisplayName>
+			<Values.0.Name>Kecil</Values.0.Name>
+			<Values.0.Desc>Ukuran Peta: 96x96</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Ukuran Peta: 128x128</Values.1.Desc>
+			<Values.2.Name>Besar</Values.2.Name>
+			<Values.2.Desc>Ukuran Peta: 196x196</Values.2.Desc>
+		</Text>
+		<Text Name="ThunderAddion">
+			<DisplayName>Kesulitan Kesengsaraan</DisplayName>
+			<Desc>Tingkat kesulitan Kesengsaraan Surgawi.</Desc>
+			<Values.0.Name>Sangat Rendah</Values.0.Name>
+			<Values.0.Desc>0,25x Kesulitan Kesengsaraan</Values.0.Desc>
+			<Values.1.Name>Lemah</Values.1.Name>
+			<Values.1.Desc>0,7x Kesulitan Kesengsaraan</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Kesulitan Kesengsaraan</Values.2.Desc>
+			<Values.3.Name>Kuat</Values.3.Name>
+			<Values.3.Desc>1,2x Kesulitan Kesengsaraan</Values.3.Desc>
+			<Values.4.Name>Sangat Tinggi</Values.4.Name>
+			<Values.4.Desc>1,4x Kesulitan Kesengsaraan</Values.4.Desc>
+		</Text>
+		<Text Name="FightDifficultCoefficient">
+			<DisplayName>Kesulitan Memerangi</DisplayName>
+			<Desc>Kesulitan Penggarap, Monster, Binatang Purba, Penggarap Purba, dan Sekte.</Desc>
+			<Values.0.Name>Sangat Rendah</Values.0.Name>
+			<Values.0.Desc>0,33x Kesulitan Tempur</Values.0.Desc>
+			<Values.1.Name>Lemah</Values.1.Name>
+			<Values.1.Desc>0,67x Kesulitan Tempur</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Kesulitan Tempur</Values.2.Desc>
+			<Values.3.Name>Kuat</Values.3.Name>
+			<Values.3.Desc>1,33x Tingkat Kesulitan Tempur</Values.3.Desc>
+			<Values.4.Name>Sangat Tinggi</Values.4.Name>
+			<Values.4.Desc>1,67x Kesulitan Tempur</Values.4.Desc>
+		</Text>
+		<Text Name="LiveDifficulty">
+			<DisplayName>Kesulitan Bertahan Hidup</DisplayName>
+			<Desc>Kecepatan pertumbuhan tanaman dan pengganda produksi tanaman.</Desc>
+			<Values.0.Name>Sangat Rendah</Values.0.Name>
+			<Values.0.Desc>Pertumbuhan Tanaman 2x, Hasil Panen 2x</Values.0.Desc>
+			<Values.1.Name>Rendah</Values.1.Name>
+			<Values.1.Desc>Pertumbuhan Tanaman 1,5x, Hasil Panen 1,5x</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Pertumbuhan Tanaman, 1x Hasil Panen</Values.2.Desc>
+		</Text>
+		<Text Name="BaseMood">
+			<DisplayName>Suasana Dasar</DisplayName>
+			<Desc>Nilai mood dasar untuk karakter selama status defaultnya.</Desc>
+			<Values.0.Name>Sangat Tinggi</Values.0.Name>
+			<Values.0.Desc>2x Suasana Dasar</Values.0.Desc>
+			<Values.1.Name>Tinggi</Values.1.Name>
+			<Values.1.Desc>1,5x Suasana Dasar</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Suasana Dasar</Values.2.Desc>
+		</Text>
+		<Text Name="WorkAddp">
+			<DisplayName>Efisiensi Kerja Dasar</DisplayName>
+			<Desc>Kecepatan di mana karakter melakukan sebagian besar pekerjaan.</Desc>
+			<Values.0.Name>Sangat Cepat</Values.0.Name>
+			<Values.0.Desc>2x Efisiensi Kerja</Values.0.Desc>
+			<Values.1.Name>Lincah</Values.1.Name>
+			<Values.1.Desc>1,5x Efisiensi Kerja</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Efisiensi Kerja</Values.2.Desc>
+		</Text>
+		<Text Name="PracticeAddp">
+			<DisplayName>Kecepatan Budidaya Dasar</DisplayName>
+			<Desc>Kecepatan pengembangan karakter.</Desc>
+			<Values.0.Name>Sangat Cepat</Values.0.Name>
+			<Values.0.Desc>2x Kecepatan Budidaya</Values.0.Desc>
+			<Values.1.Name>Lincah</Values.1.Name>
+			<Values.1.Desc>Kecepatan Budidaya 1,5x</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Kecepatan Budidaya</Values.2.Desc>
+		</Text>
+		<Text Name="MapExploringAddp">
+			<DisplayName>Kecepatan Petualangan Dasar</DisplayName>
+			<Desc>Kecepatan karakter menyelesaikan petualangan.</Desc>
+			<Values.0.Name>Sangat Cepat</Values.0.Name>
+			<Values.0.Desc>2x Kecepatan Petualangan</Values.0.Desc>
+			<Values.1.Name>Lincah</Values.1.Name>
+			<Values.1.Desc>Kecepatan Petualangan 1,5x</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Kecepatan Petualangan</Values.2.Desc>
+		</Text>
+		<Text Name="TreeExpAddtion">
+			<DisplayName>Biaya Inspirasi</DisplayName>
+			<Desc>Inspirasi diperlukan bagi karakter untuk mempelajari manual.</Desc>
+			<Values.0.Name>Sangat Rendah</Values.0.Name>
+			<Values.0.Desc>0,5x Biaya Inspirasi</Values.0.Desc>
+			<Values.1.Name>Rendah</Values.1.Name>
+			<Values.1.Desc>0,75x Biaya Inspirasi</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>1x Biaya Inspirasi</Values.2.Desc>
+		</Text>
+		<Text Name="AverageTimePerEvent">
+			<DisplayName>Interval Peristiwa</DisplayName>
+			<Desc>Interval waktu antar peristiwa.</Desc>
+			<Values.0.Name>Sangat lama</Values.0.Name>
+			<Values.0.Desc>Rata-rata, satu peristiwa akan terjadi setiap 3 hari.</Values.0.Desc>
+			<Values.1.Name>Panjang</Values.1.Name>
+			<Values.1.Desc>Rata-rata, satu peristiwa akan terjadi setiap 2,5 hari.</Values.1.Desc>
+			<Values.2.Name>Biasa</Values.2.Name>
+			<Values.2.Desc>Rata-rata, satu peristiwa akan terjadi setiap 2 hari.</Values.2.Desc>
+			<Values.3.Name>Pendek</Values.3.Name>
+			<Values.3.Desc>Rata-rata, satu peristiwa akan terjadi setiap 1,5 hari.</Values.3.Desc>
+			<Values.4.Name>Sangat singkat</Values.4.Name>
+			<Values.4.Desc>Rata-rata, satu peristiwa akan terjadi setiap hari.</Values.4.Desc>
+		</Text>
+		<Text Name="DoubleRate">
+			<DisplayName>Acara Ganda</DisplayName>
+			<Desc>Setiap kali suatu peristiwa terjadi, ada kemungkinan peristiwa lain akan terpicu.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Peristiwa ganda tidak akan terjadi.</Values.0.Desc>
+			<Values.1.Name>Rendah</Values.1.Name>
+			<Values.1.Desc>10% kemungkinan kejadian ganda.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>20% kemungkinan kejadian ganda.</Values.2.Desc>
+			<Values.3.Name>Tinggi</Values.3.Name>
+			<Values.3.Desc>30% kemungkinan kejadian ganda.</Values.3.Desc>
+			<Values.4.Name>Sangat Tinggi</Values.4.Name>
+			<Values.4.Desc>40% kemungkinan kejadian ganda.</Values.4.Desc>
+		</Text>
+		<Text Name="TripleRate">
+			<DisplayName>Tiga Peristiwa</DisplayName>
+			<Desc>Setiap kali suatu peristiwa terjadi, ada kemungkinan dua peristiwa tambahan akan terpicu.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Peristiwa rangkap tiga tidak akan terjadi.</Values.0.Desc>
+			<Values.1.Name>Rendah</Values.1.Name>
+			<Values.1.Desc>5% kemungkinan kejadian rangkap tiga.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>10% kemungkinan kejadian rangkap tiga.</Values.2.Desc>
+			<Values.3.Name>Tinggi</Values.3.Name>
+			<Values.3.Desc>15% kemungkinan terjadinya tiga peristiwa.</Values.3.Desc>
+			<Values.4.Name>Sangat Tinggi</Values.4.Name>
+			<Values.4.Desc>20% kemungkinan kejadian rangkap tiga.</Values.4.Desc>
+		</Text>
+		<Text Name="BlankWeight">
+			<DisplayName>Tidak Ada Acara</DisplayName>
+			<Desc>Ketika suatu peristiwa terjadi, ada kemungkinan peristiwa tersebut tidak akan terpicu.</Desc>
+			<Values.0.Name>Sangat Tinggi</Values.0.Name>
+			<Values.0.Desc>60% kemungkinan kejadian tidak terpicu</Values.0.Desc>
+			<Values.1.Name>Tinggi</Values.1.Name>
+			<Values.1.Desc>45% kemungkinan kejadian tidak terpicu</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>30% kemungkinan kejadian tidak terpicu</Values.2.Desc>
+			<Values.3.Name>Rendah</Values.3.Name>
+			<Values.3.Desc>15% kemungkinan peristiwa tidak terpicu</Values.3.Desc>
+			<Values.4.Name>Tidak ada</Values.4.Name>
+			<Values.4.Desc>Peristiwa akan selalu memicu.</Values.4.Desc>
+		</Text>
+	</List>
+</Texts>
