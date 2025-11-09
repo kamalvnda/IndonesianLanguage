@@ -1,0 +1,6 @@
+Type	Desc	DisplayName
+JiaGuo	Memiliki efek mendorong pertumbuhan spiritual	buah yang bagus
+ShuShi	Memiliki efek meningkatkan pertumbuhan tubuh	Toko makanan
+XiangXun	Memiliki efek mendorong pertumbuhan energi spiritual	jamur
+DiXian	Memiliki efek mendorong pertumbuhan keterampilan sihir	tanah segar
+ShengRou	Memiliki efek mendorong pertumbuhan ramuan kekaisaran	daging
