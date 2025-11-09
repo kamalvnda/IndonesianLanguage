@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>kayu, cabang, baris, tumpukan</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>kayu</ThingName>
+			<Desc>Kayu yang berkualitas baik merupakan bahan yang biasa digunakan untuk kerajinan tangan.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>kayu emas</ThingName>
+			<Desc>Kayu emas berharga yang berumur seratus tahun Merupakan bahan yang sangat berat dan kuat.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu emas</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>Kayu Angsa Menyala</ThingName>
+			<Desc>Kayu suci yang sering digunakan Burung Vermillion untuk membangun rumahnya. Permukaannya halus dan teksturnya sangat keras. Selain itu, ada juga Qi padat yang tersembunyi di dalamnya. Itu adalah bahan berharga yang sangat sulit ditemukan.</Desc>
+			<Item.BeMaterial.NamePrefix>Kayu angsa</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>Kayu Roh</ThingName>
+			<Desc>Kayu yang telah diberi Qi untuk menjadikannya murni. Ini adalah bahan yang keras dan sangat tahan api.</Desc>
+			<Item.BeMaterial.NamePrefix>Kayu Roh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
