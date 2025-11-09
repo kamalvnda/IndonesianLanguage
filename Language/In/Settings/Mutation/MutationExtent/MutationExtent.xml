@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Extent_Shallow">
+			<DisplayName>bergolak</DisplayName>
+			<Desc>Efek Chaos menghilang setelah jumlah pemicu habis.</Desc>
+			<ExpireDesc>{0} kali</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Middle">
+			<DisplayName>Yin-Yang</DisplayName>
+			<Desc>Efek Chaos akan memudar setelah 112 hari.</Desc>
+			<ExpireDesc>{0} hari</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Deep">
+			<DisplayName>konstan</DisplayName>
+			<Desc>Dampak kekacauan akan bersifat permanen di dunia ini.</Desc>
+			<ExpireDesc>permanen</ExpireDesc>
+		</Text>
+	</List>
+</Texts>
