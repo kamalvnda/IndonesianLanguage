@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>Duta Besar Guru</DisplayName>
+			<Desc>Kirimkan ke sekte sasaran untuk meningkatkan hubungan antar sekte.</Desc>
+			<sParam2>panda</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>teman alam</DisplayName>
+			<Desc>binatang liar yang jinak</Desc>
+			<TargetDesc>Pilih monster non-sekutu.</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>Kekuatan Asal (Campuran)</DisplayName>
+			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan keterampilan senjata sihir, sangat meningkatkan keterampilan Qi Armor, sangat meningkatkan kekuatan Fisik Misterius, sangat meningkatkan daya tahan Fisik Misterius. R Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+	</List>
+</Texts>
