@@ -1,0 +1,147 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>wajah bekas luka</DisplayName>
+			<Desc>Ada bekas luka yang mengerikan di wajah orang ini.</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>jelek</DisplayName>
+			<Desc>Orang ini sangat jelek sehingga tidak ada yang menyukainya.</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>mengerikan</DisplayName>
+			<Desc>Penampilan orang ini sangat jelek sehingga tidak ada yang menyukainya.</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>Tampan</DisplayName>
+			<Desc>Penampilan orang ini sangat bagus sehingga orang lain terpesona olehnya.</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>Penampilan seperti lukisan</DisplayName>
+			<Desc>Penampilan orang ini tampak seolah-olah muncul langsung dari lukisan para dewa.</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>cedera dalam</DisplayName>
+			<Desc>Organ dalam orang ini rusak parah dan tidak dapat disembuhkan.</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>Tidak ada daya (kiri)</DisplayName>
+			<Desc>Orang ini berjalan dengan pincang pada kaki kirinya karena penyakit kronis.</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>Tidak ada daya (kanan)</DisplayName>
+			<Desc>Orang ini pincang pada kaki kanannya karena penyakit kronis.</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>Kaki hilang (kiri)</DisplayName>
+			<Desc>Kaki kiri orang ini diamputasi.</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>Kaki hilang (kanan)</DisplayName>
+			<Desc>Kaki kiri orang ini diamputasi.</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>Lengan hilang (kiri)</DisplayName>
+			<Desc>Lengan kiri orang ini putus.</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>Lengan hilang (kanan)</DisplayName>
+			<Desc>Lengan kanan orang ini putus.</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>tuli</DisplayName>
+			<Desc>Orang ini tuli sejak lahir.</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>Buta (kiri)</DisplayName>
+			<Desc>Orang ini kehilangan penglihatan pada mata kirinya.</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>Buta (kanan)</DisplayName>
+			<Desc>Orang ini kehilangan penglihatan pada mata kanannya.</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>Tunarungu (kiri)</DisplayName>
+			<Desc>Orang ini kehilangan pendengaran pada telinga kirinya.</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>Tuli (kanan)</DisplayName>
+			<Desc>Orang ini kehilangan pendengaran pada telinga kanannya.</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Titik nadi rusak.</DisplayName>
+			<Desc>Orang ini terlahir dengan Titik Konsentrasi Qi yang rusak.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>Mengabaikan kesehatan</DisplayName>
+			<Desc>Orang ini tidak terlalu peduli dengan kesehatannya sendiri. mengakibatkan harapan hidup lebih pendek dibandingkan rata-rata orang</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>Bekerja keras</DisplayName>
+			<Desc>Orang ini sama sekali tidak peduli dengan kesehatannya sendiri. mengakibatkan harapan hidup lebih pendek dibandingkan rata-rata orang</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>sehat</DisplayName>
+			<Desc>Orang ini tahu bagaimana menjaga kesehatannya sendiri. Hal ini membuat mereka memiliki umur yang lebih panjang dibandingkan rata-rata orang.</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>sehat</DisplayName>
+			<Desc>Orang ini tahu cara menjaga kesehatannya dengan sangat baik. Hal ini membuat mereka memiliki umur yang lebih panjang dibandingkan rata-rata orang.</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>Tahan dingin</DisplayName>
+			<Desc>Orang ini lahir di negeri yang dingin. Membuat tubuh mampu menoleransi dingin dengan baik.</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>Tahan panas</DisplayName>
+			<Desc>Orang ini lahir di negeri yang sangat panas. Membuat tubuh mampu menoleransi panas dengan baik.</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>Saya suka kegelapan.</DisplayName>
+			<Desc>Orang ini menyukai tempat gelap.</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>tinggi</DisplayName>
+			<Desc>Orang ini lebih tinggi dan lebih kuat dari kebanyakan orang. Oleh karena itu, ada kecenderungan suka menyelesaikan masalah dengan kekerasan.</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>pendek</DisplayName>
+			<Desc>Tubuh orang ini lebih pendek dan lebih kecil dari kebanyakan orang. Oleh karena itu, mereka cenderung menggunakan otaknya untuk memecahkan masalah.</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>gundul</DisplayName>
+			<Desc>Orang ini tidak mempunyai rambut di kepalanya.</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>Kidal</DisplayName>
+			<Desc>Orang ini kidal.</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>bisu</DisplayName>
+			<Desc>Orang ini tidak dapat berkomunikasi dengan orang lain.</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>Batu empedu pecah</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>gesit</DisplayName>
+			<Desc>Orang ini sangat lincah dan dapat berjalan sangat cepat.</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>Sulit dicerna</DisplayName>
+			<Desc>Orang ini memiliki sistem pencernaan yang buruk. Hal ini menciptakan hambatan penyerapan nutrisi.</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>Perut Besi</DisplayName>
+			<Desc>Orang ini memiliki sistem pencernaan yang sangat baik. Memungkinkan penyerapan nutrisi dengan mudah</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>Mata Elang</DisplayName>
+			<Desc>Orang ini memiliki penglihatan yang sangat bagus. Memungkinkan Anda melihat lebih jauh dari rata-rata orang.</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>Sedikit tidur</DisplayName>
+			<Desc>Orang ini suka bangun tengah malam.</Desc>
+		</Text>
+	</List>
+</Texts>
