@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>Teknik Budidaya Pemurnian Bunga Matahari</DisplayName>
+			<Desc>Salah satu dari lima teknik budidaya hukum unsur sejati dari Sekte Tai Yi. Hanya wanita yang cocok untuk mempraktikkan teknik ini. Gunakan kekuatan Yin yang paling murni dari dunia untuk menciptakan jiwa Yin yang murni. Jika dilatih oleh seorang laki-laki Mereka akan kehilangan organ terpenting seorang laki-laki.</Desc>
+			<SelectDesc>Mata pelajaran ini cocok untuk dipraktikkan oleh wanita. Jika dilatih oleh seorang laki-laki Mereka akan kehilangan organ terpenting seorang laki-laki. Penggarap akan memiliki keterampilan untuk menggunakan senjata ajaib yang kuat. Tapi dia akan segera menghadapi Hukuman Surgawi pertamanya saat masih berada di Alam Inti Mendalam. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Yin Manusia</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>kemurnian</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>simpati</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Kepekaan</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Yin Dunia</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>keterbukaan</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>konvergensi</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>membentuk inti</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Yin Surgawi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Kebaikan</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>kejujuran</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Kemenduaan</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>menghancurkan kekosongan</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>kesempurnaan</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Ini menggabungkan mutiara roh binatang dewasa dengan roh Yin murni dan menyempurnakan Yin Qi di dalam Roh Primordial.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>mengubah</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Mengubah bentuk dan aliran Yin dalam Jiwa Purba ribuan dan puluhan ribu kali. Merenungkan hidup dan mati untuk naik ke surga.[color=#D06508]\nMenembus batas pada tahap ini akan benar-benar menantang surga dan tidak akan menghasilkan bonus apa pun. Dari langkah ini[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>harmoni</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>
