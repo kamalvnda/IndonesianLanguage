@@ -1,0 +1,323 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="DanBase" sParam="Item">
+			<Item.FabaoSuffix>manik-manik, manik-manik, bulat</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BasePracticeDrug" sParam="Item">
+			<ThingName>Pil Penyembuhan Qi</ThingName>
+			<Desc>Obat yang ditemukan oleh master abadi. Obat ini dapat mengontrol elemen di dalam tubuh dan untuk sementara meledakkan kemampuan tersembunyi penggunanya. Meningkatkan persepsi, kecerdasan, dan kecerdasan sebesar 30% untuk jangka waktu 48 jam. Ketika murid luar menelannya, itu dapat meningkatkan basis budidaya mereka secara signifikan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_JingYuan" sParam="Item">
+			<ThingName>Pengobatan Kekuatan Fisik</ThingName>
+			<Desc>Meningkatkan regenerasi energi fisik, meningkatkan tingkat kelaparan dan konversi energi fisik untuk jangka waktu 7 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_JingYuan2" sParam="Item">
+			<ThingName>Obat Ginseng</ThingName>
+			<Desc>Meningkatkan regenerasi energi fisik, meningkatkan tingkat kelaparan dan konversi energi fisik untuk jangka waktu 14 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_JingYuan3" sParam="Item">
+			<ThingName>Bubuk inti tanaman</ThingName>
+			<Desc>Meningkatkan pemulihan energi fisik, meningkatkan tingkat kelaparan dan konversi energi fisik untuk jangka waktu 28 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Ling" sParam="Item">
+			<ThingName>Pengobatan Restorasi Qi</ThingName>
+			<Desc>Obatnya diisi dengan Qi yang dikemas di dalamnya. Menelannya akan memulihkan 3000 qi dan meningkatkan tingkat pemulihan qi selama 6 jam. *Peringatan* Pengguna setidaknya harus berada dalam batas Zona Formasi Inti Qi. Jika tidak, pengguna mungkin terluka atau terbunuh oleh Qi yang dimasukkan ke dalam pil.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Ling2" sParam="Item">
+			<ThingName>Pengobatan Matahari</ThingName>
+			<Desc>Obat ungu kehitaman memiliki kemampuan memulihkan Qi dalam jumlah besar. Ini juga meningkatkan jumlah maksimum bagi pengguna. Efektivitasnya akan terwujud sepenuhnya hanya pada penggunaan pertama. Efisiensinya akan sangat berkurang di waktu berikutnya. *PERINGATAN* Pengguna setidaknya harus berada dalam wilayah Inti Emas. Jika tidak, pengguna mungkin terluka atau terbunuh oleh Qi yang dimasukkan ke dalam pil.</Desc>
+		</Text>
+		<Text Name="Item_Dan_PracticeRate" sParam="Item">
+			<ThingName>Pengobatan Jiwa</ThingName>
+			<Desc>Pil yang ditempa dari Belimbing Emas dan Daun yang Dimurnikan Dapat merangsang proses berpikir dengan sangat baik. Menggandakan peluang menembus batas. Ini efektif untuk jangka waktu 24 jam. Setelah diminum, tubuh akan menjadi kebal terhadap efek obat pada dosis berikutnya. pergi sangat banyak</Desc>
+		</Text>
+		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
+			<ThingName>Pengobatan Akselerasi Qi</ThingName>
+			<Desc>Obat ditempa dari buah api abadi. Meningkatkan kecepatan budidaya sebesar 30%, efektif selama 24 jam.</Desc>
+		</Text>
+		<Text Name="Item_Dan_CalmDown" sParam="Item">
+			<ThingName>Obat Jantung Murni</ThingName>
+			<Desc>Pil yang dibuat dari daun murni dan bubuk kristal es. Itu dapat menstabilkan kondisi mental pengguna sampai batas tertentu.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Happiness" sParam="Item">
+			<ThingName>Obat kebahagiaan</ThingName>
+			<Desc>Ramuan yang membuat penggunanya merasa senang selama 2 hari, namun mengurangi efisiensi semua tugas sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Item_Dan_NoHunger" sParam="Item">
+			<ThingName>Obat Penyerap Qi</ThingName>
+			<Desc>Saat menelan obat untuk menyerap Qi Kemampuan menyerap prana akan meningkat selama 2 hari dan pengguna tidak akan merasa lapar selama 2 hari tersebut.</Desc>
+		</Text>
+		<Text Name="Item_Dan_NoHunger2" sParam="Item">
+			<ThingName>Kedokteran Imthip</ThingName>
+			<Desc>Bila menelan obat ilahi ini akan membuat anda tidak lapar selama 2 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_NoHunger1" sParam="Item">
+			<ThingName>persediaan pil</ThingName>
+			<Desc>Kurangi laju penggunaan nutrisi, kurangi rasa lapar dan lelah selama 2 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_LostSoul" sParam="Item">
+			<ThingName>Obat Tidur</ThingName>
+			<Desc>Bila pengguna menelannya, obat yang ada di dalam obat akan menekan otak orang yang mengkonsumsinya. Buat orang itu tidur selama 3 hari.</Desc>
+		</Text>
+		<Text Name="Item_Dan_DredgeQi1" sParam="Item">
+			<ThingName>Bubuk Roh</ThingName>
+			<Desc>Bubuk ajaib yang terbuat dari ginseng dan lingzhi ungu. Itu bisa menstimulasi titik-titik terdalam yang tersangkut dan menyembuhkan luka tipe “roh”.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_DredgeQi" sParam="Item">
+			<ThingName>Energi obat mengalir</ThingName>
+			<Desc>Obat yang dapat menyembuhkan denyut Qi yang tidak normal di dalam tubuh. Itu bisa menyembuhkan luka tipe "roh".</Desc>
+		</Text>
+		<Text Name="Item_Dan_WuLingSan" sParam="Item">
+			<ThingName>bubuk penyembuhan</ThingName>
+			<Desc>Bubuk ajaib yang dapat menyembuhkan luka dalam jenis "Emas", "Kayu", "Air", "Api" dan "Bumi"; Efektivitas pengobatannya cukup lambat.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_CureJinDamage" sParam="Item">
+			<ThingName>Pohon Obat</ThingName>
+			<Desc>Segera mengobati luka dalam tipe "kayu".</Desc>
+		</Text>
+		<Text Name="Item_Dan_CureMuDamage" sParam="Item">
+			<ThingName>Pengobatan Sothaphasuddha</ThingName>
+			<Desc>Menyembuhkan luka dalam tipe "Bumi" secara instan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
+			<ThingName>Bubuk Api</ThingName>
+			<Desc>Menyembuhkan luka dalam tipe "Api" secara instan.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
+			<ThingName>Pengobatan Emas</ThingName>
+			<Desc>Menyembuhkan luka dalam tipe "emas" secara instan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_CureTuDamage" sParam="Item">
+			<ThingName>Osthawaree</ThingName>
+			<Desc>Menyembuhkan luka dalam tipe "Air" secara instan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
+			<ThingName>Obat Penyembuhan Unsur</ThingName>
+			<Desc>Obat ajaib yang dapat menyembuhkan luka dalam jenis "Emas", "Kayu", "Air", "Api", "Bumi" dan memiliki efisiensi penyembuhan yang cepat.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Restore" sParam="Item">
+			<ThingName>bubuk penghilang bekas luka</ThingName>
+			<Desc>Merangsang efisiensi tubuh Mengobati bekas luka</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
+			<ThingName>Pengobatan Ilahi untuk Menghilangkan Penyakit</ThingName>
+			<Desc>Salah satu pil anti surga yang menentang nasib surga. Dikatakan dapat menghidupkan kembali mereka yang berada di ambang kematian. Sekalipun orang itu hanya mempunyai satu nafas terakhir yang tersisa. Namun, obat ini tidak bisa digunakan pada orang yang sedang sekarat.</Desc>
+		</Text>
+		<Text Name="Item_Dan_HundredRefine" sParam="Item">
+			<ThingName>Obat kelahiran dan kematian</ThingName>
+			<Desc>Obat dao seumur hidup hanya efektif satu kali. Sangat meningkatkan kecepatan budidaya. *PERINGATAN* Ini hanya boleh digunakan setelah memasuki Alam Inti Emas. Jika tidak, pengguna mungkin terluka atau terbunuh oleh Qi yang dimasukkan ke dalam pil.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
+			<ThingName>obat kehidupan</ThingName>
+			<Desc>Pil yang meningkatkan umur seseorang hingga 180 tahun, efek penuhnya baru pertama kali digunakan. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
+			<ThingName>obat energi vital</ThingName>
+			<Desc>Ramuan ajaib yang meningkatkan umur seseorang hingga 200 tahun. Potensi penuhnya hanya akan efektif sepenuhnya saat pertama kali digunakan. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
+			<ThingName>Pengobatan Kehidupan Kekal</ThingName>
+			<Desc>Obat yang meningkatkan umur seseorang sebanyak 500 tahun dan juga meningkatkan lima statistik dasar masing-masing sebesar 10%. Efektivitasnya akan efektif sepenuhnya hanya pada penggunaan pertama kali. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
+			<ThingName>Pengobatan Pemulihan Kehidupan</ThingName>
+			<Desc>Sebuah pil yang meningkatkan umur seseorang sebanyak 256 tahun, efek penuhnya baru pertama kali digunakan. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
+			<ThingName>Pengobatan masa depan</ThingName>
+			<Desc>Obat yang meningkatkan umur seseorang sebanyak 490 tahun dan juga memperpanjang waktu yang dibutuhkan untuk hukuman surgawi sebanyak 49 hari. Efektivitasnya hanya akan efektif sepenuhnya saat pertama kali digunakan. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
+			<ThingName>Pengobatan Kehidupan Gabungan</ThingName>
+			<Desc>Sebuah pil yang dapat menunda waktu yang diperlukan untuk menjalani Hukuman Surga selama 108 hari lagi, efektivitasnya hanya akan efektif sepenuhnya saat pertama kali digunakan. Efisiensinya akan sangat berkurang di waktu berikutnya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
+			<ThingName>Bubuk Penipuan Surgawi</ThingName>
+			<Desc>Menipu surga dengan menggunakan roh iblis dalam Sembilan Mutiara Roh untuk menggilingnya menjadi obat. Memungkinkan Anda untuk memperpanjang periode menerima Hukuman Surga selama 27 hari lagi (dapat digunakan berkali-kali)</Desc>
+		</Text>
+		<Text Name="Item_Dan_SwordBall" sParam="Item">
+			<ThingName>Pengobatan Roh Pedang</ThingName>
+			<Desc>Obatnya tercatat di Tujuh Jalan Pedang Pembunuh. Itu dapat dibuat dengan melebur lima inti logam dalam tungku pil. *Peringatan* Jangan dimakan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Defense" sParam="Item">
+			<ThingName>Pengobatan Perisai Qi</ThingName>
+			<Desc>Meningkatkan armor energi dasar selama 24 jam.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Ling3" sParam="Item">
+			<ThingName>bubuk suci</ThingName>
+			<Desc>Memulihkan 300.000 Qi dan meningkatkan jumlah maksimum menjadi 100.000 unit selama 48 jam. *Peringatan* Jika basis budidaya pengguna terlalu rendah Tubuh dapat meledak.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBase1" sParam="Item">
+			<ThingName>Soth menyadari</ThingName>
+			<Desc>Saat ditelan, itu akan me Qi asli. Meningkatkan persepsi sebesar 30% selama 48 jam, namun pengguna akan kehilangan 3 tahun nyawa.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBase2" sParam="Item">
+			<ThingName>Kedokteran dokter</ThingName>
+			<Desc>Saat ditelan, itu akan me Qi primordial, meningkatkan stamina sebesar 30% selama 48 jam. Namun, pengguna akan kehilangan 3 tahun nyawanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBase3" sParam="Item">
+			<ThingName>Pesona Soth</ThingName>
+			<Desc>Saat ditelan, itu merangsang Qi asli, meningkatkan pesonanya sebesar 30% selama 48 jam. Namun, pengguna akan kehilangan 3 tahun nyawanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBase4" sParam="Item">
+			<ThingName>obat panya</ThingName>
+			<Desc>Saat ditelan, itu akan me Qi asli. Meningkatkan kecerdasan sebesar 30% selama 48 jam. Namun, pengguna akan kehilangan 3 tahun nyawanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBase5" sParam="Item">
+			<ThingName>Obat Berkah Surga</ThingName>
+			<Desc>Saat ditelan, itu merangsang Qi asli, meningkatkan keberuntungan sebesar 30% selama 48 jam. Namun, pengguna akan kehilangan 3 tahun nyawanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
+			<ThingName>Lima Obat Ilahi</ThingName>
+			<Desc>Saat ditelan, itu akan me Qi asli. Meningkatkan kelima statistik dasar masing-masing sebesar 10%. Namun, penggunanya akan kehilangan 60 tahun nyawanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fail1" sParam="Item">
+			<ThingName>Obat yang gagal</ThingName>
+			<Desc>Yang tersisa dari proses pemurnian obat yang gagal. Ia memiliki kekuatan yang aneh. di dalam obat Hanya Surga yang tahu apa yang akan terjadi jika obat itu tertelan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fail2" sParam="Item">
+			<ThingName>Obat yang gagal</ThingName>
+			<Desc>Yang tersisa dari proses pemurnian obat yang gagal. Ia memiliki kekuatan yang aneh. di dalam obat Hanya Surga yang tahu apa yang akan terjadi jika obat itu tertelan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fail3" sParam="Item">
+			<ThingName>Obat yang gagal</ThingName>
+			<Desc>Yang tersisa dari proses pemurnian obat yang gagal. Ia memiliki kekuatan yang aneh. di dalam obat Hanya Surga yang tahu apa yang akan terjadi jika obat itu tertelan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fail4" sParam="Item">
+			<ThingName>Obat yang gagal</ThingName>
+			<Desc>Pil gagal yang sepertinya menyerap terlalu banyak api tungku pil. Memakannya akan membakar lima organ dalam dan memperpendek umur. Tapi jika orang itu selamat dari kematian... Mungkin ada manfaat yang bisa didapat.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fail5" sParam="Item">
+			<ThingName>Obat yang gagal</ThingName>
+			<Desc>Yang tersisa dari proses pemurnian obat yang gagal. Ia memiliki kekuatan yang aneh. di dalam obat Hanya Surga yang tahu apa yang akan terjadi jika obat itu tertelan.</Desc>
+		</Text>
+		<Text Name="Item_Dan_TreeEXP" sParam="Item">
+			<ThingName>Pengobatan Langit Ilahi</ThingName>
+			<Desc>Obat yang digabungkan dengan kekuatan surga Ia memiliki kemampuan yang memungkinkan pengguna merasakan sebagian dari Dao Surgawi dan memperoleh konsep, dengan jumlah konsep yang diperoleh bergantung pada kecerdasan dan kondisi mental pengguna obat.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Thin" sParam="Item">
+			<ThingName>Obat untuk menurunkan berat badan</ThingName>
+			<Desc>Obat yang ditemukan oleh ahli abadi. Bila digunakan, akan membuat orang tersebut tampak lebih langsing.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock" sParam="Item">
+			<ThingName>Pengobatan Sothkonglook</ThingName>
+			<Desc>Obat yang ditemukan oleh ahli abadi. Saat digunakan, penampilan orang tersebut tidak akan berubah.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
+			<ThingName>Obat untuk memulihkan tubuh</ThingName>
+			<Desc>Obat yang ditemukan oleh master abadi Memiliki kemampuan untuk kembali ke bentuk asli penggunanya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock1" sParam="Item">
+			<ThingName>Obat wajah anak</ThingName>
+			<Desc>Obat yang ditemukan oleh ahli abadi Bila digunakan akan membuat orang tersebut terlihat lebih muda.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock2" sParam="Item">
+			<ThingName>obat untuk orang dewasa</ThingName>
+			<Desc>Obat yang ditemukan oleh ahli abadi. Saat digunakan, obat tersebut memberikan penampilan dewasa pada orang tersebut.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock3" sParam="Item">
+			<ThingName>obat muka lama</ThingName>
+			<Desc>Obat yang ditemukan oleh ahli abadi Bila digunakan akan membuat wajah orang tersebut terlihat lebih tua.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Fat" sParam="Item">
+			<ThingName>Obat untuk menambah otot</ThingName>
+			<Desc>Obat yang ditemukan oleh master abadi Menambah otot pada tubuh penggunanya</Desc>
+		</Text>
+		<Text Name="Item_Dan_Soul1" sParam="Item">
+			<ThingName>Obat untuk penderitaan mental</ThingName>
+			<Desc>Obat ditempa dari permata roh pendendam. Saat menelannya, seseorang mendapat sejumlah ide. Namun karena dinginnya pil dan semangat dendam, harapan hidup penggunanya akan berkurang 9 tahun.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Soul2" sParam="Item">
+			<ThingName>Obat Merobek Jiwa</ThingName>
+			<Desc>Obat yang ditempa dari permata jiwa Saat menelannya, seseorang mendapat sejumlah ide. Namun, karena Qi dalam penggunanya akan terluka oleh kekerasan roh di dalam pil. Mengurangi jumlah maksimum Qi sebanyak 10 unit.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Soul3" sParam="Item">
+			<ThingName>Obat ketenangan pikiran</ThingName>
+			<Desc>Obat yang ditempa dari permata pikiran tanpa kesedihan Saat menelannya, seseorang mendapat sejumlah ide. Bila menggunakan obat berkali-kali efektivitas obatnya lambat laun akan menurun. Pengguna akan terpengaruh oleh kesadaran obat yang tertekan sehingga mengakibatkan cedera otak.</Desc>
+		</Text>
+		<Text Name="Item_Dan_Soul4" sParam="Item">
+			<ThingName>Obat Pembakaran</ThingName>
+			<Desc>Obat yang ditempa dari permata pikiran tanpa kesedihan Setelah menelannya, umur penggunanya akan terpakai selama 100 tahun. Meningkatkan pemahaman Anda melebihi normal untuk jangka waktu 2 jam dan sangat meningkatkan efisiensi perolehan konsep. Namun, obat ini memiliki efek samping yang parah pada pikiran penggunanya. Mengurangi kecerdasan pengguna secara permanen sebesar 20% saat menggunakan obat berkali-kali. Efektivitas obat secara bertahap akan menurun.</Desc>
+		</Text>
+		<Text Name="Item_Dan_LunHui1" sParam="Item">
+			<ThingName>Kenangan Segel: Dunia Bintang</ThingName>
+			<Desc>Setelah menelan Pengguna menerima ide dan didorong oleh banyak kenangan.\n[color=#D06508]Hal ini berkat serial video Star World yang dibuat oleh Xiaoyao Sanren. Itu memberi saya kekuatan dan kebahagiaan![/color]</Desc>
+		</Text>
+		<Text Name="Item_Dan_ReBorn" sParam="Item">
+			<ThingName>Pengobatan Baru Lahir</ThingName>
+			<Desc>Pil yang ditempa menggunakan Permata Roh dan Mutiara Roh sebagai intinya. Hal ini dapat menyebabkan penggunanya kembali dan terlahir kembali sebagai orang normal. Tubuh yang terlahir kembali telah dibangun kembali sepenuhnya. Ini dapat membantu orang yang berada di ambang kematian.</Desc>
+		</Text>
+		<Text Name="Item_Dan_ReBorn_4" sParam="Item">
+			<ThingName>obat nirwana</ThingName>
+			<Desc>Obat yang ditempa dengan mengendalikan energi dari siklus hidup dan mati. Memiliki kemampuan untuk terlahir kembali dalam tubuh yang sempurna. Mereka juga dapat mengingat semua konsep dari kehidupan masa lalunya.</Desc>
+		</Text>
+		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
+			<ThingName>Benih Roh</ThingName>
+			<Desc>Benih berharga yang dibuat dengan menggabungkan unsur obat dengan benih keberuntungan dan memiliki banyak manfaat. Ketika terkubur di dalam tanah, ia bisa berubah menjadi Nadi Spiritual dan menyebar ke segala arah, secara bertahap mengubah tanah dan air di sekitarnya. Itu adalah bumi roh dan air roh. Membawanya bersama Anda akan membuat orang tersebut awet dalam suhu dingin maupun panas. Dimungkinkan juga untuk mengurangi Benih Dao dengan menipu Hukum Surgawi. Memakannya akan meningkatkan jumlah Qi maksimum dalam jumlah besar.</Desc>
+			<StoryBnts.0.Name>menanamkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kubur item ini ke dalam tanah.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Dan_LingYuanSha" sParam="Item">
+			<ThingName>kabut keberuntungan</ThingName>
+			<Desc>Dibuat dengan metode rahasia menghujani benih keberuntungan menjadi debu. Meskipun efisiensinya menurun Namun, ia dapat digunakan sebagai media untuk merapal mantra yang menyehatkan tanah dalam banyak kesempatan.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_LongDan1" sParam="Item">
+			<ThingName>Pengobatan Naga</ThingName>
+			<Desc>Obat ajaib yang dimurnikan dari roh primordial Naga Air. Memiliki kemampuan untuk menambahkan 1 sub-jiwa, meningkatkan senjata roh yang dapat dikontrol sebanyak 1 slot, hanya efektif sekali seumur hidup orang tersebut.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FengDan1" sParam="Item">
+			<ThingName>Obat Angsa Menyala</ThingName>
+			<Desc>Obat ajaib yang dimurnikan dari Roh Primordial Burung Vermillion. Memiliki kemampuan untuk menambahkan 1 sub-jiwa, meningkatkan senjata roh yang dapat dikontrol sebanyak 1 slot, hanya efektif sekali seumur hidup orang tersebut.</Desc>
+		</Text>
+		<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
+			<ThingName>Pengobatan Saeng Pratheep</ThingName>
+			<Desc>Obat ajaib yang dimurnikan dari roh primordial naga lilin. Memiliki kemampuan untuk menambahkan 1 sub-jiwa, meningkatkan senjata roh yang dapat dikontrol sebanyak 1 slot, hanya efektif sekali seumur hidup orang tersebut.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FenShen1" sParam="Item">
+			<ThingName>Pengobatan Kejadian</ThingName>
+			<Desc>Pengobatan ilahi dari zaman kuno Dikatakan bahwa obat itu ditempa dari Qi Asal Dunia. Sayangnya, cara menempanya sudah lama hilang. Menelannya akan memungkinkan seseorang untuk terhubung dengan Qi Langit dan Bumi menggunakan Roh Primordialnya. Itu juga meningkatkan jumlah sub-jiwa sebanyak dua. Pil obat ini hanya berlaku sekali seumur hidup seseorang, dan hanya dapat mempengaruhi para penggarap Alam Roh Primordial.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FenShen2" sParam="Item">
+			<ThingName>Satu Obat</ThingName>
+			<Desc>Pengobatan ilahi dari zaman kuno Sayangnya, metode pembuatannya telah lama hilang. ketika memakannya akan membuat orang tersebut merasakan identitas lain miliknya. menciptakan sub-jiwa baru Pil obat ini hanya mempunyai efek satu kali seumur hidup orang tersebut, dan hanya berpengaruh pada para penggarap Alam Roh Primordial.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FenShen3" sParam="Item">
+			<ThingName>Kedokteran Batas</ThingName>
+			<Desc>Pengobatan ilahi dari zaman kuno Sayangnya, metode pembuatannya telah lama hilang. ketika memakannya Orang itu akan dapat menggunakan kekuatan batas untuk membagi dan membuat sub-jiwa. Namun, hal itu akan menyebabkan kerusakan permanen pada kondisi mental orang tersebut. Itu hanya efektif bagi para penggarap Alam Roh Primordial.</Desc>
+		</Text>
+		<Text Name="Item_Dan_TiShen" sParam="Item">
+			<ThingName>Kedokteran Isolasi</ThingName>
+			<Desc>Anda dapat membuat tiruan untuk berpartisipasi dalam pelelangan. Ini akan memungkinkan orang tersebut melarikan diri dengan cepat jika orang tersebut tidak memiliki batu roh untuk membayar harga lelang.</Desc>
+		</Text>
+		<Text Name="Item_QiZhi" sParam="Item">
+			<ThingName>Poin Kebijaksanaan Pengobatan</ThingName>
+			<Desc>Dapat digunakan pada hewan liar Membuat mereka memperoleh kebijaksanaan dan membangkitkan kesadaran.</Desc>
+		</Text>
+		<Text Name="Item_Fall_LingZhi" sParam="Item">
+			<ThingName>Pengobatan Musim Gugur</ThingName>
+			<Desc>Naikkan level qi unsur emas Sehingga hewan tersebut dapat memahami musim gugur secara mendalam dan merasakan pemikiran yang sesuai.</Desc>
+		</Text>
+		<Text Name="Item_Winter_LingZhi" sParam="Item">
+			<ThingName>obat musim dingin</ThingName>
+			<Desc>Naikkan level qi unsur air Sehingga hewan dapat memahami musim dingin secara mendalam dan merasakan pemikiran yang sesuai.</Desc>
+		</Text>
+		<Text Name="Item_Spring_LingZhi" sParam="Item">
+			<ThingName>obat musim semi</ThingName>
+			<Desc>Naikkan level qi unsur kayu Sehingga hewan dapat memahami musim semi secara mendalam dan merasakan pemikiran yang sesuai.</Desc>
+		</Text>
+		<Text Name="Item_Summer_LingZhi" sParam="Item">
+			<ThingName>obat musim panas</ThingName>
+			<Desc>Naikkan level qi elemen api Sehingga hewan tersebut dapat memahami musim panas secara mendalam dan merasakan pemikiran yang sesuai.</Desc>
+		</Text>
+		<Text Name="Item_Earth_LingZhi" sParam="Item">
+			<ThingName>obat bumi</ThingName>
+			<Desc>Menaikkan level qi unsur tanah Sehingga hewan dapat memahami daratan secara mendalam dan merasakan pemikiran yang sesuai.</Desc>
+		</Text>
+	</List>
+</Texts>
