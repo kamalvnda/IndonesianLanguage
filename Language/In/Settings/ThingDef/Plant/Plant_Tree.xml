@@ -1,0 +1,53 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>pohon Yang</ThingName>
+			<Desc>pohon cepat tumbuh Teksturnya lembut dan kokoh. Ini adalah sumber yang baik untuk menghasilkan kayu dan kayu bakar.</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>pinus</ThingName>
+			<Desc>pohon yang tumbuh lambat Tinggi dan lurus serta kayunya keras.</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>pohon pinus raksasa</ThingName>
+			<Desc>Sebuah pohon pinus tua</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>pohon pir</ThingName>
+			<Desc>Pohon buah-buahan pada umumnya adalah pohon yang baik tetapi tidak terlalu tahan terhadap korosi cuaca. Ini juga menghasilkan output yang relatif sedikit.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>pohon ginkgo</ThingName>
+			<Desc>Sebuah pohon besar yang tumbuh perlahan. Ia memiliki kemampuan untuk mencapai kebangkitan spiritual. Buahnya dapat dimakan dan memiliki khasiat penyembuhan yang luar biasa.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>Pohon Ginkgo Raksasa</ThingName>
+			<Desc>Pohon ginkgo sudah sangat tua. Ukurannya sangat besar dan memiliki Qi alami yang padat berputar-putar di sekitarnya.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>Pohon Angsa Flaming Kering</ThingName>
+			<Desc>Sisa-sisa Vermillion Swan Tree yang layu Tapi tingginya masih sangat tidak normal.</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>Hanya untuk teka-teki</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>pohon persik</ThingName>
+			<Desc>Pohon persik mekar dengan indah di musim semi.</Desc>
+			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>Flora Sian</ThingName>
+			<Desc>Sebuah pohon dengan aroma seorang master</Desc>
+			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>Pohon Setan</ThingName>
+			<Desc>Pohon yang berbau setan</Desc>
+			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel ini.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
