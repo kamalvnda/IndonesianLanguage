@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="OutFire">
+			<Events.0.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.0.Story>
+			<Events.1.Story>Saat memadamkan api, pikirannya tiba-tiba[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.1.Story>
+			<Events.2.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.2.Story>
+			<Events.3.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya ingin makan [obj_food]</Events.3.Story>
+			<Events.4.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.4.Story>
+			<Events.5.Story>Saat memadamkan api, tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.5.Story>
+			<Events.6.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya merasa ingin menangis.</Events.6.Story>
+			<Events.7.Story>Saat sedang memadamkan api, tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.7.Story>
+			<Events.8.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.8.Story>
+			<Events.9.Story>Saat sedang memadamkan api, tiba-tiba[name]Saya mulai memikirkan saat matahari terbenam.</Events.9.Story>
+		</Text>
+		<Text Name="Treat">
+			<Events.1.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>saat sedang dirawat[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>saat sedang dirawat[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>saat sedang dirawat[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>saat sedang dirawat[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Saya berkonsentrasi sebaik mungkin dan mencoba yang terbaik untuk menyembuhkan.[obj]</Events.10.Story>
+			<Events.11.Story>Karena pikiran dipengaruhi oleh [obj_badmood][name]Oleh karena itu, ia tidak mampu menjaga konsentrasinya sendiri selama menjalani perawatan.[obj]Ini membuat[hename]berteriak kesakitan</Events.11.Story>
+			<Events.12.Story>Karena pikiran dipengaruhi oleh [obj_badmood][name]Oleh karena itu, saya tidak sengaja bekerja terlalu keras dalam pengobatannya.[obj]Ini membuat[hename]Berteriak kesakitan</Events.12.Story>
+			<Events.13.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau menyenandungkan lagu bahagia saat sedang disembuhkan.[obj]Ini membuat[hename]Tapi saya tidak bisa berkata apa-apa.</Events.13.Story>
+			<Events.14.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau menyenandungkan lagu bahagia saat sedang disembuhkan.[obj]Ini membuat[hename]Merasa terdorong</Events.14.Story>
+			<Events.15.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau menyenandungkan lagu bahagia saat sedang disembuhkan.[obj]Ini membuat[hename]Merasa lebih gelap dari sebelumnya</Events.15.Story>
+			<Events.16.Story>saat sedang dirawat[obj]Tiba-tiba[name]Menggunakan terlalu banyak kekuatan, hal ini menyebabkan[hename]berteriak kesakitan</Events.16.Story>
+			<Events.17.Story>saat sedang dirawat[obj] [name]merasa kasihan dan simpati[hename] </Events.17.Story>
+			<Events.18.Story>saat sedang dirawat[obj] [name]berbicara dengan[hename]Tentang kisah [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj _tempat,obj_neearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.18.Story>
+		</Text>
+		<Text Name="Feed">
+			<Events.1.Story>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.[obj]ke[hename]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>saat masuk[obj]ke[hename]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>saat masuk[obj]ke[hename]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Saya berkonsentrasi sebaik mungkin dan mencoba yang terbaik untuk memberinya makan.[hename]</Events.10.Story>
+			<Events.11.Story>Karena pikiran dipengaruhi oleh [obj_badmood][name]Oleh karena itu, mereka tidak dapat mempertahankan konsentrasinya saat makan.[hename] [obj]terlalu panas, itulah penyebabnya[hename]berteriak kaget</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat menyusu.[obj]ke[hename]Ini membuat[hename]Tapi saya tidak bisa berkata apa-apa.</Events.12.Story>
+			<Events.13.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat menyusu.[obj]ke[hename]Ini membuat[hename]Merasa terdorong</Events.13.Story>
+			<Events.14.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat menyusu.[obj]ke[hename]Ini membuat[hename]Merasa lebih gelap dari sebelumnya</Events.14.Story>
+			<Events.15.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat menyusu.[obj]ke[hename]Ini membuat[hename]Merasa kesal</Events.15.Story>
+			<Events.16.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Aku merasa sangat tersesat sehingga aku[obj]Sebarkan ke seluruh halaman.[hename]</Events.16.Story>
+			<Events.17.Story>saat masuk[obj]ke[hename]Tiba-tiba[name]Saya mulai merasa ingin mencobanya.[obj]jam tangan</Events.17.Story>
+			<Events.18.Story>saat masuk[obj]ke[hename] [name]berbicara dengan[hename]Tentang kisah [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj _tempat,obj_neearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool]</Events.18.Story>
+		</Text>
+		<Text Name="Hunting">
+			<Events.1.Story>sambil berburu[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>sambil berburu[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>sambil berburu[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>sambil berburu[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>sambil berburu[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>sambil berburu[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>sambil berburu[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>sambil berburu[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>sambil berburu[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Saya berkonsentrasi sebaik mungkin dan mencoba yang terbaik untuk berburu.[obj]</Events.10.Story>
+			<Events.11.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat berburu.[obj]</Events.11.Story>
+			<Events.12.Story>sambil berburu[obj]Tiba-tiba[name]Saya merasa kasihan padanya.[obj]muncul karena suatu alasan</Events.12.Story>
+		</Text>
+		<Text Name="Build">
+			<Events.1.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>saat sedang dibuat[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>saat sedang dibuat[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>saat sedang dibuat[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>saat sedang dibuat[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Kemudian fokuskan yang terbaik dan cobalah yang terbaik untuk berkreasi.[obj]</Events.10.Story>
+			<Events.11.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat sedang dibuat.[obj]</Events.11.Story>
+			<Events.12.Story>[name]Rasakan dedikasi ekstra pada pekerjaan Anda saat berkreasi.[obj]Ini membuat[it]Saya merasa sangat bangga dengan pekerjaan saya.</Events.12.Story>
+		</Text>
+		<Text Name="Plant">
+			<Events.1.Story>saat ditanam[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>saat ditanam[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>saat ditanam[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>saat ditanam[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>saat ditanam[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>saat ditanam[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>saat ditanam[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>saat ditanam[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>saat ditanam[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Kemudian konsentrasikan yang terbaik dan cobalah yang terbaik untuk menanam.[obj]</Events.10.Story>
+			<Events.11.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat menanam.[obj]</Events.11.Story>
+			<Events.12.Story>[name]Merasa penuh harapan saat menanam[obj]: "Saya berharap tanaman musim ini akan menghasilkan panen yang baik."</Events.12.Story>
+		</Text>
+		<Text Name="Mine">
+			<Events.1.Story>sambil menggali[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>sambil menggali[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>sambil menggali[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>sambil menggali[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>sambil menggali[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>sambil menggali[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>sambil menggali[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>sambil menggali[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>sambil menggali[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Konsentrasikan yang terbaik dan cobalah yang terbaik untuk menggali.[obj]</Events.10.Story>
+			<Events.11.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira sambil menggali.[obj]</Events.11.Story>
+			<Events.12.Story>[name]Merasa penuh harapan saat menggali[obj]“Jika saya bisa menemukan Gua Suci atau Kotak Harta Karun Suci, itu akan sangat bagus…”</Events.12.Story>
+			<Events.13.Story>sambil menggali[obj]Tiba-tiba[name]tiba-tiba merasa putus asa, “Kapan saya akan dipromosikan menjadi murid batiniah?”</Events.13.Story>
+			<Events.14.Story>[name]Saya merasa sangat energik saat menggali.[obj] [it]Pikirkan sendiri, ini juga merupakan bagian penting dari pelatihan.</Events.14.Story>
+		</Text>
+		<Text Name="CutOff">
+			<Events.1.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>sambil mengumpulkan[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>sambil mengumpulkan[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>sambil mengumpulkan[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun pikiran dipengaruhi oleh [obj_badmood],[name]Saya berkonsentrasi sebaik mungkin dan mencoba yang terbaik untuk mengumpulkan.[obj]</Events.10.Story>
+			<Events.11.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau bersenandung gembira saat mengumpulkan.[obj]</Events.11.Story>
+			<Events.12.Story>[name]Saya merasa sangat bersemangat saat mengumpulkan.[obj] [it]Pikirkan sendiri, ini juga merupakan bagian penting dari pelatihan.</Events.12.Story>
+		</Text>
+		<Text Name="Eat">
+			<Events.1.Story>sambil makan[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>sambil makan[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>sambil makan[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>sambil makan[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>sambil makan[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>sambil makan[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>sambil makan[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>sambil makan[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>sambil makan[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Karena pikiran dipengaruhi oleh [obj_badmood][name]rasakan itu[obj]Hambar dan tidak ada bedanya dengan makan lilin lebah.</Events.10.Story>
+			<Events.11.Story>[name]sangat ceria karena [obj_goodmood] ini membuat[IT]rasakan itu[obj]Rasanya lebih nikmat dari biasanya.</Events.11.Story>
+		</Text>
+		<Text Name="Drink">
+			<Events.1.Story>sambil minum[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>sambil minum[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>sambil minum[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>sambil minum[obj]Tiba-tiba[name]Saya ingin minum [obj_food]</Events.4.Story>
+			<Events.5.Story>sambil minum[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>sambil minum[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>sambil minum[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>sambil minum[obj]Tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>sambil minum[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+		</Text>
+		<Text Name="Fighting">
+			<Events.1.Story>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>Saat bertarung, pikirannya tiba-tiba[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>Saat sedang bertarung, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>Saat sedang bertarung, tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>Saat sedang bertarung, tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>saat bertarung Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>Saat sedang bertarung, tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>Saat sedang bertarung, tiba-tiba[name]Merasa kesal tentang sesuatu yang tidak dapat dijelaskan</Events.8.Story>
+			<Events.9.Story>Saat sedang bertarung, tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>saat bertarung[name]Diputuskan ketika pertempuran selesai[IT]Akan kembali ke kampung halamannya untuk mengunjungi keluarganya.[IT]</Events.10.Story>
+			<Events.11.Story>saat bertarung[name]Diputuskan ketika pertempuran selesai[IT]Saya sedang mencari pasangan hidup.</Events.11.Story>
+			<Events.12.Story>saat bertarung[name]Diputuskan ketika pertempuran selesai[IT]Mereka akan ditemukan merayakan dengan teman-teman dan minum sampai mereka berdua mabuk.</Events.12.Story>
+		</Text>
+		<Text Name="Fishing">
+			<Events.1.Story>Saat sedang memancing, tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>Saat memancing, pikirannya tiba-tiba[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>Saat sedang memancing, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>Saat sedang memancing, tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+		</Text>
+	</List>
+</Texts>
