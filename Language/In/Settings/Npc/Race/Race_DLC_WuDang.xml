@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<DisplayName>Penyu hitam Myo</DisplayName>
+			<Desc>Penyu Hitam Miao adalah iblis kuno yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>Grr...</TalkBefore>
+			<TalkAfter>...Grr!</TalkAfter>
+		</Text>
+		<Text Name="WuDang_WuDiYa">
+			<DisplayName>Bebek Wutung</DisplayName>
+			<Desc>Bebek Misterius yang Hidup di Gunung Boo Tung!</Desc>
+		</Text>
+	</List>
+</Texts>
