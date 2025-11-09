@@ -1,0 +1,114 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_5_1">
+			<Prefix>tangan kiri</Prefix>
+			<Suffix>tak berwajah</Suffix>
+			<Desc>Tubuh misterius yang ditempa menggunakan inti tak berbentuk sebagai pusatnya. Mengolahnya akan memungkinkan praktisi mengendalikan Qi Sejati dalam pikiran mereka dan menggunakannya untuk membelokkan cahaya dan persepsi musuh. Memungkinkan untuk menyerang titik mati musuh dengan mudah.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.\n Meningkatkan ketahanan dasar Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius secara moderat.\n Meningkatkan serangan yang menembus energi dalam dari Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_1_1">
+			<Prefix>tangan kanan</Prefix>
+			<Suffix>tak berwajah</Suffix>
+			<Desc>Tubuh misterius yang ditempa menggunakan inti tak berbentuk sebagai pusatnya. Ini cukup biasa dalam segala hal. Namun demikian, ia memiliki banyak ruang untuk berkembang.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.\n Meningkatkan ketahanan dasar Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius secara moderat.\n Meningkatkan serangan yang menembus energi dalam dari Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_2">
+			<Prefix>tangan kiri</Prefix>
+			<Suffix>mengkonsumsi langit</Suffix>
+			<Desc>Fisik Misterius rahasia yang menarik energi dari Jantung Api dan menciptakan Qi Sejati yang sangat panas. Akibatnya musuh hampir tidak mampu bertahan dari serangan teknik ini.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara signifikan.\n Meningkatkan serangan yang menembus energi dalam Fisik Misterius secara moderat.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_3">
+			<Prefix>tangan kanan</Prefix>
+			<Suffix>segel musim dingin</Suffix>
+			<Desc>Fisik Misterius rahasia yang menarik energi dari ginjal es dan menciptakan True Qi yang sangat dingin. Hasilnya, ia memiliki kemampuan untuk menekan senjata magis musuh.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara signifikan.\n Meningkatkan serangan yang menembus energi dalam Fisik Misterius secara moderat.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_4">
+			<Prefix>telapak</Prefix>
+			<Suffix>bulan elf</Suffix>
+			<Desc>Masukkan sari bulan ke telapak tangan untuk meningkatkan kecepatan halus telapak tangan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.\n Meningkatkan peluang menekan senjata ajaib Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_5">
+			<Prefix>kaki</Prefix>
+			<Suffix>Berselancar di Matahari</Suffix>
+			<Desc>Badan rahasia legendaris yang ditemukan oleh Klan Raksasa Primordial. Legenda mengatakan bahwa Raksasa Purba menjadi secepat kilat setelah mencapai Fisik Misterius ini dan menggunakannya untuk mengejar matahari.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.\n Meningkatkan basis penghindaran dari Penggarap Fisik Abadi secara signifikan.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_6">
+			<Prefix>Bentuk ilusi</Prefix>
+			<Suffix>kamuflase</Suffix>
+			<Desc>Tempa tubuh menggunakan Inti Tanpa Bentuk untuk meningkatkan kecepatan dan daya tahan Fisik Misterius.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.\n Sangat meningkatkan peluang menekan senjata ajaib Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan basis penghindaran dari Penggarap Fisik Abadi.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_7">
+			<Prefix>lengan</Prefix>
+			<Suffix>Seribu setan</Suffix>
+			<Desc>Cetakan daging lengan menyebabkan perubahan aneh. Hasilnya, ia memiliki fleksibilitas dan kekuatan yang tak terbayangkan. Fisik Misterius ini sangat jahat dan ganas.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.\n Sangat meningkatkan peluang menekan senjata ajaib Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.\n Mengurangi pesona secara signifikan.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_8">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Seratus sajak</Suffix>
+			<Desc>Ia membentuk rahang berdaging di lengannya untuk menghasilkan perubahan yang aneh, seolah-olah ratusan mata muncul di tubuhnya. Hasilnya, peserta pelatihan bisa mengenali semua serangan musuh.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.\n Meningkatkan peluang menekan senjata ajaib Fisik Misterius secara moderat.\n Mengurangi pesona secara signifikan.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan akurasi serangan Fisik Tersembunyi.\n Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.\n Mengurangi pesona secara signifikan.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_9">
+			<Prefix>baja</Prefix>
+			<Suffix>tulang</Suffix>
+			<Desc>Membentuk tulang-tulang seluruh tubuh untuk mengubahnya agar dapat menembus kulit. Hasilnya, pelatih dapat menggunakan tulangnya untuk membuat pelindung di sekeliling tubuhnya dan menggunakannya untuk menahan kerusakan bila diperlukan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_10">
+			<Prefix>jantung</Prefix>
+			<Suffix>Yod Phiphob</Suffix>
+			<Desc>Gunakan kekuatan antimateri untuk meluluhkan hati dan menciptakan Qi Sejati yang misterius. Jika Anda menggunakan metode ini untuk membentuk hati Anda, Ia berpotensi mengalami transformasi misterius dan mengembangkan potensi evolusi seluruh daging.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari Sihir Pemurnian Tubuh: Menyempurnakan Fisik Lawan</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_11">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Menghabiskan hidup</Suffix>
+			<Desc>Gunakan kekuatan antimateri untuk memadukan tulang punggung dan menciptakan True Qi yang misterius. True Qi yang misterius ini dapat merangsang laju metabolisme tubuh dengan sangat baik. Namun dengan mengorbankan sebagian umur pengguna.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari mantranya: Sia-sia Kehidupan</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Pelajari mantranya: Bakar Kehidupan</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
