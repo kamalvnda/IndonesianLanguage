@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>Latih pemurnian tubuh</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>Berlatihlah menyempurnakan tubuh Anda saat bertarung.</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>kekuatan yang dahsyat</DisplayName>
+			<Desc>Fisik Misterius orang ini mempunyai potensi yang sangat besar hingga mampu menghancurkan gunung dan mengubah permukaan laut.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>tahan lama</DisplayName>
+			<Desc>Fisik Misterius orang ini berpotensi memiliki daya tahan yang tak tertandingi. Dikatakan bahwa setelah tubuh ini utuh, tidak ada yang dapat menghancurkan orang tersebut.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>Menghindari</DisplayName>
+			<Desc>Orang ini memiliki kecepatan dan ketangkasan sehingga tidak ada yang bisa menyentuhnya.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>berebut</DisplayName>
+			<Desc>Ketangkasan tangan orang ini lebih cepat dari senjata ajaib apa pun.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>terobosan</DisplayName>
+			<Desc>Orang ini sangat cerdas. Mereka bisa dengan mudah melihat kelemahan dan kerentanan dari armor yang dalam. dan menggunakan kerentanan itu untuk menyerang melalui penghalang yang dalam</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>kuat</DisplayName>
+			<Desc>Tubuh orang ini sangat kuat. Apalagi hati mereka kokoh dan stabil serta tidak ada rasa sakit. dapat mencegahnya</Desc>
+		</Text>
+	</List>
+</Texts>
