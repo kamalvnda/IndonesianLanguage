@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FishTimes">
+			<DisplayName>Kuantitas penangkapan ikan</DisplayName>
+			<DisplayValue>{0} item</DisplayValue>
+			<Desc>Jumlah ikan yang ditangkap oleh pembudidaya ini</Desc>
+		</Text>
+		<Text Name="HeaviestFish">
+			<DisplayName>Ikan terberat</DisplayName>
+			<DisplayValue>{0:f1} timbang</DisplayValue>
+			<Desc>Bobot ikan terberat yang ditangkap oleh pembudidaya ini</Desc>
+		</Text>
+	</List>
+</Texts>
