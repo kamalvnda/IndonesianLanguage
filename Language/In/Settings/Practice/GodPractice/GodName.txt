@@ -1,0 +1,15 @@
+metafisika,Hongmeng,Pada awalnya,kekacauan,selalu,Zixiao,Kado,Janji,Tanpa permulaan,Tak ada habisnya,Tai Chi,Taishi,Terlambat,tertinggi,Dinasti Yuan Awal,tak terukur,Tanpa permulaan,Tak ada habisnya,Qingxu,Terlalu lemah,misteri,Gao Tian,Sage
+Lokasi,Arktik,Antartika,Kutub Barat,Kutub Timur,tiang tengah,Chitian,langit biru,Kresna,Huang Tian,langit keemasan,langit ungu,bitan,Xutian,Xuantian,sembilan hari,Ling Tian,Haotian,Xuantian,Qiongtian,Tiantian,Shang Gong,istana xuan,kuil,istana suci,Istana Rohani,utara,Timur,selatan,Barat,Takhta Suci,Kursi ringan,Kursi Tiongkok
+derajat,Gengen,misterius,tertinggi,tertinggi,tertinggi,sembilan patung,Zunji,Yang Mulia,Tai Zun,Taihuang,Terlalu bagus,Taixuan,tinggi,tertinggi,ekstrim,Hormatilah Orang Suci,suci,Xuansheng
+tingkat keinginan<100,
+tingkat keinginan100-500,keinginan universal,keinginan umum,keinginan segel,keinginan menjadi kenyataan,Dengan keinginan,Ubah keinginan,Buatlah sebuah keinginan,Wen Yuan
+tingkat keinginan>500,keinginan suci,Cita-cita yang tinggi,menghormati keinginan,keinginan surga,keinginan Tuhan,angan-angan,mengharapkan,keinginan rohani
+bidang<0.3,Dawei,serius,Huayan,Hukum yang bagus,menghormati api,Neraka Suci,bantuan besar,amnesti
+bidang0.3-0.7,
+bidang>0.7,kesempurnaan,Zhiren,Kebajikan,kekudusan,BENAR,kebaikan yang luar biasa,Daren,Daci,kesedihan yang luar biasa
+skala<10W,Cunxuan,meniru,Qinghua,Tongtian,Chengtian
+skala10W-100W,Selalu terang,bersinar,menyelamatkan penderitaan,memecahkan masalah
+skala>100W,Taihuang,Tai De,Tianzun,Tiande,Huangtian
+akhiran7-9,Yuanjun,Raja Suci,Raja Dewa,Yang mulia
+akhiran10-11,Tuhan,Kaisar Suci,menghormati kaisar,Dewa Kaisar
+akhiran12,tuhan yang tinggi,Kaisar Zun Sheng,Kaisar Yuansheng,menghormati Tuhan,Jadi Tuhan,Gao Shen Di Cheng
