@@ -1,0 +1,44 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Story_PracticeSpeed1">
+      <DisplayName>Kecepatan budidaya meningkat sebesar 5%.</DisplayName>
+      <Desc>Kecepatan budidaya meningkat sebesar 5%.</Desc>
+    </Text>
+    <Text Name="Story_LingMax1">
+      <DisplayName>Qi maksimum meningkat sebesar 2%.</DisplayName>
+      <Desc>Qi maksimum meningkat sebesar 2%.</Desc>
+    </Text>
+    <Text Name="Story_FabaoPower1">
+      <DisplayName>Kekuatan harta karun meningkat sebesar 5%.</DisplayName>
+      <Desc>Kekuatan harta karun meningkat sebesar 5%.</Desc>
+    </Text>
+    <Text Name="Story_LingAbsorbSpeed1">
+      <DisplayName>Pengisian ulang Qi meningkat sebesar 10%.</DisplayName>
+      <Desc>Pengisian ulang Qi meningkat sebesar 10%.</Desc>
+    </Text>
+    <Text Name="Story_WorldMapFlySpeedAddP1">
+      <DisplayName>Kecepatan perjalanan meningkat sebesar 50%.</DisplayName>
+      <Desc>Kecepatan perjalanan meningkat sebesar 50%.</Desc>
+    </Text>
+    <Text Name="Story_ShieldConversionRate1">
+      <DisplayName>Efisiensi pertahanan Qi meningkat sebesar 10%.</DisplayName>
+      <Desc>Efisiensi pertahanan Qi meningkat sebesar 10%.</Desc>
+    </Text>
+    <Text Name="Story_DragonBlood">
+      <DisplayName>Garis keturunan naga</DisplayName>
+      <Desc>Orang ini telah membangkitkan garis keturunan naga di dalam pembuluh darahnya: Fisik +2; Indera +2; Qi maksimum +25%</Desc>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish1">
+      <DisplayName>Hadiah</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish2">
+      <DisplayName>Hadiah</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish3">
+      <DisplayName>Hadiah</DisplayName>
+    </Text>
+    <Text Name="Modifier_Story_BossLong_Wish4">
+      <DisplayName>Hadiah</DisplayName>
+    </Text>
+  </List>
+</Texts>
