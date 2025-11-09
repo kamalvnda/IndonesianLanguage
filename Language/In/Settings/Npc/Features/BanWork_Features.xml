@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NoHeavyWork">
+			<DisplayName>telur di dalam batu</DisplayName>
+			<Desc>Hidup nyaman membuat[IT]tidak bisa bekerja keras</Desc>
+		</Text>
+		<Text Name="NoMeticulousWork">
+			<DisplayName>kikuk</DisplayName>
+			<Desc>Orang ini terlalu kikuk untuk melakukan tugas yang membutuhkan ketelitian.</Desc>
+		</Text>
+	</List>
+</Texts>
