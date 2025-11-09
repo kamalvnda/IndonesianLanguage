@@ -1,0 +1,17 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Laporkan Bug	无成功失败/中性回答	Kesuksesan!	Gagal	Parameter numerik (SECRET adalah ID peristiwa)	文本参数	
+Chat_Place_WuDang_JinDing	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan hanya muncul di musim panas.					NPC_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan hanya muncul di musim panas.					NPC_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan hanya muncul di musim panas.					NPC_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan hanya muncul di musim panas.					NPC_WuDang_1
+Chat_Place_WuDang_JinDing	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan mereka hanya memakan benda berelemen logam.					NPC_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan mereka hanya memakan benda berelemen logam.					NPC_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan mereka hanya memakan benda berelemen logam.					NPC_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Apakah ada ikan spesial di sini?	Konon ada sejenis kepiting di awan dan mereka hanya memakan benda berelemen logam.					NPC_WuDang_1
+Chat_Place_WuDang_JinDing	0	Apakah ada ikan spesial di sini?	Harap perhatikan awan di dekatnya dan Anda dapat menemukan beberapa ikan hitam. Namun mereka tidak menampakkan wajah mereka pada siang hari.					NPC_WuDang_1
+Chat_Place_WuDang_NanYanGong	0	Apakah ada ikan spesial di sini?	Harap perhatikan awan di dekatnya dan Anda dapat menemukan beberapa ikan hitam. Namun mereka tidak menampakkan wajah mereka pada siang hari.					NPC_WuDang_1
+Chat_Place_WuDang_ZiXiaoGong	0	Apakah ada ikan spesial di sini?	Harap perhatikan awan di dekatnya dan Anda dapat menemukan beberapa ikan hitam. Namun mereka tidak menampakkan wajah mereka pada siang hari.					NPC_WuDang_1
+Chat_Place_WuDang_Taizipo	0	Apakah ada ikan spesial di sini?	Harap perhatikan awan di dekatnya dan Anda dapat menemukan beberapa ikan hitam. Namun mereka tidak menampakkan wajah mereka pada siang hari.					NPC_WuDang_1
+Chat_Npc_Npc_WuDang_1	0	道友……	这位道友，你与我有缘呀！你我当结为好友，义结金兰，邀为同道……					
+Chat_Npc_Npc_WuDang_1	0	道友最近如何？	嘎嘎，武当无敌鸭！					
+Chat_Npc_Npc_WuDang_1	0	道友创世之业如何了？	唔，创世本非易与之事，还差一些时日，道友勿急。					
