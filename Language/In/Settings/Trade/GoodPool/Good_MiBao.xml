@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BaiManMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Penggemar surgawi</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Setiap 10 serangan akan mengeluarkan energi sihir untuk menyerang musuh.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="TianJiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Dadu kayu suci</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tingkatkan keterampilan armor ke 8 level.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeiShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Tombak Debu Bintang</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% dari kerusakan yang diberikan diubah menjadi energi untuk senjata ajaib.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ZhengYiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Yantra lima huruf</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Setiap 5 serangan mengurangi cooldown skill sebanyak 1 detik.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="JiuHuaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>bendera emas hitam</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan kerusakan pada target berbasis kayu sebesar 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="WuLianMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>bendera kayu kuning</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan kerusakan terhadap target elemen Tanah sebesar 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ShuShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Bendera Air Ungu</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan kerusakan pada target elemen Api sebesar 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="KunLunMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>bendera bumi merah</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan kerusakan pada target berelemen Air sebesar 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="XianKongMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Bendera Api Hijau</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan kerusakan pada target berelemen emas sebesar 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="DanXiaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Pedang Obligasi</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Meningkatkan damage sebesar 1,25 kali saat menyerang senjata sihir musuh.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeHuanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Cakra Iman</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Itu tidak bisa digunakan untuk serangan apa pun, tapi terus berputar. Tubuh pemiliknya digunakan untuk melindungi dari serangan musuh.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+	</List>
+</Texts>
