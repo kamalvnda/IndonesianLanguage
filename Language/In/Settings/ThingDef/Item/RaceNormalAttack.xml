@@ -1,0 +1,218 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="NormalAttackBase" sParam="Item">
+			<ThingName>serangan umum</ThingName>
+		</Text>
+		<Text Name="Human_NormalAttack" sParam="Item">
+			<ThingName>serangan manusia</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>gigitan, headbutt, benjolan</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>tendangan, pukulan, sundulan</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>tendangan, pukulan</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Zombie_NormalAttack" sParam="Item">
+			<ThingName>serangan zombie</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>sundulan, tendangan</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>headbutt</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>menggigit, menabrak</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>menggigit, menabrak</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>menggigit, menabrak</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Rabbit_NormalAttack" sParam="Item">
+			<ThingName>serangan kelinci</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menyentuh</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menyentuh</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dog_NormalAttack" sParam="Item">
+			<ThingName>Inti Setan Anjing Surgawi</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Fox_NormalAttack" sParam="Item">
+			<ThingName>Inti Setan Rubah Roh</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dragon_NormalAttack" sParam="Item">
+			<ThingName>Inti Setan Naga Azure</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
+			<ThingName>Inti Setan Angsa Nilkal</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Chicken_NormalAttack" sParam="Item">
+			<ThingName>serangan ayam</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>mencubit</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggores</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggores</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Wolf_NormalAttack" sParam="Item">
+			<ThingName>serangan serigala</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Snake_NormalAttack" sParam="Item">
+			<ThingName>serangan ular</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Mencekik</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Mencekik</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Mencekik</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Mencekik</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>menggigit</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Boar_NormalAttack" sParam="Item">
+			<ThingName>Serangan Babi Hutan</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menabrak</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Bear_NormalAttack" sParam="Item">
+			<ThingName>serangan beruang</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggores</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggores</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggores</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Turtle_NormalAttack" sParam="Item">
+			<ThingName>serangan penyu</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>mencerminkan kembali</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit</Item.Equip.AtkDamage.1.DescTags>
+		</Text>
+		<Text Name="Frog_NormalAttack" sParam="Item">
+			<ThingName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>cambukan lidah</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="LuShu_NormalAttack" sParam="Item">
+			<ThingName>Serangan Lu Su</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menyentuh</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menyentuh</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menyentuh</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menyentuh</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Korosi nafas</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Fei_NormalAttack" sParam="Item">
+			<ThingName>Serangan Fei</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menabrak</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menabrak</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menabrak</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Nafas Wabah</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Cat_NormalAttack" sParam="Item">
+			<ThingName>serangan kucing</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Cattle_NormalAttack" sParam="Item">
+			<ThingName>serangan banteng</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menabrak</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menabrak</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menabrak</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Tiger_NormalAttack" sParam="Item">
+			<ThingName>serangan harimau</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCat_NormalAttack" sParam="Item">
+			<ThingName>Goresan kucing</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCattle_NormalAttack" sParam="Item">
+			<ThingName>Tanduk banteng ditusukkan</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menabrak</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menabrak</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menabrak</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYTiger_NormalAttack" sParam="Item">
+			<ThingName>Taring Harimau</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYRabbit_NormalAttack" sParam="Item">
+			<ThingName>jarum kelinci</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menyentuh</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menyentuh</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYWolf_NormalAttack" sParam="Item">
+			<ThingName>taring serigala</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menggigit, menggaruk</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYSnake_NormalAttack" sParam="Item">
+			<ThingName>Sisik ular</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Skala Racun Napa</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Skala Racun Napa</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Skala Racun Napa</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Skala Racun Napa</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Skala Racun Napa</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="JYBoar_NormalAttack" sParam="Item">
+			<ThingName>lumpur batu keras</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Bumi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Bumi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Bumi</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Serangan Bumi</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Serangan Bumi</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Serangan Bumi</Item.Equip.AtkDamage.5.DescTags>
+		</Text>
+		<Text Name="JYBear_NormalAttack" sParam="Item">
+			<ThingName>Gores beruang terbang</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Api Qi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYFrog_NormalAttack" sParam="Item">
+			<ThingName>Serangan Tetesan Air</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>cambukan lidah</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>cambukan lidah</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>cambukan lidah</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYTurtle_NormalAttack" sParam="Item">
+			<ThingName>Cangkang Kura-kura Hitam</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+			<ThingName>Fang Hamba Naga</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Serangan Pranvari</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+	</List>
+</Texts>
