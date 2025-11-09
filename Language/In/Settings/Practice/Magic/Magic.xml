@@ -1,0 +1,252 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>bebas</DisplayName>
+			<Desc>Bangunan yang hilang dan tidak diketahui \n(kosong)</Desc>
+		</Text>
+		<Text Name="RebornSelf">
+			<DisplayName>Sihir yang terlahir kembali</DisplayName>
+			<Desc>Teknik rahasia Sekte Tai Yi Gunakan Mutiara Roh sebagai media untuk menghancurkan seluruh basis kultivasi Anda. Dengan cara ini, pengguna akan terlahir kembali sebagai orang normal kembali.</Desc>
+		</Text>
+		<Text Name="JieHuiDaoPowerUp">
+			<DisplayName>Tempa Kristal Dao</DisplayName>
+			<Desc>Gunakan 1 tumpukan Dustian untuk menaikkan level suatu objek sebanyak 1 level.</Desc>
+		</Text>
+		<Text Name="SoulCrystalYouPowerUp">
+			<DisplayName>Tempa Permata Roh Iblis</DisplayName>
+			<Desc>Gunakan 1 permata Spirit of Vengeance untuk menaikkan level objek sebanyak 1 level.</Desc>
+		</Text>
+		<Text Name="SoulCrystalLingPowerUp">
+			<DisplayName>Tempa Permata Roh</DisplayName>
+			<Desc>Gunakan 1 Permata Spiritual untuk meningkatkan Qi internal objek. (Jika benda itu adalah senjata ajaib, jumlah tambahannya akan diubah menjadi jumlah Qi maksimum.)</Desc>
+		</Text>
+		<Text Name="MakeSoulCrystal">
+			<DisplayName>Nyanyian Rohani</DisplayName>
+			<Desc>Itu digunakan pada tubuh sekarat dari mereka yang tidak memiliki basis budidaya untuk menyaring roh mereka menjadi permata roh. Hanya dapat digunakan sekali per target.</Desc>
+		</Text>
+		<Text Name="MakePuppet">
+			<DisplayName>Bangunkan mayatnya</DisplayName>
+			<Desc>Digunakan untuk membangunkan mayat orang mati. Mayat yang terbangun dapat digunakan untuk melakukan berbagai tugas lain-lain. Kualitas jenazah tergantung pada basis budidaya selama orang tersebut masih hidup.\n[color=#D06508]Seorang kultivator hanya bisa mengendalikan satu mayat per orang.[/color]</Desc>
+		</Text>
+		<Text Name="BuidPuppet">
+			<DisplayName>Berikan jiwamu</DisplayName>
+			<Desc>Berikan jiwamu pada boneka Dapat digunakan untuk memindahkan berbagai macam benda. Kualitas sebuah boneka bergantung pada tingkat bahan yang digunakan untuk membuatnya.\n[color=#D06508]Seorang kultivator hanya dapat mengendalikan satu monster per orang.[/color]</Desc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Pencarian Jiwa</DisplayName>
+			<Desc>Gunakan pada tubuh yang sekarat untuk mencari kenangan tentang lokasi harta karun orang tersebut, teknik budidaya, atau pengetahuan lainnya. Peluang keberhasilan dalam pencarian jiwa semakin meningkat jika digunakan di tempat dengan Feng Shui yang buruk.</Desc>
+		</Text>
+		<Text Name="ClosedDoor">
+			<DisplayName>Fokuskan pikiran Anda dan latih pernapasan Anda.</DisplayName>
+			<Desc>Masuki kondisi meditasi untuk melatih diri Anda sendiri. Kehilangan umur dan kekuatan fisik dengan cepat. Namun, efisiensi pelatihan dan jumlah Qi maksimum akan meningkat.</Desc>
+		</Text>
+		<Text Name="ClosedDoor_Gong1">
+			<DisplayName>Cermin air</DisplayName>
+			<Desc>Metode meditasi misterius dicatat dalam Enam Belas Langkah Teknik Budidaya Keabadian. Berkultivasi dengan memvisualisasikan air sebening cermin di dalam Laut Roh dan meningkatkannya ke tingkat konsentrasi yang lebih tinggi, yang akan dengan cepat membangun kekuatan dengan mengorbankan umur. Dalam kondisi ini, jiwa kultivator memasuki kondisi kehampaan. Karena itu, bahkan pikirannya pun terhenti. Oleh karena itu, tingkat budidaya tidak meningkat selama teknik ini digunakan.</Desc>
+		</Text>
+		<Text Name="ClosedDoor_Gong4">
+			<DisplayName>Meditasi primordial</DisplayName>
+			<Desc>Metode budidaya Qi rahasia yang dicatat dalam Teknik Budidaya Giok Murni Abadi. Membantu jiwa seseorang melakukan perjalanan ke Alam Purba ketika bumi dan surga lahir. Ini jauh lebih efisien dibandingkan metode penanaman Qi lainnya, dan dengan metode ini, para pembudidaya tidak perlu mengeluarkan masa hidup mereka sendiri.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Aoe">
+			<DisplayName>Nafas Roh</DisplayName>
+			<Desc>Pergi ke lokasi yang ditentukan untuk menyerap Qi alami.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Live">
+			<DisplayName>Jalan Relikui Kematian</DisplayName>
+			<Desc>Gunakan pada makhluk yang tidak memiliki basis budidaya untuk mengekstrak umur dan menggunakannya untuk meningkatkan Qi pengguna.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Body">
+			<DisplayName>menelan darah</DisplayName>
+			<Desc>Memurnikan tubuh orang mati dan mengubahnya menjadi Qi. Semakin baik kondisi tubuh saat hidup, semakin banyak Qi yang diterimanya.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Thing">
+			<DisplayName>Satu dengan pegunungan</DisplayName>
+			<Desc>Gunakan pada bangunan, tanaman, dan mineral di peta untuk menyerap energinya. Semakin banyak energi yang dimiliki target, semakin banyak pula energi yang dimiliki target. Semakin tinggi kecepatan dan jumlah maksimum Qi yang dapat diserap.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Item">
+			<DisplayName>telapak tangan menyerap nafas</DisplayName>
+			<Desc>Menyerap Qi yang terkandung dalam benda.</Desc>
+		</Text>
+		<Text Name="Healing_Damage">
+			<DisplayName>Penyembuhan Qi</DisplayName>
+			<Desc>Mengirimkan nafas untuk menyembuhkan luka dalam target.</Desc>
+		</Text>
+		<Text Name="BuildBody">
+			<DisplayName>Buat tubuh baru</DisplayName>
+			<Desc>Meregenerasi seluruh organ dan bagian tubuh yang hilang.</Desc>
+		</Text>
+		<Text Name="RobBodyLow">
+			<DisplayName>Sihir Jejak Jiwa</DisplayName>
+			<Desc>Sihir itu mengambil alih tubuh tingkat rendah. Namun, mengambil alih tubuh makhluk tanpa basis budidaya, pengguna akan kehilangan sejumlah besar basis budidaya mereka. dan mengakibatkan ketidakcocokan jiwa dan raga.</Desc>
+		</Text>
+		<Text Name="RobBodyHigh">
+			<DisplayName>Mahaveda mencetak jiwa</DisplayName>
+			<Desc>Sihir itu mengambil alih tubuh tingkat tinggi. Namun, mengambil alih tubuh makhluk tanpa basis budidaya, pengguna akan kehilangan sejumlah besar basis budidaya mereka.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_1">
+			<DisplayName>Kompor roh</DisplayName>
+			<Desc>Menyerap umur makhluk tanpa basis budidaya. untuk meningkatkan ide dan basis budidayanya. Lebih efektif bila digunakan terhadap target yang kuat secara fisik.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_1_Gong9">
+			<DisplayName>Tutup pikiran Anda pada singularitas.</DisplayName>
+			<Desc>Manfaatkan kekuatan Enam Alam Keberadaan untuk menyerap Laut Qi. Cara ini memungkinkannya menyerap umur makhluk tanpa basis budidaya apa pun. Kemudian gunakan untuk mengoptimalkan praktik dan ide Anda sendiri. Subjek ini akan lebih efektif melawan target dengan tubuh yang kuat.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_2">
+			<DisplayName>Kerajaan ilusi</DisplayName>
+			<Desc>Menciptakan Alam Ilusi untuk mengelabui makhluk lawan jenis dari ras yang sama dengan dirinya yang bukan kultivator. Kemudian menyerap umur mereka untuk mengembangkan konsep mereka sendiri dan meningkatkan tingkat kultivasi mereka. Lebih efektif jika digunakan pada target yang sangat karismatik.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_2_Gong7">
+			<DisplayName>tanah Maya</DisplayName>
+			<Desc>Menciptakan Alam Ilusi untuk mengelabui makhluk lawan jenis dari ras yang sama dengan dirinya yang bukan kultivator. Kemudian menyerap umur mereka untuk mengembangkan konsep mereka sendiri dan meningkatkan tingkat kultivasi mereka. Lebih efektif jika digunakan pada target yang sangat karismatik.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_3">
+			<DisplayName>Rebut jiwa</DisplayName>
+			<Desc>Mengambil alih tubuh makhluk tanpa basis budidaya. Ubah dan manfaatkan kekuatan orang tersebut untuk meningkatkan konsep dan basis kultivasinya. Lebih efektif jika digunakan terhadap target intelijen tinggi.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_3_Gong11">
+			<DisplayName>Pemurnian Roh Sembilan Bayangan</DisplayName>
+			<Desc>Manfaatkan energi bawah tanah untuk membangkitkan jiwa makhluk yang tidak memiliki basis budidaya. Ini dapat meningkatkan efisiensi dan ide budidaya. Semakin tinggi kecerdasan target, semakin efektif pula hasil mantranya.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_4">
+			<DisplayName>Distilasi roh</DisplayName>
+			<Desc>Melakukan pemurnian jiwa dengan menggunakan penyiksaan pada makhluk yang tidak memiliki basis budidaya dan memiliki ras yang sama dengan penggunanya. Menimbulkan rasa sakit yang luar biasa pada mereka dan bersukacita karenanya.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_5">
+			<DisplayName>Ledakan emosi</DisplayName>
+			<Desc>Gunakan untuk melawan makhluk yang tidak memiliki basis budidaya dan ras yang sama dengan pengguna. Jika target memiliki keadaan emosi yang kuat (Bilah emosi lebih dari 160 atau kurang dari 40) Pengguna akan menerima konsep dan dasar pengembangan dari target. Saat mantra diucapkan Efek mantranya akan bertahan selamanya. Semakin kuat emosi target, maka semakin kuat pula emosi target. Semakin kuat efek mantranya, semakin kuat pula efek mantranya.\nUntuk setiap target yang ditetapkan, efek mantranya akan semakin kuat. Keadaan mental dan emosional dasar pengguna juga akan menurun sesuai jumlah yang ditargetkan. dan targetnya akan lebih mudah marah. Mantra tersebut dapat dihentikan dengan mengulanginya pada target yang sama.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_6">
+			<DisplayName>Semangat yang tersembunyi</DisplayName>
+			<Desc>Pelajari mantranya: Roh Tersembunyi\nDigunakan untuk melawan makhluk yang tidak memiliki basis budidaya dan ras yang sama dengan penggunanya. Menanamkan roh asal seseorang ke dalam makhluk hidup untuk mengubah pelatihan dasar target menjadi konsep dan basis budidaya untuk perapal mantra setiap pukul 0:00 setiap hari.\nUntuk setiap target yang dipenuhi roh, tingkat mental dan spiritual pengguna akan menderita sejumlah cedera sesuai dengan jumlah target. Selain itu, targetnya lemah dan kelima statistiknya berkurang karena ada jiwa lain yang berada di dalam tubuh. Mantra tersebut dapat dihentikan dengan mengulanginya pada target yang sama.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_7">
+			<DisplayName>Iblis mengorbankan tubuh</DisplayName>
+			<Desc>Gunakan untuk melawan makhluk yang tidak memiliki basis budidaya dan ras yang sama dengan pengguna. Gunakan target sebagai korban kepada roh iblis yang akan mengambil organ target secara acak. Setan mengembalikan konsep dasar dan pengalaman kultivasi kepada seniman bela diri. Semakin banyak lima statistik dasar target, semakin baik. Semakin kuat mantranya, semakin baik.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_8">
+			<DisplayName>Bersihkan pikiran</DisplayName>
+			<Desc>Ucapkan mantra untuk membuat makhluk tanpa basis budidaya dan ras yang sama dengan penggunanya merasa nyaman.</Desc>
+		</Text>
+		<Text Name="PlantGrowUp">
+			<DisplayName>Flora Hati</DisplayName>
+			<Desc>Berkonsentrasilah dan gunakan Qi Anda sendiri untuk diteruskan ke pabrik target. Secara dramatis meningkatkan tingkat pertumbuhan selama 1 hari. Efektivitasnya akan berkurang jika digunakan pada tanaman dengan kadar lebih tinggi. Kerugian dari mantra ini adalah akan menyebabkan titik konsentrasi Qi penggunanya menderita sakit parah. Silakan gunakan dengan hati-hati.</Desc>
+		</Text>
+		<Text Name="PlantGrowUp_Gong1">
+			<DisplayName>Mantra Hujan</DisplayName>
+			<Desc>Memanggil energi Qi yang berfluktuasi di seluruh langit dan bumi dan memusatkan energi ini ke tanaman target untuk sedikit meningkatkan laju pertumbuhannya selama 7 hari. Efektivitasnya akan kurang efektif pada tanaman tingkat tinggi.</Desc>
+		</Text>
+		<Text Name="PlantGrowUp_Gong9">
+			<DisplayName>Puluhan ribu pohon bermekaran.</DisplayName>
+			<Desc>Mengambil Qi murni dari alam kering, menggunakannya untuk memurnikan Qi Kayu guna meningkatkan laju pertumbuhan tanaman. Akan kurang efektif jika digunakan pada tanaman dengan kadar lebih tinggi.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_1">
+			<DisplayName>Jalan Hati Surga</DisplayName>
+			<Desc>Gunakan umur 10 tahun untuk meningkatkan tingkat regenerasi energi pengguna dan kemampuan keseluruhan dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_2">
+			<DisplayName>Lepaskan belenggu setan</DisplayName>
+			<Desc>Gunakan umur 10 tahun untuk meningkatkan tingkat regenerasi energi pengguna dan kemampuan keseluruhan dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_3">
+			<DisplayName>sihir ajaib</DisplayName>
+			<Desc>Gunakan umur 10 tahun untuk meningkatkan tingkat regenerasi energi pengguna dan kemampuan keseluruhan dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_10">
+			<DisplayName>Pedang Gairah</DisplayName>
+			<Desc>Ucapkan mantra pada makhluk tanpa basis budidaya. Menghilangkan semua keadaan emosi sementara.</Desc>
+		</Text>
+		<Text Name="LingStoneMake">
+			<DisplayName>Pemurnian Batu Roh</DisplayName>
+			<Desc>Konsentrasikan 5000 Qi dan sempurnakan menjadi 1 Batu Roh. Teknik ini akan terus berlanjut. Hingga pengguna berhenti atau Qi pengguna habis.</Desc>
+		</Text>
+		<Text Name="LingCrystalMake">
+			<DisplayName>Pemurnian Kristal Roh</DisplayName>
+			<Desc>Mengondensasi Qi untuk mengubahnya menjadi kristal roh.</Desc>
+		</Text>
+		<Text Name="PrayForRain">
+			<DisplayName>Hujan menari</DisplayName>
+			<Desc>Menyerukan agar hujan turun Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForSun">
+			<DisplayName>menghilangkan awan</DisplayName>
+			<Desc>Perubahan cuaca membuat langit cerah. Namun tindakan seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForRain_FeiHorse">
+			<DisplayName>Hujan menari (Fei)</DisplayName>
+			<Desc>Gunakan keahlian Fei untuk memanggil hujan.</Desc>
+		</Text>
+		<Text Name="PrayForSun_LuShuHorse">
+			<DisplayName>Menghilangkan Awan (Lu Su)</DisplayName>
+			<Desc>Gunakan keahlian Lu Su untuk membersihkan langit.</Desc>
+		</Text>
+		<Text Name="PrayForRainstorm">
+			<DisplayName>hujan badai</DisplayName>
+			<Desc>Perubahan kondisi cuaca menyebabkan terjadinya hujan badai pada musim dingin dan musim panas. Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForZhenShuiJieJie_Gong1">
+			<DisplayName>Wilayah Thara</DisplayName>
+			<Desc>Gunakan sihir yang kuat untuk menempatkan Wilayah Pranavari di dalam area yang ditentukan. Akibatnya suhu akan turun di seluruh wilayah yang telah ditata. Sangat meningkatkan tingkat pemulihan dan daya tahan alami sekutu. Hanya satu wilayah yang dapat ditempatkan selama seluruh masa aktif.</Desc>
+		</Text>
+		<Text Name="PrayForFohn">
+			<DisplayName>badai tropis</DisplayName>
+			<Desc>Perubahan iklim menyebabkan badai tropis selama musim panas dan musim gugur. Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForZhenHuoJieJie_Gong10">
+			<DisplayName>Alam Dewa Api Sembilan Matahari</DisplayName>
+			<Desc>Mantra kuat yang menciptakan wilayah Dewa Api Sembilan Matahari di area yang ditentukan. Menaikkan suhu di seluruh wilayah dan meningkatkan kekuatan qi ajaib sekutu. Hanya satu wilayah yang dapat ditempatkan selama seluruh masa aktif.</Desc>
+		</Text>
+		<Text Name="PrayForDustStorm">
+			<DisplayName>badai gurun</DisplayName>
+			<Desc>Perubahan iklim menyebabkan badai gurun di musim dingin dan musim semi. Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForMiasma">
+			<DisplayName>badai serbuk sari beracun</DisplayName>
+			<Desc>Perubahan iklim menyebabkan badai serbuk sari beracun di musim semi dan musim panas. Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForLightningStorm">
+			<DisplayName>badai petir</DisplayName>
+			<Desc>Perubahan kondisi cuaca menyebabkan badai petir selama musim panas dan musim gugur. Namun, melakukan hal seperti itu melanggar hukum surga. Oleh karena itu, umur penggunanya akan berkurang.</Desc>
+		</Text>
+		<Text Name="PrayForBeiDouJianJie_Gong8">
+			<DisplayName>Wilayah Pedang Emas</DisplayName>
+			<Desc>Gunakan Qi yang kuat untuk menciptakan dunia pedang di area yang ditentukan. Sangat meningkatkan kekuatan senjata magis untuk sekutu di wilayah tersebut. Hanya satu wilayah yang dapat ditempatkan selama seluruh masa aktif.</Desc>
+		</Text>
+		<Text Name="Healing_Physique">
+			<DisplayName>membersihkan sumsum tulang</DisplayName>
+			<Desc>Menggunakan umur 60 tahun dan Qi dalam jumlah besar. Ini membersihkan dan membangun kembali sumsum tulang makhluk yang tidak memiliki basis budidaya. Meningkatkan stamina setidaknya 20%, semakin rendah statistik dasar semakin baik. Semakin kuat efek mantranya, semakin besar pula efeknya. Target hanya dapat ditingkatkan satu kali selama masa pakainya.</Desc>
+		</Text>
+		<Text Name="Healing_Intelligence">
+			<DisplayName>Pencerahan</DisplayName>
+			<Desc>Menggunakan umur 60 tahun dan Qi dalam jumlah besar Meningkatkan kecerdasan makhluk tanpa basis budidaya. Tingkatkan kecerdasan setidaknya 20%, semakin rendah statistik dasar, semakin baik. Semakin kuat efek mantranya, semakin besar pula efeknya. Target hanya dapat ditingkatkan satu kali selama masa pakainya.</Desc>
+		</Text>
+		<Text Name="Healing_Charisma">
+			<DisplayName>tubuh menawan</DisplayName>
+			<Desc>Menggunakan umur 60 tahun dan Qi dalam jumlah besar Meningkatkan penampilan mati dan jiwa makhluk tanpa basis budidaya. Tingkatkan pesona setidaknya 20%, semakin rendah statistik dasar semakin baik. Semakin kuat efek mantranya, semakin besar pula efeknya. Target hanya dapat ditingkatkan satu kali selama masa pakainya.</Desc>
+		</Text>
+		<Text Name="Healing_Perception">
+			<DisplayName>Buka mata Anda dan kenali</DisplayName>
+			<Desc>Menggunakan umur 60 tahun dan Qi dalam jumlah besar Buka indera mata ketiga makhluk tanpa basis budidaya. Tingkatkan Persepsi setidaknya 20%, semakin rendah stat dasar semakin baik. Semakin kuat efek mantranya, semakin besar pula efeknya. Target hanya dapat ditingkatkan satu kali selama masa pakainya.</Desc>
+		</Text>
+		<Text Name="Magic_Plant_Pee">
+			<DisplayName>air</DisplayName>
+			<Desc>Sirami tanaman dan buat mereka tumbuh lebih cepat. Hanya berlaku untuk perilaku hewan peliharaan. tidak dapat dilaksanakan dengan sendirinya</Desc>
+		</Text>
+		<Text Name="Magic_Healing_LingShou">
+			<DisplayName>Penyembuhan Qi</DisplayName>
+			<Desc>Perlakukan murid batin yang terluka Hanya berlaku untuk perilaku hewan peliharaan. tidak dapat dilaksanakan dengan sendirinya</Desc>
+		</Text>
+		<Text Name="Magic_Healing_Hot">
+			<DisplayName>Rawat insolasi</DisplayName>
+			<Desc>Menyembuhkan gejala insolasi di kalangan siswa di sekte Hanya berlaku untuk perilaku hewan peliharaan. tidak dapat dilaksanakan dengan sendirinya</Desc>
+		</Text>
+		<Text Name="Magic_Healing_Freeze">
+			<DisplayName>Obati radang dingin</DisplayName>
+			<Desc>Menyembuhkan radang dingin siswa di sekte Hanya berlaku untuk perilaku hewan peliharaan. tidak dapat dilaksanakan dengan sendirinya</Desc>
+		</Text>
+		<Text Name="Magic_ClearElixirGas">
+			<DisplayName>Lima Elemen Menghilangkan Qi</DisplayName>
+			<Desc>Hancurkan semua qi obat di area tersebut.</Desc>
+		</Text>
+	</List>
+</Texts>
