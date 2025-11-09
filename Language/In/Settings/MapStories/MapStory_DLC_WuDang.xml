@@ -1,0 +1,53 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="System_FightMap_RedWall">
+			<DisplayName>melihat</DisplayName>
+			<Desc>[NAME]Cobalah mempelajari cara membangun gedung ini.</Desc>
+			<Selections.0.Display>melihat</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>melihat</DisplayName>
+			<Desc>[NAME]Cobalah untuk membuat permintaan dengan dupa naga.</Desc>
+			<Selections.0.Display>melihat</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>Buatlah sebuah keinginan</DisplayName>
+			<Desc>[NAME]Cobalah untuk membuat permintaan dengan dupa naga.</Desc>
+			<Selections.0.Display>Semoga pikiran Anda jernih.</Selections.0.Display>
+			<Selections.1.Display>Semoga kamu cepat kuat.</Selections.1.Display>
+			<Selections.2.Display>Semoga beruntung</Selections.2.Display>
+			<Selections.3.Display>Mohon pencerahannya dalam Tao.</Selections.3.Display>
+			<Selections.4.Display>Minta semuanya</Selections.4.Display>
+			<Selections.5.Display>menyerah</Selections.5.Display>
+		</Text>
+		<Text Name="Story_Building_TaiZiDian">
+			<DisplayName>membalas</DisplayName>
+			<Desc>[NAME]Duduklah di meja dan cobalah berkomunikasi dengannya menggunakan persepsi.</Desc>
+			<Selections.0.Display>membalas</Selections.0.Display>
+			<Selections.1.Display>menyerah</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoJianZhen">
+			<DisplayName>membalas</DisplayName>
+			<Desc>[NAME]Duduk di samping perisai dan pedang dan mencoba menggunakan kesadaran untuk berkomunikasi dengannya</Desc>
+			<Selections.0.Display>membalas</Selections.0.Display>
+			<Selections.1.Display>menyerah</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoDanLu">
+			<DisplayName>membalas</DisplayName>
+			<Desc>[NAME]Duduk di sebelah tungku obat dan mencoba berkomunikasi dengannya menggunakan persepsi</Desc>
+			<Selections.0.Display>membalas</Selections.0.Display>
+			<Selections.1.Display>menyerah</Selections.1.Display>
+		</Text>
+		<Text Name="Ls_CallXuanWu">
+			<DisplayName>menyentuh</DisplayName>
+			<Desc>Ada dua jenis kilau di batu giok roh ini. yang memiliki nafas kura-kura hitam</Desc>
+			<Selections.0.Display>menyentuh</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoShiBei">
+			<DisplayName>menyentuh</DisplayName>
+			<Desc>[NAME]Sentuh huruf-huruf yang terukir pada prasasti batu.</Desc>
+			<Selections.0.Display>menyentuh</Selections.0.Display>
+			<Selections.1.Display>menyerah</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
