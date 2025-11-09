@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_WuDang_Taizipo">
+			<DisplayName>Istana Realisasi Dao</DisplayName>
+			<Desc>Juga dikenal sebagai Istana Ratchabut. Tempat ini adalah tempat yang pernah digunakan Kaisar Dewa Perang sebagai tempat belajar Dao.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_ZiXiaoGong">
+			<DisplayName>Istana Awan Ungu</DisplayName>
+			<Desc>Istana Awan Ungu terletak di puncak timur laut Gunung Wutung. Puncak ini dianggap sebagai puncak utama Gunung Bu Tung. Di depannya ada sungai dan di belakangnya ada gunung, yang merupakan tempat yang sangat bagus dengan feng shui yang sempurna dan tempat banyak murid WuDang tinggal dan berlatih.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_NanYanGong">
+			<DisplayName>Istana Tai Pha</DisplayName>
+			<Desc>Dibangun di tebing selatan. Itu menghadap ke jurang gunung yang dalam dan berbahaya, tetapi memiliki pemandangan paling indah di antara 36 tebing indah di Wutung. Pembakar dupa kepala naga dapat ditemukan di istana ini.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_JinDing">
+			<DisplayName>Istana Emas</DisplayName>
+			<Desc>Istana Emas adalah sebuah tempat yang terletak di puncak surgawi tertinggi Gunung Wudang. Itu adalah tempat dimana Kaisar Dewa Perang pernah berlatih. Di sinilah pula asal mula ajaran Tao yang menjadi dasar berdirinya Gunung Wutung.</Desc>
+		</Text>
+	</List>
+</Texts>
