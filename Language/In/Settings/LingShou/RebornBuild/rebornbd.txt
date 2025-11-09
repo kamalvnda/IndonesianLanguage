@@ -1,0 +1,5 @@
+race	bdtag	desc
+LsDog	DogStone	Seekor anak anjing ditinggalkan karena pertumbuhannya yang lambat，Namun hal ini karena ia sendiri merupakan makhluk spiritual yang lahir dari inspirasi langit dan bumi.，Ini adalah hewan peliharaan spiritual yang langka。Baik dalam perlindungan tubuh，dan mantra pertahanan。
+LsFox	FoxStone	Hewan peliharaan spiritual yang awalnya dibesarkan oleh Sekte Taiyi，Ketika saya keluar untuk mengantarkan surat, saya pulang dan menemukan bahwa Sekte Taiyi telah dimusnahkan.，Jadi mengembara di hutan belantara。Kualifikasi Neidan sangat tinggi，Pandai dalam serangan alkimia batin。
+LsDragon	DragonStone	keturunan naga，Terlahir untuk menjadi hewan peliharaan spiritual，Semua atribut memiliki kelebihan，Pandai dalam serangan sihir。
+LsPhoenix	PhoenixStone	Keturunan Phoenix，Terlahir untuk menjadi hewan peliharaan spiritual，Pandai menyerang，Atribut sihir dan ramuan batin yang luar biasa。
