@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PuppetBody">
+			<Part.Parts.0.DisplayName>inti</Part.Parts.0.DisplayName>
+		</Text>
+		<Text Name="SYS_LOST">
+			<Part.Parts.0.DisplayName>inti</Part.Parts.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
