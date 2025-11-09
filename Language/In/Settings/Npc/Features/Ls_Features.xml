@@ -1,0 +1,84 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Bear_Fat">
+			<DisplayName>Lapisan lemak yang tebal</DisplayName>
+			<Desc>Orang ini memiliki lapisan lemak yang lebih tebal dibandingkan orang rata-rata. Hal ini menyebabkan[IT]Ia dapat menahan dingin dengan sangat baik dan memiliki ketahanan yang kuat terhadap lima elemen.</Desc>
+		</Text>
+		<Text Name="Rabbit_Fast">
+			<DisplayName>antusias</DisplayName>
+			<Desc>Orang ini dapat melakukan banyak hal. cepat Baik itu berlari atau belajar. Namun kekurangannya[IT]Ini adalah kondisi pikiran dengan daya tahan rendah.</Desc>
+		</Text>
+		<Text Name="Rabbit_Hear">
+			<DisplayName>hati-hati</DisplayName>
+			<Desc>Orang ini mempunyai pendengaran dan indera yang sangat baik.</Desc>
+		</Text>
+		<Text Name="Chicken_Sleep">
+			<DisplayName>Tidak bisa tidur. Tidak bisa tidur.</DisplayName>
+			<Desc>Terlahir sebagai orang kecil secara alami,[IT]Memiliki masa kerja lebih lama dibandingkan rata-rata orang</Desc>
+		</Text>
+		<Text Name="Wolf_Calm">
+			<DisplayName>Dingin dan kejam</DisplayName>
+			<Desc>[IT]Terlahir dengan bakat bela diri alami Memungkinkan Anda menggunakan keterampilan bertarung Anda dengan terampil.</Desc>
+		</Text>
+		<Text Name="Snake_Progenitor">
+			<DisplayName>ras kuno</DisplayName>
+			<Desc>Di zaman kuno, para penggarap Klan Ular Sisik Emas ingin mengubah tubuh mereka menjadi tubuh naga. Namun, tindakan ini hanya menimbulkan kemarahan ras naga. dan menyebabkan pemusnahan Klan Ular Sisik Emas hingga hampir punah. Satu-satunya buku seni bela diri yang tersisa adalah rekaman metode latihan fisik. Hal ini memungkinkan mereka yang mengamalkannya memiliki persepsi dan bakat yang lebih unggul dari orang biasa.</Desc>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Fleksibel, tahan lama</DisplayName>
+			<Desc>Hewan biasa: Katak</Desc>
+		</Text>
+		<Text Name="Frog_Vision">
+			<DisplayName>mata kaca pembesar</DisplayName>
+			<Desc>mata[IT]Sekecil mata katak Namun ia memiliki kemampuan untuk fokus pada detail sesuatu. sangat baik Dengan kemampuannya tersebut, ia mampu melakukan pengerjaan yang membutuhkan ketelitian tinggi.</Desc>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>omnivora</DisplayName>
+			<Desc>Hewan umum: Babi hutan</Desc>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Pikiran yang kuat</DisplayName>
+			<Desc>Hewan biasa: Ular</Desc>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Hewan sosial</DisplayName>
+			<Desc>Hewan biasa: Serigala</Desc>
+		</Text>
+		<Text Name="Cat_Elegant">
+			<DisplayName>anggun</DisplayName>
+			<Desc>Sulit untuk menolak pesonanya[IT]</Desc>
+		</Text>
+		<Text Name="Cat_Light">
+			<DisplayName>fasih</DisplayName>
+			<Desc>Ia dapat bergerak tanpa suara dan memiliki kemampuan bersembunyi dengan sangat baik seperti kucing liar.</Desc>
+		</Text>
+		<Text Name="Tor_Longevity">
+			<DisplayName>Umur panjang</DisplayName>
+			<Desc>Kura-kura merupakan hewan dengan umur yang sangat panjang.</Desc>
+		</Text>
+		<Text Name="Tor_Slow">
+			<DisplayName>malas</DisplayName>
+			<Desc>Kura-kura adalah hewan yang bergerak sangat lambat. Namun, mereka mampu mempertahankan keadaan pikiran yang stabil dan hanya membutuhkan sedikit makanan dan air untuk bertahan hidup.</Desc>
+		</Text>
+		<Text Name="Tor_Def">
+			<DisplayName>baju besi karapas</DisplayName>
+			<Desc>Memiliki kekuatan pertahanan alami yang tinggi seperti kura-kura.</Desc>
+		</Text>
+		<Text Name="Tiger_Pier">
+			<DisplayName>kejam dan biadab</DisplayName>
+			<Desc>[IT]Dia adalah orang yang sangat ahli dalam bertarung.[IT]sangat kuat dan brutal saat bertarung. Tindakannya[IT]Itu tidak berbeda dengan harimau ganas.</Desc>
+		</Text>
+		<Text Name="Cow_Farmer">
+			<DisplayName>Pekerja keras dan baik hati</DisplayName>
+			<Desc>Mereka pandai bertani dan memiliki kesabaran untuk bekerja keras seperti banteng.</Desc>
+		</Text>
+		<Text Name="Cow_Big">
+			<DisplayName>Ahli dalam bidang herbal</DisplayName>
+			<Desc>satu[IT]Ia memiliki sistem pencernaan yang unik.[IT]Mampu memahami khasiat berbagai herbal lebih baik dibandingkan masyarakat umum</Desc>
+		</Text>
+		<Text Name="Cat_Pot">
+			<DisplayName>Sangat penasaran</DisplayName>
+			<Desc>[IT]Selalu mempunyai rasa ingin tahu terhadap berbagai hal. yang terlihat mencurigakan Ini adalah kualitas yang sangat penting dalam pelatihan seseorang.</Desc>
+		</Text>
+	</List>
+</Texts>
