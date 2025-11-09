@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>Makanan Jiwa</DisplayName>
+			<Desc>Memiliki kemampuan menyerap Qi yang tinggi adalah bakat alami.</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>Roh Batu</DisplayName>
+			<Desc>Memiliki fondasi qi yang tinggi adalah bakat alami.</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>Roh Senjata Ajaib</DisplayName>
+			<Desc>Memiliki tingkat pemulihan Qi senjata ajaib dan tingkat transfer Qi yang tinggi adalah bakat alami.</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>obat roh</DisplayName>
+			<Desc>Berbagai obat tidak akan menyebabkan tubuh menolak begitu obat tersebut digunakan.</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>Bisa tumbuh sendiri</DisplayName>
+			<Desc>Berkembang perlahan setiap hari</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>Bisa sembuh sendiri</DisplayName>
+			<Desc>Proses regenerasi: {0}\n Ketika proses regenerasi 100, semua organ akan beregenerasi dan proses regenerasi menjadi nol.</Desc>
+		</Text>
+	</List>
+</Texts>
