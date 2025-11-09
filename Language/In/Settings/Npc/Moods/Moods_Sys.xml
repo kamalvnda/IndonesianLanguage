@@ -1,0 +1,57 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_Sys_Lost">
+			<DisplayName>[kosong]</DisplayName>
+			<Desc>kosong</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_Disappointment">
+			<DisplayName>Kecewa pada pemimpin cabang</DisplayName>
+			<Desc>Jika orang seperti itu masih bisa menjadi kepala cabang? Kalau begitu, menurutku monyet pun bisa menjadi pemimpin cabang...</Desc>
+			<StoryDesc>Merasa kesal dan tidak puas bila ada kepala cabang yang mengecewakan.</StoryDesc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen1">
+			<DisplayName>kepala biro baru</DisplayName>
+			<Desc>Saya sangat senang dengan Anda[TXT]Menjadi master sekte kami!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen2">
+			<DisplayName>kepala biro baru</DisplayName>
+			<Desc>[TXT]Menjadi master sekte baru? Ah, hidupku pasti sudah berakhir!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen3">
+			<DisplayName>dibuang</DisplayName>
+			<Desc>Saya pikir apa pun yang terjadi, saya masih paling cocok untuk posisi pemimpin sekte...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen4">
+			<DisplayName>Birokrat mengundurkan diri dari jabatannya.</DisplayName>
+			<Desc>Sayang sekali kamu[TXT]Itu bukan lagi master sekte kita!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen5">
+			<DisplayName>Birokrat mengundurkan diri dari jabatannya.</DisplayName>
+			<Desc>[TXT]Mengundurkan diri dari jabatan kepala kantor? Wah, ini benar-benar kabar baik!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu0">
+			<DisplayName>Menjadi kepala cabang</DisplayName>
+			<Desc>Saya telah menjadi pemimpin cabang...Saya harus melakukan yang terbaik agar cocok untuk posisi ini!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu1">
+			<DisplayName>kepala cabang baru</DisplayName>
+			<Desc>Saya sangat senang dengan Anda[TXT]Menjadi kepala cabang!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu2">
+			<DisplayName>kepala cabang baru</DisplayName>
+			<Desc>Jika orang suka[TXT]Anda bisa menjadi pemimpin cabang. Menurutku Anjing Babi Ka Kai juga bisa menjadi pemimpin cabang.</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu3">
+			<DisplayName>dibuang</DisplayName>
+			<Desc>Saya merasa bahwa saya dapat melakukannya dengan baik sebagai pemimpin cabang... Saya telah mendedikasikan diri saya untuk sekte ini. Sedih sekali...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu4">
+			<DisplayName>Kepala cabang meninggalkan kantor</DisplayName>
+			<Desc>Aku tidak percaya itu kamu[TXT]telah dicopot dari posisi kepala cabang Sungguh menakutkan!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu5">
+			<DisplayName>Kepala cabang meninggalkan kantor</DisplayName>
+			<Desc>pada akhirnya[TXT]Saya bukan kepala cabang lagi, haha!</Desc>
+		</Text>
+	</List>
+</Texts>
