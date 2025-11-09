@@ -1,0 +1,280 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Lv4_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa petualangan yang tidak disengaja tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 75 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 150 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 300 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa petualangan yang tidak disengaja.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimum: 10 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimum: 20 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimum: 30 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika interval maksimum telah berlalu dan tidak terjadi peristiwa petualangan yang tidak disengaja, peristiwa berikutnya akan menjadi petualangan yang tidak disengaja.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 35 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 50 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 75 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa musuh yang kuat tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 30 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 60 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 120 hari.</Values.3.Desc>
+			<Values.4.Name>Sangat lama</Values.4.Name>
+			<Values.4.Desc>Periode Keamanan: 240 hari.</Values.4.Desc>
+			<Values.5.Name>Tak ada habisnya</Values.5.Name>
+			<Values.5.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.5.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa musuh yang kuat.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimum: 12 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimum: 20 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimum: 28 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika interval maksimum telah berlalu dan tidak terjadi peristiwa musuh yang kuat, peristiwa berikutnya akan menjadi musuh yang kuat.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 30 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 40 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 50 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Kejadian langka tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 25 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 50 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 100 hari.</Values.3.Desc>
+			<Values.4.Name>Sangat lama</Values.4.Name>
+			<Values.4.Desc>Periode Keamanan: 200 hari.</Values.4.Desc>
+			<Values.5.Name>Tak ada habisnya</Values.5.Name>
+			<Values.5.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.5.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua kejadian langka.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 5 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimum: 20 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimum: 35 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika interval maksimum telah terlewati dan tidak terjadi peristiwa langka, maka peristiwa berikutnya akan menjadi peristiwa langka.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 40 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 55 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 70 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa rahasia tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 15 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 45 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 75 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa rahasia.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 1 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimal: 3 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimal: 5 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika interval maksimum telah terlewati dan tidak terjadi peristiwa rahasia, maka peristiwa berikutnya akan menjadi peristiwa rahasia.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 7 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 9 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 15 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Join_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Acara pengunjung tidak akan terjadi selama periode keselamatan.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 5 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 25 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 75 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Join_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa pengunjung.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 1 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimal: 3 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimal: 5 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Join_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Apabila interval maksimum telah terlewati dan tidak terjadi peristiwa pengunjung, maka peristiwa berikutnya adalah peristiwa pengunjung.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 7 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 9 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 15 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa musuh tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 6 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 12 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 24 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa musuh.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 2 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimal: 5 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimal: 8 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika interval maksimum telah terlewati dan tidak ada event musuh yang terjadi, event berikutnya akan menjadi event musuh.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 10 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 17 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 24 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa umum tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 5 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 15 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 60 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa umum.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 1 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimal: 3 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimal: 5 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Jika selang waktu maksimum telah terlampaui dan tidak terjadi peristiwa biasa, maka peristiwa berikutnya akan menjadi peristiwa biasa.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 6 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 8 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 10 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_ProtectTime">
+			<DisplayName>Durasi Penjaga</DisplayName>
+			<Desc>Peristiwa lanjutan tidak akan terjadi selama periode aman.</Desc>
+			<Values.0.Name>Tidak ada</Values.0.Name>
+			<Values.0.Desc>Tidak akan ada masa aman.</Values.0.Desc>
+			<Values.1.Name>Pendek</Values.1.Name>
+			<Values.1.Desc>Periode Keamanan: 5 hari.</Values.1.Desc>
+			<Values.2.Name>Sedang</Values.2.Name>
+			<Values.2.Desc>Periode Keamanan: 15 hari.</Values.2.Desc>
+			<Values.3.Name>Panjang</Values.3.Name>
+			<Values.3.Desc>Periode Keamanan: 60 hari.</Values.3.Desc>
+			<Values.4.Name>Tak ada habisnya</Values.4.Name>
+			<Values.4.Desc>Peristiwa tidak akan terjadi dalam game ini.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMin">
+			<DisplayName>Interval Minimal</DisplayName>
+			<Desc>Interval minimum antara dua peristiwa lanjutan.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Minimal: 3 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Minimum: 7 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Minimum: 11 hari.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMax">
+			<DisplayName>Interval Maksimum</DisplayName>
+			<Desc>Apabila interval maksimum telah terlampaui dan tidak terjadi peristiwa lanjutan, maka peristiwa berikutnya akan menjadi peristiwa lanjutan.</Desc>
+			<Values.0.Name>Pendek</Values.0.Name>
+			<Values.0.Desc>Interval Maksimum: 15 hari.</Values.0.Desc>
+			<Values.1.Name>Sedang</Values.1.Name>
+			<Values.1.Desc>Interval Maksimum: 20 hari.</Values.1.Desc>
+			<Values.2.Name>Panjang</Values.2.Name>
+			<Values.2.Desc>Interval Maksimum: 25 hari.</Values.2.Desc>
+		</Text>
+	</List>
+</Texts>
