@@ -1,0 +1,35 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long">
+			<DisplayName>Naga Air</DisplayName>
+			<Desc>Setan Purba: Naga Air</Desc>
+			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>ekor</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Dia</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>cakar depan kiri</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>cakar kanan depan</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>cakar kiri belakang</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>cakar belakang kanan</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>skala kembali</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng">
+			<DisplayName>angsa yang menyala-nyala</DisplayName>
+			<Desc>Setan Purba: Angsa Api</Desc>
+			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>bulu mahkota</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>sayap kiri</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>sayap kanan</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Bulu ekor</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Mata Matahari</FightParts.5.DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>naga lilin</DisplayName>
+			<Desc>Setan Purba: Naga Lilin</Desc>
+			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Skala Langit</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>giok naga</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>mata kiri</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>mata kanan</FightParts.4.DisplayName>
+		</Text>
+	</List>
+</Texts>
