@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi-nya, pikirannya[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba aku merasa ingin makan [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] Sambil mengolah Qi[name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat mengolah Qi, tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas pikiran [obj_neck][name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batasan [obj_neck], banyak pikiran dan perasaan tiba-tiba mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya mulai merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Terganggu oleh emosi [rand_lable=obj_badmood,obj_goodmood] dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Merasa rindu kampung halaman hingga teralihkan, sehingga berujung pada kegagalan menembus batasan, itu[IT]Saya merasa sangat sedih.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]terganggu oleh [obj_nearthing] di dekatnya dan itu berhasil[IT]Gagal dan merasa sangat sedih.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melanggar batas[obj_neck] secara tiba-tiba[name]Saya ingin makan [obj_food] sampai[IT]Terganggu dan itu mengakibatkan kegagalan menembus batas.[IT]Saya merasa sangat sedih.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa bijaksana. [obj_relation] hingga perhatiannya teralihkan dan mengakibatkan kegagalan menembus batas.[IT]Saya merasa sangat sedih.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Itu mengganggu dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil melanggar batas[obj_neck][name]Mau tak mau aku khawatir tentang menerobos ke alam berikutnya, dan itu[IT]Gagal dan merasa sangat sedih.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menerobos batas[obj_neck] secara tiba-tiba[name]Saya merasa ragu dengan kemampuan saya sendiri sampai-sampai perhatian saya teralihkan dan hal itu mengakibatkan saya gagal menembus batasan.[IT]Saya merasa sangat sedih.</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat menciptakan inti emas, pikirannya[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas. Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil membuat inti emas.[name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat membuat inti emas, tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, pikirannya[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya ingin makan [obj_food]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa ingin menangis.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa cemas.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] untuk melihatnya</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati Hukuman Surga[name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] Saat melewati hukuman surgawi, tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]pikiran dari[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa cemas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Terganggu oleh emosi [rand_lable=obj_badmood,obj_goodmood] dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Merasa rindu kampung halaman hingga terganggu, menyebabkan pemurnian gagal.[IT]Saya merasa sangat sedih.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Mendapat [obj_nearthing] di dekatnya menarik konsentrasi dan itu menghasilkan[IT]Gagal dan merasa sangat sedih.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya ingin makan [obj_food] sampai[IT]Terganggu dan itu mengakibatkan kegagalan pencairan.[IT]Saya merasa sangat sedih.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation] hingga kehilangan konsentrasi dan menyebabkan gagalnya peleburan.[IT]Saya merasa sangat sedih.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Itu mengganggu dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj] [name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batas [obj_neck] dan berhasil[IT]Gagal dan merasa sangat sedih.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]Tiba-tiba[name]Aku merasa ragu dengan kemampuanku sampai-sampai perhatianku teralihkan, dan itu mengakibatkan kegagalanku menembus batasan.[IT]Saya merasa sangat sedih.</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa rindu kampung halaman.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]untuk menjadi senjata ajaib, pikiran[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya ingin makan [obj_food]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa bijaksana. [obj_relation]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa ingin menangis.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa cemas.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Terganggu oleh emosi [rand_lable=obj_badmood,obj_goodmood] dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Merasa rindu kampung halaman hingga terganggu, menyebabkan pemurnian gagal.[IT]Saya merasa sangat sedih.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Mendapat [obj_nearthing] di dekatnya menarik konsentrasi dan itu menghasilkan[IT]Gagal dan merasa sangat sedih.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya ingin makan [obj_food] sampai[IT]Terganggu dan itu mengakibatkan kegagalan pencairan.[IT]Saya merasa sangat sedih.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Saya merasa bijaksana. [obj_relation] hingga kehilangan konsentrasi dan menyebabkan gagalnya peleburan.[IT]Saya merasa sangat sedih.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Itu mengganggu dan itu membuat[IT]Gagal dan merasa sangat sedih.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]menjadi senjata ajaib[name]Dia tidak bisa tidak khawatir tentang menerobos ke alam berikutnya.[IT]Gagal dan merasa sangat sedih.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] saat menempa[obj]tiba-tiba menjadi senjata ajaib[name]Aku merasa ragu dengan kemampuanku sampai-sampai perhatianku teralihkan, dan itu mengakibatkan kegagalanku menembus batasan.[IT]Saya merasa sangat sedih.</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]pikiran dari[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj] [name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] sambil menggambar[obj]Tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]pikiran dari[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba banyak pikiran dan perasaan mulai memasuki benaknya.[name] </Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya tidak bisa tidak berpikir bahwa hidup ini benar-benar baik.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Mau tidak mau orang berpikir bahwa meskipun kultivatornya cukup kuat, namun jalan menuju kultivasi cukup sulit.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya mempunyai ide ingin melakukan petualangan di dunia luas.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]juga dipengaruhi oleh suasana hati [rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Aku tidak bisa tidak memikirkan hal itu[IT]Apakah mungkin untuk menembus batasan [obj_neck]?</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Saya hanya bisa menarik napas dalam-dalam ketika mengetahui bahwa [obj_gong] itu sangat mendalam.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Mau tak mau aku bertanya-tanya apakah [obj_gong] benar-benar cocok untukku.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa penasaran dengan [obj_esoterica]. Mungkinkah buku ini memiliki kesalahan?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Dia tidak bisa menahan diri untuk tidak menghela nafas.[IT]Saya merasa bahwa [obj_esoterica] adalah kitab suci yang sangat bagus.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Benar-benar ingin mengendalikan [obj_fabao] dan terbang menjauh.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Tiba-tiba saya merasa ingin makan [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Entah kenapa hal itu tiba-tiba terjadi.[IT]Saya merasa ingin menginjak [obj_friend] sekali atau dua kali.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj] [name]Saya dapat membayangkan ruang budidaya Qi [obj_goodschool] tanpa seruling atau seruling apa pun.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] saat melakukan transmisi[obj]Tiba-tiba[name]Saya merasa ingin bertarung dengan [obj_badschool].</Events.23.Story>
+		</Text>
+	</List>
+</Texts>
