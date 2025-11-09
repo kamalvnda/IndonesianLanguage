@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>Teknik Budidaya Karakter Kuno</DisplayName>
+			<Desc>Kultivator bernama Yun Zhongzi meninggalkan metode pencetakan inti emas asli dan menemukan metode pencetakan inti emas baru. Awalnya, para kultivator akan mengedarkan Qi di dalam tubuh mereka dan memadatkannya hingga membentuk inti emas. Namun teknik ini menggunakan yantra dan karakter sebagai inti pembentukan inti emas. Dimana praktisi menggunakan lima bentuk yantra untuk mengukir karakter yantra ke dalam esensi emas dan roh primordialnya.</Desc>
+			<SelectDesc>Praktisi teknik ini menggunakan lima bentuk jimat untuk mengukir jimat ke dalam esensi emas dan roh primordial mereka untuk mendapatkan kekuatan jimat secara permanen. Namun, teknik ini sangat lemah dalam penggunaan qi ajaib dan senjata ajaib. Oleh karena itu, itu sangat tidak cocok untuk berperang.</SelectDesc>
+			<Stages.0.DisplayName>kerajaan perubahan</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>titik temu</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>lautan karakter</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>kerajaan permulaan</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Akumulasi</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Jimat permulaan</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Kerajaan air dan api</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Jimat Api</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Jimat Air</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Membentuk esensi</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Kerajaan Inti Primordial</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>kombinasi</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Kejadian Yantra</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>kerajaan kekosongan</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Sepuluh ribu variasi</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Yantra Ilahi</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>tanpa jiwa</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>
