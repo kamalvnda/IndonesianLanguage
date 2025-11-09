@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FirstFrag_Target">
+			<DisplayName>Mod yang hilang</DisplayName>
+		</Text>
+		<Text Name="InitalFrag">
+			<DisplayName>Mod yang hilang</DisplayName>
+		</Text>
+		<Text Name="Emotion_Template">
+			<DisplayName>Templat</DisplayName>
+		</Text>
+		<Text Name="Target_Template">
+			<DisplayName>Templat</DisplayName>
+		</Text>
+		<Text Name="Scene_Template">
+			<DisplayName>Templat</DisplayName>
+		</Text>
+	</List>
+</Texts>
