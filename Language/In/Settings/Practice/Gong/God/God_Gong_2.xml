@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_2">
+			<DisplayName>Kebijaksanaan Ilahi dari Delapan Surga</DisplayName>
+			<Desc>Sebuah metode untuk mengembangkan kekuatan para dewa yang telah lama menghilang sejak zaman kuno. Ini adalah metode penanaman dengan mengambil keyakinan makhluk hidup untuk mengubahnya menjadi kekuatan ilahi. Berbagai sekte yang mempraktikkan penanaman dewa semuanya memiliki metode penanaman yang serupa. Perbedaannya hanya pada metode mengubah kekuatan iman menjadi mentransformasikan energi ilahi dan menggunakan energi ilahi tersebut sebagai media untuk memanggil dewa penjaga yang berbeda. Delapan Teknik Ilahi Jalan Surgawi adalah warisan Dewa Surgawi di Hari Akhir. Dengan mempraktikkan teknik ini, praktisi akan dapat menggunakan Qi Ilahi sebagai media untuk memanggil delapan Dewa Penjaga Surgawi. Teknik ini luar biasa dalam menggunakan energi magis untuk menyerang musuh.</Desc>
+			<SelectDesc>Penggarap Jalan Ilahi berbeda dari Penggarap Jalan Suci karena mereka mengandalkan keyakinan makhluk hidup untuk berlatih. Dan meskipun tidak ada persyaratan bakat untuk mengembangkan Jalan Ilahi, Namun Anda tetap harus memiliki tingkat kecerdasan yang sangat tinggi jika ingin mencapai puncak. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Kultivasi Ilahi?</SelectDesc>
+			<Stages.0.DisplayName>pertapa</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Pengorbanan</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Sempurnakan pikiran Anda</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>penciptaan</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Maharaja Keempat</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Perintah: Kanda Bo</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Perintah: Qin Na Luo</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Perintah: Jia Luo Luo</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Daowadung</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Perintah: Mo Hu Luo Jie</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Perintah: Yesha</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Perintah: A Qiu Luo</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Nimmanoradee</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Perintah: Kehilangan Harapan</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Perintah: Tianren</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Alam para dewa</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>nirwana</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Jalan Utara</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
