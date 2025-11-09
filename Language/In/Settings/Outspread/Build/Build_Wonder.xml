@@ -1,0 +1,84 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="StarDustLake">
+			<DisplayName>Danau Saengdara</DisplayName>
+			<Desc>"Perairan dari seluruh penjuru bertemu di sini untuk bergabung bersama sebelum mengalir ke lautan luas. Ini adalah tempat yang seperti pintu gerbang ke dunia yang lebih luas di mana bahkan Bima Sakti bertemu di sini pada malam hari." Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+		</Text>
+		<Text Name="XiuXianCollege">
+			<DisplayName>Institut Tao</DisplayName>
+			<Desc>“Pendidikan harus selalu memilih lokasi yang tenang dan terpencil. Sehingga meskipun siswa merasa bosan, mereka tidak akan bisa melarikan diri.” Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Bahan konstruksi menurun sebesar 20%.</Effect>
+		</Text>
+		<Text Name="HugeToolCabin">
+			<DisplayName>Stupa Kebijaksanaan</DisplayName>
+			<Desc>"Pagoda Kebijaksanaan bukanlah tempat biasa. Masing-masing cabang dan departemen dapat bekerja sendiri-sendiri dan hasilnya di luar imajinasi. Jika digunakan dalam produksi tekstil Anda akan mendapatkan pakaian yang sangat nyaman dipakai. Atau jika Anda menggunakannya untuk menempa senjata? Anda akan menerima pedang yang bahkan dapat memotong berlian." Menurut 'Kitab Penciptaan'</Desc>
+			<Effect>Dua boneka</Effect>
+		</Text>
+		<Text Name="CelestialCommercial">
+			<DisplayName>Kamar Dagang Awan Putih</DisplayName>
+			<Desc>"Kamar dagang ini terletak di atas gunung, yang dilindungi oleh formasi pertahanan yang besar dan sangat kuat. Tempat ini juga merupakan pusat perdagangan antar petani." Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Item dapat dibeli dari merchant atau sekte lain dengan diskon 20%.</Effect>
+		</Text>
+		<Text Name="GreenBrothel">
+			<DisplayName>Menara Giok Hijau</DisplayName>
+			<Desc>"Aula Giok adalah aula halaman yang terletak di atas danau. Di mata orang biasa, itu akan terlihat seperti tempat peristirahatan hanya untuk para elit. Tapi di mata para penggarap Mereka akan tahu bahwa tempat ini memiliki layanan khusus untuk menjernihkan pikiran mereka. Mungkin inilah alasan utama mengapa para penggarap mengunjungi tempat ini. " Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Suasana hati untuk berpetualang meningkat.</Effect>
+		</Text>
+		<Text Name="AppTower">
+			<DisplayName>Pagoda Keanggunan</DisplayName>
+			<Desc>“Betapa besarnya kebajikan dan kebaikan yang menciptakan jalan bagi para dewa.” Menurut 'Kitab Penciptaan'</Desc>
+			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+		</Text>
+		<Text Name="RiverDam">
+			<DisplayName>bendungan sungai</DisplayName>
+			<Desc>"Pikirkan berapa generasi tiran yang tidak tahu malu yang diperlukan untuk menyelesaikan struktur sebesar ini. Apakah tidak mungkin bagi para Suci untuk turun dan menawarkan bantuan?" Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+		</Text>
+		<Text Name="MountTemple">
+			<DisplayName>Chedi menyatu dengan pegunungan</DisplayName>
+			<Desc>"Bendungan Seribu Mil bisa runtuh dengan kerusakan yang sama besarnya dengan sarang semut. Namun, Puncak Zhang dan Punggung Bukit Sepuluh Ribu Puncak bisa digabungkan untuk membentuk benteng yang kuat. Hanya mereka yang memiliki keterampilan, kecerdasan, dan kelicikan yang bisa menemukan metode seperti itu." Menurut 'Kitab Penciptaan'</Desc>
+			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+		</Text>
+		<Text Name="SanQingTemple">
+			<DisplayName>Kuil Tiga Permata</DisplayName>
+			<Desc>"Orang-orang membutuhkan tempat untuk memuja Tiga Permata. Tapi menciptakan benda seperti itu adalah tugas yang sangat sulit. Naik ke tanah manusia." Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Hubungan antara semua sekte meningkat 1 unit.</Effect>
+		</Text>
+		<Text Name="TreeGrave">
+			<DisplayName>Lautan Kayu Pemakaman</DisplayName>
+			<Desc>“Orang-orang Xinjiang Selatan percaya bahwa pohon adalah makhluk hidup seperti binatang. Dan akan mudah untuk menarik kemarahan dan kutukan mereka jika upacara pemakaman tidak dilakukan dengan benar. Oleh karena itu, pohon-pohon mati kuno dikumpulkan dan diukir menjadi bentuk makhluk hidup. Dan tampaknya patung-patung itu juga dapat menyerap Qi.” Menurut ‘Kitab Penciptaan’</Desc>
+			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+		</Text>
+		<Text Name="GroundAlter">
+			<DisplayName>Pot Tanah</DisplayName>
+			<Desc>"Di dalam pegunungan yang sulit dijangkau oleh manusia normal. Ada lubang segi delapan raksasa berisi air terjun yang mengalir turun dari gunung, dan di tengah-tengah tempat itu berdiri sebuah pot raksasa. Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+		</Text>
+		<Text Name="WaterTemple">
+			<DisplayName>Wat Phra Sumen</DisplayName>
+			<Desc>"Kuil ini ibarat sebuah kapal yang meskipun berguncang, namun terasa aman dan tenteram. Mau tak mau aku bertanya-tanya apakah kuil ini benar-benar sebuah kapal yang terapung di tengah lautan." Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Stabilitas formasi meningkat sebesar 20%.</Effect>
+		</Text>
+		<Text Name="CelestialPalace">
+			<DisplayName>Istana Awan Ungu</DisplayName>
+			<Desc>"Istana Awan Ungu bagaikan tempat suci di surga yang sulit dijangkau. Dan semua orang mengetahuinya dengan baik." Menurut 'Kitab Penciptaan'</Desc>
+			<Effect>Hubungan antara semua sekte meningkat 1 unit.</Effect>
+		</Text>
+		<Text Name="CircleTemple">
+			<DisplayName>Kuil Yuanxuan</DisplayName>
+			<Desc>"Seperti kata pepatah, semakin besar, semakin banyak orang yang tinggal di dalamnya. Luas alun-alun Kuil Yuanxuan sangat luas. Dan setiap tahun banyak orang datang mengunjungi tempat ini." Menurut 'Catatan Enam Jalan'</Desc>
+			<Effect>Tingkat perolehan Iman atau Kebencian meningkat 2 kali lipat.</Effect>
+		</Text>
+		<Text Name="CityMansion">
+			<DisplayName>bangunan tempat tinggal</DisplayName>
+			<Desc>Bangunan Tempat Tinggal: Tingkat pertumbuhan populasi di semua lokasi meningkat sebesar 100%. “Bangunan Penghuni Ini adalah jenis perumahan baru yang dapat dibangun hampir di mana saja dengan sumber daya yang minim. Namun dengan bertambahnya populasi, mungkin akan timbul masalah kelaparan juga.”</Desc>
+			<Effect>Laju pertumbuhan penduduk di seluruh lokasi meningkat sebesar 100%.</Effect>
+		</Text>
+		<Text Name="RedTombstone">
+			<DisplayName>Hutan Batu Merah</DisplayName>
+			<Desc>"Hutan Batu Merah telah mencatat kehidupan banyak orang. Termasuk kaisar dan penduduk desa bermata hitam. Dan satu-satunya kesamaan yang mereka miliki adalah bahwa mereka semua adalah orang-orang yang telah meninggal." Menurut 'Catatan Enam Jalan', "Apa yang tercatat di Hutan Batu Merah adalah sejarah yang panjang. Tujuh emosi dunia dan berbagai keinginan manusia semuanya tercatat di sana. Sayangnya, manusia tidak dapat mengatasi keinginan dan keserakahan tersebut. Akhirnya, cerita baru Oleh karena itu selalu tercatat di dalamnya." Menurut 'Kitab Penciptaan'</Desc>
+			<Effect>Lihatlah ke dalam pikiran orang-orang dan langsung pahami hobi mereka.</Effect>
+		</Text>
+	</List>
+</Texts>
