@@ -1,0 +1,252 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="NI_FSZhenWu">
+      <DisplayName>Terbalik - media psikis</DisplayName>
+      <Desc>Jika tindakan penanggulangan feng shui di dalam ruangan bertentangan, karakter akan terpengaruh dan kemampuannya akan melemah.</Desc>
+    </Text>
+    <Text Name="SHUN_FSZhenWu">
+      <DisplayName>Shun - media psikis</DisplayName>
+      <Desc>Pemalsuan feng shui di dalam ruangan mulai berlaku, karakter terpengaruh olehnya, dan kemampuannya ditingkatkan.</Desc>
+    </Text>
+    <Text Name="FSZhenWu_1">
+      <DisplayName>Bonus kecepatan kerja global</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_2">
+      <DisplayName>Bonus kecepatan penyembuhan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_3">
+      <DisplayName>Bonus efek penyembuhan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_4">
+      <DisplayName>Bonus kecepatan memasak</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_5">
+      <DisplayName>Bonus kecepatan penyembelihan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_6">
+      <DisplayName>Bonus hasil pemotongan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_7">
+      <DisplayName>Bonus kecepatan pemrosesan batu</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_8">
+      <DisplayName>Bonus kecepatan membangun</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_9">
+      <DisplayName>Bonus kecepatan tanam</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_10">
+      <DisplayName>Bonus kecepatan panen</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_11">
+      <DisplayName>Bonus Hasil Panen</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_12">
+      <DisplayName>Bonus kecepatan penambangan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_13">
+      <DisplayName>Bonus produksi ekstraksi</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_14">
+      <DisplayName>Bonus kualitas produksi</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_15">
+      <DisplayName>Bonus kecepatan penempaan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_16">
+      <DisplayName>Bonus kecepatan manual</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_17">
+      <DisplayName>Bonus kecepatan menjahit</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_18">
+      <DisplayName>Bonus kecepatan potong</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_19">
+      <DisplayName>Bonus kecepatan bantuan bencana</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_20">
+      <DisplayName>Bonus kecepatan pembersihan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_21">
+      <DisplayName>Bonus nilai dasar suasana hati</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_22">
+      <DisplayName>Bonus kecepatan gerakan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_23">
+      <DisplayName>Bonus suhu ekstrim minimum</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_24">
+      <DisplayName>bonus suhu maksimum</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_25">
+      <DisplayName>Bonus ketahanan alami</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_26">
+      <DisplayName>bonus batas rasa sakit</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_27">
+      <DisplayName>Bonus kecepatan belajar</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_28">
+      <DisplayName>Bonus peluang mimpi buruk</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_29">
+      <DisplayName>Kesempatan bonus untuk mewujudkan mimpi indah</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_30">
+      <DisplayName>Bonus kecepatan konsumsi energi</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_31">
+      <DisplayName>Bonus pengisian energi</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_32">
+      <DisplayName>Bonus kecepatan konsumsi makanan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_33">
+      <DisplayName>Bonus kecepatan konsumsi makanan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_34">
+      <DisplayName>Bonus suplemen makanan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_35">
+      <DisplayName>Bonus kecepatan konsumsi air minum</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_36">
+      <DisplayName>Bonus suplemen air minum</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_37">
+      <DisplayName>Bonus kecepatan konsumsi hiburan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_38">
+      <DisplayName>suplemen hiburan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_39">
+      <DisplayName>Bonus kecepatan pemurnian esensi</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_40">
+      <Desc>Bonus suplemen esensi</Desc>
+    </Text>
+    <Text Name="FSZhenWu_41">
+      <DisplayName>Potensi bonus</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_42">
+      <DisplayName>Bonus kecepatan pelatihan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_43">
+      <DisplayName>bonus suasana hati</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_44">
+      <DisplayName>Bonus peluang pemahaman</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_45">
+      <DisplayName>Bonus kecepatan pemurnian senjata ajaib</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_46">
+      <DisplayName>Bonus efisiensi pemurnian senjata ajaib</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_47">
+      <DisplayName>Bonus level pemurnian senjata ajaib</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_48">
+      <DisplayName>Bonus kualitas pemurnian senjata ajaib</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_49">
+      <DisplayName>Bonus untuk kemungkinan membuat artefak</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_50">
+      <DisplayName>Bonus kecepatan pemurnian pil</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_51">
+      <DisplayName>Bonus efisiensi pemurnian ramuan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_52">
+      <DisplayName>Bonus hasil pemurnian ramuan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_53">
+      <DisplayName>Bonus probabilitas terobosan kemacetan</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_54">
+      <DisplayName>Bonus Daoxing</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_55">
+      <DisplayName>serangan tempur</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_56">
+      <DisplayName>pertempuran menghindar</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_57">
+      <DisplayName>kesadaran</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_58">
+      <DisplayName>tulang akar</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_59">
+      <DisplayName>pesona</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_60">
+      <DisplayName>Pemahaman</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_61">
+      <DisplayName>peluang</DisplayName>
+    </Text>
+    <Text Name="FSZhenWu_62">
+      <DisplayName>lima dimensi</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1a">
+      <DisplayName>segel moral</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1b">
+      <DisplayName>segel asli</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_1c">
+      <DisplayName>Ling Baoyin</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_2">
+      <DisplayName>Menara Tiangong</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_3">
+      <DisplayName>Pagoda Wanling</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_4">
+      <DisplayName>Botol Huiyin</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_5">
+      <DisplayName>Shizhou Ding</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_6">
+      <DisplayName>Monumen tanpa kata</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_7">
+      <DisplayName>Singa anti kejahatan</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_8">
+      <DisplayName>Buzhou Yuanshi</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_9">
+      <DisplayName>Daftar tiga talenta yin dan yang</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_10">
+      <DisplayName>Qun Xianlu</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_11">
+      <DisplayName>Xianjipu</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_12">
+      <DisplayName>Kunci Jimat Yin</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_13">
+      <DisplayName>Pedang Ling Bao</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_14">
+      <DisplayName>Labu Tushita</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_15">
+      <DisplayName>Akar Naga Merah</DisplayName>
+    </Text>
+    <Text Name="SP_FSZhenWu_16">
+      <DisplayName>Huiguang</DisplayName>
+    </Text>
+  </List>
+</Texts>
