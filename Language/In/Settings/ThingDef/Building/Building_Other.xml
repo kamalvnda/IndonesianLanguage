@@ -1,0 +1,39 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Jiaolong_Body" sParam="Building">
+			<ThingName>Mayat Naga Air</ThingName>
+			<Desc>Mayat naga air</Desc>
+		</Text>
+		<Text Name="Building_Dragon_Hole" sParam="Building">
+			<ThingName>Gua misterius</ThingName>
+			<Desc>Gua cenderung mempunyai pikirannya sendiri dan akan selalu meminta persembahan. Hal ini bisa dibilang berdasarkan Feng Shui ruangan. Feng shui yang lebih baik akan mengurangi kemungkinan meminta persembahan. Setiap ibadah yang berhasil memperkuatnya. Membuatnya sulit untuk dikalahkan nantinya.</Desc>
+			<StoryBnts.0.Name>memprovokasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mengisi gua.</StoryBnts.0.Desc>
+			<StoryBnts.0.Script>lokal t = ikat.ID; CS.Wnd_Message.Show("Roh di dalam gua sangat kuat dan berbahaya. Apakah Anda yakin ingin memprovokasi dia? (Jika Anda mengonfirmasi Iblis kuno akan dipanggil. Sekte Anda dapat dihancurkan sekaligus jika Anda tidak siap. Harap putuskan dengan hati-hati.) ", 2, function(b) if (b ~= ​​"1") lalu return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) lalu return end lubang.luaclass:GetTable():BornYaoLong() akhir)</StoryBnts.0.Script>
+		</Text>
+		<Text Name="Building_Xiongfeng_dan" sParam="Building">
+			<ThingName>Telur Angsa yang Berapi-api</ThingName>
+			<Desc>Ini memancarkan uap yang sangat panas. Sepertinya ia mencoba menyerap Qi alami untuk menetas.</Desc>
+		</Text>
+		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+			<ThingName>Telur Angsa yang Berapi-api</ThingName>
+			<Desc>Telur Vermillion Swan telah mengering. mengganggu nirwana</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan" sParam="Building">
+			<ThingName>Telur Yin</ThingName>
+			<Desc>Telur yang mencoba menetas Feng Shui yang sangat menguntungkan bisa mengejanya.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan" sParam="Building">
+			<ThingName>Telur Yang</ThingName>
+			<Desc>Telur yang mencoba menetas Feng Shui yang sangat tidak menguntungkan bisa menjelaskannya.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+			<ThingName>Telur Yin (Kematian)</ThingName>
+			<Desc>mati</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+			<ThingName>Telur Yang (Mati)</ThingName>
+			<Desc>mati</Desc>
+		</Text>
+	</List>
+</Texts>
