@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Optimistic">
+			<DisplayName>Optimis</DisplayName>
+			<Desc>Segala sesuatu ada naik turunnya. Apakah saya benar?</Desc>
+			<StoryDesc>Lihatlah dunia seperti biasa.</StoryDesc>
+		</Text>
+		<Text Name="Pessimism">
+			<DisplayName>pesimistis</DisplayName>
+			<Desc>Mengapa dunia ini diciptakan? Mengapa kita harus menderita seperti ini?</Desc>
+			<StoryDesc>Melihat dunia dengan pesimis seperti biasanya</StoryDesc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>tidak bahagia</DisplayName>
+			<Desc>Semuanya... Ini sangat tidak ada artinya</Desc>
+			<StoryDesc>Tertekan seperti biasa</StoryDesc>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>sedih</DisplayName>
+			<Desc>Aku benar-benar merasa kasihan... Seandainya aku bisa memutar kembali waktu... Hidupku setelah ini akan dipenuhi dengan kesakitan. Saya hanya bisa berharap bahwa saya akan memiliki kesempatan untuk menebus dosa-dosa saya.</Desc>
+			<StoryDesc>Masih tenggelam dalam perasaan menyesal</StoryDesc>
+		</Text>
+	</List>
+</Texts>
