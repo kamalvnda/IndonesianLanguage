@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobLsDecide">
+			<DisplayName>ragu-ragu</DisplayName>
+		</Text>
+		<Text Name="JobEatItem2">
+			<DisplayName>makan</DisplayName>
+		</Text>
+		<Text Name="JobAtk4Fun">
+			<DisplayName>menyerang</DisplayName>
+		</Text>
+		<Text Name="JobGoShit">
+			<DisplayName>Pergi buang air besar.</DisplayName>
+		</Text>
+		<Text Name="JobLsCarry">
+			<DisplayName>Mengangkut</DisplayName>
+		</Text>
+		<Text Name="JobLsCutoff">
+			<DisplayName>memotong kayu</DisplayName>
+		</Text>
+		<Text Name="JobLsMine">
+			<DisplayName>pertambangan</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToBed">
+			<DisplayName>Mengangkut</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToDest">
+			<DisplayName>Mengangkut</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSelf">
+			<DisplayName>bersenang senang</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSth">
+			<DisplayName>bermain</DisplayName>
+		</Text>
+		<Text Name="JobLsFun">
+			<DisplayName>bermain</DisplayName>
+		</Text>
+		<Text Name="JobLsHelpPlay">
+			<DisplayName>bermain</DisplayName>
+		</Text>
+		<Text Name="JobLsTrain">
+			<DisplayName>latihan</DisplayName>
+		</Text>
+		<Text Name="JobLsPee">
+			<DisplayName>air</DisplayName>
+		</Text>
+		<Text Name="JobLsCure">
+			<DisplayName>merawat</DisplayName>
+		</Text>
+		<Text Name="JobLsFollow">
+			<DisplayName>mengikuti</DisplayName>
+		</Text>
+		<Text Name="JobLsFeedHim">
+			<DisplayName>Memberi makan</DisplayName>
+		</Text>
+		<Text Name="JobLsSleep">
+			<DisplayName>tidur</DisplayName>
+		</Text>
+		<Text Name="JobLsSleepWithNpc">
+			<DisplayName>tidur</DisplayName>
+		</Text>
+		<Text Name="JobLsGotoThing">
+			<DisplayName>pergi</DisplayName>
+		</Text>
+		<Text Name="JobConfuse">
+			<DisplayName>bingung</DisplayName>
+		</Text>
+	</List>
+</Texts>
