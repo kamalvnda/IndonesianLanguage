@@ -1,0 +1,133 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LeadExperienceAddtion">
+			<DisplayName>Bonus Latar Belakang Karakter</DisplayName>
+		</Text>
+		<Text Name="BaseWorkSpeed">
+			<DisplayName>Kinerja dasar</DisplayName>
+			<DisplayValue>{0}/detik</DisplayValue>
+			<Desc>Kecepatan lari dasar karakter Menentukan jumlah usaha yang dapat dilakukan per detik.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="BaseEmotionAddV">
+			<DisplayName>Nilai-nilai dasar keadaan emosi</DisplayName>
+			<DisplayValue>{0}</DisplayValue>
+			<Desc>Keadaan emosi dasar karakter</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="MaxAge">
+			<DisplayName>jangka hidup</DisplayName>
+			<DisplayValue>{0}</DisplayValue>
+			<Desc>Usia maksimum dimana seorang karakter dapat hidup.</Desc>
+		</Text>
+		<Text Name="AgeCostSpeed">
+			<DisplayName>Laju penurunan angka harapan hidup</DisplayName>
+			<Desc>Kecepatan hidup karakter menurun seiring waktu.</Desc>
+		</Text>
+		<Text Name="VisionRadius">
+			<DisplayName>Jarak persepsi</DisplayName>
+			<DisplayValue>{0:N2} meter</DisplayValue>
+			<Desc>Jarak maksimum yang dapat dilihat karakter di sekelilingnya.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="MoveSpeed">
+			<DisplayName>Kecepatan gerakan</DisplayName>
+			<DisplayValue>{0:N2} meter/detik</DisplayValue>
+			<Desc>Kecepatan pergerakan karakter</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMin">
+			<DisplayName>suhu minimum optimal</DisplayName>
+			<Desc>Suhu terendah di mana karakter merasa nyaman (</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ComfyTMax">
+			<DisplayName>suhu optimal</DisplayName>
+			<Desc>Suhu tertinggi dimana karakter merasa nyaman.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMin">
+			<DisplayName>Suhu terendah yang dapat ditoleransi</DisplayName>
+			<Desc>Suhu terendah yang tidak mempengaruhi kesehatan karakter.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ToleranceTMax">
+			<DisplayName>Suhu maksimum yang dapat ditoleransi</DisplayName>
+			<Desc>Suhu maksimum yang tidak mempengaruhi kesehatan karakter.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="RecoveryPower">
+			<DisplayName>daya tahan alami</DisplayName>
+			<DisplayValue>{0}%/detik</DisplayValue>
+			<Desc>Tingkat pemulihan alami karakter dari penyakit dan cedera.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="PainTolerance">
+			<DisplayName>toleransi rasa sakit</DisplayName>
+			<Desc>Tingkat rasa sakit maksimum yang dapat ditanggung oleh karakter.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="IntelligenceSkillEXPConstant">
+			<DisplayName>kecepatan belajar</DisplayName>
+			<Desc>Jumlah pengalaman yang diperoleh karakter melalui pelatihan. Hal ini juga mempengaruhi kecepatan para kultivator Jalan Suci memperoleh poin konsep.</Desc>
+			<FunctionKind>Status dalam budidaya</FunctionKind>
+		</Text>
+		<Text Name="EmotionAmplificationFactor">
+			<DisplayName>Pengganda suasana hati</DisplayName>
+		</Text>
+		<Text Name="FavourChangeSpeedRate">
+			<DisplayName>Tingkat perubahan preferensi</DisplayName>
+		</Text>
+		<Text Name="NightmareHappenPercent">
+			<DisplayName>Kemungkinan mimpi buruk</DisplayName>
+			<Desc>Kemungkinan karakter mengalami mimpi buruk</Desc>
+		</Text>
+		<Text Name="NiceDreamHappenPercent">
+			<DisplayName>Peluang mimpi indah</DisplayName>
+			<Desc>Kemungkinan besar karakternya akan mendapat mimpi indah.</Desc>
+		</Text>
+		<Text Name="FatigueConsumeConstant">
+			<DisplayName>Bonus konsumsi energi</DisplayName>
+			<Desc>Bonus Penggunaan Energi Karakter</Desc>
+		</Text>
+		<Text Name="FatigueRecoveryConstant">
+			<DisplayName>Bonus Isi Ulang Energi</DisplayName>
+			<Desc>Bonus Isi Ulang Energi Karakter</Desc>
+		</Text>
+		<Text Name="NutritionConsumeConstant">
+			<DisplayName>Bonus Konsumsi Makanan</DisplayName>
+			<Desc>Bonus Konsumsi Makanan Berkarakter</Desc>
+		</Text>
+		<Text Name="NutritionRecoveryConstant">
+			<DisplayName>Bonus pengisian nutrisi</DisplayName>
+			<Desc>Bonus Pengisian Nutrisi Karakter</Desc>
+		</Text>
+		<Text Name="WaterConsumeConstant">
+			<DisplayName>Bonus Hidrasi</DisplayName>
+			<Desc>Bonus minum karakter</Desc>
+		</Text>
+		<Text Name="WaterRecoveryConstant">
+			<DisplayName>Bonus Penghilang Haus</DisplayName>
+			<Desc>Bonus Penghilang Haus Karakter</Desc>
+		</Text>
+		<Text Name="HappyConsumeConstant">
+			<DisplayName>Bonus Rekreasi</DisplayName>
+			<Desc>Bonus rekreasi karakter</Desc>
+		</Text>
+		<Text Name="HappyRecoveryConstant">
+			<DisplayName>Bonus kepuasan rekreasi</DisplayName>
+			<Desc>Bonus Kepuasan Rekreasi Karakter</Desc>
+		</Text>
+		<Text Name="PracticeFoodConsumeConstant">
+			<DisplayName>Bonus Penggunaan Inti Elemen</DisplayName>
+			<Desc>Bonus untuk menggunakan inti elemen karakter</Desc>
+		</Text>
+		<Text Name="PracticeFoodRecoveryConstant">
+			<DisplayName>Bonus Pengisian Stamina</DisplayName>
+			<Desc>Bonus pengisian kekuatan fisik karakter</Desc>
+		</Text>
+		<Text Name="MagicDamageRecoveryPowerAddV">
+			<DisplayName>Daya tahan alami untuk luka dalam</DisplayName>
+		</Text>
+	</List>
+</Texts>
