@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_None">
+			<DisplayName>Teknik Budidaya Variasi Yin Yang</DisplayName>
+			<Desc>Teknik budidaya tingkat lanjut yang ditemukan oleh Kaisar Dewa Perang. Saat mempraktikkan subjek ini, orang tersebut akan mampu menciptakan aliran yin dan yang qi di dalam tubuhnya. Ciptakan Esensi Emas Yin Yang untuk digunakan sebagai landasan Roh Primordial Yin Yang. Saat mengolah sub-jiwa, kultivator akan mendapatkan hasil dua kali lipat dengan mengerahkan setengah usahanya. Itu adalah teknik budidaya Dewa Perang Gunung Kaisar Wutung yang paling terkenal.</Desc>
+			<SelectDesc>Saat mengamalkan mata pelajaran ini benih Dao diperoleh dengan memahami pemisahan yin dan yang. Meskipun itu bisa meningkatkan batas atas kekuatan seorang kultivator. Namun proporsi Benih Dao antara Yin dan Yang juga akan mempengaruhi fondasi dan kesuksesan seorang kultivator di masa depan. Metode dari teknik ini adalah dengan mencuri misteri Yin dan Yang dari langit dan bumi. membuatnya sangat iri pada surga Oleh karena itu, kemarahan dan kekuatan Hukuman Surgawi yang akan dihadapi seorang kultivator sangatlah kuat.</SelectDesc>
+			<Stages.0.DisplayName>Kekacauan</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>kekosongan</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Asal</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>membentuk</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>lahirnya nafas</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>dalam ke luar</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Kelahiran tubuh</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Gabungkan dua, gabungkan satu</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>luar ke dalam</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>lahirnya kehidupan</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>kondensasi yang bersirkulasi</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>lembut ditundukkan dengan keras</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Yin Yang</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Hal-hal</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
