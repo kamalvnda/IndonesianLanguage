@@ -1,0 +1,22 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FaBaoBase" sParam="Item">
+			<ThingName>senjata ajaib</ThingName>
+		</Text>
+		<Text Name="FaBaoTest" sParam="Item">
+			<ThingName>Senjata ajaib eksperimental</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Kerusakan dampak</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="FightFaBao" sParam="Item">
+			<Desc>senjata ajaib</Desc>
+			<ThingName>Senjata ajaib untuk bertarung</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Kerusakan dampak</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="TreasureFabao" sParam="Item">
+			<ThingName>Prototipe Harta Karun Senjata Ajaib</ThingName>
+		</Text>
+		<Text Name="JieCloud" sParam="Item">
+			<ThingName>Hukuman Awan Surgawi</ThingName>
+		</Text>
+	</List>
+</Texts>
