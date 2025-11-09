@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkill_God_Damage1">
+			<DisplayName>Raungan Naga</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Damage2">
+			<DisplayName>Tujuh Pembantaian Guntur</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FaBao1">
+			<DisplayName>Pedang Asura</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_FightSkill1">
+			<DisplayName>Kutukan Yaksha</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Sheild1">
+			<DisplayName>Penjaga Ketidakkekalan</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health1">
+			<DisplayName>Nyanyian Kemewahan</DisplayName>
+		</Text>
+		<Text Name="FightSkill_God_Health2">
+			<DisplayName>Ketenangan</DisplayName>
+		</Text>
+	</List>
+</Texts>
