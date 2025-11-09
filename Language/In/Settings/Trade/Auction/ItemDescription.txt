@@ -1,0 +1,137 @@
+Deskripsi Nama Barang
+Item_Dan_IncreaseLife3 dalam botol, perpanjangan masa pakai, kuning muda
+Item_Dan_IncreaseLife4 dalam labu, memperpanjang umur, biru
+Item_Dan_Ling2 Ungu, Bola, Basis Budidaya
+Item_Dan_IncreaseLife5 Biru, Bola, Hukuman Surgawi
+Item_Dan_IncreaseNeckCountdown1 labu, merah, hukuman surgawi
+Item_ParasolKayu Kayu, Keras, Harta Karun Roh
+Item_Dan_PracticeKecepatan api, kecepatan, dalam botol
+Item_Dan_Pertahanan Pertahanan, Bola, Oranye
+Item_CopperBlock1 Kotak, Api, Harta Karun Roh
+Item_Dan_CureHuoDamage Bola, Penyembuhan, Ungu
+Item_Dan_CureTuDamage bulat, sembuh, oranye
+Item_Dan_CureShuiDamage bubuk, air, biru
+Item_Dan_CureMuDamage Sphere, Indigo, Cure
+Item_Dan_CureFiveElementKerusakan dalam botol, obat, jeruk
+Item_EarthEssence_1 dalam labu, biru, sembuhkan
+Item_Dan_FiveBaseFromLife bulat, ungu, menua
+Item_Dan_DredgeQi dalam botol, penyembuhan, elemen tanah
+Item_RedAkar Tanaman Ginseng, Merah, Basis Budidaya
+Item_LingWood Kayu, Biru, Harta Karun Roh
+Item_Kayu Keras, kuning
+Item_Dan_PracticeRate pelet kecil, elemen emas, terbatas
+Item_Dan_IncreaseLife1 memperpanjang umur, pada labu, tanaman
+Item_Dan_IncreaseLife2 Memperpanjang Umur, Bubuk, Elemen Air
+Item_BasePracticeDrug Lima statistik dasar, dalam botol, elemen air
+Item_LingMuXueJie Vitalitas, Bubuk, Biru
+Kondisi mental Item_Dan_CalmDown, pelet kecil, biru
+Item_Dan_Kebahagiaan coklat, kondisi mental, butiran kecil
+Item_Dan_FiveBase2 Lima statistik dasar, elemen tanah, ada di dalam botol.
+Item_Dan_FiveBase1 Lima statistik dasar, dalam botol, warna emas
+Item_Dan_FiveBase3 Api, lima statistik dasar, dalam botol.
+Item_Dan_FiveBase4 Kayu, lima statistik dasar, dalam botol.
+Item_Dan_FiveBase5 Air, lima statistik dasar, dalam botol.
+Item_Dan_IncreaseNeckCountdown2 Bubuk, Hukuman Surgawi, Elemen Emas
+Kotak Item_Dan_CureJinDamage, putih, sembuh
+Item_ShuiEssence putih, bola, roh
+Item_HuoEssence Api, Bola, Roh
+Item_JinEssence coklat, bulat, semangat
+Item_MuEssence coklat, semangat, kayu
+Item_TuEssence coklat, elemen tanah, roh
+Cairan Item_LifeStream, perpanjangan masa pakai, merah
+Item_EarthEssence Cair, Transparan, Basis Budidaya
+Item_Batu Langit, Roh, Elemen Tanah
+Item_StarEssence Roh, Batu, Elemen Emas
+Item_SoulPearl Jiwa, Air, Bola
+Item_EarthEssence1 Basis Budidaya, Cair, Merah
+Item_Dan_LongDan1 Biru, Bulat, Elemen Air
+Item_Dan_FengDan1 Merah, bulat, elemen api
+Item_YanDaoGuo Benih Tao, Kayu, Ungu
+Item_QieDaoGuo dosa, kayu, biru
+Bola Item_Dan_TreeEXP, transparan, konsep
+Item_Dan_ExtremeLofty dalam Labu, Emas, Obat
+Item_ExtremeJade Keras, Biru, Semangat
+Item_XianDaoShenNian Bola, Potensial, Hijau
+Item_XianDaoXieNian Bola, Potensi, Ungu
+Item_Dan_HundredPerbaiki Emas, Bola, Budidaya
+Item_Dan_ZhuLongDan1 Sub-jiwa, beraneka warna, bulat
+Item_ThunderAir hukuman surgawi yang bulat, tidak bisa dimakan
+Item_XianBone Tulang, Benih Dao, Tanpa Elemen
+Item_ZaoHuaYuZi Indigo, Tanpa Elemen, Inti
+Item_Dan_LingYuanZhong nila, spiritual, non-elemen
+Item_Dan_ReBorn_4 bulat, merah, memperpanjang umur
+Item_BenYuan_None Tanpa Elemen, Benih Dao, Inti
+Item_BenYuan_Jin warna emas, biji dao, inti
+Item_BenYuan_Mu Hijau, Benih Tao, Inti
+Item_BenYuan_Shui Biru, Benih Tao, Inti
+Item_BenYuan_Huo merah, benih dao, inti
+Item_BenYuan_Tu Coklat, Biji Tao, Inti
+Item_Yao_RabbitLuck Water, Halus
+Item_Yao_WolfAtk Elemen Emas, Keras
+Item_Yao_SnakeHanLin air, keras
+Item_Yao_BearPiMao Api, Halus
+Item_Yao_TurtleKe padat, elemen tanah
+Item_BoarMeat elemen tanah, coklat, makanan
+Item_StrangeMush kayu, coklat, makanan
+Item_MillVell kayu, halus
+Item_SewingKayu pelindung, keras
+Item_PerfumeBag kayu, kondisi mental
+Elemen emas Item_StoneCutter, kecepatan
+Item_Saputangan halus, tidak ada elemen
+Item_Gelang padat, non-elemen
+Item_SmallBell solid, tidak ada elemen
+Item_SysAxe padat, non-elemen
+Item_SysPickaxe padat, non-elemen
+Item_SysSickle padat, non-elemen
+[HEWAN] Kotak, persegi
+Item_BossFeng_TouYu Api, Berbulu, Binatang
+Item_BossFeng_WeiYu Halus, Binatang, Harta Karun Roh
+Konsep Item_BossFeng_HongYu, binatang buas, merah
+Item_BossLong_Jiao Beast, Keras, Keterampilan Senjata Ajaib
+Konsep Item_BossLong_NiLin, Air, Binatang
+Item_BossLong_Jing Padat, Harta Karun Roh, Binatang Buas
+Item_BossZhuLong_Eye Beast, Baut
+Item_BossZhuLong_LongYu Kekacauan, Perlawanan, Binatang Buas
+Pertahanan Item_BossZhuLong_TianLin, Binatang Buas
+Item_Dan_FenShen1 Kuno, Merah, Sub Roh
+Item_Dan_FenShen2 Nasib, Merah, Sub Jiwa
+Item_Dan_FenShen3 Kondisi Mental, Merah, Sub Jiwa
+Item_Yao_CatSoul Baut, Biru, Sub Jiwa
+Buku teks Item_WhiteHair, biru, putih
+Item_BossFeng_HuoYu Harta Karun Jiwa, Merah, Binatang
+Item_BossFeng_GangYu Api, Binatang
+Item_BossFeng_Gu Tulang, Keras, Binatang Buas
+Item_Skala Naga Biru, Harta Karun Jiwa, Binatang Buas
+Item_BossLong_Zhua Tajam, Binatang
+Item_BossLong_Lin Biru, Pertahanan, Binatang
+Item_BossZhuLong_BaiLin Putih, Binatang Buas
+Item_BossZhuLong_HeiLin Hitam, Binatang Buas
+Item_BossFeng_Makanan daging, binatang buas, merah
+Item_BossLong_Makanan daging, berwarna-warni, binatang buas
+Item_BossZhuLong_Daging Dao Benih, Makanan, Binatang
+Item_Dan_Restore Restorasi, Kuning, Bubuk
+Baut Item_Dan_PedangBola, Biru
+Item_Dan_Ling3 Bubuk, Kuning
+Item_Dan_Pelet kecil tipis, biru, penampakannya
+Item_Dan_FaceLock manik-manik kecil, merah, penampilan
+Item_Dan_FaceUnLock butiran kecil, elemen tanah, penampilan
+Item_Dan_Soul1 butir kecil, konsep, umur
+Item_Dan_Soul2 butiran kecil, api, konsep
+Item_Dan_Soul3 butiran kecil, elemen tanah, konsep
+Item_Dan_Soul4 butir kecil, kecerdasan, konsep
+Item_QiZhi Pencerahan, Botol, Elemen Air
+Item_Fall_LingZhi Pencerahan, Botol, Elemen Emas
+Pencerahan Item_Winter_LingZhi, botol, batuk pilek
+Pencerahan Item_Spring_LingZhi, botol, kayu
+Item_Summer_LingZhi Pencerahan, Botol, Elemen Api
+Item_Earth_LingZhi Pencerahan, Botol, Elemen Tanah
+Item_SoulCrystalYou Soul Crystal, Tanpa Elemen, Sakit
+Item_SoulCrystalNing Permata Roh, Non-elemen, Kedamaian
+Item_SoulCrystalLing Permata Jiwa, Elemental, Kebahagiaan
+Buku Teks Item_GodPractice_MiJuan, Tanpa Elemen
+Item_PurpleGanodermaLucidum ungu, semangat, makanan
+Item_HorseFromFei Halus, tanpa elemen, elemen air
+Item_HorseFromLuShu Halus, tanpa elemen, elemen api
+Bubuk Item_WuDang_HuangJingFen. Putih. Kayu
+Bola Item_Dan_WuQiNoHunger2. Makanan. Kayu
+Item_Dan_SanHuaHuangJing Kayu. Qi. Kuning
