@@ -1,0 +1,465 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SonOfDestiny">
+			<DisplayName>anak takdir</DisplayName>
+			<Desc>Orang ini dilahirkan dengan takdir yang besar.[IT]Dialah orang yang benar-benar dicintai surga.</Desc>
+		</Text>
+		<Text Name="YinBody">
+			<DisplayName>Tubuh Yin</DisplayName>
+			<Desc>Orang ini memiliki tubuh Yin yang murni, menyebabkan[IT]Ia memiliki keindahan luar biasa dan bakat untuk mengolah Qi yang sangat tinggi. Tapi itu harus memiliki umur yang lebih pendek dari rata-rata orang.</Desc>
+		</Text>
+		<Text Name="YangBody">
+			<DisplayName>Tubuh Yang</DisplayName>
+			<Desc>Orang ini memiliki tubuh Yang murni[IT]Terlahir dengan kekuatan dan penampilan menawan.[IT]Mereka juga memiliki umur yang lebih panjang dibandingkan orang lain. Namun, karena Yang Qi,[IT]Tidak dapat mengendalikan kondisi mentalnya, tidak terlalu stabil</Desc>
+		</Text>
+		<Text Name="Cleanliness">
+			<DisplayName>cinta yang bersih</DisplayName>
+			<Desc>Orang ini sangat suka bersih-bersih.</Desc>
+		</Text>
+		<Text Name="Slovenly">
+			<DisplayName>kotor</DisplayName>
+			<Desc>Orang ini sangat kotor.</Desc>
+		</Text>
+		<Text Name="DragonBlood">
+			<DisplayName>garis keturunan naga</DisplayName>
+			<Desc>Orang ini memiliki beberapa garis keturunan Klan Naga yang mengalir di dalam tubuhnya, menyebabkan[ENHIM]Ia memiliki tubuh yang kuat dan persepsi yang lebih unggul dari orang biasa. Namun Karena ada darah binatang purba yang kuat mengalir di dalam tubuhnya. kadang-kadang membuat[ENHIM]tidak mampu mengendalikan dirinya sendiri</Desc>
+		</Text>
+		<Text Name="DemonBlood">
+			<DisplayName>Garis keturunan setan</DisplayName>
+			<Desc>Orang ini memiliki sebagian darah ras iblis yang mengalir di dalam tubuhnya, menyebabkan[ENHIM]memiliki rasa Qi yang lebih unggul dari orang biasa Namun Karena memiliki darah seperti ini,[ENHIM]Kesulitan mengendalikan kondisi mental sendiri</Desc>
+		</Text>
+		<Text Name="Realization">
+			<DisplayName>kesadaran</DisplayName>
+			<Desc>meskipun[ENHIM]Dia tidak akan tahu bahwa dia adalah salah satu orang kuat yang telah bereinkarnasi, tapi[ENHIM]Ia merasa memiliki persepsi dan indera yang lebih unggul dibandingkan orang biasa. Ini membuatnya[ENHIM]Mampu mengelola berbagai tugas Dapat dengan mudah digunakan dalam kehidupan sehari-hari</Desc>
+		</Text>
+		<Text Name="Retarded">
+			<DisplayName>terbelakang</DisplayName>
+			<Desc>Orang ini terlahir dengan disabilitas intelektual.</Desc>
+		</Text>
+		<Text Name="LunHui_1">
+			<DisplayName>Taat</DisplayName>
+			<Desc>Orang ini sangat jeli.[ENHIM]Identifikasi kelainan di sekitar dengan cepat</Desc>
+		</Text>
+		<Text Name="LunHui_2">
+			<DisplayName>orang pintar</DisplayName>
+			<Desc>Orang ini memiliki kecerdasan yang melebihi orang biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_3">
+			<DisplayName>ambisius</DisplayName>
+			<Desc>Orang ini telah mempelajari Jalan Tao dan memiliki pikiran yang ambisius. Dengan pikiran seperti ini, dia mampu menanggung kesulitan lebih baik daripada orang biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_4">
+			<DisplayName>Banyak energi</DisplayName>
+			<Desc>Orang ini memiliki energi yang berlimpah. Dan tentu saja, bekerja hingga larut malam bukanlah masalah sama sekali[ENHIM]</Desc>
+		</Text>
+		<Text Name="LunHui_5">
+			<DisplayName>malas</DisplayName>
+			<Desc>Orang ini berjalan sangat lambat dan jelas lebih lambat dari yang Anda duga.</Desc>
+		</Text>
+		<Text Name="LunHui_6">
+			<DisplayName>penjelajah waktu</DisplayName>
+			<Desc>Perjalanan waktu membuat manusia memiliki umur panjang dan tubuh.[ENHIM]Dapat menahan kondisi cuaca buruk seperti cuaca dingin atau panas. Dapatkan lebih dari orang lain</Desc>
+		</Text>
+		<Text Name="LunHui_7">
+			<DisplayName>Garis Darah Burung Api</DisplayName>
+			<Desc>Orang ini terlahir dengan garis keturunan Burung Api, tapi itu tidak berguna karena teknik budidaya Klan Burung Api sudah lama menghilang.</Desc>
+		</Text>
+		<Text Name="LunHui_8">
+			<DisplayName>orang-orang dari zaman sekarang</DisplayName>
+			<Desc>Meskipun pengetahuan dan ide-ide dari zaman sekarang membuat[IT]cukup istimewa di dunia ini, tapi[IT]Mereka juga tidak mampu menangani beberapa tugas yang dapat dilakukan oleh orang-orang di masa lalu. Apalagi karena visi generasi sekarang juga membuat[IT]Itu tidak bisa membuatku jatuh cinta pada siapa pun di era ini.</Desc>
+		</Text>
+		<Text Name="LunHui_9">
+			<DisplayName>Miliki moral</DisplayName>
+			<Desc>Orang ini terlahir dengan akhlak dan kebajikan yang baik. Dapat dikatakan bahwa surga itu baik[IT]cukup banyak</Desc>
+		</Text>
+		<Text Name="LunHui_10">
+			<DisplayName>orang-orang dari zaman sekarang</DisplayName>
+			<Desc>Dengan pengetahuan dan sikap masyarakat masa kini, hal ini berhasil[ENHIM]Mereka memiliki kecerdasan yang lebih baik dari rata-rata orang di zaman ini. Namun dengan pemikiran dari pikiran bawah sadar yang masih menolak kekuatan gaib,[ENHIM]Memulai mengolah Qi cukup sulit.</Desc>
+		</Text>
+		<Text Name="LunHui_11">
+			<DisplayName>orang-orang dari zaman sekarang</DisplayName>
+			<Desc>[IT]Harus menyembunyikan identitas orang yang telah melintasi dimensi dunia sekarang. Meski identitas kecil seperti[IT]akan diabaikan oleh surga[IT]yang menyeberang ke dunia ini dengan enggan[IT]Pikirkan tentang kenyamanan hidup di dunia modern karena cara hidup di era ini tidak cocok untuk itu[IT]Jadi[IT]Oleh karena itu, dia mulai melatih dirinya sendiri untuk menggunakan kekuatan master transdimensi untuk kembali ke dunia aslinya. Untuk alasan ini[IT]Oleh karena itu, tidak ada niat untuk menjalin hubungan dengan siapapun.</Desc>
+		</Text>
+		<Text Name="LunHui_12">
+			<DisplayName>keras kepala</DisplayName>
+			<Desc>untuk menciptakan landasan untuk berlatih Qi. Hal ini menyebabkan orang ini menjalani pelatihan intensif selama puluhan tahun untuk mengimbangi kekurangan bakatnya.[IT]Dan dengan pengalaman seperti ini,[IT]Mampu mengatasi latihan berat di kemudian hari</Desc>
+		</Text>
+		<Text Name="LunHui_13">
+			<DisplayName>malas</DisplayName>
+			<Desc>Orang ini sering kali tidak terburu-buru menyelesaikan tugasnya sendiri.[IT]Saya akan berjalan-jalan sepanjang hari. di jalan</Desc>
+		</Text>
+		<Text Name="LunHui_14">
+			<DisplayName>perencana</DisplayName>
+			<Desc>Dengan gaya hidup yang selalu melibatkan bekerja dengan dokumen, hal ini membuat[IT]Tidaklah cocok melakukan apa pun yang membutuhkan kekerasan. Namun, dengan imajinasinya yang tinggi[IT]membuat[IT]yang dapat dengan cepat beradaptasi dengan dunia ini</Desc>
+		</Text>
+		<Text Name="LunHui_15">
+			<DisplayName>Bakat setan</DisplayName>
+			<Desc>Orang ini memperoleh tubuh iblis dari berlatih seni iblis. Meskipun hal ini membuat pelatihan dasar lebih sulit dari biasanya. Tapi itu juga memberinya potensi besar.</Desc>
+		</Text>
+		<Text Name="LunHui_16">
+			<DisplayName>visi ilahi</DisplayName>
+			<Desc>Orang ini telah menerima penglihatan dari para dewa. Jadikan hidup[IT]Umur lebih panjang dan juga membantu meningkatkan karakteristik keseluruhan[IT]Juga</Desc>
+		</Text>
+		<Text Name="LunHui_17">
+			<DisplayName>Lahir untuk Krabi</DisplayName>
+			<Desc>Sepertinya orang ini asyik berlatih pedang sepanjang malam.[IT]yang akan lahir untuk Krabi</Desc>
+		</Text>
+		<Text Name="LunHui_18">
+			<DisplayName>orang-orang dari zaman sekarang</DisplayName>
+			<Desc>Hidup di era sekarang dengan teknologi yang nyaman membuat tubuh[IT]cukup lemah Namun ia menawarkan pandangan dunia yang lebih luas.</Desc>
+		</Text>
+		<Text Name="LunHui_19">
+			<DisplayName>tiba-tiba</DisplayName>
+			<Desc>Orang ini telah mempelajari metode gerakan tiba-tiba dari Ming kuno. Teknik ini berhasil[IT]Dapat bergerak dengan cepat</Desc>
+		</Text>
+		<Text Name="LunHui_20">
+			<DisplayName>Sukarelawan</DisplayName>
+			<Desc>Orang ini sangat perhatian. Hal ini membuatnya mudah disukai oleh orang-orang di sekitarnya.</Desc>
+		</Text>
+		<Text Name="LunHui_21">
+			<DisplayName>pemarah</DisplayName>
+			<Desc>Orang ini sangat pemarah dan kejam. Hal ini membuatnya mudah terprovokasi.</Desc>
+		</Text>
+		<Text Name="LunHui_22">
+			<DisplayName>Pengecut</DisplayName>
+			<Desc>Orang ini adalah seorang pengecut dan cenderung curiga terhadap hal-hal di sekitarnya.</Desc>
+		</Text>
+		<Text Name="LunHui_23">
+			<DisplayName>cepat</DisplayName>
+			<Desc>Orang ini sangat lincah dan dapat bergerak dengan sangat cepat.</Desc>
+		</Text>
+		<Text Name="LunHui_24">
+			<DisplayName>lesu</DisplayName>
+			<Desc>Orang ini sangat suka tidur.[IT]mengantuk hampir sepanjang waktu</Desc>
+		</Text>
+		<Text Name="LunHui_25">
+			<DisplayName>anggun</DisplayName>
+			<Desc>Orang ini memiliki kecerdasan dan rahmat dewa.[IT]Pesona unik yang sulit ditolak</Desc>
+		</Text>
+		<Text Name="LunHui_26">
+			<DisplayName>pengumpul tulang</DisplayName>
+			<Desc>Orang ini sangat terpesona dengan tulang.</Desc>
+		</Text>
+		<Text Name="LunHui_27">
+			<DisplayName>nelayan</DisplayName>
+			<Desc>Orang ini memiliki kemampuan menangkap ikan yang sangat baik dengan penglihatannya yang tajam dan gerakannya yang cepat.[IT]</Desc>
+		</Text>
+		<Text Name="LunHui_28">
+			<DisplayName>Suara surgawi</DisplayName>
+			<Desc>Orang ini mempunyai suara yang sangat merdu dan indah. Lagu-lagunya[IT]Itu bisa membuat orang terpesona seolah-olah itu ajaib.</Desc>
+		</Text>
+		<Text Name="LunHui_29">
+			<DisplayName>kreativitas</DisplayName>
+			<Desc>Orang ini memiliki pikiran yang penuh emosi dan keindahan.[IT]Ia sendiri mempunyai kekuatan imajinatif yang sangat dalam.</Desc>
+		</Text>
+		<Text Name="LunHui_30">
+			<DisplayName>Bebas khawatir</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat santai.[IT]Selalu tampil riang dan percaya diri.[IT]Dia tidak pernah menunjukkan tanda-tanda panik. Tidak peduli apa situasinya</Desc>
+		</Text>
+		<Text Name="LunHui_31">
+			<DisplayName>kambing hitam</DisplayName>
+			<Desc>Orang ini sering dijadikan kambing hitam dan semua orang suka menyalahkannya atas hal itu.</Desc>
+		</Text>
+		<Text Name="LunHui_32">
+			<DisplayName>semoga beruntung</DisplayName>
+			<Desc>Orang ini terlahir dengan keberuntungan yang luar biasa. Hal ini membuat semua orang sangat iri padanya.</Desc>
+		</Text>
+		<Text Name="LunHui_33">
+			<DisplayName>sadisme</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat suka menyiksa orang lain.</Desc>
+		</Text>
+		<Text Name="LunHui_34">
+			<DisplayName>harta benda</DisplayName>
+			<Desc>Orang ini terlahir dengan kekayaan luar biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_35">
+			<DisplayName>penyayang binatang</DisplayName>
+			<Desc>Orang ini merupakan orang yang sangat menyayangi binatang.[IT]Tidak bisa berburu</Desc>
+		</Text>
+		<Text Name="LunHui_36">
+			<DisplayName>Sains dari masa depan</DisplayName>
+			<Desc>Orang ini mempunyai pengetahuan tentang teknologi masa depan. Hal ini membuat mereka[IT]Ini memiliki efisiensi kerja yang baik dan pergerakan yang lebih cepat.</Desc>
+		</Text>
+		<Text Name="LunHui_37">
+			<DisplayName>kepala</DisplayName>
+			<Desc>Orang ini adalah pemimpin yang baik dan sangat disukai oleh seluruh karyawan.</Desc>
+		</Text>
+		<Text Name="LunHui_38">
+			<DisplayName>Pencuri Moralitas</DisplayName>
+			<Desc>Orang ini adalah pencuri yang lincah dan melanggar hukum.[IT]Dia adalah seorang pencuri yang selalu mencari keadilan.</Desc>
+		</Text>
+		<Text Name="LunHui_39">
+			<DisplayName>berkeras</DisplayName>
+			<Desc>Orang ini dapat menahan lebih banyak kesulitan daripada orang lain, seperti suhu dingin dan panas yang ekstrim, dan[IT]Ia juga memiliki gerakan yang lincah dan umur yang panjang.</Desc>
+		</Text>
+		<Text Name="LunHui_40">
+			<DisplayName>Ulangi, pikirkan, ulangi.</DisplayName>
+			<Desc>Orang ini menderita gangguan obsesif-kompulsif.[IT]Dibutuhkan banyak waktu untuk mengerjakan setiap bagian. Namun karya yang dihasilkan sungguh luar biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_41">
+			<DisplayName>Mudah</DisplayName>
+			<Desc>Orang ini berani dan terus terang.[IT]Dapatkan bantuan dari orang lain dengan mudah.</Desc>
+		</Text>
+		<Text Name="LunHui_42">
+			<DisplayName>juru masak yang terampil</DisplayName>
+			<Desc>Orang ini terlahir dengan bakat memasak yang luar biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_43">
+			<DisplayName>kesempurnaan</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat mementingkan kesempurnaan.[IT]Dibutuhkan banyak waktu untuk mengerjakan setiap bagian. Namun karya yang dihasilkan sungguh luar biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_44">
+			<DisplayName>tahu banyak hal</DisplayName>
+			<Desc>Orang ini tertarik pada segala hal dan senang mempelajarinya.</Desc>
+		</Text>
+		<Text Name="LunHui_45">
+			<DisplayName>ombak selancar kaki</DisplayName>
+			<Desc>Orang ini bergerak sangat cepat dengan matanya yang lincah seperti bunglon.</Desc>
+		</Text>
+		<Text Name="LunHui_46">
+			<DisplayName>Pengisi suara</DisplayName>
+			<Desc>Orang ini tidak suka banyak bicara. Dan akan berkomunikasi dengan orang lain melalui boneka tersebut dengan bersuara saja.</Desc>
+		</Text>
+		<Text Name="LunHui_47">
+			<DisplayName>cinta kebebasan</DisplayName>
+			<Desc>Orang ini sangat mandiri dan suka bepergian keliling dunia.</Desc>
+		</Text>
+		<Text Name="LunHui_48">
+			<DisplayName>populer</DisplayName>
+			<Desc>Orang ini sering kali dicintai oleh orang-orang di sekitarnya.</Desc>
+		</Text>
+		<Text Name="LunHui_49">
+			<DisplayName>hilang ingatan</DisplayName>
+			<Desc>Orang ini telah kehilangan seluruh ingatannya tentang masa lalunya. Tapi meskipun seperti itu[IT]Jalani sisa hidupmu dengan bahagia setiap hari.</Desc>
+		</Text>
+		<Text Name="LunHui_50">
+			<DisplayName>Jip jip</DisplayName>
+			<Desc>Jip jip</Desc>
+		</Text>
+		<Text Name="LunHui_51">
+			<DisplayName>Bakat lain</DisplayName>
+			<Desc>Orang ini memiliki bakat luar biasa dan mampu menahan dingin dan panas dengan sangat baik.[IT]Sebaliknya, dia adalah orang yang cocok untuk berkultivasi.</Desc>
+		</Text>
+		<Text Name="LunHui_52">
+			<DisplayName>Kutukan Horoskop</DisplayName>
+			<Desc>Orang ini dikutuk dengan nasib menderita wasir abadi.</Desc>
+		</Text>
+		<Text Name="LunHui_53">
+			<DisplayName>Malas sampai ke tulang</DisplayName>
+			<Desc>Tidak, apapun yang terjadi aku pasti tidak akan menerima kerja keras!</Desc>
+		</Text>
+		<Text Name="LunHui_54">
+			<DisplayName>Banyak manfaatnya</DisplayName>
+			<Desc>Orang ini sangat diberkati.</Desc>
+		</Text>
+		<Text Name="LunHui_55">
+			<DisplayName>Penjaga malam</DisplayName>
+			<Desc>Orang ini sudah lama memperhatikan kegelapan.[IT]Saya belajar bagaimana tetap terjaga sepanjang malam dengan melakukan ini.</Desc>
+		</Text>
+		<Text Name="LunHui_56">
+			<DisplayName>pembujuk</DisplayName>
+			<Desc>Orang ini sangat pandai membujuk orang dengan cara bicaranya yang fasih.</Desc>
+		</Text>
+		<Text Name="LunHui_57">
+			<DisplayName>akar qi yang bagus</DisplayName>
+			<Desc>Orang ini dilahirkan dengan bakat kultivasi yang luar biasa.</Desc>
+		</Text>
+		<Text Name="LunHui_58">
+			<DisplayName>Praktis</DisplayName>
+			<Desc>Semua orang tahu itu[IT]Ada penekanan kuat pada pengalaman langsung dibandingkan teori.</Desc>
+		</Text>
+		<Text Name="LunHui_59">
+			<DisplayName>percaya pada sains</DisplayName>
+			<Desc>Orang ini lebih percaya pada sains daripada percaya pada Tuhan.</Desc>
+		</Text>
+		<Text Name="LunHui_60">
+			<DisplayName>hadiah</DisplayName>
+			<Desc>Orang ini mempunyai bakat luar biasa.[IT]dapat mempelajari banyak hal dengan mudah dan cepat</Desc>
+		</Text>
+		<Text Name="LunHui_61">
+			<DisplayName>bakat medis</DisplayName>
+			<Desc>Orang ini memiliki keterampilan medis yang luar biasa.[IT]Mereka sering mendedikasikan waktu dalam hidup mereka untuk menggunakannya demi menyelamatkan nyawa.</Desc>
+		</Text>
+		<Text Name="LunHui_62">
+			<DisplayName>Tergila-gila pada budidaya</DisplayName>
+			<Desc>Orang ini sangat bersemangat dalam mengolah dan mengolah Qi.[IT]Biasanya dibutuhkan waktu yang sangat lama untuk mengolah Qi, menghabiskan 15 jam sehari.</Desc>
+		</Text>
+		<Text Name="LunHui_63">
+			<DisplayName>penemu</DisplayName>
+			<Desc>Orang ini memiliki bakat untuk menciptakan sesuatu, mengerjakannya[IT]Bangunannya biasanya berkualitas baik.</Desc>
+		</Text>
+		<Text Name="LunHui_64">
+			<DisplayName>artis</DisplayName>
+		</Text>
+		<Text Name="LunHui_65">
+			<DisplayName>Tuan Yantra</DisplayName>
+			<Desc>Orang ini telah menggambar karakter yantra yang tak terhitung jumlahnya sepanjang hidupnya.[IT]Ia dikenal sebagai 'Patriark Yantra'</Desc>
+		</Text>
+		<Text Name="LunHui_66">
+			<DisplayName>Wajah cantik, payudara besar</DisplayName>
+			<Desc>Orang ini memiliki penampilan cantik dan payudara besar.[IT]Sangat menawan</Desc>
+		</Text>
+		<Text Name="LunHui_67">
+			<DisplayName>Dokter Malaikat</DisplayName>
+			<Desc>Orang ini dikatakan sebagai dokter yang sangat ahli.[IT]Hampir mampu menghidupkan kembali orang mati</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_1">
+			<DisplayName>Tsundere</DisplayName>
+			<Desc>[IT]Sering bermulut kotor dan tak selalu sependapat dengan hatinya. Tentu saja itu karena[IT]Ingin menyembunyikan rasa malumu terhadap orang yang kamu sukai</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_2">
+			<DisplayName>Pembalasan dendam</DisplayName>
+			<Desc>Kebencian orang ini sering kali membuat orang lain tidak bisa berkata-kata.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_3">
+			<DisplayName>Terhormat</DisplayName>
+			<Desc>Orang ini sangat terhormat.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_4">
+			<DisplayName>licik</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat licik.[IT]Saya tidak mempercayai siapa pun.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_5">
+			<DisplayName>penyanyi</DisplayName>
+			<Desc>Orang ini percaya diri, ceria dan suka menyanyi.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_6">
+			<DisplayName>pikiran yang ditentukan</DisplayName>
+			<Desc>Orang ini adalah orang dengan tekad yang luar biasa.[IT]Mampu melawan kesulitan kultivasi dengan pikiran yang teguh.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_7">
+			<DisplayName>Lovely Voice</DisplayName>
+			<Desc>Orang ini memiliki suara yang sangat indah. Lagunya[IT]Ini dapat membantu menenangkan pikiran orang.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_8">
+			<DisplayName>tidak mabuk</DisplayName>
+			<Desc>Orang ini cenderung pendiam dan pendiam.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_9">
+			<DisplayName>Meningkatkan harapan hidup</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_10">
+			<DisplayName>Bakat akting</DisplayName>
+			<Desc>Orang ini adalah aktor berbakat.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_11">
+			<DisplayName>Suka bergosip</DisplayName>
+			<Desc>Orang ini adalah orang yang sangat suka bergosip dan[IT]Selalu penasaran dengan segala hal.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_12">
+			<DisplayName>Meningkatkan umur panjang</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_13">
+			<DisplayName>Tolak nasib langit</DisplayName>
+			<Desc>Orang ini memiliki takdir yang unik.[IT]Dapat mengubah takdir yang telah ditentukan oleh surga dan tampak menyatu.[IT]yang akan diabaikan oleh surga Ini membuat umurnya[IT]Sangat tahan lama</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_14">
+			<DisplayName>Kepala kantor</DisplayName>
+			<Desc>Julukan Tao dalam tren online</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_15">
+			<DisplayName>Komentar populer</DisplayName>
+			<Desc>Orang ini sangat menawan.[IT]Ada banyak follower yang siap membantu.[IT]</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_lost">
+			<DisplayName>Unsur emas cacat sejak lahir.</DisplayName>
+			<Desc>Mempelajari cara-cara Elemen Emas menjadi lebih sulit. Dan akan menerima damage dari elemen api lebih besar dari biasanya.</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_lost">
+			<DisplayName>Elemen kayu cacat sejak lahir.</DisplayName>
+			<Desc>Mempelajari cara menggunakan elemen kayu menjadi lebih sulit. dan akan menerima damage dari elemen gold lebih besar dari biasanya</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_lost">
+			<DisplayName>Elemen air cacat sejak lahir.</DisplayName>
+			<Desc>Mempelajari cara elemen air menjadi lebih sulit. dan akan menerima damage dari elemen Tanah lebih besar dari biasanya.</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_lost">
+			<DisplayName>Elemen api cacat sejak lahir</DisplayName>
+			<Desc>Mempelajari cara elemen api menjadi lebih sulit. Dan akan menerima damage dari elemen Air lebih besar dari biasanya.</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_lost">
+			<DisplayName>Unsur tanah cacat sejak lahir.</DisplayName>
+			<Desc>Mempelajari cara-cara elemen tanah menjadi lebih sulit. dan akan menerima damage dari elemen Wood lebih besar dari biasanya.</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_Add">
+			<DisplayName>Unsur emas mendukungnya sejak lahir.</DisplayName>
+			<Desc>Anda dapat dengan mudah mempelajari cara Elemen Emas. dan mempunyai ketahanan terhadap elemen kayu lebih dari biasanya</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_Add">
+			<DisplayName>Unsur kayu menopangnya secara alami.</DisplayName>
+			<Desc>Anda dapat dengan mudah mempelajari cara-cara elemen kayu. dan memiliki ketahanan yang lebih besar terhadap elemen tanah dari biasanya</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_Add">
+			<DisplayName>Elemen air pada dasarnya mendukung.</DisplayName>
+			<Desc>Anda dapat dengan mudah mempelajari cara-cara elemen air. dan memiliki ketahanan lebih terhadap elemen api dari biasanya</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_Add">
+			<DisplayName>Elemen Api secara alami mendukung.</DisplayName>
+			<Desc>Anda dapat dengan mudah mempelajari cara-cara elemen api. dan memiliki ketahanan yang lebih besar terhadap emas dari biasanya</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_Add">
+			<DisplayName>Unsur tanah mendukungnya sejak lahir.</DisplayName>
+			<Desc>Anda dapat dengan mudah mempelajari cara-cara elemen tanah. dan memiliki ketahanan yang lebih terhadap elemen air dibandingkan biasanya</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_0">
+			<DisplayName>Jiwa dari roh material</DisplayName>
+			<Desc>Awalnya mereka adalah objek tanpa jiwa. Tapi secara kebetulan atau apalah, mereka tiba-tiba memiliki jiwa. Dengan memperhatikan jadwal yang tidak wajar ini, menjadi lebih sulit bagi mereka untuk berlatih kultivasi dibandingkan biasanya. Namun di sisi lain pemikiran mereka yang sederhana membuat mereka sulit tergoda oleh ide atau hal lain. Atau jika dilihat dari sudut pandang lain, dapat dikatakan bahwa ini adalah keadaan pikiran yang dapat dianggap sebagai cita-cita seorang praktisi.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_1">
+			<DisplayName>Tubuh pembentuk jiwa</DisplayName>
+			<Desc>satu[IT]Ia lahir dari batu roh yang menjadi material roh.[IT]Ia memiliki basis Qi yang luar biasa.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_2">
+			<DisplayName>Qi menelan tubuh</DisplayName>
+			<Desc>satu[IT]Itu lahir dari makanan umum. menjadi objek roh, ini membuat[IT]Ia memiliki kemampuan luar biasa untuk menyerap Qi dan tidak memiliki rasa lapar.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_3">
+			<DisplayName>Tubuh Muen Sappawut</DisplayName>
+			<Desc>satu[IT]Ia lahir dari senjata ajaib yang berubah menjadi benda roh.[IT]Memiliki keahlian dalam keterampilan senjata magis yang luar biasa.</Desc>
+		</Text>
+		<Text Name="Sys_YuSheTeXing1">
+			<DisplayName>Kustom 1</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing2">
+			<DisplayName>Kustom 2</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing3">
+			<DisplayName>Kustom 3</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing4">
+			<DisplayName>Kustom 4</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_100">
+			<DisplayName>Manfaatkan kesempatan ini</DisplayName>
+			<Desc>Orang ini memiliki kehidupan masa lalu dimana dia beruntung. Hal ini menghasilkan umur yang sangat panjang.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_101">
+			<DisplayName>Lahir untuk mengetahui</DisplayName>
+			<Desc>Terlahir untuk bisa berbicara, namun juga dikaruniai kebijaksanaan di berbagai bidang. Ahli dalam bidang astronomi dan geografi Kecepatan belajarnya begitu menakjubkan sehingga bahkan para dewa pun tercengang. Namun, hal ini sering kali membuat orang lain curiga dan menganggapnya aneh.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_102">
+			<DisplayName>Masa lalu belum selesai.</DisplayName>
+			<Desc>Orang ini sering diganggu oleh kenangan dari banyak kehidupan. Itu membuat sulit untuk tidur dan tenang.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_103">
+			<DisplayName>Bakat membuat pil</DisplayName>
+			<Desc>Setelah melewati banyak kehidupan, orang ini adalah orang pertama di Era Iblis yang luar biasa dalam meramu obat. Meski kenangan masa lalunya kabur, namun bakatnya di bidang kedokteran masih sangat bagus. Mengonsumsi makanan bergizi dalam jangka waktu lama membuat tubuh menjadi luar biasa kuat.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_104">
+			<DisplayName>Sebuah pose yang tidak dapat ditolak</DisplayName>
+			<Desc>Setelah berenang dalam banyak kehidupan Orang yang tak terkalahkan dari Era Iblis\nIngatan kehidupan sebelumnya kabur. Namun dia sering bermimpi dirinya membunuh naga dan burung phoenix. dan dengan gigih menolak Kesengsaraan Surga Sembilan Lapisan. Oleh karena itu sangat yakin bahwa ia akan menciptakan karya-karya besar dalam hidup ini. Keyakinan itu pula yang membuat orang-orang di sekitar Anda mau mengikutinya.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_105">
+			<DisplayName>Jenius dalam berlatih</DisplayName>
+			<Desc>Setelah melewati banyak kehidupan Orang ini adalah orang pertama dari Sepuluh Ribu Dunia Iblis yang naik peringkat begitu cepat. Memiliki rasa Qi bawaan yang sangat baik dan peka terhadap jalur kultivasi. Seringkali banyak hal dapat disimpulkan dari sedikit informasi. Raih hasil dua kali lipat dengan setengah usaha.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_106">
+			<DisplayName>terlahir sebagai pejuang</DisplayName>
+			<Desc>Setelah melewati banyak kehidupan, orang ini adalah orang pertama dari Era Iblis yang merupakan penakluk cepat. Dikenal karena keberanian dan kecintaannya pada pertarungan sejak kecil. Ada banyak sekali musuh. Namun dengan kekuatan manusia super dan seni bela diri yang terampil, tidak ada perlawanan. Menang sepuluh banding satu adalah hal biasa, sehingga mendapat julukan "Gila Perang".</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_107">
+			<DisplayName>Pemburu Setan</DisplayName>
+			<Desc>Setelah berenang melewati banyak kehidupan Orang ini adalah orang pertama dari Sepuluh Ribu Dunia Iblis yang ahli dalam membunuh iblis. Dengan gambaran kabur dari kehidupan masa lalu yang terlintas di benak saya sejak kecil. Oleh karena itu, ia bercita-cita menjadi seorang pendekar pedang. Singkirkan semua iblis. Hasilnya, dia sangat familiar dengan seni mengendalikan objek dan bertarung.</Desc>
+		</Text>
+	</List>
+</Texts>
