@@ -1,0 +1,132 @@
+<Texts Type="Lainnya">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>Obat Qi melonjak</DisplayName>
+			<StoryDesc>Obat Qi menyebar ke seluruh udara. Mendorong Qi langit dan bumi melonjak seperti sungai yang mengalir.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>Qi Primordial</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh udara. Mendorong Qi Langit dan Bumi melonjak seperti sungai yang mengalir.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>Golden Qi</DisplayName>
+			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>QI Buah</DisplayName>
+			<StoryDesc>QI Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>Varie Qi</DisplayName>
+			<StoryDesc>Qi Pengobatan menyebar ke seluruh area</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>Qi Api</DisplayName>
+			<StoryDesc>Qi Kedokteran menyebar ke seluruh area</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>Sky Qi</DisplayName>
+			<StoryDesc>Qi Pengobatan menyebar ke seluruh area</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>Qi dari Lahan Kering</DisplayName>
+			<StoryDesc>Qi Kedokteran menyebar ke seluruh area.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>Qi Halus</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>Qi Pemurnian</DisplayName>
+			<StoryDesc>Qi Obat tersebar ke seluruh wilayah</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>Q Qi yang terakumulasi</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh wilayah</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>Qi Berlimpah</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Ramuan_MuHuo">
+			<DisplayName>QI Terik</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>Qi Penyegelan</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>Qi Pemadaman</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>Qi Menembus</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>Ash Qi</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Ramuan_JinMuShui">
+			<DisplayName>Qi Obat yang Baru Lahir</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Semua Ruang</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>Qi Buah tumbuh</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh wilayah</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>Qi Langit Bumi</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>Qi Emas Murni</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>Qi Air Dalam</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh area</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>Qi Logam Kuat</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh area.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>Fire Spark Qi</DisplayName>
+			<StoryDesc>Obat Qi Menyebar ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>Qi Air yang Sejuk dan Tenang</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>Qi Langit Kuat</DisplayName>
+			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>Menghancurkan Qi Matahari</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Ramuan_NoJin">
+			<DisplayName>Qi Pemotongan Emas</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>Qi Pemotongan Buah</DisplayName>
+			<StoryDesc>Qi Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>Qi Pemotongan Wari</DisplayName>
+			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>Qi Pemotongan Api</DisplayName>
+			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>Qi Pemotong Bumi</DisplayName>
+			<StoryDesc>Qi Obat menyebar ke seluruh wilayah.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
