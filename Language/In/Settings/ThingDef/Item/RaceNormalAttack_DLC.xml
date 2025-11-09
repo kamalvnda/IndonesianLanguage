@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Panda_NormalAttack" sParam="Item">
+			<ThingName>serangan panda</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>menggores</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>menggores</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>menggores</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>menabrak</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYPanda_NormalAttack" sParam="Item">
+			<ThingName>Pukulan panda</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Serangan Qi Bumi</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Serangan Qi Bumi</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Serangan Qi Bumi</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="LsPanda1_NormalAttack" sParam="Item">
+			<ThingName>Inti Panda Ilahi</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Petir Yang</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Petir Yang</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Petir Yang</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="LsPanda2_NormalAttack" sParam="Item">
+			<ThingName>Inti Panda Ilahi</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Petir Yin</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Petir Yin</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Petir Yin</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+	</List>
+</Texts>
