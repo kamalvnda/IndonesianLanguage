@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinYangErosion">
+			<DisplayName>Korosi Yin Yang</DisplayName>
+			<Desc>Mengurangi pertahanan musuh dengan Yin Qi.</Desc>
+		</Text>
+		<Text Name="BambooBedFeel">
+			<DisplayName>Panas dingin</DisplayName>
+			<Desc>Tempat tidur bambu terasa agak dingin.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_YinYangForce">
+			<DisplayName>Kekuatan Asal (Campuran)</DisplayName>
+			<Desc>Dengan cepat mengonsumsi qi hidupnya untuk me qi di dalam tubuhnya. Hasilnya, skill senjata sihir, skill armor yang dalam, kekuatan serangan, dan daya tahan Fisik Misterius meningkat pesat.</Desc>
+		</Text>
+		<Text Name="Fish_EndureHunger">
+			<DisplayName>menahan lapar</DisplayName>
+			<Desc>Mengonsumsi ikan Golden Dwarf Cichlid bisa membuat seseorang lebih tahan terhadap rasa lapar.</Desc>
+		</Text>
+	</List>
+</Texts>
