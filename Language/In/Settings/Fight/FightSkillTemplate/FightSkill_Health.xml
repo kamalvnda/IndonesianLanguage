@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="THealthSkill">
+			<DisplayName>Keterampilan Pemulihan</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_1">
+			<DisplayName>Obat mujarab surgawi</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong1_2">
+			<DisplayName>Infus Misterius</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong4_1">
+			<DisplayName>Nyanyian Vitalitas</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_1">
+			<DisplayName>Siklus Pembalikan</DisplayName>
+		</Text>
+		<Text Name="HealthSkill_Gong9_2">
+			<DisplayName>Siklus Pembalikan - Rahasia</DisplayName>
+		</Text>
+	</List>
+</Texts>
