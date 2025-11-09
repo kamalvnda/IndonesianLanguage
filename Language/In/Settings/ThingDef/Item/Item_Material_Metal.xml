@@ -1,0 +1,32 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBase" sParam="Item">
+			<Item.FabaoSuffix>logam, stempel, nisan, batu giok ganda, piring, menara, megalit</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronRock" sParam="Item">
+			<ThingName>bijih besi</ThingName>
+			<Desc>Mineral logam yang paling umum Ini adalah bahan yang sangat keras dan mudah untuk diproses.</Desc>
+			<Item.BeMaterial.NamePrefix>besi</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRock" sParam="Item">
+			<ThingName>Bijih Tembaga Api</ThingName>
+			<Desc>Bijih logam dengan kekuatan api Siapapun yang mendekat akan merasakan kenaikan suhu secara tiba-tiba.</Desc>
+			<Item.BeMaterial.NamePrefix>Tembaga Api</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRock" sParam="Item">
+			<ThingName>mineral kristal es</ThingName>
+			<Desc>Bijih logam indah yang kaya akan kekuatan uap dingin. Teksturnya mirip dengan perak. Siapapun yang mendekat bisa merasakan suhu tiba-tiba turun.</Desc>
+			<Item.BeMaterial.NamePrefix>kristal es</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRock" sParam="Item">
+			<ThingName>Bijih besi Nilkan</ThingName>
+			<Desc>Logam langka yang berwarna gelap. Itu sangat berat dan kuat. Ini juga merupakan bahan yang dapat digunakan untuk membuat senjata yang sangat bagus.</Desc>
+			<Item.BeMaterial.NamePrefix>Baja Nilkan</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssence" sParam="Item">
+			<ThingName>Bijih Cahaya Bintang</ThingName>
+			<Desc>Esensi Meteorit Ia memiliki sifat fisik yang luar biasa dan dianggap sebagai harta yang sangat langka di dunia budidaya.</Desc>
+			<Item.BeMaterial.NamePrefix>Bijih Cahaya Bintang</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
