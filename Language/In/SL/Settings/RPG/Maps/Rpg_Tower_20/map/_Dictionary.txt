@@ -1,0 +1,221 @@
+可以提高移动速度的符咒。	Talisman used to raise move speed.
+轻身符	Agility Talisman
+妖韧皮薄衣衫	Tough Demon Hide Thin Shirt
+妖韧皮薄下裳	Tough Demon Hide Thin Pants
+巧夺天工的神兵，融合制作者的心血与灵感而成。	"A divine weapon crafted with ingenuity, forged with the creator's blood, sweat and inspiration."
+邪爪	Wood Mace
+虎皮休闲下裳	Casual Pants
+天婵阴魂衫	Heavenly Grace Apparition  Armor
+垃圾	Rubbish
+腾岳炼心散	Hill Rise Refined Mind  Poison
+佩戴者可以提高术法技能等级。	Increases the wearer's Spell skill level.
+神咒符	Divine Curse Talisman
+佩戴者可以提高抵御火属性伤害之力。	Increases the wearer's resistance to Fire Damage.
+火甲符	Firearmor Talisman
+佩戴者可以提高护体之力。	Increases the wearer's Protection.
+玄甲符	Darkarmor Talisman
+鹿蜀皮修行衣衫	Lushu Hide Sect Uniform
+鹿蜀皮薄下裳	Lushu Hide Thin Pants
+龙雀	Spirit Stone Mace
+火精刀	Blade
+丙丁天机刀	Southern Phecda Blade
+火精矿镐	Pickaxe
+飞星魔骨镐	Starlite Demon Pickaxe
+棕石	Brownstone
+坤元太极石	Earthbound The Supreme Pole Stone
+可以提高视野范围，并提高历练时发现新地点的速度。	"Talisman used to improve range of views, and reduce time spent discovering a new location in adventure."
+千里神视符	Talisman of Foreseer
+佩戴者可以降低道行。	Decreases the wearer's Attainment.
+遮天符	Heavenshrouding Talisman
+鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
+鹿蜀皮修行下裳	Lushu Hide Cultivator Pants
+千韧弓	Spiritwood Bow
+灵晶砖	Spirit Crystal Block
+大日极光碑	Big Day Aurora  Tower
+金丝灵木	Goldwood
+天枢斩仙枝	Dubhe Immortal Slaying  Stake
+可以大幅提高寒冷抵抗的符咒。	Talisman used to drastically raise resistance to cold.
+太阳符	Talisman of Supreme Yang
+佩戴者可以从根本上降低术法技能灵气消耗。	Fundamentally decreases the wearer's Qi Cost of Spells.
+灵咒符	Spiritcurse Talisman
+蜚皮薄衣衫	Fei Hide Thin Shirt
+蜚皮休闲下裳	Fei Hide Casual Pants
+神木弓	Wood Bow
+兔皮厚制下裳	Winter Pants
+天岭衫	Crest  Armor
+玄铁锭	Darksteel Bar
+神镇	Divine  Seal
+神珀符	Sacred Talisman
+青龙玄光符	Azuragon Dark Light Talisman
+佩戴者可以降低神性。	Decreases the wearer's Divinity.
+神隐符	Divine Concealment
+佩戴者可以提高抵御水属性伤害之力。	Increases the wearer's resistance to Water Damage.
+水甲符	Waterarmor Talisman
+蜚皮薄下裳	Fei Hide Thin Pants
+天柱石弓	Holy Stone Bow
+书	Script
+苍龙七星书	Marinagon The Seven Stars  Slips
+粪便	Feces
+万里天心粪	Marching Heavenly Heart  Dung
+兔肉	Rabbit Meat
+万里神糜	Marching Divine Meatstew
+可以轻微提高炼制法宝的品阶。	Used to slightly raise the tier of crafted artifact.
+五方灵宝符	Wonder Talisman
+可以提高炎热抵抗的符咒。	Talisman used to raise resistance to heat.
+避暑符	Heat-resistant Talisman
+可以提高炼制法宝成功率的符咒。	Talisman used to improve success rate of artifact crafting.
+太上通宝符	Talisman of Riches
+角色出生点	Character Spawn Point
+逻辑点	Logic Point
+灵石栅栏	Spirit Stone Fence
+灵石法座	Spirit Stone Qi Cushion
+莫	Mo
+剑平	Sword Peace
+别	Bie
+进	Jin
+仰	Yang
+如巧	Ruqiao
+魔傀	Demon Puppet
+漆雕	Qidiao
+群	Qun
+於	Yu
+南露	Nanlu
+魔傀分体	Demonic Puppet Division
+端木	Duanmu
+心	Xin
+晁	Chao
+安筠	Anyun
+堵	Du
+庆	Qing
+丰	Feng
+诗云	Shiyun
+卜	Bu
+婷	Ting
+高	Gao
+彪	Biao
+海	Hai
+念寒	Nianhan
+尤家陨星真言	You Clan Meteor Mantra
+鸿蒙三花神雷	Primordial Triple Blossom Thunder
+天火流光诀	Celestial Fire Radiance Art
+紫霄流光	Purple Firmament Radiance
+紫火九极咒	Violet Flame Nine Extremities Curse
+太上覆灭咒	Celestial Annihilation Curse
+梅利真人九极真言	Real Person Meili's Nine Extremes Mantra
+华山震地咒	Huashan Earth-Shaking Curse
+苍莽不朽	Boundless Immortality
+天火心光神雷	Celestial Fire Heartlight Lightning
+戊土不坏神雷	Wu Earth Indestructible Thunder
+戊土飞星咒	Earth Shooting Star Curse
+紫霄先天一气真言	Purple Heaven Innate Qi Mantra
+造化五方诀	Creation Five Directions Art
+长生飞星	Longevity's Flying Star
+嵩山金刚神雷	Songshan Vajra Divine Thunder Technique
+本源落花真言	Primordial Falling Blossoms Mantra
+紫霄镇神真言	Purple Firmament Divine Suppression Mantra
+霹雳镇神咒	Thunder Spirit-Suppressing Curse
+御神流光真言	Divine Control Flowing Light Mantra
+天岭九极	Heavenly Ridge Nine Extremes
+归真清心真言	Return to Truth Clarity Mantra
+惊波陨星诀	Shockwave Meteor Art
+东华镇神诀	Eastern Splendor Spirit-Suppressing Art
+苍木燃灵真言	Incantation of Azure Wood Spirit Ignition
+鸿蒙流光咒	Primordial Chaos Radiance Curse
+郑坚上仙流光真言	Immortal Zheng Jian's Flowing Light Divine Pronouncements
+造化金刚神雷	Creation Vajra Thunder
+本源天星咒	Primordial Heavenly Star Curse
+坤元八极真言	Kunlun Eight Extremes Mantra
+本源先天一气神雷	Primordial Innate Qi Divine Thunder
+华山陨星诀	Huashan Falling Star Art
+鸿蒙燃灵咒	Primordial Chaos Soul-Burning Curse
+鸿蒙流光神雷	Primordial Chaos Radiant Light Thunder
+玉虚接天神雷	Jade Void Heaven-Touching Lightning
+奔烈震地咒	Blazing Earth-Shaking Curse
+天火通天神雷	Celestial Fire Heaven-Piercing Thunder Technique
+本源覆天咒	Primordial Heaven-Sundering Curse
+苍木金刚诀	Azure Wood Diamond Art
+东海陨星真言	East Sea Meteor Mantra
+御神天星诀	Divine Star Commanding Art
+现在贤五气	Present Sage Five Qi
+鸿蒙化伤诀	Primordial Chaos Healing Art
+御神开天咒	Spirit-Control Heaven-Opening Curse
+焚日八极真言	Sun-Scorching Eight Extremes Mantra
+壬水九极神雷	Ren Water Nine Extremities Thunder
+本源先天一气真言	Primordial Innate Qi Mantra
+紫薇覆天神雷	Purple Tenuity Sky-Covering Lightning
+乙木九极诀	Wood Nine Extremities Art
+本源流光咒	Primordial Radiance Curse
+白虎四象神雷	White Tiger Four Symbols Thunder
+御神清心诀	Divine Mind-Clearing Art
+勾陈金钟	Golden Bell of Gou Chen
+御神流光诀	Divine Radiance Commanding Art
+霹雳金刚神雷	Thunderclap Diamond Lightning
+归真通天真言	Truth Heaven-Piercing Mantra
+现在贤流光	Present Sage Radiance
+鸿蒙天星真言	Primordial Stellar Mantra
+归真十二都天真言	Twelve Capital Heavenly Mantra of Return to Origin
+赤日天星真言	Scarlet Sun Stellar Mantra
+己土陨星真言	Jitu Meteor Mantra
+本源陨星	Primordial Falling Star
+造化流光神雷	Creation Flowing Light Divine Thunder
+连氏绝杀咒	Lian Clan Death Curse
+紫霄落花神雷	Purple Firmament Falling Blossom Thunder
+玉虚陨星神雷	Jade Void Meteor Lightning
+冷月五方诀	Frost Moon Five Directions Art
+紫霄飞星神雷	Purple Firmament Shooting Star Thunder Technique
+炎神殿八极神雷	Flame God Hall's Eight Extremities Heavenly Thunder
+羿杰上仙流光诀	Immortal Yi Jie's Radiant Light Art
+武当金刚神雷	Wudang Vajra Thunder
+太上覆天神雷	Supreme Sky-Covering Lightning
+焚日流光真言	Burning Sun Flowing Light Mantra
+蜀山流光	Flowing Light of Shu Mountains
+归真天星诀	Returning Truth Star Art
+造化天星真言	Creation Star Mantra
+长生八极神雷	Longevity Eight Extremities Divine Thunder
+冷月绝杀真言	Cold Moon Execution Mantra
+腾岳震地诀	Soaring Mountain Earthshaking Art
+苍木开天咒	Azure Wood Heaven-Opening Curse
+宣氏镇神	Xuan Family Spirit Suppression
+辛金流光咒	Xin Jin Radiance Curse
+天金落花真言	Celestial Metal Falling Blossoms Mantra
+甲木四象	Four Symbols of Jia Wood
+壬水四象咒	Ren Water Four Symbols Curse
+碧光绝杀	Jade Light Absolute Kill
+玄金陨星真言	Mystic Gold Meteor Mantra
+震雷镇神	Shocking Thunder Spirit Suppression
+震雷天星	Shocking Thunder Celestial Star
+百草阁陨星真言	Hundred Herbs Pavilion's Meteor Divine Pronouncements
+行疆先天一气咒	Border March Innate Qi Grand Mantra
+苍龙覆天神雷	Azure Dragon Heaven-Covering Thunder
+苍木覆天咒	Azure Wood Heaven-Shrouding Curse
+玉虚金刚诀	Jade Void Diamond Art
+紫薇天星咒	Purple Star Heavenly Star Curse
+腾岳覆天神雷	Leaping Mountain Sky-Covering Lightning
+冷月镇神真言	Frostmoon Spirit-Suppressing Mantra
+归真清心诀	Truth-Return Clarity Art
+凝光通天咒	Condensed Light Heaven-Piercing Curse
+勾陈七星神雷	Gouchen Seven Stars Thunder
+少林流光神雷	Shaolin Radiant Thunder
+归真金刚	Vajra of Truth Return
+本源绝杀咒	Primordial Death Curse
+玉虚三花	Jade Void Three Blossoms
+长生震地神雷	Longevity Earth-Shaking Divine Thunder
+紫霄流光真言	Purple Firmament Radiant Mantra
+太上七星咒	Celestial Seven Stars Curse
+长生镇神咒	Longevity Spirit-Suppressing Curse
+寒月十二都天咒	Cold Moon Twelve Stars of Heaven Grand Mantra
+御神金刚诀	Divine Diamond Art
+长生飞星诀	Longevity Shooting Star Art
+百草阁落花神雷	Hundred Herbs Pavilion's Petals Fall Heavenly Thunder
+奔烈飞星真言	Galloping Fervor Shooting Star Mantra
+未来星宿流光咒	Future Constellations Radiant Light Curse
+癸水八极诀	Water Eight Extremities Art
+燃魂金刚神雷	Soulburn Vajra Divine Thunder Technique
+御神回魂真言	Incantation of Spirit-Guided Soul Return
+本源甘霖咒	Primordial Nectar Curse
+五台先天一气	Wutai Primordial Qi
+寒月落花神雷	Cold Moon Falling Blossom Thunder
+本源流光	Primordial Flowing Light
+癸水开天	Gui Water Opens Heaven
+合作？共赢？不，不需要。协助我，加入我，成为我！	"Cooperation? Mutual benefit? No, not needed. Assist me, join me, become me!"
+我一个人，就可以做的足够好！	I alone can do well enough!
