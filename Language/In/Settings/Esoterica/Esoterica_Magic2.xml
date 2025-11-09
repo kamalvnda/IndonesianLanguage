@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse_1">
+			<DisplayName>Kontrak jiwa</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Pelajari Mantranya: Kontrak Jiwa\nGunakan mantra pada binatang dengan statistik lebih rendah dan segel dalam Kontrak Jiwa.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing1">
+			<DisplayName>Kelahiran Roh Hitam</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Pelajari Mantra: Kelahiran Jiwa Gelap\nGunakan 7 Permata Pembalasan, 3 Permata Jiwa, dan 1 Permata Jiwa Pertama untuk berkomunikasi dan membangkitkan roh benda. Kebangkitan spiritual mungkin memerlukan waktu untuk menunjukkan hasilnya. Suatu objek tidak dapat dihidupkan kembali saat berada dalam fase kebangkitan roh. Semakin banyak biji dao yang dimiliki kastor dan semakin lama objek tersebut terbangun, semakin banyak juga biji dao yang dimiliki kastor. Semakin besar kemungkinan berhasil membangkitkan semangat.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing2">
+			<DisplayName>Lahirnya aliran kehidupan</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Pelajari mantranya: Arus Kelahiran Kehidupan\nGunakan 10 tahun umur dan 1 Permata Roh Primordial untuk mengomunikasikan dan membangkitkan semangat sebuah bangunan. Kebangkitan spiritual mungkin memerlukan waktu untuk menunjukkan hasilnya. Sebuah objek tidak dapat dihidupkan kembali saat berada dalam fase kebangkitan. Semakin banyak biji dadu yang dimiliki perapal mantra, semakin lama waktu yang dibutuhkan untuk membangunkan bangunan tersebut. Semakin besar kemungkinan berhasil membangkitkan semangat.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ZaoHuaSuTi">
+			<DisplayName>Fisik Kejadian</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Pelajari Mantra: Genesis Physique\nGunakan 1 Lucky Seed untuk menghidupkan kembali target ke keadaan semula ketika berusia 14 tahun dan memulihkan seluruh bagiannya. dari semua mayat yang hilang[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Mantra untuk memperbaiki langit</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Pelajari mantranya: Perbaiki Mantra Langit\nGunakan 1 Permata Roh Primordial dan ucapkan mantra pada senjata ajaib kuno yang sedang dalam pengembangan untuk segera membangunnya.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
