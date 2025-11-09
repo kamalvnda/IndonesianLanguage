@@ -1,0 +1,55 @@
+﻿Name	DisplayName	Tips
+		
+DisplayName	nama	nama proyek。
+Desc	menggambarkan	Deskripsi rinci tentang proyek。
+Element	lima elemen	Lima elemen atribut item。
+Rate	nilai	Tingkat itemnya。
+Zhuji	nilai fondasi	Nilai bangunan fondasi meningkat ketika murid luar mengambil item ini。（Isi rentangnya：0~30000）
+Fesistance	resistensi obat	Tingkat penurunan kemanjuran obat setelah meminumnya berkali-kali。Perlawanan adalah1Artinya, item tersebut tidak akan efektif sama sekali saat Anda meminumnya lagi.。（Isi rentangnya：0~1；Dukungan presisi：0.01）
+Ling	Nilai aura	Nilai aura meningkat dengan mengambil item ini。（Isi rentangnya：0~999999999）
+Nutrition	Nilai gizi	Berapa banyak nilai makanan yang akan ditingkatkan dengan mengambil item ini。（Isi rentangnya：0~100）
+Water	Nilai air minum	Berapa banyak nilai minum air yang akan ditingkatkan dengan mengambil item ini。（Isi rentangnya：0~100）
+PracticeNutrition	Nilai esensi	Berapa nilai esensi yang akan ditingkatkan dengan mengambil item ini?。（Isi rentangnya：0~9999）
+DiscipleOnly	Apakah hanya berlaku untuk pintu dalam saja?	Apakah item ini hanya efektif untuk murid batiniah。
+DanModifier	efek ramuan	Efek khusus yang melekat pada pengambilan item ini。
+Color	Pemeran warna	Tekstur item memiliki corak warna。
+EquipLable	Jenis peralatan	Jenis peralatan。
+EquipModel	Model	Model peralatan。
+Sex	jenis kelamin	Persyaratan gender diperlukan untuk memakai peralatan ini。
+TemperatureMaxAdd	Nilai penyesuaian suhu maksimum yang sesuai	Nilai penyesuaian dasar peralatan ini ke suhu maksimum yang sesuai untuk karakter，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：-999~999）
+TemperatureMinAdd	Nilai penyesuaian suhu minimum yang sesuai	Nilai penyesuaian dasar peralatan ke suhu minimum yang sesuai untuk karakter，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：-999~999）
+WeaponKind	lengan	Jenis senjatanya。
+Damage	kerusakan dasar	Nilai kerusakan dasar senjata ini，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：1~999）
+AttackSpeed	kecepatan serangan	Jumlah serangan per detik untuk senjata ini。（Isi rentangnya：0.3~3）
+AttackRange	Jangkauan serangan	Jangkauan maksimum serangan senjata ini。satuan：jaringan。（Isi rentangnya：1.5~20）
+Difficulty	kesulitan belajar	Kesulitan dari cheat ini，Semakin besar kesulitannya，Semakin banyak wawasan yang perlu Anda pelajari，Semakin banyak latihan Tao yang Anda tingkatkan setelah belajar, semakin banyak pula。（Isi rentangnya：0~999）
+EsotericaType	tipe curang	Jenis kode cheat yang dimilikinya。
+MaxStack	Jumlah overlay	
+Duration	lanjutan	Durasi efek khusus ini。satuan：Kedua。（Isi rentangnya：-1atau1~999999，-1Efek ini berlaku secara permanen）
+Skill	Peningkatan keterampilan	Keterampilan tambahan yang dibawa oleh efek khusus ini。
+Property	Atribut meningkat	Atribut yang dibawa oleh efek khusus ini bersifat tambahan。
+GLevel	dunia	Level yang diperlukan untuk mempelajari rahasia ini。
+DanLevel	Tingkat alkimia	Tingkat keterampilan alkimia diperlukan untuk menyempurnakan ramuan ini。（Isi rentangnya：1~20）
+DanCount	Jumlah alkimia	Kuantitas teoretis yang dihasilkan setiap kali ramuan dimurnikan，Nilai sebenarnya akan sama dengan level sang alkemis，Memperbaiki terkait lingkungan；Saat memurnikan ramuan，Nilai sebenarnya dari nilai ini setidaknya1。（Isi rentangnya：0.1~999）
+DanRate	Kesulitan alkimia	Kesulitan dalam menyempurnakan ramuan ini。Semakin tinggi tingkat kesulitannya，Semakin sulit untuk menyempurnakannya dengan sukses。
+ELearn	Pembelajaran rahasia	Cara menyempurnakan ramuan ini bisa kamu pelajari melalui cheat berikut ini。
+WorldDrop	dunia jatuh	Setelah memicu hadiah mendapatkan ramuan acak dalam pengalaman，Obat mujarab ini bisa diperoleh。
+Businessman	Penjual menjual	Obat mujarab ini dapat dibeli dari barang pedagang.。
+InitialUnlock	pembukaan kunci awal	Ramuan ini dapat dimurnikan oleh semua orang secara default。
+DropCount	Jatuhkan kuantitas	Jumlah pil yang didapat selama pelatihan。
+DropRate	Kemungkinan jatuh	Setelah memicu hadiah ramuan acak selama pengalaman，Kemungkinan mendapatkan obat mujarab。
+SellPrice	Harga barang	Harga untuk membeli barang ini dari pedagang。
+SellCount	Kuantitas penjualan	Berapa banyak obat mujarab yang bisa dibawa oleh seorang pedagang dalam satu waktu?。
+StuffSelect	Wakil materi	Pilih bahan yang dibutuhkan untuk membuat item。
+EsoDropRate	Kemungkinan jatuh	Setelah memicu hadiah cheat acak selama pengalaman，Kemungkinan mendapatkan rahasianya。
+StartUnlock	Mulai Tidak Terkunci	Dapatkan cheat secara otomatis di awal。
+EsoWorldDrop	dunia jatuh	Setelah memicu hadiah mendapatkan cheat acak selama pengalaman，Cheat ini bisa saja anda dapatkan。
+EquipModifier	Efek peralatan	Efek khusus melekat saat memakai peralatan ini。
+EsoModifier	Efek curang	Pelajari efek khusus yang disertakan pada resep ini。
+MaterialSelect	Bahan utama	Kategori material utama yang diperlukan untuk membuat item ini。
+BuildSelect	gedung produksi	Mengatur bangunan yang digunakan untuk membuat item ini。
+MainCostItemCount	Kuantitas bahan utama	Jumlah dasar bahan utama yang dibutuhkan untuk membuat item。（Isi rentangnya：1~999）
+DanSelect	Danfang	Rumus obat mujarab yang bisa didapat dengan mempelajari buku rahasia ini。
+ModSelect	Model	model senjata ini。
+Ignorelimit	Apakah akan mengabaikan batas atas	Apakah bonus level keahlian akan terlampaui?20batas keterampilan tingkat。
+PpTypeSelect	jenis	Jenis bonus dari atribut ini。
