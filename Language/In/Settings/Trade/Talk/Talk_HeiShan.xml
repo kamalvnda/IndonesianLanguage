@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_HeiShan">
+			<Hate.0>Kamu lagi?</Hate.0>
+			<Hate.1>Jangan mendekatiku. Kalau tidak, aku akan memukulmu sampai ibumu tidak bisa mengenali wajahmu.</Hate.1>
+			<Hate.2>Datang sendiri? Sangat menyedihkan</Hate.2>
+			<Normal.0>Oh, ada apa?</Normal.0>
+			<Normal.1>Apapun yang kamu katakan Jangan buang waktuku berlatih pedang.</Normal.1>
+			<Like.0>(Meletakkan pedang) Itu kamu. Silakan memilih.</Like.0>
+			<Like.1>Oh? Itu Anda, apakah basis kultivasi Anda sedikit meningkat akhir-akhir ini?</Like.1>
+			<Submiss.0>Oh? Itu kamu. Apakah Anda membutuhkan rekan tanding? Tolong pegang tanganmu untukku.</Submiss.0>
+			<Submiss.1>Selamat datang, basis budidaya Anda telah meningkat sekali lagi. Selamat!</Submiss.1>
+			<GiftLike.0>Saya telah mencari benda ini selama lebih dari seratus tahun. Seseorang akhirnya memberikannya kepadaku.</GiftLike.0>
+			<GiftLike.1>Sepertinya takdir telah menentukan kita untuk bertemu.</GiftLike.1>
+			<GiftLike.2>Saya pernah bermimpi seseorang akan memberi saya ini. Dan kini mimpi itu menjadi kenyataan.</GiftLike.2>
+			<LowValueGift.0>Item ini hanya cukup bagus untuk menguji seberapa tajam pedangku.</LowValueGift.0>
+			<LowValueGift.1>(mengeluarkan pedangnya dan memotong) Lihat, itu sangat rapuh.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
