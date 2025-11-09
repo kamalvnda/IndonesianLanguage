@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_ZhengYi">
+			<Normal.0>Kami memiliki banyak sumber daya untuk Anda pilih.</Normal.0>
+			<Like.0>Itu kamu! Apa yang akan kamu bawa kali ini?</Like.0>
+			<Submiss.0>Tamu terhormat! Kami mohon maaf jika kami tidak dapat menyambut Anda dengan cukup baik.</Submiss.0>
+			<GiftLike.0>Hadiah untukmu? Kamu benar-benar orang yang baik!</GiftLike.0>
+			<LowValueGift.0>Sama sekali tidak berguna!</LowValueGift.0>
+		</Text>
+	</List>
+</Texts>
