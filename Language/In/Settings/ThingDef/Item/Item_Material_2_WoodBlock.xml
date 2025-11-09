@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBlockBase" sParam="Item">
+			<Item.FabaoSuffix>kayu, baris, ambil</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_RoughWoodBlock" sParam="Item">
+			<ThingName>Kayu</ThingName>
+			<Desc>Bahan kayu yang diolah dari kayu biasa Dapat digunakan untuk membuat berbagai perangkat.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodBlock" sParam="Item">
+			<ThingName>Kayu Emas Gergajian</ThingName>
+			<Desc>Bahan kayu olahan terbuat dari kayu emas. Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>kayu emas</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodBlock" sParam="Item">
+			<ThingName>Kayu Flaming Swan yang Diproses</ThingName>
+			<Desc>Bahan kayu olahan terbuat dari kayu angsa yang menyala. Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>Kayu Angsa Menyala</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodBlock" sParam="Item">
+			<ThingName>Kayu Roh yang Diproses</ThingName>
+			<Desc>Bahan kayu olahan yang terbuat dari kayu spirit. Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>Kayu Roh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
