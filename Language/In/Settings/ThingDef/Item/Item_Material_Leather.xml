@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeatherBase" sParam="Item">
+			<Item.FabaoSuffix>Kulit, Penutup, Armor</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>kulit</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BoarLeather" sParam="Item">
+			<ThingName>Kulit Babi Hutan</ThingName>
+			<Desc>Kulit babi hutan agak kasar. Namun rasanya cukup kuat.</Desc>
+			<Item.BeMaterial.NamePrefix>Kulit Babi Hutan</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RabbitLeather" sParam="Item">
+			<ThingName>kulit kelinci</ThingName>
+			<Desc>Bulu kelinci sangat lembut dan hangat.</Desc>
+			<Item.BeMaterial.NamePrefix>kulit kelinci</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BearLeather" sParam="Item">
+			<ThingName>kulit beruang</ThingName>
+			<Desc>Bulu beruang sangat lembut dan hangat.</Desc>
+			<Item.BeMaterial.NamePrefix>kulit beruang</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WolfLeather" sParam="Item">
+			<ThingName>kulit serigala</ThingName>
+			<Desc>kulit serigala Kuat dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>kulit serigala</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_FeiLeather" sParam="Item">
+			<ThingName>film Fei</ThingName>
+			<Desc>Kulit binatang iblis. Ia memiliki kekuatan tersembunyi di dalamnya. Ini memberikan kehangatan di musim dingin dan perasaan sejuk di musim panas. Hal ini juga dapat mencegah kerusakan akibat Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>film Fei</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LuShuLeather" sParam="Item">
+			<ThingName>film Lu Su</ThingName>
+			<Desc>Kulit Binatang Roh Lu Su Memiliki kekuatan tersembunyi di dalamnya. Ini memberikan kehangatan di musim dingin dan perasaan sejuk di musim panas. Hal ini juga dapat mencegah kerusakan akibat Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>film Lu Su</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CattleLeather" sParam="Item">
+			<ThingName>kulit banteng</ThingName>
+			<Desc>kulit banteng Kuat dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>kulit banteng</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_TigerLeather" sParam="Item">
+			<ThingName>kulit harimau</ThingName>
+			<Desc>Kulit harimau kuat dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>kulit harimau</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather" sParam="Item">
+			<ThingName>Kulit Binatang Setan</ThingName>
+			<Desc>Kulit binatang iblis biasa. Ada qi iblis yang tersembunyi di dalamnya. Ini memberikan kehangatan di musim dingin dan perasaan sejuk di musim panas. Hal ini juga dapat mencegah kerusakan akibat Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>Kulit Binatang Setan</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather1" sParam="Item">
+			<ThingName>Kulit Binatang Iblis Tingkat Tinggi</ThingName>
+			<Desc>Kulit binatang iblis tingkat tinggi. Ada qi iblis yang tersembunyi di dalamnya. Ini memberikan kehangatan di musim dingin dan perasaan sejuk di musim panas. Hal ini juga dapat mencegah kerusakan akibat Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>Kulit Binatang Iblis Tingkat Tinggi</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
