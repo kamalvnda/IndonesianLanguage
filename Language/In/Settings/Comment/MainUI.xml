@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainUIWorldTime">
+			<Notes>Pendapat tentang jam dunia</Notes>
+			<Title>jam dunia</Title>
+			<Desc>Waktu dunia bertambah seiring kemajuan permainan.</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]jam dunia[/color]</Tips>
+		</Text>
+		<Text Name="MainUIWeather">
+			<Notes>Ini hanya digunakan untuk menampilkan tip komentar di jendela cuaca.</Notes>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]iklim[/color]</Tips>
+		</Text>
+		<Text Name="MainUISectFengShui">
+			<Notes>Pendapat tentang feng shui kantor</Notes>
+			<Title>Feng Shui kantor</Title>
+			<Desc>Tentang feng shui kantor</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]Feng Shui kantor[/color]</Tips>
+		</Text>
+		<Text Name="MainUIRoomFengShui">
+			<Notes>Pendapat tentang feng shui ruangan</Notes>
+			<Title>Feng Shui ruangan</Title>
+			<Desc>Tentang feng shui ruangan</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]Feng Shui ruangan[/color]</Tips>
+		</Text>
+		<Text Name="MainUILingShi">
+			<Notes>Pendapat tentang batu roh</Notes>
+			<Title>batu roh</Title>
+			<Desc>Sesuatu yang diterima dan digunakan semua orang untuk berdagang di dunia kultivator.</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]batu roh[/color]</Tips>
+		</Text>
+		<Text Name="MainUIInfluence">
+			<Notes>Pendapat tentang kekuatan pengaruh</Notes>
+			<Title>kekuatan pengaruh</Title>
+			<Desc>Sesuatu yang menunjukkan pengaruh sekolahmu terhadap dunia manusia. Dapat digunakan untuk menyebarkan kekuatanmu ke seluruh dunia manusia.</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]kekuatan pengaruh[/color]</Tips>
+		</Text>
+		<Text Name="MainUIWuXingGraph">
+			<Notes>Komentar pada Siklus Lima Elemen</Notes>
+			<Title>Siklus Lima Elemen</Title>
+			<Desc>Siklus Lima Elemen menunjukkan dukungan dan pertentangan dari lima elemen: emas, kayu, air, api, dan tanah.</Desc>
+			<Tips>Klik kanan untuk membuka halaman umpan balik.[color=#D06508]Siklus Lima Elemen[/color]</Tips>
+		</Text>
+	</List>
+</Texts>
