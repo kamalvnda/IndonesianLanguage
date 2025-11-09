@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_OC">
+			<DisplayName>Cahaya Magneto Dunia Lain</DisplayName>
+		</Text>
+		<Text Name="Ls_Erosion">
+			<DisplayName>Yin Yang Corrosion</DisplayName>
+			<Desc>Mengurangi pertahanan musuh secara signifikan dengan Kekuatan Yin Yang.</Desc>
+		</Text>
+	</List>
+</Texts>
