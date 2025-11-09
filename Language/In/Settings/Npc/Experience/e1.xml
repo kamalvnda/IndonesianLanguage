@@ -1,0 +1,180 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>kosong</DisplayName>
+			<Desc>Bangunan yang hilang dan tidak diketahui \n(kosong)</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences1">
+			<DisplayName>Prajurit brutal</DisplayName>
+			<Desc>Dalam reinkarnasi ini,[IT]Harus kehilangan basis budidayanya.[IT]semua kecuali pengalaman masa lalu[IT]itu juga tidak terlupakan \n\n\n[size=10]Buku pelajaran pemula:[color=#D06508]Wild Punch[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences2">
+			<DisplayName>dunia yang indah</DisplayName>
+			<Desc>Sebuah kotak aneh yang menyimpan harapan banyak orang untuk dunia yang lebih baik \n\n\n[size=10]Senjata Sihir Primordial Awal:[color=#D06508]dunia yang indah[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences3">
+			<DisplayName>orang dari dunia lain</DisplayName>
+			<Desc>[IT]Itu adalah seseorang yang telah melakukan perjalanan dari dunia lain.[IT]Melintasi dunia dengan pedang berbentuk aneh \n\n\n[size=10]Memulai Senjata Ajaib:[color=#D06508]Dara Boomba[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences4">
+			<DisplayName>Lightsaber dari masa depan</DisplayName>
+			<Desc>Pedang yang dibawa dari masa depan \n\n\n[size=10]Memulai senjata ajaib:[color=#D06508]Lightsaber dari masa depan[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences5">
+			<DisplayName>Hati yang jernih</DisplayName>
+			<Desc>Buku ilmu bela diri yang memfokuskan konsentrasi untuk mengumpulkan Qi ke dalam kepala guna meningkatkan kecerdasan seseorang.\n\n\n[size=10]Buku pelajaran pemula:[color=#D06508]Hati yang jernih[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences6">
+			<DisplayName>bintang bersinar</DisplayName>
+			<Desc>Kenangan tersegel dari seorang pengembara yang menikahi putrinya sendiri di dimensi lain.\n\n\n[size=10]Harta Karun Awal: Kenangan Tersegel: Bintang Cemerlang[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences7">
+			<DisplayName>Pencuri hebat</DisplayName>
+			<Desc>Orang ini terlahir dengan keberuntungan yang luar biasa.[IT]Terlahir dengan teknik budidaya yang menantang surga \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Qi Surgawi[/color]\nStatistik yang diperlukan: Stamina Tinggi[/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences8">
+			<DisplayName>Mengembalikan Lightsaber Hitam</DisplayName>
+			<Desc>[IT]Itu adalah ahli pedang yang bereinkarnasi di kehidupan sebelumnya.[IT]Dia dikhianati dan dibunuh oleh orang-orang yang dia percayai.[IT]Turun dengan brutal \n\n\n[size=10]Memulai senjata ajaib:[color=#D06508]Pedang Bayangan Naga Ganda[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences9">
+			<DisplayName>Qi Peledak Langit</DisplayName>
+			<Desc>Orang ini memiliki keterampilan unik yang dapat melampaui batas kemampuannya, meningkatkan kekuatannya di saat darurat. Tentu saja, sebagai imbalan atas angka harapan hidup[IT] \n\n\n[size=10]Buku pelajaran pemula:[color=#D06508]sihir ajaib[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences10">
+			<DisplayName>Jimat mantra</DisplayName>
+			<Desc>Orang ini memegang kotak jimat ajaib dengan tiga jimat misterius di dalamnya.\n\n\n[size=10]Harta bawaan:[color=#D06508]Kotak jimat ajaib[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences11">
+			<DisplayName>jimat ajaib</DisplayName>
+			<Desc>Orang ini memegang kotak jimat ajaib dengan jimat yang sangat langka di dalamnya. \n\n\n[size=10]Harta bawaan:[color=#D06508]Kotak jimat ajaib[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences12">
+			<DisplayName>Teknik Budidaya Orang Suci Gunung Kunlun</DisplayName>
+			<Desc>Orang ini telah dengan susah payah mencari keberadaan seorang kultivator sepanjang hidupnya.[IT]Dan akhirnya[IT]Menemukan gulungan yang ditulis oleh seorang guru kuno yang tersembunyi di Gunung Kunlun \n\n\n[size=10]Buku pelajaran pemula:[color=#D06508]Teknik Budidaya Orang Suci Gunung Kunlun[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences13">
+			<DisplayName>menjelmakan</DisplayName>
+			<Desc>Orang ini adalah penjelmaan dari doa-doa umat. dan karena itu[IT]Jadi dia terlahir dengan kekuatan supernatural.\n\n\n[size=10]Buku pelajaran pemula:[color=#D06508]Pawana Yant[/color]\nProperti bawaan:[color=#D06508]Hati berdoa[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences14">
+			<DisplayName>Master Pedang Reinkarnasi</DisplayName>
+			<Desc>Di masa lalu, orang ini adalah seorang pendekar pedang terkenal, jadi[IT]Jadi dia terlahir dengan senjata ajaib yang ampuh. Meski telah kehilangan sebagian besar kekuatan aslinya, Namun senjata ajaib ini tetap memiliki kemampuan yang lebih kuat dari senjata sihir biasa. \n\n\n[size=10]Harta bawaan:[color=#D06508]Jarum Ilahi Timur[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences15">
+			<DisplayName>Pewaris Muenrangsan Sappawut</DisplayName>
+			<Desc>Orang ini adalah pewaris Jalan Roh Surgawi. Setelah sekian lama berlalu. Kenangan terakhir[IT]Tiba-tiba kembali[IT]Demikianlah menerima kenangan akan teknik budidaya Muenrangsan Sappwut \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Sapwut Muenrangsan[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1">
+			<DisplayName>Mereka yang berlatih enam belas seni bela diri menjadi ahli.</DisplayName>
+			<Desc>Dia ingin menjadi murid batin untuk mempraktikkan Teknik Enam Belas Langkah Menuju Keabadian, yang dapat dianggap sebagai salah satu dari enam teknik budidaya inti dari Sekte Tai Yi. Untuk itu, Anda telah berusaha sekuat tenaga hingga mata Anda berdarah. Namun pada akhirnya, pada malam ketika Sekte Tai Yi dihancurkan, seorang tetua yang mempraktikkan Enam Belas Langkah Menuju Keabadian memberinya gulungan budidaya Enam Belas Langkah Menuju Keabadian sebelum dia menghembuskan nafas terakhirnya.\n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Enam belas teknik budidaya, langkah menuju menjadi ahli[/color]\nStatistik yang diperlukan: Stamina Tinggi, Karisma Sedang, Kecerdasan Sedang[/size]</Desc>
+		</Text>
+		<Text Name="Experiences2">
+			<DisplayName>Penggarap Pedang Bintang</DisplayName>
+			<Desc>Dia ingin menjadi murid batin untuk berlatih Teknik Pedang Pemotong Bintang Emas, yang dianggap sebagai salah satu dari enam teknik budidaya inti dari Sekte Tai Yi. Untuk itu, Anda telah berusaha sekuat tenaga hingga mata Anda berdarah. Namun pada akhirnya, pada malam ketika Sekte Tai Yi dihancurkan, seorang tetua yang telah berlatih Teknik Pedang Pemotong Bintang Emas memberinya Gulungan Budidaya Pedang Pemotong Bintang Emas sebelum dia menghembuskan nafas terakhirnya.\n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Pedang Emas Pemotong Bintang[/color]\nStatistik yang diperlukan: Persepsi Tinggi, Stamina Sedang, Kecerdasan Sedang[/size]</Desc>
+		</Text>
+		<Text Name="Experiences3">
+			<DisplayName>Mereka yang mempraktikkan cara reinkarnasi</DisplayName>
+			<Desc>Dia ingin menjadi murid batin untuk mengembangkan Teknik Enam Jalan Kelahiran Kembali, yang dianggap sebagai salah satu dari enam teknik budidaya inti dari Sekte Tai Yi. Untuk itu, Anda telah berusaha sekuat tenaga hingga mata Anda berdarah. Namun pada akhirnya, pada malam ketika Sekte Tai Yi dihancurkan, seorang tetua yang mempraktikkan Enam Jalan Kelahiran Kembali memberinya gulungan budidaya Enam Jalan Kelahiran Kembali sebelum dia menghembuskan nafas terakhir.\n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Enam Jalur Kelahiran Kembali[/color]\nStatistik yang diperlukan: Stamina Sedang, Persepsi Tinggi, Kecerdasan Tinggi[/size]</Desc>
+		</Text>
+		<Text Name="Experiences4">
+			<DisplayName>Praktisi Matahari sejati</DisplayName>
+			<Desc>Dia ingin menjadi murid batin untuk mengembangkan Teknik Matahari Sejati, yang dianggap sebagai salah satu dari enam teknik budidaya inti dari Sekte Tai Yi. Untuk itu, Anda telah berusaha sekuat tenaga hingga mata Anda berdarah. Namun pada akhirnya, pada malam ketika Sekte Tai Yi dihancurkan, seorang tetua yang mempraktikkan Teknik Matahari Sejati memberinya Gulungan Budidaya Matahari Sejati sebelum dia menghembuskan nafas terakhirnya.\n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Matahari Sejati[/color]\nAtribut yang Diperlukan: Persepsi Menengah, Stamina Menengah, Karisma Menengah, Kecerdasan Menengah, Keberuntungan Menengah[/size]</Desc>
+		</Text>
+		<Text Name="Experiences5">
+			<DisplayName>Praktisi bunga matahari</DisplayName>
+			<Desc>Dia ingin menjadi murid batin untuk berlatih Teknik Pemurnian Bunga Matahari, yang dianggap sebagai salah satu dari enam teknik budidaya inti dari Sekte Tai Yi. Untuk itu, Anda telah berusaha sekuat tenaga hingga mata Anda berdarah. Namun pada akhirnya, pada malam ketika Sekte Tai Yi dihancurkan, seorang tetua yang berlatih Pemurnian Bunga Matahari memberinya Gulungan Budidaya Pemurnian Bunga Matahari sebelum dia menghembuskan nafas terakhirnya.\n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Pemurnian Bunga Matahari[/color]\nStatistik yang diperlukan: Persepsi Tinggi, Karisma Tinggi, Kecerdasan Tinggi[/size]</Desc>
+		</Text>
+		<Text Name="Experiences6">
+			<DisplayName>Kultivator Umum</DisplayName>
+			<Desc>Sejak memasuki Sekte Tai Yi Anda hanya berlatih Qi dasar dan belum memutuskan teknik budidaya apa pun. untuk diri Anda sendiri di masa depan Yang perlu Anda fokuskan saat ini adalah membangun fondasi Qi yang kokoh untuk diri Anda sendiri.\n\n\n[size=10][color=#D06508]panca indra[/color]lagi[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_1">
+			<DisplayName>Warisan Dewa Pengobatan</DisplayName>
+			<Desc>Anda kebetulan telah mewarisi Teknik Budidaya Pengobatan Dewa Purba bahkan sebelum Anda memasuki Sekte Tai Yi. Namun karena takut akan mendatangkan masalah, begitulah kata pepatah. 'Bukan orang yang salah tapi orang yang salah yang memiliki batu giok itu', jadi kamu harus menyembunyikan masalah itu sampai sekarang. \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Pengobatan Ilahi[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_2">
+			<DisplayName>Warisan Ilahi</DisplayName>
+			<Desc>Anda kebetulan telah mewarisi teknik budidaya Senjata Penciptaan Segudang bahkan sebelum Anda memasuki Sekte Tai Yi. Namun karena takut akan mendatangkan masalah, begitulah kata pepatah. 'Bukan orang yang salah tapi orang yang salah yang memiliki batu giok itu', jadi kamu harus menyembunyikan masalah itu sampai sekarang. \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Sapwut Muenrangsan[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_3">
+			<DisplayName>Warisan Tujuh Jalan Pembunuhan</DisplayName>
+			<Desc>Anda kebetulan telah mewarisi teknik budidaya Tujuh Jalan Pembantaian Pedang bahkan sebelum Anda memasuki Sekte Tai Yi. Namun karena takut akan mendatangkan masalah, begitulah kata pepatah. 'Bukan orang yang salah tapi orang yang salah yang memiliki batu giok itu', jadi kamu harus menyembunyikan masalah itu sampai sekarang. \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Tujuh Jalur Teknik Budidaya Pedang Pembunuh[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_4">
+			<DisplayName>Warisan Cara Mencuri Surga</DisplayName>
+			<Desc>Anda kebetulan telah mewarisi teknik budidaya Qi yang Mengambil Surga bahkan sebelum Anda memasuki Sekte Tai Yi. Namun karena takut akan mendatangkan masalah, begitulah kata pepatah. 'Bukan orang yang salah tapi orang yang salah yang memiliki batu giok itu', jadi kamu harus menyembunyikan masalah itu sampai sekarang. \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Teknik Budidaya Qi Surgawi[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_5">
+			<DisplayName>Warisan cara meredam emosi</DisplayName>
+			<Desc>Anda kebetulan mewarisi teknik budidaya Patah Hati bahkan sebelum Anda memasuki Sekte Tai Yi. Namun karena takut akan mendatangkan masalah, begitulah kata pepatah. 'Bukan orang yang salah tapi orang yang salah yang memiliki batu giok itu', jadi kamu harus menyembunyikan masalah itu sampai sekarang. \n\n\n[size=10]Subyek budidaya yang diperoleh:[color=#D06508]Subyek menumbuhkan pikiran yang hancur[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="Experiences23">
+			<DisplayName>Ruang penyimpanan senjata ajaib</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Anda secara tidak sengaja menugaskan salah satu tugas murid luar untuk pergi ke ruang penyimpanan senjata ajaib. Ketika Anda mengetahui bahwa sekte tersebut tidak dapat lagi melawan musuh dan Anda tidak ingin melihat harta sekte tersebut jatuh ke tangan musuh. Jadi dia mempertaruhkan nyawanya dan diam-diam memasuki ruang penyimpanan senjata ajaib untuk mengambil sebagian darinya. \n\n\n[size=10]Tambahkan sumber daya default:[color=#D06508]Senjata ajaib tingkat lanjut[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences24">
+			<DisplayName>Ruang penyimpanan senjata</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Anda secara tidak sengaja menugaskan salah satu tugas murid luar untuk pergi ke ruang penyimpanan senjata obat. Ketika Anda mengetahui bahwa sekte tersebut tidak dapat lagi melawan musuh dan Anda tidak ingin melihat harta sekte tersebut jatuh ke tangan musuh. Oleh karena itu, dia mempertaruhkan nyawanya dan diam-diam memasuki ruang penyimpanan senjata obat untuk mengambil sebagian darinya. \n\n\n[size=10]Tambahkan sumber daya default:[color=#D06508]Obat ajaib tingkat lanjut[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences25">
+			<DisplayName>Aula Kitab Suci</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia kebetulan memberikan tugas kepada murid luar untuk pergi ke gudang kitab suci. Ketika Anda mengetahui bahwa sekte tersebut tidak dapat lagi melawan musuh dan Anda tidak ingin melihat harta sekte tersebut jatuh ke tangan musuh. Oleh karena itu, dia mempertaruhkan nyawanya dan diam-diam memasuki grimoire untuk mengambil sebagian darinya. \n\n\n[size=10]Tambahkan sumber daya default:[color=#D06508]Kitab suci mata pelajaran tingkat lanjut[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences26">
+			<DisplayName>Ruang penyimpanan jimat ajaib</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia kebetulan memberi tugas kepada murid luar untuk pergi ke ruang penyimpanan jimat ajaib. Ketika Anda mengetahui bahwa sekte tersebut tidak dapat lagi melawan musuh dan Anda tidak ingin melihat harta sekte tersebut jatuh ke tangan musuh. Oleh karena itu, dia mempertaruhkan nyawanya dan diam-diam memasuki ruang penyimpanan jimat ajaib untuk mengambil beberapa di antaranya. \n\n\n[size=10]Tambahkan sumber daya default:[color=#D06508]Jimat ajaib tingkat lanjut[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences31">
+			<DisplayName>kesepian</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Dia telah mengabdikan seluruh waktunya untuk berkultivasi dan tidak pernah berinteraksi dengan siapa pun di sekte tersebut. Dan pada malam ketika Sekte Tai Yi diserang Tidak ada seorang pun yang mau repot-repot mengikuti dan melarikan diri bersamamu.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Berkurang 2[/size]</Desc>
+		</Text>
+		<Text Name="Experiences27">
+			<DisplayName>tidak mabuk</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid dari Sekte Tai Yi Dia berbicara dengan siswa lain. Hanya sedikit di kantor Bagi Anda, latihan lebih penting daripada membuang waktu berbicara omong kosong dengan orang lain. Dan pada malam ketika Sekte Tai Yi diserang. Anda melarikan diri hanya dengan satu teman.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Berkurang 1[/size]</Desc>
+		</Text>
+		<Text Name="Experiences29">
+			<DisplayName>Ramah</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Dia selalu berteman dengan murid Sekte Luar lainnya. Karena itu, pada malam Sekte Tai Yi diserang, banyak murid yang melarikan diri bersamanya. \n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]bertambah 1[/size]</Desc>
+		</Text>
+		<Text Name="Experiences30">
+			<DisplayName>pemimpin</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi, Anda menghabiskan banyak waktu bersenang-senang dengan teman-teman Sekte Luar Anda, dan mereka menerima Anda sebagai pemimpin mereka. Karena itu, pada malam Sekte Tai Yi diserang, banyak murid yang melarikan diri bersamanya. \n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]bertambah 2[/size]</Desc>
+		</Text>
+		<Text Name="Experiences7">
+			<DisplayName>pencari sensasi</DisplayName>
+			<Desc>Ia melihat praktik asketisme membawa kegembiraan dalam hidup. Sejak Anda bergabung dengan Sekte Tai Yi Anda menggunakan status Anda sebagai murid untuk bersenang-senang, mengaku mendapat dukungan dari sekte tersebut.\n\n\n[size=10][color=#D06508]Nilai pesona[/color]meningkat\n[color=#D06508]keterampilan sosial[/color]Tingkatkan\nDapatkan perangkat default:[color=#D06508]Pakaian dan aksesoris[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences8">
+			<DisplayName>Persediaan cadangan</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Suatu saat Anda dikurung di kamp sihir selama sebulan saat melakukan petualangan. Saat aku merasakan kelaparan yang luar biasa di masa lalu. Kamu telah belajar untuk selalu membawa makanan.\n\n\n[size=10][color=#D06508]Nilai stamina[/color]meningkat\ngtambah[color=#D06508]Makanan dan air minum[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]Kedokteran Imthip[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences9">
+			<DisplayName>pekerja konstruksi</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Anda diberi tanggung jawab membangun gedung di area murid luar sekte tersebut. Pekerjaan Anda mengharuskan Anda membawa semua jenis sumber daya dan bekerja di tempat yang berbeda. Selalu di sekitar sekte\n\n\n[size=10][color=#D06508]Nilai persepsi[/color]meningkat\ngtambah[color=#D06508]sumber daya konstruksi[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]bahan langka[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences10">
+			<DisplayName>Penjaga Gerbang Aula Kitab Suci</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi, Anda diberi tanggung jawab atas keamanan aula kitab suci. Anda telah mengambil kesempatan ini untuk menyalin dan menyimpan beberapa Kitab Suci Pemula untuk dipelajari di masa mendatang.\n\n\n[size=10][color=#D06508]Intelijen[/color]Tingkatkan\nTingkatkan sumber daya default:[color=#D06508]Kitab Suci: Yantra Dasar dan Pengantar Pengobatan Ajaib[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences11">
+			<DisplayName>tangan pedang</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi, Anda pernah menerima pedang indah saat bertualang. Dia menyimpannya sepanjang waktu, berharap suatu hari nanti dia bisa memalsukannya menjadi senjata ajaib. Oleh karena itu, dia sering menanyakan pertanyaan kepada murid senior tentang berbagai keterampilan. Dalam menempa senjata ajaib\n\n\n[size=10][color=#D06508]Keterampilan Senjata Ajaib[/color]Tingkatkan\nTingkatkan sumber daya default:[color=#D06508]Pedang[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences12">
+			<DisplayName>Tukang sulap</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Dia selalu meminjam buku tentang mantra dari aula kitab suci. Suatu kali saat membaca buku seperti itu, seberkas cahaya memancar dari halaman-halamannya dan langsung masuk ke dalam pikirannya. Sejak hari itu Anda telah menunjukkan kemampuan khusus dalam energi magis.\n\n\n[size=10][color=#D06508]Keterampilan Qi Ajaib[/color]Tingkatkan\nDaya[color=#D06508]Energi ajaib[/color]lagi[/size]</Desc>
+		</Text>
+		<Text Name="Experiences13">
+			<DisplayName>tubuh besi</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Suatu saat ketika Anda sedang bertualang, Anda makan buah yang aneh. Guru Senior memeriksanya dan menyimpulkan bahwa itu telah meningkatkan Qi dan meridian Anda. Hasilnya, Anda memiliki pelindung Qi yang lebih padat dibandingkan orang kebanyakan.\n\n\n[size=10][color=#D06508]Keterampilan Armor Qi[/color]Tingkatkan\nDaya[color=#D06508]Armor Qi[/color]lagi[/size]</Desc>
+		</Text>
+		<Text Name="Experiences14">
+			<DisplayName>Magang di Cabang Alkimia</DisplayName>
+			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Anda telah ditugaskan untuk bekerja di ruang penyulingan obat. Dia diberi tugas berbagai ramuan. Kirimkan ke murid senior untuk berlatih pemurnian pil.\n\n\n[size=10][color=#D06508]perlakuan[/color]meningkat\n[color=#D06508]Keterampilan kerajinan ajaib[/color]meningkat\ngtambah[color=#D06508]Bahan baku jamu[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]obat langka[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences15">
+			<DisplayName>Magang cabang Penempaan Senjata</DisplayName>
+			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Anda telah ditugaskan untuk bekerja di ruang penempaan senjata ajaib. Anda telah diberi tanggung jawab untuk memberikan sumber daya yang diperlukan kepada murid senior untuk berlatih pemurnian senjata ajaib.\n\n\n[size=10][color=#D06508]Keterampilan kerajinan[/color]meningkat\n[color=#D06508]Keterampilan kerajinan ajaib[/color]meningkat\ngtambah[color=#D06508]sumber daya bahan mentah[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]Bahan langka[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>
