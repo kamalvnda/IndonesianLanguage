@@ -1,0 +1,42 @@
+Ada sejumlah hotkey yang dapat digunakan untuk memfasilitasi gameplay, seperti untuk serangan atau angka CTRL + (i.e. 1~0) untuk menetapkan karakter ke tim. Tekan F11 untuk detailnya
+Rahasia Feng Shui yang baik adalah elemen ubin harus melahirkan elemen bangunan yang diletakkan di atasnya. Anda dapat memeriksa properti elemen ubin setelah membangun observatorium.
+Saat murid luar terluka, karakter yang ditugaskan dengan Pekerjaan penyembuh akan secara otomatis mencoba menyembuhkan mereka. Obat secara otomatis dikonsumsi ketika seseorang terluka.
+Kecepatan Petualangan dapat ditingkatkan dengan menggunakan Talisman of Spiritual Traveling atau Talisman of Departing Shadow.
+Pada tahap awal, Anda dapat mengumpulkan Cotton di Mt. Barren untuk memenuhi kebutuhan pakaian.
+Feng Shui dan Daya Tarik sebuah ruangan mempengaruhi suasana hati para murid.
+Lantai ruangan meningkatkan Daya Tariknya.
+Reputasi Sekte mempengaruhi kekuatan musuh yang menyerang Anda.
+Anda dapat menyesuaikan elemen dasar Feng Shui dengan menggunakan lantai yang berbeda.
+Daging dan darah bisa berguna, seperti menyuburkan ladang... atau membuat Wadah..
+Benda atau bangunan berelemen Api meningkatkan suhu ruangan/lingkungan.
+Benda atau bangunan berelemen Air meningkatkan suhu ruangan/lingkungan.
+Menempatkan Lonceng Naga di lokasi yang tepat dapat menjamin keamanan murid luar.
+Kesuburan tanah dan Qi mempengaruhi laju pertumbuhan tanaman.
+Ukuran ruangan bisa berkisar antara 4-400.
+Suhu suatu ruangan sama di semua ruangan tersebut.
+Ingatlah untuk menguburkan murid-murid setelah mereka meninggal.
+Menanam gandum merupakan sumber makanan yang penting.
+Pergi ke kota memungkinkan Anda merekrut Murid dan membeli barang dan material.
+Melanjutkan penjelajahan lokasi-lokasi penting di peta dapat membuka lokasi-lokasi baru.
+Ginkgo raksasa jarang ditemukan.
+Tempatkan Tong Air di lokasi yang sesuai. Ini akan membuat hidup dan bekerja lebih nyaman bagi para Murid.
+Ikut serta dalam Pameran Takdir Abadi tahunan untuk mengatur sejumlah besar murid luar untuk mengunjungi gunung.
+Hanya Murid dengan Inti Emas atau lebih yang diizinkan untuk mengambil bagian dalam Pameran tahunan Kunlun Qi. Murid tingkat bawah hanya boleh menonton acara tersebut.
+Tekan tombol Ctrl dan gunakan fitur pembongkaran untuk membangun kembali bangunan secara bertahap.
+Tekan tombol Ctrl dan gunakan fitur pembatalan untuk melarang/memulihkan secara batch.
+Seorang karakter mungkin mati karena mencuri barang dari sekte lain.
+Dunia kultivator merupakan tempat yang hangat, dan tentunya kehangatan tersebut tidak hanya datang dari Bijih Igneocopper saja.
+Jika suatu sekte terlalu lemah, ia hanya bisa menunggu untuk dibantai.
+Rumor Alam Abadi: Seorang Pemimpin Sekte tewas secara eksplosif setelah makan roti yang kelebihan Qi..
+Menyeret atau mengklik dua kali dapat digunakan untuk memilih beberapa unit.
+Tekan tombol Shift untuk memilih beberapa unit.
+Rumor Abadi: Beberapa pemimpin sekte makan begitu banyak roti yang penuh dengan Qi sehingga dia meledak dan mati.
+Rumor Abadi: Seseorang menemukan Hukum kuno di dalam Peti Batu tua.
+Rumor Alam Abadi: Jika kuburan memiliki Feng Shui yang buruk...hal-hal buruk terjadi di malam hari..
+Rumor Abadi: Sakit gigi adalah kondisi yang paling sulit disembuhkan.
+Rumor Abadi: Kuil Teratai Biru di Gunung Shu memiliki semuanya...
+Rumor Abadi: Jika Feng Shui kuburan tidak mencukupi, sesuatu yang menakutkan mungkin terjadi di malam hari...
+Rumor Abadi: Ada cara untuk membuat langit cerah dan cerah. Dikabarkan berhubungan dengan binatang purba...
+Rumor Abadi: Lantai dapat dipasang di area dengan perairan dangkal...
+Rumor Abadi: Murid Germofobia sulit dihadapi...
+Rumor Abadi: Pernah ada seorang kultivator yang mampu mendapatkan harta berharga dari Kesengsaraan Surgawi.
