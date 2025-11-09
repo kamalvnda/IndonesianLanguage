@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk3">
+			<Nodes.0.Text>pintu masuk</Nodes.0.Text>
+			<Nodes.1.Text>Meong! Tidak ada jebakan yang bisa menangkapku.</Nodes.1.Text>
+			<Nodes.2.Text>Kirimkan saya kembali ke tengah kerajaan. Pondok Kekosongan</Nodes.2.Text>
+			<Nodes.3.Text>gosok itu</Nodes.3.Text>
+			<Nodes.4.Text>selamat tinggal!</Nodes.4.Text>
+			<Nodes.6.Text>Meong!||*Nghhhhhh*</Nodes.6.Text>
+			<Nodes.7.Text>Bawa aku ke lantai berikutnya.</Nodes.7.Text>
+		</Text>
+	</List>
+</Texts>
