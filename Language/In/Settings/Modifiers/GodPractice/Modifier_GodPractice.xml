@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>Pikiran ilahi</DisplayName>
+			<Desc>Ketika Roh Ilahi meningkat, Karakter dapat menjadi lebih terampil dalam mengendalikan kekuatan ilahi mereka dan menjadi lebih kuat. Di saat yang sama, faktor penyesuaian mood juga akan meningkat.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>Pikiran ilahi</DisplayName>
+			<Desc>Hasil yang terjadi ketika Divine Spirit mencapai level 0-30</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>Pikiran ilahi</DisplayName>
+			<Desc>Hasil yang terjadi ketika Roh Ilahi mencapai level 30-100</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>Istirahat mental</DisplayName>
+			<Desc>Mengurangi efek emosi untuk sementara melalui pelepasan mental. Semakin banyak waktu yang diperlukan untuk mendetoksifikasi pikiran, semakin lama pula efeknya bertahan. Kondisi mental praktisi tidak akan berubah saat melakukan pemotongan mental.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>Dewa Pengubah Bentuk</DisplayName>
+			<Desc>Meningkatkan sementara level roh dewa ke alam 99,99% selama 300 detik, dan secara permanen meningkatkan roh dewa sebesar 1% setelah mantra berakhir.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>Eja dirimu sendiri</DisplayName>
+			<Desc>Kembangkan kekuatan iman - manjakan diri Anda sendiri</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>melepaskan diri</DisplayName>
+			<Desc>Kembangkan iman - lepaskan diri sendiri</Desc>
+		</Text>
+	</List>
+</Texts>
