@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_XianKong">
+			<Hate.0>Melihat wajahmu sungguh membuatku ingin muntah.</Hate.0>
+			<Hate.1>Mengapa basis kultivasi Anda begitu menyedihkan? Jadi kamu gagal menembus batasan lagi? Ha ha.</Hate.1>
+			<Submiss.0>(melambaikan tangannya) Lewat sini, anak-anak, keluarkan harta terbaik kita.</Submiss.0>
+			<Submiss.1>Lewat sini, Anda dapat memilih harta karun sesuai keinginan.</Submiss.1>
+			<GiftLike.0>Itu bagus. Anda bisa membaca pikiran saya seperti itu? Bagaimana kamu tahu aku suka ini?</GiftLike.0>
+			<GiftLike.1>Hari ini saya merasa cukup tertekan. Namun hal ini segera membuat saya merasa terdorong.</GiftLike.1>
+			<LowValueGift.0>Saya bisa menggunakan ini sebagai kayu bakar.</LowValueGift.0>
+			<LowValueGift.1>Anda tidak bercanda, kan? Saya tidak pernah berpikir Anda akan menyebut sampah semacam ini sebagai hadiah.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
