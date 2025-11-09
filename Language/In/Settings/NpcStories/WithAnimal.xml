@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal_EatLikeFood">
+			<Events.0.Story>[name]Menemukan itu[hename]Saya sangat menyukai hal ini.</Events.0.Story>
+		</Text>
+		<Text Name="Animal_EatDisLikeFood">
+			<Events.0.Story>[name]Menemukan itu[hename]Saya sangat tidak menyukai ini.</Events.0.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story">
+			<Events.0.Story>[name]membelai kepala[hename]Dan[hename]Berkedip dengan gembira</Events.0.Story>
+			<Events.1.Story>[name]membelai kepala[hename]Dan[hename]Dia menggeliat karena gugup.</Events.1.Story>
+			<Events.2.Story>[name]lihat itu[hename]Dia berbaring di lantai dengan nyaman. Jadi dia masuk dan menyodoknya sedikit.</Events.2.Story>
+			<Events.3.Story>[name]Masuk dan bermainlah[hename]Tetapi[hename]lirikan[name]sebentar sebelum pergi tanpa minat.</Events.3.Story>
+			<Events.4.Story>[name]lihat itu[hename]Tiba-tiba saya merasa tertarik pada [obj_nearthing] di sekitar. Lalu dia mengendus dan menjilat benda itu beberapa kali.</Events.4.Story>
+			<Events.5.Story>[hename]Aku masuk untuk menciumnya.[name]Tapi saya menemukan bau yang tidak mengesankan. Jadi dia pergi.</Events.5.Story>
+			<Events.6.Story>[hename]berlarian[name]dengan penuh semangat</Events.6.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Rabbit">
+			<Events.0.Story>[name]harus memegang[hename]Peganglah dan bersenang-senanglah bermain dengannya.</Events.0.Story>
+			<Events.1.Story>[name]membelai kepala[hename]dan menemukan bahwa bulunya sangat lembut</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Chicken">
+			<Events.0.Story>[name]harus memegang[hename]Saya mengambilnya ke dalam pelukan saya dan melemparkannya ke langit.[hename]mengepakkan sayapnya karena ketakutan menyebabkan sebagian bulunya terjatuh ke tanah</Events.0.Story>
+			<Events.1.Story>ketika dilihat[name]Sepertinya[hename]Aku akan memikirkan sesuatu dan mulai bergumam pada diriku sendiri.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Wolf">
+			<Events.0.Story>[name]membelai kepala[hename]Dan[hename]Menggonggong dengan lembut untuk mengungkapkan rasa terima kasih</Events.0.Story>
+			<Events.1.Story>[hename]berlarian[name]dan menggonggong dengan gembira</Events.1.Story>
+			<Events.2.Story>[hename]Sambil berjongkok rendah ke tanah, dia menatap [Name] dengan tatapan tajam.</Events.2.Story>
+			<Events.3.Story>[hename]Ekornya mengibas saat melihatnya.[name]</Events.3.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Snake">
+			<Events.0.Story>ketika dilihat[name]mendekat[hename]Jadi dia mengangkat lehernya tinggi-tinggi dan menjulurkan lidahnya.</Events.0.Story>
+			<Events.1.Story>[name]harus memegang[hename]Peganglah dan bersenang-senanglah bermain dengannya.</Events.1.Story>
+			<Events.2.Story>[name]Melihat dengan rasa ingin tahu untuk beberapa saat[hename]Dia menelan seekor tikus besar dalam satu gigitan.</Events.2.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Boar">
+			<Events.0.Story>[hename]membanting ke dalam[name]marah dengan hidungnya</Events.0.Story>
+			<Events.1.Story>[name]lihat itu[hename]Ia tergeletak di tanah dan menangis seolah-olah sedang berbicara sendiri. Jadi[IT]Lempar batu untuk menggodanya.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Bear">
+			<Events.0.Story>ketika dilihat[name] [hename]Ia merentangkan tangannya dan berlari ke arahnya dengan penuh semangat.[name]Merasa ketakutan, dia lari dengan cepat.</Events.0.Story>
+			<Events.1.Story>[name]melirik[hename]Sepertinya[hename]Dia marah tentang sesuatu jadi dia menginjakkan kakinya ke tanah.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Turtle">
+			<Events.0.Story>[name]membelai kepala[hename]Dan[hename]Ia dengan cepat menarik kembali kepalanya dan menyembunyikannya di dalam cangkangnya.</Events.0.Story>
+			<Events.1.Story>[name]Menemukan itu[hename]terbaring di lantai dengan gembira tanpa peduli pada dunia, jadi mereka[IT]Pura-pura menggodanya, jadi begini[hename]Dengan cepat menarik kembali kepalanya dan bersembunyi di dalam cangkangnya.</Events.1.Story>
+			<Events.2.Story>[name]Masuk dan bermainlah[hename]Tetapi[hename]Hanya melirik[name]sedikit sebelum secara bertahap Ia menarik kembali kepalanya ke dalam cangkangnya.</Events.2.Story>
+			<Events.3.Story>[hename]Tiba-tiba saya merasa tertarik pada [obj_nearthing] di sekitar. Jadi dia perlahan masuk dan mengendus.</Events.3.Story>
+			<Events.4.Story>[name]Masuk dan bermainlah[hename]Dan[hename]Perlahan-lahan ia mengangkat kepalanya.</Events.4.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Frog">
+			<Events.0.Story>[name]rasakan itu[hename]Memikirkan sesuatu yang penting, tapi kapan[IT]Berbalik dan lihat lagi. Itu memantul seperti biasa.</Events.0.Story>
+			<Events.1.Story>[name]memegang[hename]Angkat dan letakkan di tangan Anda.[IT] [hename]Semprotkan air ke wajah Anda.[name]sebelum ia melompat kegirangan</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Fei">
+			<Events.0.Story>[name]membelai kepala[hename]Dan[hename]Dia dengan lembut mengeluarkan tangisan yang indah.</Events.0.Story>
+			<Events.1.Story>[hename]menatap[name]dengan minat yang jauh</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Lushu">
+			<Events.0.Story>[name]membelai kepala[hename]Dan[hename]Ia menggelengkan kepalanya karena marah.</Events.0.Story>
+			<Events.1.Story>[hename]lihat itu[name]berjalan ke arahnya Jadi dia segera berbaring di tanah dan berpura-pura tertidur.</Events.1.Story>
+		</Text>
+	</List>
+</Texts>
