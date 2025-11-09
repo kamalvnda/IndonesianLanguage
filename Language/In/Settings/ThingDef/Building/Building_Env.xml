@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Geothermy" sParam="Building">
+			<ThingName>Celah Roh</ThingName>
+			<Desc>Sebuah celah yang membentang sampai ke inti bumi. Angin panas terik masih bertiup dari inti bumi.</Desc>
+		</Text>
+		<Text Name="Building_ColdHole" sParam="Building">
+			<ThingName>tungku musim dingin</ThingName>
+			<Desc>Seorang bijak kuno mencoba memalsukan pil yang dapat mengubah nasib di sini. Namun pemurnian obatnya dihancurkan oleh hukuman surgawi. Nyala api tungku berubah menjadi es yang tidak akan pernah mencair bahkan setelah ratusan abad.</Desc>
+		</Text>
+		<Text Name="Building_OuterWorld" sParam="Building">
+			<ThingName>Keretakan Dimensi</ThingName>
+			<Desc>Ruang dimensional yang runtuh karena pertarungan antara master yang kuat. Pertarungan itu telah berubah menjadi celah dimensional yang relatif stabil. Hal ini memungkinkan benda atau penggarap dari dua dunia keluar masuk berkali-kali.</Desc>
+		</Text>
+		<Text Name="Building_YinYang" sParam="Building">
+			<ThingName>Batu Yin Yang</ThingName>
+			<Desc>Sebuah batu aneh yang tercipta selama pertukaran yin dan yang yang menyimpan rahasia langit dan bumi. Semakin tinggi basis kultivasi muridnya, semakin baik. Semakin mendalam ilmu dari Tao. Namun, duduk dan berlatih Qi di atas batu seringkali menimbulkan fenomena astronomi yang tidak biasa.</Desc>
+		</Text>
+		<Text Name="Building_DiMu" sParam="Building">
+			<ThingName>Kuil Dewi Bumi</ThingName>
+			<Desc>Kuil yang digunakan untuk memuja Dewi Bumi yang ditinggalkan oleh para penggarap kuno. Orang dapat meminta berkah dari sisa jiwa Dewi Bumi dengan mempersembahkan batu roh. Padahal hal ini bisa saja berujung pada bencana alam.</Desc>
+		</Text>
+		<Text Name="LingShu" sParam="Building">
+			<ThingName>Phrueksa Saeng Prathip</ThingName>
+			<Desc>Sebuah pohon mencurigakan yang disebut Pohon Sang Prathip telah tumbuh di sini. Itu dapat mengubah tanah di dekatnya. Namun serbuk sari yang dikeluarkannya dapat menyebabkan meridian tersumbat sehingga menimbulkan masalah pada pergerakan Qi.</Desc>
+			<StoryBnts.0.Name>menyentuh</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Rasakan nafas di sekitar Anda. Phrueksa Saeng Prathip</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
