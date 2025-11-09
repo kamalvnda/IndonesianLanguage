@@ -1,0 +1,175 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsXuanWu_Carve" sParam="Building">
+			<ThingName>patung penyu hitam</ThingName>
+			<Desc>patung penyu hitam Dapat digunakan untuk menghidupkan kembali penyu hitam.</Desc>
+		</Text>
+		<Text Name="ZhenWuCarve" sParam="Building">
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+			<ThingName>Patung kaisar dewa prajurit</ThingName>
+			<Desc>Patung suci Kaisar Dewa Prajurit untuk disembah dengan kekuatan ilahi yang tak tertahankan dan berkah yang tak terbatas.</Desc>
+		</Text>
+		<Text Name="TurTleMonu" sParam="Building">
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+			<ThingName>Prasasti Batu Pixi</ThingName>
+			<Desc>Legenda mengatakan bahwa seribu tahun yang lalu penakluk Dayu menjinakkan penyu hitam Bi Xi. Digunakan untuk mengeruk sungai, mengeringkan danau dan memadamkan banjir. Segala peristiwa tercatat dalam prasasti batu ini.</Desc>
+		</Text>
+		<Text Name="IncenseTripod" sParam="Building">
+			<ThingName>Pembakar Dupa Tao</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+			<Desc>Pembakar dupa Tao digunakan untuk membakar dupa untuk menenangkan pikiran.</Desc>
+		</Text>
+		<Text Name="DragonIncense" sParam="Building">
+			<ThingName>Pembakar dupa kepala naga</ThingName>
+			<StoryBnts.0.Name>memuja</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Beri penghormatan kepada pembakar dupa kepala naga</StoryBnts.0.Desc>
+			<Desc>Itu disimpan di Istana Tebing Selatan Gunung Wutung. Mereka yang ingin beribadah harus memanjat menggunakan dua tangan dan empat kaki untuk mempersembahkan dupa. Satu kesalahan akan menyebabkan jatuh dari gunung.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeft" sParam="Building">
+			<ThingName>Dinding sudut merah (L)</ThingName>
+			<Desc>Tembok unik dari Sekte Wu Tueng. Meski megah dan mengesankan Namun tidak bisa digunakan untuk membuat ruangan.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDownLeft2" sParam="Building">
+			<ThingName>Dinding sudut merah (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft" sParam="Building">
+			<ThingName>Dinding sudut merah (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft2" sParam="Building">
+			<ThingName>Dinding sudut merah (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp" sParam="Building">
+			<ThingName>Dinding merah di samping (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp2" sParam="Building">
+			<ThingName>Dinding merah di samping (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight" sParam="Building">
+			<ThingName>Dinding merah di samping (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight2" sParam="Building">
+			<ThingName>Dinding merah di samping (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVertical" sParam="Building">
+			<ThingName>Dinding merah di tengah (Kiri)</ThingName>
+		</Text>
+		<Text Name="RedWallVerticalHalf" sParam="Building">
+			<ThingName>Dinding merah tertutup (Kiri)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontalHalf" sParam="Building">
+			<ThingName>Dinding merah tertutup (Kiri)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontal" sParam="Building">
+			<ThingName>Tembok Merah (Kiri)</ThingName>
+		</Text>
+		<Text Name="RedWallDownLeftTiny" sParam="Building">
+			<ThingName>Dinding merah sudut kecil (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeftTiny" sParam="Building">
+			<ThingName>Dinding merah sudut kecil (L)</ThingName>
+		</Text>
+		<Text Name="RedWallGate" sParam="Building">
+			<ThingName>Pagoda Tao</ThingName>
+			<Desc>Pagoda Tao yang megah dan khusyuk</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDrum" sParam="Building">
+			<ThingName>Gendang Tai Chi</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+			<Desc>Dekorasi umum Ini mempengaruhi lima elemen lingkungan sesuai dengan bahan yang digunakan untuk membuatnya.</Desc>
+		</Text>
+		<Text Name="WuDangBigGate" sParam="Building">
+			<ThingName>Gerbang Boothung</ThingName>
+			<Desc>Gerbang besar Sekte Wu Tung</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangScreen" sParam="Building">
+			<ThingName>Adegan Angsa Hitam</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangFlag" sParam="Building">
+			<ThingName>Bendera Boothung</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXiangLu" sParam="Building">
+			<ThingName>panci naga</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangPuTuan" sParam="Building">
+			<ThingName>Tiga Cara Pelatihan</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXianHeDeng" sParam="Building">
+			<ThingName>Lentera Dewi Linghe</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangDivine" sParam="Building">
+			<ThingName>Lempeng Awan Suci</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+			<Desc>Bangunan unik Pegunungan Wutung Diukir dengan nama suci Kaisar Dewa Prajurit.</Desc>
+		</Text>
+		<Text Name="WuDangJinDian" sParam="Building">
+			<ThingName>aula emas</ThingName>
+			<Desc>Sebuah bangunan ajaib menakjubkan yang terletak di puncak Sekte Wu Tung. Itu diberkati dengan kekuatan ilahi dari Kaisar Dewa Prajurit. Selain itu, ia juga memiliki seni bela diri rahasia yang tersembunyi di dalamnya. Konon hanya mereka yang bernasib baik saja yang bisa menemukannya.</Desc>
+			<StoryBnts.0.Name>konsep</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Renungkanlah jalan surgawi yang ada di dalamnya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng" sParam="Building">
+			<ThingName>lampu kura-kura hitam</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu1" sParam="Building">
+			<ThingName>pohon teh di awan</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu2" sParam="Building">
+			<ThingName>pohon teh di awan</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong1" sParam="Building">
+			<ThingName>Pohon Pinus Bu Tung</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_WuDangSong2" sParam="Building">
+			<ThingName>Pohon Pinus Bu Tung</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong3" sParam="Building">
+			<ThingName>Pohon Pinus Bu Tung</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong4" sParam="Building">
+			<ThingName>Pohon Pinus Bu Tung</ThingName>
+		</Text>
+		<Text Name="Table_TaiZi" sParam="Building">
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah merespons dengan menggunakan kesadaran.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
