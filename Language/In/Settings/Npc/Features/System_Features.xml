@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[kosong]</DisplayName>
+			<Desc>Bangunan yang hilang dan tidak diketahui \n(kosong)</Desc>
+		</Text>
+	</List>
+</Texts>
