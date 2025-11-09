@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_6_Huo">
+			<DisplayName>Teknik Budidaya Pengobatan Ilahi</DisplayName>
+			<Desc>Sebuah teknik budidaya yang ditemukan oleh seorang ahli pengobatan berbakat. Meskipun teknik ini tidak mengkhususkan diri pada sihir atau seni bela diri apa pun, Namun, mereka yang mempraktikkan teknik ini dapat menggunakan obatnya untuk membuka Gerbang Abadi melalui pengembangan 9 alam dalam seni bela diri, dan ketika mereka berlatih hingga mencapai tingkat kesuksesan tertinggi, orang tersebut akan dapat bereinkarnasi ke alam surga.</Desc>
+			<SelectDesc>Teknik ini sangat luar biasa dalam menyempurnakan pengobatan. Menembus batasan pada setiap tahap memerlukan jenis obat yang berbeda. Ini adalah kekuatan pendorong. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>sembilan tungku</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>sembilan tungku</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Api Surgawi</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Api Surgawi</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Batu Bertuah</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Oase Emas</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Oase Emas</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Hukum Agung Dipadatkan</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Hukum Agung Dipadatkan</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Ubah sepuluh ribu perubahan</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Ubah sepuluh ribu perubahan</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.6.DisplayName>kemurnian</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>kemurnian</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki Persepsi rendah.[/color]</Stages.6.Necks.0.Desc>
+			<Stages.7.DisplayName>lautan penderitaan</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>lautan penderitaan</Stages.7.Necks.0.DisplayName>
+			<Stages.7.Necks.0.Desc>Berjalan melintasi lautan penderitaan Dengan menggabungkan Jiwa Primordialnya sendiri dengan Dao Surgawi. Orang itu harus menghadapi murka surga secara langsung.</Stages.7.Necks.0.Desc>
+			<Stages.8.DisplayName>yang murni</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>yang murni</Stages.8.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
