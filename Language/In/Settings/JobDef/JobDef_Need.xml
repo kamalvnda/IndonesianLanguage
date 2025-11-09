@@ -1,0 +1,40 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobAnimalEatFood">
+      <DisplayName>Makan</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalFree">
+      <DisplayName>Berkeliaran</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalGiveBirth">
+      <DisplayName>Melahirkan</DisplayName>
+    </Text>
+    <Text Name="JobBirthIt">
+      <DisplayName>Penetasan</DisplayName>
+    </Text>
+    <Text Name="JobEatFood">
+      <DisplayName>Makan</DisplayName>
+    </Text>
+    <Text Name="JobDrinkWater">
+      <DisplayName>Minum</DisplayName>
+    </Text>
+    <Text Name="JobTakeRest">
+      <DisplayName>Sedang tidur</DisplayName>
+    </Text>
+    <Text Name="JobLookAtSky">
+      <DisplayName>Menatap langit</DisplayName>
+    </Text>
+    <Text Name="JobFree">
+      <DisplayName>berkeliaran</DisplayName>
+    </Text>
+    <Text Name="JobRunAway">
+      <DisplayName>Kabur</DisplayName>
+    </Text>
+    <Text Name="JobPlayWithBuilding">
+      <DisplayName>Bersenang senang</DisplayName>
+    </Text>
+    <Text Name="JobBasePractice">
+      <DisplayName>Fondasi bangunan</DisplayName>
+    </Text>
+  </List>
+</Texts>
