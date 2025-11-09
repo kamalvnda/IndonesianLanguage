@@ -1,0 +1,187 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCity_Housing">
+			<DisplayName>Istana Thep</DisplayName>
+			<Desc>Bangunan yang dibangun untuk menampung orang-orang dari Alam Ilahi. Meningkatkan jumlah maksimum penghuni Alam Ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_Guard">
+			<DisplayName>Kuil Penjaga</DisplayName>
+			<Desc>Sebuah fasilitas yang dibangun untuk menghormati wali. Penggarap Jalan Ilahi dapat menerima berkah dari wali untuk meningkatkan kemampuan mereka.</Desc>
+		</Text>
+		<Text Name="GodCity_FaithWay">
+			<DisplayName>Kuil Keajaiban</DisplayName>
+			<Desc>Setiap kuil dapat berkomunikasi dengan patung dewa kota yang diawasi oleh perwakilan sekte. Dengan kemampuan ini, seorang Penggarap Jalan Ilahi akan dapat memperoleh kepercayaan orang-orang yang beriman melalui Patung Ilahi kapan saja. Mereka juga dapat digunakan sebagai media untuk beberapa jenis sihir.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoRateUp">
+			<DisplayName>Paviliun Harta Karun Suci</DisplayName>
+			<Desc>Sebuah paviliun yang dibangun dari kekuatan keyakinan. Ini akan mencerminkan kekuatan Harta Karun Ilahi Penggarap Jalan Ilahi ke dalam bentuk nyata di Alam Ilahi. Meningkatkan Paviliun Harta Karun Suci akan meningkatkan kemampuan Harta Karun Suci.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd1">
+			<DisplayName>SSS: Paviliun Angin</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Kekuatan angin dan awan dapat ditambahkan ke harta suci. Hal ini menghasilkan lebih banyak fleksibilitas dan keanggunan.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd2">
+			<DisplayName>SSS: Paviliun Berat</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci. Itu bisa menambah ribuan kali beratnya pada harta suci. Hasilnya, ia menjadi lebih bertenaga.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd3">
+			<DisplayName>SSS: Aula Niat</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat meningkatkan kekuatan kemauan harta suci. Hasilnya, lebih kuat dan tahan lama.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd4">
+			<DisplayName>SSS: Aula Kelembutan</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambah kekuatan lembut pada harta suci. Hasilnya, lebih fleksibel dan tahan lama.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd5">
+			<DisplayName>SS: Paviliun Pedang</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat meningkatkan kekuatan bilah harta karun suci. Alhasil, menjadi lebih tajam.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd6">
+			<DisplayName>SS: Paviliun Kaisar</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambah kekuatan kaisar pada harta suci. Akibatnya, ia mempunyai kekuatan destruktif yang lebih besar lagi.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd7">
+			<DisplayName>SSS: Aula Kerendahan Hati</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Kekuatan kerendahan hati dapat ditambahkan ke harta suci. Akibatnya, ukurannya bisa menyusut dan lebih sulit dideteksi.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd8">
+			<DisplayName>SS: Paviliun Guntur</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan petir surgawi ke harta suci. Hasilnya, itu berisi kekuatan petir surgawi yang tak terbatas.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd9">
+			<DisplayName>SSS: Paviliun Roh</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan semua roh ke dalam harta suci. Hasilnya, ia memiliki kekuatan yang besar dan fondasi yang kokoh.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd10">
+			<DisplayName>SSS: Paviliun Badai</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Kekuatan badai dapat ditambahkan ke harta suci. Hasilnya, ini menjadi lebih cepat, memungkinkan pengguna melakukan perjalanan ribuan mil dalam sekejap mata.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd11">
+			<DisplayName>SSS: Paviliun Kekuatan</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambah kekuatan ilahi pada harta suci. Hasilnya, ia memiliki kekuatan dan kemampuan yang tidak dapat dihentikan.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd1">
+			<DisplayName>SSS: Paviliun Racun</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan lima racun ke dalam harta suci. Setiap 36 serangan akan menyerang musuhnya sendiri. Memiliki kemampuan untuk menembus armor energi dan memberikan damage tambahan.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Setiap 36 serangan, ia menyerang musuhnya sendiri. Memiliki kemampuan untuk menembus armor energi dan memberikan damage tambahan.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd2">
+			<DisplayName>SSS: Aula Roh Kudus</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambah kekuatan roh suci pada harta suci. Setiap 18 serangan, ia akan mengeluarkan sihir ke musuh dengan sendirinya.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Setiap 18 serangan, ia akan mengeluarkan sihir ke musuh dengan sendirinya.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd3">
+			<DisplayName>SSS: Paviliun Armor Suci</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan baju besi suci ke harta suci. Naikkan level armor hingga 3 level.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Naikkan level armor hingga 3 level.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd4">
+			<DisplayName>SSS: Paviliun Suci Weda</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan sihir suci ke harta suci. Naikkan level energi magis hingga 3 level.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Naikkan level energi magis hingga 3 level.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd5">
+			<DisplayName>SSS: Paviliun Keterampilan Suci</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat meningkatkan kekuatan keterampilan suci menjadi harta suci. Tingkatkan keterampilan senjata ajaib Anda ke 3 level.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Tingkatkan keterampilan senjata ajaib Anda ke 3 level.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd6">
+			<DisplayName>SSS: Paviliun Jiwa Kembali</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Kemampuan untuk mengembalikan jiwa ke harta suci dapat ditambahkan. 3% dari kerusakan yang diberikan akan digunakan untuk mengisi kembali Qi senjata ajaib.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% dari kerusakan yang diberikan akan digunakan untuk mengisi kembali energi senjata ajaib.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd7">
+			<DisplayName>S.S.S.: Paviliun Roh Kudus</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kekuatan roh suci ke harta suci. Setiap 18 serangan, pedang roh suci akan tercipta selama 15 detik.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Setiap 18 serangan, Pedang Roh Ilahi akan tercipta selama 15 detik.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd8">
+			<DisplayName>S.S.S.: Paviliun Pernapasan Suci</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat meningkatkan kekuatan qi suci pada harta suci. Setiap 7 serangan akan mengurangi cooldown berbagai teknik sebanyak 1 detik.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Setiap 7 serangan mengurangi cooldown semua kemampuan sebanyak 1 detik.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd9">
+			<DisplayName>SSS: Sala Kao Sawan</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Itu dapat menambahkan kekuatan Sembilan Surga ke harta suci. Saat memberikan damage, ada peluang 4% untuk memberikan 9 kali damage ke musuh.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Saat memberikan damage, ada peluang 4% untuk memberikan 9 kali damage ke musuh.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd10">
+			<DisplayName>SSS: Paviliun Tanpa Batas</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Itu dapat menambah kekuatan tak terbatas pada harta suci. Kekuatan serangan pertama meningkat 3 kali lipat, dan kemampuannya akan dimulai kembali ketika senjata ajaib terisi penuh.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Kekuatan serangan pertama meningkat 3 kali lipat, dan kemampuannya akan dimulai kembali ketika senjata ajaib terisi penuh.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd11">
+			<DisplayName>S.S.S.: Sala Wayutlaifah</DisplayName>
+			<Desc>Bagian dari Paviliun Harta Karun Suci Dapat menambahkan kemampuan Angin Langit ke harta karun suci. Menimbulkan 1,25 kali damage saat menyerang tubuh musuh.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Menimbulkan 1,25 kali damage saat menyerang tubuh musuh.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_WishTree">
+			<DisplayName>pohon doa</DisplayName>
+			<Desc>Sebuah pohon yang dipenuhi doa-doa orang biasa. Ia mampu menggunakan Qi dari kata-kata manusia itu untuk sedikit mengurangi “pikiran ilahi”.</Desc>
+		</Text>
+		<Text Name="GodCity_XinyangShendian">
+			<DisplayName>Kuil Iman</DisplayName>
+			<Desc>Sebuah kuil yang mengumpulkan kepercayaan orang-orang dari seluruh dunia. Hal ini dapat meningkatkan efisiensi penciptaan kekuatan iman yang dihasilkan oleh Alam Ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_LiuLiShenDian">
+			<DisplayName>Kuil Phithak Sawan</DisplayName>
+			<Desc>Sebuah kuil yang memberikan kekuatan kepada penjaga alam ilahi. Itu bisa meningkatkan kemampuan Penggarap Jalan Ilahi melalui Penjaga Alam Ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_ThunderDefend">
+			<DisplayName>Istana Surgawi</DisplayName>
+			<Desc>Memusatkan kekuatan iman untuk menekan murka surga Ini akan mengurangi kekuatan Hukuman Surgawi ke tingkat tertentu.</Desc>
+		</Text>
+		<Text Name="GodCity_FengShenTai">
+			<DisplayName>altar penjaga</DisplayName>
+			<Desc>Tempat di mana para dewa berbagi kekuatan ilahi dan mengubah murid inti yang memiliki keyakinan 100% menjadi penjaga alam ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_A">
+			<DisplayName>Istana Emas</DisplayName>
+			<Desc>Tingkatkan jumlah maksimum pemimpin murid</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_B">
+			<DisplayName>Istana Pruksa</DisplayName>
+			<Desc>Tingkatkan jumlah maksimum pemimpin murid</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_C">
+			<DisplayName>Istana Waree</DisplayName>
+			<Desc>Tingkatkan jumlah maksimum pemimpin murid</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_D">
+			<DisplayName>Istana Api</DisplayName>
+			<Desc>Tingkatkan jumlah maksimum pemimpin murid</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_E">
+			<DisplayName>Istana Tahta</DisplayName>
+			<Desc>Tingkatkan jumlah maksimum pemimpin murid</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2">
+			<DisplayName>Istana Thepthewa</DisplayName>
+			<Desc>Istana Dewa Tingkat Lanjut Dapat menampung lebih banyak penghuni Alam Ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2_2">
+			<DisplayName>Istana Dewa Suci</DisplayName>
+			<Desc>Istana Dewa Tingkat Lanjut Dapat menampung lebih banyak penghuni Alam Ilahi.</Desc>
+		</Text>
+		<Text Name="GodCity_HongChenKuHai">
+			<DisplayName>lautan penderitaan</DisplayName>
+			<Desc>Mendorong penderitaan dan kesedihan semua makhluk hidup di dunia ke alam ketuhanan, mengakibatkan berkurangnya "pikiran ketuhanan" secara drastis.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_1">
+			<DisplayName>Balai Rueanjai</DisplayName>
+			<Desc>Berikan mantra suci dengan level berikut secara berurutan: Level 1, Level 2, Level 3: Mantra Pengumpulan Ilahi, Mantra Pemberkahan Ilahi, Mantra Satu Iman Meningkatkan hasil material dasar dari area yang ditempati pengguna selama jangka waktu tertentu.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_2">
+			<DisplayName>paviliun pikiran</DisplayName>
+			<Desc>Memberikan Mantra Ilahi Tingkat 1 - Mantra Pengusir Ilahi: Digunakan pada mereka yang bukan Penggarap Jalan Ilahi. Menghasilkan pengurangan laju peningkatan suasana hati sebesar 25% selama 7 hari.\nMemberikan mantra suci level 2 - Pembersihan Pikiran Ilahi: Melarutkan hasrat karakter untuk mengubahnya menjadi permata hasrat.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_3">
+			<DisplayName>Paviliun Kekuasaan</DisplayName>
+			<Desc>Berikan Mantra Ilahi Tingkat 1 - Bentuk Ilahi: Ucapkan mantra untuk meningkatkan roh ilahi seseorang ke tingkat maksimum untuk jangka waktu sementara. Hasilnya, kemampuan bertarungmu meningkat pesat.\n Berikan Mantra Ilahi Level 2 - Mantra Berkah Ilahi: Gunakan pikiran manusia untuk mencoba memberikan pencerahan pada tanaman. Diperlukan waktu tertentu sebelum efek mantra terungkap dan mantra tidak dapat diulangi pada tanaman saat berada di bawah pengaruh mantra.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_4">
+			<DisplayName>Aula Dedikasi</DisplayName>
+			<Desc>Berikan Mantra Suci Level 1 - Undangan Suci: Undang karakter ramah atau murid dalam yang netral untuk mengundang orang tersebut menjadi murid pemimpin pengguna.\nBerikan Mantra Ilahi Level 2 - Mata Ilahi Misterius: Pilih karakter untuk memeriksa lokasinya. Semakin banyak penduduk Alam Dewa dan informasi karakter yang dimiliki pengguna, semakin tinggi tingkat keberhasilan dalam mendeteksi lokasi target, semakin tinggi pula tingkat keberhasilannya.</Desc>
+		</Text>
+	</List>
+</Texts>
