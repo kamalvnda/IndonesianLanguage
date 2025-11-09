@@ -1,0 +1,518 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
+			<ThingName>templat tanaman</ThingName>
+			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
+			<ThingName>templat bangunan</ThingName>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="MiracleBase" sParam="Building">
+			<Desc>Keajaiban Kantor</Desc>
+			<StoryBnts.0.Name>mengumpulkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kumpulkan keajaiban menggunakan kekuatan</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>konsep</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Renungkanlah jalan surgawi yang ada di dalamnya.</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe" sParam="Building">
+			<ThingName>Delapan Cara Kolam Dhamma</ThingName>
+			<Desc>Keajaiban luar biasa dari Sekte Tirai Langit Konon menyimpan rahasia tentang jalan alam semesta.</Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
+			<ThingName>Delapan Cara Kolam Dhamma</ThingName>
+			<Desc>Keajaiban luar biasa dari Sekte Tirai Langit Konon menyimpan rahasia tentang jalan alam semesta.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
+			<ThingName>Tahta Sepuluh Ribu Dao</ThingName>
+			<Desc>Keajaiban Luar Biasa Paviliun Kunlun Konon mengandung rahasia cara penciptaan langit dan bumi.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
+			<ThingName>Tahta Sepuluh Ribu Dao</ThingName>
+			<Desc>Keajaiban Luar Biasa Paviliun Kunlun Konon mengandung rahasia cara penciptaan langit dan bumi.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu" sParam="Building">
+			<ThingName>Hutan tujuh suasana hati</ThingName>
+			<Desc>Keajaiban Luar Biasa Istana Nuea Napa Konon mengandung rahasia jalan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
+			<ThingName>Hutan tujuh suasana hati</ThingName>
+			<Desc>Keajaiban Luar Biasa Istana Nuea Napa Konon mengandung rahasia jalan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
+			<ThingName>Bagan Siklus Bintang</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Awan Ungu Konon mengandung rahasia asal usul ruang dan waktu serta jalur matahari dan bulan.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
+			<ThingName>Bagan Siklus Bintang</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Awan Ungu Konon mengandung rahasia asal usul ruang dan waktu serta jalur matahari dan bulan.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
+			<ThingName>Pagoda Naga Yang</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Sekte Rahasia Dikatakan menyimpan rahasia awal dan akhir.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
+			<ThingName>Pagoda Naga Yang</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Sekte Rahasia Dikatakan menyimpan rahasia awal dan akhir.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi" sParam="Building">
+			<ThingName>Kolam Muean Krabi</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Teratai Indigo Konon menyimpan rahasia tentang cara penciptaan dan penghancuran.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
+			<ThingName>Kolam Muean Krabi</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Teratai Indigo Konon menyimpan rahasia tentang cara penciptaan dan penghancuran.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng" sParam="Building">
+			<ThingName>Gunung Roh Giok</ThingName>
+			<Desc>Keajaiban luar biasa dari Sekte Cahaya Malam dikatakan mengandung rahasia pertumbuhan semua makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our" sParam="Building">
+			<ThingName>Gunung Roh Giok</ThingName>
+			<Desc>Keajaiban luar biasa dari Sekte Cahaya Malam dikatakan mengandung rahasia pertumbuhan semua makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan" sParam="Building">
+			<ThingName>Altar Sepuluh Ribu Tulang</ThingName>
+			<Desc>Keajaiban Luar Biasa Gunung Seratus Serangga Konon mengandung rahasia cara menutup ruang dan waktu.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
+			<ThingName>Altar Sepuluh Ribu Tulang</ThingName>
+			<Desc>Keajaiban Luar Biasa Gunung Seratus Serangga Konon mengandung rahasia metode penyegelan ruang dan waktu.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng" sParam="Building">
+			<ThingName>gunung magnet</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Sekte Lubang Jurang Dikatakan mengandung rahasia Jalan Surga Sunyi.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
+			<ThingName>gunung magnet</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Sekte Lubang Jurang Dikatakan mengandung rahasia Jalan Surga Sunyi.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei" sParam="Building">
+			<ThingName>Prasasti Pembunuh Satta</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Tujuh Jalan Pembunuhan Sekte Dikatakan menyimpan rahasia kematian semua makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
+			<ThingName>Prasasti Pembunuh Satta</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Tujuh Jalan Pembunuhan Sekte Dikatakan menyimpan rahasia kematian semua makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan" sParam="Building">
+			<ThingName>Musim Semi Yin Suci</ThingName>
+			<Desc>Keajaiban Luar Biasa Sekolah Saranrom Konon menyimpan rahasia tentang jalan rejeki.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
+			<ThingName>Musim Semi Yin Suci</ThingName>
+			<Desc>Keajaiban Luar Biasa Sekolah Saranrom Konon menyimpan rahasia tentang jalan rejeki.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai" sParam="Building">
+			<ThingName>Tubuh nenek moyang iblis</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Sepuluh Ribu Setan Dikatakan bahwa kenangan nenek moyang iblis tersembunyi.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
+			<ThingName>Tubuh nenek moyang iblis</ThingName>
+			<Desc>Keajaiban Luar Biasa dari Biara Sepuluh Ribu Setan Dikatakan bahwa kenangan nenek moyang iblis tersembunyi.</Desc>
+		</Text>
+		<Text Name="Building_QiShi1" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_QiShi2" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_QiShi3" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_QiShi4" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_QiShi5" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_QiShi6" sParam="Building">
+			<ThingName>batu yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
+			<ThingName>Silavari yang aneh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu1" sParam="Building">
+			<ThingName>Pohon Roh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu2" sParam="Building">
+			<ThingName>Pohon Roh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu3" sParam="Building">
+			<ThingName>Pohon Roh</ThingName>
+		</Text>
+		<Text Name="Building_LingShu4" sParam="Building">
+			<ThingName>Pohon Roh Air</ThingName>
+		</Text>
+		<Text Name="Building_LingShu5" sParam="Building">
+			<ThingName>Pohon Roh Air</ThingName>
+		</Text>
+		<Text Name="Building_LingShu6" sParam="Building">
+			<ThingName>Pohon Roh Air</ThingName>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
+			<ThingName>pohon awan ungu</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu1" sParam="Building">
+			<ThingName>Pohon Setan</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu2" sParam="Building">
+			<ThingName>Pohon Setan</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu3" sParam="Building">
+			<ThingName>Pohon Setan</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu4" sParam="Building">
+			<ThingName>Pohon Setan</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
+			<ThingName>Pohon air</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
+			<ThingName>Pohon air</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
+			<ThingName>Pohon air</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu1" sParam="Building">
+			<ThingName>pohon persik</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu2" sParam="Building">
+			<ThingName>pohon persik</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu3" sParam="Building">
+			<ThingName>pohon persik</ThingName>
+		</Text>
+		<Text Name="Building_YuShu1" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_YuShu2" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_YuShu3" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_YuShu4" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_YuShu5" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_YuShu6" sParam="Building">
+			<ThingName>Flora Sian</ThingName>
+		</Text>
+		<Text Name="Building_CongRong1" sParam="Building">
+			<ThingName>ginseng gurun</ThingName>
+		</Text>
+		<Text Name="Building_CongRong2" sParam="Building">
+			<ThingName>ginseng gurun</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_LuoTuoCao" sParam="Building">
+			<ThingName>Dok Khamtai</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu1" sParam="Building">
+			<ThingName>Krisan</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu2" sParam="Building">
+			<ThingName>Krisan</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu3" sParam="Building">
+			<ThingName>Krisan</ThingName>
+		</Text>
+		<Text Name="Building_GuMu1" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_GuMu2" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_GuMu3" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_GuMu4" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_GuMu5" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_GuMu6" sParam="Building">
+			<ThingName>tunggul pohon kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5" sParam="Building">
+			<ThingName>reruntuhan kuno</ThingName>
+		</Text>
+		<Text Name="Building_LingDiShuiChi" sParam="Building">
+			<ThingName>kolam roh</ThingName>
+		</Text>
+		<Text Name="Building_LianFaTan" sParam="Building">
+			<ThingName>mezbah surga</ThingName>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
+			<ThingName>pilar es</ThingName>
+		</Text>
+		<Text Name="Build_KunLunFang" sParam="Building">
+			<ThingName>Gerbang Kunlun</ThingName>
+			<Desc>Gerbang besar sekte tersebut</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong" sParam="Building">
+			<ThingName>naga perunggu</ThingName>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
+			<ThingName>pot perunggu</ThingName>
+		</Text>
+		<Text Name="Building_QingTongFanQi" sParam="Building">
+			<ThingName>bendera perunggu</ThingName>
+		</Text>
+		<Text Name="Building_YanDiTai" sParam="Building">
+			<ThingName>menara asal</ThingName>
+		</Text>
+		<Text Name="Building_JuXingXiangLu" sParam="Building">
+			<ThingName>pedupaan raksasa</ThingName>
+		</Text>
+		<Text Name="Building_TengLongZhu" sParam="Building">
+			<ThingName>Pilar Naga Terbang</ThingName>
+		</Text>
+		<Text Name="Building_HuangLongDengTai" sParam="Building">
+			<ThingName>lentera naga</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LianHuaDengTai" sParam="Building">
+			<ThingName>lampu teratai</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_YuHeQingLian1" sParam="Building">
+			<ThingName>Teratai Hati Krabi</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian2" sParam="Building">
+			<ThingName>Teratai Hati Krabi</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian3" sParam="Building">
+			<ThingName>Teratai Hati Krabi</ThingName>
+		</Text>
+		<Text Name="Building_JianYiFuDiao" sParam="Building">
+			<ThingName>Pedang yang Menenangkan</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu1" sParam="Building">
+			<ThingName>kompor kecil</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu2" sParam="Building">
+			<ThingName>kompor kecil</ThingName>
+		</Text>
+		<Text Name="Building_HuoDing" sParam="Building">
+			<ThingName>Perapian</ThingName>
+		</Text>
+		<Text Name="Building_ShuiLianTai" sParam="Building">
+			<ThingName>Menara Teratai Fah</ThingName>
+		</Text>
+		<Text Name="Building_XieXiDeng" sParam="Building">
+			<ThingName>Lampu Setan</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_KuLouDeng" sParam="Building">
+			<ThingName>lampu panas bumi</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Build_BaiManFang" sParam="Building">
+			<ThingName>pintu serangga</ThingName>
+			<Desc>Gerbang besar sekte tersebut</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiDeng" sParam="Building">
+			<ThingName>Lampu ibadah</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiQi" sParam="Building">
+			<ThingName>Bendera Dewi Bumi</ThingName>
+		</Text>
+		<Text Name="Building_DiMuMiXue" sParam="Building">
+			<ThingName>Istana Dewi Bumi</ThingName>
+		</Text>
+		<Text Name="Building_QiShaJianZhu" sParam="Building">
+			<ThingName>Tiang pedang</ThingName>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
+			<ThingName>naga iblis</ThingName>
+		</Text>
+		<Text Name="Building_XiongKuiDeng" sParam="Building">
+			<ThingName>lampu boneka setan</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShaZhang1" sParam="Building">
+			<ThingName>Tirai sutra</ThingName>
+		</Text>
+		<Text Name="Building_ShaZhang2" sParam="Building">
+			<ThingName>Tirai sutra</ThingName>
+		</Text>
+		<Text Name="Building_QingShaDeng" sParam="Building">
+			<ThingName>lampu sutra biru</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu" sParam="Building">
+			<ThingName>Angsa Menyala Musim Dingin</ThingName>
+		</Text>
+		<Text Name="Building_DiMuKuiShou" sParam="Building">
+			<ThingName>Kepala Phra Mae Thorani</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi" sParam="Building">
+			<ThingName>bendera setan</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi1" sParam="Building">
+			<ThingName>bendera setan</ThingName>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
+			<ThingName>patung cakar</ThingName>
+		</Text>
+		<Text Name="Building_MoWenHuaPing" sParam="Building">
+			<ThingName>Botol Kepala Setan</ThingName>
+		</Text>
+		<Text Name="Building_KuLouHuaPing" sParam="Building">
+			<ThingName>Cabang Setan</ThingName>
+		</Text>
+		<Text Name="Building_XiePingFeng" sParam="Building">
+			<ThingName>Tirai Setan</ThingName>
+		</Text>
+		<Text Name="Building_YaoHuoPen" sParam="Building">
+			<ThingName>Tungku Hewan Tanpa Kepala</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChangMingDeng" sParam="Building">
+			<ThingName>Lampu Pembakaran Setan</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JuXingShouGu" sParam="Building">
+			<ThingName>Patung Setan Raksasa</ThingName>
+		</Text>
+		<Text Name="Building_LongXingYuanPan" sParam="Building">
+			<ThingName>Singgasana Naga Melingkar</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
+			<ThingName>patung yang kejam</ThingName>
+		</Text>
+		<Text Name="Building_YaoShouDing" sParam="Building">
+			<ThingName>Tungku Raja Iblis</ThingName>
+		</Text>
+		<Text Name="Build_WanYaoMen" sParam="Building">
+			<ThingName>Gerbang Sepuluh Ribu Setan</ThingName>
+			<Desc>Gerbang besar sekte tersebut</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TianSheQi" sParam="Building">
+			<ThingName>Bendera ular</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuXingJia" sParam="Building">
+			<ThingName>alas setan</ThingName>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai" sParam="Building">
+			<ThingName>Altar surgawi bergema.</ThingName>
+			<Desc>Sebuah bangunan khusus yang menerima informasi dari seorang pria misterius di celah dunia lain. Ini dapat digunakan untuk berkomunikasi dengan seluruh dunia. Sangat misterius</Desc>
+			<StoryBnts.0.Name>ke dalam</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Memasuki dimensi Altar Surgawi dengan keras</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
+			<ThingName>Altar surgawi bergema.</ThingName>
+			<Desc>Sebuah bangunan khusus yang menerima informasi dari seorang pria misterius di celah dunia lain. Ini dapat digunakan untuk berkomunikasi dengan seluruh dunia. Sangat misterius</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_1" sParam="Building">
+			<ThingName>lampu pintu</ThingName>
+			<Desc>Gerbang indah dihiasi dengan lentera yang akan menyala indah di malam hari</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_2" sParam="Building">
+			<ThingName>lentera keberuntungan</ThingName>
+			<Desc>Penerangan yang melambangkan musim semi membawa berkah keberuntungan.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_3" sParam="Building">
+			<ThingName>lampu teratai</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi membawa berkah bagi pertemuan keluarga.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_4" sParam="Building">
+			<ThingName>lentera teratai</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi dipenuhi dengan berkah bagi keharmonisan.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_5" sParam="Building">
+			<ThingName>lentera fajar</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi membawa berkah untuk merevitalisasi kehidupan.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_6" sParam="Building">
+			<ThingName>lentera singa merah</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi dipenuhi dengan berkah untuk mengusir kejahatan.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_7" sParam="Building">
+			<ThingName>Lentera menyembunyikan bunga</ThingName>
+			<Desc>Penerangan yang melambangkan musim semi</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_8" sParam="Building">
+			<ThingName>Lentera salju murni</ThingName>
+			<Desc>Penerangan yang melambangkan musim semi</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_9" sParam="Building">
+			<ThingName>Lampu Naga Langit</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi membawa berkah dalam merayakan tahun baru.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_10" sParam="Building">
+			<ThingName>lampu naga bumi</ThingName>
+			<Desc>Iluminasi yang melambangkan musim semi membawa berkah bagi perubahan besar di tahun baru.</Desc>
+		</Text>
+	</List>
+</Texts>
