@@ -1,0 +1,16 @@
+<Texts Type="Lainnya">
+	<List>
+		<Text Name="Lv0">
+			<DisplayName>Mudah</DisplayName>
+			<Desc>Level Pemula: Dalam kesulitan ini, Anda dapat berkultivasi semudah berjalan di atas angin. Hal-hal duniawi tidak akan mengganggu jalanmu. Selain itu, kecepatan bekerja dan bercocok tanam telah meningkat pesat. Tidak ada invasi musuh. Tidak ada kondisi cuaca ekstrim, mudah dimainkan</Desc>
+		</Text>
+		<Text Name="Lv1">
+			<DisplayName>Normal</DisplayName>
+			<Desc>Level Normal: Kesulitan tradisional. Cocok untuk pemain yang sudah mempunyai pengetahuan tentang game ini. Peristiwa akan terjadi seperti biasa. Kecepatan kerja dan budidaya sesuai standar.</Desc>
+		</Text>
+		<Text Name="Lv2">
+			<DisplayName>Filsuf</DisplayName>
+			<Desc>Level Sage: Tingkat Kesulitan Tinggi Cocok untuk pemain yang familiar dengan game ini. Anda dapat menantang diri sendiri dalam mode ahli. yang mencakup pengalaman bermain penuh. Mode ahli menguji keterampilan Anda secara maksimal. dan cocok untuk mereka yang benar-benar ahli. Beberapa pencapaian hanya dapat diselesaikan dalam Mode Pakar.</Desc>
+		</Text>
+	</List>
+</Texts>
