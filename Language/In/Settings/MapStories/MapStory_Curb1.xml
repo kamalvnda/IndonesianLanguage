@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildCurb1">
+			<DisplayName>terhambat</DisplayName>
+			<Desc>Saat keajaiban sedang dibangun Beberapa orang mengkritik Feng Shui di sini.</Desc>
+			<Selections.0.Display>pukul mereka</Selections.0.Display>
+			<Selections.1.Display>Diskusikan Feng Shui dengan mereka.</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb2">
+			<DisplayName>terhambat</DisplayName>
+			<Desc>Saat keajaiban sedang dibangun Beberapa orang datang dan bertanya apa yang sedang mereka lakukan.</Desc>
+			<Selections.0.Display>abaikan mereka</Selections.0.Display>
+			<Selections.1.Display>Jelaskan apa yang Anda lakukan.</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb3">
+			<DisplayName>terhambat</DisplayName>
+			<Desc>Saat keajaiban sedang dibangun Beberapa orang datang untuk membagikan hadiah.</Desc>
+			<Selections.0.Display>Suruh mereka datang di lain hari.</Selections.0.Display>
+			<Selections.1.Display>Dapatkan hadiah</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
