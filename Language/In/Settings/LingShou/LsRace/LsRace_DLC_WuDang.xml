@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<PossibleMagic.0.DisplayName>halus</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Penyu hitam menyerap nutrisi dengan sangat efisien. dan mengubah kotoran menjadi batu roh.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>nafas damai</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Digunakan pada karakter sekutu untuk menyelamatkan mereka dari keharusan makan atau minum air. Atau tidur selama 3 hari. Kelemahannya adalah pergerakannya lebih lambat.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Bang surga</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Menunda penalti transfigurasi sekutu sebagai imbalan atas umur mereka.\n[color=#FF0000]Membutuhkan 50 Poin Roh untuk digunakan.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>tanah alami</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Ubah suatu area menjadi tanah roh menggunakan pertumbuhan dan nutrisinya sendiri. Namun, air di dekatnya akan berubah menjadi air normal.\n[color=#FF0000]Membutuhkan 100 energi untuk digunakan.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan berkat tingkat rendah[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan kutukan tingkat rendah[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Butuh berkah tingkat menengah[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Membutuhkan kutukan tingkat menengah[/color]</PossibleSkill.3.Desc>
+			<PossibleSkill.4.Desc>[color=#FF0000]Ingin keberkahan tingkat tinggi[/color]</PossibleSkill.4.Desc>
+			<PossibleSkill.5.Desc>[color=#FF0000]Membutuhkan kutukan tingkat tinggi[/color]</PossibleSkill.5.Desc>
+		</Text>
+	</List>
+</Texts>
