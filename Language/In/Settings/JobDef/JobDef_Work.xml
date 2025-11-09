@@ -1,0 +1,91 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobMine">
+      <DisplayName>Pertambangan</DisplayName>
+    </Text>
+    <Text Name="JobCarry">
+      <DisplayName>mengangkut</DisplayName>
+    </Text>
+    <Text Name="JobBuild">
+      <DisplayName>Bangunan</DisplayName>
+    </Text>
+    <Text Name="JobFixBuilding">
+      <DisplayName>Memperbaiki</DisplayName>
+    </Text>
+    <Text Name="JobMoveBuilding">
+      <DisplayName>Memindahkan konstruksi</DisplayName>
+    </Text>
+    <Text Name="JobSetupBuilding">
+      <DisplayName>Memasang konstruksi</DisplayName>
+    </Text>
+    <Text Name="JobPlant">
+      <DisplayName>Penanaman</DisplayName>
+    </Text>
+    <Text Name="JobOutFire">
+      <DisplayName>Memadamkan api</DisplayName>
+    </Text>
+    <Text Name="JobHarvest">
+      <DisplayName>Pemanenan</DisplayName>
+    </Text>
+    <Text Name="JobCutoff">
+      <DisplayName>Kliring</DisplayName>
+    </Text>
+    <Text Name="JobCutoffTree">
+      <DisplayName>Memotong pohon</DisplayName>
+    </Text>
+    <Text Name="JobSeachItem">
+      <DisplayName>Mencari</DisplayName>
+    </Text>
+    <Text Name="JobSeachNpc">
+      <DisplayName>Mencari</DisplayName>
+    </Text>
+    <Text Name="JobCarryOut">
+      <DisplayName>Mengangkut(?)</DisplayName>
+    </Text>
+    <Text Name="JobDismantle">
+      <DisplayName>Pembongkaran</DisplayName>
+    </Text>
+    <Text Name="JobMakeItem">
+      <DisplayName>kerajinan</DisplayName>
+    </Text>
+    <Text Name="JobRemoveFloor">
+      <DisplayName>Menghapus lantai</DisplayName>
+    </Text>
+    <Text Name="JobTreatHim">
+      <DisplayName>Mengobati orang</DisplayName>
+    </Text>
+    <Text Name="JobCarryToBed">
+      <DisplayName>Membawa orang</DisplayName>
+    </Text>
+    <Text Name="JobFeedHim">
+      <DisplayName>Memberi makan orang</DisplayName>
+    </Text>
+    <Text Name="JobCarryWater">
+      <DisplayName>Membawa air</DisplayName>
+    </Text>
+    <Text Name="JobExplore">
+      <DisplayName>Menjelajahi</DisplayName>
+    </Text>
+    <Text Name="JobBuryHim">
+      <DisplayName>Mengubur</DisplayName>
+    </Text>
+    <Text Name="JobHunting">
+      <DisplayName>Memburu</DisplayName>
+    </Text>
+    <Text Name="JobSlaughter">
+      <DisplayName>Menyembelih</DisplayName>
+    </Text>
+    <Text Name="JobKill">
+      <DisplayName>Pembunuhan</DisplayName>
+    </Text>
+    <Text Name="JobMoveNpc">
+      <DisplayName>Orang yang bergerak</DisplayName>
+    </Text>
+    <Text Name="JobCleanFloor">
+      <DisplayName>Pembersihan</DisplayName>
+    </Text>
+    <Text Name="JobSacrifice">
+      <DisplayName>Pengorbanan</DisplayName>
+    </Text>
+  </List>
+</Texts>
