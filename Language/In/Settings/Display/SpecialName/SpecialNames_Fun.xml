@@ -1,0 +1,55 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_FunPainting">
+		<None>
+			<li Name="Gong Le Tu" Desc=""/>
+			<li Name="Peta perjalanan Xishan" Desc=""/>
+			<li Name="Gambar awal musim semi" Desc=""/>
+			<li Name="Gambar burung duri ayam hutan gunung" Desc=""/>
+			<li Name="gambaran kebahagiaan ganda" Desc=""/>
+			<li Name="Wanhe Songfeng" Desc=""/>
+			<li Name="Diagram pinus ganda" Desc=""/>
+		</None>	
+	</SpecialItem>
+	
+	<SpecialItem Name="Item_FunMusic">
+		<None>
+			<li Name="Pegunungan dan air mengalir" Desc=""/>
+			<li Name="Guangling San" Desc=""/>
+			<li Name="Tanya Jawab tentang nelayan dan penebang kayu" Desc=""/>
+			<li Name="Hujia delapan belas ketukan" Desc=""/>
+			<li Name="Musim semi dan salju" Desc=""/>
+			<li Name="Pingsha Luoyan" Desc=""/>
+			<li Name="Seruling dan drum saat matahari terbenam" Desc=""/>
+			<li Name="Rumah Belati Terbang" Desc=""/>
+			<li Name="Bulan Musim Gugur di Istana Han" Desc=""/>
+			<li Name="Tiga Gang Bunga Plum" Desc=""/>
+		</None>	
+	</SpecialItem>
+	
+	<SpecialItem Name="Item_FunChess">
+		<None>
+			<li Name="Spektrum hematemesis" Desc=""/>
+			<li Name="Deng Ai membuka Shu" Desc=""/>
+			<li Name="Zhen Shen Tou" Desc=""/>
+			<li Name="Paviliun Yunqi Chengxia" Desc=""/>
+			<li Name="Dongting Bulan Musim Gugur" Desc=""/>
+			<li Name="Langkah demi langkah" Desc=""/>
+			<li Name="Samsung di awan" Desc=""/>
+			<li Name="Paviliun Harta Karun Seribu Lapisan" Desc=""/>
+			<li Name="Naga putih keluar dari air" Desc=""/>
+			<li Name="Delapan Orang Suci Menangkap Setan" Desc=""/>
+			<li Name="Gambar Umur Panjang" Desc=""/>
+			<li Name="Bagan keabadian" Desc=""/>
+			<li Name="Jin Mingtu" Desc=""/>
+			<li Name="Gambar Berkat Tuhan" Desc=""/>
+			<li Name="Gambar yang sangat jernih" Desc=""/>
+			<li Name="Tianqingtu" Desc=""/>
+			<li Name="Qiong Lintu" Desc=""/>
+			<li Name="Gambar Liquan" Desc=""/>
+			<li Name="Peta kesetiaan" Desc=""/>
+			<li Name="Bertemu dengan Dewa" Desc=""/>
+		</None>	
+	</SpecialItem>
+</List>
+</SpecialNames>
