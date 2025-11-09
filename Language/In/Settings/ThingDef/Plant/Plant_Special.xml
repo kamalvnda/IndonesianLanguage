@@ -1,0 +1,26 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Ginseng" sParam="Plant">
+			<ThingName>Ginseng</ThingName>
+			<Desc>Bahan obat langka Ia memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi secara signifikan bagi mereka yang baru mulai berkultivasi. Tumbuh pada suhu antara[temperature]-30[/temperature]ke[temperature]40[/temperature]dan hanya akan tumbuh di tempat dengan Qi yang padat.</Desc>
+		</Text>
+		<Text Name="GanodermaLucidum" sParam="Plant">
+			<ThingName>jamur reishi</ThingName>
+			<Desc>Bahan obat langka Ia memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi secara signifikan bagi mereka yang baru mulai berkultivasi. Tumbuh pada suhu antara[temperature]10[/temperature]ke[temperature]40[/temperature]dan hanya akan tumbuh di tempat dengan Qi yang padat.</Desc>
+		</Text>
+		<Text Name="Mint" sParam="Plant">
+			<ThingName>Rumput Krachajit</ThingName>
+			<Desc>Bahan dengan khasiat obat umum. Memiliki efek mendinginkan yang memberikan efek relaksasi dan menenangkan. Tumbuh pada suhu antara[temperature]-30[/temperature]ke[temperature]40[/temperature]dan hanya akan tumbuh di tempat dengan Qi yang padat.</Desc>
+		</Text>
+		<Text Name="MagicHerb" sParam="Plant">
+			<ThingName>Rumput Roh</ThingName>
+			<Desc>Jamu yang mengandung energi spiritual dinilai cukup sulit ditemukan. Tumbuh pada suhu antara[temperature]-30[/temperature]ke[temperature]40[/temperature]dan hanya akan tumbuh di tempat dengan Qi yang padat. Spirit Grass tumbuh hampir di mana-mana di puncak Medicine Mountain yang terletak di Central Plains.</Desc>
+		</Text>
+		<Text Name="WarmHerb" sParam="Plant">
+			<ThingName>Cacing Salju Api</ThingName>
+			<Desc>Herbal dengan berbagai karakteristik Hanya tumbuh di musim dingin dan musim panas. Ia memiliki nama lain di kalangan penduduk desa, yaitu “rumput variabel”. Saat dimakan, untuk sementara dapat meningkatkan kemampuan beradaptasi dengan lingkungan yang keras.</Desc>
+			<StoryBnts.0.Name>mengumpulkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah memanen dengan mantra.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
