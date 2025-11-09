@@ -1,0 +1,658 @@
+<Spells><List>	
+
+	<Spell Name="Spell_SYSLOST">
+		<DisplayName>Modul hilang</DisplayName>
+		<Desc>Barang yang hilang, tidak ada yang tahu ini. \n(modul hilang).</Desc>
+		<UnLock>0</UnLock>
+	</Spell>
+	
+	
+	<Spell Name="Spell_MoveSpeed1">
+		<DisplayName>pesona tubuh yang ringan</DisplayName>
+		<Desc>Mantra yang meningkatkan kecepatan gerakan.</Desc>
+		<Template>Spell/main_texture_qingshen01</Template>
+		<Effects>
+			<li Name="MoveSpeed" AddP="0.3"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_TempLow1">
+		<DisplayName>jimat dingin</DisplayName>
+		<Desc>Mantra yang meningkatkan ketahanan terhadap dingin.</Desc>
+		<Template>Spell/main_texture_bihan01</Template>
+		<Effects>
+			<li Name="ComfyTMin" AddV="-8"/>
+			<li Name="ToleranceTMin" AddV="-8"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_TempHigh1">
+		<DisplayName>Pesona musim panas</DisplayName>
+		<Desc>Pesona yang meningkatkan ketahanan terhadap panas.</Desc>
+		<Template>Spell/main_texture_bishu01</Template>
+		<Effects>
+			<li Name="ComfyTMax" AddV="12"/>
+			<li Name="ToleranceTMax" AddV="12"/>
+		</Effects>
+	</Spell>
+	
+	
+	
+	<!--中级符咒-->
+	
+	<Spell Name="Spell_ReadNovel">
+		<DisplayName>Jimat Aneh</DisplayName>
+		<Desc>Jimat aneh ini diturunkan dari suatu tempat. Cara menggambarnya sangat sederhana, namun khasiatnya sangat ajaib, dan beredar luas di dunia spiritual. Selama pemakainya berkonsentrasi pada pesonanya, dia bisa mendapatkan banyak cerita indah, bersantai dan menyesuaikan suasana hatinya. Hanya saja Anda mau tidak mau menurutinya, yang sangat mempengaruhi efisiensi kerja dan kecepatan latihan Anda.</Desc>
+		<Template>Spell/main_texture_Webnovel</Template>
+		<UnLock>1</UnLock>
+		<Effects>
+			<li Name="BaseEmotionAddV" AddV="35"/>
+			<li Name="MindStateBaseValue" AddV="15"/>
+			<li Name="GlobalEfficiency" AddP="-0.4"/>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="-0.4"/>
+		</Effects>
+	</Spell>
+	
+	
+	<Spell Name="Spell_MoveSpeed2">
+		<DisplayName>jimat ajaib</DisplayName>
+		<Desc>Mantra yang dapat meningkatkan kecepatan gerakan juga dapat meningkatkan kecepatan selama latihan.</Desc>
+		<Template>Spell/main_texture_shenxing01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MoveSpeed" AddP="0.6"/>
+			<li Name="WorldMapFlySpeedAddP" AddV="0.6"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_RecoveryPower">
+		<DisplayName>Jimat Apoteker Penyembuhan Penyakit</DisplayName>
+		<Desc>Pesona yang meningkatkan ketahanan alami tubuh.</Desc>
+		<Template>Spell/main_texture_qubing01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="RecoveryPower" AddP="0.3"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_VisionRadius">
+		<DisplayName>Jimat Penglihatan Seribu Mil</DisplayName>
+		<Desc>Ini dapat meningkatkan bidang pandang dan meningkatkan kecepatan menemukan tempat baru selama pelatihan.</Desc>
+		<Template>Spell/main_texture_shenshi01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="VisionRadius" AddP="0.3"/>
+			<li Name="ExperienceFindSpeedAddV" AddV="0.5"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Fatigue">
+		<DisplayName>Jimat Zhou Gongdi</DisplayName>
+		<Desc>Ini dapat meningkatkan kualitas tidur dan membuat orang tidak terlalu lelah.</Desc>
+		<Template>Spell/main_texture_dishen01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="FatigueConsumeConstant" AddP="-0.3"/>
+			<li Name="FatigueRecoveryConstant" AddP="0.3"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Nutrition">
+		<DisplayName>Jimat minum</DisplayName>
+		<Desc>Meningkatkan efisiensi minum gas untuk mencegah biji-bijian.</Desc>
+		<Template>Spell/main_texture_yinqi01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NutritionWaterAutoRecover" AddV="0.05"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Nutrition1">
+		<DisplayName>Jimat Bigu</DisplayName>
+		<Desc>Mengurangi tingkat konsumsi makanan.</Desc>
+		<Template>Spell/main_texture_pigu01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NutritionConsumeConstant" AddP="-0.5"/>
+			<li Name="WaterConsumeConstant" AddP="-0.5"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Hide">
+		<DisplayName>anonimitas</DisplayName>
+		<Desc>Anda dapat menyembunyikan aura Anda sampai batas tertentu, sehingga kecil kemungkinannya untuk dikenali saat Anda keluar untuk berlatih, sehingga mengurangi kemungkinan mendapatkan reputasi.</Desc>
+		<Template>Spell/main_texture_nixifu01</Template>
+		<UnLock>1</UnLock>
+		<Effects>
+			<li Name="ExperiencePrestigeAddP" AddV="-0.4"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Happy">
+		<DisplayName>Not musik yang panjang</DisplayName>
+		<Desc>Ini sedikit meningkatkan mood masyarakat dan mengurangi tingkat penurunan nilai hiburan.</Desc>
+		<Template>Spell/main_texture_changle01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="HappyConsumeConstant" AddP="-0.3"/>
+			<li Name="BaseEmotionAddV" AddV="10"/>
+		</Effects>
+	</Spell>
+
+	<Spell Name="Spell_LunHui_ShenShen">
+		<DisplayName>Shen Shenfu</DisplayName>
+		<Desc>Mantra yang memadukan kekuatan doa dapat membuat orang merasa lebih baik dan menstabilkan suasana hati.</Desc>
+		<Template>Spell/main_texture_happy01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="HappyConsumeConstant" AddP="-0.3"/>
+			<li Name="BaseEmotionAddV" AddV="15"/>
+			<li Name="MindStateBaseValue" AddV="5"/>
+		</Effects>
+	</Spell>
+	<!--高级符咒-->
+	
+	<Spell Name="Spell_TempLow2">
+		<DisplayName>Jimat Matahari</DisplayName>
+		<Desc>Mantra yang sangat meningkatkan ketahanan terhadap dingin.</Desc>
+		<Template>Spell/main_texture_taiyang01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="ComfyTMin" AddV="-20"/>
+			<li Name="ToleranceTMin" AddV="-20"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_TempHigh2">
+		<DisplayName>Jimat Taiyin</DisplayName>
+		<Desc>Mantra yang sangat meningkatkan ketahanan terhadap panas.</Desc>
+		<Template>Spell/main_texture_taiyin01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="ComfyTMax" AddV="80"/>
+			<li Name="ToleranceTMax" AddV="80"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Intelligence">
+		<DisplayName>Wen Chang Fu</DisplayName>
+		<Desc>Jernihkan pikiran Anda dan tingkatkan kemampuan belajar Anda.</Desc>
+		<Template>Spell/main_texture_wenchang01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="IntelligenceSkillEXPConstant" AddP="0.15"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Fight">
+		<DisplayName>Wuchangfu</DisplayName>
+		<Desc>Meningkatkan kemampuan bertarung dan meningkatkan toleransi rasa sakit.</Desc>
+		<Template>Spell/main_texture_wufang01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_BaseHitChance" AddV="0.4"/>
+			<li Name="NpcFight_BaseDodgeChance" AddV="0.2"/>
+			<li Name="PainTolerance" AddP="0.5"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_GlobalEfficiency">
+		<DisplayName>Jimat Ketekunan Ilahi</DisplayName>
+		<Desc>Jadikan tangan dan kaki Anda lebih sensitif dan tingkatkan efisiensi kerja Anda.</Desc>
+		<Template>Spell/main_texture_shenqin01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="GlobalEfficiency" AddP="0.4"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_MadeQualityAddValue">
+		<DisplayName>Jimat Tiangong</DisplayName>
+		<Desc>Tingkatkan kualitas produk Anda.</Desc>
+		<Template>Spell/main_texture_tiangong01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MadeQualityAddValue" AddV="0.02"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Yield">
+		<DisplayName>pesona kesuburan</DisplayName>
+		<Desc>Peningkatan hasil selama berburu, menanam dan memanen.</Desc>
+		<Template>Spell/main_texture_fengrao01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="PlantHarvestYieldEfficiency" AddP="0.5"/>
+			<li Name="ButcherYieldEfficiency" AddP="0.5"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Treatment">
+		<DisplayName>Jimat Raja Pengobatan</DisplayName>
+		<Desc>Meningkatkan tingkat keberhasilan dan kemanjuran pengobatan.</Desc>
+		<Template>Spell/main_texture_yaowang01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="TreatmentExpectQuality" AddP="0.5"/>
+			<li Name="TreatSuccessChance" AddP="0.5"/>
+		</Effects>
+	</Spell>
+	
+	<!--特级符咒-->
+	<Spell Name="Spell_MindState1">
+		<DisplayName>Jimat Ningxin</DisplayName>
+		<Desc>Mantra yang bisa sedikit meningkatkan mood Anda.</Desc>
+		<Template>Spell/main_texture_ningxin01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MindStateBaseValue" AddV="5"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+		<DisplayName>Jimat Tianxin</DisplayName>
+		<Desc>Dapat sedikit meningkatkan kecepatan latihan.</Desc>
+		<Template>Spell/main_texture_tianxin01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0.2"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_MindState2">
+		<DisplayName>Jimat Gua</DisplayName>
+		<Desc>Pesona yang dapat meningkatkan mood Anda.</Desc>
+		<Template>Spell/main_texture_dongshen01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MindStateBaseValue" AddV="12"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_MindState2_LunHui">
+		<DisplayName>Jimat Gua Tiantong</DisplayName>
+		<Desc>Jimat yang sudah tidak lagi dicetak ditinggalkan oleh Yuan Ruoxue abadi kuno yang menyempurnakan jimat tiga lubang Tao ribuan tahun yang lalu. \n[color=#D06508]Untuk memperingati pemain pertama dalam game ini yang menggambar mantra kualitas 100: Sebenarnya itu bukan saya[/color]</Desc>
+		<Template/>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MindStateBaseValue" AddV="15"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_SpeedOfMindStateCoefficientByMoods">
+		<DisplayName>Jimat Dong Zhen</DisplayName>
+		<Desc>Hal ini dapat meningkatkan kemungkinan untuk menembus kemacetan.</Desc>
+		<Template>Spell/main_texture_dongzhen01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="PracticeRateAddPFromDan" AddP="0.2"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+		<DisplayName>Jimat Dong Xuan</DisplayName>
+		<Desc>Dapat meningkatkan kecepatan latihan.</Desc>
+		<Template>Spell/main_texture_dongxuan01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="0.35"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_WorldMapFlySpeed">
+		<DisplayName>Jimat Pelarian Bayangan</DisplayName>
+		<Desc>Itu dapat meningkatkan kecepatan terbang dari kendali pedang jarak jauh.</Desc>
+		<Template>Spell/main_texture_fenying01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_FabaoMake_SuccessRateAddV">
+		<DisplayName>Jimat Taishang Tongbao</DisplayName>
+		<Desc>Mantra yang dapat meningkatkan tingkat keberhasilan pemurnian senjata sihir.</Desc>
+		<Template>Spell/main_texture_taishang01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="FabaoMake_SuccessRateAddV" AddV="0.15"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_FabaoMake_LingInheritRateAddV">
+		<DisplayName>Jimat harta spiritual lima arah</DisplayName>
+		<Desc>Ini dapat sedikit meningkatkan kualitas senjata sihir pemurnian.</Desc>
+		<Template>Spell/main_texture_wuli01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="0.15"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_DanMake_SuccessRateAddV">
+		<DisplayName>Jimat Tushita</DisplayName>
+		<Desc>Ini dapat meningkatkan tingkat keberhasilan pemurnian ramuan.</Desc>
+		<Template>Spell/main_texture_doulv01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="DanMake_SuccessRateAddV" AddV="0.15"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_DanMake_YieldAddP">
+		<DisplayName>Jimat Wanhua Chengdan</DisplayName>
+		<Desc>Dapat sedikit meningkatkan hasil ramuan halus.</Desc>
+		<Template>Spell/main_texture_wanhua01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="DanMake_YieldAddP" AddV="0.2"/>
+		</Effects>
+	</Spell>
+	
+	
+	<Spell Name="Spell_Fu">
+		<DisplayName>Ribuan berkah</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan mood dan keadaan pikiran mereka, dan semuanya berjalan dengan baik. Saya mengucapkan selamat tahun baru kepada Anda semua dan semoga sukses!</Desc>
+		<Template>Spell/main_texture_fu01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="BaseEmotionAddV" AddV="9"/>
+			<li Name="MindStateBaseValue" AddV="9"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Lu">
+		<DisplayName>Wanlu Tu</DisplayName>
+		<Desc>Pemakainya bisa menjadi ringan dan sehat, dan memperoleh hasil panen dua kali lebih banyak. Saya mengucapkan selamat tahun baru kepada Anda semua dan semoga sukses!</Desc>
+		<Template>Spell/main_texture_lu01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="PlantHarvestYieldEfficiency" AddP="0.4"/>
+			<li Name="ButcherYieldEfficiency" AddP="0.4"/>
+			<li Name="MoveSpeed" AddP="0.4"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_Shou">
+		<DisplayName>Gambar Umur Panjang</DisplayName>
+		<Desc>Pemakainya dapat menambah umur panjang dan terhindar dari penyakit. Saya mengucapkan selamat tahun baru kepada Anda semua dan semoga sukses!</Desc>
+		<Template>Spell/main_texture_shou01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="MaxAge" AddV="10"/>
+			<li Name="RecoveryPower" AddP="0.2"/>
+		</Effects>
+	</Spell>
+	
+	<!--新增符咒-->
+	
+	
+	<Spell Name="Spell_Shield1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Xuanjia</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan kekuatan perlindungan tubuh.</Desc>
+		<Template>Spell/main_texture_xuanjia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldConversionRate" AddV="0.3"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Shield2">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Tianjia</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan tingkat keterampilan perlindungan tubuh.</Desc>
+		<Template>Spell/main_texture_tianjia01</Template>
+		<UnLock>0</UnLock>
+		<SkillEffects>
+			<li Name="Barrier" LevelOver="1"/>
+		</SkillEffects>
+	</Spell>
+	<Spell Name="Spell_Shield_Jin">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Armor Emas</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan ketahanan terhadap kerusakan logam.</Desc>
+		<Template>Spell/main_texture_jinjia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldResistanceToJin" AddV="0.06"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Shield_Mu">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat baju besi kayu</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan ketahanan terhadap kerusakan kayu.</Desc>
+		<Template>Spell/main_texture_mujia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldResistanceToMu" AddV="0.06"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Shield_Shui">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat pelindung air</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan ketahanan terhadap kerusakan air.</Desc>
+		<Template>Spell/main_texture_shuijia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldResistanceToShui" AddV="0.06"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Shield_Huo">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Armor Api</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan ketahanan terhadap kerusakan akibat kebakaran.</Desc>
+		<Template>Spell/main_texture_huojia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldResistanceToHuo" AddV="0.06"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_Shield_Tu">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Pelindung Bumi</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan ketahanan terhadap kerusakan bumi.</Desc>
+		<Template>Spell/main_texture_tujia01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_ShieldResistanceToTu" AddV="0.06"/>
+		</Effects>
+	</Spell>
+	
+	
+	<Spell Name="Spell_FaBao1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat pedang</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan kekuatan senjata ajaib tersebut.</Desc>
+		<Template>Spell/main_texture_lijianfu01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="5"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_FaBao2">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Pedang Ilahi</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan tingkat keterampilan senjatanya.</Desc>
+		<Template>Spell/main_texture_shenjianfu01</Template>
+		<UnLock>0</UnLock>
+		<SkillEffects>
+			<li Name="Fabao" LevelOver="1"/>
+		</SkillEffects>
+	</Spell>
+	
+	<Spell Name="Spell_FaBao3">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Pedang Roh</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan tingkat pemulihan senjata ajaib.</Desc>
+		<Template>Spell/main_texture_lingjian01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_FabaoLingRecoverK" AddV="1"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_FaBao4">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Pedang Suci</DisplayName>
+		<Desc>Pemakainya secara mendasar dapat meningkatkan kekuatan senjata ajaib dan meningkatkan kemampuan senjata ajaib secara komprehensif.</Desc>
+		<Template>Spell/main_texture_shengjian01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.05"/>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddP="0.5"/>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddP="0.5"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="0.3"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="0.3"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddP="2"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_FightSkill1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Mantra yang kuat</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan kekuatan mantra.</Desc>
+		<Template>Spell/main_texture_lizhoufu01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_SpellPowerAddP" AddP="5"/>
+			<li Name="NpcFight_SpellLingCostAddP" AddP="5"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_FightSkill2">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan level skill mantranya.</Desc>
+		<Template>Spell/main_texture_shenzhou01</Template>
+		<UnLock>0</UnLock>
+		<SkillEffects>
+			<li Name="FightSkill" LevelOver="1"/>
+		</SkillEffects>
+	</Spell>
+	<Spell Name="Spell_FightSkill3">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat</DisplayName>
+		<Desc>Pemakainya secara mendasar dapat mengurangi konsumsi aura mantra dan keterampilan.</Desc>
+		<Template>Spell/main_texture_lingzhou01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_SpellLingCostAddP" BAddP="-0.1"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_FightSkill4">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>pesona suci</DisplayName>
+		<Desc>Pemakainya secara mendasar dapat meningkatkan kekuatan mantra dan konsumsi aura mantra.</Desc>
+		<Template>Spell/main_texture_shengzhou01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="NpcFight_SpellPowerAddP" BAddP="0.1"/>
+			<li Name="NpcFight_SpellLingCostAddP" BAddP="0.1"/>
+		</Effects>
+	</Spell>
+	
+	
+	<Spell Name="Spell_TongTian1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Babel</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan dimensi kelima.</Desc>
+		<Template>Spell/main_texture_tongtian</Template>
+		<UnLock>0</UnLock>
+		<BaseFive>1,1,1,1,1</BaseFive>
+	</Spell>
+	
+	<Spell Name="Spell_TongTian2">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>jimat pelindung langit</DisplayName>
+		<Desc>Pemakainya dapat menurunkan tingkat Taoisme.</Desc>
+		<Template>Spell/main_texture_zhetian01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="AbilityLvAddV" AddV="-10"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_TongTian3">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat potensial yang sebenarnya</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan potensinya.</Desc>
+		<Template>Spell/main_texture_zhenqian01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="PotentialOfBasepracticeAddValue" AddV="1"/>
+		</Effects>
+	</Spell>
+	
+	
+	<Spell Name="Spell_JieTian1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Simbol pinjaman</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan perilaku spiritualnya.</Desc>
+		<Template>Spell/main_texture_jietian01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="AbilityLvAddV" AddV="50"/>
+		</Effects>
+	</Spell>
+	
+	
+	
+	<Spell Name="Spell_GodPractice1">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Ilahi</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan batas atas umat dewa.</Desc>
+		<Template>Spell/main_texture_shenju01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="GodCity_MaxResident" AddV="50000"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_GodPractice2">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Rohani</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan keimanan terhadap Kerajaan Allah dan memperoleh bonus.</Desc>
+		<Template>Spell/main_texture_shengan01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="GodCity_PracticeEffect" AddV="0.3"/>
+		</Effects>
+	</Spell>
+	
+	<Spell Name="Spell_GodPractice3">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Kekuatan Ilahi</DisplayName>
+		<Desc>Pemakainya dapat meningkatkan keilahian.</Desc>
+		<Template>Spell/main_texture_shenwei01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="GodPractice_GodPowerAddV" AddV="9"/>
+		</Effects>
+	</Spell>
+	<Spell Name="Spell_GodPractice4">
+		<FromDLC>MiFaXuanZhang</FromDLC>
+		<HideNotInstall>1</HideNotInstall>
+		<DisplayName>Jimat Ilahi</DisplayName>
+		<Desc>Pemakainya dapat mengurangi keilahiannya.</Desc>
+		<Template>Spell/main_texture_shenyin01</Template>
+		<UnLock>0</UnLock>
+		<Effects>
+			<li Name="GodPractice_GodPowerAddV" AddV="-3"/>
+		</Effects>
+	</Spell>
+</List>	</Spells>
