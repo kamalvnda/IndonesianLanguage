@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponDaoSword">
+			<List.0.Name>Pedang Tao</List.0.Name>
+			<List.0.Desc>Senjata dengan keahlian yang sangat indah. Ditempa oleh darah, keringat, dan air mata sang pencipta.</List.0.Desc>
+		</Text>
+		<Text Name="Item_WeaponFuChen">
+			<List.0.Name>Cambuk membalik awan</List.0.Name>
+			<List.0.Desc>Senjata dengan keahlian yang sangat indah. Ditempa oleh darah, keringat, dan air mata sang pencipta.</List.0.Desc>
+		</Text>
+	</List>
+</Texts>
