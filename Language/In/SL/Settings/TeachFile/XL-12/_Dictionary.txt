@@ -1,0 +1,353 @@
+祝贺	Congrats!
+仓库	Storage
+房间	Room
+蓝布休闲衣衫	Blue Fabric Casual Shirt
+野猪皮休闲下裳	Casual Pants
+紫布修行衣衫	Purple Fabric Sect Uniform
+野猪皮修行下裳	Boar Hide Cultivator Pants
+肉干	Dried Meat
+花布薄衣衫	Patterned Fabric Thin Shirt
+狼皮修行下裳	Wolf Hide Cultivator Pants
+寒晶锤	Ice Crystal Mace
+可以提高突破瓶颈的概率。	Used to raise the chance of breakthrough.
+洞真符	Truth Comprehension
+寒精锭	Ice Essence Bar
+癸水屠神镇	Equable God Slaughtering  Boulder
+鱼肉	Fish
+镇岳饮血陀	Hill Fall Blood Draining  Tablecloth
+石髓	Stone Essence
+合天石	Heavenly Merger  Boulder
+灵石墙	Spirit Stone Wall
+灵石门	Spirit Stone Door
+灵石床	Spirit Stone Bed
+灵石灯笼	Spirit Stone Lantern
+灵石丹炉	Spirit Stone Alchemy Furnace
+公兔子	Male Rabbit
+雌龟	Female Turtle
+雄龟	Male Turtle
+雌青蛙	Female Frog
+雄青蛙	Male Frog
+<font color=MYCOLOR>Zhong Lishu</font><font color=OBJCOLOR>Feels Good</font>, and <font color=OBJCOLOR>Watch the sky.</font>	
+1天 12:15	1d 12:15
+钟离	Zhongli
+舒	Shu
+惊魂初定	Soul-Shock Initial Calm
+建立门派	Establish a Sect
+和	He
+慕容	Murong
+碧彤	Bitong
+掌门	Sect Leader
+<font color=MYCOLOR>田纨</font>很喜欢<font color=OBJCOLOR>晴天</font>。	<font color=MYCOLOR>田婉</font>喜欢<font color=OBJCOLOR>晴天</font>
+1天 09:56	1d 09:56
+田	Tian
+纨	Wan
+博	Bo
+冯	Feng
+亦云	Yiyun
+支	Zhi
+飞扬	Feiyang
+福	Fu
+琴袖	Qinxiu
+历练	Adventure
+左丘	Zuoqiu
+寂离	Jili
+钧	Yun
+印	Yin
+平安	Pingan
+鸿煊	Hongxuan
+诸葛	Zhuge
+泰	Tai
+驾山圭	Mountain Raider
+钟离舒	Zhongli Shu
+教学	Teaching
+门	School
+存档写入完成	Game Saved
+钮影感到危险	Niu Ying Senses Danger
+钟离舒筑基成功	Zhong Lishu succeeded in laying foundation.
+田纨筑基成功	Tian Zhi succeeded in laying foundation.
+药物储量不足	Insufficient medicine reserves.
+钟离舒遇到瓶颈	Zhong LiShu reached a limit.
+敌人出现	Enemy Appears
+钟离舒突破瓶颈成功	Zhongli Shu successfully broke through the bottleneck
+衡保：受伤	Heng Bao: hurt.
+天下传闻	World Adventure
+天苍246年 春 第10日	Tiancang Year 246 Spring Day 10
+据传昆仑宫的大能闻蓉在铜陵山出没。	It's said the mighty Wen Rong of Kunlun Palace has been spotted at Tongling Mountain.
+据传正一道的大能花民在铜陵山出没。	It's said the mighty Hua Min of Zhengyi Dao has been spotted at Tongling Mountain.
+据传紫霄宗的大能马刚在南屏村出没。	It's said the mighty Ma Gang of Zixiao Sect has been spotted in Nanping Village.
+索笑霜：受伤	Suo Xiaoshuang: hurt.
+福琴袖：受伤	Fu Qinxiu: hurt.
+化影诀	Shadow Transformation Formula
+太乙不朽神雷	Taiyi Immortal Divine Thunder
+坤元秘要	Earthly Origin Secret
+少量的	Slightly
+千钧	Thousand Jun
+混元式	Hybrid Form
+苍龙迅击密卷	Azure Dragon Swift Strike Scripture
+中量的	Visibly
+微草归祖神功	Tiny Grass Return to Ancestry Divine Art
+甲乙鲸吞秘要	Secret Essentials of Jia-Yi Devouring
+紫云宫神视纪要	Purple Cloud Palace's Divine Vision Summary
+大量的	Greatly
+天妖化血术	Heavenly Demon Blood Transformation
+忘情佛心记	Heartless Buddha Heart Record
+太阴锻体	Lunar Forging Body
+少阴锻体	Body Forging of Lesser Yin
+玄阴锻体	Body Forging of Profound Yin
+瞬形法	Instant Form Method
+九幽炼神	Nine Nethers Spirit Refinement
+太虚神盾	Great Void Divine Shield
+少阴诀	Lesser Yin Formula
+玄阴诀	Profound Yin Formula
+幽狱诀	Nether Prison Technique
+坤元真气	Earthly Origin True Qi
+一剑	One Sword
+秘宝：一剑	Treasure: Single Sword
+神行术	Divine Movement Technique
+九州大法	Nine Provinces Great Method
+辟邪真法	Evil-Warding True Method
+幽剑	Phantom Sword
+地母玄经	Mystic Scripture of Earth Mother
+凝珀诀	Amber Condensation Formula
+摄神御鬼大法	Spirit-Capture Ghost Control Art
+尘暴术	Dust Storm Technique
+玄牝重生法	Mystic Feminine Rebirth Method
+八极炼形诀	Eight Extremities Body Refinement
+灵视神观	Spiritual Vision Divine Observation
+太虚元罡	Great Void Primordial Gang
+瞬霎诀	Instant Flash Technique
+太阴诀	Lunar Formula
+渊狱诀	Abyss Prison Formula
+通幽秘传	Secret Transmission of Nether Passage
+幽淬之法	Ghostly Tempering Technique
+灵淬之法	Spirit Refinement Method
+厚德篇	Virtuous Chapter
+虚空谒神法	Void God-Invoking Method
+坏灭诀	Annihilation Technique
+再造形神之术	Body-Spirit Reformation Art
+天道神丹	Divine Elixir of Heavenly Dao
+天道神器	Divine Artifact of Heavenly Dao
+甲木镇神咒	Jia Mu Spirit-Suppressing Curse
+乙木流光	Yi Wood Flowing Light
+新境天星神雷	New Realm Star Divine Thunder Technique
+御气陨星神雷	Qi Control Meteor Lightning
+归藏秘诀	Returning Secret Art
+崩天秘法	Heaven-Shattering Art
+咒神秘诀	Curse God Secret Art
+急诵要诀	Essential Formula of Rapid Chant
+白帝宫崩天	White Emperor Palace Heaven-Shattering
+乙木咒神卷	Yi Mu Curse God Scroll
+炎神殿归藏卷	Flame Temple's Returning Treasury Scroll
+乙木百炼卷	Yi Wood Hundred Refinements Scroll
+甲木崩天秘诀	Jia Wood (Yang Wood) Heaven-Sundering Secret Art
+神龟纪要	Divine Turtle Compendium
+微草神龟神功	Tiny Grass Divine Turtle Divine Art
+冷月神佑	Cold Moon Divine Blessing
+百草阁通慧典	Hundred Herbs Pavilion Wisdom Canon
+甲乙清心	Heart Cleansing of Jia Yi
+海量的	Massively
+赋灵术	Spirit Infusion Art
+献祭	Sacrifice Offering
+炼制灵晶之术	Spirit Crystal Production Technique
+天魔舞	Heavenly Demon Dance
+百炼诀	Hundred Refinements Formula
+博物志	Naturalist's Journal
+上清真气	Shangqing True Qi
+灵淬法	Spirit Tempering Method
+炼器十要	Ten Essentials of Artifact Refining
+炼制灵石之术	Art of Crafting Spirit Stones
+入定之术	Art of Meditation
+御木诀	Wood Control Formula
+化伤术	Wound Transformation Art
+托体同山诀	Body-Entrusting Mountain Art
+琢玉册	Jade-Carving Manual
+丙丁雷泽火	Fire Thunder Marsh Flame
+神火合一·雷泽	Flame Fusion - Thunder Marsh
+上清先天真焰	Shangqing Primordial True Flame
+神火合一·上清	Divine Fire Unity · Supreme Clarity
+心焰	Heart Flame
+神火合一·心焰	Divine Fire Unity · Heart Flame
+伐毛洗髓之术	Bone Cleansing Technique
+上清秘传造化真解	Shangqing Secret Tradition Creation True Explanation
+紫薇气摄神功	Purple Star Qi Absorption Divine Art
+太上金钟真言	Supreme Golden Bell Incantation
+南海四象咒	Southern Sea Four Symbols Curse
+腾岳清心秘传	Soaring Peak Serenity Secret Art
+麒麟沃野宝册	Kirin's Fertile Land Tome
+镇岳佛心密卷	Secret Scroll of Mountain-Suppressing Buddha Heart
+化形琢玉纲要	Shapeshift Jade-Carving Compendium
+地龙饕餮	Dilong Gluttony
+元坤妙法	Yuan Kun Marvelous Method
+醍醐灌顶之术	Enlightenment Bestowal Technique
+金丹十二都天咒	Golden Core Twelve Stars of Heaven Grand Mantra
+忘情十二都天真言	Twelve Capital Heavenly Mantra of Forgetfulness
+彻法覆灭	Annihilation Through Law
+苍木化影	Azure Wood Transforms Shadows
+迅击十式	Ten Forms of Swift Strike
+迅影密卷	Swift Shadow Secret Scroll
+破灭七式	Seven Annihilation Forms
+合一记	Unity Record
+神佑宝典	Divine Blessing Treasure Canon
+鬼手通卷	Ghost Hand Through Scroll
+万木摄神宝典	Ten Thousand Trees Spirit-Capturing Canon
+东华神佑秘法	East Glory Divine Protection Secret Art
+苍莽摄神要诀	Vast Wilderness Spirit-Capturing Formula
+搜魂大法	Soul-Searching Great Method
+赤月沃野通卷	Complete Scroll of Crimson Moon Fertile Land
+归真落花	Returning Truth Falling Blossoms
+斩天开天真言	Heaven-Cutting Creation Mantra
+曳影宝典	Shadow Dragging Treasure Canon
+归祖要诀	Essential Formula of Ancestral Return
+水涵柏上仙百炼宝册	Immortal Shui Hanbo's Hundred Refinements Treasure Manual
+督子轩真人鲸吞宝典	Real Person Du Zixuan's Whale Devouring Treasure Canon
+寒月归祖秘传	Frostmoon Ancestral Return Secret
+炎神殿清心密卷	Flame God Hall's Heart Purification Secret Scripture
+紫薇神农秘法	Purple Tapestry Divine Farmer Secret Method
+灵犀咒	Soul Resonance Curse
+心印诀	Chant of Resonance
+分神之术	Spirit-Splitting Technique
+新境琢玉	Jade Carving of New Realm
+御气落花诀	Qi-Commanding Falling Blossom Art
+真丹要略	Essential Summary of True Elixir
+未来星宿多宝纲要	Future Constellations Multi-Treasure Compendium
+五帝药典	Five Emperors' Pharmacopoeia
+玄机落花诀	Mystic Mechanism Blossom Art
+多宝回魂咒	Treasure Soul-Returning Curse
+金刚秘要	Vajra Secret Essentials
+奠基密卷	Foundation Secret Scroll
+金刚宝典	Diamond Tome
+佛心密卷	Buddha Heart Secret Scroll
+多宝秘法	Secret Method of Multitude Treasures
+通慧典	Wisdom-Through Sutra
+五戒摄神	Spirit Capture of Five Precepts
+乙木多宝宝典	Tome of Yi Wood Treasures
+太乙沃野药典	Taiyi Fertile Herbology
+南海合一	Unity of South Sea
+六壬神算	Astrological Foresight
+罗祥上仙鲸吞经	Immortal Luo Xiang's Whale Devouring Scripture
+五戒天星	Five Prohibitions Heavenly Star
+五台八极神雷	Five Platforms Eight Extremities Thunder
+覆天	Heaven-Overturning
+金刚密卷	Vajra Secret Scroll
+金刚秘册	Vajra Secret Manual
+知节金刚秘法	Zhi Jie Diamond Esoterica
+戎勇上仙金刚宝典	Immortal Rong Yong's Vajra Treasure Canon
+鬼手秘传	Ghost Hand Secret Transmission
+五内百炼	Five Organs Hundred Refinements
+多宝多宝宝册	Manifold Treasures Manual
+星辰佛心秘要	Stellar Buddha Heart Secret Art
+寒月清心秘传	Frost Moon Serenity Secret Tradition
+白帝宫百炼宝册	White Emperor Palace's Refinement Tome
+五台开天咒	Wutai Heaven-Opening Curse
+过去庄严金刚咒	Past Dignity Vajra Grand Mantra
+奠基宝典	Scripture of Foundation Laying
+奠基经	Foundation Scripture
+奠基	Foundation Laying
+奠基秘册	Foundation Secret Manual
+冷月奠基	Foundation Laying of Cold Moon
+长生金刚要诀	Longevity Vajra Art
+微草奠基	Tiny Grass Foundation
+腾岳金刚秘法	Soaring Mountain Vajra Secret Method
+少林奠基	Shaolin Foundation Laying
+真丹奠基宝典	True Elixir Foundation Codex
+寒月奠基秘要	Frost Moon Foundation Secret Art
+三才奠基密卷	Triple Harmony Foundation Scroll
+凌霄奠基密卷	Heavenly Foundation Scroll
+鬼手秘法	Ghost Hand Art
+镇岳琢玉秘传	Mountain-Suppressing Jade Polishing Secret Transmission
+蜀山妙手秘法	Shushan Skilled Hands Secret Method
+黄庭琢玉	Yellow Court Jade Carving
+腾岳通慧册	Mountain-Leaping Wisdom Manual
+三才鬼手秘要	Three Talents Phantom Hands Secret
+勾陈佛心书	Gouchen Buddha Heart Tome
+华山饕餮秘传	Huashan Gluttony Secret
+太上多宝秘法	Supreme Treasure Secret Art
+太上多宝秘传	Supreme Treasure Esoterica
+御气急诵	Qi-Control Haste Recitation
+曳影剑诀	Sword Art of Flickering Shadow
+归源曳影	Flickering Shadow of Origin Return
+南海破灭密卷	Southern Sea Annihilation Scroll
+摄神	Spirit Capture
+勾陈合一	Gouchen Unity
+再造术	Rebuilding Art
+凝光曳影宝典	Tome of Condensed Light and Flickering Shadows
+迅击	Swift Strike
+迅影	Swift Shadow
+迅击宝典	Swift Strike Treasure Canon
+气摄	Qi Absorption
+长青纪要	Evergreen Manual
+大日辟谷要诀	Great Sun Fasting Formula
+金丹神视宝典	Golden Core Divine Vision Canon
+嵇家归祖	Ancestral Return of Ji Family
+吸星掌	Star-Sucking Palm
+五泉涤心法	Five Springs Heart-Cleansing Method
+先天罡气	Innate Gang Qi
+求雨术	Rain-Summoning Art
+甘霖术	Sweet Dew Art
+风水鉴定	Geomancy Appraisal
+太和御气诀	Great Harmony Qi-Control Art
+清心咒	Serene Heart Curse
+天霖诀	Heavenly Rain Formula
+天水化伤术	Heavenly Water Wound-Transformation Art
+天一真法	True Method of Tian Yi
+采水诀	Water-Gathering Technique
+水镜观心定	Water Mirror Heart-Calming Method
+灵息诀	Spirit Breath Technique
+乘风诀	Wind-Riding Formula
+同风诀	Shared Wind Technique
+奔流诀	Torrent Technique
+归海诀	Sea-Return Technique
+水精真形	Water Essence True Form
+水气真形	Water Qi True Form
+水神真形	Water God's True Form
+暴雨术	Rainstorm
+九阴真水界	Nine Yin True Water Realm
+罡煞合流	Convergence of Gangsha
+寒月圆转密卷	Frost Moon Circular Scripture
+焚日金刚神雷	Burning Sun Diamond Lightning
+奠基要诀	Foundation Essentials
+琢玉秘传	Jade Carving Secret Transmission
+龙虎百炼要诀	Dragon-Tiger Refinement Technique
+五戒琢玉秘要	Five Precepts Jade Polishing Secret Essentials
+西海多宝纲要	Compendium of West Sea Treasures
+公西巧风真人鬼手宝册	Real Person Gongxi Qiaofeng's Ghost Hand Treasure Manual
+凌霄鬼手秘传	Numinous Sky Ghost Hand Secret Art
+六气多宝通卷	Six Qi Treasure Scroll
+焚日气摄	Solar Flare Qi Absorption
+开天眼之术	Third Eye Opening Art
+凌霄崩天宝典	Numinous Sky Heaven-Sundering Canon
+真丹神农宝册	True Elixir Divine Farmer Manual
+万木开天咒	Ten Thousand Woods Heaven-Cleaving Curse
+东海落花诀	Eastern Sea Blossom Art
+苍龙不坏神雷	Azure Dragon Indestructible Thunder
+千钧式	Thousand Jun Form
+混元宝典	Scripture of Hybrid Origin
+蓄神要诀	Spirit-Storing Essential
+圆转秘要	Circular Flow Secret Essentials
+长生圆转要诀	Longevity Cyclic Essence
+金丹破灭十式	Golden Core Annihilation Ten Forms
+炎神殿混元	Flame Temple Hybrid
+通慧记	Wisdom Channel Record
+合一要诀	Essential Formula of Unity
+碧光佛心册	Jade Light Buddha Heart Manual
+五戒清心神功	Five Precepts Serenity Divine Art
+东华归祖神功	East Glory Ancestral Return Divine Technique
+未来星宿佛心册	Future Constellations Buddha Heart Scripture
+苍莽鲸吞纪要	Vast Wilderness Devouring Compendium
+大日摄神密卷	Great Sun Spirit-Capturing Secret Scroll
+赤月辟谷神功	Crimson Moon Fasting Art
+苍龙合一记	Azure Dragon Unity Records
+地龙百炼纲要	Earth Dragon Refining Compendium
+真丹无形神雷	True Elixir Formless Thunder Technique
+阴阳飞星诀	Yin Yang Shooting Star Art
+阴阳飞星神雷	Yin-Yang Shooting Star Lightning
+坤元秘法	Earthly Origin Secret Method
+混元	Hybrid
+破灭十式	Ten Forms of Annihilation
+初解迅影七式	Seven Forms of Initial Enlightenment Swift Shadows
+沃野宝册	Fertile Land Treasure Manual
+佛心记	Buddha Heart Record
+现在贤摄神要诀	Present Sage's Soul Capture Technique
+武当神佑册	Wudang Divine Protection Volume
+万里摄神宝典	Ten Thousand Li Mind Control Canon
+阴神夺舍	Lesser Possession
