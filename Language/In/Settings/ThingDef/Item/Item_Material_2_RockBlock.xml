@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBlockBase" sParam="Item">
+			<Item.FabaoSuffix>batu, segel, prasasti, batu giok ganda, piring, menara, megalit</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRockBlock" sParam="Item">
+			<ThingName>batu bata coklat</ThingName>
+			<Desc>Batu bata biasa terbuat dari batu coklat. Ini dapat digunakan untuk membuat banyak perangkat yang berbeda, namun keindahan dan daya tarik dari benda-benda yang dihasilkannya agak buruk.</Desc>
+			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockBlock" sParam="Item">
+			<ThingName>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</ThingName>
+			<Desc>Bata yang terbuat dari batu abu-abu Dapat digunakan untuk membuat berbagai macam peralatan, namun keindahan dan daya tarik ciptaannya kualitasnya pas-pasan.</Desc>
+			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleBlock" sParam="Item">
+			<ThingName>bata marmer</ThingName>
+			<Desc>Batu bata terbuat dari marmer Dapat digunakan untuk membuat berbagai perangkat, dan keindahan serta daya tarik kreasinya berkualitas baik.</Desc>
+			<Item.BeMaterial.NamePrefix>marmer</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeBlock" sParam="Item">
+			<ThingName>bata giok</ThingName>
+			<Desc>Batu bata terbuat dari batu giok Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>giok</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneBlock" sParam="Item">
+			<ThingName>batu bata suci</ThingName>
+			<Desc>Batu bata yang terbuat dari batu suci Dapat digunakan untuk membuat berbagai perangkat.</Desc>
+			<Item.BeMaterial.NamePrefix>batu suci</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneBlock" sParam="Item">
+			<ThingName>Bata Batu Roh</ThingName>
+			<Desc>Batu bata yang terbuat dari batu roh. Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>batu roh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalBlock" sParam="Item">
+			<ThingName>Bata Kristal Roh</ThingName>
+			<Desc>Batu bata yang terbuat dari kristal roh. Ini dapat digunakan untuk membuat banyak perangkat berbeda.</Desc>
+			<Item.BeMaterial.NamePrefix>Kristal Roh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
