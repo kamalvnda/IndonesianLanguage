@@ -1,0 +1,336 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
+			<ThingName>Pedang Lima Racun</ThingName>
+			<Desc>Senjata ajaib jahat yang tercatat dalam Kitab Suci Seratus Racun. Langkah pertama dalam menyempurnakan pedang adalah mengambil Flaming Swan Wood dan menggabungkannya dengan darah binatang iblis yang cocok dengan 36 bintang surgawi. Setelah itu, lima roh iblis ular lainnya digunakan sebagai langkah terakhir dalam budidaya pedang. Saat menggunakannya untuk menyerang musuh, Qi pedang yang beracun menembus ke dalam armor Qi musuh. Menyebabkan serangan menembus perisai energi musuh dan memberikan damage langsung ke musuh.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh 5 setan ular sambil membawa pedang ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 15 serangan, pedang akan menyerang sendiri dan serangan itu akan menembus penghalang energi dan memberikan kerusakan tambahan pada musuh.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
+			<ThingName>Pedang Pemotong Jiwa Suci</ThingName>
+			<Desc>Metode rahasia menempa pedang ajaib telah diturunkan dari generasi ke generasi dari Sekte Pedang Wutai kuno. Langkah pertama dalam menempa pedang adalah melebur 10 kristal roh bersama dengan mutiara roh untuk membentuk pedang. Setelah itu, 100 jiwa yang hidup digunakan dalam proses budidaya pedang sebagai langkah terakhir. Setiap kali pedang digunakan, energi spiritual dan kekuatan serangannya akan meningkat secara bertahap. Meningkat hingga kembali memulihkan Qi pengguna sekali lagi.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh makhluk 100 kali sambil membawa pedang ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Kekuatan dasar pedang meningkat sebesar 1% setiap 1 detik setelah pedang itu terbang menjauh dari penggunanya. Semua hasil hilang saat terbang kembali ke pengguna.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
+			<ThingName>Pasir yang merusak</ThingName>
+			<Desc>Senjata ajaib jahat yang tercatat dalam Kitab Suci Seratus Racun. Langkah pertama dalam pemurniannya adalah dengan mencampurkan 1000 ton bubuk api tembaga dengan lima jenis cairan spiritus dan melelehkannya di dalam kantong spiritus kecil hingga berubah menjadi bubuk halus. Setelah itu, 12 Jiwa Primordial dikorbankan sebagai langkah terakhir dalam kultivasi. Dalam penggunaannya, bisa masuk dan menyegel kekuatan senjata ajaib musuh. Akibatnya, musuh untuk sementara tidak bisa mengendalikan senjata ajaibnya sendiri.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh makhluk dalam Alam Roh Primordial sebanyak 12 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap serangan senjata ajaib musuh yang sama sebanyak 12 kali berulang kali, dapat menonaktifkan senjata ajaib musuh dalam jangka waktu dan durasi tertentu. Ini terkait dengan level senjatanya.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
+			<ThingName>Pedang Darah Iblis Surgawi</ThingName>
+			<Desc>Pedang iblis jahat yang diwarisi dari dunia iblis. Langkah pertama adalah mengekstraksi ribuan kilogram bijih tembaga api dan memurnikannya menjadi pedang. Setelah itu, Jiwa Yang dari 27 pria dikorbankan untuk menciptakan Jiwa Pedang. Saat menggunakan pedang ini Semakin rendah kesehatan penggunanya, semakin rendah kekuatannya. Semakin besar pula kekuatan pedang tersebut.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh makhluk jantan sebanyak 27 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Untuk setiap 1% nyawa yang hilang, kekuatan senjata ajaib ini akan meningkat sebesar 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
+			<ThingName>Mutiara Penakluk Jiwa</ThingName>
+			<Desc>Harta rahasia yang diwarisi dari Sekte Darah Roh, salah satu sekte iblis terkenal di zaman kuno. Itu dibuat dengan menggabungkan 9 mutiara roh menjadi satu mutiara kecil. hanya satu gumpalan Setelah itu, mereka menggunakan 9 Genesis Spirit untuk memeliharanya sebagai tahap akhir budidaya. Setiap kehidupan yang dibunuh oleh mutiara ini akan menjadi energinya. Mutiara Penakluk Jiwa meningkatkan kekuatannya sebesar 10% untuk setiap jiwa yang diserapnya. Itu bisa menampung maksimal 36 jiwa. Namun, dalam rentang jiwa suatu hari, Jika tidak menyerap jiwa apa pun, ia akan kembali ke kondisi tidurnya lagi.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Bunuh makhluk dalam Alam Roh Primordial sebanyak 36 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap makhluk yang dibunuh oleh Mutiara Penakluk Jiwa meningkatkan kekuatannya sebesar 10% per pembunuhan. Kekuatannya dapat di-stack hingga maksimal 36 kali. Semua efek dibatalkan jika tidak ada pembunuhan. Terjadi selama 1 hari</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
+			<ThingName>Sembilan Staf Surgawi</ThingName>
+			<Desc>Senjata ajaib yang diturunkan dari Master Guangcheng dari Sekte Abadi Emas. Itu dibuat dengan menempa 9 Bunga Emas dengan aura ungu Qi yang terbungkus rapat di dalamnya. Setiap Bunga Emas membutuhkan 1 bijih cahaya bintang untuk memurnikannya. Setelah itu, dia menyempurnakan aura ungu Qi dari Hukuman Nafas Surga sebagai langkah terakhir. Setiap sembilan serangan dengan senjata ajaib ini, ia akan melepaskan aliran Yang Qi untuk menyerang musuh sendiri.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sempurnakan Permata Jiwa sebanyak 9 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 9 serangan akan mengeluarkan energi sihir untuk menyerang musuh dengan sendirinya.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
+			<ThingName>Batu Dewa Naga</ThingName>
+			<Desc>Harta rahasia yang dipelajari dari sisa Roh Primordial Naga Lilin. Esensinya dibuat dengan melebur sepuluh ribu ton batu giok dan menggabungkannya dengan esensi yin dan yang dari Naga Lilin. Setelah itu, dia menggunakan Refining Demonic Spirit Jewel pada siang atau tengah malam selama 9 hari berturut-turut, meningkatkan level skill armornya yang dalam.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Berhasil menyempurnakan Roh Iblis pada siang atau tengah malam selama 9 hari berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Naikkan level keterampilan armor Anda sebanyak 10 level.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
+			<ThingName>Dunia ilusi</ThingName>
+			<Desc>Senjata ajaib yang tercatat dalam Kitab Suci Seratus Racun. Gunakan Mutiara Roh sebagai dasarnya. Itu digabungkan dengan lima obat ajaib unsur untuk membentuk intinya. Setelah menciptakan inti, dia menyempurnakan Permata Jiwa sebanyak 25 kali sebagai langkah terakhir budidaya. Meskipun benda ini tidak dapat digunakan untuk menyerang atau bertahan, Namun, ia mampu menghidupkan kembali pemiliknya dari kematian satu kali. Kemampuan seperti ini luar biasa.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sempurnakan Permata Jiwa sebanyak 25 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menolak kematian pengguna dan memulihkan semua kerusakan pada tubuh satu kali. (Setelah menggunakan kemampuan ini, dunia ilusi akan langsung hancur.)</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
+			<ThingName>Jarum yang Menusuk Surga</ThingName>
+			<Desc>Senjata ajaib yang ditempa oleh seorang kultivator kuno yang sendirian menggunakannya untuk melawan surga. Senjata ajaib ini ditempa dari tujuh bahan berharga. Dia kemudian menyempurnakannya berulang kali untuk menciptakan keadaan antara kenyataan dan ilusi. Setelah itu, dia menyempurnakan Permata Roh Iblis untuk mengembangkan roh senjata sebagai langkah terakhir. Hal ini disebabkan adanya konflik antara sifat fisik. Oleh karena itu, Heavenly Piercing Needle memiliki kemampuan untuk merasakan hidup dan mati. Jika pengguna memiliki sisa harapan hidup yang pendek, berapa lama? Itu hanya membuat Heaven-Piercing Needle lebih kuat.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sempurnakan Permata Roh Iblis 11 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Semakin sedikit harapan hidup pengguna yang tersisa, The Heaven-Piercing Needle semakin kuat.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
+			<ThingName>pesawat ulang-alik debu bintang</ThingName>
+			<Desc>Senjata ajaib rahasia dari Sekte Tai Yin kuno. Itu dibuat dengan menggabungkan esensi bijih kristal es dengan sisa qi yang mengalir dari ekor Naga Air. Setelah itu, dia mengolahnya dengan Yin Qi Gadis Murni selama satu tahun. Saat menggunakannya untuk menyerang Kerusakan yang ditimbulkannya akan digunakan untuk memulihkan Qi pengguna.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Dibawa oleh seorang perawan selama setahun</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>10% kerusakan yang diberikan akan digunakan untuk memulihkan Qi pengguna.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
+			<ThingName>Pedang Cahaya Utara</ThingName>
+			<Desc>Pedang suci yang diwarisi dari salah satu sekte Tao kuno. Itu ditempa dari 1000 ton batu giok, dikombinasikan dengan 100 inti batu giok untuk membentuk pedang. Setelah itu, dia menggunakan kekuatan Penjara Surgawi untuk membangkitkan roh pedang. Saat digunakan untuk menyerang musuh, Pedang tersebut membelah dirinya menjadi beberapa lightsaber untuk menyerang musuh.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Atasi Saint Killing Punishment sebanyak 7 kali sambil membawa pedang ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 7 serangan, ia menciptakan lightsaber yang menyerang musuh selama 7 detik.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
+			<ThingName>Jimat Guntur Benjaweji</ThingName>
+			<Desc>Senjata ajaib kuno dari Akademi Li Lieb. Gambarlah karakter kuno dengan indra ilahi Anda. Setelah itu, dia menggunakan lima elemen Hukuman Surgawi untuk merangsang semangat senjata ajaib untuk bangkit. Senjata ajaib ini memiliki kemampuan untuk meningkatkan keterampilan qi magis penggunanya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mengalahkan Hukuman Surgawi dari Elemen Emas Sambil membawa senjata ajaib ini</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Mengatasi Hukuman Surga Elemen Kayu Sambil membawa senjata ajaib ini</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Mengatasi hukuman surgawi unsur air Sambil membawa senjata ajaib ini</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Atasi Hukuman Surga Elemental Api Sambil membawa senjata ajaib ini</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Atasi hukuman surgawi dari elemen bumi Sambil membawa senjata ajaib ini</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Naikkan level keterampilan energi magis sebanyak 10 level.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinFabao" sParam="Item">
+			<ThingName>Bendera Awan Putih</ThingName>
+			<Desc>Salah satu dari Lima Bendera Langit dan Bumi Ia menggunakan tulang Angsa Vermillion untuk membuat benderanya. Sedangkan untuk benderanya dibuat dari kulit binatang buas dengan cara melelehkan Buah Belimbing Emas bersama benderanya. Setelah itu, dia menggunakan Qi orang yang telah mencapai esensi emas elemen tanah tingkat pertama untuk membangkitkan jiwa bendera sebagai langkah terakhir. Meskipun bendera ini hanyalah replika yang telah dibuat, namun tetap saja sangat kuat. Ia dapat melipatgandakan kerusakannya jika digunakan melawan musuh dengan atribut Kayu.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Penggarap yang berlatih Budidaya Elemen Tanah telah mencapai Alam Inti Emas dengan menciptakan Inti Emas tingkat tertentu sambil membawa bendera ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 100% lebih banyak kerusakan pada target berelemen kayu.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_MuFabao" sParam="Item">
+			<ThingName>bendera teratai hijau</ThingName>
+			<Desc>Salah satu dari Lima Bendera Langit dan Bumi Ia menggunakan tulang Angsa Vermillion untuk membuat benderanya. Sedangkan untuk benderanya dibuat dari kulit binatang buas dengan cara memadukan tanaman merambat dengan benderanya. Setelah itu, dia menggunakan Qi orang yang telah mencapai Inti Emas elemen Air level 1 untuk membangkitkan jiwa bendera sebagai langkah terakhir. Meskipun bendera ini hanyalah replika yang telah dibuat, namun tetap saja sangat kuat. Ia dapat melipatgandakan kerusakannya jika digunakan melawan musuh dengan elemen Tanah.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Penggarap yang berlatih Budidaya Elemen Air mencapai Alam Inti Emas dengan menciptakan Inti Emas tingkat tertentu sambil membawa bendera ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 100% lebih banyak kerusakan pada target elemen Tanah.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
+			<ThingName>bendera gagak hitam</ThingName>
+			<Desc>Salah satu dari Lima Bendera Langit dan Bumi Menggunakan tulang angsa yang menyala untuk membuat benderanya. Sedangkan untuk benderanya terbuat dari kulit binatang buas dengan memadukan lima bunga teratai emas berwarna pada benderanya. Setelah itu, Qi orang yang telah mencapai Esensi Emas Elemen Emas tingkat pertama digunakan untuk membangkitkan jiwa bendera sebagai langkah terakhir. Meskipun bendera ini hanyalah replika yang telah dibuat, namun tetap saja sangat kuat. Ia dapat melipatgandakan damagenya jika digunakan melawan musuh berelemen api.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Penggarap yang mempraktikkan Teknik Budidaya Elemen Emas mencapai Alam Esensi Emas dengan menciptakan Esensi Emas tingkat tertentu sambil membawa bendera ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 100% lebih banyak kerusakan pada target berelemen api.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
+			<ThingName>Bendera Api Abadi yang Memangsa Bumi</ThingName>
+			<Desc>Salah satu dari Lima Bendera Langit dan Bumi Ia menggunakan tulang Angsa Vermillion untuk membuat benderanya. Adapun benderanya dibuat dari kulit binatang buas dengan memadukan buah api abadi dengan benderanya. Setelah itu, Qi orang yang telah mencapai elemen Inti Emas Kayu tingkat pertama digunakan untuk membangkitkan semangat bendera sebagai langkah terakhir. Meskipun bendera ini hanyalah replika yang telah dibuat, namun tetap saja sangat kuat. Ia dapat melipatgandakan kerusakannya jika digunakan melawan musuh berelemen emas.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Penggarap yang berlatih Budidaya Elemen Kayu telah mencapai Alam Inti Emas dengan menciptakan Inti Emas tingkat tertentu sambil membawa bendera ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 100% lebih banyak kerusakan pada target berelemen emas.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TuFabao" sParam="Item">
+			<ThingName>bendera buah persik kuning</ThingName>
+			<Desc>Salah satu dari Lima Bendera Langit dan Bumi Ia menggunakan tulang Angsa Vermillion untuk membuat benderanya. Sedangkan untuk benderanya terbuat dari kulit binatang buas, menggunakan inti tanah kuning untuk menyatu dengan benderanya. Setelah itu, dia menggunakan Qi orang yang telah mencapai Elemen Api Inti Emas Level 1 untuk mengaktifkannya guna membangkitkan jiwa bendera sebagai langkah terakhir. Meskipun bendera ini hanyalah replika yang telah dibuat, namun tetap saja sangat kuat. Ia dapat melipatgandakan kerusakannya jika digunakan melawan musuh berelemen Air.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Penggarap yang mempraktikkan Budidaya Elemen Api mencapai Alam Inti Emas dengan menciptakan Inti Emas tingkat tertentu sambil membawa bendera ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan 100% lebih banyak kerusakan pada target berelemen Air.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
+			<ThingName>teratai emas</ThingName>
+			<Desc>Harta magis sekte Buddha yang telah lama hilang. Itu dibuat dengan menggunakan lima teratai emas berwarna sebagai intinya. Selanjutnya, 36 sisik Naga Air digabungkan menjadi satu. Setelah itu, ia mengolahnya dengan mengirimkan energi fisiknya untuk menyehatkan jiwanya hingga jiwa senjata ajaib itu terbangun. Senjata ajaib ini memiliki basis Qi yang sangat tinggi. Meski tidak bisa digunakan untuk menyerang. Namun, ia dapat melindungi pemiliknya dari segala jenis senjata magis.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gunakan 100.000 stamina sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menciptakan perisai di sekitar pemiliknya, meski tidak bisa menyerang. Namun, itu bisa meningkatkan kekuatan pertahanan penggunanya secara signifikan.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
+			<ThingName>Gunting Pemakan Jiwa</ThingName>
+			<Desc>Senjata ajaib yang ditemukan oleh sekte Tao di zaman kuno. Itu dibuat dengan meniru kemampuan Binatang Iblis Primordial yang memiliki kemampuan mengkonsumsi Qi. Senjata ini menggunakan dua buah tanduk naga air yang ditempa menjadi gunting. Setelah itu, ia menyempurnakannya dengan menggunakan 10.000 ton batu roh sebagai tahap akhir budidayanya. Kemampuan senjata ajaib ini adalah semakin banyak mengkonsumsi Qi penggunanya, semakin kuat jadinya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gunakan total 100.000.000 Qi sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 10.000 unit prana yang digunakan Kekuatan Gunting Pemakan Jiwa meningkat sebesar 10%, ditumpuk hingga maksimum 1000%. Semua efek dibatalkan saat Qi Gunting Pemakan Jiwa diisi ulang.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
+			<ThingName>Kompor Flora Surgawi</ThingName>
+			<Desc>Dikatakan bahwa itu dibuat dengan meniru tungku dewa pengobatan kuno. Tungku itu sendiri terbuat dari batu giok ilahi yang dilebur bersama dengan Vermillion Bird Jade. Pada saat yang sama, 10.000 ton Spirit Grass digunakan untuk membantu melengkapi proses pemurnian. Saat menggunakan senjata ajaib ini Semakin banyak pengguna meminum obat, semakin banyak kekuatan Tungku Bunga Surgawi akan semakin meningkat.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Memurnikan obat sebanyak 36 kali sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap jenis obat yang dikonsumsi pengguna akan meningkatkan kekuatan Tungku Bunga Surgawi sebesar 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
+			<ThingName>Bersihkan Bulu Burung Langit</ThingName>
+			<Desc>Senjata ajaib dari dunia lain Itu ditempa dari bulu dan esensi Burung Vermillion, dan menggunakan 10.000 ton Rumput Klarifikasi Pikiran untuk mengusir roh dendam Burung Vermillion yang tersembunyi di dalam esensi iblis. Proses ini membutuhkan tempat yang tenang untuk menekan amukan Vermillion Bird Spirit. Saat menggunakan senjata ajaib ini Ia memiliki kesempatan untuk membantu menjernihkan pikiran pemiliknya selama pertempuran. Menghasilkan peningkatan kecepatan pelepasan energi magis sebanyak satu tingkat.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Terkurung di puncak gunung selama 36 hari sambil membawa senjata sakti tersebut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 2 serangan mengurangi cooldown energi sihir sebanyak 1 detik.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
+			<ThingName>Pedang Kebenaran</ThingName>
+			<Desc>Pedang ajaib yang disebutkan dalam legenda sekte Buddha. Pedangnya sendiri menggunakan kerangka seorang master sebagai intinya. Setelah itu, 99 pedang lainnya digunakan untuk menggabungkannya dan mengembangkan roh pedang selama 360 tahun berikutnya, sangat meningkatkan level keterampilan senjata magis pengguna.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Lakukan penebusan dosa selama 360 tahun sambil membawa senjata ajaib ini.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Tingkatkan keterampilan senjata ajaib Anda hingga 10 level.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
+			<ThingName>Pedang Pembunuh Suci</ThingName>
+			<Desc>Pedang ajaib yang telah diwariskan sejak zaman kuno. Dan meskipun pedang ini hanyalah salinan, namun tetap memiliki kekuatan membunuh yang tak tertandingi. Pedang ini menggunakan tanduk Naga Air sebagai inti pedangnya. Setelah itu, dilebur bersama dengan 9 bijih cahaya bintang untuk memasukkan elemen emas ke dalam pedang. Setelah itu, dia menggunakan kekuatan petir untuk membangkitkan roh pedang. Kekuatannya berlipat ganda saat digunakan melawan musuh menggunakan senjata magis (saat dipakai, klik kanan untuk menyerap badai petir).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap Badai Petir sebanyak 9 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan kerusakan 1,5 kali lebih banyak saat digunakan melawan musuh yang menggunakan senjata ajaib.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
+			<ThingName>Pedang Kematian</ThingName>
+			<Desc>Pedang ajaib yang telah diwariskan sejak zaman kuno. Dan meskipun pedang ini hanyalah salinan, namun tetap memiliki kekuatan membunuh yang tak tertandingi. Pedang ini menggunakan tanduk Naga Air sebagai inti pedangnya. Setelah itu, ditempa bersama dengan 9 batang inti api untuk memasukkan elemen api ke dalam pedang. Setelah itu, dia menggunakan kekuatan angin untuk membangkitkan roh pedang. Ada kemungkinan akan terjadi ledakan Qi ketika menyerang lawan. Hasilnya, damagenya bisa berlipat ganda (bila dipakai, klik kanan untuk menyerap badai panas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap badai udara panas sebanyak 9 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Saat menyerang, ada peluang 10% untuk menimbulkan kerusakan 5 kali lebih banyak.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
+			<ThingName>Pedang Tak Berujung</ThingName>
+			<Desc>Pedang ajaib yang telah diwariskan sejak zaman kuno. Dan meskipun pedang ini hanyalah salinan, namun tetap memiliki kekuatan membunuh yang tak tertandingi. Pedang ini menggunakan tanduk Naga Air sebagai inti pedangnya. Setelah itu, ditempa bersama dengan 9 batang phoenix menyala untuk memasukkan elemen kayu ke dalam pedang. Setelah itu, dia menggunakan kekuatan serbuk sari untuk membangkitkan roh pedang. Serangannya datang dengan kekuatan korosi. Menimbulkan kerusakan tambahan pada perisai energi (bila dipakai, klik kanan untuk menyerap badai serbuk sari racun).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap badai serbuk sari beracun sebanyak 9 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan damage 1,5 kali lebih besar ketika menggunakannya untuk menyerang tubuh musuh secara langsung.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
+			<ThingName>Pedang Abadi</ThingName>
+			<Desc>Pedang ajaib yang telah diwariskan sejak zaman kuno. Dan meskipun pedang ini hanyalah salinan, namun tetap memiliki kekuatan membunuh yang tak tertandingi. Pedang ini menggunakan tanduk Naga Air sebagai inti pedangnya. Setelah itu, ditempa dengan 9 batu suci untuk mengilhami pedang dengan elemen tanah. Setelah itu, dia menggunakan kekuatan gurun untuk membangkitkan roh pedang. saat menyerang Memiliki peluang kecil untuk memberikan kerusakan ekstra. yang bergantung pada jumlah energi musuh (bila dipakai, klik kanan untuk menyerap badai pasir)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap badai pasir sebanyak 9 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Saat menyerang tubuh musuh, terdapat 1% kemungkinan untuk menimbulkan kerusakan tambahan sebesar 30% dari jumlah Qi target saat ini.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
+			<ThingName>Taring Serigala Surgawi</ThingName>
+			<Desc>Senjata ajaib ampuh yang berasal dari dunia lain. Dalam menyempurnakannya, roh iblis yang tersisa dari tuan abadi digunakan sebagai medianya. Setelah itu, dia menggabungkan kekuatan Panalai Vine ke dalam taring iblis serigala. Ia kemudian mengembangkan jiwanya dengan esensinya sendiri. Senjata ajaib ini sangat halus saat digunakan dalam pertempuran. Saat diaktifkan, Ia terbagi menjadi 9 bentuk untuk menyerang musuh (saat dilengkapi, klik kanan untuk mengolahnya dengan esensinya).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kembangkan dengan sarinya sendiri sebanyak 15 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Setiap 3 serangan, Heavenly Wolf Fang akan membuat 9 klon selama 3 detik.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianShu" sParam="Item">
+			<ThingName>Pedang Inti Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga dan menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan basis kekuatan senjata ajaib (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Tingkatkan kekuatan dasar senjata ajaib sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianQuan" sParam="Item">
+			<ThingName>Pedang Bercahaya Surga</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga untuk menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan level basis Qi maksimum senjata ajaib secara signifikan (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Tingkatkan Qi dasar maksimum senjata ajaib sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianJi" sParam="Item">
+			<ThingName>Pedang Mutiara Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga dan menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan ketahanan knockback senjata ajaib (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Meningkatkan resistensi knockback senjata sihir dasar sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianXuan" sParam="Item">
+			<ThingName>Pedang Giok Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga dan menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan kecepatan putaran dasar senjata magis (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Meningkatkan kecepatan putaran dasar senjata magis sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuHeng" sParam="Item">
+			<ThingName>Pedang Skala Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga dan menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan tingkat regenerasi Qi dasar senjata ajaib (saat digunakan, tekan klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Tingkatkan tingkat pemulihan Qi dasar senjata ajaib sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KaiYang" sParam="Item">
+			<ThingName>Pedang Jernih Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga dan menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan tingkat knockback dasar senjata sihir secara signifikan (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Meningkatkan tingkat knockback dasar senjata ajaib sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
+			<ThingName>Pedang Cahaya Surgawi</ThingName>
+			<Desc>Metode penempaan pedang kuno dicatat dalam Teknik Pedang Emas Pemotong Bintang. Dia menggunakan cakar naga untuk menggabungkannya dengan 49 bijih besi hitam untuk menempanya menjadi pedang. Setelah itu, dia menggunakan kekuatan bintang kultivasi untuk membangkitkan roh pedangnya. Ia memiliki kemampuan untuk meningkatkan kecepatan terbang dasar senjata ajaib (saat digunakan, klik kanan untuk menyerap kekuatan Bintang Emas).</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap kekuatan Bintang Emas selama 7 hari 7 malam berturut-turut.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Meningkatkan kecepatan terbang dasar senjata ajaib sebesar 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
+			<ThingName>Pedang Bunga Matahari</ThingName>
+			<Desc>Metode menempa pedang kuno dicatat dalam Teknik Bunga Matahari. Itu dibuat dengan menggabungkan tiga keping batu giok ilahi menjadi sebuah pedang dan menanamkan benih keberuntungan ke dalam inti pedang. Setelah itu, dia mengolahnya dengan Yin Qi pada malam abadi untuk membangkitkan roh pedang. Setiap kali Anda menggunakan pedang ini, Anda menyerang musuh. Serangan pertama akan meningkatkan kekuatan serangan berkali-kali lipat (saat digunakan, klik kanan untuk menyerap Yin Qi dari Malam Abadi)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Menyerap Yin Qi dari Malam Abadi sebanyak 12 kali.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Kekuatan serangan pertama dengan Pedang Bunga Matahari meningkat sebesar 500% (semua efek dibatalkan ketika Qi Pedang Bunga Matahari terisi kembali)</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
+			<ThingName>Tentara Pembunuh Ahli</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat terbentuknya formasi yang disebut Formasi Saint Killing. Dikatakan sebagai formasi paling brutal di medan perang kuno, dan memiliki kekuatan membunuh yang sangat besar.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
+			<ThingName>Tentara Penakluk</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang dikenal dengan Formasi Penakluk. Dikatakan dapat mengendalikan cahaya Bintang Emas dan dapat menggunakan kekuatan Bintang Emas untuk mengalahkan iblis di seluruh dunia.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
+			<ThingName>Kekuatan Langit dan Bumi</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat terbentuknya Formasi Langit dan Bumi. Dikatakan bahwa ia dapat menciptakan wilayah yang tidak bisa dihancurkan dengan menggunakan kekuatan langit dan lima bendera untuk membuat sebuah formasi. Segala sesuatu di dalam formasi ini akan dilindungi oleh kekuatan langit dan bumi.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
+			<ThingName>Formasi Kaisar Ilahi</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang disebut Formasi Kaisar Ilahi. Dikatakan sebagai pembentukan enam dewa Pengadilan Surgawi. Ia memiliki kemampuan untuk mengubah Dunia Bawah menjadi surga dan membebaskan pikiran orang.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
+			<ThingName>Perkemahan Dalang Naga</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang dikenal dengan Formasi Master Naga. Dikatakan sebagai formasi dari formasi Raja Naga. Dia bisa menggunakan kekuatan roh naganya untuk melepaskan qi sihir yang kuat.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
+			<ThingName>Kamp Formasi Pedang Flaming Swan</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang disebut Formasi Pedang Angsa Vermillion. Konon itu adalah wujud formasi Kaisar Burung Vermillion. Dia bisa menggunakan kekuatan Vermillion Bird Spirit untuk melepaskan qi magis yang kuat.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
+			<ThingName>Formasi Yin Yang</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat formasi yang disebut Formasi Yin Yang. Konon formasi ini didasarkan pada hukum Yin dan Yang sebagai konsep utama dalam pembentukan formasi tersebut. Dengan kekuatan fluktuasi tak berujung antara Yin dan Yang, formasi ini sangat fleksibel.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
+			<ThingName>Perkemahan Roh Hitam</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang disebut Formasi Mendalam Hitam. Dikatakan bahwa itu adalah formasi yang dibuat dengan menginduksi energi Yin murni untuk meningkatkan kekuatan orang-orang di dalam formasi tersebut.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
+			<ThingName>Kamp Tentara Pedang Abyssal</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi bernama Formasi Pedang Abyssal. Konon merupakan formasi yang menerapkan aturan Delapan Penjuru Kematian. Ia memiliki kemampuan menyerang dan bertahan yang luar biasa.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
+			<ThingName>Perkemahan Pohon Roh</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang disebut Formasi Pohon Roh. Dikatakan bahwa hal itu dapat membawa Qi Langit dan Bumi untuk memulihkan semua kehidupan di dalam wilayah formasi.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuYueZhenTu" sParam="Item">
+			<ThingName>Formasi Konvergensi</ThingName>
+			<Desc>Jurnal rahasia kuno yang mencatat bentuk formasi yang disebut Formasi Konvergensi. Konon formasi ini membentuk lima puncak gunung untuk menciptakan wilayah pertahanan yang tidak bisa dihancurkan.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memahami tata letak formasinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_BaBaoGongDe" sParam="Item">
+			<ThingName>Delapan Cara Kolam Dhamma</ThingName>
+			<Desc>Intisari dari Delapan Jalan Kolam Dharma Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanDaoZunFaZuo" sParam="Item">
+			<ThingName>Sepuluh ribu dao hati</ThingName>
+			<Desc>Esensi dari Singgasana Sepuluh Ribu Dao Itu adalah salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiQingQingTongShu" sParam="Item">
+			<ThingName>tujuh suasana hati hati</ThingName>
+			<Desc>Intisari dari Hutan Tujuh Emosi Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhouTianXingDouPan" sParam="Item">
+			<ThingName>jantung siklus bintang</ThingName>
+			<Desc>Esensi dari Bagan Siklus Bintang Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WuLongXuanJinTa" sParam="Item">
+			<ThingName>Hati Naga Yang</ThingName>
+			<Desc>Esensi dari Pagoda Naga Yang Itu adalah salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ShuShanJianChi" sParam="Item">
+			<ThingName>Jantung dari sepuluh ribu pedang</ThingName>
+			<Desc>Esensi dari Kolam Muen Krabi Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_LingYuFeng" sParam="Item">
+			<ThingName>Hati Roh Giok</ThingName>
+			<Desc>Esensi dari Gunung Roh Giok Itu adalah salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanGuXieFaTan" sParam="Item">
+			<ThingName>Jantung dari sepuluh ribu tulang</ThingName>
+			<Desc>Esensi dari Altar Sepuluh Ribu Tulang Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanCiTianKeng" sParam="Item">
+			<ThingName>hati yang magnetis</ThingName>
+			<Desc>Esensi dari Gunung Magnetik Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiShaShenBei" sParam="Item">
+			<ThingName>Jantung si pembunuh</ThingName>
+			<Desc>Hakikat Prasasti Satthasalan Merupakan salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanYinShengQuan" sParam="Item">
+			<ThingName>Hati Yin Suci</ThingName>
+			<Desc>Esensi dari Mata Air Yin Suci Ini adalah salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_YaoZuYiHai" sParam="Item">
+			<ThingName>Tubuh nenek moyang iblis</ThingName>
+			<Desc>Pengumpulan jiwa-jiwa yang tersisa di dalam tubuh nenek moyang iblis. Itu adalah salah satu akar misteri alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QianKunLingJing" sParam="Item">
+			<ThingName>kristal ruangwaktu</ThingName>
+			<Desc>kristal aneh Itu mengandung kekuatan misterius ruangwaktu dan sepertinya memiliki manfaat tersembunyi.</Desc>
+		</Text>
+	</List>
+</Texts>
