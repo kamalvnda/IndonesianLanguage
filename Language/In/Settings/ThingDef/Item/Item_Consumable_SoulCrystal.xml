@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>Roh Permata</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>Pembalasan Maneejit</ThingName>
+			<Desc>Permata Kemurkaan Terkutuklah Itu berisi beberapa kenangan menyakitkan yang tersisa dari orang mati.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>Maneejit tanpa kesedihan</ThingName>
+			<Desc>Permata Jiwa yang Tenang Itu berisi beberapa kenangan yang tersisa dari orang mati.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>Manee Duangjit</ThingName>
+			<Desc>Permata Spiritual Cerah Itu berisi beberapa kenangan indah yang tersisa dari almarhum.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>Permata Roh Pertama</ThingName>
+			<Desc>Adalah suatu kesalahan dalam cara surga bahwa benda-benda roh memperoleh pikiran. Pada saat yang sama, Permata Jiwa Purba ini juga merupakan hasil dari kesalahan itu, yang diambil dari materi roh dengan pikiran.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>berlian mata kucing</ThingName>
+			<Desc>Itu adalah sisa jiwa kucing iblis dan mungkin ada hubungannya dengan pepatah bahwa kucing memiliki sembilan nyawa. Ia memiliki kekuatan misterius. Memakannya secara langsung akan menyebabkan kultivator mendapatkan jiwa tambahan. sepanjang hidup seseorang Seseorang hanya dapat menggunakan item ini satu kali. Selain itu, itu hanya mempengaruhi para penggarap di Alam Roh Primordial.</Desc>
+		</Text>
+	</List>
+</Texts>
