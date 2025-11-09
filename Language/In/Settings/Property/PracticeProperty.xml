@@ -1,0 +1,202 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_SneakValue">
+			<DisplayName>Persembunyian</DisplayName>
+			<Desc>Sejauh mana karakter disembunyikan saat bersembunyi. Semakin besar angkanya, semakin sulit untuk mendeteksi karakter tersebut.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="PotentialOfBasepracticeAddValue">
+			<DisplayName>Potensi Bonus</DisplayName>
+			<Desc>Potensi karakter mempengaruhi kecepatan pelatihan dasar dan efisiensi Qi halusnya.</Desc>
+		</Text>
+		<Text Name="GodPenaltyAddV">
+			<DisplayName>Bonus Poin Dosa</DisplayName>
+			<Desc>Jumlah poin dosa yang dibutuhkan untuk karakter</Desc>
+		</Text>
+		<Text Name="MaxAccumulativeLingAddV">
+			<DisplayName>Bonus Batas Energi Laut</DisplayName>
+			<Desc>Bonus Batas Energi Laut</Desc>
+		</Text>
+		<Text Name="BasepracticeSpeedCoefficient">
+			<DisplayName>Bonus Kecepatan Pelatihan Dasar</DisplayName>
+			<Desc>Bonus untuk kecepatan pelatihan dasar murid luar</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="DeepPracticeSpeedSpecialCoefficient">
+			<DisplayName>Bonus Kecepatan Budidaya</DisplayName>
+			<Desc>Bonus untuk kecepatan budidaya kultivator.</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="MindStateBaseValue">
+			<DisplayName>Dasar dari kondisi mental</DisplayName>
+			<Desc>Dasar dari kondisi mental murid batin</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficient">
+			<DisplayName>Tingkat kondisi mental yang stabil</DisplayName>
+			<Desc>Kecepatan perubahan kondisi mental murid batin</Desc>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Emosi mempengaruhi kecepatan perubahan kondisi mental.</DisplayName>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+			<DisplayName>Emosi mempengaruhi kecepatan perubahan kondisi mental.</DisplayName>
+		</Text>
+		<Text Name="InspirationCoefficient">
+			<DisplayName>Kecepatan pemahaman tentang berbagai hal</DisplayName>
+			<Desc>Semakin tinggi kecerdasan seseorang, maka ia akan memahami suatu hal. Dalam hidup itu lebih mudah.</Desc>
+		</Text>
+		<Text Name="LingAbsorbSpeed">
+			<DisplayName>Bonus Kecepatan Penyerapan Qi</DisplayName>
+		</Text>
+		<Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+			<DisplayName>Basis Qi</DisplayName>
+			<Desc>Nilai awal dasar nafas</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="NpcLingMaxValue">
+			<DisplayName>napas tertinggi</DisplayName>
+			<Desc>Jumlah maksimum Qi yang dimiliki karakter</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SpeedAddV">
+			<DisplayName>Bonus Kecepatan Penempaan Senjata Ajaib</DisplayName>
+			<Desc>Bonus Kecepatan Penempaan Senjata Ajaib</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SuccessRateAddV">
+			<DisplayName>Bonus Tingkat Keberhasilan Penempaan Senjata Ajaib</DisplayName>
+			<Desc>Bonus Tingkat Keberhasilan Penempaan Senjata Ajaib</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_LingInheritRateAddV">
+			<DisplayName>Bonus level senjata ajaib yang telah dibuat.</DisplayName>
+			<Desc>Hasil level senjata ajaib saat menempa senjata ajaib.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_QualityAddV">
+			<DisplayName>Kualitas bonus senjata ajaib yang dibuat</DisplayName>
+			<Desc>Hasil kualitas senjata ajaib saat menempa senjata ajaib.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_TwelveRateChance">
+			<DisplayName>Berdasarkan tingkat keberhasilan menempa senjata ajaib</DisplayName>
+			<Desc>Tingkat keberhasilan dasar untuk menempa senjata ajaib</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Speed">
+			<DisplayName>Kecepatan pemurnian pil</DisplayName>
+			<Desc>Kecepatan pemurnian pil didasarkan pada keterampilan pemurnian pil.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SpeedAddV">
+			<DisplayName>Bonus Kecepatan Pemurnian Pil</DisplayName>
+			<Desc>Bonus Kecepatan Pemurnian Pil</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRate">
+			<DisplayName>Tingkat keberhasilan dalam memurnikan pil</DisplayName>
+			<Desc>Tingkat keberhasilan pemurnian pil didasarkan pada keterampilan pemurnian pil.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRateAddV">
+			<DisplayName>Bonus Tingkat Keberhasilan Pemurnian Pil</DisplayName>
+			<Desc>Bonus Tingkat Keberhasilan Pemurnian Pil</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Yield">
+			<DisplayName>Jumlah obat yang dimurnikan</DisplayName>
+			<Desc>Jumlah pil yang dimurnikan didasarkan pada keterampilan pemurnian pil.</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="DanMake_YieldAddP">
+			<DisplayName>Jumlah bonus obat yang dipalsukan</DisplayName>
+			<Desc>Jumlah bonus pil obat yang dipalsukan</Desc>
+			<FunctionKind>Status Kerajinan</FunctionKind>
+		</Text>
+		<Text Name="PracticeRateAddPFromDan">
+			<DisplayName>Bonus Tingkat Keberhasilan Menembus Batas</DisplayName>
+			<Desc>Bonus Tingkat Keberhasilan Menembus Batas</Desc>
+		</Text>
+		<Text Name="WorldMapFlySpeed">
+			<DisplayName>Kecepatan terbang petualangan</DisplayName>
+			<DisplayValue>{0:N1} km/tekanan</DisplayValue>
+			<Desc>Kecepatan terbang maksimum dalam petualangan</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="WorldMapFlySpeedAddP">
+			<DisplayName>Bonus kecepatan penerbangan petualangan</DisplayName>
+			<Desc>Kecepatan terbang maksimal saat melakukan petualangan</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ExperienceNeckTimeCostCoefficient">
+			<DisplayName>Pengganda Tingkat Keberhasilan Menembus Batas</DisplayName>
+			<Desc>Pengganda tingkat keberhasilan pelanggaran batas ketika seorang kultivator melanggar batas.</Desc>
+		</Text>
+		<Text Name="NeckCountdownAddV">
+			<DisplayName>Perpanjangan waktu untuk menembus batas</DisplayName>
+			<DisplayValue>{0:N0} detik</DisplayValue>
+			<Desc>Sisa waktu untuk menyelesaikan pelanggaran batas</Desc>
+		</Text>
+		<Text Name="EsotericaNum">
+			<DisplayName>Jumlah maksimum kitab suci</DisplayName>
+			<Desc>Jumlah maksimum gulungan yang tersedia</Desc>
+		</Text>
+		<Text Name="AbilityLvAddV">
+			<DisplayName>Bonus Benih Dadu</DisplayName>
+			<Desc>Bonus Benih Dadu</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="ExperiencePrestigeAddP">
+			<DisplayName>Pengganda Ketenaran</DisplayName>
+			<Desc>Pengganda bonus untuk mendapatkan ketenaran dari petualangan.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="ExperienceFindSpeedAddV">
+			<DisplayName>Kecepatan eksplorasi petualangan</DisplayName>
+			<Desc>Bonus kecepatan saat menjelajahi area baru selama petualangan Anda.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="NutritionToJingYuanK">
+			<DisplayName>Tingkat perolehan energi fisik</DisplayName>
+			<Desc>Laju konversi energi fisik untuk setiap titik jenuh</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="NutritionWaterAutoRecover">
+			<DisplayName>Efisiensi menyerap nafas</DisplayName>
+			<DisplayValue>{0:N2}/dtk</DisplayValue>
+			<Desc>Kemampuan menyerap energi langsung dari langit dan bumi untuk menekan rasa lapar dan haus.</Desc>
+			<FunctionKind>Statistik budidaya</FunctionKind>
+		</Text>
+		<Text Name="YaoShou_BaseLing">
+			<DisplayName>Qi Iblis</DisplayName>
+			<Desc>Qi Iblis</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseAttack">
+			<DisplayName>Kekuatan serangan iblis</DisplayName>
+			<Desc>Kekuatan serangan iblis</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseFabaoNum">
+			<DisplayName>Kualitas senjata ajaib iblis</DisplayName>
+			<Desc>Kualitas senjata ajaib iblis</Desc>
+		</Text>
+		<Text Name="GongMatch_JinAddV">
+			<DisplayName>Bonus Pencocokan Budidaya Elemen Emas</DisplayName>
+		</Text>
+		<Text Name="GongMatch_MuAddV">
+			<DisplayName>Bonus Pencocokan Budidaya Elemen Kayu</DisplayName>
+		</Text>
+		<Text Name="GongMatch_ShuiAddV">
+			<DisplayName>Bonus Pencocokan Budidaya Elemen Air</DisplayName>
+		</Text>
+		<Text Name="GongMatch_HuoAddV">
+			<DisplayName>Bonus Pencocokan Budidaya Elemen Api</DisplayName>
+		</Text>
+		<Text Name="GongMatch_TuAddV">
+			<DisplayName>Bonus Pencocokan Budidaya Elemen Tanah</DisplayName>
+		</Text>
+		<Text Name="GongMatch_NoneAddV">
+			<DisplayName>Bonus Pencocokan Teknik Budidaya Non-Elemen</DisplayName>
+		</Text>
+	</List>
+</Texts>
