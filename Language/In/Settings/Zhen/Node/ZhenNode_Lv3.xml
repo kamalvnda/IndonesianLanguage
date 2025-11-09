@@ -1,0 +1,166 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv3_2_1">
+			<DisplayName>Matahari-Bulan naik turun</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_2">
+			<DisplayName>Yin-Yang, hitam-putih</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_3">
+			<DisplayName>Dimensi dan waktu</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_4">
+			<DisplayName>titik awal dan titik akhir</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_5">
+			<DisplayName>hidup dan mati</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_6">
+			<DisplayName>ilmu rahasia kreativitas</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_1">
+			<DisplayName>Matahari surgawi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_2">
+			<DisplayName>Petir Matahari</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_3">
+			<DisplayName>Wareetawan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_4">
+			<DisplayName>Phu Pha Tawan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_5">
+			<DisplayName>Bulan Bumi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_6">
+			<DisplayName>badai bulan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_7">
+			<DisplayName>Agni Chandra</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_8">
+			<DisplayName>Bulan Air</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_9">
+			<DisplayName>Yang Surga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_10">
+			<DisplayName>Yang Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_11">
+			<DisplayName>Air Yang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_12">
+			<DisplayName>Yang Phupa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_13">
+			<DisplayName>Bumi Yang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_14">
+			<DisplayName>Angin Yin</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_15">
+			<DisplayName>Api Yin</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_16">
+			<DisplayName>Yinwaree</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_17">
+			<DisplayName>Surga luar angkasa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_18">
+			<DisplayName>Petir ruang dan waktu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_19">
+			<DisplayName>Air ruang dan waktu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_20">
+			<DisplayName>Gunung ruang dan waktu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_21">
+			<DisplayName>Dunia ruang dan waktu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_22">
+			<DisplayName>Angin luar angkasa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_23">
+			<DisplayName>Api luar angkasa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_24">
+			<DisplayName>Kolam luar angkasa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_25">
+			<DisplayName>Surga Pertama</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_26">
+			<DisplayName>Guntur Pertama</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_27">
+			<DisplayName>Pathomthara</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_28">
+			<DisplayName>Pathom Phupha</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_29">
+			<DisplayName>Akhir dunia</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_30">
+			<DisplayName>bagian terakhir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_31">
+			<DisplayName>api terakhir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_32">
+			<DisplayName>lautan terakhir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_33">
+			<DisplayName>surga kehidupan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_34">
+			<DisplayName>kilat kehidupan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_35">
+			<DisplayName>aliran kehidupan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_36">
+			<DisplayName>gunung kehidupan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_37">
+			<DisplayName>dunia kematian</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_38">
+			<DisplayName>angin kematian</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_39">
+			<DisplayName>api kematian</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_40">
+			<DisplayName>rawa kematian</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_41">
+			<DisplayName>Surga diciptakan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_42">
+			<DisplayName>Asanee Rangsan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_43">
+			<DisplayName>Gudangangsan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_44">
+			<DisplayName>Phupha Rangsan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_45">
+			<DisplayName>dunia takdir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_46">
+			<DisplayName>angin takdir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_47">
+			<DisplayName>Api Takdir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_48">
+			<DisplayName>lautan takdir</DisplayName>
+		</Text>
+	</List>
+</Texts>
