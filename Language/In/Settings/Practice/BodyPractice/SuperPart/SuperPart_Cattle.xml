@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cattle_1">
+			<Prefix>tulang dada</Prefix>
+			<Suffix>empat wali</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Iblis Banteng Purba. Tempa Guangzhou dengan kekuatan elemen emas, kayu, air, dan api. Hasilnya, tubuh mempunyai kemampuan misterius untuk mencerna sesuatu. Secara ajaib</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan secara signifikan level maksimum dari apa yang dapat dikonsumsi oleh Penggarap Fisik Abadi.\n Meningkatkan secara signifikan tingkat perolehan esensi dari item yang dimakan.\n Meningkatkan secara signifikan jumlah esensi yang diperoleh dari item yang dimakan.\n Sangat meningkatkan bonus konsumsi makanan dari Penggarap Fisik Abadi.\n Sangat meningkatkan tingkat perolehan energi fisik dari Penggarap Fisik Abadi.\n Ini sangat meningkatkan nafsu makan dari Penggarap Fisik Abadi.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cattle_2">
+			<Prefix>Dia</Prefix>
+			<Suffix>Menerobos bintang-bintang</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Iblis Banteng Purba. Fisik Misterius Tertinggi Ia akan memiliki kekuatan untuk menarik bintang dan menghancurkan segala sesuatu yang dilewatinya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
