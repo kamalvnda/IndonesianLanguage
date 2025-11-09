@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPratice_BodyRecover">
+			<DisplayName>Tingkat penyembuhan diri dari Penggarap Fisik Abadi</DisplayName>
+			<Desc>Kecepatan di mana para kultivator Immortal Physique menyembuhkan diri mereka sendiri ketika mereka terluka</Desc>
+			<DisplayValue>{0:P2}/detik</DisplayValue>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_MaxZhenQi">
+			<DisplayName>qi sejati tertinggi</DisplayName>
+			<Desc>Jumlah Qi Sejati tertinggi dari seorang Penggarap Fisik Abadi</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_RecoverZhenQi">
+			<DisplayName>Basis tingkat pemulihan Qi yang sebenarnya</DisplayName>
+			<Desc>Dasar dari tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_DefenseRecoverZhenQi">
+			<DisplayName>Tingkat pemulihan Qi yang sebenarnya</DisplayName>
+			<Desc>Tingkat pemulihan Qi Sejati per detik dari Penggarap Fisik Abadi ketika Qi Sejati mereka habis.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_CatchFaboValue">
+			<DisplayName>Tingkat penggunaan qi sejati untuk mengeja senjata ajaib</DisplayName>
+			<Desc>Tingkat penggunaan Qi Sejati untuk mengeja senjata ajaib Penggarap Fisik Abadi.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_BodyStrong">
+			<DisplayName>ketahanan fisik</DisplayName>
+			<Desc>Kemampuan untuk menyerap kerusakan dari Immortal Physique Cultivators. Semakin kuat tubuhnya, semakin baik. Semakin kecil kemungkinan Anda meninggal karena cedera Anda.</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_QuenchingSpeed">
+			<DisplayName>Kecepatan pemurnian fisik</DisplayName>
+			<Desc>Kecepatan pemurnian tubuh dari Penggarap Fisik Abadi</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
+			<DisplayName>Jumlah maksimum gerakan serangan Hidden Physique</DisplayName>
+			<Desc>Jumlah maksimum jurus serangan Hidden Physique yang dapat diaktifkan secara bersamaan.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
+			<DisplayName>Jumlah maksimum gerakan pertahanan Fisik Misterius</DisplayName>
+			<Desc>Jumlah maksimum gerakan pertahanan Fisik Misterius yang dapat diaktifkan secara bersamaan.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
+			<DisplayName>Jumlah maksimum hasil Fisik Misterius</DisplayName>
+			<Desc>Jumlah maksimum efek Fisik Misterius yang dapat diaktifkan secara bersamaan</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_Other_TunaAddp">
+			<DisplayName>Hasil tambahan dalam pernapasan berjalan</DisplayName>
+			<Desc>Bonus untuk mendapatkan inti elemen dari Penggarap Fisik Abadi dengan bernapas.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartCostAddP">
+			<DisplayName>Tingkat penggunaan Qi Sejati dari Fisik Misterius</DisplayName>
+			<Desc>Bonus Tingkat Konsumsi Qi Sejati dari semua Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartRecoverAddP">
+			<DisplayName>Tingkat pemulihan Qi Sejati dari Fisik Misterius</DisplayName>
+			<Desc>Bonus tingkat pemulihan Qi Sejati dari semua Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
+			<DisplayName>Basis Kekuatan Fisik Tersembunyi</DisplayName>
+			<Desc>Semua bonus kekuatan dasar Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefPower">
+			<DisplayName>Basis Daya Tahan Fisik Misterius</DisplayName>
+			<Desc>Bonus ketahanan dasar dari semua Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
+			<DisplayName>Basis Akurasi Fisik Tersembunyi</DisplayName>
+			<Desc>Bonus dasar akurasi dari semua Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefRate">
+			<DisplayName>Berdasarkan tingkat keberhasilan perlindungan Fisik Misterius</DisplayName>
+			<Desc>Bonus tingkat keberhasilan pertahanan dasar dari semua Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
+			<DisplayName>Berdasarkan tingkat keberhasilan serangan yang menembus penghalang energi mendalam dari Fisik Misterius</DisplayName>
+			<Desc>Bonus tingkat keberhasilan dasar untuk serangan yang menembus perisai energi mendalam dari semua Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
+			<DisplayName>Berdasarkan tingkat keberhasilan mengeja senjata ajaib Fisik Misterius.</DisplayName>
+			<Desc>Bonus tingkat keberhasilan dasar pada semua mantra senjata ajaib Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
+			<DisplayName>Basis Kekuatan Fisik Tersembunyi</DisplayName>
+			<Desc>Semua bonus kekuatan dasar Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefPower">
+			<DisplayName>Basis Daya Tahan Fisik Misterius</DisplayName>
+			<Desc>Bonus ketahanan dasar dari semua Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
+			<DisplayName>Basis Akurasi Fisik Tersembunyi</DisplayName>
+			<Desc>Bonus dasar akurasi dari semua Fisik Misterius yang diaktifkan</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefRate">
+			<DisplayName>Berdasarkan tingkat keberhasilan perlindungan Fisik Misterius</DisplayName>
+			<Desc>Bonus Tingkat Keberhasilan Pertahanan dasar dari semua Tingkat Keberhasilan Pertahanan Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
+			<DisplayName>Berdasarkan tingkat keberhasilan serangan yang menembus penghalang energi mendalam dari Fisik Misterius</DisplayName>
+			<Desc>Bonus tingkat keberhasilan dasar untuk serangan yang menembus perisai energi mendalam dari semua Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
+			<DisplayName>Berdasarkan tingkat keberhasilan mengeja senjata ajaib Fisik Misterius.</DisplayName>
+			<Desc>Bonus tingkat keberhasilan dasar pada semua mantra senjata ajaib Fisik Misterius yang diaktifkan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireNum">
+			<DisplayName>Jumlah maksimum kenangan menyakitkan</DisplayName>
+			<Desc>Jumlah maksimum kenangan menyakitkan yang bisa diingat oleh seorang Penggarap Fisik Abadi.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireDuration">
+			<DisplayName>Durasi kemarahan</DisplayName>
+			<Desc>Durasi kemarahan yang hiruk pikuk ketika Penggarap Fisik Abadi mengaktifkannya.</Desc>
+			<DisplayValue>{0:N} detik</DisplayValue>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireEffectAddp">
+			<DisplayName>Tingkat peningkatan kekuatan Mad Rage</DisplayName>
+			<Desc>Tingkat peningkatan kekuatan Insane Fury ketika Immortal Physique Cultivators mengaktifkannya.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemMaxRate">
+			<DisplayName>Item level tertinggi yang bisa ditelan.</DisplayName>
+			<Desc>Tingkat item yang bisa dimakan oleh Penggarap Fisik Abadi.</Desc>
+			<DisplayValue>Tingkat {0:N}</DisplayValue>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceCountAddp">
+			<DisplayName>Jumlah inti bonus dari penyerapan</DisplayName>
+			<Desc>Bonus Bonus Jumlah Inti yang diperoleh dari konsumsi seorang Penggarap Fisik Abadi</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceRateAddp">
+			<DisplayName>Bonus mendapatkan inti langka dari konsumsi</DisplayName>
+			<Desc>Bonus Bonus perolehan inti langka yang diperoleh dari konsumsi Penggarap Fisik Abadi.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache1">
+			<DisplayName>Bonus Pemurnian Tubuh yang Bagus</DisplayName>
+			<Desc>Peluang bonus untuk mendapatkan jalur evolusi tingkat bagus ketika Penggarap Fisik Abadi menyempurnakan Fisik.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache2">
+			<DisplayName>Bonus Pemurnian Tubuh Langka</DisplayName>
+			<Desc>Peluang bonus untuk mendapatkan jalur evolusi langka ketika Penggarap Fisik Abadi menyempurnakan Fisik.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache3">
+			<DisplayName>Bonus Pemurnian Fisik Tertinggi</DisplayName>
+			<Desc>Peluang bonus untuk menerima Jalur Evolusi Tertinggi ketika Penggarap Fisik Abadi menyempurnakan Fisiknya.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache4">
+			<DisplayName>Bonus Pemurnian Fisik Legendaris</DisplayName>
+			<Desc>Peluang bonus untuk mendapatkan jalur evolusi legendaris ketika Penggarap Fisik Abadi menyempurnakan Fisiknya.</Desc>
+			<FunctionKind>Statistik Kultivator</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Null">
+			<DisplayName>Bonus peluang kegagalan memurnikan tubuh.</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_MaxFoodAddtion">
+			<DisplayName>Bonus Kelaparan Maks</DisplayName>
+			<Desc>Bonus kelaparan maksimum dari Penggarap Fisik Abadi</Desc>
+			<FunctionKind>Statistik dasar</FunctionKind>
+		</Text>
+	</List>
+</Texts>
