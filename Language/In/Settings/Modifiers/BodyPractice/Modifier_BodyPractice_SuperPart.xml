@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV1">
+			<DisplayName>Mata Giok Darah 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV2">
+			<DisplayName>Mata Giok Darah 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV3">
+			<DisplayName>Mata Giok Darah 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV1">
+			<DisplayName>Hati Besi Yang 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV2">
+			<DisplayName>Hati Besi Yang 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV1">
+			<DisplayName>Kristal Hati Yin 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV2">
+			<DisplayName>Kristal Hati Yin 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_3_LV1">
+			<DisplayName>tulang belakang naga</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV1">
+			<DisplayName>Tungku Langit dan Bumi 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV2">
+			<DisplayName>Tungku Langit dan Bumi 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV3">
+			<DisplayName>Tungku Langit dan Bumi 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV4">
+			<DisplayName>Tungku Langit dan Bumi 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_2_10">
+			<DisplayName>Delapan Mata Arah</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_3_16">
+			<DisplayName>bintang berkilau</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_5">
+			<DisplayName>kaki mengembara di bawah sinar matahari</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_6">
+			<DisplayName>Sosok ilusi</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_7">
+			<DisplayName>Lengan Iblis</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV1">
+			<DisplayName>Tubuh seratus sentuhan</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV2">
+			<DisplayName>tubuh indra</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Boar_1">
+			<DisplayName>Darah Setan Kuno</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_1">
+			<DisplayName>Sembilan Fisik Misterius</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_2">
+			<DisplayName>Mata kaca yang tersegel ajaib</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cattle_1">
+			<DisplayName>Empat Tulang Dada Penjaga</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Chicken_2">
+			<DisplayName>Mahkota Api Surgawi</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Rabbit_2">
+			<DisplayName>kaki di atas awan</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Tiger_2">
+			<DisplayName>Tubuh bergerak mengikuti angin</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_1">
+			<DisplayName>menyerap jiwa</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_2">
+			<DisplayName>Tubuh setan</DisplayName>
+		</Text>
+	</List>
+</Texts>
