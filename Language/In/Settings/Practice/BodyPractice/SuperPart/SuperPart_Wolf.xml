@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Wolf_1">
+			<Prefix>menyerap</Prefix>
+			<Suffix>roh</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Serigala Primordial. Hal ini dapat meningkatkan peluang mendapatkan esensi dao saat ditelan. Tetapi jumlah Dao Essence yang diterima akan sangat berkurang.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan secara signifikan tingkat perolehan esensi dari item yang dimakan.\n Sangat mengurangi jumlah esensi yang diperoleh dari item yang dimakan.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Wolf_2">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Setan</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Serigala Primordial. Jika berhasil dipraktikkan, hal ini akan meningkatkan toleransi rasa sakit peserta pelatihan secara signifikan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan kekuatan fisik dari Penggarap Fisik Abadi.\n Sangat meningkatkan toleransi rasa sakit dari Penggarap Fisik Abadi.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
