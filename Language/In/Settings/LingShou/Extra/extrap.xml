@@ -1,0 +1,94 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fat">
+			<RaceExtra.0.Lv.0.SName>tipis</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Sangat tipis. Kecepatan gerakan meningkat pesat.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>tipis</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Relatif tipis. Kecepatan gerakan sedikit meningkat.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>angka proporsional</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Tidak gemuk, tidak kurus</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>cukup gemuk</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Kelihatannya agak gemuk. Jumlah maksimum Qi sedikit meningkat. Namun kecepatan gerakannya juga menurun.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>sangat gemuk</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Kelihatannya sangat gemuk, volume qi maksimumnya meningkat secara signifikan. Namun kecepatan geraknya juga menurun secara signifikan.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Stronger">
+			<RaceExtra.0.Lv.0.SName>tulang</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Kurus dan kering, kulit menempel pada tulang. Cooldown energi magis berkurang secara signifikan.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>atrofi otot</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Tipis tapi tidak kulitnya ditutupi tulang. Cooldown energi magis telah sedikit berkurang.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>bentuk biasa</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Tidak kering, tapi juga tidak berotot.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>sedikit berotot</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Ada beberapa otot. Inti iblis menjadi sedikit lebih kuat.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Otot-ototnya berkumpul.</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>berotot Kuat dan dalam kondisi yang baik Inti iblis menjadi jauh lebih kuat.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Justice">
+			<RaceExtra.0.Lv.0.SName>Roh iblis</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Roh Iblis: Mengurangi Qi Armor secara signifikan. Sekaligus meningkatkan kekuatan qi sihir dan inti iblis secara signifikan.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>kejahatan</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Jahat: Sedikit mengurangi armor. Sambil sedikit meningkatkan kekuatan sihir qi dan inti iblis juga.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Tidak baik, tidak jahat</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Di tengah-tengah, saya masih belum bisa membedakan apakah itu baik atau buruk.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Hati yang baik</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Pikiran Baik: Sedikit meningkatkan pelindung energi Anda. Sambil sedikit mengurangi kekuatan sihir qi dan inti iblis juga.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Pikiran ilahi</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Roh Ilahi: Meningkatkan Qi Armor secara signifikan. sekaligus secara signifikan mengurangi kekuatan qi ajaib dan inti batin juga.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>Roh iblis</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Roh Iblis: Mengurangi Qi Armor secara signifikan. Sambil secara signifikan meningkatkan kekuatan qi ajaib dan inti iblis. Secara signifikan meningkatkan laju metabolisme dan penyerapan air. sekaligus secara signifikan mengurangi tingkat penyerapan nutrisi juga</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>kejahatan</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Roh Iblis: Sedikit mengurangi Qi Armor. Sambil sedikit meningkatkan kekuatan sihir qi dan inti iblis. Meningkatkan laju metabolisme dan penyerapan air. sekaligus mengurangi laju penyerapan nutrisi</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>cukup buruk</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Mulailah merasakan kejahatan di hatimu.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>Cukup bagus</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>Mulailah merasakan kebaikan di hatimu.</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>Hati yang baik</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>Pikiran Baik: Sedikit meningkatkan pelindung energi Anda. Sambil sedikit mengurangi kekuatan sihir qi dan inti iblis juga. Menurunnya laju metabolisme dan penyerapan air sekaligus meningkatkan laju penyerapan nutrisi</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>Pikiran ilahi</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>Roh Ilahi: Meningkatkan Qi Armor secara signifikan. sekaligus secara signifikan mengurangi kekuatan qi ajaib dan inti batin juga. Secara signifikan mengurangi laju metabolisme dan penyerapan air. sekaligus secara signifikan meningkatkan laju penyerapan nutrisi juga</RaceExtra.1.Lv.5.Desc>
+		</Text>
+		<Text Name="NeiDan">
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>Saat menyerang musuh, terdapat 1% kemungkinan menimbulkan kerusakan tambahan yang setara dengan 30% pasokan energi target saat ini.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Setiap 9 serangan mengeluarkan energi magis pada musuh sasaran.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="GrowPercent">
+			<RaceExtra.0.Lv.0.SName>naga air</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Memiliki sebagian kecil kekuatan Dari seluruh kekuatan naga</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>naga air</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>memiliki kekuatan Dari semua kekuatan naga</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>naga air</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Miliki semua kekuatan naga.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>angsa yang menyala-nyala</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Memiliki sebagian kecil kekuatan Dari seluruh kekuatan Vermillion Swan</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>angsa yang menyala-nyala</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>memiliki kekuatan Dari seluruh kekuatan Vermillion Swan</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>angsa yang menyala-nyala</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Memiliki semua kekuatan Vermillion Swan</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.2.Lv.0.SName>rubah berekor sembilan</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.Desc>Memiliki sebagian kecil kekuatan Dari seluruh kekuatan Rubah Ekor Sembilan</RaceExtra.2.Lv.0.Desc>
+			<RaceExtra.2.Lv.1.SName>rubah berekor sembilan</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.Desc>memiliki kekuatan Dari seluruh kekuatan Rubah Ekor Sembilan</RaceExtra.2.Lv.1.Desc>
+			<RaceExtra.2.Lv.2.SName>rubah berekor sembilan</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.Desc>Memiliki semua kekuatan Rubah Ekor Sembilan.</RaceExtra.2.Lv.2.Desc>
+			<RaceExtra.3.Lv.0.SName>Anjing Surgawi</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.Desc>Memiliki sebagian kecil kekuatan Dari seluruh kekuatan Anjing Surgawi</RaceExtra.3.Lv.0.Desc>
+			<RaceExtra.3.Lv.1.SName>Anjing Surgawi</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.Desc>memiliki kekuatan Dari semua kekuatan Anjing Surgawi</RaceExtra.3.Lv.1.Desc>
+			<RaceExtra.3.Lv.2.SName>Anjing Surgawi</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.Desc>Memiliki semua kekuatan Anjing Surgawi</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>panda</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>Sedikit membangkitkan keseimbangan energi Yin dan Yang.</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>panda</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>Membangkitkan keseimbangan yin dan yang sampai batas yang wajar.</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>panda</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>Membangkitkan keseimbangan sempurna energi yin dan yang.</RaceExtra.4.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>kura-kura hitam</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>Memiliki sebagian kecil kekuatan Dari seluruh kekuatan Penyu Hitam</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>kura-kura hitam</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>memiliki kekuatan Dari seluruh kekuatan Penyu Hitam</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>kura-kura hitam</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>Memiliki semua kekuatan Penyu Hitam.</RaceExtra.5.Lv.2.Desc>
+		</Text>
+	</List>
+</Texts>
