@@ -1,0 +1,54 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FightSkillEsoterica_1">
+      <DisplayName>Kesombongan bawaan</DisplayName>
+      <Desc>Sebuah teknik yang memungkinkan penggunanya memadatkan Qi di telapak tangan mereka dan melepaskannya ke arah musuh.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Kesombongan bawaan[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_2">
+      <DisplayName>Api yang Mengamuk</DisplayName>
+      <Desc>Mantra ini memungkinkan Anda menyalurkan amukan kekuatan api yang ada antara Langit dan Bumi untuk menghanguskan musuh Anda.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Api Mengamuk[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_3">
+      <DisplayName>Guntur Surgawi Logam</DisplayName>
+      <Desc>Arahkan aliran Qi Logam antara Langit dan Bumi dan padatkan menjadi Guntur Ilahi</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Metal Heavenly Thunder[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_4">
+      <DisplayName>Pemadaman Roh</DisplayName>
+      <Desc>Serang musuhmu dengan cahaya tiada tara, hancurkan Jiwa Baru Lahir mereka</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pemadaman Roh[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong1_1">
+      <DisplayName>Pengisian Air</DisplayName>
+      <Desc>Arahkan aliran Qi Air antara langit dan Bumi untuk mengisi Qi target teman.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pengisian Air[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong3_1">
+      <DisplayName>Resonansi Pedang Ilahi</DisplayName>
+      <Desc>Gunakan Jiwa Baru Lahir Anda untuk terikat dengan harta karun Anda, tingkatkan kekuatannya secara signifikan.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Resonansi Pedang Ilahi[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_1">
+      <DisplayName>Badai Kemurnian Giok</DisplayName>
+      <Desc>Memanggil Jade Purity Storm, menyebabkan banyak kerusakan pada semua target musuh di area tersebut.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Jade Purity Storm[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_2">
+      <DisplayName>Perisai Bumi Tebal</DisplayName>
+      <Desc>Meningkatkan semua aspek perlindungan Qi Anda.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Perisai Tanah Tebal[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong4_3">
+      <DisplayName>Peremajaan</DisplayName>
+      <Desc>Panggil Wood Qi di area tersebut untuk mengisi kembali Qi Anda.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Peremajaan[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="FightSkillEsoterica_Gong9_1">
+      <DisplayName>Reinkarnasi Terbalik</DisplayName>
+      <Desc>Gunakan kekuatan reinkarnasi untuk mengisi kembali Qi secara signifikan.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Reinkarnasi Terbalik[/color][/size]</EffectDesc>
+    </Text>
+  </List>
+</Texts>
