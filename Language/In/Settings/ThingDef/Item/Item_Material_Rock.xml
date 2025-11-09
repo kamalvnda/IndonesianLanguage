@@ -1,0 +1,57 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBase" sParam="Item">
+			<Item.FabaoSuffix>batu, stempel, nisan, giok ganda, piring, menara, megalit</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRock" sParam="Item">
+			<ThingName>batu coklat</ThingName>
+			<Desc>batu berwarna coklat Ini adalah bahan baku yang umum.</Desc>
+			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRock" sParam="Item">
+			<ThingName>batu abu-abu</ThingName>
+			<Desc>batu berwarna abu-abu Ini adalah bahan baku yang umum.</Desc>
+			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Marble" sParam="Item">
+			<ThingName>marmer</ThingName>
+			<Desc>Marmer adalah bahan batu biasa. Permukaannya cukup indah dan menarik.</Desc>
+			<Item.BeMaterial.NamePrefix>marmer</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Jade" sParam="Item">
+			<ThingName>giok</ThingName>
+			<Desc>Batu berbutir halus yang keras dan berkilau. Ini sedikit tembus cahaya. Permukaannya sangat menarik. Itu juga dipenuhi dengan sifat spiritual.</Desc>
+			<Item.BeMaterial.NamePrefix>giok</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeEssence" sParam="Item">
+			<ThingName>inti batu giok</ThingName>
+			<Desc>Inti batu giok ringan, memiliki permukaan halus, dan sangat indah. Seringkali digunakan sebagai hiasan peralatan atau bangunan kelas atas, dan terkadang dapat digunakan sebagai bahan ramuan.</Desc>
+			<Item.BeMaterial.NamePrefix>inti batu giok</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StoneEssence" sParam="Item">
+			<ThingName>inti batu</ThingName>
+			<Desc>Inti batunya ringan, permukaannya halus, dan sangat indah. Seringkali digunakan sebagai hiasan peralatan atau bangunan kelas atas, dan terkadang dapat digunakan sebagai bahan ramuan.</Desc>
+			<Item.BeMaterial.NamePrefix>inti batu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStone" sParam="Item">
+			<ThingName>batu suci</ThingName>
+			<Desc>Jenis batu langka yang konon diambil dari pilar yang jatuh dari langit. Itu memiliki unsur qi tanah murni yang dikemas bersama di dalamnya.</Desc>
+			<Item.BeMaterial.NamePrefix>batu suci</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ExtremeJade" sParam="Item">
+			<ThingName>Giok Ilahi</ThingName>
+			<Desc>Harta berharga yang didambakan oleh para penggarap. Biasanya muncul sebagai batang kristal berwarna hijau kebiruan. Itu memiliki unsur qi tanah murni yang dikemas bersama di dalamnya.</Desc>
+			<Item.BeMaterial.NamePrefix>Giok Ilahi</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStone" sParam="Item">
+			<ThingName>batu roh</ThingName>
+			<Desc>Sebuah batu yang terbuat dari kondensasi Qi yang sangat terkonsentrasi. Penggarap dapat menggunakannya untuk memulihkan 500 unit Qi dan juga meningkatkan penyerapan Qi mereka untuk jangka waktu tertentu.</Desc>
+			<Item.BeMaterial.NamePrefix>batu roh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystal" sParam="Item">
+			<ThingName>Kristal Roh</ThingName>
+			<Desc>Kristal yang dibentuk oleh kondensasi Qi yang sangat terkonsentrasi. Penggarap dapat menggunakannya untuk memulihkan 20.000 unit Qi, dan juga meningkatkan penyerapan Qi mereka secara signifikan untuk jangka waktu tertentu.</Desc>
+			<Item.BeMaterial.NamePrefix>Kristal Roh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
