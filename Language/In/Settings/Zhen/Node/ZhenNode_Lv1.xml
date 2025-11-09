@@ -1,0 +1,178 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv1_3_1">
+			<DisplayName>Pedang Rahasia Moralitas</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_2">
+			<DisplayName>Kutukan rahasia pembuktian</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_3">
+			<DisplayName>Armor Ekor Kalajengking</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_4">
+			<DisplayName>Sisik Ular</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_5">
+			<DisplayName>Penyu ekor pedang</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_6">
+			<DisplayName>Sihir pengubah bentuk kura-kura</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_7">
+			<DisplayName>Armor Penyu Tanpa Noda</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_8">
+			<DisplayName>Badai duri</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_9">
+			<DisplayName>Angin pasti mengutuk</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_10">
+			<DisplayName>duri rahasia kuno</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_11">
+			<DisplayName>Roh Pohon</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_12">
+			<DisplayName>Tanaman penahan batu</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_13">
+			<DisplayName>Jari-jari Pedang</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_14">
+			<DisplayName>Segel Rahasia Seribu Cara</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_15">
+			<DisplayName>Tahan kebenarannya</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_16">
+			<DisplayName>perubahan yang tak terbatas</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_1">
+			<DisplayName>menyeimbangkan dua dunia</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_2">
+			<DisplayName>Suara derek</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_3">
+			<DisplayName>Naga Awan Petir</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_4">
+			<DisplayName>Naga air membumbung tinggi di langit</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_5">
+			<DisplayName>Gelombang Pedang</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_6">
+			<DisplayName>badai mengamuk</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_7">
+			<DisplayName>Pedang yang menembus dunia</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_8">
+			<DisplayName>Pasir Kutukan Ilahi</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_9">
+			<DisplayName>Pilar Krabi</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_10">
+			<DisplayName>Pilar Seribu Cara</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_11">
+			<DisplayName>Pilar Kebenaran</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_12">
+			<DisplayName>Pilar pikiran yang dalam</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_1">
+			<DisplayName>Pedang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_2">
+			<DisplayName>sihir</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_3">
+			<DisplayName>moral</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_4">
+			<DisplayName>lembut</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_1">
+			<DisplayName>link</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_2">
+			<DisplayName>menanggapi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_3">
+			<DisplayName>Pedang Moralitas</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_4">
+			<DisplayName>pedang yang lembut</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_5">
+			<DisplayName>Tindakan Moral</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_6">
+			<DisplayName>perintah yang lembut</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_7">
+			<DisplayName>pedang tajam</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_8">
+			<DisplayName>Prinsip meditasi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_9">
+			<DisplayName>dua pikiran moral</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_10">
+			<DisplayName>bergabung dengan penyerahan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_1">
+			<DisplayName>Pedang Rahasia</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_2">
+			<DisplayName>Kutukan Rahasia</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_3">
+			<DisplayName>ekor kalajengking</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_4">
+			<DisplayName>Sisik ular</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_5">
+			<DisplayName>Perut Buaya</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_6">
+			<DisplayName>lagu naga</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_7">
+			<DisplayName>pemindah penyu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_8">
+			<DisplayName>Pedang Derek</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_9">
+			<DisplayName>Bayangan yang menipu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_10">
+			<DisplayName>duri pinus</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_11">
+			<DisplayName>karakter kuno</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_12">
+			<DisplayName>baju besi rotan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_13">
+			<DisplayName>Kehendak Pedang</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_14">
+			<DisplayName>Hukum penyegelan</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_15">
+			<DisplayName>moralitas yang sebenarnya</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_16">
+			<DisplayName>Sangat lembut</DisplayName>
+		</Text>
+	</List>
+</Texts>
