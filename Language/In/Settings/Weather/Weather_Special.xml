@@ -1,0 +1,1123 @@
+<Weathers>
+  <List>
+	<!--系统天气-->
+	<!-- 特殊天气type占位
+	结界类天气type 99
+	 100 凶凰炎热
+	 101 洞穴
+	 -->
+	 
+	<Weather Name="LingUpWave_Sp">
+		<DisplayName>kegilaan reiki</DisplayName>
+		<StoryDesc>Energi spiritual meledak</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<ClassName/>
+		<Modifier>Weather_LingUpWave</Modifier>
+		<DurationMin>14</DurationMin>
+		<DurationMax>14</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="0"/>	
+			<li Name="LingAddtionAddV" Value="300"/>
+		</MapEffect>
+		<Event>1001</Event>
+	</Weather>
+	
+	<Weather Name="FireRain"><!--灭火用的-->
+		<Icon>res/Sprs/ui/icon_xiaoyu01</Icon>
+		<DisplayName>Hujan sedang</DisplayName>
+		<Kind>Type1</Kind>
+		<DurationMin>0.1</DurationMin>
+		<DurationMax>0.2</DurationMax>
+		<SunColor>588BA900</SunColor>		
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.3</ShowWeight>		
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-2"/>
+			<li Name="LightAddP" Value="-0.4"/>
+			<li Name="TempAddV" Value="-5"/>
+			<li Name="ShuiAddP" Value="3"/>	
+		</MapEffect>
+	</Weather>
+
+	<Weather Name="Rainstorm_Teach"><!--教学专用天气-->
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Hujan deras seperti air terjun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Rainstorm</Modifier>
+		<DurationMin>10</DurationMin>
+		<DurationMax>10</DurationMax>
+<!--		<SunColor>0F2747FF</SunColor>	-->	
+	
+		<Thunder>0.6</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.6</ShowWeight>
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="LightAddP" Value="-0.6"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="Rainstorm_Teach2"><!--教学专用天气-->
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Hujan deras seperti air terjun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<DurationMin>10</DurationMin>
+		<DurationMax>10</DurationMax>
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="LightAddP" Value="-0.6"/>
+		</MapEffect>
+	</Weather>
+
+	<Weather Name="LightningStorm_Hack"><!--真仙惩戒-->
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Membalikkan sebab dan akibat, dan akan ada harmoni.</StoryDesc>
+		<Icon>res/Sprs/ui/icon_leibao01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_LightningStorm</Modifier>
+		<DurationMin>9999</DurationMin>
+		<DurationMax>9999</DurationMax>
+		<SunColor>2D2A26C6</SunColor>	
+	
+		<Thunder>1</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.8</ShowWeight>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="JinAddP" Value="6"/>
+			
+			<li Name="JinBroken" Value="0.04"/>
+			<li Name="MuBroken" Value="-0.08"/>
+			<li Name="ShuiBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+
+<!-- 灵植天气 -->
+
+<Weather Name="Rainstorm_AllSeason">
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Hujan deras seperti air terjun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Rainstorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>26589EFF</SunColor>		
+	
+		<Thunder>0.6</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.5</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-0.5"/>
+			<li Name="LightAddP" Value="-0.3"/>
+			<li Name="TempAddV" Value="-4"/>
+			<li Name="ShuiAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.5"/>
+			
+			<li Name="MuBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="Fohn_AllSeason">
+		<DisplayName>foehn</DisplayName>
+		<StoryDesc>Foehnnya menyala-nyala</StoryDesc>
+		<Icon>res/Sprs/ui/icon_fenfeng01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Fohn</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>FFAEAEFF</SunColor>			
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="0.5"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="8"/>
+			<li Name="HuoAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.3"/>
+			
+			<li Name="JinBroken" Value="-0.08"/>
+			<li Name="HuoBroken" Value="0.04"/>
+			<li Name="TuBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="DustStorm_AllSeason">
+		<DisplayName>badai debu</DisplayName>
+		<StoryDesc>Di langit penuh pasir kuning</StoryDesc>
+		<Icon>res/Sprs/ui/icon_chenbao01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_DustStorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>7E853EFF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>SandMist</ShowKind>
+		<ShowWeight>0.03</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.5"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="TuAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.3"/>	
+			
+			<li Name="JinBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="-0.08"/>
+			<li Name="TuBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="Miasma_AllSeason">
+		<DisplayName>racun</DisplayName>
+		<StoryDesc>Racun meresap ke udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_wenqi01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Miasma</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>FF87F2FF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.2"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="MuAddP" Value="6"/>
+			
+			<li Name="MuBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="0.08"/>
+			<li Name="TuBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="LightningStorm_AllSeason">
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Badai petir mengaum, ular listrik menari dengan liar</StoryDesc>
+		<Icon>res/Sprs/ui/icon_leibao01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_LightningStorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>2D2A26C6</SunColor>	
+	
+		<Thunder>1</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="JinAddP" Value="6"/>
+			
+			<li Name="JinBroken" Value="0.04"/>
+			<li Name="MuBroken" Value="-0.08"/>
+			<li Name="ShuiBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	
+	
+	<Weather Name="JinLingMiMan">
+		<DisplayName>Semangat emas memenuhi udara</DisplayName>
+		<StoryDesc>Aura metalik meresap di udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="JinAddP" Value="6"/>
+			
+			<li Name="MuBroken" Value="-0.08"/>
+			<li Name="ShuiBroken" Value="0.08"/>
+			<li Name="JinBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="MuLingMiMan">
+		<DisplayName>Semangat kayu memenuhi udara</DisplayName>
+		<StoryDesc>Aura atribut kayu menyebar di udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>		
+	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="MuAddP" Value="6"/>
+			
+			<li Name="TuBroken" Value="-0.08"/>
+			<li Name="HuoBroken" Value="0.08"/>
+			<li Name="MuBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="ShuiLingMiMan">
+		<DisplayName>Semangat berair memenuhi udara</DisplayName>
+		<StoryDesc>Aura atribut air meresap ke udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>	
+	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="ShuiAddP" Value="6"/>
+			
+			<li Name="HuoBroken" Value="-0.08"/>
+			<li Name="MuBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="HuoLingMiMan">
+		<DisplayName>Roh api memenuhi udara</DisplayName>
+		<StoryDesc>Aura atribut api merembes ke udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="HuoAddP" Value="6"/>
+			
+			<li Name="JinBroken" Value="-0.08"/>
+			<li Name="TuBroken" Value="0.08"/>
+			<li Name="HuoBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	
+	<Weather Name="TuLingMiMan">
+		<DisplayName>Roh bumi meresap ke udara</DisplayName>
+		<StoryDesc>Aura bumi menyebar di udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>	
+	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="TuAddP" Value="6"/>
+			
+			<li Name="ShuiBroken" Value="-0.08"/>
+			<li Name="JinBroken" Value="0.08"/>
+			<li Name="TuBroken" Value="0.04"/>
+		</MapEffect>
+		
+	</Weather>
+	<Weather Name="LingUpWave_Big">
+		<DisplayName>Semangat yang melonjak</DisplayName>
+		<StoryDesc>Energi spiritual melonjak</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type4</Kind>
+		<ClassName/>
+		<Modifier>Weather_LingUpWave</Modifier>
+		<DurationMin>1</DurationMin>
+		<DurationMax>3</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="LingAddtionAddV" Value="400"/>
+		</MapEffect>
+		<Event>1001</Event>
+	</Weather>
+	
+	<Weather Name="LingRarefiedWave_Big">
+		<DisplayName>Penipisan energi spiritual</DisplayName>
+		<StoryDesc>Energi spiritual mengering</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type4</Kind>
+		<ClassName/>
+		<Modifier>Weather_LingRarefiedWave</Modifier>
+		<DurationMin>1</DurationMin>
+		<DurationMax>3</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="LingAddtionAddV" Value="-800"/>
+		</MapEffect>
+	</Weather>
+	
+	
+	
+	<!-- 凶凰前奏事件相关 天气 -->
+	<Weather Name="Weather_Boss_Drought">
+		<DisplayName>suhu yang luar biasa tinggi</DisplayName>
+		<StoryDesc>dalam suhu yang luar biasa tinggi</StoryDesc>
+		<Icon>res/Sprs/ui/icon_ganhan01</Icon>
+		<Kind>Type100</Kind>
+		<ClassName/>
+		<Modifier>Weather_Drought</Modifier>
+		<DurationMin>9</DurationMin>
+		<DurationMax>12</DurationMax>
+		<SunColor>D8BF6FFF</SunColor>		
+		<CantDispel>1</CantDispel>
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="TempAddV" Value="15"/>
+			<li Name="HuoAddP" Value="4"/>
+			
+			<li Name="JinBroken" Value="-0.08"/>
+			<li Name="HuoBroken" Value="0.04"/>
+			<li Name="TuBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="Weather_Boss_HighTemp">
+		<DisplayName>semakin intensifnya kekeringan</DisplayName>
+		<StoryDesc>Kekeringan tampaknya semakin parah</StoryDesc>
+		<Icon>res/Sprs/ui/icon_ganhan01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Drought</Modifier>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+		<SunColor>D8BF6FFF</SunColor>		
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="0.75"/>
+			<li Name="LightAddP" Value="0.3"/>
+			<li Name="FertilityAddP" Value="-1"/>
+			<li Name="HuoAddP" Value="5"/>
+			
+			<li Name="JinBroken" Value="-0.1"/>
+			<li Name="HuoBroken" Value="0.05"/>
+			<li Name="TuBroken" Value="0.1"/>
+			<li Name="TempAddV" SpeedPerDay="0.5"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="DimCave">
+		<DisplayName>gua</DisplayName>
+		<StoryDesc>gua redup</StoryDesc>
+		<Icon>res/Sprs/ui/w9</Icon>
+		<Kind>Type101</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+		<SunColor>001D29FF</SunColor>			
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<LockHour>23</LockHour>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.6"/>
+			
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="ForestRain">
+		<DisplayName>hujan</DisplayName>
+		<StoryDesc>Hujan turun di hutan hujan</StoryDesc>
+		<Icon>res/Sprs/ui/icon_xiaoyu01</Icon>
+		<Kind>Type101</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+		<SunColor>001D29FF</SunColor>
+		
+		<Thunder>0</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.3</ShowWeight>
+		<LockHour>23</LockHour>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.4"/>
+			
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="LightSnow_Fov">
+		<DisplayName>Xiaoxue</DisplayName>
+		<StoryDesc>Salju tipis turun satu demi satu, benang perak memenuhi langit, dan salju halus turun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_xiaoxue01</Icon>
+		<TempMax>5</TempMax>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_LightSnow</Modifier>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+<!--		<SunColor>73C9DF00</SunColor>		-->	
+	
+		<Thunder>0</Thunder>
+		<ShowKind>Snow</ShowKind>
+		<ShowWeight>0.3</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>
+		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-1.5"/>
+			<li Name="LightAddP" Value="-0.3"/>
+			<li Name="TempAddV" Value="-3"/>
+			<li Name="FertilityAddP" Value="0.3"/>
+			<li Name="ShuiAddP" Value="2"/>	
+			
+			<li Name="MuBroken" Value="0.04"/>
+			<li Name="ShuiBroken" Value="0.02"/>
+			<li Name="HuoBroken" Value="-0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="SunSet">
+		<DisplayName>matahari terbenam</DisplayName>
+		<StoryDesc>matahari terbenam</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>Type101</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+		<SunColor>D8582EFF</SunColor>
+		
+		<ShowWeight>0.3</ShowWeight>		
+		<Thunder>0</Thunder>
+		<LockHour>18</LockHour>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.4"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="DustPlace">
+		<DisplayName>badai debu</DisplayName>
+		<StoryDesc>Di langit penuh pasir kuning</StoryDesc>
+		<Icon>res/Sprs/ui/icon_chenbao01</Icon>
+		<Kind>Type101</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+		<SunColor>7E853EFF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>SandMist</ShowKind>
+		<ShowWeight>0.03</ShowWeight>
+		<LockHour>18</LockHour>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.5"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="TuAddP" Value="6"/>
+			
+			<li Name="JinBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="-0.08"/>
+			<li Name="TuBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="EverSnow">
+		<DisplayName>Xiaoxue</DisplayName>
+		<StoryDesc>Salju tipis turun satu demi satu, benang perak memenuhi langit, dan salju halus turun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_xiaoxue01</Icon>
+		<Kind>Type101</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+<!--		<SunColor>73C9DF00</SunColor>		-->	
+	
+		<Thunder>0</Thunder>
+		<ShowKind>Snow</ShowKind>
+		<ShowWeight>0.3</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-1.5"/>
+			<li Name="LightAddP" Value="-0.3"/>
+			<li Name="TempAddV" Value="-3"/>
+			<li Name="FertilityAddP" Value="0.3"/>
+			<li Name="ShuiAddP" Value="2"/>	
+			
+			<li Name="MuBroken" Value="0.04"/>
+			<li Name="ShuiBroken" Value="0.02"/>
+			<li Name="HuoBroken" Value="-0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="Weather_Magic_ZhenShuiJieJie">
+		<DisplayName>Alam Air Sejati Sembilan Yin</DisplayName>
+		<StoryDesc>Di Alam Air Sejati Sembilan Yin</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type99</Kind>
+		<ClassName/>
+		<Modifier>Modifier_Weather_Magic_ZhenShuiJieJie</Modifier>
+		<DurationMin>1</DurationMin>
+		<DurationMax>1</DurationMax>
+		<SunColor>26589EFF</SunColor>	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="TempAddV" Value="-100"/>
+			<li Name="ShuiAddP" Value="6"/>
+			
+			<li Name="MuBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	
+	<Weather Name="Weather_Magic_BeiDouJianJie">
+		<DisplayName>Dunia pedang Beidou</DisplayName>
+		<StoryDesc>Dunia pedang Beidou</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type99</Kind>
+		<ClassName/>
+		<Modifier>Modifier_Weather_Magic_BeiDouJianJie</Modifier>
+		<DurationMin>1</DurationMin>
+		<DurationMax>1</DurationMax>
+		<SunColor>26589EFF</SunColor>	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+	</Weather>
+	
+	<Weather Name="Weather_Magic_ZhenHuoJieJie">
+		<DisplayName>Alam Api Ilahi Jiuyang</DisplayName>
+		<StoryDesc>Di Alam Api Sembilan Yang Ilahi</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type99</Kind>
+		<ClassName/>
+		<Modifier>Modifier_Weather_Magic_ZhenHuoJieJie</Modifier>
+		<DurationMin>1</DurationMin>
+		<DurationMax>1</DurationMax>
+		<SunColor>26589EFF</SunColor>	
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="TempAddV" Value="100"/>
+			<li Name="HuoAddP" Value="6"/>
+			
+			<li Name="TuBroken" Value="0.08"/>
+			<li Name="HuoBroken" Value="0.04"/>
+			<li Name="JinBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="System_Qiankunjie"><!--小乾坤界-->
+		<DisplayName/>
+		<StoryDesc/>
+		<Icon>res/Sprs/ui/w5</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<SunColor>417FB200</SunColor>	
+		<Modifier/>
+		<DurationMin>99999</DurationMin>
+		<DurationMax>99999</DurationMax>
+<!--		<SunColor>0F2747FF</SunColor>	-->	
+	
+		<Thunder>0</Thunder>	
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+	</Weather>
+
+	<Weather Name="LingUpWave_Mutation"><!--天道异变用-->
+		<DisplayName>Aura meledak</DisplayName>
+		<StoryDesc>Energi spiritual meledak</StoryDesc>
+		<Icon>res/Sprs/ui/icon_kujie01</Icon>
+		<Kind>120</Kind>
+		<ClassName/>
+		<Modifier>Weather_LingUpWave</Modifier>
+		<DurationMin>3</DurationMin>
+		<DurationMax>10</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="LingAddtionAddV" Value="500"/>
+		</MapEffect>
+		<Event>1001</Event>
+	</Weather>
+
+	<Weather Name="Yang_Mutation"><!--天道异变用-->
+		<DisplayName>Tanah harta karun anoda</DisplayName>
+		<StoryDesc>Negeri matahari</StoryDesc>
+		<Icon>res/Sprs/ui/icon_qingtian01</Icon>
+		<Kind>121</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999999</DurationMin>
+		<DurationMax>99999999</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+
+		<MapEffect>
+			<li Name="LingAddtionAddV" Value="100"/>
+			<li Name="HuoAddP" Value="5"/>
+			<li Name="MuAddP" Value="5"/>
+			<li Name="TempAddV" Value="20"/>
+		</MapEffect>
+	</Weather>
+
+	<Weather Name="Yin_Mutation"><!--天道异变用-->
+		<DisplayName>Tanah harta karun Yinji</DisplayName>
+		<StoryDesc>Tempat paling gelap</StoryDesc>
+		<Icon>res/Sprs/ui/icon_hanliu01</Icon>
+		<Kind>123</Kind>
+		<ClassName/>
+		<Modifier/>
+		<DurationMin>99999999</DurationMin>
+		<DurationMax>99999999</DurationMax>
+		<!--<SunColor>663333FF</SunColor>			-->
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+
+		<MapEffect>
+			<li Name="LingAddtionAddV" Value="100"/>
+			<li Name="ShuiAddP" Value="5"/>
+			<li Name="JinAddP" Value="5"/>
+			<li Name="TempAddV" Value="-20"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="MouldRains_Mutation">
+		<DisplayName>musim hujan</DisplayName>
+		<StoryDesc>Hujan plum masih berlanjut, hujan terus turun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_mieyu01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_MouldRains</Modifier>
+		<DurationMin>6</DurationMin>
+		<DurationMax>8</DurationMax>
+		<SunColor>134440FF</SunColor>
+	
+		<Thunder>0</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.4</ShowWeight>
+
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-1"/>
+			<li Name="LightAddP" Value="-0.3"/>
+			<li Name="TempAddV" Value="-3"/>
+			<li Name="FertilityAddP" Value="0.5"/>
+			<li Name="ShuiAddP" Value="2"/>
+			
+			<li Name="MuBroken" Value="0.02"/>
+			<li Name="ShuiBroken" Value="0.01"/>
+			<li Name="HuoBroken" Value="-0.02"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="Drought_Mutation">
+		<DisplayName>kekeringan</DisplayName>
+		<StoryDesc>Terbakar di bawah terik matahari</StoryDesc>
+		<Icon>res/Sprs/ui/icon_ganhan01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Drought</Modifier>
+		<DurationMin>4</DurationMin>
+		<DurationMax>12</DurationMax>
+		<SunColor>D8BF6FFF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+	
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="0.75"/>
+			<li Name="LightAddP" Value="0.3"/>
+			<li Name="TempAddV" Value="4"/>
+			<li Name="FertilityAddP" Value="-0.5"/>
+			<li Name="HuoAddP" Value="2"/>
+			
+			<li Name="JinBroken" Value="-0.04"/>
+			<li Name="HuoBroken" Value="0.02"/>
+			<li Name="TuBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="Rainstorm_Mutation">
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Hujan deras seperti air terjun</StoryDesc>
+		<Icon>res/Sprs/ui/icon_baoyu01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Rainstorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>26589EFF</SunColor>		
+	
+		<Thunder>0.6</Thunder>
+		<ShowKind>Rain</ShowKind>
+		<ShowWeight>0.5</ShowWeight>
+
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-0.5"/>
+			<li Name="LightAddP" Value="-0.3"/>
+			<li Name="TempAddV" Value="-4"/>
+			<li Name="ShuiAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.5"/>
+			
+			<li Name="MuBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="DustStorm_Mutation">
+		<DisplayName>badai debu</DisplayName>
+		<StoryDesc>Di langit penuh pasir kuning</StoryDesc>
+		<Icon>res/Sprs/ui/icon_chenbao01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_DustStorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>7E853EFF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>SandMist</ShowKind>
+		<ShowWeight>0.03</ShowWeight>
+
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.5"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="TuAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.3"/>	
+			
+			<li Name="JinBroken" Value="0.08"/>
+			<li Name="ShuiBroken" Value="-0.08"/>
+			<li Name="TuBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="Miasma_Mutation">
+		<DisplayName>racun</DisplayName>
+		<StoryDesc>Racun meresap ke udara</StoryDesc>
+		<Icon>res/Sprs/ui/icon_wenqi01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Miasma</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>FF87F2FF</SunColor>		
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="-0.2"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="MuAddP" Value="6"/>
+			
+			<li Name="MuBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="0.08"/>
+			<li Name="TuBroken" Value="-0.08"/>
+		</MapEffect>
+	</Weather>
+	<Weather Name="LightningStormNoLong_Mutation">
+		<DisplayName>hujan badai</DisplayName>
+		<StoryDesc>Badai petir mengaum, ular listrik menari dengan liar</StoryDesc>
+		<Icon>res/Sprs/ui/icon_leibao01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_LightningStorm</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>2D2A26C6</SunColor>	
+	
+		<Thunder>1</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="1"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="0"/>
+			<li Name="JinAddP" Value="6"/>
+			
+			<li Name="JinBroken" Value="0.04"/>
+			<li Name="MuBroken" Value="-0.08"/>
+			<li Name="ShuiBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="FohnNoFeng_Mutation"> 
+		<DisplayName>foehn</DisplayName>
+		<StoryDesc>Foehnnya menyala-nyala</StoryDesc>
+		<Icon>res/Sprs/ui/icon_fenfeng01</Icon>
+		<Kind>Type1</Kind>
+		<ClassName/>
+		<Modifier>Weather_Fohn</Modifier>
+		<DurationMin>0.3</DurationMin>
+		<DurationMax>0.8</DurationMax>
+		<SunColor>FFAEAEFF</SunColor>			
+	
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+	
+		
+		<IllustratedHandLabel>Dele</IllustratedHandLabel>
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="0.5"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="8"/>
+			<li Name="HuoAddP" Value="6"/>
+			<li Name="FertilityAddP" Value="-0.3"/>
+			
+			<li Name="JinBroken" Value="-0.08"/>
+			<li Name="HuoBroken" Value="0.04"/>
+			<li Name="TuBroken" Value="0.08"/>
+		</MapEffect>
+	</Weather>
+</List>
+</Weathers>
