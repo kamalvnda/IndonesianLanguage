@@ -1,0 +1,63 @@
+阳鱼	Yang Fish
+阴鱼	Yin Fish
+阳眼	Yang Eye
+阴眼	Yin Eye
+蜚皮休闲衣衫	Fei Hide Casual Shirt
+蜚皮薄下裳	Fei Hide Thin Pants
+巧夺天工的神兵，融合制作者的心血与灵感而成。	"A divine weapon crafted with ingenuity, forged with the creator's blood, sweat and inspiration."
+狂战	Wood Blade
+梧桐神木	Phoenixwood
+枝	Branch
+梧桐木角料	Phoenixwood Offcut
+甲乙诛神钉	Eastern God Punishing Nail
+观音土	Guanyin Clay
+冲虚魔灵宝	Facing the Void Demon Numinous Treasure
+狼皮	Wolf Hide
+行疆千魂障	Trekking Thousand Souls  Cover
+天柱石	Holy Stone
+坤元七魄镇	Earthbound Seven Souls  Tower
+垃圾	Rubbish
+万里饮血渣	Marching Blood Draining  Poison
+佩戴者可以从根本上提高法术威力，法术灵气消耗。	Fundamentally increases the wearer's Spell Power and Qi Cost.
+圣咒符	Sacredcurse Talisman
+佩戴者可以从根本上提高法宝威力，并全面提高法宝能力。	"Fundamentally increases the wearer's Artifact Power, and comprehensively improves Artifact abilities."
+圣剑符	Sacredsword Talisman
+提高饮气辟谷的效率。	Used to raise efficiency of Qi absorption and fasting.
+饮气符	Talisman of Qi Absorption
+可以提高炼制法宝成功率的符咒。	Talisman used to improve success rate of artifact crafting.
+太上通宝符	Talisman of Riches
+角色出生点	Character Spawn Point
+逻辑点	Logic Point
+天	Day
+法道	Dharma Path
+通	Tong
+刚	Gang
+宗政	Zongzheng
+秋灵	Qiuling
+道法源流	Taoist Method Origins
+紫霄清心咒	Purple Sky Clarity Curse
+华山落花诀	Huashan Blossom Art
+丙丁开天咒	Bing Ding Heaven-Opening Curse
+多宝七星	Seven Treasures of Duobao
+归真八极诀	Truth-Return Eight Extremities Art
+壬水七星	Ren Water Seven Stars
+丙丁飞星	Flying Stars of Bing Ding
+太上天星神雷	Supreme Celestial Star Thunder
+御神化伤神雷	Divine Control Wound-Transforming Thunder Technique
+腾岳震地诀	Soaring Mountain Earthshaking Art
+太上通天诀	Supreme Heaven-Piercing Art
+本源回魂诀	Primordial Soul-Returning Art
+华山震地咒	Huashan Earth-Shaking Curse
+震雷天星神雷	Thunderclap Starstrike Lightning
+奔烈陨星	Fierce Falling Star
+嵩山清心	Songshan Heart Cleansing
+麒麟落花	Qilin's Falling Blossoms
+凝光甘霖真言	Condensed Light Nectar Mantra
+乙木落花神雷	Yi Wood (Yin Wood) Falling Blossom Thunder
+行疆镇神真言	Trekking Stone Spirit-Suppressing Mantra
+现在贤先天一气诀	Present Sage's Innate Qi Art
+造化落花真言	Creation's Falling Blossoms Mantra
+太上飞星诀	Celestial Shooting Star Art
+紫薇流光咒	Purple Star Radiance Curse
+吾成道太初，观无极二分，化天地万物，有感于心，开辟道法修行之路。本望生灵能超脱天地之锢…	"I attained enlightenment in the Primordial Chaos, witnessed the division of Infinity into all creation, and thus established the path of Dao cultivation. My hope was for living beings to transcend heaven and earth's constraints.."
+然世间因修行超脱者寡，沉沦者众……流毒自吾而始…便由吾而终罢……	Yet few transcend through cultivation while multitudes perish... This plague originated from me... and shall end with me..
