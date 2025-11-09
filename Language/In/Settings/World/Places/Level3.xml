@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level3Base">
+			<Desc>Templat Lokasi Lv.3</Desc>
+		</Text>
+		<Text Name="Place_QingLianShan">
+			<DisplayName>Gunung Qinglian</DisplayName>
+			<Desc>Gunung ini adalah tempat peristirahatan Immortal Qinglian sebelum dia terlahir kembali ke alam surga. Seluruh gunung tersembunyi di Samudra Selatan. Tanpa metode panduan rahasia Tidak mungkin menemukan Gunung Abadi ini.</Desc>
+		</Text>
+		<Text Name="Place_ChiLianYuan">
+			<DisplayName>Istana Zamrud</DisplayName>
+			<Desc>Kediaman pribadi peninggalan Nan Gong Hong. Seorang Suci yang dikenal sebagai Orang Suci pertama di alam ini yang mampu bereinkarnasi ke alam surgawi. Istana ini tersembunyi di antara langit dan lautan. Tanpa metode panduan rahasia Mustahil menemukan Gunung Suci ini.</Desc>
+		</Text>
+		<Text Name="Place_LongTai">
+			<DisplayName>Altar Naga</DisplayName>
+			<Desc>Ada rumor bahwa di masa lalu Klan Naga telah menyembunyikan ribuan harta karun di Altar Naga dan telah memasang banyak segel terlarang untuk melindungi harta karun tersebut. Selama bertahun-tahun, seiring dengan pengaruh perjalanan waktu, sebagian besar segel terlarang telah kehilangan kekuatannya di banyak bagian. Oleh karena itu, para pembudidaya sering mencari peruntungan di sini dengan harapan menemukan harta karun naga.</Desc>
+		</Text>
+		<Text Name="Tempat_XuanKongDong">
+			<DisplayName>Gua Anatta</DisplayName>
+			<Desc>Tempat dimana Xuan Yuan Luo Xiu Nai menggunakan pengasingan untuk berlatih. Legenda mengatakan bahwa Xian Yuan Luo Xiu menyimpan harta karun yang dia kumpulkan dari berbagai tempat. Dia telah menghabiskan seluruh hidupnya di sini, menunggu generasi kultivator masa depan yang memiliki kekayaan untuk menemukannya.</Desc>
+		</Text>
+		<Text Name="Place_GuZhanChang">
+			<DisplayName>Medan Pertempuran Reruntuhan Surgawi</DisplayName>
+			<Desc>Medan perang sisa-sisa perang besar pertama antara Orang Suci dan Iblis di zaman kuno. Tempat ini dipenuhi dengan banyak harta ajaib. Namun, itu penuh dengan bahaya besar dari perpecahan ruang dan waktu. Saat itu, pembagian yang jelas mulai terbentuk antara Dewa dan Penggarap Abadi. Dan perselisihan antara kedua belah pihak berangsur-angsur hilang. Hal ini semakin intensif hingga menjadi tidak dapat diubah lagi. Akhirnya, pertempuran yang menentukan terjadi di wilayah selatan. Pertempuran ini berlangsung selama lebih dari sebulan dan memakan banyak korban jiwa. Jalur Yin dan Yang terkena dampak yang sangat parah sehingga membangkitkan murka Naga Tian yang mewakili langit dan bumi. Karena itu, wujud asli Naga Lilin muncul di dunia manusia dan menggunakan amarahnya untuk menghancurkan hampir seluruh wilayah selatan. Ini adalah akhir dari Perang Besar Pertama antara Orang Suci dan Iblis. Dan Wilayah Selatan saat ini adalah sisa yang selamat dari kehancuran itu.</Desc>
+		</Text>
+		<Text Name="Place_YiJieLieFeng">
+			<DisplayName>Dimensional Rift</DisplayName>
+			<Desc>Legenda mengatakan bahwa perpecahan ruang-waktu ini menyebabkan kelainan pada semua dimensi ruang dan waktu. Tempat ini adalah hasil perang primordial antara tuan dan iblis ribuan tahun yang lalu, dan telah menghilang selama ribuan tahun, namun siapa yang menyangka akan muncul kembali di era ini? Namun, celah dimensional ini sangat berbahaya. Mereka yang pergi menjelajah hanya bisa mengandalkan keberuntungannya. Karena jika tidak beruntung, bahkan ahli yang paling berpengalaman pun bisa terjebak dalam celah dimensi ini selamanya.</Desc>
+		</Text>
+	</List>
+</Texts>
