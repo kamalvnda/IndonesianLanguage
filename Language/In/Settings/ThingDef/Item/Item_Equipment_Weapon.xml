@@ -1,0 +1,59 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WeaponBow" sParam="Item">
+			<ThingName>Pemanah</ThingName>
+			<Desc>Busur yang dapat digunakan untuk berburu sasaran yang jauh.</Desc>
+			<Item.FabaoSuffix>Pemanah</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponWoodBow" sParam="Item">
+			<ThingName>Pemanah</ThingName>
+			<Desc>Busur yang dapat digunakan untuk berburu sasaran yang jauh.</Desc>
+			<Item.FabaoSuffix>Pemanah</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponKnife" sParam="Item">
+			<ThingName>pedang</ThingName>
+			<Desc>Pedang bermata satu yang dapat digunakan untuk memotong dan mencacah.</Desc>
+			<Item.FabaoSuffix>pedang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponLance" sParam="Item">
+			<ThingName>melawan</ThingName>
+			<Desc>Tombak panjang yang efektif menyerang organ dalam.</Desc>
+			<Item.FabaoSuffix>melawan</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponSword" sParam="Item">
+			<ThingName>Pedang</ThingName>
+			<Desc>Pedang yang ringan dan fleksibel. Ini sangat tajam.</Desc>
+			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponHalbert" sParam="Item">
+			<ThingName>tombak kerajaan</ThingName>
+			<Desc>Senjata yang tumpul dan berat Kekuatan tumbukannya cukup untuk mematahkan tulang dan tendon musuh.</Desc>
+			<Item.FabaoSuffix>tombak kerajaan</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponAxeRing" sParam="Item">
+			<ThingName>Cakra</ThingName>
+			<Desc>Senjata aneh yang digunakan dengan cara dipegang seperti kepalan tangan. Ia dapat dengan cepat menimbulkan luka dalam jumlah besar pada lawan.</Desc>
+			<Item.FabaoSuffix>Cakra</Item.FabaoSuffix>
+		</Text>
+		<Text Name="SP_Sword1" sParam="Item">
+			<ThingName>Dara Boomba</ThingName>
+			<Desc>Dikatakan bahwa di negeri jauh di sebelah barat Ada seorang prajurit bernama Dara Boomba yang menggunakan pedang ini untuk membunuh makhluk kuat yang disebut “naga”. Akibatnya, seluruh pedang menjadi merah tua seolah-olah telah ternoda darah naga. Saat menyerang dengan pedang ini Ada kemungkinan melukai musuh dengan elemen api yang menembus jantungnya.</Desc>
+		</Text>
+		<Text Name="SP_Sword2" sParam="Item">
+			<ThingName>Krabi Chernfirun</ThingName>
+			<Desc>Pedang kayu yang dibuat oleh master kulit putih. Dari penampilannya terlihat sangat biasa. Namun ia memiliki kemampuan luar biasa untuk memanggil angin dan hujan.</Desc>
+		</Text>
+		<Text Name="SP_Sword3" sParam="Item">
+			<ThingName>Lightsaber dari masa depan</ThingName>
+			<Desc>Pedang seorang pria bernama Wang Lao Zhu. Orang yang merupakan pemilik sekte yang bernama Sekte Sains. Melihat pedang ini seperti melihat Wang Lao Ju. Ia memiliki kemampuan untuk meningkatkan semangat bawahan. Hasilnya, mereka lebih bersemangat dalam bekerja.</Desc>
+		</Text>
+		<Text Name="SP_Sword4" sParam="Item">
+			<ThingName>Pedang Bayangan Naga Ganda</ThingName>
+			<Desc>Pedang ini milik mantan Master Lightsaber Hitam. Ia memiliki kekuatan yang kuat yang dapat membelah gunung dan sungai.</Desc>
+		</Text>
+		<Text Name="SP_Bow1" sParam="Item">
+			<ThingName>busur berburu</ThingName>
+			<Desc>Busur yang dirancang khusus untuk berburu. Ia menggunakan panah khusus yang dilapisi dengan obat bius dan tidak dapat menembus jauh ke dalam kulit. Oleh karena itu, umumnya tidak menyebabkan cedera serius.</Desc>
+		</Text>
+	</List>
+</Texts>
