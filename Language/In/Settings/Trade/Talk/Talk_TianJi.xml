@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_TianJi">
+			<Hate.0>Hah, apa yang dibicarakannya? Mengapa saya tidak bisa melihatnya? Saya menduga itu hanya suara gonggongan anjing.</Hate.0>
+			<Hate.1>Oh? Apakah itu kamu? Tunjukkan padaku beberapa komedi. Kalau tidak, tinjuku mungkin akan terbang ke wajah jelekmu.</Hate.1>
+			<Normal.0>Cepatlah, aku ada janji taruhan dengan temanku.</Normal.0>
+			<Normal.1>(Menguap) Tolong beritahu saya ketika Anda menyelesaikan bisnis Anda.</Normal.1>
+			<Like.0>(meletakkan dadu) Bagaimana kabarmu? Apakah kamu ingin bermain dadu denganku?</Like.0>
+			<Like.1>Anda dapat memilih dan melihat sesuka Anda.</Like.1>
+			<Submiss.0>Kami sudah lama tidak bertemu. Apa yang kamu inginkan kali ini?</Submiss.0>
+			<Submiss.1>Sebenarnya itu kamu. Bagaimana kabarmu hari ini?</Submiss.1>
+			<GiftLike.0>Hari ini benar-benar hari yang baik. Saya merasa lebih baik daripada berlatih bersama pasangan.</GiftLike.0>
+			<GiftLike.1>Terima kasih banyak, inilah yang saya inginkan!</GiftLike.1>
+			<LowValueGift.0>Apakah ini dia? Bahkan anjing pun tidak menginginkan hal ini.</LowValueGift.0>
+			<LowValueGift.1>Hal ini mengingatkanku pada saat aku bahkan tidak punya uang untuk membeli makanan. Cepat dan singkirkan aku.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
