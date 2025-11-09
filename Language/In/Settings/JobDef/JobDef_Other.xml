@@ -1,0 +1,73 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobCloseTo">
+      <DisplayName>Di dekat sini</DisplayName>
+    </Text>
+    <Text Name="JobMoveToBed">
+      <DisplayName>Bergerak</DisplayName>
+    </Text>
+    <Text Name="JobDemonLoseSoul">
+      <DisplayName>Kesadaran tertutup</DisplayName>
+    </Text>
+    <Text Name="JobDemonClaustrophobia">
+      <DisplayName>Klaustrofobia</DisplayName>
+    </Text>
+    <Text Name="JobDemonWail">
+      <DisplayName>meratap</DisplayName>
+    </Text>
+    <Text Name="JobDemonBlank">
+      <DisplayName>Kosong</DisplayName>
+    </Text>
+    <Text Name="JobObtainThing">
+      <DisplayName>Memukau</DisplayName>
+    </Text>
+    <Text Name="JobEatItem">
+      <DisplayName>Makan</DisplayName>
+    </Text>
+    <Text Name="JobEquipItem">
+      <DisplayName>Melengkapi</DisplayName>
+    </Text>
+    <Text Name="JobFaceIdle">
+      <DisplayName>Berinteraksi</DisplayName>
+    </Text>
+    <Text Name="JobFighting">
+      <DisplayName>Berkelahi</DisplayName>
+    </Text>
+    <Text Name="JobFight">
+      <DisplayName>Berkelahi</DisplayName>
+    </Text>
+    <Text Name="JobFightDriver">
+      <DisplayName>Berkelahi</DisplayName>
+    </Text>
+    <Text Name="JobLeaveMap">
+      <DisplayName>Meninggalkan</DisplayName>
+    </Text>
+    <Text Name="JobWaitHelp">
+      <DisplayName>Membantu</DisplayName>
+    </Text>
+    <Text Name="JobTalk">
+      <DisplayName>Pembicaraan</DisplayName>
+    </Text>
+    <Text Name="JobSimpleAction">
+      <DisplayName>Tindakan</DisplayName>
+    </Text>
+    <Text Name="JobWalkerHelp">
+      <DisplayName>Membantu</DisplayName>
+    </Text>
+    <Text Name="JobIdle">
+      <DisplayName>Menganggur</DisplayName>
+    </Text>
+    <Text Name="JobAlarmbell">
+      <DisplayName>Bel berbunyi</DisplayName>
+    </Text>
+    <Text Name="JobMoveTo">
+      <DisplayName>Bergerak</DisplayName>
+    </Text>
+    <Text Name="JobMoveThingTo">
+      <DisplayName>mengangkut</DisplayName>
+    </Text>
+    <Text Name="JobYSSleep">
+      <DisplayName>Sedang tidur</DisplayName>
+    </Text>
+  </List>
+</Texts>
