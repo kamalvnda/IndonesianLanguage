@@ -1,0 +1,348 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TwoRandom">
+			<DisplayName>Perahu yang Sama</DisplayName>
+			<Desc>Ketika melarikan diri dari pembantaian tersebut, dua rekan murid Taiyi, yang hanya merupakan kenalan Anda, meminta untuk bergabung dengan Anda.</Desc>
+		</Text>
+		<Text Name="Coma50">
+			<DisplayName>Uluran Tangan</DisplayName>
+			<Desc>Saat melarikan diri dari pembantaian, murid Taiyi yang terluka parah meminta Anda untuk membawa mereka.</Desc>
+		</Text>
+		<Text Name="Thunder100">
+			<DisplayName>Inklusivitas</DisplayName>
+			<Desc>Saat melarikan diri dari pembantaian, seorang Yaoguai yang telah menyelesaikan perubahan wujud meminta untuk bergabung dengan Anda. Mereka akan menghadapi kesengsaraan yang berubah bentuk dalam 100 hari.</Desc>
+		</Text>
+		<Text Name="HardLeave">
+			<DisplayName>Pelarian Sempit</DisplayName>
+			<Desc>Saat melarikan diri dari pembantaian, beberapa rekan murid Taiyi, yang hanya sedikit Anda ketahui, meminta untuk bergabung dengan Anda, dan Anda tidak punya pilihan selain mengajak mereka.</Desc>
+		</Text>
+		<Text Name="HotSummer">
+			<DisplayName>Musim Panas yang Panas</DisplayName>
+			<Desc>Karena iklim yang tidak normal, musim panas di sini menjadi lebih panas.</Desc>
+		</Text>
+		<Text Name="ColdWinter">
+			<DisplayName>Musim Dingin yang Dingin</DisplayName>
+			<Desc>Karena iklim yang tidak normal, musim dingin di sini menjadi lebih dingin.</Desc>
+		</Text>
+		<Text Name="OffensiveThunder">
+			<DisplayName>Hujan badai</DisplayName>
+			<Desc>Karena lingkungan geografis yang tidak normal, petir di sini lebih ganas dan cenderung lebih sering menyambar manusia.</Desc>
+		</Text>
+		<Text Name="HardNature">
+			<DisplayName>Cuaca Buruk</DisplayName>
+			<Desc>Iklim di sini secara umum lebih buruk.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou2">
+			<DisplayName>2</DisplayName>
+			<Desc>Memunculkan 1 monster tambahan di peta awal.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou3">
+			<DisplayName>3</DisplayName>
+			<Desc>Memunculkan 2 monster tambahan di peta awal.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou4">
+			<DisplayName>4</DisplayName>
+			<Desc>Memunculkan 3 monster tambahan di peta awal.</Desc>
+		</Text>
+		<Text Name="YaoGuaiMore">
+			<DisplayName>Monster Mengamuk</DisplayName>
+			<Desc>Memunculkan lebih banyak monster di peta awal.</Desc>
+		</Text>
+		<Text Name="BuildMoreCost">
+			<DisplayName>Kerajinan Kasar</DisplayName>
+			<Desc>Bahan yang dibutuhkan untuk membangun gedung menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="BuildSlow">
+			<DisplayName>Kerja keras dan Moil</DisplayName>
+			<Desc>Konstruksi tiga kali lebih lambat.</Desc>
+		</Text>
+		<Text Name="BuildLessHp">
+			<DisplayName>Lapuk</DisplayName>
+			<Desc>Daya tahan bangunan berkurang secara signifikan.</Desc>
+		</Text>
+		<Text Name="HardBuild">
+			<DisplayName>Bangunan Rumit</DisplayName>
+			<Desc>Kesulitan umum mengenai bangunan dimunculkan.</Desc>
+		</Text>
+		<Text Name="InferiorFengShui">
+			<DisplayName>Feng Shui yang Hilang</DisplayName>
+			<Desc>Observatorium hanya menampilkan peringkat Feng Shui tanpa detail.</Desc>
+		</Text>
+		<Text Name="InferiorDan">
+			<DisplayName>Alkimia yang Hilang</DisplayName>
+			<Desc>Kemungkinan gagal saat meramu pil dan ramuan meningkat; bahan yang dibutuhkan saat meramu menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="LostPractice">
+			<DisplayName>Seni yang Hilang</DisplayName>
+			<Desc>Beberapa seni budidaya yang mendalam hilang ke dunia.</Desc>
+		</Text>
+		<Text Name="FastRot">
+			<DisplayName>Udara Pembusukan</DisplayName>
+			<Desc>Tingkat pembusukan item menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="HighPrice">
+			<DisplayName>Harga Melonjak</DisplayName>
+			<Desc>Harga beli barang menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="LessGain">
+			<DisplayName>Barang Kurang</DisplayName>
+			<Desc>Peta hutan belantara memiliki item yang lebih sedikit.</Desc>
+		</Text>
+		<Text Name="SourceLimit">
+			<DisplayName>Sumber Daya yang Langka</DisplayName>
+			<Desc>Sumber daya lebih sulit ditemukan secara umum.</Desc>
+		</Text>
+		<Text Name="LessWalker">
+			<DisplayName>Sekte Sunyi</DisplayName>
+			<Desc>Lebih sedikit manusia yang akan lewat.</Desc>
+		</Text>
+		<Text Name="LessMember">
+			<DisplayName>Sekte Sederhana</DisplayName>
+			<Desc>Jumlah murid maksimal diturunkan.</Desc>
+		</Text>
+		<Text Name="LessZhaolan">
+			<DisplayName>Usia Gelisah</DisplayName>
+			<Desc>Manusia terlalu sibuk dengan urusan duniawi sehingga tidak bisa melakukan budidaya; jumlah murid yang direkrut berkurang setengahnya.</Desc>
+		</Text>
+		<Text Name="LessFiveBase">
+			<DisplayName>Kekurangan Bakat</DisplayName>
+			<Desc>Manusia pada umumnya memiliki bakat yang lebih sedikit.</Desc>
+		</Text>
+		<Text Name="DaoShuai">
+			<DisplayName>Masa-masa Sulit</DisplayName>
+			<Desc>Biasanya lebih sulit merekrut murid berbakat.</Desc>
+		</Text>
+		<Text Name="LessWalkTrader">
+			<DisplayName>Jalan Rumit</DisplayName>
+			<Desc>Pedagang keliling lebih jarang berkunjung.</Desc>
+		</Text>
+		<Text Name="LessWalkLStone">
+			<DisplayName>Krisis Mata Uang</DisplayName>
+			<Desc>Pedagang keliling membawa lebih sedikit batu roh.</Desc>
+		</Text>
+		<Text Name="StrictWalker">
+			<DisplayName>Penawaran Terbatas</DisplayName>
+			<Desc>Untuk setiap kunjungan, pedagang keliling hanya akan membeli satu jenis barang dari Anda.</Desc>
+		</Text>
+		<Text Name="StrictWTrader">
+			<DisplayName>Maksudnya Pedagang</DisplayName>
+			<Desc>Biasanya lebih sulit berdagang dengan pedagang keliling.</Desc>
+		</Text>
+		<Text Name="MoreElementWeather">
+			<DisplayName>Elemen Kekacauan</DisplayName>
+			<Desc>Bencana lima unsur lebih sering terjadi.</Desc>
+		</Text>
+		<Text Name="LessLingWeather">
+			<DisplayName>Qi surut</DisplayName>
+			<Desc>Kekeringan Qi lebih sering terjadi dan durasinya meningkat.</Desc>
+		</Text>
+		<Text Name="ForeverNight20">
+			<DisplayName>Kekacauan Yin Yang</DisplayName>
+			<Desc>Malam kutub terjadi setiap tahun pada waktu yang tetap.</Desc>
+		</Text>
+		<Text Name="TianDaoWenLuan">
+			<DisplayName>Gangguan Tao</DisplayName>
+			<Desc>Cuaca khusus umumnya lebih sulit diatasi.</Desc>
+		</Text>
+		<Text Name="PetReviveInterval">
+			<DisplayName>Katabasis</DisplayName>
+			<Desc>Butuh waktu lebih lama bagi hewan peliharaan roh untuk bangkit kembali.</Desc>
+		</Text>
+		<Text Name="PetLingMax">
+			<DisplayName>Qi yang terganggu</DisplayName>
+			<Desc>Batas Qi hewan peliharaan roh berkurang.</Desc>
+		</Text>
+		<Text Name="PetFabao">
+			<DisplayName>Inti Longgar</DisplayName>
+			<Desc>Kekuatan inti internal dan mantra Spirit Pet berkurang.</Desc>
+		</Text>
+		<Text Name="PetWeak">
+			<DisplayName>Hewan Peliharaan yang Lemah</DisplayName>
+			<Desc>Hewan peliharaan roh umumnya lebih lemah.</Desc>
+		</Text>
+		<Text Name="FavorDown">
+			<DisplayName>Agen Bentrokan</DisplayName>
+			<Desc>Menugaskan lembaga menurunkan reputasi sekte.</Desc>
+		</Text>
+		<Text Name="ColdMan">
+			<DisplayName>Hati Dingin</DisplayName>
+			<Desc>Lebih banyak karakter di dunia fana yang memiliki kepribadian menarik diri.</Desc>
+		</Text>
+		<Text Name="NoTeacher">
+			<DisplayName>Semua oleh Diriku Sendiri</DisplayName>
+			<Desc>Penggarap Misterius tidak lagi muncul.</Desc>
+		</Text>
+		<Text Name="ColdMortal">
+			<DisplayName>Dunia Dingin</DisplayName>
+			<Desc>Dunia secara umum menjadi tempat yang lebih dingin.</Desc>
+		</Text>
+		<Text Name="YaoComing1">
+			<DisplayName>Hari ke 160</DisplayName>
+			<Desc>Segerombolan Yaoguai menyerang sekte Anda pada hari ke-160.</Desc>
+		</Text>
+		<Text Name="YaoComing2">
+			<DisplayName>Hari ke 120</DisplayName>
+			<Desc>Segerombolan Yaoguai menyerang sekte Anda pada hari ke-120.</Desc>
+		</Text>
+		<Text Name="YaoComing3">
+			<DisplayName>Hari ke 80</DisplayName>
+			<Desc>Segerombolan Yaoguai menyerang sekte Anda pada hari ke-80.</Desc>
+		</Text>
+		<Text Name="YaoGuaiComing">
+			<DisplayName>Penggerebekan Yaoguai</DisplayName>
+			<Desc>Monster yang mengamuk akan memangsa sekte Anda.</Desc>
+		</Text>
+		<Text Name="KillerComing1">
+			<DisplayName>Hari ke 250</DisplayName>
+			<Desc>Bahkan setelah kehancuran Sekte Taiyi, masih ada sekelompok tokoh misterius yang memburu sisa-sisanya. Salah satu dari mereka akan tiba pada hari ke 250.</Desc>
+		</Text>
+		<Text Name="KillerComing2">
+			<DisplayName>Hari ke 200</DisplayName>
+			<Desc>Bahkan setelah kehancuran Sekte Taiyi, masih ada sekelompok tokoh misterius yang memburu sisa-sisanya. Salah satu dari mereka akan tiba pada hari ke-200.</Desc>
+		</Text>
+		<Text Name="KillerComing3">
+			<DisplayName>Hari ke 150</DisplayName>
+			<Desc>Bahkan setelah kehancuran Sekte Taiyi, masih ada sekelompok tokoh misterius yang memburu sisa-sisanya. Salah satu dari mereka akan tiba pada hari ke 150.</Desc>
+		</Text>
+		<Text Name="KillerComing">
+			<DisplayName>Pemburu Taiyi</DisplayName>
+			<Desc>Setelah kehancuran Sekte Taiyi, sekelompok sosok misterius yang memburu sisa-sisanya akan datang.</Desc>
+		</Text>
+		<Text Name="SoonDragon1">
+			<DisplayName>Hari ke 160</DisplayName>
+			<Desc>Gua Misterius muncul pada hari ke 160.</Desc>
+		</Text>
+		<Text Name="SoonDragon2">
+			<DisplayName>Hari ke 80</DisplayName>
+			<Desc>Gua Misterius muncul pada hari ke-80.</Desc>
+		</Text>
+		<Text Name="SoonDragon3">
+			<DisplayName>Hari ke 30</DisplayName>
+			<Desc>Gua Misterius muncul pada hari ke-30.</Desc>
+		</Text>
+		<Text Name="SoonDragon">
+			<DisplayName>Bencana Gua</DisplayName>
+			<Desc>Gua Misterius muncul sebelumnya.</Desc>
+		</Text>
+		<Text Name="RequiredSacrifice">
+			<DisplayName>Kekuatan Naga</DisplayName>
+			<Desc>Gua Misterius tidak bisa lagi diredam.</Desc>
+		</Text>
+		<Text Name="Basfff">
+			<DisplayName>Nafsu makan yang baik</DisplayName>
+			<Desc>Gua Misterius menuntut lebih banyak.</Desc>
+		</Text>
+		<Text Name="ThunderBeast">
+			<DisplayName>Guntur Mungkin</DisplayName>
+			<Desc>Badai petir lebih sering terjadi.</Desc>
+		</Text>
+		<Text Name="StrictDragon">
+			<DisplayName>Kekaguman Kuno</DisplayName>
+			<Desc>Gua Misterius lebih sulit untuk ditangani secara umum.</Desc>
+		</Text>
+		<Text Name="LowerPointEvent">
+			<DisplayName>Kebijakan Keras</DisplayName>
+			<Desc>Peristiwa kebijakan lebih jarang terjadi.</Desc>
+		</Text>
+		<Text Name="MoreBuilding">
+			<DisplayName>Kehidupan Kemewahan</DisplayName>
+			<Desc>Biaya pembangunan lembaga menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="MorePolicy">
+			<DisplayName>Birokrasi</DisplayName>
+			<Desc>Biaya kebijakan menjadi dua kali lipat.</Desc>
+		</Text>
+		<Text Name="MoreMortal">
+			<DisplayName>Pekerjaan Duniawi</DisplayName>
+			<Desc>Permasalahan mengenai agensi secara umum lebih sulit untuk ditangani.</Desc>
+		</Text>
+		<Text Name="LowFavor">
+			<DisplayName>Keluar dari Liga</DisplayName>
+			<Desc>Bantuan awal dari sekte NPC berkurang.</Desc>
+		</Text>
+		<Text Name="HardFavor">
+			<DisplayName>Mata Waspada</DisplayName>
+			<Desc>Bantuan dari sekte NPC meningkat lebih lambat.</Desc>
+		</Text>
+		<Text Name="MorePoint">
+			<DisplayName>impersonal</DisplayName>
+			<Desc>Dibutuhkan lebih banyak Koneksi untuk berdagang dengan sekte NPC.</Desc>
+		</Text>
+		<Text Name="ColdRealm">
+			<DisplayName>Dewa Tanpa Emosi</DisplayName>
+			<Desc>Umumnya lebih sulit untuk berdagang dengan sekte lain.</Desc>
+		</Text>
+		<Text Name="NoLimit1">
+			<DisplayName>Ini menjadi lebih sulit</DisplayName>
+			<Desc>Musuh yang menyerang semakin kuat.</Desc>
+		</Text>
+		<Text Name="NoLimit">
+			<DisplayName>Ini menjadi lebih sulit</DisplayName>
+			<Desc>Musuh yang menyerang semakin kuat.</Desc>
+		</Text>
+		<Text Name="SchoolPower1">
+			<DisplayName>3x</DisplayName>
+			<Desc>Semua sekte NPC mengalami peningkatan kekuatan sebesar 200%.</Desc>
+		</Text>
+		<Text Name="SchoolPower2">
+			<DisplayName>6x</DisplayName>
+			<Desc>Semua sekte NPC mengalami peningkatan kekuatan sebesar 500%.</Desc>
+		</Text>
+		<Text Name="SchoolPower3">
+			<DisplayName>9x</DisplayName>
+			<Desc>Semua sekte NPC mengalami peningkatan kekuatan sebesar 800%.</Desc>
+		</Text>
+		<Text Name="SchoolPower">
+			<DisplayName>Kekuatan Abadi</DisplayName>
+			<Desc>Semua sekte NPC lebih kuat.</Desc>
+		</Text>
+		<Text Name="DragonPower1">
+			<DisplayName>2x</DisplayName>
+			<Desc>2x kekuatan Naga Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower2">
+			<DisplayName>3x</DisplayName>
+			<Desc>3x kekuatan Naga Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower3">
+			<DisplayName>4x</DisplayName>
+			<Desc>4x kekuatan Naga Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower">
+			<DisplayName>Kekuatan Air</DisplayName>
+			<Desc>Jiao-naga lebih kuat berkali-kali lipat.</Desc>
+		</Text>
+		<Text Name="FengPower1">
+			<DisplayName>2x</DisplayName>
+			<Desc>2x kekuatan Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower2">
+			<DisplayName>3x</DisplayName>
+			<Desc>3x kekuatan Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower3">
+			<DisplayName>4x</DisplayName>
+			<Desc>4x kekuatan Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower">
+			<DisplayName>Kekuatan Api</DisplayName>
+			<Desc>Phoenix lebih kuat.</Desc>
+		</Text>
+		<Text Name="ZhulongPower1">
+			<DisplayName>2x</DisplayName>
+			<Desc>2x kekuatan Naga Obor</Desc>
+		</Text>
+		<Text Name="ZhulongPower2">
+			<DisplayName>3x</DisplayName>
+			<Desc>3x kekuatan Naga Obor</Desc>
+		</Text>
+		<Text Name="ZhulongPower3">
+			<DisplayName>4x</DisplayName>
+			<Desc>4x kekuatan Naga Obor</Desc>
+		</Text>
+		<Text Name="ZhulongPower">
+			<DisplayName>Yin Yang Mungkin</DisplayName>
+			<Desc>Naga obor lebih kuat berkali-kali lipat.</Desc>
+		</Text>
+	</List>
+</Texts>
