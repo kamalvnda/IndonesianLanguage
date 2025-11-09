@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Chicken_1">
+			<Prefix>jarum</Prefix>
+			<Suffix>berkilau</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. Menggabungkan kekuatan Yang dengan paruh menghasilkan kekuatan kehancuran yang melampaui imajinasi. Memiliki kemampuan menyerang dan menembus armor energi yang dalam dengan sangat baik.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_2">
+			<Prefix>mahkota</Prefix>
+			<Suffix>Api Surgawi</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. Ditempa dalam bentuk lambang oleh kekuatan matahari. Ketika latihan berhasil, efisiensi pemurnian tubuh akan sangat meningkat.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan tingkat pemurnian tubuh dari Penggarap Fisik Abadi.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_3">
+			<Prefix>burung</Prefix>
+			<Suffix>tujuh warna</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. yang aslinya berasal dari bulu ekor yang dibentuk oleh burung tujuh warna yang secara bawaan memahami lima unsur. Ketika pelatihan berhasil, tidak ada senjata ajaib yang dapat melukai tubuh ini.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
