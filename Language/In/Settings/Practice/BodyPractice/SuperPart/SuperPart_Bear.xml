@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Bear_1">
+			<Prefix>jantung</Prefix>
+			<Suffix>Beruang Primitif</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Beruang Primordial. Tempa jantung dan paru-paru dengan kekuatan penghancur. Setelah dipraktekkan, seseorang akan dapat terus menerus menghasilkan Qi yang sebenarnya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Bear_2">
+			<Prefix>cakar</Prefix>
+			<Suffix>Hukuman Petir</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Beruang Primordial. Tempa cakarnya dengan kekuatan sisa petir surgawi, yang memiliki kekuatan untuk menghancurkan segalanya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
