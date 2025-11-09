@@ -1,0 +1,61 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_Gong2">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. Isinya buku Sepuluh Ribu Jalan, Asal Usul Senjata. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong3">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. Isinya Tujuh Jalan Pedang Pembunuh. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong4">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. Itu berisi Kitab Suci Giok Murni Abadi. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong5">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. Isinya Kitab Suci Pencuri Surga. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong6">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. yang berisi Kitab Suci Pemurnian Pengobatan Genesis. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong7">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan bahwa tempat ini adalah warisan teknik budidaya dari seorang guru kuno. Di dalamnya terdapat buku para dewa pemecah emosi muncul. Namun, warisan ini dikelilingi oleh kamp penyihir kuno yang melindunginya. Tampaknya ini adalah strategi seorang master kuno untuk memilih kandidat yang cocok untuk mewarisi seni bela diri mereka. Percikan petir berputar-putar di seluruh formasi dan sepertinya itu mengandung kekuatan penghancur yang sangat kuat.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GongRandom">
+			<DisplayName>Gulungan Warisan Kuno</DisplayName>
+			<Desc>[NAME]Apakah kamu sudah sampai?[PLACE]dan menemukan teknik budidaya misterius[ENHIM]Saya sendiri tidak tahu subjek siapa ini.</Desc>
+			<Selections.0.Display>Gunakan kekuatan untuk menghancurkan formasi dan mengeluarkannya.</Selections.0.Display>
+			<Selections.0.Tip>Jiwa dan Keberuntungan Pertama</Selections.0.Tip>
+			<Selections.1.Display>menerima ajaran</Selections.1.Display>
+			<Selections.1.Tip>keberuntungan</Selections.1.Tip>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>
