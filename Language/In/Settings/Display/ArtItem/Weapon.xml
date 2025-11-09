@@ -1,0 +1,80 @@
+<ArtItems>
+  <List>
+	<ArtItem Name="Item_WeaponKnife">
+		<List>
+		    <li Name="Bertarung dengan liar" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_dao2"/>
+			<li Name="Api Neraka" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_dao3"/>
+			<li Name="Matikan listrik" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_dao4"/>
+			<li Name="Qingshuang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_dao5"/>
+			<li Name="bintang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_dao6"/>
+
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponSword">
+		<List>
+			<li Name="Matsukaze" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_jian2"/>
+			<li Name="Kirin" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian3"/>
+			<li Name="bayangan ular" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian4"/>
+			<li Name="Qingming" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian5"/>
+			<li Name="menghalangi sinar matahari" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian6"/>
+			<li Name="Geng Zhan" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian7"/>
+			<li Name="menara raksasa" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian8"/>
+			<li Name="Bai Zhi" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian9"/>
+			<li Name="minum darah" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_jian10"/>
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponLance">
+		<List>
+			<li Name="Zhenshanhe" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_Chang1"/>
+			<li Name="Ratusan pertempuran" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_Chang2"/>
+			<li Name="meteor" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang4"/>
+			<li Name="menghancurkan penjara" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_Chang5"/>
+			<li Name="Qian Tu" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang6"/>
+			<li Name="Dongxuan" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang7"/>
+			<li Name="Seribu Duri" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang8"/>
+			<li Name="Pedang Iblis" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_Chang9"/>
+			<li Name="hari besar" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang10"/>
+			<li Name="Yanhuang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_Chang11"/>
+			<li Name="tuhan yang ganas" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_Chang12"/>
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponHalbert">
+		<List>
+			<li Name="Seenaknya" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou2"/>
+			<li Name="Cakar Jahat" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou3"/>
+			<li Name="Jiwa yang Berhibernasi" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_shuangshou4"/>
+			<li Name="Dinghai" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou5"/>
+			<li Name="burung naga" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou6"/>
+			<li Name="kalajengking" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_shuangshou7"/>
+			<li Name="Tuhan datang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou8"/>
+			<li Name="penjara" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_shuangshou9"/>
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponAxeRing">
+		<List>
+			<li Name="Bagilah air" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_huan2"/>
+			<li Name="angin kencang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_huan3"/>
+			<li Name="api penyucian" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_huan4"/>
+			<li Name="Mengejar bintang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_huan5"/>
+			<li Name="langit biru" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_huan6"/>
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponBow">
+		<List>
+			<li Name="busur naga" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_gong2"/>
+			<li Name="bintang terbang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_gong3"/>
+			<li Name="taring" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_gong4"/>
+			<li Name="Ribuan hukuman" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_gong5"/>
+			<li Name="tembak jiwa" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_gong6"/>
+			<li Name="Kamu" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_gong7"/>
+			<li Name="Weiyang" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi pembuatnya." Mod="Mod/Prop/Weapon/weapon_gong8"/>
+		</List>
+	</ArtItem>
+	<ArtItem Name="Item_WeaponWoodBow">
+		<List>
+			<li Name="busur kayu suci" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_gong2"/>
+			<li Name="Seribu Busur Tangguh" Desc="Senjata cerdik itu dibuat dari kerja keras dan inspirasi sang pencipta." Mod="Mod/Prop/Weapon/weapon_gong2"/>
+		</List>
+	</ArtItem>
+</List>
+</ArtItems>
