@@ -1,0 +1,360 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
+			<DisplayName>Makan dan temukan koin</DisplayName>
+			<Desc>Setiap makanan memiliki peluang kecil untuk menemukan koin.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
+			<DisplayName>Makan dan temukan koin</DisplayName>
+			<Desc>Semua makanan memiliki peluang kecil untuk mendapatkan koin saat dikonsumsi.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
+			<DisplayName>Makan dan temukan koin</DisplayName>
+			<Desc>Setiap jenis makanan mempunyai peluang besar untuk menemukan koin.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
+			<DisplayName>Senjata ajaib mendapatkan efek khusus.</DisplayName>
+			<Desc>Dapatkan efek senjata ajaib langka secara acak setelah pembuatan berhasil.</Desc>
+			<Effects.0.SpecialAbilities.0.Desc>Meningkatkan kerusakan pada target elemen Tanah sebesar 80%.</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>Setiap serangan ke 15 akan menyerang tubuh penggarap. Menembus armor dan menimbulkan kerusakan tambahan.</Effects.0.SpecialAbilities.1.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>Setiap 3 serangan Menciptakan 9 bayangan lonjakan yang berlangsung selama 3 detik.</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>Kekuatan dasar senjata magis meningkat sebesar 1% untuk setiap detik senjata berada di udara. Ketika senjata kembali, efeknya akan diatur ulang.</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>Setiap 12 serangan pada senjata ajaib yang sama Akan melumpuhkan target untuk sementara sesuai levelnya.</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>Untuk setiap 1% kesehatan yang hilang Kekuatan senjata ajaib meningkat sebesar 5%.</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Setiap pembunuhan satu makhluk hidup Akan meningkatkan kekuatan senjata ajaib sebesar 10% hingga 36 kali lipat. Jika Anda tidak meminum darah selama 1 hari, efeknya akan diatur ulang.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>Setiap serangan ke-9 memberikan mantra pada musuh sasaran.</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>Keterampilan pertahanan meningkat 10</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>Ketika penggunanya mati, ia hancur, mampu menentang takdir dan menghidupkan kembali serta menyembuhkan semua luka.</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>Semakin dekat pengguna dengan umur maksimalnya, semakin baik. Semakin kuat senjata ajaibnya, semakin kuat jadinya.</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% kerusakan yang diberikan akan ditambahkan kembali ke qi senjata ajaib</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>Setiap 7 serangan menciptakan bayangan pedang yang bertahan selama 7 detik.</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>Meningkatkan kerusakan terhadap target elemen Kayu sebesar 100%.</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>Meningkatkan kerusakan terhadap target elemen Tanah sebesar 100%.</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>Meningkatkan kerusakan terhadap target elemen Api sebesar 100%.</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>Meningkatkan kerusakan terhadap target berelemen emas sebesar 100%.</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>Meningkatkan kerusakan pada target berelemen Air sebesar 100%.</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>Menutupi tubuh, fokus pada pertahanan dan tidak akan menyerang.</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>Setiap 10.000 unit nafas yang digunakan, kerusakan meningkat sebesar 10%, hingga 1000%. Efeknya direset ketika senjata ajaib diisi ulang.</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>Untuk setiap jenis obat yang dikonsumsi Daya meningkat sebesar 5%</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>Setiap 2 pukulan mengurangi waktu cooldown skill sebanyak 1 detik.</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>Skill Sword Mastery meningkat 10 level.</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>Menimbulkan 1,5 kali kerusakan saat melawan senjata ajaib lainnya.</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>Saat memberikan kerusakan, ada peluang 10% untuk menimbulkan 5 kali kerusakan.</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>Menimbulkan 1,5 kali damage ketika menyerang tubuh musuh secara langsung.</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>Saat menyerang tubuh musuh secara langsung, terdapat 1% kemungkinan untuk memberikan damage tambahan sebesar 30% dari Qi target saat ini.</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>Meningkatkan bonus basis kekuatan senjata ajaib sebesar 30%.</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>Meningkatkan bonus dasar qi senjata ajaib sebesar 30%</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>Meningkatkan resistensi knockback senjata sihir dasar sebesar 30%.</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>Meningkatkan kecepatan putaran dasar senjata ajaib sebesar 30%.</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>Meningkatkan tingkat pemulihan Qi dasar senjata ajaib sebesar 30%.</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>Meningkatkan basis knockback senjata ajaib sebesar 30%.</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>Meningkatkan kecepatan terbang dasar senjata ajaib sebesar 30%.</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>Kekuatan serangan pedang pertama meningkat sebesar 500%. Efeknya direset ketika senjata ajaib diisi ulang.</Effects.0.SpecialAbilities.35.Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
+			<DisplayName>Tanaman tidak peduli dengan kondisi suhu.</DisplayName>
+			<Desc>Tanaman Sekte tidak peka terhadap kondisi suhu dalam pertumbuhannya.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion">
+			<Desc>Sedikit meningkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion2">
+			<Desc>Meningkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion3">
+			<Desc>Sangat meningkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
+			<Desc>Boneka itu berhenti memburuk.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_1">
+			<Desc>Sedikit meningkatkan kecepatan pemulihan Qi murid sekte itu.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_2">
+			<Desc>Meningkatkan kecepatan pemulihan Qi murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_3">
+			<Desc>Sangat meningkatkan kecepatan pemulihan Qi murid sekte tersebut.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_4">
+			<Desc>Meningkatkan kecepatan budidaya murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_5">
+			<Desc>Sangat meningkatkan kecepatan budidaya para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_6">
+			<Desc>Murid sekte tidak terlalu lapar.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_7">
+			<Desc>Para murid sekte tidak terlalu lelah.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_8">
+			<Desc>Para murid sekte tidak terlalu haus.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_9">
+			<Desc>Sedikit meningkatkan kekuatan armor mendalam murid sekte itu.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_10">
+			<Desc>Tingkatkan kekuatan armor mendalam murid sekte tersebut.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_11">
+			<Desc>Sedikit meningkatkan peluang untuk menembus kemacetan murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_12">
+			<Desc>Tingkatkan peluang untuk menembus kemacetan para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_13">
+			<Desc>Ini sangat meningkatkan peluang untuk menembus kemacetan para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_14">
+			<Desc>Sedikit meningkatkan kemampuan murid Sekte untuk bertahan hidup tanpa makan.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_15">
+			<Desc>Meningkatkan kemampuan murid sekte untuk berpantang makanan dan air.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_16">
+			<Desc>Sangat memperkuat kemampuan murid sekte untuk berpantang makanan dan air.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_17">
+			<Desc>Sedikit mengurangi poin kebijaksanaan murid sekte tersebut.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_18">
+			<Desc>Mengurangi poin kebijaksanaan murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_19">
+			<Desc>Ini sangat mengurangi poin Merit Dao murid sekte tersebut.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_20">
+			<Desc>Sedikit meningkatkan batas umur murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_21">
+			<Desc>Meningkatkan batas umur murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_22">
+			<Desc>Ini sangat meningkatkan batas umur murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_23">
+			<Desc>Sedikit meningkatkan kecepatan gerakan para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_24">
+			<Desc>Meningkatkan kecepatan pergerakan murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_25">
+			<Desc>Sangat meningkatkan kecepatan pergerakan para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_26">
+			<Desc>Mempercepat pembangunan fondasi para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_27">
+			<Desc>Sangat meningkatkan kecepatan pembangunan fondasi para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_28">
+			<Desc>Tingkatkan kecepatan belajar murid sekte</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_29">
+			<Desc>Sangat meningkatkan kecepatan belajar para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_30">
+			<Desc>Sedikit meningkatkan kecepatan kerja keseluruhan murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_31">
+			<Desc>Meningkatkan kecepatan kerja murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_32">
+			<Desc>Sangat meningkatkan kecepatan kerja para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_33">
+			<Desc>Sedikit meningkatkan kondisi mental dasar murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_34">
+			<Desc>Meningkatkan kondisi mental dasar murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_35">
+			<Desc>Sangat meningkatkan kondisi mental dasar para murid sekte.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_36">
+			<Desc>Kemampuan murid sekte untuk menanggung beban formasi mereka meningkat pesat.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_37">
+			<Desc>Kemampuan murid sekte untuk menanggung beban formasi mereka meningkat pesat.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_40">
+			<Desc>Keterampilan Tempur Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_41">
+			<Desc>Tingkat keterampilan bela diri murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_42">
+			<Desc>Tingkat keterampilan bela diri murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_43">
+			<Desc>Tingkat Keterampilan Sosial Murid Sekte +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_44">
+			<Desc>Tingkat keterampilan sosial murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_45">
+			<Desc>Tingkat keterampilan sosial murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_46">
+			<Desc>Keterampilan Kerajinan Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_47">
+			<Desc>Keterampilan kerajinan tangan murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_48">
+			<Desc>Tingkat keterampilan artistik murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_49">
+			<Desc>Keterampilan Penginderaan Qi Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_50">
+			<Desc>Tingkat keterampilan Qi Sensing murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_51">
+			<Desc>Tingkat keterampilan Qi Sensing murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_52">
+			<Desc>Keterampilan Penempaan Senjata Ajaib Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_53">
+			<Desc>Keterampilan menempa senjata ajaib murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_54">
+			<Desc>Senjata ajaib murid sekte menempa level keterampilan +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_55">
+			<Desc>Tingkat Keterampilan Kedokteran/Kedokteran Murid Sekte +1 (Peningkatan Batas)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_56">
+			<Desc>Tingkat keterampilan medis/kedokteran murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_57">
+			<Desc>Tingkat keterampilan medis/kedokteran murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_58">
+			<Desc>Keterampilan kontrol senjata ajaib murid sekte level +1 (peningkatan batas)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_59">
+			<Desc>Keterampilan kontrol senjata ajaib murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_60">
+			<Desc>Keterampilan kontrol senjata ajaib murid sekte level +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_61">
+			<Desc>Keterampilan sihir murid sekte level +1 (peningkatan batas)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_62">
+			<Desc>Tingkat keterampilan sihir murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_63">
+			<Desc>Tingkat keterampilan sihir murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_64">
+			<Desc>Keterampilan Pertahanan Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_65">
+			<Desc>Tingkat keterampilan pertahanan murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_66">
+			<Desc>Tingkat keterampilan pertahanan murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_67">
+			<Desc>Keterampilan pembentukan murid sekte level +1 (peningkatan batas)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_68">
+			<Desc>Keterampilan pembentukan murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_69">
+			<Desc>Keterampilan pembentukan murid sekte level +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_70">
+			<Desc>Keterampilan Penambangan Murid Sekte Level +1 (Batas Peningkatan)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_71">
+			<Desc>Tingkat keterampilan penambangan murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_72">
+			<Desc>Tingkat keterampilan penambangan murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_73">
+			<Desc>Keterampilan pertanian murid sekte level +1 (batas meningkat)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_74">
+			<Desc>Tingkat keterampilan pertanian murid sekte +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_75">
+			<Desc>Tingkat keterampilan pertanian murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_76">
+			<Desc>Keterampilan konstruksi murid sekte level +1 (batas meningkat)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_77">
+			<Desc>Keterampilan konstruksi murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_78">
+			<Desc>Tingkat keterampilan konstruksi murid sekte +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_79">
+			<Desc>Keterampilan memasak murid sekte level +1 (batas meningkat)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_80">
+			<Desc>Keterampilan memasak murid sekte level +1</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_81">
+			<Desc>Keterampilan memasak murid sekte level +2</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_82">
+			<Desc>Pesona murid sekte meningkat 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_83">
+			<Desc>Pesona murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_84">
+			<Desc>Pesona murid sekte meningkat sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_85">
+			<Desc>Kecerdasan murid sekte meningkat 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_86">
+			<Desc>Kecerdasan murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_87">
+			<Desc>Kecerdasan murid sekte meningkat sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_88">
+			<Desc>Keberuntungan murid sekte meningkat 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_89">
+			<Desc>Keberuntungan murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_90">
+			<Desc>Keberuntungan murid sekte meningkat sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_91">
+			<Desc>Nilai persepsi murid sekte meningkat sebesar 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_92">
+			<Desc>Nilai persepsi murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_93">
+			<Desc>Nilai persepsi murid sekte meningkat sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_94">
+			<Desc>Stamina murid sekte meningkat 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_95">
+			<Desc>Stamina murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_96">
+			<Desc>Stamina murid sekte meningkat sebesar 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_97">
+			<Desc>Lima karakteristik murid sekte meningkat sebesar 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_38">
+			<Desc>Lima karakteristik murid sekte meningkat sebesar 30%.</Desc>
+		</Text>
+	</List>
+</Texts>
