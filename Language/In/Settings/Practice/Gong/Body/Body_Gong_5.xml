@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_5">
+			<DisplayName>Fisik Surgawi Jatuh</DisplayName>
+			<Desc>Di masa lalu, ada beberapa Penggarap Fisik Abadi yang menganggap kehidupan ini seperti sangkar dan Cahaya Malam Abadi adalah tempat cahaya bersinar dari luar sangkar. Mereka menyerap inti unsur aneh dari malam abadi dan menggunakannya untuk menciptakan kembali tubuh fisik mereka. dan percaya bahwa pada akhirnya tubuh mereka akan menjadi sangat kuat sehingga mereka dapat memecahkan sangkar ini dan membawa mereka keluar dari lautan kesengsaraan. Ini karena Penggarap Fisik Abadi yang mempraktekkan teknik ini adalah mereka yang memuja Malam Abadi. Oleh karena itu, mereka dibenci oleh Penggarap Fisik Abadi lainnya. Maka mereka menamakannya teknik budidaya tubuh ini. "Fisik Surgawi Jatuh"</Desc>
+			<SelectDesc>Melangkah ke Jalur Budidaya Tubuh Abadi berarti Anda harus menggabungkan tubuh, qi, dan pikiran Anda menjadi satu. Hal ini membuat Anda tidak mungkin bisa menyulap qi ajaib atau bahkan menggunakan senjata magis. Satu-satunya hal yang dapat Anda andalkan adalah tubuh Anda. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Budidaya Tubuh Abadi?</SelectDesc>
+			<Stages.0.DisplayName>Selama pencairan tubuh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>membangun tubuh fisik</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Masa pembersihan sumsum tulang</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>transplantasi sumsum tulang</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Selama penciptaan tubuh ilahi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Gabungkan tubuh dan pikiran</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Selama perubahan tubuh astral</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tubuh abadi</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
