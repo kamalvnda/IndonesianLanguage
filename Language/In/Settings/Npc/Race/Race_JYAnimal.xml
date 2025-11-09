@@ -1,0 +1,86 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>monster kelinci</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa kesadaran: Kelinci Setan</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>Setan Ayam</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Setan Ayam</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>Serigala Setan</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kesadaran: Demon Wolf</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>monster ular</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Setan Ular</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>Setan Babi Hutan</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa terbangun: Setan Babi Hutan</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>monster beruang</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Beruang Setan</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>monster katak</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Katak Iblis</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>Setan Penyu</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Demon Turtle</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>Setan Kucing</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kesadaran: Setan Kucing</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>Setan Banteng</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Iblis Banteng</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>Setan Harimau</DisplayName>
+			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Demon Tiger</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>Hamba Naga (Malam)</DisplayName>
+			<Desc>Seorang hamba yang menerima kekuatan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>Hamba Naga (Siang Hari)</DisplayName>
+			<Desc>Seorang hamba yang menerima kekuatan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>Medium Naga Iblis</DisplayName>
+			<Desc>Mengungkap kejahatan dalam hati</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>Sosok naga ilahi</DisplayName>
+			<Desc>Menampilkan kebaikan dalam pikiran</Desc>
+		</Text>
+	</List>
+</Texts>
