@@ -1,0 +1,24 @@
+ID	Desc
+
+1	Diberkati oleh Taishi Dao. Tingkat keberhasilan penyempurnaan hantu/roh/Tao meningkat sebesar 10%.
+2	Diberkati oleh Taiyi Dao. Tingkat kejeniusan di pameran Immortal Destiny meningkat.
+3	Diberkati oleh Taiyi Dao. Setidaknya akan ada satu orang spesial (reinkarnator) di pameran Immortal Destiny.
+4	Diberkati oleh Taiyi Dao. Tingkat kejeniusan saat merekrut di agensi meningkat.
+5	Diberkati oleh Taixuan Dao. Skala bantuan sosial meningkat sebesar 50%.
+6	Diberkati oleh Taixuan Dao. Skala dukungan sekte meningkat sebesar 50%.
+7	Diberkati oleh Taixuan Dao. Skala pengaruh agensi meningkat sebesar 50%.
+8	Diberkati oleh Taixuan Dao. Kecepatan hewan memperoleh kecerdasan meningkat sebesar 50%.
+9	Diberkati oleh Taixuan Dao. Kecepatan mendapatkan inspirasi meningkat sebesar 50%.
+10	Diberkati oleh Taixu Dao. Tingkat kultivator fisik mendapatkan esensi meningkat sebesar 50%.
+11	Diberkati oleh Taixuan Dao. Skala perolehan keyakinan para kultivator Shendao meningkat sebesar 50%.
+12	Berkah bagi pendatang baru. Produksi Tambang dan Pabrik meningkat sebesar 50%.
+13	Berkah bagi pendatang baru. Semua murid memperoleh 30 suasana hati dasar.
+14	Berkah bagi pendatang baru. Semua murid memperoleh 30 kondisi pikiran.
+15	Berkah bagi pendatang baru. Semua murid mendapatkan 1 tambahan lima atribut dasar saat membuat. (Tidak termasuk Reinkarnator)
+16	"Dengan menggunakan otoritas Taixuan Dao, dorong pedagang dunia untuk datang."
+17	Berkah bagi pendatang baru. Panggil cuaca Berkat Abadi.
+18	Berkah bagi pendatang baru. Menghilangkan sebagian besar cuaca.
+19	Berkah bagi pendatang baru. Menghidupkan kembali karakter.
+20	"Diberkati oleh Taishi Dao. Jika Anda tidak puas dengan hasil penempaan artefak, Anda dapat memalsukannya kembali. (Anda dapat menggunakannya di panel hasil setelah penempaan artefak.)"
+21	"Dengan menggunakan otoritas Taishi Dao, jika Anda tidak puas dengan beberapa hasil acara, Anda dapat memilih kembali. (Anda dapat menggunakannya di panel acara setelah beberapa acara yang dapat dipilih.)"
+22	"Dengan menggunakan otoritas Taixuan Dao, jika Anda tidak puas dengan hasil cetakan ulang, Anda dapat memilih ulang. (Anda dapat menggunakannya di panel hasil cetakan ulang.)"
