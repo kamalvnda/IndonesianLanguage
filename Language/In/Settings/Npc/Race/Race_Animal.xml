@@ -1,0 +1,100 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rabbit">
+			<DisplayName>kelinci</DisplayName>
+			<Desc>Hewan umum: Kelinci</Desc>
+			<TalkBefore>Aduh Awok</TalkBefore>
+			<TalkAfter>Awww~!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Chicken">
+			<DisplayName>ayam</DisplayName>
+			<Desc>Hewan umum: Ayam</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+			<TalkBefore>Masak, Masak, Masak.</TalkBefore>
+			<TalkAfter>Katak!</TalkAfter>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>serigala</DisplayName>
+			<Desc>Hewan biasa: Serigala</Desc>
+			<TalkBefore>Guk guk</TalkBefore>
+			<TalkAfter>Pakan!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>ular</DisplayName>
+			<Desc>Hewan biasa: Ular</Desc>
+			<TalkBefore>mendesis</TalkBefore>
+			<TalkAfter>Mendesis!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>babi hutan</DisplayName>
+			<Desc>Hewan umum: Babi hutan</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+			<TalkBefore>Oink Oink</TalkBefore>
+			<TalkAfter>Oooh!</TalkAfter>
+		</Text>
+		<Text Name="Bear">
+			<DisplayName>beruang</DisplayName>
+			<Desc>Hewan umum: Beruang</Desc>
+			<TalkBefore>Hok Hok</TalkBefore>
+			<TalkAfter>Wah!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Turtle">
+			<DisplayName>penyu</DisplayName>
+			<Desc>Hewan umum: Penyu</Desc>
+			<TalkBefore>Hmmmm.</TalkBefore>
+			<TalkAfter>Hmm!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>katak</DisplayName>
+			<Desc>Hewan biasa: Katak</Desc>
+			<TalkBefore>Ups Ups</TalkBefore>
+			<TalkAfter>Ups!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Fei">
+			<DisplayName>Fei!</DisplayName>
+			<Desc>Suhu di sini jarang berfluktuasi. Hal ini menarik Fei untuk datang dan tinggal di sini.</Desc>
+		</Text>
+		<Text Name="Lushu">
+			<DisplayName>Lu Su</DisplayName>
+			<Desc>Suhu di sini sangat berfluktuasi. Hal ini menarik Lu Su untuk datang dan tinggal di sini.</Desc>
+		</Text>
+		<Text Name="Cat">
+			<DisplayName>kucing</DisplayName>
+			<Desc>Hewan umum: Kucing</Desc>
+			<TalkBefore>meong meong</TalkBefore>
+			<TalkAfter>mengeong!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Cattle">
+			<DisplayName>banteng</DisplayName>
+			<Desc>Hewan biasa: Banteng</Desc>
+			<TalkBefore>Moo moo</TalkBefore>
+			<TalkAfter>Ya ampun!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Tiger">
+			<DisplayName>harimau</DisplayName>
+			<Desc>Hewan biasa: Harimau</Desc>
+			<TalkBefore>Hok Hok</TalkBefore>
+			<TalkAfter>Wah!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+	</List>
+</Texts>
