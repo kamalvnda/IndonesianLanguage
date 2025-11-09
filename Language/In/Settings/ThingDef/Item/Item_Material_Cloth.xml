@@ -1,0 +1,49 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothBase" sParam="Item">
+			<Desc>kain tenun dari bahan katun Dapat digunakan untuk membuat pakaian dan benda lainnya.</Desc>
+			<Item.FabaoSuffix>tekstil, benang, jaring</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>kain</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CottonCloth" sParam="Item">
+			<ThingName>kain bunga</ThingName>
+			<Desc>Kain dengan tampilan [pola bunga] yang ditenun dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain bunga</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DeepBlueCloth" sParam="Item">
+			<ThingName>kain nila</ThingName>
+			<Desc>Kain berwarna [Indigo] yang ditenun dari kapas. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain nila</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_PurpleCloth" sParam="Item">
+			<ThingName>kain ungu</ThingName>
+			<Desc>Kain berwarna [Ungu] yang ditenun dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain ungu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YellowCloth" sParam="Item">
+			<ThingName>kain kuning</ThingName>
+			<Desc>Kain berwarna [Kuning] yang ditenun dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain kuning</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlueCloth" sParam="Item">
+			<ThingName>kain biru</ThingName>
+			<Desc>Kain berwarna [biru] yang ditenun dari kapas. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain biru</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RedCloth" sParam="Item">
+			<ThingName>kain merah</ThingName>
+			<Desc>Kain berwarna [merah] yang ditenun dari kapas. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain merah</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WhiteCloth" sParam="Item">
+			<ThingName>kain putih</ThingName>
+			<Desc>Kain berwarna [putih] yang ditenun dari kapas. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain putih</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlackCloth" sParam="Item">
+			<ThingName>kain hitam</ThingName>
+			<Desc>Kain berwarna [hitam] yang ditenun dari kapas. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>kain hitam</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
