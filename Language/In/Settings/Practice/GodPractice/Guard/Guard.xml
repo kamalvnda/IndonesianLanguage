@@ -1,0 +1,294 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Guard_LeiBu_1">
+			<DisplayName>prajurit petir</DisplayName>
+			<Names>Ying</Names>
+			<Desc>Seorang wali yang memegang kekuatan petir. Saat beribadah: Tingkatkan kemampuan keseluruhan, tingkatkan keterampilan senjata sakti, tingkatkan kekuatan senjata sakti,[color=#D00808]Mengurangi tingkat pemulihan Qi senjata ajaib.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_2">
+			<DisplayName>Putri Guntur</DisplayName>
+			<Names>Jiang</Names>
+			<Desc>Seorang wali yang memegang kekuatan petir. Saat disembah: Meningkatkan kemampuan keseluruhan, meningkatkan keterampilan senjata ajaib, meningkatkan pemulihan qi senjata ajaib,[color=#D00808]Mengurangi kekuatan senjata ajaib.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_3">
+			<DisplayName>Jenderal Vayumekha</DisplayName>
+			<Names>teras</Names>
+			<Desc>Penjaga dengan kekuatan mengendalikan angin dan awan. Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Qi Armor,[color=#D00808]Mengurangi kekuatan senjata ajaib.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_4">
+			<DisplayName>Jenderal Phirun Asanee</DisplayName>
+			<Names>Zhen</Names>
+			<Desc>Seorang wali yang mempunyai kekuatan mengendalikan hujan dan petir. Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Qi Armor,[color=#D00808]Mengurangi tingkat pemulihan Qi senjata ajaib.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_5">
+			<DisplayName>Malaikat Awan</DisplayName>
+			<Names>Kong</Names>
+			<Desc>Salah satu dari Lima Malaikat Petir Surgawi Saat disembah: Meningkatkan umur, meningkatkan jumlah Qi maksimum, meningkatkan kekuatan senjata sihir, meningkatkan jumlah maksimum Qi senjata sihir, meningkatkan laju pemulihan Qi senjata sihir.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_6">
+			<DisplayName>Malaikat Petir</DisplayName>
+			<Names>Lei</Names>
+			<Desc>Salah satu dari Lima Malaikat Petir Surgawi Saat dipuja: Meningkatkan umur, meningkatkan jumlah Qi maksimum, meningkatkan kekuatan senjata magis,[color=#D00808]Kurangi baju besi[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_7">
+			<DisplayName>Malaikat Guntur Malam</DisplayName>
+			<Names>istirahat pot</Names>
+			<Desc>Salah satu dari Lima Malaikat Petir Surgawi Saat disembah: Meningkatkan umur, meningkatkan jumlah Qi maksimum, meningkatkan kekuatan senjata magis, meningkatkan kekuatan Qi Ajaib, meningkatkan jumlah Qi yang diperlukan untuk mengeluarkan Qi Ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_8">
+			<DisplayName>Malaikat Guntur Ilahi</DisplayName>
+			<Names>protes</Names>
+			<Desc>Salah satu dari Lima Malaikat Petir Surgawi Saat disembah: Meningkatkan umur, meningkatkan jumlah maksimum Qi, meningkatkan keterampilan Senjata Ajaib, meningkatkan keterampilan Sihir Qi, meningkatkan keterampilan Qi Armor.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_9">
+			<DisplayName>Malaikat Guntur Giok</DisplayName>
+			<Names>Zhou</Names>
+			<Desc>Salah satu dari Lima Malaikat Petir Surgawi Saat dipuja: Meningkatkan umur, meningkatkan jumlah Qi maksimum,\n[color=#0869d0]Pelajari Mantra Suci: Dewa Suci Menyatukan Pikiran[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_1">
+			<DisplayName>Tianren</DisplayName>
+			<Names>Tee</Names>
+			<Desc>Kepala dewa penjaga dari Delapan Dewa Penjaga Ilahi. Saat Disembah: Meningkatkan kemampuan secara keseluruhan,\n[color=#0869d0]Pelajari mantra suci: Dewi menyatukan pikiran.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_2">
+			<DisplayName>Hilang dalam harapan</DisplayName>
+			<Names>Hilang</Names>
+			<Desc>Dewa penjaga yang bertanggung jawab atas semua makhluk hidup di lautan Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan qi magis, meningkatkan kekuatan qi magis, meningkatkan laju konsumsi energi dalam mengeluarkan qi ajaib\n[color=#0869d0]Pelajari Qi Ajaib: Naga Mengaum[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_3">
+			<DisplayName>ya</DisplayName>
+			<Names>Lua</Names>
+			<Desc>Dewa Penjaga yang mewakili ketangkasan dan kerahasiaan, Raja Penjaga dari Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan kekuatan qi ajaib, meningkatkan laju konsumsi energi untuk mengeluarkan qi ajaib, mengurangi cooldown qi ajaib, mengurangi waktu untuk mengeluarkan qi ajaib\n[color=#0869d0]Pelajari Qi Weda: Kutukan Darah Hitam[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_4">
+			<DisplayName>Kantapo</DisplayName>
+			<Names>Juan</Names>
+			<Desc>Dewa penjaga yang mewakili transformasi Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan tingkat pemulihan energi senjata ajaib, mengurangi tingkat konsumsi energi untuk mengeluarkan energi magis.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_5">
+			<DisplayName>Ah Qiu Luo</DisplayName>
+			<Names>pabrik</Names>
+			<Desc>Dewa penjaga yang mewakili pembantaian Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan bertarung, meningkatkan keterampilan senjata sihir, meningkatkan keterampilan qi sihir, meningkatkan keterampilan pelindung energi\n[color=#0869d0]Pelajari Qi Weda: Pedang Asura[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_6">
+			<DisplayName>Jia Lou Luo</DisplayName>
+			<Names>Peng</Names>
+			<Desc>Dewa penjaga yang mewakili keseriusan Delapan Dewa Penjaga Ilahi. Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan kecepatan senjata ajaib, meningkatkan kecepatan terbang senjata ajaib, meningkatkan kecepatan putaran senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_7">
+			<DisplayName>Qin Na Lou</DisplayName>
+			<Names>Persetan</Names>
+			<Desc>Dewa penjaga yang mewakili kedamaian Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan Karisma, meningkatkan umur, meningkatkan kuantitas Qi maksimum\n[color=#0869d0]Pelajari Prana Weda: Chitthepkanti[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_8">
+			<DisplayName>Mo Hu Luo Jia</DisplayName>
+			<Names>Jia</Names>
+			<Desc>Dewa penjaga yang mewakili semua makhluk hidup di tanah Delapan Dewa Penjaga Ilahi. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Qi Armor, meningkatkan kekuatan Qi Armor\n[color=#0869d0]Pelajari Mantra Suci: Dewa Suci Menyatukan Pikiran[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_1">
+			<DisplayName>Hakim Jurang Neraka</DisplayName>
+			<Names>Li</Names>
+			<Desc>Dewa penjaga yang mewakili kehidupan dan kematian di dunia orang mati. Saat disembah: Meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Penjaga Ilahi, meningkatkan jumlah maksimum Qi\n[color=#0869d0]Pelajari mantra suci: Yin Yang Terbalik[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_2">
+			<DisplayName>hakim berkulit hitam</DisplayName>
+			<Names>Penggemar</Names>
+			<Desc>Penjambret jiwa Dunia Bawah Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan senjata sihir, meningkatkan kekuatan senjata sihir, meningkatkan jumlah maksimum Qi senjata sihir, meningkatkan tingkat pemulihan Qi senjata sihir\n[color=#0869d0]Pelajari Veda Prana: Penjaga Ketidakkekalan[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_3">
+			<DisplayName>hakim berkulit putih</DisplayName>
+			<Names>Xia</Names>
+			<Desc>Penjambret jiwa dari Dunia Bawah Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan qi magis, meningkatkan kekuatan qi magis, meningkatkan jumlah qi yang diperlukan untuk mengeluarkan qi magis.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_4">
+			<DisplayName>Duta Kepala Banteng</DisplayName>
+			<Names>cemberut</Names>
+			<Desc>Patroli Alam Kematian Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan baju besi yang mendalam, meningkatkan kekuatan senjata sihir.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_5">
+			<DisplayName>Jenderal hantu</DisplayName>
+			<Names>Bu</Names>
+			<Desc>Patroli Alam Kematian Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Qi Armor, meningkatkan kekuatan Magical Qi.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_6">
+			<DisplayName>alam roh</DisplayName>
+			<Names>Meng</Names>
+			<Desc>Tukang perahu menyeberangi sungai yang mematikan Saat dipuja: Meningkatkan umur, meningkatkan jumlah Qi maksimum, meningkatkan kekuatan senjata magis, meningkatkan kekuatan qi ajaib\n[color=#0869d0]Pelajari Mantra Suci: Sihir Suci untuk Memulihkan Kehidupan.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_7">
+			<DisplayName>Penjaga Gunung Gelap</DisplayName>
+			<Names>Dia</Names>
+			<Desc>Penjaga Gunung Hitam di Alam Kematian Saat dipuja: Meningkatkan umur, meningkatkan jumlah Qi maksimum, meningkatkan pelindung energi\n[color=#0869d0]Pelajari Mantra Suci: Dewa Suci Menyatukan Pikiran[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_1">
+			<DisplayName>Penjaga Inti Surgawi</DisplayName>
+			<Names>menghina</Names>
+			<Desc>Roh bintang yang memiliki sebagian dari kekuatan ilahi. Saat disembah: Meningkatkan kemampuan keseluruhan, meningkatkan kekuatan senjata magis, meningkatkan kekuatan qi ajaib,[color=#D00808]Secara signifikan mengurangi harapan hidup[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_2">
+			<DisplayName>Tujuh Penjaga Penghancur</DisplayName>
+			<Names>teh</Names>
+			<Desc>Roh bintang yang memiliki sebagian dari kekuatan ilahi. Saat disembah: Meningkatkan kemampuan keseluruhan, meningkatkan kekuatan senjata magis, meningkatkan kekuatan qi ajaib,[color=#D00808]Mengurangi jumlah maksimum Qi secara signifikan.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_3">
+			<DisplayName>Penjaga Cahaya Surga</DisplayName>
+			<Names>Juni</Names>
+			<Desc>Roh bintang yang memiliki sebagian dari kekuatan ilahi. Saat disembah: Meningkatkan kemampuan keseluruhan, meningkatkan kekuatan senjata magis, meningkatkan kekuatan qi ajaib,[color=#D00808]Mengurangi energi armor secara signifikan.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_4">
+			<DisplayName>Roh Merah</DisplayName>
+			<Names>Nama</Names>
+			<Desc>Seorang wali kuno yang merupakan salah satu perwakilan dari lima elemen. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan qi magis, meningkatkan kekuatan qi magis.</Desc>
+		</Text>
+		<Text Name="Guard_Other_5">
+			<DisplayName>semangat putih</DisplayName>
+			<Names>Bai</Names>
+			<Desc>Seorang wali kuno yang merupakan salah satu perwakilan dari lima elemen. Saat beribadah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan senjata sihir, meningkatkan kekuatan senjata sihir, meningkatkan jumlah maksimum Qi senjata sihir, meningkatkan tingkat pemulihan Qi senjata sihir.</Desc>
+		</Text>
+		<Text Name="Guard_Other_6">
+			<DisplayName>semangat kuning</DisplayName>
+			<Names>tajam</Names>
+			<Desc>Seorang wali kuno yang merupakan salah satu perwakilan dari lima elemen. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan keterampilan Qi Armor, meningkatkan kekuatan Qi Armor.</Desc>
+		</Text>
+		<Text Name="Guard_Other_7">
+			<DisplayName>Jiwa Hitam</DisplayName>
+			<Names>Tzu</Names>
+			<Desc>Seorang wali kuno yang merupakan salah satu perwakilan dari lima elemen. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan rasa Qi.</Desc>
+		</Text>
+		<Text Name="Guard_Other_8">
+			<DisplayName>Roh Langit</DisplayName>
+			<Names>Ling</Names>
+			<Desc>Seorang wali kuno yang merupakan salah satu perwakilan dari lima elemen. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan jumlah Qi maksimum.</Desc>
+		</Text>
+		<Text Name="Guard_Other_9">
+			<DisplayName>semangat laut</DisplayName>
+			<Names>harapan</Names>
+			<Desc>Seorang wali yang mempunyai peninggalan suci laut yang misterius. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan kekuatan qi ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_Other_10">
+			<DisplayName>Roh Gunung</DisplayName>
+			<Names>Tai</Names>
+			<Desc>Roh Penjaga Gunung Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan kekuatan armor.</Desc>
+		</Text>
+		<Text Name="Guard_Other_11">
+			<DisplayName>Semangat Bunga</DisplayName>
+			<Names>Xiang</Names>
+			<Desc>Roh Penjaga Bunga Saat dipuja: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan jumlah Qi maksimum.\n[color=#0869d0]Pelajari Prana Weda: Tujuh Warna Bunga Ilahi[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_12">
+			<DisplayName>Roh Raksasa</DisplayName>
+			<Names>buatan</Names>
+			<Desc>Roh penjaga dengan kekuatan luar biasa. Saat disembah: Sedikit meningkatkan kemampuan keseluruhan, meningkatkan knockback senjata ajaib, meningkatkan ketahanan knockback senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_Base_1">
+			<DisplayName>Hantu Emas</DisplayName>
+			<Names>Ren</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat beribadah: Meningkatkan keterampilan senjata sihir, meningkatkan kekuatan senjata sihir, meningkatkan jumlah Qi maksimum senjata sihir, meningkatkan tingkat pemulihan Qi senjata sihir.</Desc>
+		</Text>
+		<Text Name="Guard_Base_2">
+			<DisplayName>Pohon Hantu</DisplayName>
+			<Names>Ya</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat beribadah: Memaksimalkan jumlah Qi.</Desc>
+		</Text>
+		<Text Name="Guard_Base_3">
+			<DisplayName>Roh Air</DisplayName>
+			<Names>Liu</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat beribadah: Tingkatkan rasa Qi Anda.</Desc>
+		</Text>
+		<Text Name="Guard_Base_4">
+			<DisplayName>Roh Api</DisplayName>
+			<Names>Yan</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat dipuja: Meningkatkan keterampilan qi magis, meningkatkan kekuatan qi magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_5">
+			<DisplayName>Hantu Bumi</DisplayName>
+			<Names>Chen</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat beribadah: Meningkatkan keterampilan Qi Armor, meningkatkan kekuatan Qi Armor.</Desc>
+		</Text>
+		<Text Name="Guard_Base_6">
+			<DisplayName>Peri bumi</DisplayName>
+			<Names>Shen</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan umur</Desc>
+		</Text>
+		<Text Name="Guard_Base_7">
+			<DisplayName>Prai Pruksa</DisplayName>
+			<Names>Ling</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat beribadah: Memaksimalkan jumlah Qi.</Desc>
+		</Text>
+		<Text Name="Guard_Base_8">
+			<DisplayName>hantu emas</DisplayName>
+			<Names>Istri</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan kekuatan senjata magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_9">
+			<DisplayName>Danau Hantu</DisplayName>
+			<Names>Avi</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan tingkat pemulihan qi senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_Base_10">
+			<DisplayName>Hantu Kristal</DisplayName>
+			<Names>Ming</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat Disembah: Meningkatkan jumlah maksimum Qi senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_Base_11">
+			<DisplayName>Batu Roh</DisplayName>
+			<Names>Wah!</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan kekuatan Qi Armor Anda.</Desc>
+		</Text>
+		<Text Name="Guard_Base_12">
+			<DisplayName>hantu api</DisplayName>
+			<Names>Shi</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan kekuatan Veda Qi.</Desc>
+		</Text>
+		<Text Name="Guard_Base_13">
+			<DisplayName>Praiwaree</DisplayName>
+			<Names>Jia</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat disembah: Mengurangi waktu yang dibutuhkan untuk mengeluarkan energi sihir.</Desc>
+		</Text>
+		<Text Name="Guard_Base_14">
+			<DisplayName>Roh Angin</DisplayName>
+			<Names>sahabat karib</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat dipuja: Meningkatkan kecepatan terbang senjata magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_15">
+			<DisplayName>Angin hantu</DisplayName>
+			<Names>Ming</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat dipuja: Meningkatkan kecepatan putaran senjata magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_16">
+			<DisplayName>Prai Sila</DisplayName>
+			<Names>Tzu</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan efek knockback senjata magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_17">
+			<DisplayName>Peri hitam</DisplayName>
+			<Names>Jian</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat dipuja: Meningkatkan ketahanan terhadap knockback senjata magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_18">
+			<DisplayName>Penjaga Pohon</DisplayName>
+			<Names>Ya</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat disembah: Mengurangi cooldown saat mengeluarkan energi sihir.</Desc>
+		</Text>
+		<Text Name="Guard_Base_19">
+			<DisplayName>Penjaga Air</DisplayName>
+			<Names>Poe</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat disembah: Mengurangi waktu yang dibutuhkan untuk mengeluarkan energi sihir.</Desc>
+		</Text>
+		<Text Name="Guard_Base_20">
+			<DisplayName>Penjaga Emas</DisplayName>
+			<Names>Tong</Names>
+			<Desc>Penjaga nomaden yang dapat dilihat dimanapun di dunia. Saat Disembah: Meningkatkan keterampilan Senjata Ajaib.</Desc>
+		</Text>
+		<Text Name="Guard_Base_21">
+			<DisplayName>Penjaga Api</DisplayName>
+			<Names>Yan</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat disembah: Meningkatkan keterampilan energi magis.</Desc>
+		</Text>
+		<Text Name="Guard_Base_22">
+			<DisplayName>Penjaga Bumi</DisplayName>
+			<Names>Janda</Names>
+			<Desc>Penjaga pengembara yang dapat dilihat dimana saja di dunia. Saat dipuja: Meningkatkan skill Spirit Armor.</Desc>
+		</Text>
+	</List>
+</Texts>
