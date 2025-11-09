@@ -1,0 +1,156 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_2_1">
+			<Prefix>kaki kiri</Prefix>
+			<Suffix>Kocok jurang maut</Suffix>
+			<Desc>Fisik Misterius dasar yang terkenal dengan serangannya yang ganas. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
+			<Levels.3.Title>Lantai empat</Levels.3.Title>
+			<Levels.3.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.3.Desc>
+			<Levels.4.Title>Lantai lima</Levels.4.Title>
+			<Levels.4.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_1_1">
+			<Prefix>kaki kanan</Prefix>
+			<Suffix>Kocok jurang maut</Suffix>
+			<Desc>Fisik Misterius dasar yang terkenal dengan serangannya yang ganas. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
+			<Levels.3.Title>Lantai empat</Levels.3.Title>
+			<Levels.3.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.3.Desc>
+			<Levels.4.Title>Lantai lima</Levels.4.Title>
+			<Levels.4.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2">
+			<Prefix>tangan kiri</Prefix>
+			<Suffix>Dua dunia</Suffix>
+			<Desc>Tempa tangan Anda dengan kekuatan iblis untuk menciptakan kekuatan di luar imajinasi. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2_1">
+			<Prefix>tangan kanan</Prefix>
+			<Suffix>Dua dunia</Suffix>
+			<Desc>Tempa tangan Anda dengan kekuatan iblis untuk menciptakan kekuatan di luar imajinasi. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_3">
+			<Prefix>kaki</Prefix>
+			<Suffix>sembilan surga</Suffix>
+			<Desc>Tarik energi dari bumi dengan kedua kaki dan gunakan tubuh Anda sebagai jembatan menuju puncak kepala Anda. Mereka yang menguasai teknik ini akan memiliki kekuatan serangan yang sangat tinggi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4">
+			<Prefix>kaki kiri</Prefix>
+			<Suffix>Perisai surgawi</Suffix>
+			<Desc>Tempa tulang kering menggunakan teknik rahasia agar tahan terhadap kerusakan. Itu juga memungkinkan untuk menyerang dan bertahan dengan cepat.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan efisiensi Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan peluang keberhasilan dalam pertahanan Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.2.Desc>
+			<Levels.3.Title>Lantai empat</Levels.3.Title>
+			<Levels.3.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4_1">
+			<Prefix>kaki kanan</Prefix>
+			<Suffix>Perisai surgawi</Suffix>
+			<Desc>Tempa tulang kering menggunakan teknik rahasia agar tahan terhadap kerusakan. Itu juga memungkinkan untuk menyerang dan bertahan dengan cepat.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan efisiensi Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan peluang keberhasilan dalam pertahanan Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.2.Desc>
+			<Levels.3.Title>Lantai empat</Levels.3.Title>
+			<Levels.3.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_5">
+			<Prefix>tangan</Prefix>
+			<Suffix>penelan jiwa</Suffix>
+			<Desc>Tempalah tulang tangan Anda agar memiliki kemampuan melahap berbagai unsur qi. Fisik Misterius ini berspesialisasi dalam serangan yang menembus Qi Armor.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Mengurangi kerusakan elemen yang diterima dari serangan sedang.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.\n Mengurangi kerusakan elemen yang diterima dari serangan sedang.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_6">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Tidak ada kerugian</Suffix>
+			<Desc>Melelehkan tulang-tulang utama dalam tubuh menjadi beberapa bagian. untuk mendistribusikan kerusakan yang diterima dari pertempuran Dikatakan bahwa mereka yang mencapai teknik ini akan memiliki tubuh yang hampir tidak bisa dihancurkan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan daya tahan dasar Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.</Levels.2.Desc>
+			<Levels.3.Title>Lantai empat</Levels.3.Title>
+			<Levels.3.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_7">
+			<Prefix>darah</Prefix>
+			<Suffix>Sembilan Matahari</Suffix>
+			<Desc>Tempa hati dengan teknik rahasia menjadi darah di dalam tubuh hingga memiliki kekuatan sembilan matahari. Jika menggunakan metode ini untuk membentuk tulang belakang Kecil kemungkinan tulang belakang akan mengalami perubahan misterius dan mengembangkan potensi evolusi seluruh tulang.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari Sihir Pemurnian Tubuh: Pemurnian Tubuh Matahari</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_8">
+			<Prefix>jantung</Prefix>
+			<Suffix>dewa perang</Suffix>
+			<Desc>Sempurnakan hati ke bentuk aslinya untuk meningkatkan laju pemulihan Qi Sejati.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_9">
+			<Prefix>maksud</Prefix>
+			<Suffix>dewa perang</Suffix>
+			<Desc>Memelihara otak yang memungkinkan praktisi memperoleh keterampilan semangat juang. Ini akan sangat meningkatkan kemampuan menyerang Anda.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari gerakan bertarung: Semangat Berjuang</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_10">
+			<Prefix>mata</Prefix>
+			<Suffix>delapan arah</Suffix>
+			<Desc>Tempa mata dengan seni rahasia untuk menghubungkannya dengan delapan kutub langit dan bumi. Ia memiliki kemampuan untuk memprediksi pergerakan musuh dan sangat meningkatkan akurasi serangannya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan akurasi serangan Fisik Misterius.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_11">
+			<Prefix>angsa</Prefix>
+			<Suffix>hidup</Suffix>
+			<Desc>Fisik Misterius yang diciptakan dengan meniru mulut Naga Kerakusan. Dengan menggunakan Fisik Misterius ini, seseorang dapat menyerap energi antara langit dan bumi untuk mengisi ulang tenaganya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari mantranya: Melahap Kehidupan</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
