@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="1">
+			<Display>Jumlah Pewaris Surgawi: {0}</Display>
+		</Text>
+		<Text Name="2">
+			<Display>Membuat harta ajaib: {0} kali</Display>
+		</Text>
+		<Text Name="3">
+			<Display>Gambar Yantra: {0} kali</Display>
+		</Text>
+		<Text Name="4">
+			<Display>Makhluk yang dibunuh: {0} makhluk.</Display>
+		</Text>
+		<Text Name="5">
+			<Display>Belajar melalui buku teks: Buku Rahasia {0} volume</Display>
+		</Text>
+		<Text Name="6">
+			<Display>Waktu Penerbangan Surgawi Tercepat: Tanggal {0}</Display>
+		</Text>
+		<Text Name="7">
+			<Display>Menyeduh pil: {0} kali</Display>
+		</Text>
+		<Text Name="8">
+			<Display>Petualangan: {0} kali</Display>
+		</Text>
+		<Text Name="9">
+			<Display>Memasak: {0} kali</Display>
+		</Text>
+		<Text Name="10">
+			<Display>Poin Keberhasilan: {0}</Display>
+		</Text>
+		<Text Name="11">
+			<Display>Jumlah kumulatif murid dalam yang meninggal: {0}</Display>
+		</Text>
+		<Text Name="12">
+			<Display>Temukan sendiri tempat-tempat baru selama {0} petualangan.</Display>
+		</Text>
+	</List>
+</Texts>
