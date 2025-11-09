@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGRabbit">
+			<DisplayName>Klan Kelinci Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Kelinci Iblis.</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGChicken">
+			<DisplayName>Klan Ayam Iblis</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Ayam Iblis.</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+			<TalkBefore>jib</TalkBefore>
+			<TalkAfter>Jib!</TalkAfter>
+		</Text>
+		<Text Name="YGWolf">
+			<DisplayName>Klan Serigala Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Serigala Iblis.</Desc>
+			<TalkBefore>Biru!</TalkBefore>
+			<TalkAfter>Biru!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGSnake">
+			<DisplayName>Klan Ular Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Ular Iblis.</Desc>
+			<TalkBefore>Mendesis!</TalkBefore>
+			<TalkAfter>Mendesis</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGBoar">
+			<DisplayName>Klan Babi Hutan Iblis</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Babi Hutan Iblis.</Desc>
+			<TalkBefore>Bagus</TalkBefore>
+			<TalkAfter>Oke</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGBear">
+			<DisplayName>Klan Beruang Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Ras Beruang Iblis.</Desc>
+			<TalkBefore>Wah!</TalkBefore>
+			<TalkAfter>Wah!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGTurtle">
+			<DisplayName>Klan Penyu Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Penyu Iblis.</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGFrog">
+			<DisplayName>Klan Katak Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Katak Iblis.</Desc>
+			<TalkBefore>Ups!</TalkBefore>
+			<TalkAfter>Ups!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGCat">
+			<DisplayName>Klan Kucing Setan</DisplayName>
+			<Desc>Binatang iblis yang diubah menjadi klan setengah iblis dengan berhasil membangkitkan kecerdasan mereka sendiri: Klan Kucing Iblis.</Desc>
+			<TalkBefore>Meong!</TalkBefore>
+			<TalkAfter>mengeong</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGCattle">
+			<DisplayName>Klan Banteng Iblis</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Banteng Iblis.</Desc>
+			<TalkBefore>Ya ampun!</TalkBefore>
+			<TalkAfter>Mo!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="YGTiger">
+			<DisplayName>Suku Harimau Setan</DisplayName>
+			<Desc>Seekor binatang iblis yang berhasil berubah menjadi ras setengah iblis dengan membangkitkan kecerdasannya sendiri: Klan Harimau Iblis.</Desc>
+			<TalkBefore>Haha~</TalkBefore>
+			<TalkAfter>Wah!</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+	</List>
+</Texts>
