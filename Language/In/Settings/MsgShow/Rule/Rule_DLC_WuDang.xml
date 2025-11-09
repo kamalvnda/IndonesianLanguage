@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="School_13">
+			<DisplayName>Hubungan antara Sekte - Sekte Bu Tung</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu dengan orang-orang dari Sekte Wutung.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+	</List>
+</Texts>
