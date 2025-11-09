@@ -1,0 +1,150 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_Portia_1" sParam="Item">
+			<ThingName>Benda dari dunia lain: 1</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_other05[/img]</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksa objek ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_2" sParam="Item">
+			<ThingName>Benda dari dunia lain: 2</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_QQBed[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_3" sParam="Item">
+			<ThingName>Benda dari dunia lain: 3</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_functionalFurnishing_DreamLamp[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_4" sParam="Item">
+			<ThingName>Benda dari dunia lain: 4</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_objects_carpet_003_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_5" sParam="Item">
+			<ThingName>Objek dari dunia lain: 5</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_Fan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_6" sParam="Item">
+			<ThingName>Benda dari dunia lain: 6</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_gift_KMLamp_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_7" sParam="Item">
+			<ThingName>Objek dari dunia lain: 7</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_Station02[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_8" sParam="Item">
+			<ThingName>Objek dari dunia lain: 8</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_safe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_9" sParam="Item">
+			<ThingName>Objek dari dunia lain: 9</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_WinterSolstice_xueren03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_10" sParam="Item">
+			<ThingName>Objek dari dunia lain: 10</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_hoe_steel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_11" sParam="Item">
+			<ThingName>Objek dari dunia lain: 11</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_Marco_Weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_12" sParam="Item">
+			<ThingName>Objek dari dunia lain: 12</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_13" sParam="Item">
+			<ThingName>Objek dari dunia lain: 13</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_weapon_003[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_14" sParam="Item">
+			<ThingName>Objek dari dunia lain: 14</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_weapon_ironAxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_15" sParam="Item">
+			<ThingName>Objek dari dunia lain: 15</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_weapon_ironPickaxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_16" sParam="Item">
+			<ThingName>Objek dari dunia lain: 16</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_gift_Aadit[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_17" sParam="Item">
+			<ThingName>Objek dari dunia lain: 17</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_researchcd[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_18" sParam="Item">
+			<ThingName>Objek dari dunia lain: 18</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_bus002[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_19" sParam="Item">
+			<ThingName>Objek dari dunia lain: 19</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_AlpacaSmall[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_20" sParam="Item">
+			<ThingName>Objek dari dunia lain: 20</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_food_HaiTaiFengWeiJuanBing[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_21" sParam="Item">
+			<ThingName>Objek dari dunia lain: 21</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_food_04[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_22" sParam="Item">
+			<ThingName>Objek dari dunia lain: 22</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_small_NaiYouGuiYuTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_23" sParam="Item">
+			<ThingName>Objek dari dunia lain: 23</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_food_ShuCaiWanZiTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_24" sParam="Item">
+			<ThingName>Objek dari dunia lain: 24</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_small_JingDianRouJiangMian[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_25" sParam="Item">
+			<ThingName>Benda Dunia Lain: 25</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_yamtato_puree[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_26" sParam="Item">
+			<ThingName>Objek dari dunia lain: 26</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_food_ZhiShiXiaJuFan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_27" sParam="Item">
+			<ThingName>Objek dari dunia lain: 27</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_yingyuecaozhi[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_28" sParam="Item">
+			<ThingName>Objek dari dunia lain: 28</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_fish[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_29" sParam="Item">
+			<ThingName>Objek dari dunia lain: 29</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_wheat_seeds[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_30" sParam="Item">
+			<ThingName>Objek dari dunia lain: 30</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_small_TongTianYangNai[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_31" sParam="Item">
+			<ThingName>Objek dari dunia lain: 31</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat hal-hal aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_food_03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_32" sParam="Item">
+			<ThingName>Objek dari dunia lain: 32</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_treasure_AircraftModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_33" sParam="Item">
+			<ThingName>Objek dari dunia lain: 33</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_treasure_RocketModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_34" sParam="Item">
+			<ThingName>Objek dari dunia lain: 34</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_treasure_SailboatModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_35" sParam="Item">
+			<ThingName>Objek dari dunia lain: 35</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_treasure_FoldingFanOrnaments[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_36" sParam="Item">
+			<ThingName>Objek dari dunia lain: 36</ThingName>
+			<Desc>Benda misterius tersegel dari dunia lain. Segel jenis ini dibuat dengan menggunakan energi dari dunia lain untuk membentuk segel menggunakan teknik khusus. Memaksanya membuka secara paksa akan menyebabkannya langsung menghancurkan dirinya sendiri dan isinya. Saat memeriksa dengan indra Anda akan melihat bahwa di dalam segel tersebut terdapat benda-benda aneh. Tersembunyi di dalam \n[img]res\Sprs\object_portia\Item_treasure_Objects11[/img]</Desc>
+		</Text>
+	</List>
+</Texts>
