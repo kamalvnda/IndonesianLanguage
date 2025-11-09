@@ -1,0 +1,62 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Disaster_Drought">
+			<DisplayName>Kekeringan</DisplayName>
+			<Desc>Daerah ini sedang mengalami kekeringan.</Desc>
+			<Selections.0.Display>bantuan penanggulangan bencana</Selections.0.Display>
+			<Selections.1.Display>memperparah bencana tersebut</Selections.1.Display>
+			<Selections.2.Display>menghibur penduduk desa</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Flood">
+			<DisplayName>banjir</DisplayName>
+			<Desc>Daerah ini sedang mengalami bencana banjir.</Desc>
+			<Selections.0.Display>bantuan penanggulangan bencana</Selections.0.Display>
+			<Selections.1.Display>memperparah bencana tersebut</Selections.1.Display>
+			<Selections.2.Display>menghibur penduduk desa</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Siberia">
+			<DisplayName>Bahaya musim dingin</DisplayName>
+			<Desc>Daerah ini sedang diserang gelombang dingin.</Desc>
+			<Selections.0.Display>bantuan penanggulangan bencana</Selections.0.Display>
+			<Selections.1.Display>memperparah bencana tersebut</Selections.1.Display>
+			<Selections.2.Display>menghibur penduduk desa</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_EarthQuake">
+			<DisplayName>gempa bumi</DisplayName>
+			<Desc>Daerah ini sedang mengalami gempa bumi.</Desc>
+			<Selections.0.Display>bantuan penanggulangan bencana</Selections.0.Display>
+			<Selections.1.Display>memperparah bencana tersebut</Selections.1.Display>
+			<Selections.2.Display>menghibur penduduk desa</Selections.2.Display>
+		</Text>
+		<Text Name="Place_Drought">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>[NAME]Diputuskan untuk mengatasi kekeringan.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Flood">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>[NAME]Diputuskan untuk mengatasi banjir.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Siberia">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>[NAME]Diputuskan untuk mengatasi gelombang dingin.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="Place_EarthQuake">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>[NAME]Diputuskan untuk menangani gempa tersebut.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtFinish">
+			<DisplayName>Bencana sudah berakhir.</DisplayName>
+			<Desc>Bencana tersebut berlangsung selama beberapa hari. Penduduk desa menghadapi kelaparan. Banyak orang meninggal, ada yang mengungsi, dan pertanian rusak parah.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtSolve">
+			<DisplayName>Bencana sudah berakhir.</DisplayName>
+			<Desc>dengan usaha keras bencana itu akhirnya dapat dikendalikan.</Desc>
+			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
