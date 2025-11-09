@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpecialZhen">
+			<Notes>Pendapat tentang kamp</Notes>
+			<Title>Kamp mekanis</Title>
+			<Desc>Menyatukan kekuatan banyak orang menjadi satu. Itu adalah konsep tertinggi dari jalur seni bela diri.</Desc>
+		</Text>
+		<Text Name="SpecialElixirGas">
+			<Notes>Pendapat tentang Pil Pemurnian Qi</Notes>
+			<Title>Qi Pemurnian Obat</Title>
+			<Desc>Menyempurnakan obat di sekte tersebut</Desc>
+		</Text>
+		<Text Name="SpecialSacrific">
+			<Notes>Komentar tentang Pengorbanan Setan</Notes>
+			<Title>Pengorbanan Setan</Title>
+			<Desc>Jendela Pengorbanan Setan</Desc>
+		</Text>
+		<Text Name="SpecialMutation">
+			<Notes>Komentar tentang Kekacauan Surgawi</Notes>
+			<Title>Kekacauan Surgawi</Title>
+			<Desc>Dao Surgawi di alam ini telah memasuki tahap akhir. Hal ini membuat hukum surgawi yang sudah bergejolak menjadi semakin tidak stabil.</Desc>
+		</Text>
+	</List>
+</Texts>
