@@ -1,0 +1,18 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FeatureModifierBase">
+      <Desc>Pengubah yang dihasilkan oleh fitur digunakan oleh sistem dan tidak boleh diubah.</Desc>
+    </Text>
+    <Text Name="ExperienceModifierBase">
+      <Desc>Pengubah yang dihasilkan oleh pengalaman digunakan oleh sistem, jangan diubah.</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang1">
+      <DisplayName>insentif Ketua</DisplayName>
+      <Desc>Bekerja lebih keras di bawah pengawasan ketua!</Desc>
+    </Text>
+    <Text Name="FeatureModifier_DongShiZhang2">
+      <DisplayName>insentif Ketua</DisplayName>
+      <Desc>Bekerja lebih keras di bawah pengawasan ketua!</Desc>
+    </Text>
+  </List>
+</Texts>
