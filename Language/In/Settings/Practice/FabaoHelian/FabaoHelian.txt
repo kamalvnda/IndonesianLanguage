@@ -1,0 +1,77 @@
+ID	Type	Kind	Name	fParam	fParam2	Lv	Des	Disname
+	分类	词条类型	词条名称	数值1:秘籍：道行最小值；属性：addv	数值2:秘籍：道行最大值；属性：addp	等级		
+-1	None	None	None	0		1	Modul hilang	Modul hilang
+1	Fabao	SkillLevel	Fabao	1		5	Berikan beberapa wawasan Anda tentang seni pengendalian senjata pada benda ini。	Pencerahan Jalan Besar:dangkal
+2	Fabao	SkillLevel	Fabao	2		6	Berikan lebih banyak wawasan tentang seni pengendalian senjata pada objek ini。	Pencerahan Jalan Besar:menonjol
+3	Magic	SkillLevel	FightSkill	1		5	Tempatkan beberapa wawasan Anda tentang seni sihir pada benda ini。	Pencerahan Jalan Besar:dangkal
+4	Magic	SkillLevel	FightSkill	2		6	Berikan lebih banyak wawasan tentang cara sihir pada benda ini。	Pencerahan Jalan Besar:menonjol
+5	FightHU	SkillLevel	Barrier	1		5	Berikan beberapa wawasan tentang cara melindungi tubuh pada benda ini。	Pencerahan Jalan Besar:dangkal
+6	FightHU	SkillLevel	Barrier	2		6	Berikan lebih banyak wawasan tentang cara melindungi tubuh pada benda ini。	Pencerahan Jalan Besar:menonjol
+7	RefiningDan	SkillLevel	Medicine	1		5	Berikan beberapa wawasan Anda tentang alkimia pada hal ini。	Pencerahan Jalan Besar:dangkal
+8	RefiningDan	SkillLevel	Medicine	2		6	Berikan lebih banyak wawasan tentang alkimia tentang hal ini。	Pencerahan Jalan Besar:menonjol
+9	Refining	SkillLevel	Manual	1		5	Berikan beberapa wawasanmu tentang seni pemurnian senjata pada benda ini。	Pencerahan Jalan Besar:dangkal
+10	Refining	SkillLevel	Manual	2		6	Berikan lebih banyak wawasan tentang seni pemurnian senjata pada benda ini。	Pencerahan Jalan Besar:menonjol
+11	Fabao	Esoterica	Fabao	1	3	3	Percayakan buku rahasia tingkat pemula tentang seni pengendalian senjata ke objek ini。	Pencerahan Rahasia:[TXT]
+12	Fabao	Esoterica	Fabao	4	6	4	Percayakan buku rahasia tingkat lanjut tentang seni menggunakan senjata pada objek ini.。	Pencerahan Rahasia:[TXT]
+13	Fabao	Esoterica	Fabao	7	9	5	Percayakan buku rahasia indah tentang seni pengendalian senjata pada objek ini.。	Pencerahan Rahasia:[TXT]
+14	Fabao	Esoterica	Fabao	10	12	6	Percayakan buku rahasia misterius tentang seni pengendalian senjata pada objek ini.。	Pencerahan Rahasia:[TXT]
+15	Magic	Esoterica	Skill	1	3	3	Buku rahasia sihir tingkat pemula dipercayakan pada benda ini。	Pencerahan Rahasia:[TXT]
+16	Magic	Esoterica	Skill	4	6	4	Sebuah buku rahasia teknik sihir tingkat lanjut dipercayakan pada objek ini.。	Pencerahan Rahasia:[TXT]
+17	Magic	Esoterica	Skill	7	9	5	Sebuah buku rahasia teknik sihir yang sangat indah dipercayakan pada objek ini.。	Pencerahan Rahasia:[TXT]
+18	Magic	Esoterica	Skill	10	12	6	Percayakan buku rahasia sihir yang misterius pada benda ini。	Pencerahan Rahasia:[TXT]
+19	FightHU	Esoterica	Barrier	1	3	3	Percayakan buku rahasia perlindungan tubuh tingkat pemula pada benda ini。	Pencerahan Rahasia:[TXT]
+20	FightHU	Esoterica	Barrier	4	6	4	Percayakan buku rahasia metode perlindungan tubuh tingkat lanjut pada objek ini。	Pencerahan Rahasia:[TXT]
+21	FightHU	Esoterica	Barrier	7	9	5	Percayakan buku rahasia perlindungan tubuh yang sangat indah pada objek ini。	Pencerahan Rahasia:[TXT]
+22	FightHU	Esoterica	Barrier	10	12	6	Sebuah buku rahasia misterius tentang perlindungan tubuh dipercayakan pada objek ini.。	Pencerahan Rahasia:[TXT]
+23	RefiningDan	Esoterica	Dan	1	3	3	Percayakan buku rahasia alkimia tingkat pemula pada benda ini。	Pencerahan Rahasia:[TXT]
+24	RefiningDan	Esoterica	Dan	4	6	4	Percayakan buku rahasia teknik alkimia tingkat lanjut pada objek ini。	Pencerahan Rahasia:[TXT]
+25	RefiningDan	Esoterica	Dan	7	9	5	Percayakan buku rahasia alkimia yang sangat indah pada benda ini。	Pencerahan Rahasia:[TXT]
+26	RefiningDan	Esoterica	Dan	10	12	6	Percayakan buku rahasia alkimia misterius pada objek ini。	Pencerahan Rahasia:[TXT]
+27	Refining	Esoterica	Refining	1	3	3	Percayakan buku rahasia tingkat pemula tentang seni pemurnian senjata pada benda ini。	Pencerahan Rahasia:[TXT]
+28	Refining	Esoterica	Refining	4	6	4	Percayakan buku rahasia teknik pemurnian senjata tingkat lanjut pada objek ini.。	Pencerahan Rahasia:[TXT]
+29	Refining	Esoterica	Refining	7	9	5	Percayakan buku rahasia indah tentang seni pemurnian senjata pada objek ini。	Pencerahan Rahasia:[TXT]
+30	Refining	Esoterica	Refining	10	12	6	Percayakan buku rahasia misterius tentang seni pemurnian senjata pada objek ini。	Pencerahan Rahasia:[TXT]
+31	Practice	Esoterica	Gong	1	3	3	Percayakan buku rahasia budidaya tingkat awal pada benda ini。	Pencerahan Rahasia:[TXT]
+32	Practice	Esoterica	Gong	4	6	4	Percayakan buku rahasia metode budidaya tingkat lanjut pada benda ini。	Pencerahan Rahasia:[TXT]
+33	Practice	Esoterica	Gong	7	9	5	Percayakan buku rahasia budidaya yang sangat indah pada benda ini。	Pencerahan Rahasia:[TXT]
+34	Practice	Esoterica	Gong	10	12	6	Percayakan buku rahasia misterius tentang cara berkultivasi pada benda ini。	Pencerahan Rahasia:[TXT]
+35	Fabao	Property	NpcFight_FabaoPowerAddP		1	1	Tempatkan beberapa teknik yang dapat sedikit meningkatkan kekuatan senjata ajaib pada objek ini。	Pencerahan keterampilan:Jumlah jejak
+36	Fabao	Property	NpcFight_FabaoPowerAddP		2	2	Berikan beberapa keterampilan pada objek ini yang dapat sedikit meningkatkan kekuatan senjata ajaib.。	Pencerahan keterampilan:Sejumlah kecil
+37	Fabao	Property	NpcFight_FabaoPowerAddP		3	3	Tempatkan beberapa skill yang dapat meningkatkan kekuatan senjata ajaib pada objek ini。	Pencerahan keterampilan:sedang
+38	Fabao	Property	NpcFight_FabaoPowerAddP		4	4	Letakkan beberapa keterampilan yang dapat meningkatkan kekuatan senjata ajaib pada benda ini。	Pencerahan keterampilan:Lagi
+39	Fabao	Property	NpcFight_FabaoPowerAddP		5	5	Tempatkan beberapa keterampilan yang dapat meningkatkan kekuatan senjata ajaib pada objek ini。	Pencerahan keterampilan:Banyak
+40	Fabao	Property	NpcFight_FabaoPowerAddP		6	6	Berikan beberapa keterampilan pada objek ini yang dapat meningkatkan kekuatan senjata ajaib secara signifikan.。	Pencerahan keterampilan:Jumlah yang sangat besar
+41	Magic	Property	NpcFight_SpellPowerAddP		1	1	Letakkan beberapa teknik yang dapat sedikit meningkatkan kekuatan mantra pada benda ini。	Pencerahan keterampilan:Jumlah jejak
+42	Magic	Property	NpcFight_SpellPowerAddP		2	2	Gunakan beberapa keterampilan pada benda ini yang dapat sedikit meningkatkan kekuatan mantra.。	Pencerahan keterampilan:Sejumlah kecil
+43	Magic	Property	NpcFight_SpellPowerAddP		3	3	Gunakan beberapa keterampilan yang dapat meningkatkan kekuatan mantra pada benda ini。	Pencerahan keterampilan:sedang
+44	Magic	Property	NpcFight_SpellPowerAddP		4	4	Gunakan beberapa keterampilan yang dapat meningkatkan kekuatan mantra pada benda ini。	Pencerahan keterampilan:Lagi
+45	Magic	Property	NpcFight_SpellPowerAddP		5	5	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan mantra secara signifikan.。	Pencerahan keterampilan:Banyak
+46	Magic	Property	NpcFight_SpellPowerAddP		6	6	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan mantra secara signifikan.。	Pencerahan keterampilan:Jumlah yang sangat besar
+47	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.05		1	Gunakan beberapa teknik pada benda ini yang dapat sedikit meningkatkan kekuatan perisai.。	Pencerahan keterampilan:Jumlah jejak
+48	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.1		2	Berikan beberapa trik pada benda ini yang dapat sedikit meningkatkan kekuatan perisai.。	Pencerahan keterampilan:Sejumlah kecil
+49	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.15		3	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan perisai.。	Pencerahan keterampilan:sedang
+50	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.2		4	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan perisai.。	Pencerahan keterampilan:Lagi
+51	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.25		5	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan perisai secara signifikan.。	Pencerahan keterampilan:Banyak
+52	FightHU	Property	NpcFight_ShieldConversionRateAddP	0.3		6	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan kekuatan perisai secara signifikan.。	Pencerahan keterampilan:Jumlah yang sangat besar
+53	Refining	Property	FabaoMake_TwelveRateChance	0.001		1	Tempatkan beberapa keterampilan pada objek ini yang dapat sedikit meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:Jumlah jejak
+54	Refining	Property	FabaoMake_TwelveRateChance	0.002		2	Gunakan beberapa keterampilan pada objek ini yang dapat sedikit meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:Sejumlah kecil
+55	Refining	Property	FabaoMake_TwelveRateChance	0.003		3	Tempatkan beberapa keterampilan pada objek ini yang dapat meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:sedang
+56	Refining	Property	FabaoMake_TwelveRateChance	0.004		4	Gunakan beberapa keterampilan pada objek ini yang dapat meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:Lagi
+57	Refining	Property	FabaoMake_TwelveRateChance	0.005		5	Tempatkan beberapa keterampilan pada objek ini yang dapat sangat meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:Banyak
+58	Refining	Property	FabaoMake_TwelveRateChance	0.006		6	Gunakan beberapa keterampilan pada objek ini yang dapat sangat meningkatkan kemungkinan memperoleh artefak.。	Pencerahan keterampilan:Jumlah yang sangat besar
+59	RefiningDan	Property	DanMake_YieldAddP	0.05		1	Tempatkan beberapa keterampilan yang dapat sedikit meningkatkan hasil alkimia pada objek ini。	Pencerahan keterampilan:Jumlah jejak
+60	RefiningDan	Property	DanMake_YieldAddP	0.1		2	Gunakan beberapa keterampilan pada benda ini yang dapat sedikit meningkatkan hasil alkimia.。	Pencerahan keterampilan:Sejumlah kecil
+61	RefiningDan	Property	DanMake_YieldAddP	0.15		3	Tempatkan beberapa keterampilan yang dapat meningkatkan hasil alkimia pada objek ini。	Pencerahan keterampilan:sedang
+62	RefiningDan	Property	DanMake_YieldAddP	0.2		4	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan hasil alkimia.。	Pencerahan keterampilan:Lagi
+63	RefiningDan	Property	DanMake_YieldAddP	0.25		5	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan hasil alkimia secara signifikan.。	Pencerahan keterampilan:Banyak
+64	RefiningDan	Property	DanMake_YieldAddP	0.3		6	Gunakan beberapa keterampilan pada benda ini yang dapat meningkatkan hasil alkimia secara signifikan.。	Pencerahan keterampilan:Jumlah yang sangat besar
+65	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.05	1	Gunakan beberapa teknik yang dapat sedikit meningkatkan kecepatan kultivasi pada benda ini。	Pencerahan keterampilan:Jumlah jejak
+66	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.1	2	Gunakan beberapa keterampilan pada benda ini yang dapat sedikit meningkatkan kecepatan kultivasi.。	Pencerahan keterampilan:Sejumlah kecil
+67	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.15	3	Gunakan beberapa keterampilan yang dapat meningkatkan kecepatan latihan pada benda ini。	Pencerahan keterampilan:sedang
+68	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.2	4	Gunakan beberapa keterampilan yang dapat meningkatkan kecepatan latihan pada benda ini。	Pencerahan keterampilan:Lagi
+69	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.25	5	Gunakan beberapa keterampilan yang dapat meningkatkan kecepatan latihan pada benda ini。	Pencerahan keterampilan:Banyak
+70	Practice	Property	DeepPracticeSpeedSpecialCoefficient		0.3	6	Gunakan beberapa keterampilan yang dapat meningkatkan kecepatan kultivasi pada benda ini。	Pencerahan keterampilan:Jumlah yang sangat besar
+71	Disciple	Special	Fly			1	Menambahkan kemampuan terbang di udara pada objek ini。(Tubuh tidak akan kehilangan kemampuan ini）	terbang di langit
+72	Disciple	Special	LingDun		500	1	Kemampuan untuk mengaktifkan sejumlah kecil perisai aura juga melekat pada objek ini.。(Tubuh tidak akan kehilangan kemampuan ini）	Perlindungan aura tubuh:sedikit
+73	Disciple	Special	LingDun		1000	2	Kemampuan untuk mengaktifkan perisai aura sedang juga ditambahkan ke objek ini.。(Tubuh tidak akan kehilangan kemampuan ini）	Perlindungan aura tubuh:tengah
+74	Disciple	Special	LingDun		1500	3	Kemampuan untuk mengaktifkan perisai aura besar juga melekat pada objek ini.。(Tubuh tidak akan kehilangan kemampuan ini）	Perlindungan aura tubuh:besar
