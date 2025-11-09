@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk1">
+			<Nodes.0.Text>pintu masuk</Nodes.0.Text>
+			<Nodes.1.Text>Anda pasti telah melakukan perjalanan yang cukup jauh. Apakah ada yang bisa saya bantu?</Nodes.1.Text>
+			<Nodes.2.Text>Tanah tak berujung? Jadi tempat apa ini?</Nodes.2.Text>
+			<Nodes.3.Text>Apa yang saya lakukan di sini?</Nodes.3.Text>
+			<Nodes.4.Text>Saya ingin turun dan melihatnya!</Nodes.4.Text>
+			<Nodes.5.Text>selamat tinggal!</Nodes.5.Text>
+			<Nodes.6.Text>Oh...tempat ini hanya tumpukan sampah sisa...apa yang bisa kukatakan? Segala sesuatu yang cukup keras kepala hingga tidak dapat terurai oleh waktu dari dunia dikumpulkan di sini, tidak mau binasa. Sekarang kamu paham kan??</Nodes.6.Text>
+			<Nodes.7.Text>Hah? Sudah berapa lama sejak tidak ada orang asing yang memasuki negeri tak berujung ini? Sangat sulit ditemukan!</Nodes.7.Text>
+			<Nodes.8.Text>Apa yang akan kamu lakukan? Jika aku jadi kamu, aku tidak akan melakukan apa pun selain berbaring dengan tenang. Di tempat ini Tapi jika kamu benar-benar bosan, kamu bisa turun ke bawah dan melihat-lihat. Tapi saya ingin memperingatkan Anda bahwa ini bukanlah hal yang baik. Itu karena di bawah sana hanya ada sampah yang tidak dapat terurai secara hayati.</Nodes.8.Text>
+			<Nodes.9.Text>Oke, saya tahu. Tapi hati-hati. Sampah itu tidak cinta damai seperti saya.</Nodes.9.Text>
+			<Nodes.10.Text>Oh? Apakah kamu akan pergi seperti itu? Pokoknya, sering-seringlah mampir dan mengunjungiku. Sudah lama sekali saya tidak melihat makhluk hidup.</Nodes.10.Text>
+			<Nodes.12.Text>Bisakah Anda memberi tahu saya seberapa dalam saya?</Nodes.12.Text>
+			<Nodes.13.Text>Hmm, seberapa dalam dirimu? Saya ingin melihat dulu.
+Kedalaman saat ini adalah: [LUA=WorldLua:GetWorldFlag(5000)]</Nodes.13.Text>
+		</Text>
+	</List>
+</Texts>
