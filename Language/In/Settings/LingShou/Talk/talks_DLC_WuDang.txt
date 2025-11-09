@@ -1,0 +1,13 @@
+talk	notarget	int	string	float	thing
+NotEat_Item_WuDang_HuangJingFen	Saya tidak akan makan bubuk Huangjing				
+NotEat_Item_Dan_WuQiNoHunger2	Saya tidak akan meminum Pil Lima Qi Bigu				
+NotEat_Item_Dan_SanHuaHuangJing	Saya tidak akan meminum Pil Sanhua Huangjing				
+WannaEat_Item_WuDang_HuangJingFen	Saya sangat ingin makan bubuk Huangjing				
+WannaEat_Item_Dan_WuQiNoHunger2	Saya sangat ingin makan pil Wu Qi Bigu				
+WannaEat_Item_Dan_SanHuaHuangJing	Saya sangat ingin meminum Pil Sanhua Huangjing				
+DoTalkEat_Item_WuDang_HuangJingFen					Saya sedang makan bubuk Huang Jing
+DoTalkEat_Item_Dan_WuQiNoHunger2					Saya meminum pil Wu Qi Bigu
+DoTalkEat_Item_Dan_SanHuaHuangJing					Saya meminum pil Sanhua Huangjing
+CantEat_Item_WuDang_HuangJingFen	Saya tidak dapat menemukan bubuk Polygonatum untuk dimakan				
+CantEat_Item_Dan_WuQiNoHunger2	Saya tidak dapat menemukan Pil Lima Qi Bigu untuk dimakan				
+CantEat_Item_Dan_SanHuaHuangJing	Saya tidak dapat menemukan Pil Sanhua Huangjing untuk dimakan				
