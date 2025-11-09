@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rest">
+			<Desc>istirahat</Desc>
+			<Tip>Tidur untuk memulihkan energi</Tip>
+		</Text>
+		<Text Name="Eat">
+			<Desc>makan</Desc>
+			<Tip>Makan makanan: saat memasuki usia belajar Anda bisa memilih makanan untuk itu.</Tip>
+		</Text>
+		<Text Name="Fun">
+			<Desc>bermain</Desc>
+			<Tip>Menyenangkan untuk dimainkan: Berbagai perilaku akan meningkatkan konsentrasinya.</Tip>
+		</Text>
+		<Text Name="Shit">
+			<Desc>mengeluarkan</Desc>
+			<Tip>Ekskresi dapat terjadi di banyak titik.</Tip>
+		</Text>
+		<Text Name="Attack">
+			<Desc>menyerang</Desc>
+			<Tip>Menyerang semua jenis karakter</Tip>
+		</Text>
+		<Text Name="Help">
+			<Desc>membantu</Desc>
+			<Tip>Terkadang dia membantu murid batiniah. Terkadang dia membantu murid luar.</Tip>
+		</Text>
+		<Text Name="HighHelp">
+			<Desc>Bantu latihan</Desc>
+			<Tip>Bantuan dengan pelatihan (Membutuhkan Intelijen 80 saat tidak terkunci)</Tip>
+		</Text>
+		<Text Name="Carry">
+			<Desc>Pindahkan karakternya</Desc>
+			<Tip>Pindahkan karakter yang tidak sadarkan diri atau mati. (Memerlukan Intelijen 50 untuk membuka kunci)</Tip>
+		</Text>
+		<Text Name="Train">
+			<Desc>praktik</Desc>
+			<Tip>Pelatihan meningkatkan semua statistik dan efeknya dapat ditingkatkan melalui makanan dan minuman. Semakin efektif makanan dan minumannya, semakin baik. Semakin besar efek pelatihannya. (Harus mencapai usia belajar untuk membuka kunci)</Tip>
+		</Text>
+	</List>
+</Texts>
