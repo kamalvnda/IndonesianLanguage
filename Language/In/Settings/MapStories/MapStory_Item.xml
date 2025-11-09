@@ -1,0 +1,237 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_BoxFind1">
+			<DisplayName>Buka kotaknya</DisplayName>
+			<Desc>[NAME]Menemukan sebuah kotak tua dengan beberapa barang berguna di dalamnya.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind2">
+			<DisplayName>Cari mayatnya</DisplayName>
+			<Desc>[NAME]Mayatnya digeledah dengan cermat dan ditemukan tidak ada apa pun selain senjata yang bisa digunakan.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind3">
+			<DisplayName>Cari mayatnya</DisplayName>
+			<Desc>[NAME]Cari mayatnya dengan hati-hati. Dan kilatan cahaya melesat ke otaknya.[NAME] [NAME]Saya sangat terkejut ketika gambaran metode kultivasi muncul di ingatan saya.\n\n[color=#000000]"Apa yang sebenarnya terjadi di sini? Dari mana teknik budidaya ini berasal? Apa yang terjadi pada orang ini sebelum dia meninggal?"[/color]\n Sambil merasa terkejut[NAME]Saya tidak bisa tidak menanyakan pertanyaan-pertanyaan ini dalam pikiran saya. \n\nSayangnya, kejadian seputar orang ini berasal dari masa lalu dan tidak dapat dijawab...</Desc>
+		</Text>
+		<Text Name="Story_BoxFind4">
+			<DisplayName>Cari mayatnya</DisplayName>
+			<Desc>[NAME]Mayatnya digeledah dengan cermat dan ditemukan tidak ada apa pun selain senjata yang bisa digunakan.</Desc>
+		</Text>
+		<Text Name="Story_Item_StoneBox">
+			<DisplayName>kotak batu</DisplayName>
+			<Desc>Kotak batu yang diberikan kepadamu oleh pendeta Tao misterius itu berukuran sekitar satu kaki persegi, baik air maupun api tidak dapat melewatinya. Sepertinya itu bukan miliknya di dunia ini. Bagian luarnya berkilauan samar. Ini jelas bukan hal biasa.</Desc>
+			<Selections.0.Display>Buka dengan hati-hati</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox1">
+			<DisplayName>kotak batu</DisplayName>
+			<Desc>Sebuah kotak batu yang ditemukan Zhang Er Hua dari Desa Nan Ping dari mayat di kaki Gunung Pen Moon. Ada pedang panjang dengan pola labu di atasnya. Tidak ada keraguan bahwa ini adalah lambang seorang murid dari Sekte Tai Yi, dan[NAME]Saya ingat pemilik pedang ini. Dia pria yang cukup baik...</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox2">
+			<DisplayName>kotak antik</DisplayName>
+			<Desc>Sekotak batu digali dari tumpukan bijih. Sepertinya sudah ada di sana selama beberapa dekade. Siapa yang tahu apa yang ada di sana?</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FaBaoBox">
+			<DisplayName>Kotak Harta Karun Taiyi</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia tidak tega melihat semua hartanya dirampok. Jadi dia masuk ke Aula Senjata Ajaib dan mengeluarkan sebagian darinya ke dalam kotak.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_DanBox">
+			<DisplayName>Kotak Harta Karun Taiyi</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia tidak tega melihat semua hartanya dirampok. Oleh karena itu, dia masuk ke ruang penyimpanan obat dan mengeluarkan sebagian dan memasukkannya ke dalam kotak.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_MiJiBox">
+			<DisplayName>Kotak Harta Karun Taiyi</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia tidak tega melihat semua hartanya dirampok. Oleh karena itu, dia masuk ke ruang penyimpanan buku teks dan mengeluarkan beberapa di antaranya ke dalam kotak.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FuBox">
+			<DisplayName>Kotak Harta Karun Taiyi</DisplayName>
+			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia tidak tega melihat semua hartanya dirampok. Oleh karena itu, dia masuk ke ruang penyimpanan jimat ajaib dan mengeluarkan beberapa di antaranya di dalam kotak.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box1">
+			<DisplayName>Kotak jimat ajaib</DisplayName>
+			<Desc>Sebuah kotak ajaib yang selalu dibawa oleh Nyonya Lu. Di dalam kotak itu ada tiga jimat ajaib misterius.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box2">
+			<DisplayName>Kotak jimat ajaib</DisplayName>
+			<Desc>Kotak ajaib yang selalu dibawa Yang Chu. Di dalam kotak itu ada jimat ajaib yang sangat langka.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_ZuShiZhiCi">
+			<DisplayName>Hadiah dari tuan</DisplayName>
+			<Desc>Hadiah dari Guru. Ada harta karun tersembunyi di dalamnya.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BenYuan">
+			<DisplayName>Sesuaikan huruf surgawi</DisplayName>
+			<Desc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Desc>
+			<Selections.0.Display>menyesuaikan</Selections.0.Display>
+			<Selections.1.Display>menyerah</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_SuoYingZhiJuan">
+			<DisplayName>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</DisplayName>
+			<Desc>Ini mencatat yang terbaik dari semua makhluk hidup sejak lahirnya langit dan bumi hingga saat ini. Jika Anda bisa mengetahui nama asli makhluk yang terlibat. Anda dapat memanggilnya dari gulungan gambar. Itu adalah salah satu dari dua belas Harta Karun Roh Kekacauan yang lahir bersama dunia.</Desc>
+			<Selections.0.Display>menyerah</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BossSoulItem">
+			<DisplayName>konsep</DisplayName>
+			<Desc>[NAME]Cobalah untuk mencari informasi berguna darinya.</Desc>
+			<Selections.0.Display>Gunakan Roh Kejadian</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_OldSchool_Letter">
+			<DisplayName>Surat misterius</DisplayName>
+			<Desc>Ini adalah surat yang ditinggalkan oleh orang yang menyelamatkan hidupmu. Saat Anda melarikan diri dari kehancuran Sekte Tai Yi</Desc>
+			<Selections.0.Display>membaca</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin">
+			<DisplayName>meneliti</DisplayName>
+			<Desc>Sepertinya tidak ada yang salah. Tapi siapa yang tahu apa yang tersembunyi?</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+			<Selections.1.Display>menghancurkan</Selections.1.Display>
+			<Selections.2.Display>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin1">
+			<DisplayName>menghancurkan</DisplayName>
+			<Desc>meskipun[NAME]Anda tidak akan tahu betapa berbahayanya item ini, tapi kapan[ENHIM]mencoba memecahkannya Tiba-tiba, perasaan takut yang tak terlukiskan muncul di benakku... Apa yang akan terjadi jika ini dihancurkan? Haruskah aku menghancurkannya? (Jika Anda bersikeras untuk menghancurkannya, binatang iblis kuno akan dilepaskan. Sekte Anda mungkin akan hancur total jika Anda tidak cukup siap. Harap pikirkan baik-baik saat memutuskan.)</Desc>
+			<Selections.0.Display>menghancurkan</Selections.0.Display>
+			<Selections.1.Display>Lebih baik tidak mengambil risiko.</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin2">
+			<DisplayName>menghancurkan</DisplayName>
+			<Desc>[NAME]Barang ini telah dihancurkan. Tapi tidak terjadi apa-apa.</Desc>
+			<Selections.0.Display>Mendesah..</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Eat_StrangeMush">
+			<DisplayName>Cobalah.</DisplayName>
+			<Desc>[NAME]Ingin mencoba jamur aneh? karena penasaran</Desc>
+			<Selections.0.Display>Ambil risiko dan makanlah.</Selections.0.Display>
+			<Selections.1.Display>Lebih baik tidak mengambil risiko.</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_ZhenTu">
+			<DisplayName>Analisis konsep</DisplayName>
+			<Desc>[NAME]Coba analisa tata letak formasinya.</Desc>
+			<Selections.0.Display>Analisis tata letak formasi</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu">
+			<DisplayName>Periksa item ini</DisplayName>
+			<Desc>[NAME]Coba periksa item ini.</Desc>
+			<Selections.0.Display>Periksa item ini</Selections.0.Display>
+			<Selections.1.Display>tidak tersegel</Selections.1.Display>
+			<Selections.2.Display>menyerah</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu1">
+			<DisplayName>Periksa item ini</DisplayName>
+			<Desc>[NAME]Segel pada benda ini terasa sangat familiar. Sepertinya[ENHIM]Saya pernah melihatnya sebelumnya.</Desc>
+			<Selections.0.Display>Periksa dengan cermat</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu2">
+			<DisplayName>Berubah menjadi abu dan membusuk</DisplayName>
+			<Desc>Setelah Anda memainkan melodi surgawi, Benda-benda dari dunia lain mulai ditolak oleh surga dunia ini. Dan perlahan-lahan berubah menjadi abu dan membusuk</Desc>
+			<Selections.0.Display>Periksa dengan cermat</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan">
+			<DisplayName>kitab suci kuno</DisplayName>
+			<Desc>Sebuah gulungan misterius yang diturunkan dari zaman kuno. Isi di dalamnya tidak diketahui.</Desc>
+			<Selections.0.Display>membaca</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_1">
+			<DisplayName>mempelajari</DisplayName>
+			<Desc>Halaman buku yang mencatat cerita tentang Penggarap Ilahi kuno. Tampaknya itu mewujudkan semacam sihir.</Desc>
+			<Selections.0.Display>membaca</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_Guard">
+			<DisplayName>menyesuaikan</DisplayName>
+			<Desc>[NAME]Cobalah untuk menyesuaikan item ini.</Desc>
+			<Selections.0.Display>menyesuaikan</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_2">
+			<DisplayName>tidak tersegel</DisplayName>
+			<Desc>[NAME]Cobalah untuk membuka segel benda ini.</Desc>
+			<Selections.0.Display>tidak tersegel</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Gong12">
+			<DisplayName>Periksa Kitab Suci</DisplayName>
+			<Desc>[NAME]Periksalah kitab suci dengan cermat.</Desc>
+			<Selections.0.Display>Menerima mata pelajaran budidaya</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_2">
+			<DisplayName>Periksa Kitab Suci</DisplayName>
+			<Desc>[NAME]Periksalah kitab suci dengan cermat.</Desc>
+			<Selections.0.Display>Menerima mata pelajaran budidaya</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_5">
+			<DisplayName>Periksa Kitab Suci</DisplayName>
+			<Desc>[NAME]Periksalah kitab suci dengan cermat.</Desc>
+			<Selections.0.Display>Menerima mata pelajaran budidaya</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_GongAll">
+			<DisplayName>Periksa catatan harta karun</DisplayName>
+			<Desc>[NAME]Periksa catatan harta karun dengan cermat.</Desc>
+			<Selections.0.Display>Menerima mata pelajaran budidaya</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_SpringBox">
+			<DisplayName>Hadiah festival</DisplayName>
+			<Desc>Cobalah untuk membuka item ini.</Desc>
+			<Selections.0.Display>membuka</Selections.0.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_1">
+			<DisplayName>Semoga fajar kemakmuran dan kekayaan mengalir masuk.</DisplayName>
+			<Desc>Di bawah pengaruh jalan ilahi dari dunia lain, hal ini juga menyebabkan beberapa perubahan pada jalan surgawi di dunia ini. Bahkan Naga Lilin yang mewakili Yin dan Yang, Langit dan Bumi tidak bisa tinggal diam. Dia sepertinya tertarik dengan benda logam berbentuk bulat. Ada cukup banyak yang disebut “koin” yang berasal dari dunia berbeda. Dan karena koin ini menyimpan harapan akan kekayaan dari dunia lain. Oleh karena itu, Naga Lilin dapat menggunakan kekuatan keinginan untuk menciptakan kekayaan bagi Anda.</Desc>
+			<Selections.0.Display>banyak batu roh</Selections.0.Display>
+			<Selections.1.Display>Banyak bahan mentah</Selections.1.Display>
+			<Selections.2.Display>banyak kayu</Selections.2.Display>
+			<Selections.3.Display>banyak batu</Selections.3.Display>
+			<Selections.4.Display>banyak zat besi</Selections.4.Display>
+			<Selections.5.Display>Sudahlah, dengan iman yang kumiliki di surga Jadi aku tidak menginginkan imbalan apa pun darimu!</Selections.5.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_2">
+			<DisplayName>Mintalah ramuan ajaib</DisplayName>
+			<Desc>Di bawah pengaruh jalan ilahi dari dunia lain, hal ini juga menyebabkan beberapa perubahan pada jalan surgawi di dunia ini. Bahkan Naga Lilin yang mewakili Yin dan Yang, Langit dan Bumi tidak bisa tinggal diam. Dia sepertinya tertarik dengan benda logam berbentuk bulat. Ada cukup banyak yang disebut “koin” yang berasal dari dunia berbeda. And because this coin has collected wishes about health from another world. Therefore, the Candle Dragon was able to use the power of desire to create some magical medicine for you.</Desc>
+			<Selections.0.Display>1 set Obat Elemen Emas</Selections.0.Display>
+			<Selections.1.Display>1 set obat unsur kayu</Selections.1.Display>
+			<Selections.2.Display>1 set obat unsur air</Selections.2.Display>
+			<Selections.3.Display>1 set obat unsur api</Selections.3.Display>
+			<Selections.4.Display>1 set obat unsur tanah</Selections.4.Display>
+			<Selections.5.Display>15 inti bunga</Selections.5.Display>
+			<Selections.6.Display>3 tetes tetes tanah</Selections.6.Display>
+			<Selections.7.Display>1 pil obat ilahi untuk menghilangkan penyakit</Selections.7.Display>
+			<Selections.8.Display>1 set obat dan ramuan</Selections.8.Display>
+			<Selections.9.Display>1 pil obat pencerahan</Selections.9.Display>
+			<Selections.10.Display>Sudahlah, dengan iman yang kumiliki di surga Jadi aku tidak menginginkan imbalan apa pun darimu!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_3">
+			<DisplayName>Minta pakaian ajaib</DisplayName>
+			<Desc>Di bawah pengaruh jalan ilahi dari dunia lain, hal ini juga menyebabkan beberapa perubahan pada jalan surgawi di dunia ini. Bahkan Naga Lilin yang mewakili Yin dan Yang, Langit dan Bumi tidak bisa tinggal diam. Dia sepertinya tertarik dengan benda logam berbentuk bulat. Ada cukup banyak yang disebut “koin” yang berasal dari dunia berbeda. Dan karena koin ini menyimpan keinginan akan pakaian ajaib dari dunia lain. Oleh karena itu, Naga Lilin dapat menggunakan kekuatan keinginan untuk membuatkan pakaian ajaib untuk Anda.</Desc>
+			<Selections.0.Display>Pakaian pelindung pria</Selections.0.Display>
+			<Selections.1.Display>Setelan Peningkatan Qi Ajaib Pria</Selections.1.Display>
+			<Selections.2.Display>Pakaian pria yang meningkatkan kemampuan menempa.</Selections.2.Display>
+			<Selections.3.Display>Pakaian pria yang dapat membantu menyembunyikan langit</Selections.3.Display>
+			<Selections.4.Display>Pakaian pria yang membantu mengusir roh jahat dan meningkatkan kondisi mental Anda.</Selections.4.Display>
+			<Selections.5.Display>Pakaian pelindung wanita</Selections.5.Display>
+			<Selections.6.Display>Pakaian wanita untuk meningkatkan energi magis</Selections.6.Display>
+			<Selections.7.Display>Pakaian wanita yang meningkatkan kemampuan menempa</Selections.7.Display>
+			<Selections.8.Display>Pakaian wanita yang bisa menyembunyikan langit</Selections.8.Display>
+			<Selections.9.Display>Pakaian wanita yang membantu mengusir roh jahat dan meningkatkan kondisi mental Anda.</Selections.9.Display>
+			<Selections.10.Display>Sudahlah, dengan iman yang kumiliki di surga Jadi aku tidak menginginkan imbalan apa pun darimu!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_Item_ChunYangWuJiGong">
+			<DisplayName>Pelajari Alkitab</DisplayName>
+			<Desc>Cobalah untuk memahami buku rahasia ini.</Desc>
+			<Selections.0.Display>Kembangkan jalur utama</Selections.0.Display>
+			<Selections.1.Display>Kembangkan tren tandingan</Selections.1.Display>
+			<Selections.2.Display>Sudahlah</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_SupplyBox">
+			<DisplayName>Kotak persediaan</DisplayName>
+			<Desc>Ini adalah kotak yang berkilau dan istimewa.</Desc>
+			<Selections.0.Display>Buka dengan hati-hati</Selections.0.Display>
+			<Selections.1.Display>Segera menghancurkannya.</Selections.1.Display>
+			<Selections.2.Display>membuka</Selections.2.Display>
+			<Selections.3.Display>TIDAK</Selections.3.Display>
+		</Text>
+	</List>
+</Texts>
