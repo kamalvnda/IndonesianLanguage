@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>Harta Karun Roh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>roti</ThingName>
+			<Desc>Makanan sederhana untuk menghilangkan rasa lapar</Desc>
+			<Item.FabaoSuffix>Panekuk</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>daging kering</ThingName>
+			<Desc>Makanan sederhana untuk menghilangkan rasa lapar</Desc>
+			<Item.FabaoSuffix>Kering</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>Buah amber kering dari keluarga Li</ThingName>
+			<Desc>[color=#FFA500]Suatu ketika ada buah yang rasanya seperti madu.\nTunggu sampai musimnya tiba. Kami akan menjemurnya di atap rumah.\nPara remaja putri tertarik dengan buah yang manis seperti madu. \nApa yang bisa dinantikan setelah musim berakhir?\n[/color]Buah amber sulit diawetkan. Hanya Keluarga Li Jinling yang bisa mengolahnya menjadi buah kering dengan tetap menjaga keampuhannya dengan formula rahasia keluarga.</Desc>
+			<Item.FabaoSuffix>Kering</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>Daging Babi Setan</ThingName>
+			<Desc>Daging babi hutan iblis tidak bisa dimasak dengan api biasa. Memakannya secara langsung akan memulihkan sejumlah besar stamina yang hilang.</Desc>
+			<Item.FabaoSuffix>Kering</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
