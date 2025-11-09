@@ -1,0 +1,128 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="single_jin">
+			<Display>Nafas emas</Display>
+			<Desc>Meningkatkan unsur emas di lingkungan dan laju kemajuan teknik budidaya unsur emas.</Desc>
+		</Text>
+		<Text Name="single_mu">
+			<Display>Prana Pruksa</Display>
+			<Desc>Peningkatan unsur kayu di lingkungan dan laju kemajuan teknik budidaya unsur kayu.</Desc>
+		</Text>
+		<Text Name="single_shui">
+			<Display>Pranwaree</Display>
+			<Desc>Meningkatkan unsur air di lingkungan dan laju kemajuan teknik budidaya unsur air.</Desc>
+		</Text>
+		<Text Name="single_huo">
+			<Display>Api Qi</Display>
+			<Desc>Meningkatkan elemen api di lingkungan dan laju perkembangan teknik budidaya elemen api.</Desc>
+		</Text>
+		<Text Name="single_tu">
+			<Display>Nafas langit</Display>
+			<Desc>Peningkatan unsur Tanah di lingkungan dan laju kemajuan teknik budidaya unsur Tanah.</Desc>
+		</Text>
+		<Text Name="jin_mu">
+			<Display>Qi Tanah Kering</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan pengumpulan dan pemanenan kayu oleh para murid.</Desc>
+		</Text>
+		<Text Name="jin_shui">
+			<Display>nafas halus</Display>
+			<Desc>Meningkatkan kecepatan membuat dan menjahit para murid secara signifikan.</Desc>
+		</Text>
+		<Text Name="jin_huo">
+			<Display>Qi Penempaan</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan penambangan para murid.</Desc>
+		</Text>
+		<Text Name="jin_tu">
+			<Display>Akumulasi nafas</Display>
+			<Desc>Secara signifikan meningkatkan produktivitas penambangan para murid.</Desc>
+		</Text>
+		<Text Name="mu_shui">
+			<Display>Qi yang melimpah</Display>
+			<Desc>Secara signifikan meningkatkan hasil panen para murid sekte dan kelimpahan peta sekte.</Desc>
+		</Text>
+		<Text Name="mu_huo">
+			<Display>Qi Pembakaran</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan menempa dan memasak para murid sekte.</Desc>
+		</Text>
+		<Text Name="mu_tu">
+			<Display>Qi Segel</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan konstruksi para murid sekte.</Desc>
+		</Text>
+		<Text Name="shui_huo">
+			<Display>Qi kepunahan</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan bantuan bencana dan tingkat keberhasilan murid sekte.</Desc>
+		</Text>
+		<Text Name="shui_tu">
+			<Display>Respirasi melampaui batas</Display>
+			<Desc>Secara signifikan meningkatkan keberhasilan penyembuhan dan regenerasi alami para murid sekte.</Desc>
+		</Text>
+		<Text Name="huo_tu">
+			<Display>Qi dari Abu</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan pembongkaran dan kecepatan pengerjaan batu para murid sekte.</Desc>
+		</Text>
+		<Text Name="jin_mu_shui">
+			<Display>energi bibit yang baru lahir</Display>
+			<Desc>Meningkatkan kompatibilitas Teknik Budidaya Elemen Kayu para murid sekte secara signifikan.</Desc>
+		</Text>
+		<Text Name="jin_mu_huo">
+			<Display>Vitalitas pohon itu tumbuh besar.</Display>
+			<Desc>Secara signifikan meningkatkan produktivitas pemurnian pil para murid sekte.</Desc>
+		</Text>
+		<Text Name="jin_mu_tu">
+			<Display>Qi Bumi</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan pelatihan dasar, kecepatan kultivasi, dan kondisi mental dasar para murid sekte.</Desc>
+		</Text>
+		<Text Name="jin_shui_huo">
+			<Display>Qi Emas Murni</Display>
+			<Desc>Secara signifikan meningkatkan peluang keberhasilan dalam menyempurnakan senjata ajaib bagi murid sekte.</Desc>
+		</Text>
+		<Text Name="jin_shui_tu">
+			<Display>Energi air dalam</Display>
+			<Desc>Meningkatkan kompatibilitas teknik budidaya elemen air para murid sekte secara signifikan.</Desc>
+		</Text>
+		<Text Name="jin_huo_tu">
+			<Display>Qi Logam Kuat</Display>
+			<Desc>Secara signifikan meningkatkan kompatibilitas Teknik Budidaya Elemen Emas para murid sekte.</Desc>
+		</Text>
+		<Text Name="mu_shui_huo">
+			<Display>Qi Berkilau</Display>
+			<Desc>Secara signifikan meningkatkan kompatibilitas budidaya elemen api murid sekte.</Desc>
+		</Text>
+		<Text Name="mu_shui_tu">
+			<Display>Pranwaree sejuk dan tenang.</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan pemurnian pil para murid sekte.</Desc>
+		</Text>
+		<Text Name="mu_huo_tu">
+			<Display>Langit stabil.</Display>
+			<Desc>Meningkatkan kompatibilitas Teknik Budidaya Elemen Tanah para siswa di sekte tersebut secara signifikan.</Desc>
+		</Text>
+		<Text Name="shui_huo_tu">
+			<Display>Qi Matahari dikonsumsi.</Display>
+			<Desc>Secara signifikan meningkatkan kecepatan pemurnian senjata sihir para murid sekte.</Desc>
+		</Text>
+		<Text Name="no_jin">
+			<Display>Qi Pemotongan Emas</Display>
+			<Desc>Peningkatan pengurangan kerusakan dari elemen emas (secara keseluruhan)</Desc>
+		</Text>
+		<Text Name="no_mu">
+			<Display>Prana memotong tanaman</Display>
+			<Desc>Peningkatan pengurangan kerusakan dari elemen Kayu (secara keseluruhan)</Desc>
+		</Text>
+		<Text Name="no_shui">
+			<Display>Pranatadwaree</Display>
+			<Desc>Peningkatan pengurangan kerusakan dari elemen Air (secara keseluruhan)</Desc>
+		</Text>
+		<Text Name="no_huo">
+			<Display>Qi Pemotongan Api</Display>
+			<Desc>Peningkatan pengurangan kerusakan dari elemen api (secara keseluruhan)</Desc>
+		</Text>
+		<Text Name="no_tu">
+			<Display>Qi yang memotong bumi</Display>
+			<Desc>Peningkatan pengurangan kerusakan dari elemen tanah (secara keseluruhan)</Desc>
+		</Text>
+		<Text Name="hunyuan">
+			<Display>Nafas Kejadian</Display>
+			<Desc>Kurangi biji dadu, tingkatkan kecepatan belajar.</Desc>
+		</Text>
+	</List>
+</Texts>
