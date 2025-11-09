@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ATarget">
+			<DisplayName>kesadaran</DisplayName>
+		</Text>
+		<Text Name="AScene">
+			<DisplayName>kewajaran</DisplayName>
+		</Text>
+		<Text Name="AEmotion">
+			<DisplayName>memahami</DisplayName>
+		</Text>
+		<Text Name="FNode">
+			<DisplayName>Kristal Kebijaksanaan</DisplayName>
+		</Text>
+	</List>
+</Texts>
