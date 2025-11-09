@@ -1,0 +1,54 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LingZhi_Huo" sParam="Plant">
+			<ThingName>Akar Roh Api: Pohon Buah Api Abadi</ThingName>
+			<Desc>Pohon yang menghasilkan buah api abadi Itu adalah salah satu dari Lima Pohon Roh Elemental. Ia dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur. Ciri khasnya adalah ia harus tumbuh di lingkungan yang lebih hangat.[temperature]200[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Jin" sParam="Plant">
+			<ThingName>Akar Roh Emas: Pohon Belimbing Emas</ThingName>
+			<Desc>Pohon yang menghasilkan buah belimbing emas Itu adalah salah satu dari Lima Pohon Roh Elemental. Ia dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur. Ini sangat rentan terhadap suhu panas. Namun cukup tahan terhadap dingin. Harus tumbuh di lingkungan dengan suhu lebih rendah.[temperature]20[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Mu" sParam="Plant">
+			<ThingName>Akar Pohon Spiritual: Pohon Anggur Panalai</ThingName>
+			<Desc>Tanaman ini disebut Tanaman Anggur Panalai, merupakan salah satu dari lima unsur tanaman roh. Ia dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur. Ini memiliki persyaratan ketat untuk suhu yang dibutuhkan. Artinya, suhu antara[temperature]15[/temperature]ke[temperature]35[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Shui" sParam="Plant">
+			<ThingName>Akar Roh Air: Teratai Emas Lima Warna</ThingName>
+			<Desc>Tanaman ini disebut teratai emas lima warna. Itu adalah salah satu dari Lima Pohon Roh Elemental. Ia dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur. Ia menyukai suhu rendah dan akan tumbuh dengan baik pada suhu rendah.[temperature]-120[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Tu" sParam="Plant">
+			<ThingName>Akar Roh Bumi: Pohon Inti Bumi Kuning</ThingName>
+			<Desc>Sebuah pohon yang menghasilkan buah inti tanah kuning, itu adalah salah satu dari lima unsur tumbuhan roh. Ia dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur. Ia membenci cuaca dingin dan akan tumbuh subur di suhu hangat.[temperature]30[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
+			<ThingName>Akar Roh Api: Pohon Buah Api Abadi</ThingName>
+			<Desc>Pohon yang menghasilkan buah api abadi Itu adalah salah satu dari Lima Pohon Roh Elemental. Dikatakan dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksanya baik-baik dengan indra Anda.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
+			<ThingName>Akar Jiwa Emas: Pohon Buah Sage Ilahi</ThingName>
+			<Desc>Pohon yang menghasilkan buah bijak ilahi Itu adalah salah satu dari Lima Pohon Roh Elemental. Dikatakan dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksanya baik-baik dengan indra Anda.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
+			<ThingName>Akar Pohon Spiritual: Tanaman Anggur Panalai</ThingName>
+			<Desc>Tanaman ini disebut tanaman merambat Panalai. Itu adalah salah satu dari Lima Pohon Roh Elemental. Dikatakan dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksanya baik-baik dengan indra Anda.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
+			<ThingName>Akar Roh Air: Teratai Emas Lima Warna</ThingName>
+			<Desc>Tanaman ini disebut teratai emas lima warna. Itu adalah salah satu dari Lima Pohon Roh Elemental. Dikatakan dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksanya baik-baik dengan indra Anda.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
+			<ThingName>Akar Roh Bumi: Inti Bumi Kuning</ThingName>
+			<Desc>Pohon yang menghasilkan buah inti tanah berwarna kuning. Itu adalah salah satu dari Lima Pohon Roh Elemental. Dikatakan dapat tumbuh dengan baik di tempat dengan Qi yang padat, unsur-unsur yang kompatibel, dan tanah yang subur.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk memeriksanya baik-baik dengan indra Anda.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
