@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_BigFish">
+			<DisplayName>Tangkap ikan besar</DisplayName>
+			<Desc>Menangkap ikan besar saja sudah enak.</Desc>
+			<StoryDesc>Menangkap ikan besar rasanya enak sekali</StoryDesc>
+		</Text>
+		<Text Name="Mood_BigBigFish">
+			<DisplayName>Tangkap ikan raksasa</DisplayName>
+			<Desc>Menangkap ikan raksasa seperti itu sungguh menakjubkan.</Desc>
+			<StoryDesc>Anda bisa menangkap ikan raksasa. terasa sangat enak</StoryDesc>
+		</Text>
+		<Text Name="Mood_BeFished">
+			<DisplayName>memegang</DisplayName>
+			<Desc>Tertangkap setelah memakan umpan</Desc>
+			<StoryDesc>Saya merasa sedikit marah karena tertangkap.</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishSmell">
+			<DisplayName>Bau amis</DisplayName>
+			<Desc>Memakan ikan pari setan yang berbau amis.</Desc>
+			<StoryDesc>Memakan ikan pari setan yang berbau amis.</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishGood">
+			<DisplayName>lezat</DisplayName>
+			<Desc>Makanlah ikan nabati yang lezat.</Desc>
+			<StoryDesc>Makanlah ikan nabati yang lezat.</StoryDesc>
+		</Text>
+	</List>
+</Texts>
