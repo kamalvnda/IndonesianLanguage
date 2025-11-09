@@ -1,0 +1,152 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="War1">
+			<DisplayName>mengejar balas dendam</DisplayName>
+			<Desc>Salah satu murid {0} dibunuh oleh seorang kultivator saat dia sedang menjalankan misi sekte. Oleh karena itu, {0} ingin seseorang membunuh bajingan itu menggantikannya. Sebab, mereka tidak bisa melakukannya sendiri karena bisa berdampak pada reputasinya.</Desc>
+		</Text>
+		<Text Name="War2">
+			<DisplayName>Hilangkan mata-mata</DisplayName>
+			<Desc>{0}Ditemukan bahwa salah satu murid mereka adalah agen rahasia. Namun, mereka tidak bisa mengatasinya sendiri karena kekacauan di dalam sekte saat ini. Oleh karena itu, mereka berharap seseorang akan membunuh mata-mata itu untuk mereka.</Desc>
+		</Text>
+		<Text Name="War3">
+			<DisplayName>Bunuh pengkhianat itu</DisplayName>
+			<Desc>Salah satu murid {0} telah melanggar peraturan sekte secara serius dan melarikan diri. Mereka berharap menemukan seseorang yang bersedia membantu mereka menyelesaikan masalah ini.</Desc>
+		</Text>
+		<Text Name="Rest1">
+			<DisplayName>Perlakukan siswa</DisplayName>
+			<Desc>Salah satu murid langsung {0} terluka parah oleh elemen tanah. Namun, {0} saat ini belum memiliki obat apa pun yang mampu menyembuhkan luka elemen tanah. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest2">
+			<DisplayName>Perlakukan siswa</DisplayName>
+			<Desc>Salah satu murid langsung {0} terluka parah oleh elemen kayu. Namun, {0} saat ini belum memiliki obat apa pun yang mampu menyembuhkan luka elemen kayu. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest3">
+			<DisplayName>Perlakukan siswa</DisplayName>
+			<Desc>Salah satu murid langsung {0} terluka parah oleh elemen api. Namun, {0} saat ini belum memiliki obat apa pun yang memiliki kemampuan menyembuhkan luka elemen api. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest4">
+			<DisplayName>Perlakukan siswa</DisplayName>
+			<Desc>Salah satu murid langsung {0} terluka parah oleh elemen emas. Namun, {0} saat ini tidak memiliki khasiat obat apa pun yang memiliki kemampuan untuk menyembuhkan luka elemen emas. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest5">
+			<DisplayName>Perlakukan siswa</DisplayName>
+			<Desc>Salah satu murid langsung {0} terluka parah oleh elemen air. Namun, {0} saat ini belum memiliki obat apa pun yang mampu menyembuhkan luka elemen air. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest6">
+			<DisplayName>Perlakukan orang tua</DisplayName>
+			<Desc>Salah satu tetua {0} menderita luka serius yang tidak dapat disembuhkan oleh obat biasa. Satu-satunya cara untuk menyembuhkannya adalah dengan terus menerus menyuntikkan unsur qi air dalam jumlah besar ke dalam tubuh. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest7">
+			<DisplayName>Perlakukan orang tua</DisplayName>
+			<Desc>Salah satu tetua {0} menderita luka serius yang tidak dapat disembuhkan oleh obat biasa. Satu-satunya cara untuk menyembuhkannya adalah dengan terus menerus menyuntikkan qi api dalam jumlah besar ke dalam tubuh. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest8">
+			<DisplayName>Perlakukan orang tua</DisplayName>
+			<Desc>Salah satu tetua {0} menderita luka serius yang tidak dapat disembuhkan oleh obat biasa. Satu-satunya cara untuk menyembuhkannya adalah dengan terus menerus menyuntikkan qi emas dalam jumlah besar ke dalam tubuh. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest9">
+			<DisplayName>Perlakukan orang tua</DisplayName>
+			<Desc>Salah satu tetua {0} menderita luka serius yang tidak dapat disembuhkan oleh obat biasa. Satu-satunya cara untuk menyembuhkannya adalah dengan terus menerus menyuntikkan qi kayu dalam jumlah besar ke dalam tubuh. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest10">
+			<DisplayName>Perlakukan orang tua</DisplayName>
+			<Desc>Salah satu tetua {0} menderita luka serius yang tidak dapat disembuhkan oleh obat biasa. Satu-satunya cara untuk menyembuhkannya adalah dengan terus menerus menyuntikkan qi tanah dalam jumlah besar ke dalam tubuh. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest11">
+			<DisplayName>Hukuman Surga</DisplayName>
+			<Desc>Salah satu tetua {0} ada urusan mendesak yang harus diselesaikan. Namun saat ini, Hukuman Surgawi akan segera datang mengetuk pintu tetua itu, dan mereka tidak boleh kehilangan muka untuk meminta bantuan dari sekte besar lainnya, jadi jika seseorang yang memiliki hubungan baik dengan mereka bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest12">
+			<DisplayName>Hukuman Surga</DisplayName>
+			<Desc>Salah satu tetua {0} akan menghadapi hukuman ilahi. Namun, pada saat ini, basis budidayanya tidak cukup untuk menembus Hukuman Surgawi kali ini. Oleh karena itu, dia membutuhkan pil ajaib yang dapat memperpanjang umurnya dan menunda hukuman surgawi.</Desc>
+		</Text>
+		<Text Name="Rest13">
+			<DisplayName>Kehidupan yang akan segera padam</DisplayName>
+			<Desc>Salah satu murid langsung {0} telah menghabiskan sebagian besar hidupnya saat menjalankan misi di alam manusia. Hal ini menyebabkan umur murid itu berakhir. Mereka memiliki kebutuhan mendesak untuk menggunakan obat ajaib yang memiliki khasiat memperpanjang hidup. Sayangnya, di {0} saat ini belum ada obat seperti itu. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest14">
+			<DisplayName>Kehidupan yang akan segera padam</DisplayName>
+			<Desc>Salah satu tetua {0} telah menghabiskan sebagian besar hidupnya saat menjalankan misi di alam manusia. Hal ini menyebabkan masa hidup orang tua itu berakhir. Tetua itu tidak ingin memasuki siklus kelahiran kembali. Oleh karena itu, dia membutuhkan bantuan seorang kultivator tingkat tinggi.</Desc>
+		</Text>
+		<Text Name="Rest15">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Salah satu tetua {0} hendak menerobos alam untuk maju ke alam budidaya yang lebih tinggi. Tapi sekarang tiba-tiba unsur air qi tiba-tiba mengering. Dan sekarang di dalam {0} tidak ada akar roh elemen air sama sekali. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest16">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Salah satu tetua {0} hendak menerobos alam untuk maju ke alam budidaya yang lebih tinggi. Tapi sekarang tiba-tiba elemen api qi tiba-tiba mengering. Dan sekarang di dalam {0} tidak ada akar roh elemen api sama sekali. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest17">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Salah satu tetua {0} hendak menerobos alam untuk maju ke alam budidaya yang lebih tinggi. Tapi sekarang tiba-tiba unsur emas qi tiba-tiba mengering. Dan sekarang di dalam {0} tidak ada akar roh emas sama sekali. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest18">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Salah satu tetua {0} hendak menerobos alam untuk maju ke alam budidaya yang lebih tinggi. Tapi sekarang tiba-tiba elemen kayu qi tiba-tiba mengering. Dan sekarang di dalam {0} tidak ada akar roh kayu sama sekali. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Rest19">
+			<DisplayName>mendobrak batasan</DisplayName>
+			<Desc>Salah satu tetua {0} hendak menerobos alam untuk maju ke alam budidaya yang lebih tinggi. Tapi sekarang tiba-tiba unsur bumi Qi tiba-tiba mengering. Dan sekarang di dalam {0} tidak ada akar roh bumi sama sekali. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build1">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} mengalami kesulitan dalam membangun keajaiban karena batu keramat yang menjadi bahan bangunan utama tidak mencukupi. Hal ini disebabkan karena perkiraan jumlah bahan baku yang dibutuhkan tidak tepat. Oleh karena itu, jika ada yang bersedia memberi mereka batu keramat, Mereka dengan senang hati akan memberikan sejumlah imbalan sebagai balasannya.</Desc>
+		</Text>
+		<Text Name="Build2">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} mengalami kesulitan dalam membuat keajaiban karena Bijih Cahaya Bintang, bahan utama pembuatannya, tidak mencukupi. Hal ini disebabkan karena perkiraan jumlah bahan baku yang dibutuhkan tidak tepat. Oleh karena itu, jika ada yang bersedia memberi mereka Starlight Minerals, Mereka dengan senang hati akan memberikan sejumlah hadiah sebagai imbalannya.</Desc>
+		</Text>
+		<Text Name="Build3">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} sedang membangun kembali aula depan. Sayangnya, mereka tidak hanya memiliki inti batu. Siapa pun yang bersedia membantu mereka. Mereka dengan senang hati memberikan sejumlah imbalan sebagai imbalannya.</Desc>
+		</Text>
+		<Text Name="Build4">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} sedang membangun kolam baru. Sayangnya, mereka tidak memiliki inti batu giok yang cukup. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build5">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} membutuhkan Bijih Tembaga Api dalam jumlah besar untuk digunakan dalam membangun kembali Tungku Obat. Namun {0} saat ini terdapat kekurangan bijih tembaga api yang serius. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build6">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} membutuhkan mineral kristal es dalam jumlah besar untuk digunakan dalam membangun kembali tungku obat. Namun {0} saat ini terdapat kekurangan mineral kristal es yang serius. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build7">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} sedang dalam proses renovasi aula utama, namun gudang mereka tiba-tiba terbakar dan hampir seluruh kayu emas yang mereka miliki terbakar menjadi abu. Hal ini menyebabkan rencana restorasi juga terhenti. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build8">
+			<DisplayName>Memperbaiki kantor</DisplayName>
+			<Desc>{0} ingin memperluas ruang makan. Namun, banyak kayu di sekte mereka yang dimakan rayap karena penyimpanan yang tidak tepat. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build9">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>Pintu utama {0} tiba-tiba runtuh Agar tidak merusak reputasi {0}. Mereka sangat membutuhkan batu keramat untuk memperbaikinya. Siapapun yang bersedia membantu mereka Mereka akan sangat berterima kasih dan dengan senang hati akan memberi Anda imbalan sebagai balasannya.</Desc>
+		</Text>
+		<Text Name="Build10">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>Harta ajaib {0} rusak karena kesalahan saat menyempurnakannya. Oleh karena itu, mereka sangat membutuhkan mineral cahaya bintang untuk memperbaikinya. Siapapun yang bersedia membantu mereka Mereka akan sangat berterima kasih dan dengan senang hati akan memberi Anda imbalan sebagai balasannya.</Desc>
+		</Text>
+		<Text Name="Build11">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>Tempat latihan {0} rusak karena digunakan dalam waktu lama. Oleh karena itu, mereka membutuhkan banyak inti batu untuk merenovasi tempat latihan. Siapa pun yang bersedia membantu mereka. Mereka dengan senang hati memberikan sejumlah imbalan sebagai imbalannya.</Desc>
+		</Text>
+		<Text Name="Build12">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>{0}Inti batu giok dalam jumlah besar diperlukan untuk membangun kembali patung leluhur. Namun {0} saat ini terjadi kekurangan inti batu giok. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build13">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>{0} ingin membangun ruangan dengan suhu yang sangat panas untuk mempersiapkan Hukuman Surga. Namun {0} saat ini terdapat kekurangan bijih tembaga api yang parah. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build14">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>{0}Ingin membangun ruangan dengan suhu yang sangat dingin untuk mempersiapkan Hukuman Surga. Namun {0} saat ini terdapat kekurangan mineral kristal es yang serius. Jika ada yang bersedia membantu mereka kali ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+		<Text Name="Build15">
+			<DisplayName>kurangnya sumber daya</DisplayName>
+			<Desc>{0} sedang dalam proses mempelajari jimat ajaib jenis baru. Oleh karena itu, mereka menggunakan banyak merkuri merah untuk menggambar berbagai macam jimat ajaib. Hal ini menyebabkan {0} saat ini mengalami kekurangan merkuri merah. Jika ada yang bersedia mengulurkan tangan untuk membantu mereka saat ini. Mereka akan sangat berterima kasih.</Desc>
+		</Text>
+	</List>
+</Texts>
