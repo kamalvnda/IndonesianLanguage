@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Template">
+			<DisplayName>Templat</DisplayName>
+			<Types.0.DisplayName>Peristiwa Pertemuan yang Tidak Disengaja</Types.0.DisplayName>
+			<Types.0.Desc>Ini termasuk Jejak Binatang Kuno, dan Jejak Penggarap Kuno.</Types.0.Desc>
+			<Types.1.DisplayName>Peristiwa Musuh yang Kuat</Types.1.DisplayName>
+			<Types.1.Desc>Ini termasuk Invasi yang sulit terhadap Penggarap, dan Invasi Binatang.</Types.1.Desc>
+			<Types.2.DisplayName>Peristiwa Langka</Types.2.DisplayName>
+			<Types.2.Desc>Ini termasuk Pertemuan Cuaca yang sulit, Pertemuan Akrab, dan Penggalian Harta Karun Tingkat Lanjut.</Types.2.Desc>
+			<Types.3.DisplayName>Acara Rahasia</Types.3.DisplayName>
+			<Types.3.Desc>Diantaranya adalah Mewujudkan Amanat, dan Mewujudkan Amanat.</Types.3.Desc>
+			<Types.4.DisplayName>Acara Pengunjung</Types.4.DisplayName>
+			<Types.4.Desc>Ini termasuk Bergabung dengan Pengungsi, Permintaan Pejalan Kaki, dan Pengunjung Abadi.</Types.4.Desc>
+			<Types.5.DisplayName>Peristiwa Musuh</Types.5.DisplayName>
+			<Types.5.Desc>Ini termasuk Invasi Penggarap, dan Invasi Monster.</Types.5.Desc>
+			<Types.6.DisplayName>Acara Umum</Types.6.DisplayName>
+			<Types.6.Desc>Ini termasuk Pertemuan Cuaca, dan Perubahan Suasana Sekte.</Types.6.Desc>
+			<Types.7.DisplayName>Acara Lanjutan</Types.7.DisplayName>
+			<Types.7.Desc>Ini termasuk Pertemuan Cuaca Khusus, Penggalian Harta Karun, dan Lonjakan Qi.</Types.7.Desc>
+		</Text>
+		<Text Name="EasyFate">
+			<DisplayName>Tenang</DisplayName>
+		</Text>
+		<Text Name="NormalFate">
+			<DisplayName>Sedang</DisplayName>
+		</Text>
+		<Text Name="HardFate">
+			<DisplayName>Liar</DisplayName>
+		</Text>
+	</List>
+</Texts>
