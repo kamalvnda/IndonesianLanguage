@@ -1,0 +1,46 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_ShangGuYiWenLu1" sParam="Item">
+			<ThingName>Rahasia Kuno: Medan Perang Reruntuhan Surgawi, Volume 1</ThingName>
+			<Desc>Sebuah gulungan rahasia yang mencatat pertempuran kuno antara tuan dan iblis. Teks yang tertulis di sana tidak jelas, seolah-olah itu disulap oleh semacam mantra enkripsi.</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu5" sParam="Item">
+			<ThingName>Rahasia Kuno: Medan Perang Reruntuhan Surgawi, Volume 5</ThingName>
+			<Desc>Sebuah gulungan rahasia yang mencatat pertempuran kuno antara tuan dan iblis. Teks yang tertulis di sana tidak jelas, seolah-olah itu disulap oleh semacam mantra enkripsi.</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu7" sParam="Item">
+			<ThingName>Rahasia Kuno: Medan Perang Reruntuhan Surgawi, Volume 7</ThingName>
+			<Desc>Sebuah gulungan rahasia yang mencatat pertempuran kuno antara tuan dan iblis. Teks yang tertulis di sana tidak jelas, seolah-olah itu disulap oleh semacam mantra enkripsi.</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu15" sParam="Item">
+			<ThingName>Rahasia Kuno: Medan Perang Reruntuhan Surgawi, Volume 15</ThingName>
+			<Desc>Sebuah gulungan rahasia yang mencatat pertempuran kuno antara tuan dan iblis. Teks yang tertulis di sana tidak jelas, seolah-olah itu disulap oleh semacam mantra enkripsi.</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_TaiYiMiDian" sParam="Item">
+			<ThingName>Buku Harian Rahasia Tai Yi</ThingName>
+			<Desc>Sebuah buku yang mencatat sejarah Sekte Tai Yi. Isinya setiap peristiwa penting sejak berdirinya sekte itu seratus tahun yang lalu. Itu adalah buku yang memiliki nilai sentimental yang besar bagi para murid Sekte Tai Yi. Dari pemeriksaan menyeluruh Anda menemukan bahwa buku ini dijalin dengan lima jenis harta surgawi dan duniawi yang berharga. Hal ini membuat buku ini sangat tahan lama. Sulit dipercaya bahwa kantor sekecil itu Misalnya, Sekte Tai Yi menggunakan hal-hal seperti ini untuk mencatat sejarah Sekte tersebut. yang sangat boros</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_JinXiaCanJuan" sParam="Item">
+			<ThingName>Potongan dari kotak emas</ThingName>
+			<Desc>Sebuah gulungan terbang keluar dari kotak emas Danau Batu Giok. Qi-nya sedikit berfluktuasi. Namun, segel aneh yang melekat padanya cukup menarik. Dan sepertinya itu adalah segel yang memiliki karakteristik yang sama dengan segel yang telah rusak saat kamu memeriksanya. "Misteri Taiyi" Dia punya firasat bahwa masalah ini pasti ada hubungannya dengan apa yang sedang Anda selidiki.</Desc>
+			<Item.FabaoSuffix>buku</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>periksa bukunya</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
