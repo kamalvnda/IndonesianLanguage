@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MakeLingSoil">
+			<DisplayName>menciptakan tanah roh</DisplayName>
+			<Desc>Tukarkan pertumbuhan dan nutrisi Anda sendiri untuk mengubah tanah menjadi tanah roh.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="MakeFatSoil">
+			<DisplayName>Menyuburkan</DisplayName>
+			<Desc>Ia memperdagangkan pertumbuhan dan nutrisinya sendiri untuk mengubah lahan menjadi tanah yang unggul.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="LcBrokeHeartLock">
+			<DisplayName>mengemis</DisplayName>
+			<Desc>C bertindak main-main terhadap karakter Menggunakan nafsu, pesona, dan kecerdasan mereka untuk menghancurkan hati mereka yang tertutup.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="LcClearHanyu">
+			<DisplayName>Hancurkan Penjara Beku</DisplayName>
+			<Desc>Karena jenis makhluknya sama dengan Naga Air. Ia mampu mengeluarkan penjara beku yang ditinggalkan Naga Air untuk mendapatkan nutrisi dalam jumlah besar.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="LcStopColdWave">
+			<DisplayName>Nafas Api</DisplayName>
+			<Desc>Gunakan Qi asli Burung Vermillion untuk mengusir iblis itu.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="LcStopHeatWave">
+			<DisplayName>napas beku</DisplayName>
+			<Desc>Gunakan Qi asli Naga Air untuk menghilangkan panas terik.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="LcBaipiao">
+			<DisplayName>mengemis</DisplayName>
+			<Desc>Gunakan akalmu untuk menebak pikiran pedagang keliling dan bersikaplah main-main untuk menjilat. Mungkin saudagar itu tidak sedingin yang dikiranya.</Desc>
+			<TargetDesc>Pilih pedagang target</TargetDesc>
+		</Text>
+		<Text Name="LcSeeUnknown">
+			<DisplayName>mata yang tercerahkan</DisplayName>
+			<Desc>Memberikan pandangan yang tercerahkan kepada murid batiniah Hal ini memungkinkan untuk melihat tampilan sebenarnya dari barang-barang yang dilelang.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="LcOutspreadAttractive">
+			<DisplayName>Angsa yang menguntungkan</DisplayName>
+			<Desc>Kirim murid untuk mewakili sekte tersebut untuk menunjukkan keberuntungan sekte tersebut guna meningkatkan daya tarik sekte tersebut.</Desc>
+			<sParam2>Waktu yang tepat</sParam2>
+		</Text>
+		<Text Name="LcOutspreadStability">
+			<DisplayName>Kehormatan Naga</DisplayName>
+			<Desc>Kirim murid sebagai perwakilan sekte untuk memamerkan kekuatan sekte yang luar biasa dan meningkatkan stabilitas sekte.</Desc>
+			<sParam2>Divine Might</sParam2>
+		</Text>
+		<Text Name="Magic_YG_RealPower">
+			<DisplayName>Kekuatan asal (kekuatan)</DisplayName>
+			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan kekuatan senjata sihir, sangat meningkatkan kekuatan Fisik Misterius. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealRecover">
+			<DisplayName>Kekuatan Asal (Pertumbuhan)</DisplayName>
+			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Fleksibilitas yang sangat meningkat, tingkat pemulihan Qi yang sangat meningkat, tingkat pemulihan Qi Sejati yang sangat meningkat. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealWisdom">
+			<DisplayName>Kekuatan asal (kebijaksanaan)</DisplayName>
+			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan kekuatan energi magis, sangat meningkatkan keakuratan Fisik Misterius, sangat meningkatkan tingkat keberhasilan pertahanan, sangat meningkatkan kemungkinan menyerang melalui penghalang yang dalam, sangat meningkatkan kemungkinan menekan senjata magis. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealShield">
+			<DisplayName>Kekuatan Asal (Persepsi)</DisplayName>
+			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan Qi Armor, sangat meningkatkan daya tahan Fisik Misterius. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+	</List>
+</Texts>
