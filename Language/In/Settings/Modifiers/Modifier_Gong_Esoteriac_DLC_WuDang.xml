@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_DLC_WuDang_YinYang1">
+			<DisplayName>yang murni</DisplayName>
+			<Desc>Hanya Yang Qi yang mengalir di dalam tubuh. Saat menggunakannya untuk mengendalikan senjata ajaib, ia bisa menghancurkan apapun.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang2">
+			<DisplayName>Yang Tertinggi</DisplayName>
+			<Desc>Ada Yang Qi mengalir ke hampir seluruh tubuh. Memiliki efek membantu meningkatkan level skill senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang3">
+			<DisplayName>Yang Lanjutan</DisplayName>
+			<Desc>Ada cukup banyak Yang Qi yang beredar di dalam tubuh. Hal ini berdampak negatif pada stabilitas kondisi mental. Namun, ini memiliki efek membantu mencegah efek samping dari kondisi mental yang buruk dan meningkatkan level Qi Armor.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang4">
+			<DisplayName>Minimal Yang</DisplayName>
+			<Desc>Ada sejumlah kecil Yang Qi mengalir di dalam tubuhnya. Ini memiliki efek membantu meningkatkan tingkat kondisi mental dan pelindung energi.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang5">
+			<DisplayName>Keseimbangan Yin Yang</DisplayName>
+			<Desc>Yin dan Yang Qi mengalir bersama secara seimbang di dalam tubuh. Ini menciptakan keadaan kemurnian, kejernihan, dan Qi di sekitar Anda. Tubuh berputar bersama dalam keseimbangan.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang6">
+			<DisplayName>Minimal Yin</DisplayName>
+			<Desc>Ada sejumlah kecil Yin Qi yang mengalir di dalam tubuhnya. Ini memiliki efek membantu meningkatkan tingkat kondisi mental dan pelindung energi.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang7">
+			<DisplayName>Yin tingkat lanjut</DisplayName>
+			<Desc>Ada cukup banyak Yin Qi yang beredar di dalam tubuh. Hal ini berdampak negatif pada stabilitas kondisi mental. Namun, ini memiliki efek membantu mencegah efek samping dari kondisi mental yang buruk dan meningkatkan level Qi Armor.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang8">
+			<DisplayName>Yin Tertinggi</DisplayName>
+			<Desc>Ada Yin Qi yang mengalir ke hampir seluruh tubuh. Memiliki efek membantu meningkatkan level skill energi magis.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang9">
+			<DisplayName>yin murni</DisplayName>
+			<Desc>Hanya ada Yin Qi yang mengalir di dalam tubuh. Saat menggunakan energi magisnya, ia dapat menghancurkan segalanya.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang10">
+			<DisplayName>tidak punya</DisplayName>
+		</Text>
+	</List>
+</Texts>
