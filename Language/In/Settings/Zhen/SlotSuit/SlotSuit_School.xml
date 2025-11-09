@@ -1,0 +1,114 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlotSuit_School_1">
+			<DisplayName>Roh Tirai Biru</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan qi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan tingkat penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Meningkatkan energi maksimum formasi.</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_2">
+			<DisplayName>Mind Kun Lun</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan skill senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan skill energi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan skill armor roh</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan pemanfaatan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Meningkatkan energi maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_3">
+			<DisplayName>Mind Beyond the Sky</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan Keterampilan Senjata Sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan Keterampilan Sihir Qi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan Keterampilan Armor Roh</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan Stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tingkatkan penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan energi maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_4">
+			<DisplayName>Pikiran Mekha Duang</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan energi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan keterampilan armor sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi perkemahan taktis.</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Naikkan level penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan kekuatan maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_5">
+			<DisplayName>Roh Misterius</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi magis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan armor sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan penggunaan formasi.</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan energi maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_6">
+			<DisplayName>Faith Lotus Spirit</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan qi ajaib</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan tingkat penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Meningkatkan energi maksimum formasi.</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_7">
+			<DisplayName>Night Light Spirit</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan Keterampilan Senjata Sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan Keterampilan Qi Sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan Keterampilan Qi Armor</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tingkatkan penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan kekuatan maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_8">
+			<DisplayName>Roh Serangga</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan Skill Senjata Sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan Skill Qi Sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan Skill Qi Armor</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan Stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tingkatkan penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan energi maksimal formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_9">
+			<DisplayName>Abyssal Spirit</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan energi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan keterampilan armor sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi perkemahan taktis.</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Naikkan level penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Meningkatkan energi maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_10">
+			<DisplayName>Tujuh Jalan Roh Pembunuh</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi magis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan armor sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan penggunaan formasi.</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan energi maksimum formasi</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_11">
+			<DisplayName>Semangat Psikis</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan stabilitas</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan efisiensi formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan tingkat penggunaan formasi</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Meningkatkan energi maksimum formasi.</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>
