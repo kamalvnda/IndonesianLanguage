@@ -1,0 +1,92 @@
+ID	Desc	HelpTitle
+
+1	Bangun api unggun.	Buat api
+2	Potong pohon	Mencacah. pohon
+3	Bangun sumur.	Kumpulkan Air
+4	Buat daging kering	Masak makanan.
+5	Bangun tempat kerja material.	Tempat kerja materi
+6	Buatlah 5 batang kayu dari tempat kerja material.	Membuat Kayu
+7	Tetapkan tempat penyimpanan.	Bangun tempat penyimpanan
+8	Buka dan periksa filter penyimpanan.	Konfigurasikan penyimpanan
+9	Buka dan periksa panel mood karakter.	Periksa suasana hati
+10	Bangunlah sebuah ruangan dengan tempat tidur di dalamnya, lalu berikan tempat tidur itu kepada seorang murid.	Tetapkan kamar tidur
+11	Membangun tempat kerja.	Tempat kerja
+12	Membuat alat pertanian dari tempat kerja.	Membuat alat pertanian
+13	Tetapkan ladang dan tanam gandum.	Tanam gandum
+14	Buat busur dari stasiun kerajinan tangan.	Buat busur
+15	Beri pemburu itu busur.	Lengkapi busur
+16	Pergi berburu.	Berburu!
+17	Membuat beliung dari stasiun kerajinan tangan.n	Buat beliung
+18	Berikan penambang itu beliung.	Lengkapi beliung
+19	Posting perintah ranjau untuk mengambil milikku.	Kumpulkan punyaku
+20	Buka panel kerja dan tetapkan prioritas seseorang ke Peon.	Tetapkan prajurit infanteri
+21	Buatlah seorang murid memakan pil pembentuk.	Makan pil pembentuk
+22	Jadikan murid untuk dipromosikan.	Promosikan ke batin
+23	Bangun dan berikan ruangan untuk murid batin.	Tetapkan ruangan dalam
+24	Bangun kembali sekte Anda.	Bangun kembali sekte Anda
+25	Kirim seorang murid ke sebuah petualangan.	Petualangan Pertama Kali
+26	Tetapkan area perdagangan.	Daerah perdagangan
+27	Berdaganglah dengan pedagang keliling.	Berdagang
+28	Tetapkan kebun ramuan dan tanam daun roh.	Semangat tanaman pergi
+29	Bangun meja kerajinan.	Meja kerajinan
+30	Bangun tungku alkimia.	Tungku alkimia
+31	Membangun sebuah observatorium.	Membangun sebuah observatorium
+32	Ketuk Taichi di sudut kanan atas dan Periksa diagram Lima elemen.	Diagram elemen
+33	Bangun tempat tidur dengan bahan berelemen logam.	Tempat tidur elemen logam
+34	Menurut aturan bahwa tanah menghasilkan logam, buatlah lampu minyak dengan bahan tanah di samping alas elemen logam.	Elemen melahirkan
+35	Bangun dekorasi elemen tanah di sekitar tempat tidur logam secara terus menerus untuk membuat tempat tidur tersebut sangat menguntungkan.	Tempat Tidur yang Menguntungkan
+36	Pilih kamar dan periksa fengshui-nya.	Fengshui ruangan
+37	Bangunlah ruangan yang sangat menguntungkan.	Kamar yang menguntungkan
+38	Periksa unsur hukum batin dan buatlah tempat tidur dengan bahan yang menghasilkan unsur tersebut.	Kamar sesuai dengan hukum
+39	Klik ikon Taichi untuk masuk ke mode fengshui.	Modus Feng Shui
+40	Jadikan semua bangunan fengshui di sekte tersebut setidaknya menguntungkan.	Sangat menguntungkan
+41	Tebang pohon roh untuk mengumpulkan hutan roh.	Tebang pohon roh
+42	Bangunlah sebuah bantal dan berikan kepada murid batiniah.	Tetapkan bantal
+43	Buatlah pajangan di samping bantal dan letakkan kayu roh di atasnya.	Kumpulkan Qi
+44	Buka panel inspirasi dan pelajari manual apa pun	Pertama kali. Inspirasi
+45	Tetapkan tujuan seorang murid dalam pikiran.	Tetapkan Tujuan ke Pikiran
+46	Tetapkan tujuan seorang murid untuk berlatih setelah kondisi mentalnya mencapai 75.	Tetapkan Tujuan untuk berlatih
+47	Cobalah melakukan terobosan setelah bagian dalam mencapai kemacetan.	Terobosan
+48	Cobalah membuat artefak dari meja kerajinan.	Buat artefak
+49	Buatlah pil dari tungku alkimia.	Buatlah pil
+50	Gambarlah jimat sesuka Anda.	Gambarlah jimat
+51	Identifikasi peninggalan Fengshui	Peninggalan Fengshui
+52	Letakkan peninggalan fengshui di dalam ruangan agar dapat diterapkan.	Relik mulai berlaku
+53	Tetapkan area hama.	Daerah hama
+54	Menjinakkan seekor binatang.	Menjinakkan seekor binatang
+55	Tanam akar roh.	Tanam akar roh
+56	Membuat akar semangat tumbuh.	Akar roh tumbuh
+57	Peliharalah akar semangat.	Peliharalah akar semangat
+58	Simpati dengan akar roh.	Simpati
+59	Kunjungi orang bijak kuno dan tanyakan tentang binatang purba.	Orang bijak kuno
+60	Gunakan ruangan yang sangat menguntungkan untuk menekan gua Misterius.	Gua yang misterius
+61	Masuki pemandangan liar.	Adegan liar
+62	Bangun agensi.	Bangun agensi
+63	Tetapkan 10 orang luar ke sebuah agensi.	Tetapkan bagian luar
+64	Pilih kebijakan untuk suatu lembaga dan selesaikan peristiwa kebijakan.	Pilih kebijakan
+65	Bangun agensi sekali.	Bangun agensi
+66	Kunjungi agensi dan kumpulkan kepercayaan satu kali.	Kumpulkan iman
+67	Mengobrol dengan karakter apa pun dan menerima pesan.	Dapatkan pesan
+68	Berikan salah satu bantuannya kepada pemimpin sekte.	Kunjungi Tempatnya
+69	Dapatkan akses sekte.	Dapatkan akses
+70	Promosikan murid dengan Hukum Ilahi.	Budidaya Ilahi
+71	Tapi Nyanyian Hewan dari Gunung Ratusan Serangga dan buatlah pil Pencerahan.	Pil yang mencerahkan
+72	Dapatkan hewan yang terbangun.	Hewan yang terbangun
+73	Letakkan hewan yang terbangun di tempat yang nyaman.	Buatlah tempat yang nyaman
+74	Buat hewan yang terbangun untuk mendapatkan pecahan pikiran.	Dapatkan pecahan pemikiran
+75	Membuat hewan terbangun untuk mendapatkan pemikiran.	Dapatkan pemikiran
+76	Buat hewan yang terbangun untuk mendapatkan pecahan kecerdasan.	Pecahan kecerdasan
+77	Jadikan hewan yang terbangun untuk membangkitkan kecerdasan.	Bangkitkan Kecerdasan
+78	Dapatkan semangat Hidup.	Semangat hidup
+79	Ubah lima elemen roh yang hidup dengan melahap.	Lima elemen
+80	Promosikan murid dengan Hukum Fisika.	Budidaya Fisik
+81	Promosikan murid dengan Hukum Jimat.	Budidaya Jimat
+82	Dapatkan panduan formasi dari sisa-sisa kakak laki-laki ke-7 di Mt. Coppertomb.	Sisa-sisa yang familier
+83	Rancang formasi di menu formasi.	Rancang formasi
+84	Berhasil membentuk formasi.	Bentuk formasi
+85	Lengkapi mantel.	Lengkapi mantel
+86	Menyegel kontrak dengan keajaiban.	Segel kontrak
+87	Dapatkan undangan lelang dari pedagang keliling.	Undangan lelang
+88	Bergabunglah dengan pelelangan.	Bergabunglah dengan pelelangan
+89	Dapatkan sub roh.	Dapatkan sub roh
+90	Lengkapi lampiran.	Lampiran
