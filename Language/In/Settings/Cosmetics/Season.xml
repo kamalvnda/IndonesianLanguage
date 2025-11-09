@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TheGate">
+			<CosmeticsDatas.0.Display>Prasasti batu kantor</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar klasik prasasti batu sekolah</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>prasasti batu bermutu tinggi</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar prasasti batu biro yang indah dan anggun Suatu kehormatan diperuntukkan bagi kelompok elit pencak silat.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="LsDog">
+			<CosmeticsDatas.0.Display>Huajuan Tradisional</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Huajuan biasa</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Setan berubah</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Hua Zhuan yang menjadi iblis di era iblis.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<CosmeticsDatas.0.Display>Taman batu (bukit)</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar taman batu klasik (gundukan).</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Pemandangan - Naga Ganda</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar gunung batu buatan yang indah dan elegan Suatu kehormatan diperuntukkan bagi kelompok seni bela diri elit.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_Tower">
+			<CosmeticsDatas.0.Display>Pagoda Penindas Setan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar klasik Pagoda untuk mengalahkan iblis.</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Damai dan damai</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar lonceng naga yang menekan setan melambangkan makna perdamaian</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<CosmeticsDatas.0.Display>percobaan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar wadah besar klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Labu Roh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar labu roh alami Simbol pencapaian pre-order</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ColdHole">
+			<CosmeticsDatas.0.Display>oven beku</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar tungku pembekuan klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Naga Berjongkok</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar kompor memasak pil antik sederhana Cahaya ilahi bersinar Ini adalah simbol dari pencapaian pemesanan di muka.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<CosmeticsDatas.0.Display>Raksasa batu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar batu klasik raksasa</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Patung seorang jenderal ilahi</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Patung seorang jenderal lapis baja yang anggun. Simbol pencapaian pre-order</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<CosmeticsDatas.0.Display>Perisai pedang</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar perisai pedang klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>pembunuh naga</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar pedang besar kuno dengan banyak segel.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="IncenseTripod">
+			<CosmeticsDatas.0.Display>Pemegang Dupa</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar pembakar dupa klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Kompor Emas Violet</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Kompor Emas Violet Dikenal sebagai harta karun sekte Tao.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<CosmeticsDatas.0.Display>es phoenix</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Patung Es Phoenix Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Raja Phoenix</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Patung Raja Phoenix, anggun dan mulia</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<CosmeticsDatas.0.Display>naga perunggu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar naga perunggu klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Kirin</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Kirin yang mulia dan anggun</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar">
+			<CosmeticsDatas.0.Display>Kontrak Roh Klasik: Babi Hutan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar kontrak roh klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>setan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambaran kontrak roh khusus di era iblis.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<CosmeticsDatas.0.Display>kompor kecil</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar kompor kecil klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Naga Berjongkok</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar kompor memasak pil antik sederhana Cahaya ilahi bersinar Ini adalah simbol dari pencapaian pemesanan di muka.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<CosmeticsDatas.0.Display>Pintu kantor</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar pintu kantor klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Rumah Naga Terapung</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Mendekorasi gerbang gunung kuno melambangkan permintaan maaf yang tulus.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<CosmeticsDatas.0.Display>lampu kura-kura hitam</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar lampion penyu hitam klasik.</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Lampu Samantapat</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>lambang keteguhan hati Gajah putih dengan enam gading yang menunjukkan keperkasaan</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_Other_PuppetTest">
+			<CosmeticsDatas.0.Display>wayang</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar kontainer klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Boneka misterius</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar perwakilan dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Bed">
+			<CosmeticsDatas.0.Display>tempat tidur</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar tempat tidur klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Mok Chumchum</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar tempat tidur single dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DoubleBed">
+			<CosmeticsDatas.0.Display>dobel bed</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar tempat tidur double klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Mengusir setan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar tempat tidur ganda dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WaterTank">
+			<CosmeticsDatas.0.Display>toples air</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar toples air klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>delapan pemandangan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar toples air dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Candlestick">
+			<CosmeticsDatas.0.Display>lampu minyak</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar lampu minyak klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>burung bertengger</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar lampu minyak dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<CosmeticsDatas.0.Display>bantal Qi</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar klasik sebuah bantal</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Pola setan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar bantal Qi dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DanStove">
+			<CosmeticsDatas.0.Display>Kompor Memasak Tablet</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar kompor klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Api Setan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar kompor pembuatan pil dari zaman iblis. Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Cushion">
+			<CosmeticsDatas.0.Display>bantalan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar jok klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Lingkaran timbangan</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar bantal dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<CosmeticsDatas.0.Display>Pedupaan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar pembakar dupa klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Pha Lon</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar pembakar dupa dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="StreetLight">
+			<CosmeticsDatas.0.Display>tiang lampu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar tiang lampu klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Saeng Sura</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar tiang lampu dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="SmallTable">
+			<CosmeticsDatas.0.Display>meja</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar meja klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>meja giok</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar meja dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Table">
+			<CosmeticsDatas.0.Display>meja persegi</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar meja kecil berbentuk persegi panjang klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Awan Roh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar meja persegi kecil dari zaman setan. Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<CosmeticsDatas.0.Display>rak</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>gambar rak klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Dianjiang</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar rak dari era setan Terima kasih kepada semua pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+	</List>
+</Texts>
