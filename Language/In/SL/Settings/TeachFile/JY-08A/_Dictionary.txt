@@ -1,0 +1,1295 @@
+房间	Room
+仓库	Storage
+交易区	Trade Area
+狼皮薄衣衫	Wolf Hide Thin Shirt
+熊皮休闲下裳	Bear Hide Casual Pants
+紫布修行衣衫	Purple Fabric Sect Uniform
+黄布薄下裳	Yellow Fabric Thin Pants
+可以提高视野范围，并提高历练时发现新地点的速度。	"Talisman used to improve range of views, and reduce time spent discovering a new location in adventure."
+松豪	Pine Hero
+千里神视符	Talisman of Foreseer
+寒精弓	Ice Essence Bow
+木农具	Farming Tool
+黄布修行衣衫	Yellow Fabric Sect Uniform
+蓝布修行下裳	Blue Fabric Cultivator Pants
+南海神视纪要	South Sea Divine Sight Summary
+可以轻微提高炼制法宝的品阶。	Used to slightly raise the tier of crafted artifact.
+五方灵宝符	Wonder Talisman
+野猪皮	Boar Hide
+麒麟天心罩	Kirin Heavenly Heart  Barrier
+棉花	Cotton
+甲乙丝	Eastern  Damask
+面饼	Bread
+戊己天罡饼	Central The Big Dipper Pancake
+牛皮休闲下裳	Casual Pants
+木弓	Bow
+莲藕	Lotus Root
+壬水七魄藕	Cascade Seven Souls Lotus Root
+符纸	Talisman Paper
+青龙道德符	Azuragon Moral Talisman
+大理石砖	Marble Block
+戊土魂圭	Grim Soul  Boulder
+野猪皮修行衣衫	Sect Uniform
+靛蓝布薄下裳	Indigo Fabric Thin Pants
+紫薇鬼手秘传	Crape Myrtle Ghost Hand Secret Method
+狼肉	Wolf Meat
+行疆荡魔幕	Trekking Evil Exorcising  Tablecloth
+虎皮	Tiger Hide
+戊土戮血革	Grim Slaughter Leather
+肉干	Dried Meat
+干锅田鸡	Crispy & Spicy Frog Legs
+姜龙	Jiang Long
+猪肉饼	Stir-fried Pork with Green Pepper
+黄布厚制衣衫	Winter Shirt
+苍莽千光甲	Colossal Thousand Rays Clothes
+牛皮休闲衣衫	Casual Shirt
+狼皮修行下裳	Wolf Hide Cultivator Pants
+棕石	Brownstone
+地龙圭	Groundragon  Tower
+可以轻微提高炼制丹药的产量。	Used to slightly raise yield of Alchemy.
+万化承丹符	Impermanence Talisman
+灵石墙	Spirit Stone Wall
+灵石门	Spirit Stone Door
+灵石床	Spirit Stone Bed
+灵石灯笼	Spirit Stone Lantern
+灵石水缸	Spirit Stone Water Vat
+梧桐木水井	Parasol Wood Well
+灵晶墙	Spirit Crystal Wall
+灵晶门	Spirit Crystal Door
+梧桐木床	Parasol Wood Bed
+梧桐木法座	Parasol Wood Qi Cushion
+梧桐木琴台	Parasol Wood Zither Table
+梧桐木小方桌	Parasol Wood Square Table
+火铜床	Igneocopper Bed
+火铜法座	Igneocopper Qi Cushion
+火铜琴台	Igneocopper Zither Table
+火铜小方桌	Igneocopper Square Table
+寒精置物台	Ice Essence Display
+火铜置物台	Igneocopper Display
+梧桐木灯笼	Parasol Wood Lantern
+梧桐木藏经阁书架	Parasol Wood Manual Pavilion
+梧桐木屏风	Parasol Wood Folding Screen
+梧桐木梳妆台	Parasol Wood Dressing Table
+寒晶灯笼	Ice Crystal Lantern
+寒晶屏风	Ice Crystal Folding Screen
+寒晶梳妆台	Ice Crystal Dressing Table
+天柱石法座	Holy Stone Qi Cushion
+火铜灯笼	Igneocopper Lantern
+火铜梳妆台	Igneocopper Dressing Table
+火铜屏风	Igneocopper Folding Screen
+寒晶藏经阁书架	Ice Crystal Manual Pavilion
+火铜藏经阁书架	Igneocopper Manual Pavilion
+火精墙	Fire Essence Wall
+梧桐木墙	Parasol Wood Wall
+棕石床	Brownstone Bed
+棕石小方桌	Brownstone Square Table
+棕石琴台	Brownstone Zither Table
+寒精墙	Ice Essence Wall
+寒精灯笼	Ice Essence Lantern
+天柱石炉灶	Holy Stone Stove
+火精灯笼	Fire Essence Lantern
+玄铁灯笼	Darksteel Lantern
+寒精门派石碑	Ice Essence Sect Stele
+寒精观星台	Ice Essence Observatory
+傀儡停放点	Vessel Spot
+棕石墙	Brownstone Wall
+棕石门	Brownstone Door
+玄铁床	Darksteel Bed
+玄铁小方桌	Darksteel Square Table
+玄铁琴台	Darksteel Zither Table
+玄铁法座	Darksteel Qi Cushion
+天柱石藏经阁书架	Holy Stone Manual Pavilion
+天柱石梳妆台	Holy Stone Dressing Table
+天柱石灯笼	Holy Stone Lantern
+天柱石屏风	Holy Stone Folding Screen
+灵石置物台	Spirit Stone Display
+<font color=MYCOLOR>程雪青</font>在割除<font color=OBJCOLOR>长草</font>时满怀动力，她觉得这也是修行的一环。	"<font color=MYCOLOR>Cheng Xueqing</font> felt highly motivated while <font color=OBJCOLOR>cutting long grass</font>, believing it to be part of cultivation."
+1天 17:07	1d 17:07
+<font color=MYCOLOR>程雪青</font>好像听到有谁在喊自己的名字。	<font color=MYCOLOR>Cheng Xueqing</font> thought [POSSESSIVE] heard someone call [POSSESSIVE] name.
+1天 19:13	1d 19:13
+4天 03:02	4d 03:02
+<font color=MYCOLOR>程雪青</font>突然觉得右眼跳了跳。	<font color=MYCOLOR>Cheng Xueqing</font> suddenly felt [POSSESSIVE] right eye twitch.
+5天 08:02	5d 08:02
+<font color=MYCOLOR>程雪青</font>有些关于<font color=OBJCOLOR>工作</font>的事想找人聊聊，	<font color=MYCOLOR>Cheng Xueqing</font> wants to discuss something about <font color=OBJCOLOR>work</font> with someone
+5天 17:31	5d 17:31
+<font color=MYCOLOR>程雪青</font>看到<font color=HECOLOR>仰厚</font>打老远过来，就向他挥了挥手，打了个招呼。	<font color=MYCOLOR>Cheng Xueqing</font> spotted <font color=HECOLOR>Yang Hou</font> approaching from afar and waved to greet [HIM].
+6天 19:47	6d 19:47
+<font color=MYCOLOR>程雪青</font>打了个哈欠。	<font color=MYCOLOR>Cheng Xueqing</font> yawned.
+7天 05:17	7d 05:17
+晨光初露，<font color=MYCOLOR>程雪青</font>看<font color=HECOLOR>仰厚</font>好像正无聊，就拉着他聊了聊关于<font color=OBJCOLOR>灵晶地板</font>的事。	"At dawn's first light, <font color=MYCOLOR>Cheng Xueqing</font> noticed <font color=HECOLOR>Yang Hou</font> seemed bored, so struck up a conversation about <font color=OBJCOLOR>Spirit Crystal Flooring</font>."
+7天 06:42	7d 06:42
+8天 19:53	8d 19:53
+日暮时分，<font color=MYCOLOR>程雪青</font>正在<font color=OBJCOLOR>工作</font>。看<font color=HECOLOR>轩辕士</font>从旁边经过，就抬手打了个招呼。但<font color=HECOLOR>轩辕士</font>面无表情的看了一眼，并没有回应，这让<font color=MYCOLOR>程雪青</font>心里一堵。	"At dusk, <font color=MYCOLOR>Cheng Xueqing</font> was <font color=OBJCOLOR>working</font>. Seeing <font color=HECOLOR>Xuanyuan</font> pass by, she waved at him. However, <font color=HECOLOR>Xuanyuan</font> merely glanced at her expressionlessly without responding, which left <font color=MYCOLOR>Cheng Xueqing</font> feeling a bit upset."
+8天 20:22	8d 20:22
+<font color=MYCOLOR>程雪青</font>虽然被<font color=OBJCOLOR>做噩梦</font>的情绪困扰，但他还是把<font color=OBJCOLOR>家常菜</font>做的十分美味。	"Though troubled by the emotions of <font color=OBJCOLOR>nightmares</font>, <font color=MYCOLOR>Cheng Xueqing</font> still managed to cook <font color=OBJCOLOR>home-style dishes</font> with exceptional flavor."
+9天 04:47	9d 04:47
+9天 05:13	9d 05:13
+<font color=MYCOLOR>程雪青</font>想把<font color=OBJCOLOR>寒精弓</font>整理一下。	<font color=MYCOLOR>Cheng Xueqing</font> wants to tidy up <font color=OBJCOLOR>Ice Essence Bow</font>.
+9天 05:44	9d 05:44
+<font color=MYCOLOR>程雪青</font>觉得有点无聊。	<font color=MYCOLOR>Cheng Xueqing</font> felt somewhat bored.
+9天 16:39	9d 16:39
+<font color=MYCOLOR>程雪青</font>突然觉得左眼跳了跳。	<font color=MYCOLOR>Cheng Xueqing</font> suddenly felt [POSSESSIVE] left eye twitch.
+9天 18:27	9d 18:27
+<font color=MYCOLOR>程雪青</font>很喜欢<font color=OBJCOLOR>晴天</font>。	<font color=MYCOLOR>Cheng Xueqing</font> really enjoys <font color=OBJCOLOR>sunny days</font>.
+11天 00:40	11d 00:40
+破晓时分，<font color=MYCOLOR>程雪青</font>在烹饪<font color=OBJCOLOR>家常菜</font>时，突然流下眼泪。	"At dawn's break, <font color=MYCOLOR>Cheng Xueqing</font> suddenly tears welled up while cooking <font color=OBJCOLOR>simple home cooking</font>."
+12天 06:08	12d 06:08
+12天 20:14	12d 20:14
+<font color=MYCOLOR>程雪青</font>想把<font color=OBJCOLOR>寒精弓</font>清洁一下。	<font color=MYCOLOR>Cheng Xueqing</font> wants to clean <font color=OBJCOLOR>Ice Essence Bow</font>.
+15天 03:19	15d 03:19
+<font color=MYCOLOR>程雪青</font>想把<font color=OBJCOLOR>狼皮薄衣衫</font>换掉。	<font color=MYCOLOR>Cheng Xueqing</font> wants to replace <font color=OBJCOLOR>Wolf Hide Thin Shirt</font>.
+15天 03:56	15d 03:56
+松柏之侧，<font color=MYCOLOR>程雪青</font>在<font color=OBJCOLOR>烹饪</font><font color=OBJCOLOR></font>时，突然心中一动，对耕作一道又有感悟。	"By the pine and cypress trees, <font color=MYCOLOR>Cheng Xueqing</font> gained new insight into farming while <font color=OBJCOLOR>cooking</font>"
+15天 06:51	15d 06:51
+16天 06:18	16d 06:18
+19天 03:43	19d 03:43
+程	Cheng
+雪青	Xueqing
+胜	Sheng
+贺	He
+珊	Shan
+毕	Bi
+绍	Shao
+<font color=MYCOLOR>轩辕士</font>踩到了什么东西。	<font color=MYCOLOR>Xuanyuan Shi</font> stepped on something.
+1天 10:07	1d 10:07
+<font color=MYCOLOR>轩辕士</font>打了个嗝。	<font color=MYCOLOR>Xuanyuan Shi</font> burped.
+3天 06:27	3d 06:27
+<font color=MYCOLOR>轩辕士</font>看到<font color=HECOLOR>仰厚</font>打老远过来，就向他挥了挥手，打了个招呼。	<font color=MYCOLOR>Xuanyuan Shi</font> spotted <font color=HECOLOR>Yang Hou</font> approaching from afar and waved to greet [HIM].
+4天 07:18	4d 07:18
+<font color=MYCOLOR>轩辕士</font>鞋里进了东西。	<font color=MYCOLOR>Xuanyuan Shi</font> got something in [ITS] shoe.
+4天 15:45	4d 15:45
+<font color=MYCOLOR>轩辕士</font>想把<font color=OBJCOLOR>千里神视符</font>换掉。	<font color=MYCOLOR>Xuanyuan Shi</font> wants to replace <font color=OBJCOLOR>Talisman of Foreseer</font>.
+5天 09:25	5d 09:25
+<font color=MYCOLOR>轩辕士</font>想把<font color=OBJCOLOR>紫布修行衣衫</font>清洁一下。	<font color=MYCOLOR>Xuanyuan Shi</font> wants to clean the <font color=OBJCOLOR>Purple Fabric Sect Uniform</font>.
+6天 12:38	6d 12:38
+华灯初上，<font color=MYCOLOR>轩辕士</font>刚刚吃饱喝足，正满意的拍肚子，看到<font color=HECOLOR>程雪青</font>刚好在旁边，就和她打了个招呼。但没想到<font color=HECOLOR>程雪青</font>却并不想理他，这让<font color=MYCOLOR>轩辕士</font>觉得很尴尬。	"As the lanterns lit up the evening, <font color=MYCOLOR>Xuanyuan</font>, having just had a satisfying meal, patted his belly contentedly. Spotting <font color=HECOLOR>Cheng Xueqing</font> nearby, he greeted her. To his surprise, <font color=HECOLOR>Cheng Xueqing</font> ignored him, leaving <font color=MYCOLOR>Xuanyuan</font> feeling awkward."
+<font color=MYCOLOR>轩辕士</font>揉了揉肚子。	<font color=MYCOLOR>Xuanyuan Shi</font> rubbed [ITS] stomach.
+9天 17:34	9d 17:34
+<font color=MYCOLOR>轩辕士</font>在吃<font color=OBJCOLOR>干锅田鸡</font>时，突然想起自己的<font color=OBJCOLOR>父亲轩辕兴业</font>。	<font color=MYCOLOR>Shi of Xuanyuan</font> was eating <font color=OBJCOLOR>Crispy & Spicy Frog Legs</font> when [HE] suddenly remembered [HIS] <font color=OBJCOLOR>father Xingye</font>.
+9天 19:53	9d 19:53
+<font color=MYCOLOR>轩辕士</font>突然觉得左眼跳了跳。	<font color=MYCOLOR>Xuanyuan Shi</font> suddenly felt [POSSESSIVE] left eye twitch.
+14天 17:38	14d 17:38
+<font color=MYCOLOR>轩辕士</font>在喝<font color=OBJCOLOR>水</font>时，脑海中突然浮现<font color=OBJCOLOR>席信</font>的模样。	<font color=MYCOLOR>Xuanyuan Shi</font> suddenly envisioned <font color=OBJCOLOR>Xi Xin</font>'s appearance while drinking <font color=OBJCOLOR>water</font>.
+16天 04:59	16d 04:59
+17天 08:56	17d 08:56
+轩辕	Xuanyuan
+士	Shi
+兴业	Xingye
+言	Yan
+诗蕊	Shirui
+<font color=MYCOLOR>董之柔</font>被<font color=OBJCOLOR>有点冷</font>的情绪困扰，只能<font color=OBJCOLOR>随便看看</font>来放空心灵。	"<font color=MYCOLOR>Dong Zhirou</font> was troubled by a <font color=OBJCOLOR>slight chill</font> in [HER] mood, and could only <font color=OBJCOLOR>let [HER] gaze wander</font> to clear [HER] mind."
+4天 21:39	4d 21:39
+晴空万里，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>观云卷云舒</font>时，突然发出一声长叹。	"Under a clear sky, <font color=MYCOLOR>Dong Zhirou</font> suddenly gave a deep sigh while <font color=OBJCOLOR>observing the ever-changing clouds</font>."
+5天 09:54	5d 09:54
+万里无云，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>夜观星象</font>时，突然流下眼泪。	"Under cloudless skies, <font color=MYCOLOR>Dong Zhirou</font> suddenly shed tears while <font color=OBJCOLOR>observing stars at night</font>."
+6天 02:33	6d 02:33
+<font color=MYCOLOR>董之柔</font>因<font color=OBJCOLOR>多姿多彩</font>心情不错，忍不住来<font color=OBJCOLOR>奏乐</font>抒怀。	"<font color=MYCOLOR>Dong Zhirou</font>, delighted by <font color=OBJCOLOR>vibrant surroundings</font>, impulsively played <font color=OBJCOLOR>music</font> to vent joy."
+6天 09:33	6d 09:33
+天朗气清，<font color=MYCOLOR>董之柔</font>一个人<font color=OBJCOLOR>读书品卷</font>，突然思绪万千。	"On a clear and bright day, <font color=MYCOLOR>Dong Zhirou</font> was suddenly lost in thought while <font color=OBJCOLOR>reading and savoring texts</font> alone."
+6天 13:08	6d 13:08
+天朗气清，<font color=MYCOLOR>董之柔</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>父亲董明</font>。	"On a clear day, <font color=MYCOLOR>Dong Zhirou</font> quietly <font color=OBJCOLOR>played music</font> and suddenly remembered [HER] <font color=OBJCOLOR>father Dong Ming</font>."
+7天 10:12	7d 10:12
+绿荫之下，<font color=MYCOLOR>董之柔</font>静静的<font color=OBJCOLOR>观云卷云舒</font>，突然想起自己的<font color=OBJCOLOR>父亲董明</font>。	"Beneath verdant shade, <font color=MYCOLOR>Dong Zhirou</font> quietly <font color=OBJCOLOR>watched the drifting clouds</font> when memories of <font color=OBJCOLOR>his/her father Dong Ming</font> unexpectedly arose."
+7天 14:22	7d 14:22
+<font color=MYCOLOR>董之柔</font>被<font color=OBJCOLOR>需要武器</font>的情绪困扰，只能<font color=OBJCOLOR>奏乐</font>来放空心灵。	<font color=MYCOLOR>Dong Zhirou</font> is troubled by the emotion of <font color=OBJCOLOR>needing a weapon</font> and can only <font color=OBJCOLOR>play music</font> to clear [their] mind.
+8天 13:02	8d 13:02
+万里无云，<font color=MYCOLOR>董之柔</font>一个人<font color=OBJCOLOR>奏乐</font>，突然思绪万千。	"Under cloudless skies, <font color=MYCOLOR>Zhirou</font> was alone <font color=OBJCOLOR>performing music cultivation</font> when [HER] was suddenly lost in thought."
+8天 14:00	8d 14:00
+<font color=MYCOLOR>董之柔</font>被<font color=OBJCOLOR>有点热</font>的情绪困扰，只能<font color=OBJCOLOR>奏乐</font>来放空心灵。	<font color=MYCOLOR>Zhirou</font> was troubled by <font color=OBJCOLOR>feeling hot</font> and could only <font color=OBJCOLOR>engaged in musical cultivation</font> to clear [HER] mind.
+10天 01:01	10d 01:01
+人定之时，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得旁边的<font color=OBJCOLOR>火铜琴台</font>很有意思……	"During the evening watch, <font color=MYCOLOR>Dong Zhirou</font> found the nearby <font color=OBJCOLOR>Igneocopper Zither Table</font> quite intriguing while <font color=OBJCOLOR>playing music</font>.."
+10天 22:51	10d 22:51
+日中之时，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>奏乐</font>时，突然很想家。	"At midday, <font color=MYCOLOR>Zhirou</font> was overcome with homesickness during <font color=OBJCOLOR>performing music</font>."
+11天 12:11	11d 12:11
+晴空万里，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>看天花板</font>时，突然觉得旁边的<font color=OBJCOLOR>梧桐木法座</font>很有意思……	"Under a clear sky, <font color=MYCOLOR>Dong Zhirou</font> suddenly found the nearby <font color=OBJCOLOR>Parasol Wood Qi Cushion</font> unexpectedly captivating while <font color=OBJCOLOR>studying the ceiling</font>.."
+11天 13:09	11d 13:09
+夕食之刻，<font color=MYCOLOR>董之柔</font>一个人<font color=OBJCOLOR>读书品卷</font>，突然思绪万千。	"At dinner time, <font color=MYCOLOR>Dong Zhirou</font> was alone <font color=OBJCOLOR>perusing scrolls</font> when suddenly [THEIR] mind was lost in thought."
+12天 16:02	12d 16:02
+天朗气清，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得莫名烦躁。	"On a clear and bright day, <font color=MYCOLOR>Dong Zhirou</font> suddenly felt unaccountably restless while <font color=OBJCOLOR>playing music</font>."
+13天 07:46	13d 07:46
+14天 01:53	14d 01:53
+<font color=MYCOLOR>董之柔</font>因<font color=OBJCOLOR>温度舒适</font>心情不错，忍不住来<font color=OBJCOLOR>跳舞</font>抒怀。	"<font color=MYCOLOR>Dong Zhirou</font>, pleased by <font color=OBJCOLOR>comfortable temperature</font>, couldn't help but <font color=OBJCOLOR>dance</font> to express delight."
+14天 05:15	14d 05:15
+天朗气清，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>看天花板</font>时，突然想吃<font color=OBJCOLOR>龟肉</font>。	"On this clear day, <font color=MYCOLOR>Dong Zhirou</font> had a sudden craving for <font color=OBJCOLOR>turtle meat</font> while <font color=OBJCOLOR>staring at the ceiling</font>."
+14天 11:43	14d 11:43
+夜幕深沉，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>跳舞</font>时，突然觉得很气闷。	"In the depth of night, <font color=MYCOLOR>Dong Zhirou</font> suddenly felt stifled while <font color=OBJCOLOR>dancing</font>."
+14天 22:10	14d 22:10
+绿荫之下，<font color=MYCOLOR>董之柔</font>一个人<font color=OBJCOLOR>跳舞</font>，突然思绪万千。	"Under the shade of trees, <font color=MYCOLOR>Zhirou</font> was alone <font color=OBJCOLOR>dancing</font> when [HER] was suddenly lost in thought."
+15天 01:16	15d 01:16
+门派中，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>奏乐</font>时，突然想去<font color=OBJCOLOR>邪帝陵</font>看看。	"Within the sect, <font color=MYCOLOR>Zhirou</font> suddenly felt drawn to visit the <font color=OBJCOLOR>Evil Emperor's Tomb</font> while <font color=OBJCOLOR>playing music</font>."
+17天 12:45	17d 12:45
+万里无云，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>看天花板</font>时，突然想吃<font color=OBJCOLOR>牛肉</font>。	"Under a cloudless sky, <font color=MYCOLOR>Zhirou</font> suddenly craved <font color=OBJCOLOR>Bull Meat</font> while <font color=OBJCOLOR>staring at the ceiling</font>."
+18天 13:05	18d 13:05
+<font color=MYCOLOR>董之柔</font>被<font color=OBJCOLOR>需要武器</font>的情绪困扰，只能<font color=OBJCOLOR>跳舞</font>来放空心灵。	<font color=MYCOLOR>Dong Zhirou</font> is troubled by the emotion <font color=OBJCOLOR>'Need Weapon'</font> and can only <font color=OBJCOLOR>dance</font> to clear [HER] mind.
+19天 18:08	19d 18:08
+夜幕深沉，<font color=MYCOLOR>董之柔</font>在<font color=OBJCOLOR>看天花板</font>时，突然流下眼泪。	"In the depth of night, <font color=MYCOLOR>Dong Zhirou</font> suddenly tears welled up while <font color=OBJCOLOR>staring at the ceiling</font>."
+19天 21:13	19d 21:13
+董	Dong
+之柔	Zhirou
+明	Ming
+郎	Lang
+凌春	Lingchun
+陈	Chen
+慵醉	Yongzui
+江南罩	JiangNan Cover
+松柏之侧，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>随便看看</font>时，突然想吃<font color=OBJCOLOR>肉干</font>。	"Beside pine trees, <font color=MYCOLOR>Jiang Long</font> suddenly craves <font color=OBJCOLOR>Dried Meat</font> while <font color=OBJCOLOR>observing [HIS] surroundings</font>."
+4天 13:54	4d 13:54
+生气苏始，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>读书品卷</font>时，突然发出一声长叹。	"At daybreak, <font color=MYCOLOR>Jiang Long</font> suddenly let out a long sigh while <font color=OBJCOLOR>perusing scrolls</font>."
+5天 07:43	5d 07:43
+<font color=MYCOLOR>姜龙</font>被<font color=OBJCOLOR>突然小难过</font>的情绪困扰，只能<font color=OBJCOLOR>奏乐</font>来放空心灵。	<font color=MYCOLOR>Jiang Long</font> is troubled by the emotion of <font color=OBJCOLOR>sudden sadness</font> and can only <font color=OBJCOLOR>play music</font> to clear [their] mind.
+6天 00:09	6d 00:09
+门派中，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>读书品卷</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石墙</font>很有意思……	"Within the sect, <font color=MYCOLOR>Jiang Long</font> found the adjacent <font color=OBJCOLOR>Spirit Stone Wall</font> curiously interesting while <font color=OBJCOLOR>studying scrolls</font>.."
+6天 06:06	6d 06:06
+天朗气清，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>读书品卷</font>时，脑海中突然浮现<font color=OBJCOLOR>百里眉</font>的模样。	"On a bright and clear day, while <font color=MYCOLOR>Jiang Long</font> is <font color=OBJCOLOR>reading and savoring scrolls</font>, the image of <font color=OBJCOLOR>Baili Mei</font> suddenly flashes through [HIS] mind."
+7天 00:12	7d 00:12
+起更之时，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>观云卷云舒</font>时，突然想吃<font color=OBJCOLOR>蛙肉</font>。	"At nightfall, <font color=MYCOLOR>Jiang Long</font> developed a craving for <font color=OBJCOLOR>frog meat</font> while <font color=OBJCOLOR>watching clouds drift</font>."
+7天 20:50	7d 20:50
+生气苏始，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>观云卷云舒</font>时，突然流下眼泪。	"As vitality stirred at dawn, <font color=MYCOLOR>Jiang Long</font> suddenly tears welled up while <font color=OBJCOLOR>watching the clouds drift</font>."
+8天 08:09	8d 08:09
+门派中，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然想吃<font color=OBJCOLOR>牛肉</font>。	"Within the sect, <font color=MYCOLOR>Jiang Long</font> suddenly desired <font color=OBJCOLOR>bull meat</font> while <font color=OBJCOLOR>playing music</font>."
+8天 12:17	8d 12:17
+万里无云，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然流下眼泪。	"Under cloudless skies, <font color=MYCOLOR>Jiang Long</font> teared up during <font color=OBJCOLOR>performing music</font>."
+8天 13:14	8d 13:14
+天朗气清，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>看天花板</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石墙</font>很有意思……	"On a bright day, <font color=MYCOLOR>Jiang Long</font> found the adjacent <font color=OBJCOLOR>Spirit Stone Wall</font> fascinating while <font color=OBJCOLOR>staring at the ceiling</font>.."
+8天 15:26	8d 15:26
+夜深人静，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>夜观星象</font>时，突然觉得旁边的<font color=OBJCOLOR>野草</font>很有意思……	"In the stillness of night, <font color=MYCOLOR>Jiang Long</font> suddenly found the nearby <font color=OBJCOLOR>weeds</font> curious while <font color=OBJCOLOR>stargazing</font>.."
+8天 22:35	8d 22:35
+申时，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，脑海中突然浮现<font color=OBJCOLOR>百里眉</font>的模样。	"In late afternoon, <font color=MYCOLOR>Jiang Long</font> suddenly recalled the image of <font color=OBJCOLOR>Baili Mei</font> while <font color=OBJCOLOR>playing music</font>."
+9天 15:29	9d 15:29
+<font color=MYCOLOR>姜龙</font>因<font color=OBJCOLOR>精致的房间</font>心情不错，忍不住来<font color=OBJCOLOR>奏乐</font>抒怀。	"<font color=MYCOLOR>Jiang Long</font>, delighted by their <font color=OBJCOLOR>exquisitely decorated room</font>, spontaneously expressed their joy through <font color=OBJCOLOR>playing music</font>."
+10天 03:36	10d 03:36
+门派中，<font color=MYCOLOR>姜龙</font>一个人<font color=OBJCOLOR>看天花板</font>，突然思绪万千。	"In the sect, <font color=MYCOLOR>Jianglong</font> abruptly was overwhelmed by a flood of thoughts while <font color=OBJCOLOR>staring at the ceiling alone</font>."
+10天 04:34	10d 04:34
+门派中，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>娱乐</font>时，突然领会到<font color=OBJCOLOR>《逍遥危燕玉女妙录》</font>的一丝真意。<font color=MYCOLOR>姜龙</font>当场沉浸在这一化境中，等回过神来，发现修为已然大进。	"During <font color=OBJCOLOR>recreation</font> at the sect, <font color=MYCOLOR>Long Jiang</font> suddenly grasped a profound truth from <font color=OBJCOLOR>""The Marvelous Records of Carefree Swallow and Jade Maiden""</font>. [THEY] became immersed in this epiphany, emerging to find [THEIR] cultivation significantly advanced."
+门派中，<font color=MYCOLOR>姜龙</font>一个人<font color=OBJCOLOR>奏乐</font>，突然思绪万千。	"In the sect, <font color=MYCOLOR>Jiang Long</font> was <font color=OBJCOLOR>performing music</font> alone when suddenly overwhelmed by a flood of thoughts."
+10天 23:34	10d 23:34
+辰时，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>观云卷云舒</font>时，突然觉得旁边的<font color=OBJCOLOR>灵石墙</font>很有意思……	"During the morning hours, <font color=MYCOLOR>Jiang Long</font> suddenly found the nearby <font color=OBJCOLOR>Spirit Stone Wall</font> quite remarkable while <font color=OBJCOLOR>observing the drifting clouds</font>.."
+11天 08:06	11d 08:06
+响午之后，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>读书品卷</font>时，突然很想家。	"After high noon, <font color=MYCOLOR>Jianglong</font> unexpectedly felt homesick while <font color=OBJCOLOR>reading scrolls</font>."
+11天 15:05	11d 15:05
+丑时，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>赏月</font>时，突然发出一声长叹。	"During the Hour of the Ox, <font color=MYCOLOR>Jiang Long</font> suddenly let out a long sigh while <font color=OBJCOLOR>admiring the moon</font>."
+13天 01:52	13d 01:52
+门派中，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>看天花板</font>时，突然流下眼泪。	"In the sect, <font color=MYCOLOR>Jianglong</font> suddenly shed tears while <font color=OBJCOLOR>staring at the ceiling</font>."
+13天 06:20	13d 06:20
+晴空万里，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然流下眼泪。	"Under the clear sky, <font color=MYCOLOR>Jiang Long</font> suddenly shed tears while <font color=OBJCOLOR>playing music</font>."
+13天 16:28	13d 16:28
+寅时，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>赏月</font>时，脑海中突然浮现<font color=OBJCOLOR>席信</font>的模样。	"During Yin hour, <font color=MYCOLOR>Jiang Long</font> suddenly envisioned the figure of <font color=OBJCOLOR>Xi Xin</font> while <font color=OBJCOLOR>admiring the moon</font>."
+15天 03:28	15d 03:28
+万里无云，<font color=MYCOLOR>姜龙</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>儿子姜保</font>。	"Under cloudless skies, <font color=MYCOLOR>Jiang Long</font> quietly <font color=OBJCOLOR>played music</font>, when suddenly [HE] remembered [HIS] <font color=OBJCOLOR>son Jiang Bao</font>."
+15天 09:20	15d 09:20
+<font color=MYCOLOR>姜龙</font>被<font color=OBJCOLOR>浮躁之风</font>的情绪困扰，只能<font color=OBJCOLOR>奏乐</font>来放空心灵。	<font color=MYCOLOR>Jiang Long</font> was troubled by <font color=OBJCOLOR>turbulent qi currents</font> and could only <font color=OBJCOLOR>engaged in musical cultivation</font> to clear [HIS] mind.
+16天 12:12	16d 12:12
+暮色怅晚，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得旁边的<font color=OBJCOLOR>棕石墙</font>很有意思……	"As dusk falls, while <font color=MYCOLOR>Jiang Long</font> is <font color=OBJCOLOR>playing music</font>, [HE] suddenly finds the nearby <font color=OBJCOLOR>Brownstone Wall</font> quite intriguing.."
+16天 17:36	16d 17:36
+夜半时分，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然想去<font color=OBJCOLOR>炼丹峰</font>看看。	"At midnight, <font color=MYCOLOR>Jiang Long</font> suddenly wanted to see <font color=OBJCOLOR>Alchemy Peak</font> while <font color=OBJCOLOR>engaged in musical cultivation</font>."
+18天 23:09	18d 23:09
+四更时分，<font color=MYCOLOR>姜龙</font>在<font color=OBJCOLOR>奏乐</font>时，突然很想家。	"In the fourth watch, <font color=MYCOLOR>Jiang Long</font> suddenly felt homesick while <font color=OBJCOLOR>playing music</font>."
+19天 01:04	19d 01:04
+姜	Jiang
+龙	Long
+师父	Master
+赏	Shang
+寄瑶	Jiyao
+思淼	Simiao
+申	Shen
+语琴	Yuqin
+保	Bao
+建	Jian
+百里	Baili
+眉	Mei
+落木尊者	Wood Deity
+回春尊者	Reviving Spring Venerable
+结丹下品！	core shaping Lower Tier!
+晴空万里，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>凝神望天</font>时，突然流下眼泪。	"Under clear skies, <font color=MYCOLOR>Baili Mei</font> suddenly shed tears while <font color=OBJCOLOR>contemplating the heavens</font>."
+7天 18:34	7d 18:34
+<font color=MYCOLOR>百里眉</font>被<font color=OBJCOLOR>需要武器</font>的情绪困扰，只能<font color=OBJCOLOR>赏月</font>来放空心灵。	<font color=MYCOLOR>Baili Mei</font> is troubled by the emotion <font color=OBJCOLOR>'Need Weapon'</font> and can only <font color=OBJCOLOR>admire the moon</font> to clear [HIS] mind.
+7天 22:50	7d 22:50
+夜深之时，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>跳舞</font>时，脑海中突然浮现<font color=OBJCOLOR>姜龙</font>的模样。	"Late at night, while <font color=MYCOLOR>Baili Mei</font> was <font color=OBJCOLOR>dancing</font>, the image of <font color=OBJCOLOR>Jiang Long</font> suddenly surfaced in [HER] mind."
+10天 23:05	10d 23:05
+晨光初露，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>奏乐</font>时，突然觉得旁边的<font color=OBJCOLOR>灵晶墙</font>很有意思……	"As dawn broke, <font color=MYCOLOR>Baili Mei</font> suddenly found the nearby <font color=OBJCOLOR>Spirit Crystal Wall</font> quite captivating while <font color=OBJCOLOR>playing music</font>.."
+13天 05:52	13d 05:52
+日暮时分，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>跳舞</font>时，不小心扭了一下脚。	"At dusk, <font color=MYCOLOR>Baili</font> accidentally twisted [HER] ankle while <font color=OBJCOLOR>dancing</font>."
+13天 20:43	13d 20:43
+晴空万里，<font color=MYCOLOR>百里眉</font>静静的<font color=OBJCOLOR>跳舞</font>，突然想起自己的<font color=OBJCOLOR>母亲颛孙眸微</font>。	"Under the clear sky, <font color=MYCOLOR>Baili Mei</font> quietly <font color=OBJCOLOR>dances</font>, when suddenly [SHE] remembers [HER] <font color=OBJCOLOR>mother Zhuansun Mouwei</font>."
+14天 11:50	14d 11:50
+四更时分，<font color=MYCOLOR>百里眉</font>静静的<font color=OBJCOLOR>跳舞</font>，突然想起自己的<font color=OBJCOLOR>母亲颛孙眸微</font>。	"During the fourth watch (03:00-05:00), <font color=MYCOLOR>Bai li Mei</font> silently <font color=OBJCOLOR>danced</font>, when suddenly the cultivator recalled <font color=OBJCOLOR>matriarch Zhuansun Mou wei</font>."
+15天 02:39	15d 02:39
+天朗气清，<font color=MYCOLOR>百里眉</font>一个人<font color=OBJCOLOR>奏乐</font>，突然思绪万千。	"On a clear and sunny day, <font color=MYCOLOR>Baili</font> was alone <font color=OBJCOLOR>performing music cultivation</font> when [HER] was suddenly lost in thought."
+15天 11:20	15d 11:20
+门派中，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>奏乐</font>时，忍不住轻声和唱了起来。	"In the sect, <font color=MYCOLOR>Baili Mei</font> couldn't help but hum along softly while <font color=OBJCOLOR>playing music</font>."
+17天 05:51	17d 05:51
+浮躁的气氛中，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>看天花板</font>时，突然发出一声长叹。	"In the restless atmosphere, <font color=MYCOLOR>Baili Mei</font> suddenly gave a deep sigh while <font color=OBJCOLOR>contemplating the ceiling</font>."
+17天 07:31	17d 07:31
+浮躁的气氛中，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>读书品卷</font>时，突然觉得莫名烦躁。	"In the restless atmosphere, <font color=MYCOLOR>Baili Mei</font> suddenly felt inexplicably irritable while <font color=OBJCOLOR>reading scrolls</font>."
+17天 09:41	17d 09:41
+晴空万里，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>奏乐</font>时，脑海中突然浮现<font color=OBJCOLOR>董之柔</font>的模样。	"Under the clear sky, <font color=MYCOLOR>Baili Mei</font> suddenly envisioned <font color=OBJCOLOR>Dong Zhirou</font>'s face while <font color=OBJCOLOR>playing music</font>."
+18天 10:02	18d 10:02
+门派中，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>看天花板</font>时，突然想去<font color=OBJCOLOR>中原</font>看看。	"Within the sect, <font color=MYCOLOR>Baili Mei</font> suddenly wanted to visit <font color=OBJCOLOR>Central Plains</font> while <font color=OBJCOLOR>staring at the ceiling</font>."
+19天 18:34	19d 18:34
+万里无云，<font color=MYCOLOR>百里眉</font>在<font color=OBJCOLOR>跳舞</font>时，不小心踢到了旁边的<font color=OBJCOLOR>灵石墙</font>。	The sky was cloudless. <font color=MYCOLOR>Baili Mei</font> accidentally kicked the nearby <font color=OBJCOLOR>Spirit Stone Wall</font> while <font color=OBJCOLOR>dancing</font>.
+20天 00:42	20d 00:42
+徒弟	Disciple
+西岭	Xiling
+颛孙	Zhuansun
+眸微	Mouwei
+修罗陀	Asura Wheel
+傀儡	Vessel
+董之柔	Dong Zhirou
+百里眉	Baili Eyebrow
+万里无云，<font color=MYCOLOR>席信</font>在<font color=OBJCOLOR>奏乐</font>时，突然想去<font color=OBJCOLOR>七仟坞看看。	"Under cloudless skies, <font color=MYCOLOR>Xi Xin</font> suddenly felt the urge to visit <font color=OBJCOLOR>Seven Thousand Docks</font> while <font color=OBJCOLOR>playing music</font>."
+11天 01:09	11d 01:09
+万里无云，<font color=MYCOLOR>席信</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>父亲席才</font>。	"Under cloudless skies, <font color=MYCOLOR>Xi Xin</font> quietly <font color=OBJCOLOR>played music</font>, when [HE] suddenly remembered [HIS] <font color=OBJCOLOR>father Xi Cai</font>."
+11天 19:04	11d 19:04
+三更时分，<font color=MYCOLOR>席信</font>一个人<font color=OBJCOLOR>奏乐</font>，突然思绪万千。	"In the dead of night, <font color=MYCOLOR>Xi Xin</font> was <font color=OBJCOLOR>playing music</font> alone when suddenly overwhelmed by waves of thoughts."
+12天 00:29	12d 00:29
+门派中，<font color=MYCOLOR>席信</font>在<font color=OBJCOLOR>看天花板</font>时，突然很想家。	"In the sect, <font color=MYCOLOR>Xi Xin</font> was overcome with homesickness during <font color=OBJCOLOR>gazing at the ceiling</font>."
+12天 14:20	12d 14:20
+<font color=MYCOLOR>席信</font>因<font color=OBJCOLOR>心境通明</font>心情不错，忍不住来<font color=OBJCOLOR>看天花板</font>抒怀。	<font color=MYCOLOR>Xi Xin</font> is in a good mood due to <font color=OBJCOLOR>enlightened state of mind</font> and can't help but <font color=OBJCOLOR>stare at the ceiling</font> to express [HIS] feelings.
+13天 14:25	13d 14:25
+门派中，<font color=MYCOLOR>席信</font>在<font color=OBJCOLOR>奏乐</font>时，突然想吃<font color=OBJCOLOR>蛇肉</font>。	"Within the sect, <font color=MYCOLOR>Xi Xin</font> suddenly developed an appetite for <font color=OBJCOLOR>snake meat</font> while <font color=OBJCOLOR>playing music</font>."
+15天 01:31	15d 01:31
+辰时，<font color=MYCOLOR>席信</font>在<font color=OBJCOLOR>读书品卷</font>时，突然很想家。	"At dawn, <font color=MYCOLOR>Xi Xin</font> suddenly felt homesick while <font color=OBJCOLOR>reading scrolls</font>."
+16天 08:44	16d 08:44
+大雨倾盆，<font color=MYCOLOR>席信</font>静静的<font color=OBJCOLOR>看天花板</font>，突然想起自己的<font color=OBJCOLOR>父亲席才</font>。	"The rain poured heavily. <font color=MYCOLOR>Xi Xin</font> quietly <font color=OBJCOLOR>stared at the ceiling</font>, suddenly remembering <font color=OBJCOLOR>his father Xi Cai</font>."
+17天 20:58	17d 20:58
+万里无云，<font color=MYCOLOR>席信</font>静静的<font color=OBJCOLOR>奏乐</font>，突然想起自己的<font color=OBJCOLOR>母亲长孙晓夏</font>。	"Under cloudless skies, <font color=MYCOLOR>Xi Xin</font> quietly <font color=OBJCOLOR>played music</font>, when suddenly the cultivator remembered <font color=OBJCOLOR>matriarch Zhangsun Xiao xia</font>."
+18天 00:43	18d 00:43
+日禺之时，<font color=MYCOLOR>席信</font>一个人<font color=OBJCOLOR>凝神望天</font>，突然思绪万千。	"At late morning, <font color=MYCOLOR>Xi Xin</font> was alone <font color=OBJCOLOR>gazing contemplatively at the sky</font> when [HIM] was suddenly lost in thought."
+18天 10:37	18d 10:37
+<font color=MYCOLOR>席信</font>因<font color=OBJCOLOR>人间绝景</font>心情不错，忍不住来<font color=OBJCOLOR>看天花板</font>抒怀。	<font color=MYCOLOR>Xi Xin</font> is in a good mood due to the <font color=OBJCOLOR>breathtaking scenery</font> and can't help but <font color=OBJCOLOR>stare at the ceiling</font> to express [HIS] feelings.
+20天 02:36	20d 02:36
+席	Xi
+信	Xin
+才	Cai
+长孙	Zhangsun
+晓夏	Xiaoxia
+江南散人	JiangNan Cult
+赤炼尊者	Crimson Refining Venerable
+驻扎	Camp
+扫地	Sweep Floors
+教学	Teaching
+门	School
+存档写入完成	Game Saved
+松豪遇到瓶颈	Song Hao Hits a Bottleneck
+食物储量不足	Insufficient food reserves.
+仰厚需要砍伐工具	Yang Hou needs a tool for chopping
+药物储量不足	Insufficient medicine reserves.
+轩辕士：受伤	Xuanyuan Shi: hurt.
+出现镇物！	Warding Object Appeared!
+董之柔心境不稳	Dong Zhirou's mental state is unstable
+姜龙心境不稳	Jiang Long's Mind is Unstable
+天下传闻	World Adventure
+天苍246年 春 第18日	Tiancang Year 246 Spring Day 18
+据传栖霞洞天派中飞升的尊长突然降下大量恩赐，门派实力大涨。	"Whispers say ascended elders of Qixia Grotto suddenly showered the sect with boons, vastly increasing its strength."
+据传昆仑宫门中一名闭关千余年的长老严壮成功修成大法出关。昆仑宫再添一名大能。	"Rumors say Elder Yan Zhuang of Kunlun Palace successfully completed his millennium-long seclusion, mastering a grand technique. The sect gains another supreme expert."
+丹霞洞天的大能夏泰已在炼丹峰失去了踪迹	The mighty Xia Tai of Danxia Cave-Heaven has vanished without a trace at Alchemy Peak
+青莲剑宗的大能商瑾已在南屏村失去了踪迹	The mighty Shang Jin of Azure Lotus Sword Sect has vanished without a trace at Nanping Village
+天苍246年 春 第19日	Tiancang Year 246 Spring Day 19
+据传极天宫于月轮山击败烛龙，收获大量宝材灵物，门派实力大涨。	"Reports claim the Jitian Palace vanquished the Candle Dragon at Moonwheel Mountain, harvesting rare treasures to bolster their power."
+据传百蛮山于炼丹峰击杀凶凤，收获大量宝材灵物，门派实力大涨。	"Rumors tell of Baiman Mountain overcoming the Dire Phoenix at Alchemy Peak, acquiring spiritual treasures to enhance their might."
+近日，青莲剑宗最受长辈宠爱的小弟子与七杀魔宫的几名弟子在云台山附近发生了摩擦，之后冲突连续升级，甚至引动双方门派长老叠出，竟演变为一场大规模的斗法。	"Recently, a minor dispute occurred between the most favored junior disciple of Qinglian Sword Sect and several disciples of Seven Slaughter Demon Palace near Yuntai Mountain. The conflict escalated continuously, even involving elders from both sects, eventually evolving into a large-scale magical battle."
+此役持续月余，死伤无算，青莲剑宗最终失败，其门派实力大损。七杀魔宫却大有所获，门派实力大增。此役之后，两派的关系也大大恶化了。	"This battle lasted over a month with countless casualties. The Azure Lotus Sword Sect ultimately suffered defeat, their strength greatly diminished. Meanwhile, the Seven Slaughter Demon Palace reaped significant gains, greatly increasing their power. Relations between the two factions deteriorated sharply thereafter."
+天苍246年 春 第20日	Tiancang Year 246 Spring Day 20
+据传紫霄宗的大能罗博在小凉山出没。	It's said the mighty Luo Bo of Zixiao Sect has been spotted at Xiaoliang Mountain.
+据传百蛮山派中天地灵根成熟，引动天道波动，灵气汇聚。受此泽被，整个门派实力大增。	"Rumors speak of the Hundred Savage Peaks' World Spirit Root reaching maturity, stirring heavenly dao fluctuations and gathering spiritual energy. Blessed by this event, the entire sect's power has greatly increased."
+据传七杀魔宫的长老在百蛮山附近游历时，遇到几名百蛮山的弟子切磋。七杀魔宫的长老心情不错，指点了一下百蛮山弟子的修行，其中一名弟子竟然当场突破。此事亦在修行界传为美谈，两派的关系也因此略有提升。	"Rumors say an elder from the Qisha Mo Palace encountered several Bai Man Mountain disciples during travels near their territory. In good spirits, the elder offered cultivation guidance, resulting in one disciple achieving a breakthrough on the spot. This heartwarming tale spread through cultivation circles, slightly improving relations between the sects."
+紫霄宗的大能宰璧已在南屏村失去了踪迹	The mighty Zai Bi of Zixiao Sect has disappeared from Nanping Village
+天苍246年 春 第21日	Tiancang Year 246 Spring Day 21
+据传丹霞洞天于五华村击杀凶凤，收获大量宝材灵物，门派实力大涨。	"Rumors say Danxia Grotto subdued the Dire Phoenix at Wuhua Village, acquiring rare materials to enhance the sect's power."
+据传合欢派优化了派中核心阵法，门派实力大涨。	"Rumors say Harmony Joy Sect has optimized their core array, greatly enhancing their strength."
+据传昆仑宫优化了派中核心阵法，门派实力大涨。	"Rumors say Kunlun Palace has optimized their core array, greatly enhancing their strength."
+天苍246年 春 第22日	Tiancang Year 246 Spring Day 22
+据传昆仑宫的大能钟起灵在月轮山出没。	Rumors say the mighty Zhong Qiling of Kunlun Palace has been spotted at Lunar Cycle Mountain.
+据传栖霞洞天的大能尤士在小凉山出没。	It's said the mighty You Shi of Qixia Grotto-Heaven has been spotted at Xiaoliang Mountain.
+据传青莲剑宗在稻香村寻找到一家上古宗派的洞天小世界，一番收获下，门派实力大涨。	"Rumors say the Azure Lotus Sword Sect discovered a pocket dimension of an ancient sect in Fragrant Rice Village. After reaping bountiful Harvest, their strength has greatly increased."
+据传昆仑宫于芦墟村击败烛龙，收获大量宝材灵物，门派实力大涨。	"Tales recount Kunlun Palace's victory over the Candle Dragon at Luxu Village, obtaining spiritual treasures to amplify their strength."
+天苍246年 春 第23日	Tiancang Year 246 Spring Day 23
+丹霞洞天的大能霍离已在南屏村失去了踪迹	The mighty Huo Li of Danxia Cave-Heaven has vanished without a trace at Nanping Village
+极天宫的大能嵇力已在小凉山失去了踪迹	The mighty Ji Li of Jitian Palace has disappeared from Xiaoliang Mountain
+正一道的大能公羊慕灵已在炼丹峰失去了踪迹	The mighty Gongyang Muling of Zhengyi Dao has vanished without a trace at Alchemy Peak
+青莲剑宗的大能毛史定已在铜陵山失去了踪迹	The mighty Mao Shiding of Azure Lotus Sword Sect has vanished without a trace at Tongling Mountain
+青莲剑宗的大能宣商震已在铜陵山失去了踪迹	The mighty Xuan Shangzhen of Azure Lotus Sword Sect has vanished without a trace at Tongling Mountain
+七仟坞的大能蓝风已在月轮山失去了踪迹	The mighty Lan Feng of Seven Thousand Docks has vanished without a trace at Lunar Cycle Mountain
+据传正一道的弟子在雪风原附近游历时，遇到一名极天宫的长老炼法。正一道的弟子陪侍左右，四方奔走，深的极天宫的长老欢心。事成之后竟然得了该长老的一场大机缘。此事在修行界传为一段佳话，两派的关系也因此略有提升。	"It's said that when disciples of Zhengyi Dao were traveling near Snowwind Plains, they encountered an elder of the Polar Heaven Palace practicing cultivation. The disciples attended to the elder diligently, running errands in all directions, and greatly pleased the elder. Upon completion, they were granted a great opportunity by the elder. This became a celebrated tale in the cultivation world, slightly improving relations between the two sects."
+近日，丹霞洞天与合欢派同时发现一处平顶山附近的洞府残迹，据说此处留存有上古一名大能的道统，至关重要。双方为争夺此地机缘精锐尽出，展开了激烈的斗法。	"Recently, both Danxia Grotto-Heaven and the Joyous Union Sect simultaneously discovered remnants of an ancient cave dwelling near Flat-Top Mountain. It's said this site preserves the legacy of a mighty cultivator from antiquity, making it critically important. Both factions deployed their elite forces to seize this opportunity, engaging in fierce arcane battles."
+几经争斗，合欢派最终成功得到此处仙府，门派实力大涨。丹霞洞天却损失惨重，门派实力大损。此役之后，两派的关系也大大恶化了。	合欢宗经过一番争夺，终于夺得这处洞天福地，实力大增。丹霞洞天在此战中损失惨重，势力大减。两派经此一役，关系急剧恶化
+据传极天宫于小凉山击败烛龙，收获大量宝材灵物，门派实力大涨。	"Legends say Jitian Palace subdued the Candle Dragon at Xiaoliang Mountain, gaining precious materials to strengthen the sect."
+天苍246年 春 第24日	Tiancang Year 246 Spring Day 24
+据传丹霞洞天的大能伏涛在月轮山出没。	Rumors say the mighty Fu Tao of Danxia Cave-Heaven has been spotted at Lunar Cycle Mountain.
+据传栖霞洞天的大能师美在月轮山出没。	It's said the mighty Shi Mei of Qixia Grotto-Heaven has been spotted at Moonwheel Mountain.
+据传百蛮山的大能段旭在南屏村出没。	It's said the mighty Duan Xu of Baiman Mountain has been spotted in Nanping Village.
+据传七杀魔宫的大能蒙亦瑶在小凉山出没。	Rumors say the mighty Meng Yiyao of Seven Kill Demon Palace has been spotted at Little Cold Mountain.
+据传青莲剑宗于小凉山击杀凶凤，收获大量宝材灵物，门派实力大涨。	"Word spreads that Green Lotus Sword Sect overcame the Dire Phoenix at Xiaoliang Mountain, gaining spiritual treasures to strengthen the sect."
+据传七仟坞的弟子在紫霄宗附近游历时，遇到几名紫霄宗的弟子。双方结伴历练，闯荡一番，在近期修行界也算搅动一些风云，闯出了一些名声。两派的关系也因此略有提升。	"Rumors say that when disciples of the Seven Thousand Islets Sect were adventuring near the Zixiao Sect, they encountered several Zixiao disciples. Traveling together, they stirred up some commotion in the recent cultivation world and gained some renown. Relations between the two sects improved slightly as a result."
+据传合欢派于南屏村击杀凶凤，收获大量宝材灵物，门派实力大涨。	"Whispers say the Joyous Union Sect killed the Dire Phoenix at Southscreen Village, obtaining spiritual materials to strengthen the sect."
+天苍246年 春 第25日	Tiancang Year 246 Spring Day 25
+紫霄宗的大能罗博已在小凉山失去了踪迹	The mighty Luo Bo of Zixiao Sect has disappeared from Xiaoliang Mountain
+据传一个隐居深海的小宗门为逃避海中巨妖的威胁而逃往大陆，举派投靠了青莲剑宗，青莲剑宗因此门派实力大增。	传闻有躲藏在深海的小门派为躲避海妖威胁逃到大陆，向青莲剑宗投诚，使其势力大增
+据传百蛮山于铜陵山击杀蛟龙，收获大量宝材灵物，门派实力大涨。	"Reports say Baiman Mountain overcame the Flood Dragon at Bronze Ridge Mountain, acquiring spiritual materials to enhance their might."
+据传一个隐居深海的小宗门为逃避海中巨妖的威胁而逃往大陆，举派投靠了栖霞洞天，栖霞洞天因此门派实力大增。	传闻有躲藏在深海的小门派为躲避海妖威胁逃到大陆，向栖霞洞天投诚，使其势力大增
+据传紫霄宗于铜陵山击杀凶凤，收获大量宝材灵物，门派实力大涨。	"Tales spread of Zixiao Sect slaying the Dire Phoenix at Bronze Ridge Mountain, securing rare treasures to bolster their power."
+不知何故，近日青莲剑宗竟发动大量门下弟子对紫霄宗山门展开围攻，双方于此各布仙阵，搅动数百里方圆天象崩乱，修行界为之震动。	青莲剑宗近日不知何故，调集大批弟子围攻紫霄宗山门。双方布下仙阵，数百里天象紊乱，震动修真界
+占据地利背靠山门之故，紫霄宗最终胜利，其门下弟子亦从斗法中多有提升突破，门派实力大涨。青莲剑宗却损失惨重，门派实力大损。此役之后，两派的关系也大大恶化了。	"Due to occupying favorable terrain with their mountain gate at their back, the Purple Firmament Sect emerged victorious. Their disciples achieved breakthroughs through the combat, greatly enhancing the sect's strength. The Azure Lotus Sect suffered heavy losses, significantly weakening their power. After this battle, relations between the two sects deteriorated sharply."
+天苍246年 春 第26日	Tiancang Year 246 Spring Day 26
+据传七杀魔宫的大能赤丹秋在月轮山出没。	Rumors say the mighty Chi Danqiu of Seven Kill Demon Palace has been spotted at Lunar Cycle Mountain.
+据传青莲剑宗的大能盛敬在小凉山出没。	It's said the mighty Sheng Jing of Qinglian Sword Sect has been spotted at Xiaoliang Mountain.
+据传合欢派的大能柴滢在炼丹峰出没。	It's said the mighty Chai Ying of Joyous Union Sect has been spotted at Alchemy Peak.
+据传昆仑宫在月轮山寻找到一家上古宗派的洞天小世界，一番收获下，门派实力大涨。	Rumors say Kunlun Palace discovered a pocket dimension belonging to an ancient sect in Moonwheel Mountain. Their harvest greatly strengthened the sect.
+据传紫霄宗优化了派中核心阵法，门派实力大涨。	"Rumors say Violet Heaven Sect has optimized their core array, greatly enhancing their strength."
+据传正一道寻到一名上古器修的洞府，获得大量元神寄托的灵器，门派实力大涨。	"Rumors say Zheng Yi Dao discovered an ancient Artifact Cultivator's cave, obtaining numerous spirit tools housing remnant souls, greatly boosting their sect's power."
+天苍246年 春 第27日	Tiancang Year 246 Spring Day 27
+昆仑宫的大能钟起灵已在月轮山失去了踪迹	The mighty Zhong Qiling of Kunlun Palace has vanished without a trace at Lunar Cycle Mountain
+栖霞洞天的大能尤士已在小凉山失去了踪迹	The mighty You Shi of Qixia Grotto has vanished without a trace at Little Cold Mountain
+据传七杀魔宫的长老在中原附近游历时，巧遇一名紫霄宗的长老讲道，七杀魔宫的长老隐匿自己的行踪，设计拆台，竟然让紫霄宗的讲道变为一场闹剧，紫霄宗声望大跌。此事传出，在近日修行界成为笑柄，两派的关系也恶化了许多。	"It's said that when an elder of the Seven Slaughter Demonic Palace was traveling near the Central Plains, they coincidentally encountered an elder of the Violet Sky Sect imparting cultivation wisdom. The demon palace elder concealed their presence and sabotaged the event, turning the lecture into a farce and greatly damaging the Violet Sky Sect's reputation. This incident became a laughingstock in the cultivation world recently, severely worsening relations between the two sects."
+据传紫霄宗寻到一名上古器修的洞府，获得大量元神寄托的灵器，门派实力大涨。	"Rumors say Zixiao Sect discovered an ancient Artifact Cultivator's cave, obtaining numerous spirit tools housing remnant souls, greatly boosting their sect's power."
+轩辕士感到危险	Xuanyuan Shi senses danger
+百里眉心境不稳	Baili Mei's mental state is unstable
+百里眉拜董之柔为师	Baili Mei became Disciple of Zhirou
+姜龙拜百里眉为师	Jiang Long becomes Baili Mei's disciple
+路人需要帮助	Passerby in Need
+百里眉：受伤	Baili Mei: hurt.
+雅艺	Artisanry
+席信的技能雅艺升级了	Xi Xin's Artisanry skill has leveled up
+化形镇神神雷	Shapeshift Spirit-Suppressing Thunder
+丙火金刚真言	Binghuo Vajra Mantra
+奔烈覆天神雷	Galloping Heaven-Covering Thunder
+天火飞星神雷	Celestial Fire Shooting Star Divine Thunderbolt
+奠基宝典	Scripture of Foundation Laying
+少量的	Slightly
+奠基秘册	Foundation Secret Manual
+奠基经	Foundation Scripture
+金刚宝典	Diamond Tome
+五戒奠基秘法	Five Precepts Foundation Secret Art
+中量的	Visibly
+辟谷要诀	Essential Formula of Fasting
+微草佛心宝典	Tiny Grass Buddha-Heart Codex
+黄芽合一册	Yellow Sprout Unity Volume
+五内琢玉通卷	Five Organs Jade-Carving Tome
+凌霄决意神功	Heavenly Resolve Divine Art
+大量的	Greatly
+奔烈合一要诀	Fusion of Swiftness and Fury
+凌霄摄神	Firmament Spirit Capture
+海量的	Massively
+御木诀	Wood Control Formula
+元坤妙法	Yuan Kun Marvelous Method
+醍醐灌顶之术	Enlightenment Bestowal Technique
+凌霄沃野密卷	Heavenly Vault Fertile Field Secret Scroll
+赋灵术	Spirit Infusion Art
+五泉涤心法	Five Springs Heart-Cleansing Method
+先天罡气	Innate Gang Qi
+化伤术	Wound Transformation Art
+天霖诀	Heavenly Rain Formula
+天一真法	True Method of Tian Yi
+水镜观心定	Water Mirror Heart-Calming Method
+同风诀	Shared Wind Technique
+归海诀	Sea-Return Technique
+九阴真水界	Nine Yin True Water Realm
+罡煞合流	Convergence of Gangsha
+金刚诀	Diamond Sutra
+霹雳陨星	Meteor of Thunderbolt
+五台覆灭诀	Five Terraces Annihilation Art
+三才飞星诀	Three Talents Shooting Star Art
+咒神宝典	Curse God Treasure Canon
+咒神	Curse God
+急诵宝典	Rapid Chant Tome
+霹雳归藏	Secret of Gui Cang
+大日咒神	Great Sun Curse God
+多宝急诵卷	Treasure Rapid Chant Scroll
+西海归祖七签	West Sea Ancestral Return Seven Signs
+神佑记	Divine Protection Record
+清心	Clear Heart
+饕餮秘法	Gluttony Art
+震雷百炼纲要	Shocking Thunder Refinement Compendium
+勾陈鲸吞纪要	Gouchen Devouring Compendium
+多宝沃野	Many Treasures Fertile Land
+震雷百炼通卷	Complete Scroll of Thunder Refinement
+赤霄宫佛心书	Red Firmament Palace Buddha Heart Scripture
+六气神农通卷	Six Qi Divine Farmer Compendium
+少林合一书	Shaolin Unity Canon
+凝珀诀	Amber Condensation Formula
+炼制灵晶之术	Spirit Crystal Production Technique
+玉液炼形诀	Jade Fluid Body-Refining Art
+药典	Herbal Codex
+明目诀	Bright Eyes Technique
+菁华诀	Essence Formula
+灵息诀	Spirit Breath Technique
+清心咒	Serene Heart Curse
+百草金石录	Hundred Herbs Metal-Stone Record
+开炉九诀	Nine Formulas of Furnace Opening
+归元诀	Origin Return Formula
+新体诀	New Body Technique
+入定之术	Art of Meditation
+洗心咒	Heart-Cleansing Curse
+太上丹经	Elixir Scripture of Supreme Being
+秘宝：神农鼎	Artifact: Divine Farmer's Cauldron
+太上内经	Supreme Internal Classic
+无漏之身	Flawless Body
+再造术	Rebuilding Art
+道德清净法	Taoist Purity Method
+道心	Dao Heart
+秘宝：离地焰光旗	Treasure: Fiery Light Flag of Lidi
+速炼法	Rapid Refining Method
+炼身法-速	Body Refinement - Speed
+精炼法	Refinement Method
+炼身法-精	Body Refinement - Essence
+神炼法	Divine Refinement Method
+炼身法-神	Body Refinement - Spirit
+伐毛洗髓之术	Bone Cleansing Technique
+再造形神之术	Body-Spirit Reformation Art
+开天眼之术	Third Eye Opening Art
+天道神丹	Divine Elixir of Heavenly Dao
+天道神器	Divine Artifact of Heavenly Dao
+赤炎覆天真言	Crimson Sky-Covering Mantra
+道基流光神雷	Dao Foundation Flowing Light Divine Thunder
+阴阳流光真言	Incantation of Yin-Yang Radiant Light
+急诵	Urgent Chant
+急诵秘法	Rapid Chant Art
+崩天经	Sky-Sundering Sutra
+朱雀归藏九卷	Vermilion Bird Nine Seals of Return
+五戒急诵秘诀	Five Precepts Rapid Chanting Secret Formula
+道基崩天密卷	Secret Scroll of Dao Foundation Heaven-Shattering
+焚日金刚宝典	Blazing Sun Vajra Canon
+东华咒神	Donghua Curse God
+丙火急诵宝典	Fiery Recitation Codex
+御气崩天经	Qi-Control Heaven-Shattering Scripture
+丁火千钧秘诀	Ding Fire (Yin Fire) Thousand Jun Secret Art
+鲸吞秘传	Leviathan's Maw Secret Transmission
+长生辟谷要诀	Longevity Fasting Formula
+龙虎神视要诀	Dragon-Tiger Divine Vision Essence
+赤霄宫神龟宝典	Red Sky Palace's Divine Turtle Treasure Canon
+赤炎佛心	Buddha Core of Blazing
+炽凰沃野丹方	Phoenix Fertile Formula
+华山妙手	Hua Mountain Mastery
+御神妙手要诀	Divine Control Skilled Hands Formula
+玄牝重生法	Mystic Feminine Rebirth Method
+少林覆天真言	Shaolin Sky-Covering Mantra
+御气陨星真言	Incantation of Qi-Guided Meteor
+归藏要诀	Essential Formula of Gui Cang
+千钧	Thousand Jun
+崩天秘诀	Sky-Sundering Secret Technique
+归源咒神九卷	Origin-Return Curse Nine Scrolls
+嵩山咒神九卷	Songshan Curse God Nine Scrolls
+惊波归藏七签	Startling Waves Seven Seals of Return
+白帝宫归藏卷	White Emperor Palace Return Scroll
+六气急诵九卷	Six Qi Rapid Chanting Nine Scrolls
+彻法归藏秘法	Law-Penetrating Return Esoterica
+壬癸崩天	Ren Gui Sky-Sundering
+三才归藏	Three Talents Returning to the Source
+合一册	Unity Manual
+百炼	Hundred Refinements
+玄武神农秘要	Black Tortoise Divine Farmer Secret Essentials
+黄庭鲸吞纪要	Yellow Court Devouring Compendium
+嵩山鬼手宝册	Song Mountain Ghost Hand Manual
+勾陈摄神典	Gou Chen Soul-Snatching Canon
+逆浪佛心记	Countercurrent Buddha Heart Records
+杜国真人佛心记	Record of Du Guo True Person's Buddha Heart
+百汇摄神秘要	Hundred Convergence Soul-Snatching Secret
+魂体寄生	Soul Parasitism
+慧剑斩念	Wisdom Sword Severing Thoughts
+玄机心光咒	Mystic Heart Light Curse
+太乙金刚神雷	Taiyi Vajra Divine Thunder Technique
+壬水化伤	Ren Water Transforms Wounds
+崩天宝典	Scripture of Heaven Sundering
+咒神七签	Seven Signs of Curse Spirit
+百炼要诀	Hundred Refinements Essentials
+摄神记	Soul-Snatching Record
+现在贤神佑要诀	Present Sage's Divine Protection Key
+新境通慧	New Realm Enlightenment
+百汇通慧典	Bai Hui Wisdom Canon
+灵淬之法	Spirit Refinement Method
+尤灵雁上仙燃灵诀	Immortal You Lingyan's Spirit Burning Art
+辛金接天神雷	Metallic Heaven-Touching Lightning
+阴阳九极	Nine Extremes of Yin Yang
+急诵卷	Haste Recitation Scroll
+迅击秘诀	Swift Strike Secret Art
+百炼秘传	Secret Transmission of Hundred Refinements
+少林鬼手密卷	Shaolin Ghost Hand Secret Scroll
+金雷合一记	Golden Thunder Unity Records
+搜魂大法	Soul-Searching Great Method
+风水鉴定	Geomancy Appraisal
+麒麟落花神雷	Qilin Falling Blossoms Lightning
+崩天七签	Seven Signs of Heaven-Shattering
+蓄神秘法	Spirit Accumulation Art
+五内混元式	Five Viscera Hybrid Form
+赤日奠基经	Crimson Sun Foundation Scripture
+百草阁咒神七签	Hundred Herbs Pavilion's Curse God Seven Signs
+入道归藏经	Dao Initiation Returning Treasury Scripture
+阴阳鬼手卷	Yin-Yang Ghost Hand Scroll
+彻法归藏卷	Thorough Method Returning to the Source Scroll
+冥灵真法	Nether Spirit True Method
+灵犀咒	Soul Resonance Curse
+流光咒	Flowing Light Curse
+断岳先天一气咒	Mountain-Severing Innate Qi Grand Mantra
+现在贤清心真言	Present Sage's Serenity Incantation
+斩天流光	Sky-Severing Flowing Light
+咒神秘法	Curse Spirit Art
+归藏卷	Hidden Return Scroll
+咒神卷	Curse God Scroll
+白虎崩天九卷	White Tiger Heaven-Sundering Nine Scrolls
+辛金崩天经	Xin Metal Heaven-Shattering Scripture
+鬼手秘传	Ghost Hand Secret Transmission
+鬼手要诀	Ghost Hand Key Formula
+气摄经	Qi Absorption Sutra
+庚辛鲸吞秘传	Geng-Xin (Metal Phase) Devouring Secret Art
+震雷神视秘法	Secret Method of Thunder Spirit Vision
+赤月饕餮纪要	Crimson Moon Gluttony Compendium
+本源多宝纲要	Compendium of Essence Treasures
+天金合一记	Celestial Metal Unity Records
+庚金鬼手要诀	Gengjin Ghost Hand Formula
+周天神算	Universal Foresight
+阴神夺舍	Lesser Possession
+形容之蚀	Corrosion of Form
+形容返照	Form Reflection
+血骨炼形	Blood and Bone Refinement
+龟息诀	Turtle Breath Technique
+五感之蚀	Corrosion of Five Senses
+五感返照	Five Senses Reflection
+蛰命法	Life-Hibernation Method
+献祭	Sacrifice Offering
+神智之蚀	Erosion of Divine Wisdom
+神智返照	Wisdom Reflection
+鼎炉吸真术	Cauldron Essence Absorption Art
+天魔解体大法	Demon Disintegration Art
+欺天	Heaven-Deceiving
+窃天	Heaven Stealer
+阳神夺舍	Greater Possession
+气运之蚀	Erosion of Qi Fortune
+气运返照	Qi Fortune Reflection
+九幽返照	Nine Nethers Reflection
+浊之躯	Turbid Flesh
+护体血罡	Blood Aura Body Protection
+凝血神盾	Blood Coagulation Divine Shield
+偷天	Sky Thief
+换日	Sun Replacer
+秘宝：偷天七绝针	Treasure: Seven Ultimate Heaven-Stealing Needles
+碧光落花神雷	Emerald Light Falling Blossoms Thunder
+归真覆天真言	Return to Truth Heaven-Overturning Mantra
+圆转剑	Circular Flow Sword
+通慧	Wisdom Channel
+黄芽多宝	Yellow Sprout Treasures
+大日决意要诀	Solar Resolve Formula
+归真万古神功	Return to Truth Eternal Divine Technique
+天心正法	Righteous Method of Heavenly Heart
+心印诀	Chant of Resonance
+蜀山蓄神宝典	Shu Mountain Spirit-Storing Canon
+初解流光咒	Initial Radiance Curse
+飞星神雷	Divine Thunder of Flying Stars
+知节回春咒	Discipline Revival Curse
+忘情九极真言	Nine Extremes of Detachment Mantra
+咒神九卷	Curse God Nine Scrolls
+咒神秘诀	Curse God Secret Art
+知节急诵经	Discipline Rapid Chant Scripture
+龙虎崩天秘要	Dragon-Tiger Heaven-Shattering Secret Essentials
+佛心	Buddha Heart
+佛心典	Buddha Heart Canon
+初解气摄	Primordial Qi Absorption
+东华归祖经	Eastern Glory Ancestral Return Scripture
+玄关合一册	Mystic Pass Unity Manual
+化形圆转十三式	Thirteen Forms of Shapeshifting Circular Flow
+大衍神算	Derivative Calculation
+吸星掌	Star-Sucking Palm
+幽淬之法	Ghostly Tempering Technique
+大日金刚	Vajra of the Great Sun
+混元剑诀	Primordial Chaos Sword Formula
+破灭十式	Ten Forms of Annihilation
+破灭	Annihilation
+曳影	Flickering Shadow
+神佑书	Divine Protection Manual
+气摄神功	Qi Control Divine Power
+百炼纲要	Hundred Refinements Compendium
+鲁绮思上仙气摄	Immortal Lu Qisi's Soul Devouring
+新境百炼纲要	New Realm Refinement Compendium
+勾陈佛心	Gouchen Buddha Heart
+大日鲸吞经	Solar Flare Devouring Scripture
+太乙琢玉密卷	Taiyi Jade-Carving Scripture
+鸿蒙蓄神	Spirit Accumulation of Primordial Chaos
+御灵术	Spirit Control Art
+彻法辟谷宝典	Fasting Canon of Ultimate Law
+流光真言	Flowing Light True Words
+天火天星	Celestial Fire Heavenly Star
+圆转决	Circular Flow Technique
+混元宝典	Scripture of Hybrid Origin
+天火千钧剑	Heavenly Fire Thousand Jun Sword
+丁火迅影剑	Ding Fire Swift Shadow Sword
+燃魂破灭决	Soul-Burning Annihilation Decision
+微草破灭七式	Tiny Grass Annihilation Seven Forms
+赤炎破灭式	Blazing Flame Destruction Form
+炽凰蓄神	Blazing Phoenix Spirit Accumulation
+鲸吞纪要	Whale Devour Compendium
+鲸吞秘法	Leviathan's Maw Secret Method
+神视经	Divine Sight Scripture
+丙火百炼纲要	Essence of Fiery Refinement
+少林摄神密卷	Shaolin [Buddhist] Mind Control Scripture
+天火合一	Union of Celestial Fire
+托体同山诀	Body-Entrusting Mountain Art
+紫薇震地咒	Purple Tenuity Earth-Shaking Curse
+逆浪落花诀	Countercurrent Blossom Art
+东华镇神诀	Eastern Splendor Spirit-Suppressing Art
+决意秘要	Resolute Secret Essentials
+过去庄严沃野宝册	Past Majesty Fertile Fields Treasure Manual
+神视	Divine Sight
+神视宝典	Divine Vision Tome
+神佑密卷	Secret Scroll of Divine Blessing
+勾陈决意密卷	Gouchen Resolve Scroll
+万源归真摄神典	Ten Thousand Sources Return to Truth Soul Devouring Canon
+修蛇通慧书	Serpent Wisdom Tome
+金丹神农药典	Golden Core Divine Farmer Herbology
+五台清心神功	Wutai Serenity Divine Art
+化形摄神书	Shapeshift Spirit-Snatching Tome
+万源归真摄神册	Ten Thousand Sources Return to Truth Soul Devouring Scripture
+风月幻境	Illusory Realm of Wind and Moon
+赤日通慧记	Crimson Sun Wisdom Record
+紫云宫鲸吞	Purple Cloud Palace Whale Devour
+御气急诵秘诀	Qi Control Rapid Chant Secret Art
+长生通天咒	Longevity Heaven-Piercing Curse
+通天诀	Heaven-Piercing Technique
+坤元密卷	Kunyuan Secret Scroll
+迅影七式	Seven Forms of Swift Shadow
+坤元宝典	Kun Yuan Scripture
+圆转秘法	Circular Flow Secret Method
+甲木圆转十式	Wooden Cyclic Ten Forms
+入道破灭秘诀	Dao-Entry Annihilation Esoterica
+乙木蓄神	Yi Wood Spirit Accumulation
+冷月迅击剑	Frostmoon Swift Strike Sword
+华山千钧剑诀	Mount Hua's Thousand Jun Sword Art
+东海蓄神七式	East Sea Spirit Storage Seven Forms
+长生迅击十式	Longevity Blitz Ten Forms
+况承真人神龟纪要	Real Person Kuang Cheng's Divine Turtle Summary
+百炼通卷	Hundred Refinements Manual
+万木决意经	Ten Thousand Woods Resolve Scripture
+赤日多宝秘要	Crimson Sun Treasure Secret Essentials
+苍木百炼通卷	Ancient Wood Refinement Complete Scroll
+苍龙气摄	Azure Dragon Qi Absorption
+现在贤百炼秘法	Present Sage's Hundred Refinements Secret Art
+紫霄妙手通卷	Purple Firmament Dexterity Tome
+大日五气	Five Qi of Great Sun
+天星真言	Heavenly Star True Words
+奠基	Foundation Laying
+奠基密卷	Foundation Secret Scroll
+少林急诵	Shaolin Rapid Chant
+鲸吞	Whale Devourer
+百汇决意秘传	Convergence Resolve Esoterica
+大日鲸吞纪要	Great Sun Devouring Compendium
+武当佛心宝典	Wudang Buddha Heart Canon
+未来星宿百炼密卷	Future Constellations Hundred Refinements Secret Scripture
+南海辟谷纪要	South Sea Fasting Compendium
+时氏多宝通卷	Shi Clan Treasure Compendium
+玄武千钧剑	Black Tortoise Thousand Jun Sword
+百炼诀	Hundred Refinements Formula
+博物志	Naturalist's Journal
+上清真气	Shangqing True Qi
+灵淬法	Spirit Tempering Method
+炼器十要	Ten Essentials of Artifact Refining
+炼制灵石之术	Art of Crafting Spirit Stones
+琢玉册	Jade-Carving Manual
+丙丁雷泽火	Fire Thunder Marsh Flame
+神火合一·雷泽	Flame Fusion - Thunder Marsh
+上清先天真焰	Shangqing Primordial True Flame
+神火合一·上清	Divine Fire Unity · Supreme Clarity
+心焰	Heart Flame
+神火合一·心焰	Divine Fire Unity · Heart Flame
+上清秘传造化真解	Shangqing Secret Tradition Creation True Explanation
+彻法无形神雷	Formless Divine Thunder of Ultimate Law
+现在贤落花真言	Present Sage's Petals Fall Divine Pronouncements
+知节覆天	Season-Overturning Heaven
+微草清心要诀	Tiny Grass Clarity Formula
+炽凰神佑	Blazing Phoenix Divine Blessing
+入道饕餮神功	Path Initiation Gluttony Divine Art
+紫火神视	Purple Fire Divine Vision
+炽凰决意秘传	Phoenix Resolve Esoterica
+未来星宿万古经	Future Constellations Eternal Scripture
+六气千钧	Six Qi Thousand Jun
+大日燃灵神雷	Great Sun Soul-Burning Divine Thunder
+六气不坏神雷	Six Qi Indestructible Thunder
+东华覆天咒	Eastern Splendor Heaven-Sundering Curse
+崩天卷	Sky-Sundering Scroll
+沃野	Fertile Fields
+丙丁咒神秘诀	Bing-Ding Curse God Formula
+大日急诵经	Solar Flare Rapid Chant Scripture
+赤日归祖宝典	Crimson Sun Ancestral Codex
+玄关咒神	Mystic Pass Curse God
+嵩山归藏	Song Mountain Returning
+清心纪要	Serene Mind Manual
+清心神功	Divine Art of Heart Cleansing
+决意密卷	Resolute Secret Scroll
+天火决意秘法	Celestial Fire Resolve Esoterica
+忘情辟谷要诀	Emotionless Fasting Formula
+太乙辟谷神功	Taiyi Fasting Divine Art
+燃魂辟谷秘传	Soul-Burning Fasting Secret Transmission
+六壬神算	Astrological Foresight
+过去庄严落花咒	Past Dignity Petals Fall Grand Mantra
+玄金金刚真言	Mystic Gold Vajra Mantra
+归藏九卷	Secret of Gui Cang
+五内咒神秘诀	Secret Technique of Five Organs Curse God
+入道妙手秘法	Path Initiation Skilled Hands Secret Method
+御气鬼手通卷	Qi Control Ghost Hand Complete Scroll
+三才神佑密卷	Triple Harmony Divine Protection Scroll
+赤霄宫沃野秘要	Red Sky Palace's Fertile Plains Secret Key
+斩天神视经	Sky-Sundering Divine Vision Scripture
+御神通慧典	divine Wisdom Canon
+辛金合一	Xin Metal Unity
+玄金决意纪要	Mystic Metal Resolve Compendium
+沃野丹方	Fertile Land Elixir Formula
+飞星真言	Shooting Star Mantra
+己土回魂咒	Ji Earth Soul Return Curse
+微草陨星诀	Herbal Meteor Art
+万里合一	Ten Thousand Li Unity
+炎神殿咒神秘诀	Flame God Hall's Curse God Secret Technique
+五戒崩天	Five Prohibitions Heaven-Shattering
+新境归藏卷	New Realm Hidden Knowledge Scroll
+地龙辟谷秘诀	Earth Dragon Fasting Esoterica
+归真破灭秘诀	Return to Truth Annihilation Esoterica
+合一书	Unity Book
+通慧秘法	Secret Method of Universal Wisdom
+佛心书	Buddha Heart Scripture
+黄芽通慧记	Yellow Sprout Wisdom Records
+彻法沃野宝册	Thorough Method Fertile Field Treasure Manual
+入道鲸吞	Dao-Whale Devour
+华山神佑册	Huashan Divine Protection Manual
+六气神佑宝典	Six Qi Divine Protection Canon
+地龙饕餮	Dilong Gluttony
+回春咒	Spring Return Curse
+逆浪陨星神雷	Counterwave Meteor Thunder
+急诵密卷	Rapid Chant Secret Scroll
+崩天九卷	Nine Heaven-Sundering Scrolls
+归藏宝典	Returning Treasure Canon
+多宝	Treasure Abundance
+金丹通慧书	Golden Elixir Wisdom Book
+入道鬼手	Dao Initiation Ghost Hand
+彻法多宝宝册	Treasure Manual of Ultimate Law
+太阴锻体	Lunar Forging Body
+少阴锻体	Body Forging of Lesser Yin
+玄阴锻体	Body Forging of Profound Yin
+神行术	Divine Movement Technique
+瞬形法	Instant Form Method
+九州大法	Nine Provinces Great Method
+辟邪真法	Evil-Warding True Method
+幽剑	Phantom Sword
+地母玄经	Mystic Scripture of Earth Mother
+摄神御鬼大法	Spirit-Capture Ghost Control Art
+九幽炼神	Nine Nethers Spirit Refinement
+尘暴术	Dust Storm Technique
+八极炼形诀	Eight Extremities Body Refinement
+灵视神观	Spiritual Vision Divine Observation
+太虚元罡	Great Void Primordial Gang
+太虚神盾	Great Void Divine Shield
+瞬霎诀	Instant Flash Technique
+太阴诀	Lunar Formula
+少阴诀	Lesser Yin Formula
+玄阴诀	Profound Yin Formula
+渊狱诀	Abyss Prison Formula
+幽狱诀	Nether Prison Technique
+通幽秘传	Secret Transmission of Nether Passage
+坤元真气	Earthly Origin True Qi
+厚德篇	Virtuous Chapter
+虚空谒神法	Void God-Invoking Method
+坏灭诀	Annihilation Technique
+一剑	One Sword
+秘宝：一剑	Treasure: Single Sword
+丙火圆转剑	Bing Fire Circular Sword
+五方真言	Five Directions True Words
+朱雀不朽真言	Vermilion Bird Immortal Mantra
+凌霄天星	Heavenly Star of the Firmament
+迅击七式	Seven Swift Strikes
+蓄神十式	Ten Forms of Spirit Accumulation
+黄芽圆转十式	Yellow Sprout Circular Ten Forms
+辟谷神功	Grain Abstinence Divine Skill
+朱雀神佑记	Zhuque Divine Blessing Record
+黄庭气摄神功	Yellow Court Qi-Control Art
+金丹佛心	Buddha Core of Golden Core
+入道饕餮	Dao Initiation Gluttony
+化形神农宝册	Transformation Divine Farmer Manual
+太乙鲸吞	Great Yi's Devouring
+五印刻神	Spirit Engraving of Five Seals
+天魔舞	Heavenly Demon Dance
+六气九极咒	Six Qi Nine Extremities Curse
+真丹妙手药典	True Elixir Skilled Hands Pharmacopoeia
+苍龙多宝纲要	Azure Dragon Treasure Compendium
+苍木妙手宝册	Tome of Azure Wood Dexterous Hands
+忘情多宝宝典	Emotionless Treasure Canon
+寒月琢玉密卷	Cold Moon Jade Polishing Secret Scroll
+金雷落花真言	Golden Thunder Falling Blossom Mantra
+初解金刚	Primordial Diamond
+震雷金刚真言	Thunder Vajra Incantation
+千钧秘诀	Thousand Jun Secret Formula
+蓄神	Spirit Accumulation
+圆转	Circular Flow
+天金坤元宝典	Celestial Metal Kunyuan Canon
+道基混元	Dao Foundation Primordial Chaos
+少林坤元七式	Shaolin Earth Origin Seven Forms
+归祖	Ancestral Return
+御气百炼纲要	Qi Control Refinement Guide
+邢氏归祖秘要	Xing Clan Return to Ancestry Secret Essentials
+震雷清心秘传	Thunderclap Mind-Clearing Secret
+断岳鲸吞神功	Mountain-Severing Devouring Divine Art
+御神琢玉秘要	Spirit-Control Jade-Carving Esoterica
+忘情神佑记	Heartless Divine Protection Records
+星辰气摄经	Stellar Qi Absorption Scripture
+白帝宫迅击剑	White Emperor Palace Swift Strike Sword
+镇神真言	Spirit-Suppressing Mantra
+牟家镇神诀	Mou Family Spirit-Suppression Art
+微草流光	Flowing Light of Tiny Grass
+太乙震地	Taiyi Earthshaker
+归藏	Hidden Return
+咒神要诀	Curse God Essential
+勾陈急诵秘法	Gouchen Rapid Chant Secret Art
+赤霄宫归藏宝典	Red Sky Palace's Return to Storage Treasure Canon
+辛金急诵秘诀	Xin Metal Rapid Mantra Esoterica
+断岳咒神	Mountain-Severing Curse God
+庚辛崩天秘要	Secret Essentials of Geng-Xin Heaven-Shattering
+庚辛鲸吞纪要	Geng-Xin (Metal Phase) Devouring Compendium
+百炼密卷	Hundred Refinements Secret Scroll
+神视秘要	Divine Vision Secret Essentials
+霹雳神佑要诀	Thunderclap Divine Protection Essence
+辛金多宝宝册	Tome of Xin Gold Treasures
+白虎多宝宝册	White Tiger Treasure Manual
+真丹摄神典	True Elixir Soul-Snatching Canon
+长生饕餮神功	Longevity Gluttony Divine Art
+霹雳妙手秘要	Thunderbolt Skilled Hands Secret Essentials
+分神之术	Spirit-Splitting Technique
+道基不朽	Immortality of Dao Foundation
+坤元秘诀	Kun Yuan Secret Art
+圆转要诀	Circular Flow Key Formula
+琢玉宝典	Scripture of Jade Carving
+黄庭琢玉	Yellow Court Jade Carving
+阴阳琢玉宝册	Yin-Yang Jade-Carving Manual
+甘霖术	Sweet Dew Art
+五方	Five Directions
+圆转秘诀	Circular Flow Secret
+混元	Hybrid
+蜀山坤元剑诀	Mount Shu Earth Origin Sword Art
+真丹迅影剑诀	True Elixir Shadow Sword Art
+玄机圆转秘法	Mystic Mechanism Cyclic Art
+金雷曳影秘诀	Secret Technique of Golden Thunder Flickering Shadows
+辛金蓄神秘诀	Xin Metal Spirit-Storing Esoterica
+百炼秘要	Hundred Refinements Secret Essentials
+金雷决意要诀	Golden Thunder Resolve Technique
+真丹琢玉通卷	Complete Scroll of True Elixir Jade Carving
+知节合一典	Discipline Unity Scripture
+玄机多宝密卷	Mystic Mechanism Treasure Scroll
+六气金钟真言	Six Qi Golden Bell Mantra
+燃魂不朽神雷	Soulburn Immortal Divine Thunder Technique
+朱雀震地诀	Vermilion Bird Earthshaking Art
+金刚经	Vajra Sutra
+金刚密卷	Vajra Secret Scroll
+初解奠基经	Initial Foundation Scripture
+武当金刚密卷	Wudang [Taoist] Vajra Scripture
+颛孙斌上仙奠基秘册	Immortal Zhuansun Bin's Foundation Secret Manual
+居紫雪上仙奠基秘册	Immortal Ju Zixue's Foundation Secret Manual
+奔烈奠基经	Blazing Foundation Scripture
+归祖神功	Ancestral Divine Skill
+焚日清心	Sunfire Purified Heart
+知节摄神典	Discipline Soul-Snatching Canon
+阴阳通慧	Yin-Yang Wisdom
+入道多宝秘传	Secret Tradition of Initiation Treasures
+玄机神视纪要	Mystic Mechanism Spirit Sight Notes
+真武录	True Martial Record
+司南经	Compass Scripture
+洞心咒	Heart-Piercing Curse
+天枢诀	Celestial Axis Technique
+天枢剑意	Celestial Pivot Sword Intent
+秘宝：天枢剑	Treasure: Pivot Sword
+天璇诀	Celestial Rotation Formula
+天璇剑意	Sword Intent of Celestial Rotation
+秘宝：天璇剑	Relic: Celestial Ploughsword
+天玑诀	Celestial Mechanism Technique
+天玑剑意	Sword Intent of Celestial Pivot
+秘宝：天玑剑	Artifact: Celestial Pivot Sword
+天权诀	Celestial Pivot Technique
+天权剑意	Celestial Pivot Sword Intent
+秘宝：天权剑	Artifact: Celestial Authority Sword
+玉衡诀	Jade Balance Formula
+玉衡剑意	Jade Balance Sword Intent
+秘宝：玉衡剑	Artifact: Jade Balance Sword
+开阳诀	Opening Yang Technique
+开阳剑意	Sword Intent of Opening Yang
+秘宝：开阳剑	Artifact: Kaiyang Sword
+摇光诀	Shaking Light Formula
+摇光剑意	Shaking Light Sword Intent
+秘宝：摇光剑	Artifact: Yaoguang Sword
+劫心咒	Heart-Stealing Curse
+赦心咒	Heart-Absolution Curse
+雷暴术	Thunderstorm Technique
+北斗剑界	Sword Realm of the Big Dipper
+星斗之眼	Star Pupil
+北斗绝式-七星诀	Big Dipper Ultimate Technique - Seven Stars Formula
+北斗绝式-北极剑	Big Dipper Ultimate Style - North Pole Sword
+北斗绝式-归一剑	Big Dipper Ultimate Technique - Return to One Sword
+御气混元秘诀	Qi Control Hybrid Secret Art
+碧光开天神雷	Jade Light Heaven-Opening Thunder
+金刚秘法	Vajra Secret Method
+南海迅击	South Sea Swift Strike
+决意纪要	Compendium of Resolve
+神龟秘传	Divine Turtle Secret Transmission
+苍木百炼密卷	Azure Wood Refinement Secret Scroll
+阴阳合一书	Yin Yang Unity Canon
+真丹鬼手秘法	Secret Method of True Elixir Ghost Hand
+东海气摄秘传	Eastern Sea Qi Control Secret
+暴雨术	Rainstorm
+归源清心	Heart Cleansing of Origin Return
+壬水镇神咒	Ren Water Spirit-Suppressing Curse
+白帝宫金刚宝典	White Emperor Palace's Vajra Treasure Canon
+归源琢玉	Origin-Returning Jade Carving
+赤霄宫辟谷经	Red Sky Palace Fasting Scripture
+壬水鲸吞神功	Ren Water Devouring Art
+百草阁清心秘传	Hundred Herbs Pavilion's Heart Purification Secret Tradition
+未来星宿万古秘要	Future Constellations Eternal Secret Key
+冷月合一宝典	Frostmoon Unity Codex
+焚风术	Scorching Wind Art
+腾岳化伤咒	Mountain-Leaping Healing Curse
+麒麟流光真言	Kirin Flowing Light Mantra
+奠基秘法	Foundation Secret Method
+金刚	Vajra
+逯氏奠基经	Lu Clan Foundation Scripture
+多宝秘传	Treasures Secret Transmission
+麒麟多宝纲要	Kirin Treasure Compendium
+腾岳清心秘传	Soaring Peak Serenity Secret Art
+彻法万古纪要	Eternal Law Compendium
+大日多宝纲要	Solar Treasure Compendium
+地龙合一要诀	Earth Dragon Fusion Technique
+麒麟多宝	Kirin Treasures
+腾岳百炼宝册	Soaring Peak Refinement Manual
+长生飞星神雷	Longevity Shooting Star Thunder
+五气诀	Five Qi Technique
+流光神雷	Divine Thunder of Flowing Light
+崩天	Heaven-Sundering
+归藏秘要	Secret of Gui Cang
+御气神农要诀	Qi Control Divine Farmer Formula
+多宝宝典	Scripture of Multitude Treasures
+乙木鬼手	Ghost Hand of Yi Wood
+万木鲸吞	Ten Thousand Trees Leviathan's Maw
+化形百炼纲要	Transformation Refinement Compendium
+真丹神农	Divine Farmer of True Elixir
+紫薇琢玉宝册	Purple Tapestry Jade Polishing Treasure Manual
+紫霄万古纪要	Purple Firmament Eternal Compendium
+五台琢玉通卷	Wutai Jade-Carving Scroll
+南海蓄神剑诀	South Sea Spirit Accumulation Sword Art
+镇岳蓄神秘要	Secret Essentials of Mountain-Suppressing Spirit Accumulation
+阴阳清心	Yin Yang Serene Heart
+玄关决意	Mystic Pass Resolve
+炎神殿百炼纲要	Flame God Hall's Hundred Refinements Compendium
+星辰鬼手秘法	Star Ghost Hand Secret Method
+戊己决意	Resolve of Wu Ji
+行疆决意秘传	Frontier Resolve Esoterica
+蓄神七式	Seven Forms of Spirit Accumulation
+甘霖	Sweet Rain
+黄芽不坏咒	Yellow Sprout Invulnerability Curse
+黄庭金刚	Huangting Diamond
+五戒金刚经	Five Precepts Vajra Scripture
+燃魂金刚秘法	Secret Method of Soul-Burning Vajra
+炽凰奠基宝典	Phoenix Foundation Canon
+奔烈金刚经	Galloping Diamond Sutra
+妙手丹方	Miraculous Elixir Formula
+丙丁气摄经	Bing Ding Qi Absorption Scripture
+龙虎辟谷	Dragon-Tiger Fasting
+范家合一记	Fan Family Unity Record
+凌霄神视神功	Heavenly Spirit Sight Art
+赤日神视纪要	Crimson Sun Spirit Sight Notes
+丙丁神视	Divine Vision of Bing Ding
+星辰通慧秘要	Stellar Wisdom Esoterica
+蜀山急诵	Shu Mountain Rapid Chant
+三才七星真言	Three Talents Seven Stars Mantra
+天星	Celestial Star
+冷月镇神神雷	Cold Moon Spirit-Suppressing Divine Thunder
+迅击决	Swift Strike Technique
+寇豪真人鬼手宝册	Real Person Kouhao's Ghost Hand Treasure Manual
+凝光百炼宝典	Condensed Light Refinement Canon
+长生清心纪要	Longevity Serenity Compendium
+归源妙手宝册	Return to Source Skilled Hands Treasure Manual
+心斋	Heart's Retreat
+养吾经	Nourishing Self Scripture
+寄情之术	Emotion-Projecting Technique
+坐忘论	Sitting Forgetfulness Treatise
+七情剑	Seven Emotions Sword
+如意幻境	Illusory Realm of Ruyi
+同心诀	Unified Heart Technique
+脱胎换骨	Rebirth Through Transformation
+长生诀	Longevity Technique
+心剑	Heart Sword
+太上忘情	Supreme Emotionless State
+秘宝：清宁飞羽	Treasure: Tranquil Feathers
+风神云体	Wind God Cloud Body
+斩道见我	Severing the Dao to See the Self
+斩念剑	Thought-Severing Sword
+极情剑	Extreme Passion Sword
+南海心光咒	South Sea Heart Light Curse
+不坏真言	True Words of Indestructibility
+飞星诀	Shooting Star Technique
+行疆不朽真言	Incantation of Borderland Immortality
+蓄神密卷	Spirit Accumulation Secret Scroll
+迅击剑诀	Swift Strike Sword Formula
+圆转七式	Circular Seven Forms
+大日曳影秘法	Solar Shadow-Dragging Art
+知节混元要诀	Primordial Chaos Technique of Discipline and Harmony
+华山迅影秘要	Huashan Shadowblitz Secret
+戊己神农丹方	Wu-Ji Divine Farmer's Elixir Formula
+琢玉	Jade Carving
+黄芽摄神	Spirit Capture of Yellow Sprout
+万里神佑书	Ten Thousand Li Divine Blessing Book
+彻法琢玉	Penetrating Jade Carving
+太乙鬼手通卷	Taiyi Ghost Hand Compendium
+坤元气摄经	Earth Qi Absorption Scripture
+化形飞星咒	Transformation Shooting Star Curse
+六气流光诀	Six Qi Radiance Art
+坤元燃灵诀	Kun Yuan Soul-Burning Art
+归藏秘诀	Returning Secret Art
+五台崩天经	Wutai Heaven-Collapsing Scripture
+鲸吞要诀	Leviathan's Maw Key Formula
+地龙鬼手通卷	Earth Dragon Ghost Hand Complete Scroll
+西海琢玉秘传	Western Sea Jade-Carving Esoterica
+西海鬼手	Western Sea Ghost Hand
+单于凡柔真人琢玉宝册	Real Person Chanyu Fanrou's Jade Carving Treasure Manual
+蔺晶上仙鬼手秘法	Immortal Linjing's Ghost Hand Secret Method
+造化百炼秘要	Creation Refinement Secret Essentials
+惊波落花诀	Shockwave Blossom Art
+逆浪甘霖咒	Countercurrent Nectar Curse
+百汇覆天神雷	Convergence Heaven-Covering Thunder
+真丹覆天神雷	True Elixir Heaven-Covering Thunder
+紫薇金刚经	Purple Star Diamond Sutra
+癸水金刚秘册	Gui Water Diamond Manual
+彻法金刚	Vajra Through Law
+神龟	Divine Turtle
+知节佛心书	Discipline Buddha Heart Canon
+紫云宫妙手	Violet Cloud Palace Skilled Hands
+百草阁归祖	Hundred Herbs Pavilion Ancestral Return
+万源归真百炼	Ten Thousand Sources Refined Truth
+现在贤长青秘法	Secret Method of Present Sage's Evergreen
+玄武饕餮神功	Black Tortoise Gluttony Art
+御气陨星咒	Qi Command Falling Star Curse
+四象诀	Four Symbols Technique
+忘情镇神神雷	Emotionless Spirit-Suppressing Thunder
+嵩山金钟真言	Songshan Golden Bell Mantra
+坤元	Earth Origin
+千钧秘法	Secret Method of Thousand Jun
+玄机金刚秘册	Secret Manual of Mystic Mechanism Vajra
+神佑册	Divine Protection Tome
+龙虎沃野宝典	Tome of Dragon-Tiger Fertile Land
+赤月摄神要诀	Crimson Moon Mind Control Art
+玄关归祖纪要	Mystic Pass Return to Ancestry Compendium
+鸿蒙摄神书	Primordial Chaos Spirit Capture Book
+驱云诀	Cloud-Dispelling Technique
+玄武落花咒	Black Tortoise Falling Blossom Curse
+黄庭通天	Yellow Court Heaven Piercing
+太上覆灭咒	Celestial Annihilation Curse
+迅影十三式	Thirteen Lightning Shadow Strikes
+迅击宝典	Swift Strike Treasure Canon
+破灭秘要	Secret of Annihilation
+神视秘传	Divine Vision Secret Transmission
+琢玉宝册	Jade-Carving Treasure Manual
+逆浪琢玉	Countercurrent Jade Carving
+太乙多宝宝典	Taiyi Treasure Codex
+紫云宫佛心记	Purple Cloud Palace Buddha Heart Record
+壬水多宝要诀	Ren Water Treasures Technique
+东华咒神卷	Eastern Glory Curse Spirit Scroll
+先天一气神雷	Innate Primordial Qi Divine Thunder
+行疆陨星真言	Borderlands Meteor Mantra
+御气九极咒	Qi-Control Nine Extremities Curse
+迅击秘要	Secret of Swift Strike
+归藏经	Hidden Return Sutra
+戊己崩天	Wu-Ji Heaven-Shattering
+五戒蓄神经	Five Precepts Spirit-Storing Scripture
+真丹归藏	True Elixir Returning
+紫云宫归藏要诀	Purple Cloud Palace's Return to Storage Key
+麒麟崩天卷	Kirin Heaven-Shattering Scroll
+炎神殿奠基秘法	Flame God Hall's Foundation Secret Art
+天岭饕餮秘法	Celestial Ridge Gluttony Art
+白帝宫清心秘传	White Emperor Palace's Heart Purification Secret Tradition
+淳于氏气摄神功	Chunyu Clan's Soul Devouring Divine Art
+地龙摄神	Earth Dragon Spirit Capture
+鸿蒙饕餮	Primordial Gluttony
+迅击	Swift Strike
+行疆混元秘法	Trekking Stone Primordial Secret Method
+三才清心诀	Three Talents Mind-Clearing Art
+赤霄宫不坏	Crimson Sky Palace Indestructible
+武当不朽真言	Wudang Immortal Mantra
+迅击经	Swift Strike Sutra
+多宝七签	Multi-Treasure Seven Signs
+阴阳崩天经	Yin-Yang Heaven-Shattering Scripture
+天岭归藏	Celestial Ridge Returning
+嵩山神农通卷	Songshan Divine Farmer Scroll
+五台决意	Resolve of Wutai
+化形饕餮	Gluttonous Metamorphosis
+现在贤鲸吞纪要	Summary of Present Sage's Devouring
+玄关神龟纪要	Mystic Gate Spirit Turtle Notes
+归真清心秘要	Truth-Return Heart-Cleansing Esoterica
+逆浪金刚	Countercurrent Vajra
+奔烈神农宝册	Galloping Fervor Divine Farmer Treasure Manual
+星辰急诵七签	Stellar Sevenfold Mantra
+甲乙奠基宝典	Jia-Yi Foundation Canon
+白虎千钧十式	White Tiger's Ten Thousand Jun Forms
+御气流光真言	Incantation of Qi-Guided Radiant Light
+彻法陨星咒	Law-Piercing Meteor Curse
+本源金刚神雷	Primordial Diamond Thunder
+迅击十三式	Thirteen Lightning Strikes
+苍莽千钧	Thousand Jun of Vast Wilderness
+新境圆转十式	New Realm Circular Ten Forms
+苍木破灭	Azure Wood Annihilation
+龙虎混元七式	Dragon-Tiger Hybrid Seven Forms
+气摄纪要	Qi Control Compendium
+琢玉秘传	Jade Carving Secret Transmission
+妙手秘法	Secret Method of Skilled Hands
+五内鬼手要诀	Five Viscera Phantom Hands Formula
+青龙多宝纲要	Azure Dragon Treasure Guide
+大日决意	Resolve of Great Sun
+太乙百炼纲要	Taiyi Refining Compendium
+勾陈通慧秘法	Gouchen Omniscience Secret Art
+黄芽妙手宝册	Yellow Sprout Dexterity Manual
+戊己迅影秘要	Earthly Shadowblitz Secret
+归源琢玉宝典	Origin Return Jade-Carving Canon
+龙虎鲸吞纪要	Dragon-Tiger Devouring Compendium
+流光诀	Flowing Light Formula
+微量的	Trace Amount
+沃野宝册	Fertile Land Treasure Manual
+天妖化血术	Heavenly Demon Blood Transformation
+求雨术	Rain-Summoning Art
+造化流光	Creation's Radiance
+赤月流光咒	Crimson Moon Radiance Curse
+玄金燃灵神雷	Mystic Metal Soul-Burning Thunder
+白帝宫先天一气神雷	White Emperor Palace's Innate Qi Divine Thunder
+壬水天星诀	Water Star Art
+南海七星	Seven Stars of South Sea
+鸿蒙飞星	Primordial Shooting Star
+臧家化影	Zang Family Shadow Transformation
+断岳五气	Five Qi of Mountain Cleaving
+过去庄严流光真言	Past Majesty Flowing Light Mantra
+腾岳镇神诀	Mountain-Leaping Spirit-Suppression Art
+御神绝杀神雷	Divine Control Annihilation Thunder Technique
+归真先天一气诀	Return to Truth Innate Qi Art
+白帝宫绝杀咒	White Emperor Palace's Killing Curse
+白帝宫落花神雷	White Emperor Palace's Petals Fall Heavenly Thunder
+天金镇神咒	Celestial Metal Spirit-Suppressing Curse
+长生镇神咒	Longevity Spirit-Suppressing Curse
+紫霄落花神雷	Purple Firmament Falling Blossom Thunder
+星辰流光真言	Stellar Radiance Mantra
+壬癸飞星神雷	Ren-Gui (Water Phase) Shooting Star Thunder
+紫霄金钟真言	Purple Void Golden Bell Mantra
+嵩山化影神雷	Song Mountain Shadow Thunder
+蜀山镇神诀	Mount Shu Spirit-Suppressing Art
+癸水天星	Gui Water Celestial Star
+百汇四象	Four Symbols of Bai Hui
+蜀山十二都天咒	Shu Mountain Twelve Stars of Heaven Grand Mantra
+御神飞星咒	Spirit-Control Shooting Star Curse
+星辰十二都天咒	Twelve Stars of Heaven Grand Mantra
+华山天星咒	Huashan Star Curse
+太上不坏神雷	Supreme Indestructible Thunder
+紫云宫震地诀	Purple Cloud Palace Earth-Quaking Art
+嵩山金刚神雷	Songshan Vajra Divine Thunder Technique
+鸿蒙七星真言	Primordial Seven Stars Mantra
+玉虚飞星诀	Jade Void Shooting Star Art
+勾陈流光诀	Gouchen Radiance Art
+蜀山五气真言	Mount Shu Five Qi Mantra
+嵩山流光神雷	Songshan Flowing Light Lightning
+归真化伤咒	Returning Truth Healing Curse
+造化镇神真言	Creation Spirit-Suppressing Mantra
+乜氏通天咒	Nie Family Heaven-Reaching Curse
+宗发	Ancestral Rise
+单于凤鸾	Chanyu Fengluan
+江彪	Jiang Biao
+祁盛	Qi Sheng
+鞠倩	Ju Qian
+文荣	Literary Glory
+戎子石	Rong Zishi
+尚易容	Shang Yirong
+靳承	Jin Cheng
+阴醉柳	Yin Zuiliu
+汝初彤	Ru Chutong
