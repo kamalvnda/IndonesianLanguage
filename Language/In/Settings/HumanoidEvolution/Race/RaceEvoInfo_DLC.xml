@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Panda">
+			<NaiveTalk>Eeeeeeeeeeeeeeeeeee!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Saya suka berada di dekat pohon bambu.</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>suka berada di luar</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Suka hidup bersama dengan ras yang sama.</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Suka berada di dekat pohon bambu, suka berada di luar. Suka berada dalam ras yang sama.</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>
