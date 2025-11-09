@@ -1,0 +1,117 @@
+ID	Desc
+
+1	Penghuni ruangan semuanya haruslah Rakyat jelata.
+2	Penghuni ruangan semuanya harus menjadi Pembentuk.
+3	Penghuni ruangan semuanya harus menjadi Pembentuk Inti.
+4	Penghuni ruangan semuanya harus merupakan Golden Core.
+5	Penghuni ruangan semuanya harus berjiwa Primordial.
+6	Penghuni ruangan semuanya haruslah Demi-Dewa.
+7	Penghuni ruangan semuanya harus menjadi Murid Batin.
+8	Penghuni ruangan semuanya harus menjadi Murid Luar.
+9	Penghuni ruangan semuanya harus menjadi Pengunjung.
+10	Penghuni kamar semuanya harus berusia lebih dari 30 tahun.
+11	Penghuni kamar semuanya harus berusia lebih dari 90 tahun.
+12	Penghuni kamar semuanya harus berusia lebih dari 270 tahun.
+13	Penghuni kamar semuanya harus berusia lebih dari 810 tahun.
+14	Penghuni kamar semuanya harus berusia lebih dari 2.430 tahun.
+15	Penghuni kamar semuanya harus berusia di bawah 30 tahun.
+16	Penghuni kamar semuanya harus berusia kurang dari 90 tahun.
+17	Penghuni kamar semuanya harus berusia kurang dari 270 tahun.
+18	Penghuni kamar semuanya harus berusia kurang dari 810 tahun.
+19	Penghuni kamar semuanya harus berusia kurang dari 2.430 tahun.
+20	Penghuni kamar harus memiliki usia gabungan tidak lebih dari 100 tahun.
+21	Penghuni kamar harus memiliki usia gabungan tidak lebih dari 200 tahun.
+22	Penghuni kamar harus memiliki usia gabungan tidak lebih dari 500 tahun.
+23	Penghuni kamar harus memiliki usia gabungan tidak lebih dari 1.000 tahun.
+24	Penghuni kamar harus memiliki usia gabungan tidak kurang dari 500 tahun.
+25	Penghuni kamar harus memiliki usia gabungan tidak kurang dari 1.000 tahun.
+26	Penghuni kamar harus memiliki usia gabungan tidak kurang dari 2.000 tahun.
+27	Penghuni kamar harus memiliki usia gabungan tidak kurang dari 4.000 tahun.
+28	Penghuni kamar semuanya harus berjenis kelamin laki-laki.
+29	Penghuni kamar semuanya harus perempuan.
+30	Penghuni kamar harus mencakup laki-laki dan perempuan.
+31	Kamar harus memiliki 1 penghuni.
+32	Kamar harus memiliki 2 penghuni.
+33	Kamar harus memiliki 3 penghuni.
+34	Ruangan harus memiliki 3 penghuni atau lebih.
+35	Ruangan harus memiliki 5 penghuni atau lebih.
+36	Ruangan tidak boleh dihuni lebih dari 3 penghuni.
+37	Ruangan tidak boleh dihuni lebih dari 5 orang.
+38	Kamar harus memiliki minimal 1 tempat tidur.
+39	Kamar harus memiliki minimal 2 tempat tidur.
+40	Kamar harus memiliki minimal 3 tempat tidur.
+41	Kamar tidak boleh memiliki lebih dari 1 tempat tidur.
+42	Kamar tidak boleh memiliki lebih dari 2 tempat tidur.
+43	Kamar tidak boleh memiliki lebih dari 3 tempat tidur.
+44	Kamar harus memiliki minimal 1 tempat tidur ganda.
+45	Ruangan harus memiliki minimal 1 sumber cahaya.
+46	Ruangan harus memiliki minimal 2 sumber cahaya.
+47	Ruangan harus memiliki minimal 3 sumber cahaya.
+48	Ruangan tidak boleh memiliki lebih dari 1 sumber cahaya.
+49	Ruangan tidak boleh memiliki lebih dari 2 sumber cahaya.
+50	Ruangan tidak boleh memiliki lebih dari 3 sumber cahaya.
+51	Ruangan harus memiliki minimal 1 tong air.
+52	Ruangan harus memiliki minimal 1 layar lipat.
+53	Ruangan tersebut harus memiliki minimal 1 patung.
+54	Ruangan harus memiliki minimal 1 kuali.
+55	Ruangan harus memiliki minimal 1 pedupaan.
+56	Ruangan harus memiliki minimal 1 tanaman.
+57	Ruangan tersebut harus memiliki minimal 1 spanduk.
+58	Ruangan harus memiliki minimal 1 rak.
+59	Ruangan tersebut harus memiliki minimal 1 kuburan.
+60	Ruangan harus memiliki minimal 2 tong air.
+61	Ruangan harus memiliki minimal 2 layar lipat.
+62	Ruangan tersebut harus memiliki minimal 2 patung.
+63	Ruangan harus memiliki minimal 2 kuali.
+64	Ruangan harus memiliki minimal 2 sensor.
+65	Ruangan harus memiliki minimal 2 tanaman.
+66	Ruangan tersebut harus memiliki minimal 2 spanduk.
+67	Ruangan harus memiliki minimal 1 rak.
+68	Ruangan tidak boleh memiliki area air.
+69	Ruangan harus memiliki minimal 1 area perairan.
+70	Ruangan tersebut harus memiliki minimal 1 area spirit.
+71	Ruangan tersebut tidak boleh memiliki lahan apa pun.
+72	Ruangan tersebut harus memiliki minimal 1 bangunan dan peninggalan dengan elemen penghubung.
+73	Ruangan tersebut harus memiliki minimal 2 bangunan dan peninggalan dengan elemen penghubung.
+74	Ruangan tersebut harus memiliki minimal 3 bangunan dan peninggalan dengan elemen penghubung.
+75	Ruangan tersebut tidak boleh mempunyai bangunan yang elemennya melawan relik.
+76	Ruangan tersebut tidak boleh memiliki lebih dari 1 bangunan dan peninggalan dengan elemen penangkal.
+77	Ruangan tersebut tidak boleh memiliki lebih dari 2 bangunan dan relik dengan elemen penangkal.
+78	Ruangan tersebut tidak boleh memiliki lebih dari 3 bangunan dan relik dengan elemen penangkal.
+79	Ruangan tersebut harus memiliki minimal 1 bangunan dan peninggalan dengan elemen yang sama.
+80	Ruangan tersebut harus memiliki minimal 2 bangunan dan peninggalan dengan elemen yang sama.
+81	Ruangan tersebut harus memiliki minimal 3 bangunan dan peninggalan dengan elemen yang sama.
+82	Harus memiliki setidaknya 1.000 Relic Qi.
+83	Harus memiliki setidaknya 5.000 Relic Qi.
+84	Harus memiliki setidaknya 10.000 Relic Qi.
+85	Harus memiliki setidaknya 30.000 Relic Qi.
+86	tidak boleh memiliki lebih dari 1.000 Relic Qi.
+87	tidak boleh memiliki lebih dari 5.000 Relic Qi.
+88	tidak boleh memiliki lebih dari 10.000 Relic Qi.
+89	tidak boleh memiliki lebih dari 30.000 Relic Qi.
+90	Lokasi Relik harus diisi dengan Qi.
+91	Semua bangunan ruangan harus memiliki Feng Shui yang tidak menyenangkan (Sedikit Tidak Menyenangkan/Tidak Menyenangkan/Sangat Tidak Menyenangkan).
+92	Semua bangunan ruangan harus memiliki Feng Shui yang menguntungkan (Sedikit Menguntungkan/Menguntungkan/Sangat Menguntungkan).
+93	Ruangan itu tidak boleh memiliki bangunan yang sangat menguntungkan.
+94	Ruangan itu harus memiliki tepat 1 bangunan yang sangat menguntungkan.
+95	Ruangan itu tidak boleh memiliki lebih dari 1 bangunan yang sangat menguntungkan.
+96	Ruangan itu tidak boleh memiliki lebih dari 2 bangunan yang sangat menguntungkan.
+97	Ruangan tersebut harus memiliki setidaknya 1 bangunan yang sangat tidak menyenangkan.
+98	Ruangan tersebut harus memiliki setidaknya 2 bangunan yang sangat tidak menyenangkan.
+99	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+100	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+101	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+102	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+103	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+10001	Harus memiliki setidaknya 100.000 Relic Qi.
+10002	Ruangan tersebut harus memiliki setidaknya 5 bangunan yang sangat tidak menyenangkan.
+10003	Ruangan tersebut harus memiliki tepat 1 Relik Feng Shui.
+10004	Ruangan harus memiliki tepat 8 sumber cahaya.
+10005	Ruangan harus memiliki minimal 3 kompor.
+10006	Ruangan harus memiliki tepat 7 sumber cahaya.
+10007	Ruangan itu harus memiliki tepat 5 kuburan.
+10008	Ruangan harus memiliki tepat 2 sensor.
+10009	Ruangan tersebut harus memiliki tepat 2 spanduk.
+10010	Kamar harus memiliki tepat 1 tempat tidur.
+10011	Ruangan tidak boleh mempunyai bantal atau bantalan qi.
+20.000	Ruangan tersebut harus memiliki tepat 1 peninggalan roh.
