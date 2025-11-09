@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_DanXia">
+			<Hate.1>Anda tidak diterima di sini.</Hate.1>
+			<Hate.2>Apapun yang Anda katakan</Hate.2>
+			<Hate.3>Beraninya kamu! Saya mengizinkan Anda melihat wajah saya?</Hate.3>
+			<Normal.0>Apakah ada yang bisa saya bantu?</Normal.0>
+			<Normal.1>Apa yang kamu inginkan?</Normal.1>
+			<Like.0>Bagaimana kabarmu hari ini? Saya pikir kita harus meluangkan waktu untuk berbicara.</Like.0>
+			<Submiss.0>Harta apa yang kamu inginkan? Silakan pilih.</Submiss.0>
+			<ValueableTrade.0>Harga yang Anda tawarkan memang sangat tinggi. Tapi aku masih belum mengubah pendapatku tentangmu.</ValueableTrade.0>
+			<ValueableTrade.1>Anda telah kehilangan banyak dengan harga seperti itu. Tapi karena kita sudah membuat kesepakatan Jadi Anda tidak bisa mengubah apapun.</ValueableTrade.1>
+			<TryOkTrade.0>Oke, saya menerima tawaran ini.</TryOkTrade.0>
+			<TryOkTrade.1>Baiklah, saya menerima tawaran Anda.</TryOkTrade.1>
+			<NoTrade.0>TIDAK</NoTrade.0>
+			<NoTrade.1>mustahil</NoTrade.1>
+			<NoTrade.2>Maaf, saya tidak dapat menerima tawaran ini.</NoTrade.2>
+			<OkTrade.0>Semoga kita bisa berbisnis lagi.</OkTrade.0>
+			<OkTrade.1>Ini adalah kesepakatan yang bagus.</OkTrade.1>
+			<OkTrade.2>setuju</OkTrade.2>
+			<GiftLike.0>Apakah kamu benar-benar akan memberikan ini padaku? Bertahun-tahun yang lalu saya selalu menginginkan sesuatu.</GiftLike.0>
+			<Task.0>Terima kasih banyak. Inilah yang kami cari.</Task.0>
+			<Task.1>Saya selamat, terima kasih banyak.</Task.1>
+			<TaskNeed.0>Terima kasih banyak. Namun kita masih membutuhkan lebih banyak lagi hal ini.</TaskNeed.0>
+			<TaskNeed.1>Hal ini sangat berguna. Tapi kami membutuhkan lebih banyak.</TaskNeed.1>
+			<Task.0>Tepat pada waktunya, terima kasih banyak.</Task.0>
+			<Task.1>Luar biasa, ini menyelesaikan masalah kami dengan tepat.</Task.1>
+			<Task.2>Sedikit demi sedikit, kami menginginkan hal yang persis sama.</Task.2>
+			<LowValueGift.0>Hal ini sangat tidak berguna. Saya tidak menginginkannya.</LowValueGift.0>
+			<LowValueGift.1>Tidakkah menurutmu memberikan ini kepada kami merupakan penghinaan terhadap kehormatan kami?</LowValueGift.1>
+			<MidValueGift.0>Benda ini cocok untuk pemula yang baru mulai berkultivasi. Tapi saat ini, itu tidak ada gunanya lagi bagiku.</MidValueGift.0>
+			<MidValueGift.1>Terima kasih, tapi kantor kami tidak memerlukan ini.</MidValueGift.1>
+			<HighValueGift.0>Saya tidak bisa menolak harta yang begitu berharga. Tapi antusiasme Anda tidak akan membuat saya terkesan sedikit pun.</HighValueGift.0>
+			<NoEnoughFriendPoint.0>Kurasa aku tidak berhutang apapun padamu. Oleh karena itu, saya tidak bisa memberikan ini begitu saja.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Harta sekte saya Ya, batu roh bisa dibeli.</NoEnoughFriendPoint.1>
+			<NoEnoughFriendPoint.2>Anda tidak dapat dengan mudah membeli harta karun semacam ini.</NoEnoughFriendPoint.2>
+			<Invalid.0>Menurutku, hubungan kita tidak sedekat itu.</Invalid.0>
+			<Invalid.1>Tidak, kami tidak bisa menjual ini kepada Anda.</Invalid.1>
+		</Text>
+	</List>
+</Texts>
