@@ -1,0 +1,67 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>pakaian, baju besi, jubah, kemeja</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerTrousers" sParam="Item">
+			<ThingName>celana tipis</ThingName>
+			<Desc>Pakaian yang sangat menyerap keringat Namun tidak banyak melindungi dari hawa dingin.</Desc>
+		</Text>
+		<Text Name="Item_SilkTrousers" sParam="Item">
+			<ThingName>celana musim panas</ThingName>
+			<Desc>Pakaian yang membuat Anda merasa segar dan santai. Kenakan dan rasakan sejuk dan nyaman.</Desc>
+		</Text>
+		<Text Name="Item_PracticeTrousers" sParam="Item">
+			<ThingName>Celana kantor</ThingName>
+			<Desc>Seragam standar sekte menjaga tubuh tetap hangat dengan baik. Namun memakainya cukup panas dan tidak nyaman.</Desc>
+		</Text>
+		<Text Name="Item_FormalTrousers" sParam="Item">
+			<ThingName>celana kasual</ThingName>
+			<Desc>Pakaian kasual sehari-hari Membuat tubuh tetap hangat tetapi ventilasi tidak baik.</Desc>
+		</Text>
+		<Text Name="Item_WinterTrousers" sParam="Item">
+			<ThingName>celana musim dingin</ThingName>
+			<Desc>Pakaian tebal dan kuat Membantu menambah kehangatan tubuh secara maksimal.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers1" sParam="Item">
+			<ThingName>celana skala naga</ThingName>
+			<Desc>Pakaian ajaib yang terbuat dari sisik naga. Memiliki kemampuan untuk meningkatkan keterampilan armor mendalam pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers2" sParam="Item">
+			<ThingName>Celana malam</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yin Qi murni. Ia memiliki kemampuan untuk meningkatkan keterampilan qi magis pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers3" sParam="Item">
+			<ThingName>Celana Api</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yang Qi murni. Memiliki kemampuan untuk meningkatkan skill senjata sakti kepada pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers4" sParam="Item">
+			<ThingName>celana biru langit</ThingName>
+			<Desc>Pakaian ajaib yang ditenun menggunakan metode rahasia yang menantang langit. Memiliki kemampuan untuk mereduksi biji dadu kepada pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers5" sParam="Item">
+			<ThingName>Celana jubah burung</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari bulu burung surgawi yang memiliki kekuatan untuk mengusir segala kejahatan. Ia memiliki kemampuan untuk meningkatkan kondisi mental dengan mengusir setan batin pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers6" sParam="Item">
+			<ThingName>celana emas</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yang Qi murni. Memiliki kemampuan untuk meningkatkan skill senjata sakti kepada pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers7" sParam="Item">
+			<ThingName>Celana mandi api</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari bulu Iblis Tikus Api Neraka. Ia memiliki kemampuan untuk meningkatkan skill Qi Armor dan mengurangi kerusakan elemen api pada pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers8" sParam="Item">
+			<ThingName>Celana selancar laut</ThingName>
+			<Desc>Pakaian ajaib yang ditenun menggunakan metode rahasia yang menantang langit. Memiliki kemampuan untuk mereduksi biji dadu kepada pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers9" sParam="Item">
+			<ThingName>Celana Bayangan Roh</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yin Qi murni. Ia memiliki kemampuan untuk meningkatkan keterampilan qi magis pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers10" sParam="Item">
+			<ThingName>Celana Jade Cloud</ThingName>
+			<Desc>Pakaian ajaib yang ditenun dari bulu burung surgawi yang memiliki kekuatan untuk mengusir segala kejahatan. Ia memiliki kemampuan untuk meningkatkan kondisi mental dengan mengusir setan batin pemakainya. Selain itu, memberikan pemakainya kemampuan untuk menginjak angin dan melakukan perjalanan menembus awan. yang sangat menakjubkan</Desc>
+		</Text>
+	</List>
+</Texts>
