@@ -1,0 +1,138 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_BaseHitChance">
+			<DisplayName>Tingkat Akurasi Serangan</DisplayName>
+			<Desc>Peluang murid luar untuk menyerang musuh</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_BaseDodgeChance">
+			<DisplayName>Tingkat penghindaran serangan</DisplayName>
+			<Desc>Ada kemungkinan bahwa para kultivator di garis Immortal Physique akan mampu menghindari serangan musuh.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoNum">
+			<DisplayName>Jumlah senjata ajaib</DisplayName>
+			<Desc>Jumlah senjata ajaib yang dapat digunakan karakter</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverK">
+			<DisplayName>Tingkat Pemulihan Qi Senjata Ajaib</DisplayName>
+			<Desc>Tingkat pemulihan Qi senjata ajaib oleh karakter.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoPowerAddP">
+			<DisplayName>Bonus Kekuatan Senjata Ajaib</DisplayName>
+			<Desc>Kemampuan Kerusakan Senjata Ajaib</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverAddP">
+			<DisplayName>Bonus Pemulihan Qi Senjata Ajaib</DisplayName>
+			<Desc>Memulihkan Qi Senjata Ajaib</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoCoolDownAddP">
+			<DisplayName>Bonus Kecepatan Serangan Senjata Ajaib</DisplayName>
+			<Desc>Jumlah waktu minimum untuk melepaskan serangan menggunakan senjata ajaib.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoMaxLingAddP">
+			<DisplayName>Bonus Qi Maksimum Senjata Ajaib</DisplayName>
+			<Desc>Jumlah maksimum Qi yang bisa dimiliki senjata ajaib.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelDistanceAddV">
+			<DisplayName>Bonus Knockback Senjata Ajaib</DisplayName>
+			<Desc>Jarak knockback ketika dua senjata ajaib bertabrakan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoFlySpeedAddP">
+			<DisplayName>Bonus Kecepatan Penerbangan Senjata Ajaib</DisplayName>
+			<Desc>Kecepatan Penerbangan Senjata Ajaib</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTurnSpeedAddP">
+			<DisplayName>Bonus Kecepatan Putaran Senjata Ajaib</DisplayName>
+			<Desc>Memutar kecepatan senjata ajaib</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelResistanceAddV">
+			<DisplayName>Bonus Ketahanan Knockback Senjata Ajaib</DisplayName>
+			<Desc>Ketahanan terhadap knockback ketika dua senjata ajaib bertabrakan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTrailingLengthAddP">
+			<DisplayName>Bonus Jangkauan Serangan Senjata Ajaib</DisplayName>
+			<Desc>Panjang jalur saat senjata ajaib terbang</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellPowerAddP">
+			<DisplayName>Bonus Kekuatan Qi Ajaib</DisplayName>
+			<Desc>Kekuatan Veda Qi saat menggunakan sihir atau serangan atau sihir penyembuhan.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellLingCostAddP">
+			<DisplayName>Bonus penggunaan qi saat menggunakan qi ajaib</DisplayName>
+			<Desc>Jumlah energi yang dibutuhkan untuk mengeluarkan energi sihir</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCastTimeAddP">
+			<DisplayName>Bonus Kecepatan Pengecoran Qi Ajaib</DisplayName>
+			<Desc>Waktu persiapan sebelum melepaskan energi magis</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCoolDownAddP">
+			<DisplayName>Bonus Pendinginan Qi Ajaib</DisplayName>
+		</Text>
+		<Text Name="NpcFight_FightSkillSoul">
+			<DisplayName>Prana Weda dari Jiwa Purba</DisplayName>
+			<Desc>Hanya mereka yang telah mencapai tingkat tertinggi dalam Jalur Qi Weda yang dapat menciptakannya. Hubungkan ke qi ajaib yang diinginkan dan qi ajaib yang dipilih akan dilepaskan secara otomatis selama pertempuran.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRate">
+			<DisplayName>Bonus Armor Kekuatan</DisplayName>
+			<DisplayValue>{0:N3} Kerusakan/Qi</DisplayValue>
+			<Desc>Bonus tambahan pada kemampuan mengurangi kerusakan yang diterima melalui perlindungan perisai energi.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRateAddP">
+			<DisplayName>Bonus Armor Kekuatan</DisplayName>
+			<Desc>Bonus tambahan pada kemampuan mengurangi kerusakan yang diterima melalui perlindungan perisai energi.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenKeyPointNum">
+			<DisplayName>Ukuran kamp</DisplayName>
+			<Desc>Besar kecilnya formasi yang menjadi inti karakter ini. Semakin banyak karakter di kamp, ​​​​semakin baik. Ukuran formasi menjadi lebih besar.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenEnginePower">
+			<DisplayName>Beban pesona</DisplayName>
+			<Desc>Beban pembentukan karakter inilah yang menjadi intinya. Semakin rumit formasinya, semakin baik. Itu hanya menambah beban mekanik.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToJin">
+			<DisplayName>ketahanan elemen emas</DisplayName>
+			<Desc>Kerusakan berkurang ketika seorang penggarap menerima kerusakan dari elemen emas.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToMu">
+			<DisplayName>Ketahanan Elemen Kayu</DisplayName>
+			<Desc>Damage berkurang ketika penggarap menerima damage dari elemen kayu.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToShui">
+			<DisplayName>Ketahanan elemen air</DisplayName>
+			<Desc>Kerusakan berkurang ketika kultivator menerima kerusakan air.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToHuo">
+			<DisplayName>Ketahanan Elemen Api</DisplayName>
+			<Desc>Kerusakan berkurang saat penggarap menerima kerusakan akibat kebakaran.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToTu">
+			<DisplayName>Ketahanan Elemen Tanah</DisplayName>
+			<Desc>Kerusakan berkurang ketika penggarap menerima kerusakan dari elemen Tanah.</Desc>
+			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
+		</Text>
+	</List>
+</Texts>
