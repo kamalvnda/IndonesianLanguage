@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Tersedia</DisplayName>
+		</Text>
+		<Text Name="SlotSuit_1">
+			<DisplayName>Pikiran Pedang</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_2">
+			<DisplayName>Pikiran Perintah</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan energi magis</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_3">
+			<DisplayName>Semangat Peningkatan</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan Armor Spiritual</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_4">
+			<DisplayName>Pikiran Kelembutan</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan Stabilitas</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_5">
+			<DisplayName>Pikiran keseimbangan</DisplayName>
+			<SuitEffect.0.Description>Mengurangi ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi beban formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_6">
+			<DisplayName>Alam Surga</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_7">
+			<DisplayName>Pikiran Dunia</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan armor energi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_8">
+			<DisplayName>Thunder Spirit</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi.</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_9">
+			<DisplayName>Wind Spirit</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan Qi Ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi.</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_10">
+			<DisplayName>Water Spirit</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan efisiensi formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_11">
+			<DisplayName>Spirit of Fire</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan kemampuan menggunakan formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_12">
+			<DisplayName>Mind of the Mountain</DisplayName>
+			<SuitEffect.0.Description>Kurangi ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Kurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_13">
+			<DisplayName>Pikiran Penggabungan</DisplayName>
+			<SuitEffect.0.Description>Kurangi beban pada formasi.</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi.</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_14">
+			<DisplayName>Kelahiran Surgawi</DisplayName>
+			<SuitEffect.0.Description>Sihir yang Diperoleh: Kelahiran Surgawi</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_15">
+			<DisplayName>Badai Bulan Petir</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_16">
+			<DisplayName>Api Matahari Surgawi</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan energi sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_17">
+			<DisplayName>Angin lembut</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan energi sihir.</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan sedikit pelindung energi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_18">
+			<DisplayName>Thunderbolt</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan pelindung energi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Kurangi energi maksimum formasi.</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_19">
+			<DisplayName>Gunung Tanpa Batas</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Sedikit meningkatkan stabilitas</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_20">
+			<DisplayName>Aliran Tanpa Batas</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Mengurangi energi maksimum formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_21">
+			<DisplayName>Kejadian Langit dan Bumi</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan energi magis</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan sedikit keterampilan energi sihir</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_22">
+			<DisplayName>Akhir Pegunungan dan Sungai</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_23">
+			<DisplayName>Asal Usul Sarang Surga</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan qi ajaib</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan kemampuan menggunakan kamp sihir</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_24">
+			<DisplayName>Antipak Api dan Air</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan efisiensi formasi</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_25">
+			<DisplayName>Memperkuat tembakan</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan armor</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Mengurangi ukuran formasi</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_26">
+			<DisplayName>Keruntuhan alami</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan pelindung energi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kurangi beban di kamp mekanik</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_27">
+			<DisplayName>Genesis</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata sihir</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan energi magis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan efisiensi formasi</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan kemampuan menggunakan formasi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Meningkatkan stabilitas</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_28">
+			<DisplayName>Great Void</DisplayName>
+			<SuitEffect.0.Description>Menambah ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Menambah beban pada formasi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Mengurangi energi maksimum formasi</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_1">
+			<DisplayName>Spirit of Slaughter</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan ukuran formasi sedikit</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan sedikit beban formasi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan skill senjata sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan skill energi sihir</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan armor energi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Kurangi energi maksimum formasi</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_2">
+			<DisplayName>Tujuh Jalur Pembunuhan</DisplayName>
+			<SuitEffect.0.Description>Naikkan sedikit ukuran formasi.</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Sedikit meningkatkan beban kerja formasi.</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan senjata sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan keterampilan energi magis</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan pelindung spiritual</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Mengurangi energi maksimum formasi.</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_3">
+			<DisplayName>Pikiran pembentukan langit dan bumi</DisplayName>
+			<SuitEffect.0.Description>Sedikit meningkatkan ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Sedikit meningkatkan beban formasi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan senjata ajaib.</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan keterampilan energi magis</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Meningkatkan pelindung energi</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Mengurangi energi maksimum formasi</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_4">
+			<DisplayName>Semangat Kaisar Ilahi</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan sedikit beban formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan efisiensi formasi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_5">
+			<DisplayName>Pikiran Naga Sejati</DisplayName>
+			<SuitEffect.0.Description>Naikkan sedikit beban formasi.</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan Keterampilan Senjata Sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan Keterampilan Qi Sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan Qi Armor</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_6">
+			<DisplayName>Pikiran Angsa Api Ilahi</DisplayName>
+			<SuitEffect.0.Description>Tingkatkan sedikit beban kamp mekanik</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan senjata sihir</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan keterampilan qi sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan armor qi</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_7">
+			<DisplayName>Semangat Yin Yang</DisplayName>
+			<SuitEffect.0.Description>Sedikit meningkatkan ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Sedikit meningkatkan beban formasi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan kemampuan formasi untuk menggunakan</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_8">
+			<DisplayName>Spirit of Winter Moonlight</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan ukuran formasi sedikit</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan beban formasi sedikit</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan qi sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan armor qi</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_9">
+			<DisplayName>Pikiran Pedang Neraka</DisplayName>
+			<SuitEffect.0.Description>Meningkatkan beban kamp mekanik sedikit</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan senjata ajaib</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan Qi Armor</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_10">
+			<DisplayName>Mind of the Spirit Tree</DisplayName>
+			<SuitEffect.0.Description>Sedikit meningkatkan ukuran formasi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Sedikit meningkatkan beban formasi</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Meningkatkan keterampilan senjata ajaib.</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan keterampilan energi magis</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan kemampuan menggunakan formasi</SuitEffect.4.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_11">
+			<DisplayName>Pikiran Konvergensi</DisplayName>
+			<SuitEffect.0.Description>Naikkan sedikit ukuran formasi.</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan sedikit beban kamp mekanik</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan keterampilan senjata sihir</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan keterampilan qi sihir</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan Qi Armor</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tingkatkan stabilitas</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tingkatkan efisiensi kamp</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>
