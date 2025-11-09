@@ -1,0 +1,6 @@
+None,Explorer
+Shaper,Hermit
+Essence Shaper,Taoist
+Golden Core,Spiritualist
+Primordial Spirit,Master
+Demi-immortal,Saint
