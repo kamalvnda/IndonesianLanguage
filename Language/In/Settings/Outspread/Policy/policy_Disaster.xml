@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Diaster_Drought">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>Tempat ini sedang mengalami kekeringan. Oleh karena itu, pangan diperlukan untuk mencegah kelaparan akibat buruknya hasil panen.</Desc>
+		</Text>
+		<Text Name="Diaster_Flood">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>Tempat ini kebanjiran. Oleh karena itu, batu diperlukan untuk membantu penduduk desa membangun bendungan air.</Desc>
+		</Text>
+		<Text Name="Diaster_Siberia">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>Tempat ini menderita cuaca dingin. Oleh karena itu, kayu diperlukan untuk membantu penduduk desa menyalakan api agar tetap hangat.</Desc>
+		</Text>
+		<Text Name="Diaster_EarthQuake">
+			<DisplayName>bantuan bencana</DisplayName>
+			<Desc>Tempat ini mengalami gempa bumi. Batu dibutuhkan untuk membantu penduduk desa membangun kembali dan memperbaiki rumah mereka.</Desc>
+		</Text>
+	</List>
+</Texts>
