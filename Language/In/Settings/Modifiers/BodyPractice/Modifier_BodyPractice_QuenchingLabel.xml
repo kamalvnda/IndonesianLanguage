@@ -1,0 +1,130 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_QuenchingLabel_ChiYi">
+			<DisplayName>menolak</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Organ Dasar yang Ditingkatkan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Tulang dasar yang diperkuat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Penguatan Fisik Dasar</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Organ yang dilapisi Qi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Potensi eksplosif</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
+			<DisplayName>regenerasi alami</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Menelusuri garis keturunan (organ)</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>merangsang kerja</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Organ setan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>napas mayat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Karakter setan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>deformasi internal</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Energi Ilusi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>Siklus Yin Yang</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
+			<DisplayName>Pola bunga matahari</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
+			<DisplayName>pola esensi bulan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Satu Surga</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>kekuatan Anatta</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Delapan Pulsa</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>kekuatan tak berbentuk</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Kekuatan bintang</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Membatasi kekuasaan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>kekuatan resistensi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>garis keturunan tersembunyi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>tulang yang tersegel</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>sirkuit terbalik</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Pranathawan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
+			<DisplayName>Penguatan otak</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
+			<DisplayName>Mata yang Diperkuat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
+			<DisplayName>Telinga yang Ditingkatkan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
+			<DisplayName>hidung yang diperkuat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
+			<DisplayName>memperkuat mulut</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
+			<DisplayName>leher yang diperkuat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
+			<DisplayName>Memperkuat Hati</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
+			<DisplayName>Memperkuat hati</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
+			<DisplayName>memperkuat limpa</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
+			<DisplayName>paru-paru yang diperkuat</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Penguatan ginjal</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Penguatan perut</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
+			<DisplayName>memperkuat usus</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
+			<DisplayName>penguatan penis</DisplayName>
+		</Text>
+	</List>
+</Texts>
