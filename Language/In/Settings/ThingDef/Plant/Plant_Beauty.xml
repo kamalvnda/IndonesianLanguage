@@ -1,0 +1,44 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>bunga ketumbar putih</ThingName>
+			<Desc>bunga kecil yang indah</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>rumput musim semi</ThingName>
+			<Desc>Tanaman indah dengan sedikit jejak qi unsur kayu yang tersembunyi di dalamnya.</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>bunga es</ThingName>
+			<Desc>Tanaman indah dengan sedikit jejak qi unsur kayu yang tersembunyi di dalamnya.</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>Marigold</ThingName>
+			<Desc>Tanaman indah yang sedikit mengandung qi emas.</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>bunga lonceng api</ThingName>
+			<Desc>Tanaman indah dengan sedikit jejak api qi tersembunyi di dalamnya.</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>Bunga lonceng gudang</ThingName>
+			<Desc>Tanaman indah dengan sedikit unsur air.</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>bunga bulan emas</ThingName>
+			<Desc>Tanaman indah dengan sedikit jejak Qi Bumi yang tersembunyi di dalamnya.</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>Krisan</ThingName>
+			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>ginseng gurun</ThingName>
+			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>Dok Khamtai</ThingName>
+			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+		</Text>
+	</List>
+</Texts>
