@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeckChance">
+			<Title>Kemacetan umum</Title>
+			<Desc>Mendobrak batas-batas hambatan umum itu mudah. Dengan memilih lokasi yang tepat, peluang suksesnya menembus batas akan besar.</Desc>
+		</Text>
+		<Text Name="BottleNeckExplore">
+			<Title>Keadaan kemacetan dalam perjalanan keliling dunia</Title>
+			<Desc>Mendobrak batasan hambatan perjalanan dunia dapat dicapai dengan mengirimkan karakter untuk berkeliling dunia guna mengumpulkan ide dan pengalaman.</Desc>
+		</Text>
+		<Text Name="BottleNeckWork">
+			<Title>hambatan gaya hidup</Title>
+			<Desc>Dalam kondisi kehidupan yang terhambat, karakter tersebut akan kehilangan seluruh Qi-nya dan menjadi orang biasa. Untuk mendobrak batasan, seseorang harus mengumpulkan ide dan pengalaman dari menjalani kehidupan manusia normal.</Desc>
+		</Text>
+		<Text Name="BottleNeckGold">
+			<Title>Situasi kemacetan inti emas</Title>
+			<Desc>Kemacetan Inti Emas sangat penting dalam menerobos dunia. Seorang kultivator harus menyegel Qi seluruh tubuhnya untuk membentuk inti emas. Tingkat Inti Emas akan menentukan kemampuan seorang kultivator. Sejauh mana seseorang bisa berkembang dalam dunia budidaya?</Desc>
+		</Text>
+		<Text Name="BottleNeckThunder">
+			<Title>Kemacetan Hukuman Surga</Title>
+			<Desc>Kemacetan Hukuman Surgawi adalah ujian besar bagi para kultivator. Jika Anda gagal menembus batas Paling-paling, orang itu akan kehilangan seluruh basis kultivasinya. Paling buruk, Anda akan menemui kematian.</Desc>
+		</Text>
+		<Text Name="BottleNeckGod">
+			<Title>Situasi kemacetan di Gerbang Sian</Title>
+			<Desc>Kemacetan Gerbang Abadi adalah tahap terakhir dalam kultivasi seseorang sebelum seseorang dapat menerobos dunia dan menjadi seorang Abadi.</Desc>
+		</Text>
+		<Text Name="BottleNeckGodCity">
+			<Title>Kondisi Kemacetan Tuhan</Title>
+			<Desc>Pembentukan Alam Suci adalah momen paling penting bagi seorang kultivator Jalan Ilahi. Status Alam Suci akan menentukan tingkat kemampuan yang bisa dicapai di masa depan.</Desc>
+		</Text>
+		<Text Name="BottleNeckFuPractice">
+			<Title>Asal Kejadian Yantra</Title>
+			<Desc>Jenis hambatan khusus bagi praktisi jimat ajaib. Untuk menerobos alam, seorang kultivator perlu menggunakan Qi di tubuhnya untuk membuat jimat asal.</Desc>
+		</Text>
+		<Text Name="BottleNeckDie">
+			<Title>Kemacetan kematian</Title>
+			<Desc>Kemacetan semacam ini berarti bahwa kultivator telah menemui jalan buntu dalam jalur kultivasinya.</Desc>
+		</Text>
+	</List>
+</Texts>
