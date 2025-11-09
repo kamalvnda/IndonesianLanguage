@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_7_Huo">
+			<DisplayName>Subyek menumbuhkan pikiran yang hancur</DisplayName>
+			<Desc>Teknik Budidaya Rahasia Nuea Sky Palace Mereka yang ingin mempraktikkan teknik ini pasti sangat menawan. Penggarap harus melalui petualangan di alam fana untuk mempelajari semua perasaan manusia sebelum meninggalkannya. Sadarilah jati diri Anda di tengah segala penderitaan Anda dan lepaskan semua itu untuk naik ke alam surga. Kultivator sering kali memiliki hubungan yang kompleks dengan orang lain dan mengalami cinta dan benci yang kompleks karena metode kultivasi khusus mereka.</Desc>
+			<SelectDesc>Teknik ini luar biasa dalam pengendalian dan penggunaan keterampilan senjata magis. Namun, para kultivator sering melakukan perjalanan untuk mengamati kehidupan manusia yang melintasi berbagai alam. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Latihlah diri sendiri</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Penggabungan</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Pengasingan</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Kekejaman</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>pengilangan</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>gairah yang besar</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Ketamakan</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki statistik Karisma rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>kelahiran kembali</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Pencerahan</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>mencerahkan diri sendiri</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki statistik Karisma rendah.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>potong jiwa</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>tanpa jiwa</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Letakkan harga dirimu</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Tempatkan diri Anda di luar sana</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
