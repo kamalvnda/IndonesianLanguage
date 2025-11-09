@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_2_Mu">
+			<DisplayName>Teknik Budidaya Sapwut Muenrangsan</DisplayName>
+			<Desc>Sebuah teknik yang diwarisi dari Dewa Abadi kuno. Itu adalah teknik budidaya untuk menempa dan menciptakan senjata magis yang kuat dari Gunung Tirai Langit. Dan hanya mereka yang memiliki bakat dan kecerdasan tinggi yang dapat mempraktikkan teknik ini. Ketika seorang praktisi mencapai puncak seni bela diri mereka. Mereka bisa menempa benda menjadi senjata ajaib. Proses budidayanya dibagi menjadi jalan menuju 5 surga dan 15 istana, dan ketika seseorang berkultivasi hingga tingkat kesuksesan tertinggi, ia dapat terlahir kembali ke alam surga.</Desc>
+			<SelectDesc>Teknik ini luar biasa dalam menempa senjata ajaib. Namun, mereka cukup lemah dalam pertarungan. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Surga kedamaian</Stages.0.DisplayName>
+			<Stages.0.Desc>surga pertama Carilah pencerahan alam dalam keadaan pikiran tenang. Ini adalah langkah pertama menuju pencarian keabadian. Oleh karena itu dinamakan “Surga Damai”</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Istana Lima Hati</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Kembangkan Qi dalam posisi duduk dengan kepala tegak tegak dan bagian tengah kaki serta telapak tangan menghadap ke atas. Biarkan darah dan energi mengalir melalui lima pusat.[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan tinggi.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Istana Lima Elemen</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Mengatur aliran Qi dan darah dalam keadaan hening. Fokuskan pikiran Anda pada lima qi alami di dalam pembuluh darah Anda dan gerakkan melalui darah ke seluruh tubuh Anda.[color=#D06508]\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.\nKegagalan menembus batas dapat mengakibatkan cedera.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Istana indra</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Gunakan indra Qi Anda untuk mendorong Qi dari lima elemen kembali ke Laut Qi. Ulangi ini untuk mengembangkan Qi Anda secara bertahap.[color=#D06508]\nMenembus tahap ini hanya dapat dicapai melalui upaya yang berulang-ulang.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Surga umur panjang</Stages.1.DisplayName>
+			<Stages.1.Desc>surga kedua Menempa esensi Qi di dalam tubuh. Hasilnya, umur peserta pelatihan akan meningkat. Inilah asal usul kata tersebut. "Surga Panjang Umur"</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>istana persepsi</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Gunakan Qi untuk membuka portal mental dan menghubungkannya dengan langit dan bumi. Tinggalkan kekacauan dunia manusia.[color=#D06508]\nMenembus tahap ini hanya dapat dicapai melalui upaya yang berulang-ulang.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Istana dan Persatuan</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Gunakan qi di dalam tubuh Anda untuk menginduksi qi alam dan gunakan qi alami murni itu dalam kultivasi Anda.[color=#D06508]\n\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.\nKegagalan menembus batas dapat menyebabkan cedera.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Istana Jiwa Emas</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Ini menggabungkan semua Qi dan kekuatan spiritual di dalam tubuh untuk membentuk inti emas. Dan inti emas itu adalah fondasi penting dari seorang kultivator Jalan Suci.</Stages.1.Necks.2.Desc>
+			<Stages.2.DisplayName>surga takdir</Stages.2.DisplayName>
+			<Stages.2.Desc>surga ketiga Bayangkan sifat semua makhluk hidup di bawah langit. Belajarlah dari pengalaman orang lain untuk mengatasi kekurangan diri sendiri. dan meletakkan dasar bagi penciptaan Roh Primordial.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Istana Api Sejati</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Gunakan inti emas untuk merangsang tiga bentuk nyala api sejati untuk mendapatkan nyala api yang dapat melelehkan apapun.[color=#D06508]\n\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.\nKegagalan menembus batas dapat menyebabkan cedera.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>istana penciptaan</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Masuki alam manusia dan rasakan pemikiran penciptaan. Semua dengan tiga bentuk api sejati dan memupuk kemauan seseorang untuk teguh dan kuat.</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>istana kebijaksanaan</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Kembangkan Qi dalam kesendirian, lupakan bulan dan matahari, untuk melebur segala sesuatu menjadi satu. Hasilnya, keterampilan dan kecerdasan penempaan senjata ajaib sang kultivator telah meningkat pesat.</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Surga Yang Murni</Stages.3.DisplayName>
+			<Stages.3.Desc>surga keempat Tempa esensi emasnya sendiri dengan nyala api sejati. Singkirkan hal-hal yang tidak murni dari tubuh dan jiwa sampai Yang Qi murni muncul di dalam tubuh. Oleh karena itu dinamakan “Surga Yang Murni”</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>istana pencerahan</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Rasakan diri Anda dan gunakan keadaan itu untuk digabungkan dengan Esensi Emas untuk membuka pintu menuju pencerahan.[color=#D06508]\nMenembus tahap ini hanya dapat dicapai melalui upaya yang berulang-ulang.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>istana ego</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Menempa inti emas dan memperkuat ego sejati seseorang.[color=#D06508]\nMenembus tahap ini hanya dapat dicapai melalui upaya yang berulang-ulang.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>istana kelahiran</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Hancurkan esensi emas di dalam tubuh untuk melahirkan Roh Primordial.</Stages.3.Necks.2.Desc>
+			<Stages.4.DisplayName>surga segalanya</Stages.4.DisplayName>
+			<Stages.4.Desc>surga kelima Menghadapi hukuman petir surgawi Untuk menciptakan Roh Yang Sejati dan melampaui langit.</Stages.4.Desc>
+			<Stages.4.Necks.0.DisplayName>Istana Non-Lampiran</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Tempalah jiwamu sendiri dengan Roh Primordial. Hal ini memungkinkan praktisi untuk mengeluarkan jiwa mereka dari tubuhnya dan menggunakannya untuk bepergian ke berbagai tempat.[color=#D06508]\nMelanggar batasan pada tahap ini akan menghabiskan banyak umur Anda.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>istana penghematan</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.Desc>Masuki kondisi kejeniusan murni untuk mewujudkan Tao yang agung. Penggarap harus menghadapi Hukuman Surgawi yang kejam ketika mereka ingin menerobos tahap ini.[color=#D06508]\nMenembus batas pada tahap ini akan benar-benar menantang surga dan tidak akan menghasilkan bonus apa pun. Dari langkah ini[/color]</Stages.4.Necks.1.Desc>
+			<Stages.4.Necks.2.DisplayName>Istana Kaisar</Stages.4.Necks.2.DisplayName>
+			<Stages.4.Necks.2.Desc>Dia meninggalkan tubuh kasarnya dan terlahir kembali di surga.</Stages.4.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>
