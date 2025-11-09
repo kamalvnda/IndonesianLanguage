@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WanJie_DanBase" sParam="Item">
+			<Item.FabaoSuffix>manik-manik, manik-manik, bulat</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>pakaian, baju besi, jubah, kemeja</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>pakaian, baju besi, jubah, kemeja</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_BowBase" sParam="Item">
+			<Item.FabaoSuffix>Pemanah</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_KnifeBase" sParam="Item">
+			<Item.FabaoSuffix>pedang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_LanceBase" sParam="Item">
+			<Item.FabaoSuffix>melawan</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_HalbertBase" sParam="Item">
+			<Item.FabaoSuffix>tombak kerajaan</Item.FabaoSuffix>
+		</Text>
+		<Text Name="WanJie_AxeRingBase" sParam="Item">
+			<Item.FabaoSuffix>Cakra</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
