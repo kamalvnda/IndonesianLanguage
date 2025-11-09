@@ -1,0 +1,94 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FengShuiItem_YinZhang1" sParam="Item">
+			<ThingName>Jejak moralitas</ThingName>
+			<Desc>Salah satu dari tiga jejak cahaya Itu adalah harta berharga yang diwarisi dari Surga Ketiga Puluh Ketiga. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>perangko</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang2" sParam="Item">
+			<ThingName>Jejak Kejadian</ThingName>
+			<Desc>Salah satu dari tiga jejak cahaya Itu adalah harta berharga yang diwarisi dari Surga Ketiga Puluh Ketiga. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>perangko</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang3" sParam="Item">
+			<ThingName>jejak rahasia</ThingName>
+			<Desc>Salah satu dari tiga jejak cahaya Itu adalah harta berharga yang diwarisi dari Surga Ketiga Puluh Ketiga. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>perangko</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta1" sParam="Item">
+			<ThingName>Pagoda Surgawi</ThingName>
+			<Desc>Harta karun yang diwarisi dari Sekte Kai Wu kuno. Cahaya ilahinya terang dan jernih. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>klenteng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta2" sParam="Item">
+			<ThingName>Pagoda Roh</ThingName>
+			<Desc>Pagoda emas diukir dengan batu roh berumur sepuluh ribu tahun. Itu memiliki aura kuat yang memancar. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>klenteng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ping1" sParam="Item">
+			<ThingName>Vas Yin</ThingName>
+			<Desc>Sebuah benda jahat yang tidak diketahui asalnya yang ditemukan di suatu tempat. Ia dapat mengumpulkan roh jahat Feng Shui dan membalikkannya. Ia memiliki kemampuan yang sangat aneh.</Desc>
+			<Item.FabaoSuffix>vas</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ding1" sParam="Item">
+			<ThingName>Kuali Ritual</ThingName>
+			<Desc>Kuali harta karun yang tak ternilai harganya yang digunakan oleh Orang Suci Abadi kuno dalam upacara pengorbanan ke langit dan bumi. Dikatakan dapat berkomunikasi dengan jalan ketuhanan.</Desc>
+			<Item.FabaoSuffix>kompor</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Bei1" sParam="Item">
+			<ThingName>prasasti tanpa huruf</ThingName>
+			<Desc>Sebuah tanda besi yang ditempa oleh Kaisar Iblis Fu Bi Kong. Itu tidak memiliki karakter apa pun. Itu terukir. Namun hal itu dapat mencerminkan semangat yang sebenarnya. Alhasil, kearifan spiritual masyarakat terbuka dan menerima ide-ide baru.</Desc>
+			<Item.FabaoSuffix>prasasti batu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiZi1" sParam="Item">
+			<ThingName>Singa Giok</ThingName>
+			<Desc>Singa giok yang diukir dari batu giok berharga dan ditempa dengan kekuatan petir surgawi. Dapat mengusir roh jahat dan menghilangkan kekacauan. Ini juga membantu pikiran orang merasa rileks.</Desc>
+			<Item.FabaoSuffix>singa</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiTou1" sParam="Item">
+			<ThingName>Batu Gunung Buzhou</ThingName>
+			<Desc>Sebuah batu dengan kekuatan suci dari jantung Gunung Puzhou. Itu kaya akan Qi alami yang dapat memberi makan semua makhluk hidup.</Desc>
+			<Item.FabaoSuffix>batu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_TuHua1" sParam="Item">
+			<ThingName>Gulir Buku Teks Yin Yang</ThingName>
+			<Desc>Gulungan yang berisi transformasi yin dan yang antara langit, bumi, dan umat manusia. Ini mengajarkan kebenaran tentang esensi transformasi.</Desc>
+			<Item.FabaoSuffix>gambar</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShuJi1" sParam="Item">
+			<ThingName>Jurnal makanan utama</ThingName>
+			<Desc>Ada banyak lukisan tak dikenal yang konon merupakan resep surgawi. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>buku, volume</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_QiJu1" sParam="Item">
+			<ThingName>Bagan Kalthep</ThingName>
+			<Desc>Sebuah permainan catur yang sudah diwariskan sejak zaman dahulu kala. Dikatakan menyimpan misteri meditasi. Orang-orang yang menganalisisnya dengan serius mengetahui jalan sulit dalam kultivasi. Hal ini membuat mereka lebih rajin.</Desc>
+			<Item.FabaoSuffix>diagram</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_FuZhou1" sParam="Item">
+			<ThingName>jimat jimat</ThingName>
+			<Desc>Jimat dari Sekte Mayat Kuno Itu tidak bisa lagi dipakai karena Qi kematian yang menumpuk di dalam jimat itu. Namun jika ditangani dengan baik, tidak bisa dipakai lagi. Ini dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>jimat</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Jian1" sParam="Item">
+			<ThingName>Pedang Misterius</ThingName>
+			<Desc>Pedang yang dikelilingi jalur kreatif. Meski tidak bisa digunakan untuk membunuh siapapun. Tapi itu bisa digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_HuLu1" sParam="Item">
+			<ThingName>labu emas</ThingName>
+			<Desc>Legenda mengatakan bahwa itu adalah labu yang digunakan untuk menyimpan obat ajaib di Istana Doolu surgawi. Itu muncul di dunia manusia untuk alasan yang tidak diketahui dan dapat digunakan untuk meningkatkan feng shui.</Desc>
+			<Item.FabaoSuffix>labu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_BaoBei1" sParam="Item">
+			<ThingName>Rahasia Naga Merah</ThingName>
+			<Desc>Benda rahasia naga merah kuno Legenda mengatakan bahwa naga merah lahir dari matahari langit dan bumi yang sebenarnya. Meskipun Yang Qi yang dikemas di dalamnya cukup ganas, namun cukup berguna untuk mengolah Qi.</Desc>
+			<Item.FabaoSuffix>akar</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_SheLi1" sParam="Item">
+			<ThingName>mutiara suci</ThingName>
+			<Desc>Harta karun para dewa kuno yang berkuasa di jalan para dewa. Ini dapat digunakan untuk meningkatkan feng shui. Di zaman kuno, ada cukup banyak orang yang mempraktekkan jalan ilahi. Namun saat ini, itu hanya sekedar cerita legenda. Mungkin menemukan sesuatu Ini mungkin memiliki makna tersembunyi.</Desc>
+			<Item.FabaoSuffix>suci</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
