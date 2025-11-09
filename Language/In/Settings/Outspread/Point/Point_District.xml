@@ -1,0 +1,85 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Point_FarmBase">
+			<DisplayName>bidang</DisplayName>
+		</Text>
+		<Text Name="Point_MineBase">
+			<DisplayName>milikku</DisplayName>
+		</Text>
+		<Text Name="Point_LumberBase">
+			<DisplayName>tempat penebangan kayu</DisplayName>
+		</Text>
+		<Text Name="Point_LingBase">
+			<DisplayName>Tambang Batu Roh</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains4">
+			<DisplayName>Bidang taburan bunga</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains2">
+			<DisplayName>Bukit Khao Soth</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains5">
+			<DisplayName>Ton Atau Desa</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains1">
+			<DisplayName>Gunung itu menyentuh langit</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains3">
+			<DisplayName>Gunung Pingting</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace12">
+			<DisplayName>Gunung Chanpen</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace14">
+			<DisplayName>Gunung Tongling</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace15">
+			<DisplayName>Reruntuhan Taiyi</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace13">
+			<DisplayName>Gunung Lanka Kecil</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace11">
+			<DisplayName>Desa Nanping</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField3">
+			<DisplayName>Desa Daxiang</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField4">
+			<DisplayName>Gunung Kui</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField5">
+			<DisplayName>jalur gunung</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField1">
+			<DisplayName>Kota Hanshan</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField2">
+			<DisplayName>Mueang Yod Tawan</DisplayName>
+		</Text>
+		<Text Name="Point_Desert2">
+			<DisplayName>gurun cermin</DisplayName>
+		</Text>
+		<Text Name="Point_Desert4">
+			<DisplayName>Desa Bukit Pasir</DisplayName>
+		</Text>
+		<Text Name="Point_Desert3">
+			<DisplayName>Gua Api</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield1">
+			<DisplayName>lembah salju</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield3">
+			<DisplayName>lapangan badai salju</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield2">
+			<DisplayName>Danau Batu Giok</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest1">
+			<DisplayName>Hutan bunga persik yang tidak layu</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest3">
+			<DisplayName>lembah cacing</DisplayName>
+		</Text>
+	</List>
+</Texts>
