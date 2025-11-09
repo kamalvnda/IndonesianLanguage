@@ -1,0 +1,38 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>kosong</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>wayang</DisplayName>
+			<Desc>perkakas buatan manusia. Ia memiliki penampilan yang sangat mirip manusia dan mampu bergerak dengan Qi-nya.</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>Festival Musim Semi Babi Setan</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>Tikus Setan (Festival Musim Semi)</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>Binatang Festival Musim Semi</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>Bagian tubuh</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>naga kecil</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>angsa kecil</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>Lilin Naga (Festival Musim Semi)</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>pahlawan</DisplayName>
+		</Text>
+	</List>
+</Texts>
