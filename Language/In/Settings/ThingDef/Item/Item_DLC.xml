@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooShoot" sParam="Item">
+			<ThingName>rebung</ThingName>
+			<Desc>Rebung: Rebung muda yang dapat digunakan dalam masakan karena rasanya yang renyah dan menyegarkan.</Desc>
+			<Item.FabaoSuffix>kabel, gulungan benang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bamboo" sParam="Item">
+			<ThingName>bambu</ThingName>
+			<Desc>Kumpulan bambu yang dapat digunakan untuk membuat alat pancing dan bangunan tertentu. Hanya panda yang bisa dimakan.</Desc>
+			<Item.FabaoSuffix>tongkat</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FishStick" sParam="Item">
+			<ThingName>pancing</ThingName>
+			<Desc>Pancing: Beberapa ikan tertarik pada elemen tertentu dan hanya muncul pada waktu yang berbeda. Apalagi semakin tinggi level jorannya, semakin baik. Semakin tinggi tingkat tangkapan ikan langka.</Desc>
+			<Item.FabaoSuffix>kait, garis, tendon</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PandaJade" sParam="Item">
+			<ThingName>Panda Giok</ThingName>
+			<Desc>Giok yang ditemukan di hutan bambu kuno Sepertinya itu adalah salah satu dari satu set peralatan.</Desc>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Lihatlah Panda Giok.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
+			<ThingName>Kontrak Roh: Panda</ThingName>
+		</Text>
+	</List>
+</Texts>
