@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Klan Panda Setan</DisplayName>
+			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Panda Iblis.</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>panda</DisplayName>
+			<Desc>Hewan biasa: Panda</Desc>
+			<TalkBefore>*ewwww*</TalkBefore>
+			<TalkAfter>*ewwww*</TalkAfter>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Setan Panda</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa terbangun: Panda Iblis</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Sian Sian</DisplayName>
+			<Desc>Saint Saint Panda adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>*ewwww*</TalkBefore>
+			<TalkAfter>*ewwww*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Siu Xiu</DisplayName>
+			<Desc>Panda Suci Xiuxiu adalah binatang roh iblis yang dibentuk oleh kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
+			<TalkBefore>*ewwww*</TalkBefore>
+			<TalkAfter>*ewwww*</TalkAfter>
+		</Text>
+	</List>
+</Texts>
