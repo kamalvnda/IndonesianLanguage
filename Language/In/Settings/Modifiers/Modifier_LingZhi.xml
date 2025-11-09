@@ -1,0 +1,81 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_LingZhi_DiaoXie">
+      <DisplayName>Komunikasi</DisplayName>
+      <Desc>Karena komunikasi yang mendalam dengan akar roh, seseorang dapat merasakan kesedihannya saat ia layu. Keadaan pikiran terganggu.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Jin">
+      <DisplayName>Komunikasi spiritual logam</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Logam dengan berkultivasi di dekatnya. Indera meningkat, kondisi pikiran meningkat, kecepatan kultivasi berkurang, Potensi meningkat.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Jin">
+      <DisplayName>Komunikasi jahat logam</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Logam dengan berkultivasi di dekatnya. Indera ditingkatkan, keadaan pikiran berkurang, kecepatan kultivasi meningkat, Potensi berkurang.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Mu">
+      <DisplayName>Komunikasi spiritual kayu</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Kayu dengan berkultivasi di dekatnya. Fisik ditingkatkan, keadaan pikiran ditingkatkan, kecepatan kultivasi dikurangi, Potensi ditingkatkan.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Mu">
+      <DisplayName>Komunikasi jahat kayu</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Kayu dengan berkultivasi di dekatnya. Fisik ditingkatkan, keadaan pikiran berkurang, kecepatan kultivasi ditingkatkan, Potensi berkurang.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Shui">
+      <DisplayName>Komunikasi spiritual air</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Air dengan berkultivasi di dekatnya. Pesona ditingkatkan, keadaan pikiran ditingkatkan, kecepatan kultivasi berkurang, Potensi ditingkatkan.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Shui">
+      <DisplayName>Komunikasi jahat air</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Air dengan berkultivasi di dekatnya. Pesona ditingkatkan, kondisi pikiran berkurang, kecepatan kultivasi ditingkatkan, Potensi berkurang.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Huo">
+      <DisplayName>Komunikasi spiritual api</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Api dengan berkultivasi di dekatnya. Pemahaman meningkat, kondisi pikiran meningkat, kecepatan kultivasi berkurang, Potensi meningkat.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Huo">
+      <DisplayName>Api komunikasi jahat</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Api dengan berkultivasi di dekatnya. Pemahaman meningkat, kondisi pikiran berkurang, kecepatan kultivasi meningkat, Potensi berkurang.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_GT0_Tu">
+      <DisplayName>Komunikasi spiritual bumi</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Bumi dengan berkultivasi di dekatnya. Keberuntungan meningkat, kondisi pikiran meningkat, kecepatan kultivasi berkurang, Potensi ditingkatkan.</Desc>
+    </Text>
+    <Text Name="Modifier_LingZhi_LT0_Tu">
+      <DisplayName>Komunikasi jahat bumi</DisplayName>
+      <Desc>Telah memasuki kondisi komunikasi mendalam dengan akar roh Bumi dengan berkultivasi di dekatnya. Keberuntungan ditingkatkan, pola pikir berkurang, kecepatan kultivasi ditingkatkan, Potensi berkurang.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing1">
+      <DisplayName>Keadaan pikiran yang jernih</DisplayName>
+      <Desc>keadaan pikiran membaik untuk waktu yang singkat.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_XinJing2">
+      <DisplayName>Keadaan pikiran yang rusak</DisplayName>
+      <Desc>keadaan pikiran berkurang untuk waktu yang singkat.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_MaxLing1">
+      <DisplayName>Penyerapan Qi</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing1">
+      <DisplayName>Akar semangat yang matang 1</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing2">
+      <DisplayName>Akar semangat yang matang 2</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing3">
+      <DisplayName>Akar semangat yang matang 3</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing4">
+      <DisplayName>Akar semangat yang matang 4</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing5">
+      <DisplayName>Akar semangat yang matang 5</DisplayName>
+    </Text>
+    <Text Name="Story_LingZhi_RipeLing_A">
+      <DisplayName>Pembersihan aura roh</DisplayName>
+      <Desc>Kecepatan pemulihan cedera internal meningkat.</Desc>
+    </Text>
+    <Text Name="Story_LingZhi_RipeSha">
+      <DisplayName>Qi yang dicuri</DisplayName>
+    </Text>
+  </List>
+</Texts>
