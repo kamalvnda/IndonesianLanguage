@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooLeftover" sParam="Item">
+			<ThingName>potong lembaran bambu</ThingName>
+			<Desc>Lembaran bambu yang dibelah rapi Dapat digunakan untuk menutupi lantai atau membuat atap.</Desc>
+			<Item.BeMaterial.NamePrefix>bambu</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
