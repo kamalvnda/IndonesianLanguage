@@ -1,0 +1,106 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Weather_SunnyDay">
+      <DisplayName>Hari yang cerah</DisplayName>
+    </Text>
+    <Text Name="Weather_Overcast">
+      <DisplayName>Berawan</DisplayName>
+    </Text>
+    <Text Name="Weather_LightRain">
+      <DisplayName>Hujan ringan</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavyRain">
+      <DisplayName>Hujan lebat</DisplayName>
+    </Text>
+    <Text Name="Weather_LightSnow">
+      <DisplayName>Salju tipis</DisplayName>
+    </Text>
+    <Text Name="Weather_HeavySnow">
+      <DisplayName>Salju lebat</DisplayName>
+    </Text>
+    <Text Name="Weather_DenseFog">
+      <DisplayName>Kabut tebal</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringAir">
+      <DisplayName>Musim semi sudah tiba</DisplayName>
+    </Text>
+    <Text Name="Weather_Melancholy">
+      <DisplayName>Suasana yang menyedihkan</DisplayName>
+    </Text>
+    <Text Name="Weather_HarvestAir">
+      <DisplayName>Panen melimpah</DisplayName>
+    </Text>
+    <Text Name="Weather_Impetuous">
+      <DisplayName>Suasana terburu-buru</DisplayName>
+    </Text>
+    <Text Name="Weather_Hail">
+      <DisplayName>Memanggil</DisplayName>
+    </Text>
+    <Text Name="Weather_MouldRains">
+      <DisplayName>Hujan prem</DisplayName>
+    </Text>
+    <Text Name="Weather_Drought">
+      <DisplayName>Kekeringan</DisplayName>
+    </Text>
+    <Text Name="Weather_Rainstorm">
+      <DisplayName>Hujan badai</DisplayName>
+    </Text>
+    <Text Name="Weather_Fohn">
+      <DisplayName>Angin Foehn</DisplayName>
+    </Text>
+    <Text Name="Weather_DustStorm">
+      <DisplayName>Badai debu</DisplayName>
+    </Text>
+    <Text Name="Weather_LingRarefiedWave">
+      <DisplayName>Qi kering</DisplayName>
+    </Text>
+    <Text Name="Weather_LingUpWave">
+      <DisplayName>Qi yang kaya</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWave">
+      <DisplayName>Gelombang panas</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWave">
+      <DisplayName>Depan dingin</DisplayName>
+    </Text>
+    <Text Name="Weather_HeatWaveInWinter">
+      <DisplayName>Aliran hangat</DisplayName>
+    </Text>
+    <Text Name="Weather_ColdWaveInSummer">
+      <DisplayName>Depan dingin</DisplayName>
+    </Text>
+    <Text Name="Weather_PermanentNight">
+      <DisplayName>Malam abadi</DisplayName>
+    </Text>
+    <Text Name="Weather_Miasma">
+      <DisplayName>racun</DisplayName>
+    </Text>
+    <Text Name="Weather_LightningStorm">
+      <DisplayName>Badai petir</DisplayName>
+    </Text>
+    <Text Name="Weather_LuShu_SunnyDay">
+      <DisplayName>Hari yang cerah</DisplayName>
+    </Text>
+    <Text Name="Weather_Fei_HeavyRain">
+      <DisplayName>Hujan lebat</DisplayName>
+    </Text>
+    <Text Name="Weather_SpringFestival">
+      <DisplayName>Festival musim semi</DisplayName>
+    </Text>
+    <Text Name="Weather_ZuShiBiHu">
+      <DisplayName>Perlindungan leluhur</DisplayName>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+      <DisplayName>Alam Air Sejati Sembilan Yin</DisplayName>
+      <Desc>Alam Air Sejati Sembilan Yin sangat meningkatkan kekuatan pemulihan alami karakter ramah dan kecepatan pengisian Qi</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+      <DisplayName>Alam Pedang Beruang Besar</DisplayName>
+      <Desc>Great Bear Sword Realm sangat meningkatkan kekuatan harta karun karakter teman</Desc>
+    </Text>
+    <Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+      <DisplayName>Nine Yang True Fire Realm</DisplayName>
+      <Desc>Alam Api Sejati Sembilan Yang menyebabkan peningkatan suhu yang besar, meningkatkan kekuatan mantra karakter teman secara signifikan</Desc>
+    </Text>
+  </List>
+</Texts>
