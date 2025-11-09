@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_ShuShan">
+			<Hate.0>Apa yang kamu lakukan di sini?</Hate.0>
+			<Normal.0>Halo, apakah Anda ingin berdagang?</Normal.0>
+			<Normal.1>Mau beli apa?</Normal.1>
+			<Like.0>Anda dapat menawarkan harga sekarang. saya mendengarkan.</Like.0>
+			<Submiss.0>Apakah ada sesuatu yang menarik minat Anda? Ini semua adalah harta langka yang kami kumpulkan.</Submiss.0>
+			<GiftLike.0>Barang ini bukan barang biasa. Saya sangat menyukainya.</GiftLike.0>
+			<LowValueGift.0>Apakah ini hadiah terbaik yang bisa Anda dapatkan? Huh, sungguh menyedihkan.</LowValueGift.0>
+		</Text>
+	</List>
+</Texts>
