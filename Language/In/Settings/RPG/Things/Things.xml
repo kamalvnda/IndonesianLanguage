@@ -1,0 +1,72 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>kapas</DisplayName>
+			<ValuesDesc.0>ramah</ValuesDesc.0>
+			<ValuesDesc.1>netral</ValuesDesc.1>
+			<ValuesDesc.2>musuh</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>Modus gerakan</DisplayName>
+			<ValuesDesc.0>berdiri</ValuesDesc.0>
+			<ValuesDesc.1>bebas</ValuesDesc.1>
+			<ValuesDesc.2>patroli</ValuesDesc.2>
+			<ValuesDesc.3>Tetapkan rutenya</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>Tombol untuk mengatur rute</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>Jarak notifikasi</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Frame Callback</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Callback each frame</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Render Frame Callback</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>Apakah itu abadi?</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>Bagikan Kebencian Tim</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>Kalahkan semua musuh</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>Apakah sumber dayanya terbatas?</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>Nyalakan kabut atau tidak</DisplayName>
+			<ValuesDesc.0>TIDAK</ValuesDesc.0>
+			<ValuesDesc.1>Ya</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>Jarak pembukaan kabut</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>Parameter 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>Parameter 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>
