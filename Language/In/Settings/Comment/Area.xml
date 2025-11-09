@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AreaRoom">
+			<Notes>Pendapat tentang struktur ruangan</Notes>
+			<Title>ruang</Title>
+			<Desc>Ruang terbatas yang dikelilingi oleh dinding dan batu.</Desc>
+		</Text>
+		<Text Name="AreaWarehouse">
+			<Notes>Komentar tentang ruang penyimpanan</Notes>
+			<Title>Ruang penyimpanan</Title>
+			<Desc>Ruang penyimpanan</Desc>
+		</Text>
+		<Text Name="AreaFarmland">
+			<Notes>Pendapat tentang lahan pertanian</Notes>
+			<Title>Daerah perkebunan</Title>
+			<Desc>Area untuk bercocok tanam</Desc>
+		</Text>
+		<Text Name="AreaHerbsField">
+			<Notes>Pendapat tentang kebun herbal</Notes>
+			<Title>kebun herbal</Title>
+			<Desc>Area untuk menanam tanaman herbal</Desc>
+		</Text>
+		<Text Name="AreaTransaction">
+			<Notes>Pendapat tentang area perdagangan</Notes>
+			<Title>daerah perdagangan</Title>
+			<Desc>Ruang untuk bertukar kata</Desc>
+		</Text>
+	</List>
+</Texts>
