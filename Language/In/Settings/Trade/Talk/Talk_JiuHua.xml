@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_JiuHua">
+			<Submiss.0>Silakan memilih sesuai kenyamanan Anda. Soal harga, kita bisa membicarakannya nanti.</Submiss.0>
+			<GiftLike.0>Hal ini sangat berharga bagi saya. Saya menyukainya.</GiftLike.0>
+			<LowValueGift.0>Saya tidak ingin mengatakan apa pun tentang sampah ini.</LowValueGift.0>
+			<LowValueGift.1>(Menatap dengan mata dingin) Sampah apa ini? Anda menyebut ini hadiah?</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>
