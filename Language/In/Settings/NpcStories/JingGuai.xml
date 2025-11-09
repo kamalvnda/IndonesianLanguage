@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JGTest">
+			<Events.0.Story>ketika[name]Di waktu luangku, aku membayangkan berubah menjadi manusia dalam pikiranku.</Events.0.Story>
+			<Events.1.Story>Selagi diam, pikiran[name]Mulailah melayang menuju masa dimana Anda hidup bahagia bersama atasan Anda sendiri.</Events.1.Story>
+		</Text>
+		<Text Name="JGTunShi">
+			<Events.0.Story>surga!! Makanan ini enak sekali! Saya ingin punya teman.</Events.0.Story>
+			<Events.1.Story>Tolong beri saya lebih banyak. Silakan. Saya berjanji akan menurunkan berat badan mulai sekarang.</Events.1.Story>
+			<Events.2.Story>Sambil menelan benda ini, tiba-tiba[name]Saya memikirkan benda roh [obj_tongling] dan mulai bertanya-tanya apakah rasanya enak atau tidak.</Events.2.Story>
+			<Events.3.Story>hangat! Sangat nyaman!</Events.3.Story>
+			<Events.4.Story>Sangat lezat!</Events.4.Story>
+			<Events.5.Story>Wow, makanan ini enak sekali.</Events.5.Story>
+			<Events.6.Story>Minta lebih banyak!</Events.6.Story>
+			<Events.7.Story>Ini hampir sangat lezat.</Events.7.Story>
+			<Events.8.Story>Rasanya enak!</Events.8.Story>
+		</Text>
+		<Text Name="JGTalkDay">
+			<Events.0.Story>ketika[name]saya bebas.[IT]Dia membayangkan menjadi manusia dalam pikirannya.[IT]</Events.0.Story>
+			<Events.1.Story>[name]Memasuki kondisi trance karena alasan tertentu.</Events.1.Story>
+			<Events.2.Story>[name]Melihat kawan-kawan bodoh itu tiba-tiba aku merasa cukup beruntung.</Events.2.Story>
+			<Events.3.Story>[name][rand_string=Tiba-tiba bersin, tiba-tiba cegukan, tiba-tiba menguap, mulai bergumam sendiri, tiba-tiba terasa gatal Merasa bosan, menghela nafas, tiba-tiba Bertepuk tangan, tiba-tiba Menjilat bibir, membersihkan debu di badan, mulai menyenandungkan lagu, ingin berbicara dengan seseorang, ingin mencoba menulis puisi]</Events.3.Story>
+			<Events.4.Story>[name]Rasanya seperti ada yang memanggil namanya.</Events.4.Story>
+			<Events.5.Story>[name]Sangat suka [rand_lable=obj_weather]</Events.5.Story>
+			<Events.6.Story>[name]Menatap [rand_lable=obj_friend,obj_nearthing] [rand_string=bingung,tertawa, merenung]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa tertarik dengan [obj_nearthing] di sekitar..</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin makan [obj_food]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]mulai menangis</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa kesal tentang sesuatu yang tidak dapat saya ceritakan.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Aku mulai memikirkan tentang matahari terbenam.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa sulit bernapas.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa termotivasi untuk mencoba mengendarai [obj_fabao] untuk melihat bagaimana rasanya.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] [name]Entah kenapa tiba-tiba saya penasaran dengan rasa [obj_dan] dan tiba-tiba ingin mencoba memakannya.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin menginjak seseorang.</Events.19.Story>
+			<Events.20.Story>Lihat aku, lihat aku, lihat aku!</Events.20.Story>
+			<Events.21.Story>Lewat sini, lewat sini, lewat sini!</Events.21.Story>
+			<Events.22.Story>pemilik! Silakan datang ke sini dan berbicara dengan saya.</Events.22.Story>
+			<Events.23.Story>Cara kalian berjalan benar-benar membuatku kesal.</Events.23.Story>
+			<Events.24.Story>Apakah aku akan sesibuk kamu jika aku menjadi manusia suatu hari nanti?</Events.24.Story>
+			<Events.25.Story>Apakah kamu mencari ayahmu?</Events.25.Story>
+			<Events.26.Story>Apa?</Events.26.Story>
+			<Events.27.Story>Kamu berlarian seperti ini, apa matamu tidak kering sama sekali??</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNight">
+			<Events.0.Story>ketika[name]saya bebas.[IT]Dia membayangkan menjadi manusia dalam pikirannya.[IT]</Events.0.Story>
+			<Events.1.Story>[name]Memasuki kondisi trance karena alasan tertentu.</Events.1.Story>
+			<Events.2.Story>[name]Melihat kawan-kawan bodoh itu tiba-tiba aku merasa cukup beruntung.</Events.2.Story>
+			<Events.3.Story>[name][rand_string=Tiba-tiba bersin, tiba-tiba cegukan, tiba-tiba menguap, mulai bergumam sendiri, tiba-tiba terasa gatal Merasa bosan, menghela nafas, tiba-tiba Bertepuk tangan, tiba-tiba Menjilat bibir, membersihkan debu di badan, mulai menyenandungkan lagu, ingin berbicara dengan seseorang, ingin mencoba menulis puisi]</Events.3.Story>
+			<Events.4.Story>[name]Rasanya seperti ada yang memanggil namanya.</Events.4.Story>
+			<Events.5.Story>[name] really likes [rand_lable=obj_weather]</Events.5.Story>
+			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing] [rand_string=zoning out,giggling,pondering on something]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa tertarik dengan [obj_nearthing] di sekitar..</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin makan [obj_food]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]mulai menangis</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa kesal tentang sesuatu yang tidak dapat saya ceritakan.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Aku mulai memikirkan tentang matahari terbenam.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa kesal tentang sesuatu yang tidak dapat saya ceritakan.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa sulit bernapas.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya merasa termotivasi untuk mencoba mengendarai [obj_fabao] untuk melihat bagaimana rasanya.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] [name]Entah kenapa tiba-tiba saya penasaran dengan rasa [obj_dan] dan tiba-tiba ingin mencoba memakannya.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Tiba-tiba[name]Saya ingin menginjak seseorang.</Events.19.Story>
+			<Events.20.Story>Hei, bangun, bangun dan bermain!</Events.20.Story>
+			<Events.21.Story>Lalanla lalanla lalalanla~</Events.21.Story>
+			<Events.22.Story>Siapa yang sudah bangun? ––Bangun––lalu––atau––yang bingung? ––Bangun––atau––Yang bingung? ––atau––yang? --Apa? Kh–A–A–Ph–Y––Oh––K–A–A–Ph–Y––</Events.22.Story>
+			<Events.23.Story>Krogfie.. Krogfie.. Aku sedang tidur–––itu tidak benar. Aku hanya membodohimu!</Events.23.Story>
+			<Events.24.Story>Dee dee dee dee dee~</Events.24.Story>
+			<Events.25.Story>Ah, ah, ah, ah, ah~</Events.25.Story>
+			<Events.26.Story>Kudengar relik roh sering merangkak ke tempat tidurmu di malam hari.</Events.26.Story>
+			<Events.27.Story>Ah~~~~~~~~~~ Aku bosan sekali~~~~~~~~~~Kuku~ku~penuh lumpur~~~~~~~~~~</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNoMove">
+			<Events.0.Story>Kapan saya bisa pergi? Aku bosan tinggal di dalam sini!!</Events.0.Story>
+			<Events.1.Story>Hai? Hai? Siapa disana! Biarkan aku keluar sekarang!</Events.1.Story>
+			<Events.2.Story>Pikiran yang layu aku ingin jalan-jalan...</Events.2.Story>
+			<Events.3.Story>Hei, apakah ada orang? Tolong jawab aku.</Events.3.Story>
+			<Events.4.Story>Hmph, meskipun kamu melepaskanku sekarang, aku tidak ingin pindah ke mana pun.</Events.4.Story>
+			<Events.5.Story>Langit menyingsing, burung gagak beterbangan mencari makan, ceria dan ceria. Aku binatang kecil lucu yang ingin jalan-jalan~</Events.5.Story>
+			<Events.6.Story>Biarkan aku keluar sekarang. Aku tahu kamu bisa mendengarku!</Events.6.Story>
+			<Events.7.Story>Aku akan memasukkan kotoran naga ke dalam cangkir teh kalian masing-masing!!</Events.7.Story>
+			<Events.8.Story>Aku sangat ingin menjadi manusia~ Aku ingin berlari kemana-mana~</Events.8.Story>
+			<Events.9.Story>Apa Ruang Bijih Tembaga Api yang kalian bicarakan?</Events.9.Story>
+			<Events.10.Story>Apakah aku benar-benar akan membusuk di sini?</Events.10.Story>
+			<Events.11.Story>Hee~Hee~ aku menyerah. Aku berjanji tidak akan lari lagi.</Events.11.Story>
+			<Events.12.Story>Biarkan–aku–keluar–––</Events.12.Story>
+			<Events.13.Story>Sebenarnya saya bukanlah benda roh. Saya seorang Elder Saint yang disegel di dalam tempat ini. Jika Anda membiarkan saya keluar, saya akan mengajari Anda keterampilan yang tak tertandingi.</Events.13.Story>
+			<Events.14.Story>A-jo, A-jo, A-jo, A-jo, A-jo~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Ah, ah, ah, ah, ah~</Events.16.Story>
+			<Events.17.Story>Saya telah mempelajari satu hal dalam beberapa hari terakhir –– yaitu, benda roh tidak boleh bergerak-gerak dan berlarian sama sekali.</Events.17.Story>
+			<Events.18.Story>Awwwwww––Aku serigala jahat––</Events.18.Story>
+			<Events.19.Story>Tolong biarkan aku pergi! Saya berjanji, saya berjanji akan mengubah diri saya sendiri?</Events.19.Story>
+			<Events.20.Story>Tolong lepaskan aku!!</Events.20.Story>
+			<Events.21.Story>Hal terpenting menjadi iblis adalah menjadi bahagia, yo yo.</Events.21.Story>
+			<Events.22.Story>Apakah kamu menanyakan cara untuk membuatku tutup mulut?: Tidak. Hahahaha.</Events.22.Story>
+			<Events.23.Story>Saya mencoba memikirkan cara untuk melarikan diri.</Events.23.Story>
+			<Events.24.Story>Kembalilah padaku dalam dua hari. Lalu aku akan memberitahumu beberapa rahasia.</Events.24.Story>
+			<Events.25.Story>Apakah saya sudah gila?</Events.25.Story>
+			<Events.26.Story>Aku akan memberitahumu sebuah rahasia.... Artinya, aku tidak punya rahasia sama sekali.</Events.26.Story>
+			<Events.27.Story>Dulu, aku benar-benar tidak punya pilihan.... Tapi sekarang aku anak yang baik.</Events.27.Story>
+			<Events.28.Story>Tidak bergerak membuatku benar-benar merasakan sakit kepala.</Events.28.Story>
+			<Events.29.Story>Yo pernah coba makan Seven Immortals Hot Pot?? Rasanya sangat lezat.</Events.29.Story>
+			<Events.30.Story>Tiga hari berlalu, lalu tiga hari lagi berlalu. Setelah itu, tiga hari lagi berlalu, berulang-ulang.</Events.30.Story>
+		</Text>
+		<Text Name="JGEqupt">
+			<Events.0.Story>Tidak, tidak...jangan manfaatkan aku dulu. Saya ingin istirahat lebih lama.</Events.0.Story>
+			<Events.1.Story>Anda hanya memikirkan saya ketika Anda ingin memanfaatkan saya?</Events.1.Story>
+			<Events.2.Story>Apa lagi yang akan kamu lakukan padaku? Tolong izinkan saya istirahat!</Events.2.Story>
+			<Events.3.Story>Wah, ya, apakah kamu masih mengingatku? Aku bosan sampai gila...!!</Events.3.Story>
+			<Events.4.Story>Apakah Anda mencium bau busuk?</Events.4.Story>
+			<Events.5.Story>Mengapa kamu membawaku bersamamu? Pergi ke luar? Apakah kamu akan bertarung? Apakah ada pemberhentian di sepanjang jalan?</Events.5.Story>
+			<Events.6.Story>Dengan hormat Dengan kekuatanmu saat ini Membawaku atau tidak hampir tidak ada bedanya.</Events.6.Story>
+			<Events.7.Story>Ah, ah, seseorang ingin memanfaatkanku.</Events.7.Story>
+		</Text>
+		<Text Name="JGEqupted">
+			<Events.0.Story>Tongkang![hename]Mengapa kamu berkeringat banyak? Eh, ini sungguh menjijikkan!</Events.0.Story>
+			<Events.1.Story>[hename]Bicaralah padaku, apapun yang kamu mau, jangan diam!</Events.1.Story>
+			<Events.2.Story>[hename]Bisakah kamu melakukan itu? Heck, bos saya sebelumnya jauh lebih baik dari Anda!</Events.2.Story>
+			<Events.3.Story>[hename]Teruslah bergerak. Mengapa tidak? Guncangan ini membunuhku.</Events.3.Story>
+			<Events.4.Story>[hename]Bagasi Anda berantakan. Baiklah, mari kita mulai dengan membuang orang di dekatku ini!</Events.4.Story>
+			<Events.5.Story>[hename]Aku akan memberitahumu sebuah rahasia. Faktanya, saya adalah Elder Saint yang tersegel di tempat ini. Jika Anda membiarkan saya keluar, saya akan mengajari Anda keterampilan yang tak tertandingi.</Events.5.Story>
+			<Events.6.Story>Ahhh![hename]Lihatlah pria itu. Ia juga bisa berbicara! Ah! Saya sendiri yang bisa mengatakannya!</Events.6.Story>
+			<Events.7.Story>[hename]Lihat itu! Ada sesuatu di langit!</Events.7.Story>
+			<Events.8.Story>Saya mendengar bahwa ada gunung iblis yang membawa orang kemana-mana setiap hari.[hename]Jadi kamu adalah tunggangan iblisku?</Events.8.Story>
+			<Events.9.Story>[hename]Tolong bantu saya! A-aku tidak bisa bernapas!! Oh, tidak, tunggu, aku tidak perlu bernapas.</Events.9.Story>
+			<Events.10.Story>[hename]Jika saya memberi Anda nasihat, Maukah Anda membantu saya membangun kembali tubuh saya?</Events.10.Story>
+			<Events.12.Story>[hename]Anda harus berlatih lebih keras lagi. Aku tidak mau kalah dengan pria bercelana itu.</Events.12.Story>
+			<Events.13.Story>[hename]Coba pikirkan, orang lain masih bisa, lalu kenapa Anda tidak?</Events.13.Story>
+			<Events.14.Story>A-jo, A-jo, A-jo, A-jo, A-jo~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Ah, ah, ah, ah, ah~</Events.16.Story>
+			<Events.17.Story>[hename]Apa pendapatmu tentang memasukkanku ke dalam perbendaharaan yang penuh dengan harta karun?</Events.17.Story>
+			<Events.18.Story>[hename]Anda adalah bajingan kecil. Bajingan yang tidak dewasa!</Events.18.Story>
+		</Text>
+		<Text Name="JGBreak">
+			<Events.0.Story>Tiba-tiba[name]Punya firasat buruk tentang ini. dan tubuhnya sedikit gemetar.</Events.0.Story>
+			<Events.1.Story>Tiba-tiba[name]Saya merasa kedinginan dan ingin keluar dari sini.</Events.1.Story>
+		</Text>
+		<Text Name="JGRuin">
+			<Events.0.Story>Maafkan aku! Tidak, tolong hentikan! Saya tidak akan bicara omong kosong lagi!</Events.0.Story>
+			<Events.1.Story>Saya akan kembali dari neraka lagi. Dan jangan harap aku mengasihanimu!</Events.1.Story>
+		</Text>
+		<Text Name="JGMoveSelf">
+			<Events.0.Story>Di mana kamu akan menempatkanku?</Events.0.Story>
+			<Events.1.Story>Tidak, jangan sentuh aku. Saya tidak suka perubahan itu.</Events.1.Story>
+			<Events.2.Story>Apakah Anda akan memindahkan saya ke tempat baru lagi? Saya tidak sabar.</Events.2.Story>
+			<Events.3.Story>Kemana kita akan pergi lagi? Bisakah kamu berhenti menggerakkanku sekali saja?</Events.3.Story>
+			<Events.4.Story>Aku tidak peduli Tapi memindahkan barang Itu tidak baik untuk Feng Shui...</Events.4.Story>
+			<Events.5.Story>Saya ingin perbendaharaan besar!</Events.5.Story>
+		</Text>
+		<Text Name="JGBuildingUse">
+			<Events.0.Story>Huh, Nak, kemampuanmu buruk sekali!</Events.0.Story>
+			<Events.1.Story>Bisakah kamu membuatnya lebih cepat? Melihatmu bekerja perlahan seperti ini seperti siksaan bagiku.</Events.1.Story>
+			<Events.2.Story>Kamu seharusnya malu karena menggunakanku dengan skill rendah seperti itu! Jika saya punya tangan, saya mungkin sudah menyelesaikannya sejak lama!</Events.2.Story>
+		</Text>
+		<Text Name="JGPlantHarvest">
+			<Events.0.Story>[hename]Tongkang! Tinggalkan beberapa untukku!</Events.0.Story>
+			<Events.1.Story>Hati-hati, atau Anda bisa menjatuhkannya!</Events.1.Story>
+		</Text>
+		<Text Name="JGInteractive">
+			<Events.0.Story>Tongkang![hename]Apa rencanamu denganku!?</Events.0.Story>
+			<Events.1.Story>Tolong bantu saya menggaruk punggung saya.</Events.1.Story>
+			<Events.2.Story>Benda ini sangat jelek!</Events.2.Story>
+		</Text>
+		<Text Name="JGInjured">
+			<Events.0.Story>Ya Tuhan, itu akan membunuhku! Tolong bantu!</Events.0.Story>
+			<Events.1.Story>Bos yang terhormat Tolong ampuni hidupku! Aku berjanji tidak akan banyak bicara lagi!</Events.1.Story>
+			<Events.2.Story>Maafkan aku! Tidak, tolong hentikan! Saya tidak akan bicara omong kosong lagi!</Events.2.Story>
+			<Events.3.Story>Saya akan kembali dari neraka lagi. Dan jangan harap aku mengasihanimu!</Events.3.Story>
+			<Events.4.Story>Jadi kamu tidak makan? Betapa lemahnya! Jika aku jadi kamu, aku akan berhenti sebelum aku mempermalukan diriku sendiri!</Events.4.Story>
+		</Text>
+		<Text Name="JGTalkToNpc">
+			<Events.0.Story>[hename]Tidak, jangan pergi. Tinggallah dan bicaralah denganku dulu!</Events.0.Story>
+			<Events.1.Story>[hename]Kenapa kamu terburu-buru? Mengapa tidak memperlambat dan menghargai dunia di sekitar Anda?</Events.1.Story>
+			<Events.2.Story>[hename]Anda tidak perlu berusaha keras untuk itu. Seorang pemula seperti Anda, bahkan jika Anda mencobanya, itu tidak akan berpengaruh apa pun pada sekte tersebut.</Events.2.Story>
+			<Events.3.Story>[hename]Ajak aku keluar sebentar!</Events.3.Story>
+			<Events.4.Story>[hename]Lihat aku!</Events.4.Story>
+			<Events.5.Story>[hename]Kemarilah!</Events.5.Story>
+			<Events.6.Story>[hename]Anda tampak sangat sibuk setiap hari. Apakah master sekte sialan itu sudah membayarmu batu roh?</Events.6.Story>
+			<Events.7.Story>[hename]kiri-kiri kiri-kanan--kiri Ayo maju!!</Events.7.Story>
+			<Events.8.Story>[hename]Lari, kesepian mengejarmu!</Events.8.Story>
+		</Text>
+	</List>
+</Texts>
