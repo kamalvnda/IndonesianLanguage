@@ -1,0 +1,52 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Horse_All_0">
+			<DisplayName>Bonus Kecepatan Penerbangan Petualangan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_All_7">
+			<DisplayName>Bonus Qi Maksimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Rabbit_10">
+			<DisplayName>kelinci</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Chicken_10">
+			<DisplayName>ayam</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Wolf_10">
+			<DisplayName>serigala</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Snake_10">
+			<DisplayName>ular</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Boar_10">
+			<DisplayName>babi hutan</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Bear_10">
+			<DisplayName>beruang</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Frog_10">
+			<DisplayName>katak</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Turtle_10">
+			<DisplayName>penyu</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cat_10">
+			<DisplayName>kucing</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cattle_10">
+			<DisplayName>banteng</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Tiger_10">
+			<DisplayName>harimau</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Panda_10">
+			<DisplayName>panda</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_LuShu_0">
+			<DisplayName>Lu Su</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Fei_0">
+			<DisplayName>Fei!</DisplayName>
+		</Text>
+	</List>
+</Texts>
