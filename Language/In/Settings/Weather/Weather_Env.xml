@@ -1,0 +1,85 @@
+<Weathers>
+  <List>
+	<Weather Name="YinChaos">
+		<DisplayName>Malam Abadi (Batu Aneh Yin Yang)</DisplayName>
+		<StoryDesc/>
+		<Icon>res/Sprs/ui/icon_yinzhiyongye01</Icon>
+		<CantOver>1</CantOver>
+		<Modifier/>
+		<DurationMin>1</DurationMin>
+		<DurationMax>1</DurationMax>
+		<LockHour>23</LockHour>
+		<CantDispel>1</CantDispel>
+	</Weather>
+	<Weather Name="Hotpot_Heat">
+		<DisplayName>Gelombang Panas (Mulut Paru-Paru Bumi)</DisplayName>
+		<StoryDesc>Mulut Paru-paru Bumi akhir-akhir ini tidak stabil, terus-menerus memuntahkan gelombang panas.</StoryDesc>
+		<Icon>res/Sprs/ui/icon_relang01</Icon>
+		<Kind>Type3</Kind>
+		<ClassName/>
+		<DurationMin>1</DurationMin>
+		<DurationMax>3</DurationMax>
+		<SunColor>FEFFCCFF</SunColor>		
+		<CantDispel>1</CantDispel>
+		
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="0.8"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="12"/>
+			
+			<li Name="MuBroken" Value="0.04"/>
+			<li Name="HuoBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+
+	<Weather Name="ColdHole_Cold">
+		<DisplayName>Qi Dingin (Tungku Xuan Bing Dan)</DisplayName>
+		<StoryDesc>Tungku Xuan Bing Dan tidak stabil, dan udara dingin terus keluar darinya.</StoryDesc>
+		<Icon>res/Sprs/ui/icon_hanliu01</Icon>
+		<Kind>Type3</Kind>
+		<ClassName/>
+		<DurationMin>1</DurationMin>
+		<DurationMax>3</DurationMax>
+		<SunColor>8090FFFF</SunColor>	
+		<CantDispel>1</CantDispel>
+		
+		<Thunder>0</Thunder>
+		<ShowKind>None</ShowKind>
+		<ShowWeight>0</ShowWeight>
+		<Season>
+			<li>Spring</li>
+			<li>Summer</li>
+			<li>Autumn</li>
+			<li>Winter</li>
+		</Season>	
+		
+		<MapEffect>
+			<li Name="IntensityOfFire" Value="-1"/>
+			<li Name="LightAddP" Value="0"/>
+			<li Name="TempAddV" Value="-10"/>
+			
+			<li Name="JinBroken" Value="0.04"/>
+			<li Name="ShuiBroken" Value="0.04"/>
+		</MapEffect>
+	</Weather>
+	
+	<Weather Name="Lightning_DragonHole" Parent="LightningStorm">
+		<DisplayName>Badai Petir (Gua Misterius)</DisplayName>
+	</Weather>
+	
+	<Weather Name="DustStorm_Dimu" Parent="DustStorm">
+		<DisplayName>Badai Debu (Prasasti Ibu Bumi)</DisplayName>
+	</Weather>
+	
+</List>
+</Weathers>
