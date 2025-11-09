@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainHall_Base">
+			<DisplayName>Aula utama dasar</DisplayName>
+		</Text>
+		<Text Name="MainHall1">
+			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan.</Desc>
+		</Text>
+		<Text Name="MainHall2">
+			<DisplayName>Aula utama perantara</DisplayName>
+			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula utama pusat akan lebih besar dari sebelumnya. Hal ini juga memungkinkan untuk membangun lebih banyak bangunan. Patung dewa juga dapat ditempatkan di aula utama untuk mewariskan iman kepada para penggarap jalan ketuhanan.</Desc>
+		</Text>
+		<Text Name="MainHall3">
+			<DisplayName>Aula utama tingkat tinggi</DisplayName>
+			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula Utama tingkat tinggi akan memperluas wilayah Anda lebih jauh. Ini juga dapat membantu menciptakan keajaiban di kota ini.</Desc>
+		</Text>
+		<Text Name="MainHall4">
+			<DisplayName>Aula utama tingkat tinggi</DisplayName>
+			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula Utama tingkat tinggi akan memperluas wilayah Anda lebih jauh. Ini juga dapat membantu menciptakan keajaiban di kota ini.</Desc>
+		</Text>
+	</List>
+</Texts>
