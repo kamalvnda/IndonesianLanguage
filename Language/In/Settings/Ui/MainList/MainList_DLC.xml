@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BambooBed">
+			<Type>Barang</Type>
+		</Text>
+		<Text Name="BambooLight">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="Building_BambooScreen1">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="Building_BambooScreen2">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="Building_WaterWheel">
+			<Type>Dekorasi</Type>
+			<Label>dekorasi taman</Label>
+		</Text>
+		<Text Name="Building_BambooPavilion">
+			<Type>Dekorasi</Type>
+			<Label>dekorasi taman</Label>
+		</Text>
+		<Text Name="LsPanda_Carve">
+			<Type>Hewan peliharaan</Type>
+		</Text>
+	</List>
+</Texts>
