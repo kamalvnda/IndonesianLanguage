@@ -1,0 +1,73 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="kind_1">
+			<Desc>Karakter yang terbang ke surga: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_2">
+			<Desc>Petualangan: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_3">
+			<Desc>Persiapan Obat/Alkimia: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_4">
+			<Desc>Artefak dibuat: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_5">
+			<Desc>Yantra ditarik: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_6">
+			<Desc>Makhluk yang terbunuh: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_7">
+			<Desc>Penggarap yang Terbunuh: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_8">
+			<Desc>Makanan yang dibuat: {0:F0} Jenis</Desc>
+		</Text>
+		<Text Name="kind_9">
+			<Desc>Seni Langka: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_10">
+			<Desc>Rayuan yang Berhasil: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_11">
+			<Desc>Buku teks yang dipelajari: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_12">
+			<Desc>Murid yang meninggal: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_13">
+			<Desc>Murid dalam yang meninggal: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_14">
+			<Desc>Kepemilikan: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_15">
+			<Desc>Meditasi: {0:F0} detik</Desc>
+		</Text>
+		<Text Name="kind_16">
+			<Desc>Pencarian Jiwa: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_17">
+			<Desc>Umur yang Dibajak: {0:F0} detik</Desc>
+		</Text>
+		<Text Name="kind_18">
+			<Desc>Semangat Halus: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_19">
+			<Desc>Jiwa yang Tertangkap: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_20">
+			<Desc>Mayat yang dimurnikan: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_21">
+			<Desc>Pengorbanan: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_22">
+			<Desc>Roh Berhantu: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_23">
+			<Desc>Artefak tingkat tinggi: {0:F0}</Desc>
+		</Text>
+	</List>
+</Texts>
