@@ -1,0 +1,59 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_MiBao_1">
+			<DisplayName>Catatan Pembunuhan Utama: Fragmen 1</DisplayName>
+			<Desc>Sebuah catatan rahasia ilmu pedang yang telah diwariskan sejak zaman kuno. Itu mencatat jejak Senjata Suci kuno dan upaya untuk menghasilkan empat Pedang Suci.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno:\nPedang Pembantaian Suci[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_2">
+			<DisplayName>Catatan Kematian: Fragmen 2</DisplayName>
+			<Desc>Sebuah catatan rahasia ilmu pedang yang telah diwariskan sejak zaman kuno. Itu mencatat jejak Senjata Suci kuno dan upaya untuk menghasilkan empat Pedang Suci.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno: \nPedang Kematian[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_3">
+			<DisplayName>Rekor Pedang Tak Berujung: Pecahan 3</DisplayName>
+			<Desc>Sebuah catatan rahasia ilmu pedang yang telah diwariskan sejak zaman kuno. Itu mencatat jejak Senjata Suci kuno dan upaya untuk menghasilkan empat Pedang Suci.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno: \nPedang Tak Berujung[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_4">
+			<DisplayName>Catatan Pedang Abadi: Fragmen 4</DisplayName>
+			<Desc>Sebuah catatan rahasia ilmu pedang yang telah diwariskan sejak zaman kuno. Itu mencatat jejak Senjata Suci kuno dan upaya untuk menghasilkan empat Pedang Suci.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno: \nPedang Abadi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_5">
+			<DisplayName>Kitab Suci Sepuluh Ribu Racun, Pecahan</DisplayName>
+			<Desc>Ajaran asli Kultus Selatan di zaman kuno Sayangnya, sebagian besar isinya telah hilang. Hanya tersisa beberapa lembar kertas. Penggulungan ini mencatat metode untuk menyempurnakan tiga senjata magis paling ganas dari Sekte Iblis.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata magis kuno: \nPedang Lima Racun Orang Suci\nDunia Ilusi\nPasir Penghancur[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_6">
+			<DisplayName>Gulungan Surgawi Guang Cheng, Pecahan</DisplayName>
+			<Desc>Ajaran asli yang ditinggalkan oleh Guang Chengshi sebelum dia naik ke surga. Sayangnya, sebagian besar konten tersebut telah hilang. Hanya tersisa beberapa lembar kertas. Penggulungan ini mencatat metode menempa dua senjata magis pribadi Guang Chengshi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata sihir kuno:\nSembilan Tongkat Surgawi\nJimat Guntur Surgawi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_7">
+			<DisplayName>Catatan Buddha di Dua Dunia, Pecahan</DisplayName>
+			<Desc>Ini berasal dari gambar Buddha kuno. Ini berasal dari gambar Buddha kuno. Namun kini hanya tersisa sebagiannya saja. Di dalam fragmen ini terdapat catatan tentang cara menempa senjata ajaib.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata magis kuno:\nPedang Hati Dewa\nTeratai Emas\nSpanduk Teratai Hijau[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_8">
+			<DisplayName>Catatan aura darah, pecahan</DisplayName>
+			<Desc>Sebuah buku rahasia yang keluar dari dunia iblis. Itu mencatat banyak metode untuk menyempurnakan senjata sihir iblis.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata sihir kuno:\nTaring Serigala Surgawi\nPedang Darah Iblis Surgawi\nMutiara Pembunuh Jiwa[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_9">
+			<DisplayName>Rekam bintang-bintang yang terlupakan</DisplayName>
+			<Desc>Buku misterius dari dunia lain Penulis tidak diketahui Telah mencatat banyak harta berharga yang belum pernah dilihat sebelumnya di dunia budidaya tradisional.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno:\nStardust Shuttle\nGunting Pemakan Jiwa[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_10">
+			<DisplayName>Kitab Suci Kolam Giok</DisplayName>
+			<Desc>Buku itu mengatakan bahwa dia adalah keturunan Permaisuri Barat. Buku tersebut mencatat metode pemurnian senjata magis salah satu dari Lima Bendera Alam Semesta.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode menempa senjata sihir kuno:\nBendera Awan Putih[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_11">
+			<DisplayName>Catatan Pemurnian Dewa Perang</DisplayName>
+			<Desc>Sebuah buku yang dibuat oleh Dewa Perang di Pengadilan Hukum Surgawi. Buku tersebut mencatat metode pemurnian senjata magis salah satu dari Lima Bendera Alam Semesta.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode menempa senjata ajaib kuno:\nBendera Gagak[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>
