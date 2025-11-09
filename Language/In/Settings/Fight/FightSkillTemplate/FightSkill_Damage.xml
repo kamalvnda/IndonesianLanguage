@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TDamageSkill">
+			<DisplayName>Keterampilan Kerusakan</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_1">
+			<DisplayName>Qi bawaan</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_2">
+			<DisplayName>badai api</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_3">
+			<DisplayName>Baut Ilahi</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_4">
+			<DisplayName>Pukulan jiwa</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong4_1">
+			<DisplayName>Kekacauan Batal</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong7_1">
+			<DisplayName>Pedang Auraforce</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Teach">
+			<DisplayName>Keterampilan Tutorial</DisplayName>
+		</Text>
+	</List>
+</Texts>
