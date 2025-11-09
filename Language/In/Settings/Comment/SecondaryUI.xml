@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>Komentar pada sistem pesan</Notes>
+			<Title>Sistem pesan</Title>
+			<Desc>Kategori sistem pesan</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>Pendapat tentang bangunan</Notes>
+			<Title>bangunan</Title>
+			<Desc>Kategori bangunan</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>Komentar tentang status karakter</Notes>
+			<Title>Status karakter</Title>
+			<Desc>Kategori status karakter</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>Komentar tentang masyarakat karakter</Notes>
+			<Title>Masyarakat karakter</Title>
+			<Desc>Kategori sosial karakter</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>Pendapat tentang vitalitas karakter</Notes>
+			<Title>kekuatan hidup</Title>
+			<Desc>Kategori kekuatan hidup</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>Komentar pada Pengembangan/Pelatihan Karakter</Notes>
+			<Title>karakter</Title>
+			<Desc>Kategori karakter</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>Komentar tentang pelatihan karakter dasar</Notes>
+			<Title>Pelatihan dasar</Title>
+			<Desc>Kategori pelatihan dasar</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>Pendapat tentang nilai kecerdasan karakter</Notes>
+			<Title>Nilai kecerdasan</Title>
+			<Desc>Kategori intelijen</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>Pendapat tentang perlengkapan karakter</Notes>
+			<Title>peralatan</Title>
+			<Desc>Kategori peralatan</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>Pendapat tentang perlengkapan dan rahasia modifikasi bodi</Notes>
+			<Title>Peralatan dan rahasia modifikasi tubuh</Title>
+			<Desc>Peralatan dan rahasia modifikasi tubuh</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>Mengomentari rencana pertempuran karakter</Notes>
+			<Title>Rencana pertempuran</Title>
+			<Desc>Kategori rencana pertempuran</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>Komentar pada detail status karakter</Notes>
+			<Title>Detail status</Title>
+			<Desc>Kategori detail status</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>Mengomentari resistensi obat karakter</Notes>
+			<Title>Resistensi Obat</Title>
+			<Desc>Kategori resistensi obat</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>Pendapat tentang misteri</Notes>
+			<Title>Misteri</Title>
+			<Desc>Kategori misteri</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>Pendapat tentang NPC</Notes>
+			<Title>NPC</Title>
+			<Desc>kategori NPC</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>Komentar tentang petunjuk</Notes>
+			<Title>petunjuk</Title>
+			<Desc>Kategori petunjuk</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>Pendapat tentang tata letak kamp</Notes>
+			<Title>Tata letak kamp</Title>
+			<Desc>Kategori tata letak kamp</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>Pendapat tentang penyesuaian kamp</Notes>
+			<Title>Kustomisasi mekanis</Title>
+			<Desc>Kategori kustomisasi mekanis</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>Pendapat tentang unsur kubu</Notes>
+			<Title>elemen perkemahan</Title>
+			<Desc>Kategori elemen kamp</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>Pendapat tentang jadwal kerja</Notes>
+			<Title>Jadwal kerja</Title>
+			<Desc>Kategori jadwal kerja</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>Pendapat tentang kantor secara keseluruhan</Notes>
+			<Title>kantor</Title>
+			<Desc>kantor</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>Pendapat tentang rencana pembangunan kantor</Notes>
+			<Title>Rencana pembangunan kantor</Title>
+			<Desc>Rencana pembangunan kantor</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>Pendapat tentang siswa di sekte tersebut</Notes>
+			<Title>murid sekte</Title>
+			<Desc>murid sekte</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>Pendapat tentang diplomasi Biro</Notes>
+			<Title>Diplomasi Biro</Title>
+			<Desc>Diplomasi Biro</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>Pendapat tentang manajemen daya</Notes>
+			<Title>Manajemen Daya</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>Pendapat tentang pengiriman hadiah kantor</Notes>
+			<Title>hadiah</Title>
+			<Desc>Hadiah kantor</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>Komentar tentang perdagangan antar sekte</Notes>
+			<Title>Perdagangan antar sekte</Title>
+			<Desc>Perdagangan antar sekte</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>Komentar pada pesan kantor</Notes>
+			<Title>pesan biro</Title>
+			<Desc>pesan biro</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>Komentar tentang peraturan kantor</Notes>
+			<Title>Peraturan Kantor</Title>
+			<Desc>Peraturan Kantor</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>Pendapat tentang perdagangan</Notes>
+			<Title>berdagang</Title>
+			<Desc>berdagang</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>Pendapat tentang kerahasiaan</Notes>
+			<Title>rahasia</Title>
+			<Desc>rahasia</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>Pendapat tentang penempaan</Notes>
+			<Title>menempa</Title>
+			<Desc>menempa</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>Pendapat tentang beternak hewan sekte setan</Notes>
+			<Title>Memelihara hewan sekte iblis</Title>
+			<Desc>Memelihara hewan sekte iblis</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>Pendapat tentang pelatihan binatang sekte iblis</Notes>
+			<Title>Mengolah Binatang Iblis</Title>
+			<Desc>Mengolah Binatang Iblis</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>Pendapat tentang nutrisi binatang sekte setan</Notes>
+			<Title>Nutrisi Sekte Setan</Title>
+			<Desc>Nutrisi Sekte Setan</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>Pendapat tentang perilaku hewan sekte setan</Notes>
+			<Title>Perilaku hewan sekte iblis</Title>
+			<Desc>Perilaku hewan sekte iblis</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>Pendapat tentang pemikiran dan gagasan</Notes>
+			<Title>pemikiran dan gagasan</Title>
+			<Desc>pemikiran dan gagasan</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>Mengenai kesadaran: Komentar tentang kesadaran.</Notes>
+			<Title>Pemikiran: Kesadaran</Title>
+			<Desc>Salah satu dari tiga prinsip Pecahan kristal kesadaran dapat digabungkan menjadi satu kesadaran.</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>Mengenai pikiran: Pendapat tentang rasionalitas.</Notes>
+			<Title>Pemikiran: Rasionalitas</Title>
+			<Desc>Salah satu dari tiga prinsip Fragmen kristal nalar dapat digabungkan menjadi satu rasionalitas.</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>Konseptual: Pendapat tentang konsep.</Notes>
+			<Title>ide: konsep</Title>
+			<Desc>Salah satu dari tiga prinsip Fragmen pemikiran kristal dapat digabungkan menjadi satu konsep.</Desc>
+		</Text>
+	</List>
+</Texts>
