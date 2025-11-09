@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Box_Cargo" sParam="Plant">
+			<ThingName>kotak antik</ThingName>
+			<Desc>Kotak produk telah terpelihara dengan baik. Tampaknya hilang karena kepanikan masyarakat yang melarikan diri dari bahaya perang.</Desc>
+			<StoryBnts.0.Name>mengeksplorasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Jelajahi kotak-kotak ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse" sParam="Plant">
+			<ThingName>tubuh yang membusuk</ThingName>
+			<Desc>Mayat yang sudah lama membusuk. Saya tidak tahu angka apa itu. Bagaimana ini bisa mati di sini?</Desc>
+			<StoryBnts.0.Name>mengeksplorasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Jelajahi sketsa ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
+			<ThingName>tubuh yang membusuk</ThingName>
+			<Desc>Mayat yang sudah lama membusuk. Saya tidak tahu angka apa itu. Bagaimana ini bisa mati di sini?</Desc>
+			<StoryBnts.0.Name>mengeksplorasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Jelajahi sketsa ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
+			<ThingName>tubuh yang membusuk</ThingName>
+			<Desc>Mayat yang sudah lama membusuk. Saya tidak tahu angka apa itu. Bagaimana ini bisa mati di sini?</Desc>
+			<StoryBnts.0.Name>mengeksplorasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Jelajahi sketsa ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
+			<ThingName>Tubuh setengah membusuk</ThingName>
+			<Desc>Mayatnya membusuk dan saya tidak tahu mengapa hewan-hewan itu tidak memakannya.</Desc>
+			<StoryBnts.0.Name>menyentuh</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk terhubung dengan rohnya melalui indra spiritual Anda.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+			<ThingName>mayat yang baru saja mati</ThingName>
+			<Desc>Mayat yang baru saja meninggal di sini karena suatu alasan.</Desc>
+			<StoryBnts.0.Name>mengeksplorasi</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Jelajahi sketsa ini.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
