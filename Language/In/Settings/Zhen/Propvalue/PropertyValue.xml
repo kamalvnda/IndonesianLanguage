@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Stability">
+			<Descript>Stabilitas {1}{0:N1}%</Descript>
+			<ToolTips>Formasi kehilangan stabilitas saat diserang. Jika stabilitas formasi turun menjadi 0, formasi akan hancur.</ToolTips>
+		</Text>
+		<Text Name="FabaoAtkPower">
+			<Descript>Keahlian Senjata Ajaib {1}{0:N1}</Descript>
+			<ToolTips>Kekuatan senjata ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan senjata ajaib akan mempengaruhi peningkatan senjata ajaib inti.</ToolTips>
+			<LuaToolTips>string.format("Kekuatan senjata ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan senjata ajaib akan mempengaruhi peningkatan senjata ajaib inti.\nPeningkatan Kekuatan Artefak: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="MagicPower">
+			<Descript>Keterampilan Qi Ajaib {1}{0:N1}</Descript>
+			<ToolTips>Kekuatan qi ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan qi ajaib akan berpengaruh pada peningkatan kekuatan senjata ajaib inti.</ToolTips>
+			<LuaToolTips>string.format("Kekuatan qi ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan qi ajaib akan berpengaruh pada peningkatan kekuatan senjata ajaib inti.\nPeningkatan Kekuatan Mantra: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="Sheild">
+			<Descript>Qi Armor {1}{0:N1}</Descript>
+			<ToolTips>Saat formasi diserang Sebagian dari kerusakan yang diterima diserap oleh formasi, dan semua karakter dalam formasi membagi sisa kerusakan secara merata. Setiap kamp akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. antara semua karakter di kamp</ToolTips>
+			<LuaToolTips>string.format("Kamp akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. Di antara semua karakter di kamp, ​​kemah akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. Di antara semua karakter di kamp\nPengurangan Kerusakan: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+		</Text>
+		<Text Name="SkillCooldown">
+			<Descript>Penggunaan {1}{0:N1}</Descript>
+			<ToolTips>saat formasi masih bekerja, energinya akan terakumulasi seiring berjalannya waktu. yang dapat digunakan untuk melepaskan kemampuan khusus Selain itu, Qi semua karakter dalam formasi seimbang secara dinamis saat formasi masih aktif.\nPenggunaan kemampuan mempengaruhi laju akumulasi energi dan siklus keseimbangan Qi.</ToolTips>
+			<LuaToolTips>string.format("saat formasi masih aktif Ini akan mengumpulkan energinya seiring waktu. yang dapat digunakan untuk melepaskan kemampuan khusus Selain itu, Qi semua karakter dalam formasi seimbang secara dinamis saat formasi masih beroperasi.\nKemampuan penggunaan mempengaruhi tingkat akumulasi energi dan siklus keseimbangan Qi.\nLaju Pengurangan Siklus Operasi: %.0f%%\nSiklus Akumulasi Wawasan: %.0f detik\nSiklus Keseimbangan Qi: %.0f detik", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+		</Text>
+		<Text Name="ReduceCost">
+			<Descript>Efisiensi perusahaan mesin {1}{0:N1}</Descript>
+			<ToolTips>Saat formasi dibuat Mempertahankannya dan menggunakan keterampilan formasi akan menyebabkan qi setiap karakter dalam formasi terkuras. Jumlah energi yang dibutuhkan untuk mempertahankan formasi berhubungan dengan jumlah energi maksimal karakter pada posisi inti. Energi yang dibutuhkan untuk menggunakan keajaiban formasi terkait dengan kekuatan sihir.\nEfisiensi formasi mempengaruhi energi yang digunakan dalam berbagai tindakan. Di dalam formasi</ToolTips>
+			<LuaToolTips>string.format("Ketika formasi telah dibuat, Mempertahankan dan menggunakan keterampilan formasi akan menyebabkan qi setiap karakter dalam formasi terkuras. Jumlah energi yang dibutuhkan untuk mempertahankan formasi terkait dengan jumlah energi maksimum karakter di posisi inti. Energi yang diperlukan untuk menggunakan keajaiban formasi terkait dengan kekuatan sihir.\nEfisiensi formasi mempengaruhi energi yang digunakan dalam berbagai tindakan dalam formasi. \nBiaya Saat Ini Dikurangi: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerup">
+			<Descript>Ukuran Formasi {1}{0:N1}</Descript>
+			<ToolTips>Ukuran suatu formasi ditentukan oleh jumlah inti dalam formasi tersebut. Semakin besar jumlah inti, semakin besar ukuran formasinya. Kemampuan inti menentukan ukuran maksimum formasi. Jika karakter membuat formasi yang melebihi kemampuannya, Stabilitas formasi akan sangat berkurang.</ToolTips>
+			<LuaToolTips>string.format("Ukuran formasi ditentukan oleh jumlah inti dalam formasi. Semakin besar jumlah inti, semakin besar ukuran formasi. \nKemampuan inti menentukan ukuran maksimum formasi. Jika karakter membuat formasi melebihi kemampuannya, Stabilitas mesin akan sangat berkurang. \nStabilitas Formasi Saat Ini yang Disesuaikan: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPressurePowerup">
+			<Descript>Mesin memuat {1}{0:N1}</Descript>
+			<ToolTips>Beban kamp ditentukan oleh kompleksitas struktur kamp. Formasi dengan sub-inti yang lebih jauh dari inti utama akan mempunyai beban yang lebih besar. Kemampuan inti menentukan beban maksimum yang dapat ditanggung oleh formasi. Jika karakter utama membuat formasi yang melebihi kemampuannya, beban pada formasi akan meningkat.</ToolTips>
+			<LuaToolTips>string.format("Beban pada formasi ditentukan oleh kompleksitas struktur formasi. Formasi dengan sub-inti yang jauh dari inti utama akan memiliki beban yang lebih besar.\nKapasitas inti menentukan beban maksimum yang dapat ditanggung oleh formasi. Jika karakter utama membuat formasi yang melebihi kemampuannya, Beban formasi akan meningkat secara eksponensial. \nQi Biaya/detik: %.0f", z.CostLingPerSec)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPoint">
+			<Descript>Energi formasi {1}{0:N1}</Descript>
+			<ToolTips>Saat formasi terus digunakan, Ia akan menyimpan sebagian energinya. Energi itu dapat digunakan untuk melepaskan keterampilan sihir formasi. Namun, formasi tersebut memiliki batasan pada akumulasi energinya. Ketika batas itu tercapai, maka tidak dapat ditingkatkan lagi.</ToolTips>
+		</Text>
+	</List>
+</Texts>
