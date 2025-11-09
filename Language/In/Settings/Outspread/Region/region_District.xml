@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Region_Base">
+			<Desc>Ini adalah area di mana berbagai bangunan dapat dibangun. Ada banyak jenis.</Desc>
+		</Text>
+		<Text Name="zhongyuan">
+			<DisplayName>dataran tengah</DisplayName>
+			<Desc>Produksi : Batu Coklat (banyak), Kayu (sedikit), Gandum (sedikit)</Desc>
+		</Text>
+		<Text Name="JiangAnWoYe">
+			<DisplayName>Lapangan polos Sai Nam Huan</DisplayName>
+			<Desc>Produksi: gandum (banyak), batu coklat (sedikit)</Desc>
+		</Text>
+		<Text Name="DaXueYuan">
+			<DisplayName>tanah salju abadi</DisplayName>
+			<Desc>Produktivitas: Batu Roh (banyak), Kayu (sedikit)</Desc>
+		</Text>
+		<Text Name="DaMo">
+			<DisplayName>Gurun tanpa batas</DisplayName>
+			<Desc>Produktivitas: Batu Roh (banyak), Batu (sedikit)</Desc>
+		</Text>
+		<Text Name="NanHuang">
+			<DisplayName>hutan selatan</DisplayName>
+			<Desc>Produktivitas: kayu (banyak)</Desc>
+		</Text>
+		<Text Name="OurPlace">
+			<DisplayName>pegunungan selatan</DisplayName>
+			<Desc>Produktivitas: Kayu, Batu, Gandum</Desc>
+		</Text>
+	</List>
+</Texts>
