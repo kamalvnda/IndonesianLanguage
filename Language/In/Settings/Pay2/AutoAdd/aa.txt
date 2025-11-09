@@ -1,0 +1,8 @@
+ID	UseTips
+CallTrader	Kesuksesan! Seorang pedagang dunia telah datang ke sekte Anda.
+CallZuShiBiHu	Kesuksesan! Kerumunan tenggelam dalam Qi yang turun dari Dunia Abadi, dan lima elemen menjadi sangat aktif.
+ClearWeather	Kesuksesan! Kekuatan yang kuat menghilangkan segala cuaca.
+ResurrectionNpc	Kesuksesan!
+RerollFabao	Kesuksesan!
+RerollMapStory	Kesuksesan!
+RerollCuiTi	Kesuksesan!
