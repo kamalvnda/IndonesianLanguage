@@ -1,0 +1,154 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Sunny">
+			<DisplayName>Cuacanya cerah.</DisplayName>
+			<Desc>Hari ini cuacanya sangat bagus.</Desc>
+			<StoryDesc>Saya merasa cuacanya bagus. Ini membuatku merasa bahagia!</StoryDesc>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>Berawan</DisplayName>
+			<Desc>Langit sangat mendung.</Desc>
+			<StoryDesc>Merasa tertekan karena cuaca yang suram</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>Hujan ringan</DisplayName>
+			<Desc>Hujan gerimis.</Desc>
+			<StoryDesc>Aku merasa hujan yang turun menenangkan pikiranku.</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>Hujan lebat</DisplayName>
+			<Desc>Hujan deras!</Desc>
+			<StoryDesc>Merasa kesal dengan derasnya hujan</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>Salju sedang turun.</DisplayName>
+			<Desc>Sedikit turun salju!</Desc>
+			<StoryDesc>Aku merasa salju yang berserakan membuat semangatku jernih.</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>Salju lebat</DisplayName>
+			<Desc>Sedang turun salju lebat!</Desc>
+			<StoryDesc>Saya merasa salju lebat yang turun seperti ini sungguh menyegarkan.</StoryDesc>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>Kabut tebal</DisplayName>
+			<Desc>Kabutnya sangat tebal sehingga kami hampir tidak bisa melihat jalan!</Desc>
+			<StoryDesc>Saya merasa kabut tebal seperti ini cukup mengganggu.</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>aroma musim semi</DisplayName>
+			<Desc>Musim semi akhirnya tiba!</Desc>
+			<StoryDesc>Aku merasa datangnya musim semi benar-benar membuat semangatku ceria.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>Suasananya suram.</DisplayName>
+			<Desc>Saya tidak tahu kenapa. Namun suasana suram ini sungguh membuatku merasa tertekan...</Desc>
+			<StoryDesc>Rasanya suasana suram telah meninggalkan rasa duka di hati.</StoryDesc>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>musim panen</DisplayName>
+			<Desc>Selamat musim panen!</Desc>
+			<StoryDesc>Panen yang begitu melimpah dirasa membuat semua orang puas.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>Suasana menjadi marah.</DisplayName>
+			<Desc>Sulit untuk menenangkan diri dalam suasana ini.</Desc>
+			<StoryDesc>Merasa gelisah karena suasana marah</StoryDesc>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>Memanggil</DisplayName>
+			<Desc>Ini hujan es.</Desc>
+			<StoryDesc>Merasa khawatir karena hujan es tersebut</StoryDesc>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>musim hujan</DisplayName>
+			<Desc>Musim hujan telah tiba.</Desc>
+			<StoryDesc>Merasa kesal karena sedang musim hujan.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>musim kemarau</DisplayName>
+			<Desc>Musim kemarau telah tiba.</Desc>
+			<StoryDesc>Saya merasa kekeringan selalu membuat masyarakat khawatir.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>hujan badai</DisplayName>
+			<Desc>Saat itu hujan deras.</Desc>
+			<StoryDesc>Saya merasa hujan badai seperti ini sering kali membuat masyarakat was-was.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>badai tropis</DisplayName>
+			<Desc>Badai angin panas telah melanda.</Desc>
+			<StoryDesc>Rasanya angin panas kerap membuat semua orang merasa tubuhnya dehidrasi.</StoryDesc>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>badai pasir</DisplayName>
+			<Desc>Badai pasir telah melanda.</Desc>
+			<StoryDesc>Rasanya seperti badai pasir menyebarkan kotoran kemana-mana.</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>Nafasnya mengering.</DisplayName>
+			<Desc>Hampir tidak ada Qi alami yang tersisa.</Desc>
+			<StoryDesc>Saya merasa fenomena Qi saya mengering membuat saya merasa tidak nyaman.</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>Respirasi melonjak</DisplayName>
+			<Desc>Qi alaminya sangat padat.</Desc>
+			<StoryDesc>Qi alami yang begitu padat dirasakan membuat orang merasa gembira.</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>gelombang panas</DisplayName>
+			<Desc>Suhu tiba-tiba naik. Panas sekali sampai-sampai aku tidak tahan...</Desc>
+			<StoryDesc>Saya merasakannya tiba-tiba Peningkatan suhu yang tiba-tiba membuat saya merasa cemas.</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>gelombang dingin</DisplayName>
+			<Desc>Suhu tiba-tiba turun, dingin sekali.</Desc>
+			<StoryDesc>Saya merasakan penurunan suhu yang tiba-tiba dapat dengan mudah membuat Anda sakit.</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>angin hangat</DisplayName>
+			<Desc>Angin hangat di musim dingin sungguh menenangkan.</Desc>
+			<StoryDesc>Merasakan ada semilir angin hangat Musim dingin yang bertiup membuatku ingin meregangkan kakiku.</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>angin dingin</DisplayName>
+			<Desc>Angin dingin yang bertiup di musim panas membuat Anda merasa nyaman.</Desc>
+			<StoryDesc>Merasakan ada angin sejuk yang bertiup sepanjang musim panas membuatku merasa cukup rileks.</StoryDesc>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>malam abadi</DisplayName>
+			<Desc>Malam abadi telah tiba.</Desc>
+			<StoryDesc>Rasanya fenomena Malam Abadi agak menakutkan.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>Kabut beracun</DisplayName>
+			<Desc>Udara beracun menyapu.</Desc>
+			<StoryDesc>Rasanya akan lebih baik untuk menemukan sesuatu untuk menutupi mulut dan hidung Anda dalam suasana beracun seperti itu.</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>badai petir</DisplayName>
+			<Desc>Badai petir menyebabkan kekacauan</Desc>
+			<StoryDesc>Badai petir seperti ini dirasa menimbulkan rasa panik.</StoryDesc>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>melodi yang indah</DisplayName>
+			<Desc>Suara nyanyian Lu Su sangat merdu.</Desc>
+			<StoryDesc>Rasakan tenggelam dalam suara indah Lu Su.</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>festival musim semi</DisplayName>
+			<Desc>Suasananya ceria dan orang-orang mabuk.</Desc>
+			<StoryDesc>Merasa santai dalam suasana Festival Musim Semi.</StoryDesc>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>Perlindungan dari nenek moyang</DisplayName>
+			<Desc>Perlindungan dari nenek moyang memenuhi seluruh sekte dengan aura seorang ahli.</Desc>
+			<StoryDesc>Saya merasa nyaman karena aliran Qi mengalir turun dari alam surga.</StoryDesc>
+		</Text>
+		<Text Name="Weather_DanQi">
+			<DisplayName>Menyebarkan Qi obat</DisplayName>
+			<Desc>Kekuatan Qi obat yang melimpah menyebar ke seluruh penjuru.</Desc>
+			<StoryDesc>Tenggelam dalam qi obat yang kaya</StoryDesc>
+		</Text>
+	</List>
+</Texts>
