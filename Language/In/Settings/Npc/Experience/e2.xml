@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YaoGuai_Experiences0">
+			<DisplayName>binatang yang cerdas</DisplayName>
+			<Desc>Anda dulunya hanyalah binatang iblis yang hidup di pegunungan Sekte Tai Yi. Selama siang dan malam menyerap Qi Langit dan Bumi, dia perlahan-lahan sadar kembali. Pada malam kehancuran Sekte Tai Yi, Ancaman kematian yang akan segera terjadi memaksa Anda untuk melampaui batasan Anda dan berubah menjadi iblis.\n Sebagai rasa terima kasih kepada Sekte Tai Yi yang telah merawat Anda dan memberi Anda perlindungan. Dia masuk dan membantai para penyerbu itu. Tapi karena takdir misterius, usahamu untuk menerobos masuk dan bunuh diri terlihat oleh sesepuh Sekte Tai Yi yang sedang sekarat.\n dengan keinginan yang kuat Tetua ini mengerahkan kekuatan terakhirnya untuk menyampaikan kepadamu banyak kenangan dan sumber daya yang awalnya ingin dia berikan kepada para murid sekte untuk digunakan dalam melarikan diri. dan untuk sementara menanamkan pemikiran untuk memaksa melarikan diri ke dalam otak Anda. Didorong oleh ide ini Jadi dia lari menyelamatkan nyawanya dan mencoba melarikan diri dari kehancuran Sekte Tai Yi.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences1">
+			<DisplayName>Warisan Enam Belas Langkah Menuju Penguasaan</DisplayName>
+			<Desc>Penatua yang sekarat dari Enam Belas Langkah ke Aula Abadi mengirimkan kenangan yang berisi teknik budidaya Enam Belas Langkah Menuju Keabadian, yang merupakan salah satu teknik budidaya sejati dari Sekte Tai Yi.\n\n\n[size=10]Buka Kunci Subjek Budidaya:[color=#D06508]Enam belas langkah untuk dikuasai[/color]\nStatistik yang diperlukan: Stamina Tinggi, Karisma Sedang, Kecerdasan Sedang[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences2">
+			<DisplayName>Warisan Bintang</DisplayName>
+			<Desc>Seorang tetua dari Aula Bintang Emas yang sekarat mengirimkan kenangan berisi teknik budidaya Pedang Pemotong Bintang Emas, yang merupakan salah satu teknik budidaya sejati Sekte Tai Yi.\n\n\n[size=10]Buka Kunci Subjek Budidaya:[color=#D06508]Pedang Emas Memotong Bintang[/color]\nStatistik yang diperlukan: Persepsi Tinggi, Stamina Sedang, Kecerdasan Sedang[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences3">
+			<DisplayName>Warisan siklus kematian</DisplayName>
+			<Desc>Seorang tetua dari Aula Kehidupan Sekarat mengirimkan kenangan yang berisi teknik budidaya Enam Jalan Kelahiran Kembali, yang merupakan salah satu teknik budidaya sejati Sekte Tai Yi.\n\n\n[size=10]Buka Kunci Subjek Budidaya:[color=#D06508]Enam cara kelahiran kembali[/color]\nStatistik yang diperlukan: Stamina Sedang, Persepsi Tinggi, Kecerdasan Tinggi[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences4">
+			<DisplayName>Warisan matahari yang sebenarnya</DisplayName>
+			<Desc>Seorang tetua dari Paviliun Matahari Sejati yang sekarat mengirimkan kenangan berisi Teknik Budidaya Matahari Sejati, yang merupakan salah satu teknik budidaya sejati dari Sekte Tai Yi.\n\n\n[size=10]Buka Kunci Subjek Budidaya:[color=#D06508]matahari yang sebenarnya[/color]\nAtribut yang Diperlukan: Persepsi Menengah, Stamina Menengah, Karisma Menengah, Kecerdasan Menengah, Keberuntungan Menengah[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences5">
+			<DisplayName>Warisan bunga matahari</DisplayName>
+			<Desc>Tetua dari Aula Bunga Matahari Sekarat mengirimkan kenangan yang berisi Teknik Pemurnian Bunga Matahari, yang merupakan salah satu teknik budidaya sejati Sekte Tai Yi.\n\n\n[size=10]Buka Kunci Subjek Budidaya:[color=#D06508]Distilasi bunga matahari[/color]\nStatistik yang diperlukan: Persepsi Tinggi, Karisma Tinggi, Kecerdasan Tinggi[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences6">
+			<DisplayName>Warisan Metode Pemurnian Fisik</DisplayName>
+			<Desc>Tetua Tai Yi Sekte yang sekarat mahir dalam semua jenis warisan kuno. Oleh karena itu, ketika saya melihat Anda, saya membangunkan kecerdasan saya. Penatua Ha kemudian menyampaikan kenangan tentang Teknik Fisik Dunia Pertama Terpadu kepada Anda. Ini adalah teknik kuno untuk memurnikan tubuh.\n\n\n[size=10]Membuka kunci:[color=#D06508]Teknik Fisik Dunia Pertama yang Terintegrasi[/color]\nMemulai dengan teknik budidaya ini agak sulit. Tidak disarankan untuk pemula[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences23">
+			<DisplayName>Keberuntungan di gudang senjata ajaib</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Selama pelariannya, dia secara tidak sengaja berlari melalui ruang penempaan senjata ajaib. Dengan ingatan yang diterimanya, secara naluriah dia merasa ada sesuatu yang penting di sana. Jadi, kamu mempertaruhkan nyawamu untuk menyusup ke dalam dan membawa beberapa senjata magis yang berharga.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]Senjata ajaib tingkat tinggi[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences24">
+			<DisplayName>Keberuntungan di ruang pengobatan</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan. Selama pelariannya, dia secara tidak sengaja berlari melalui ruang pemurnian asrama. Dengan ingatan yang diterimanya, secara naluriah dia merasa ada sesuatu yang penting di sana. Jadi, kamu mempertaruhkan nyawamu untuk menyusup ke dalam dan membawa obat-obatan berharga.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]obat tingkat tinggi[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences25">
+			<DisplayName>Keberuntungan di Aula Alkitab</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan. Selama pelariannya, dia secara tidak sengaja berlari melewati aula kitab suci. Dengan ingatan yang diterimanya, secara naluriah dia merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa beberapa kitab suci yang berharga.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]Kitab suci tingkat tinggi[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences26">
+			<DisplayName>Keberuntungan di ruang jimat ajaib</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Saat melarikan diri, dia secara tidak sengaja berlari melalui ruangan yang menyimpan jimat ajaib. Dengan ingatan yang diterimanya, secara naluriah dia merasa ada sesuatu yang penting di sana. Jadi, kamu mempertaruhkan nyawamu untuk menyusup ke dalam dan membawa beberapa jimat ajaib yang berharga bersamamu.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]Jimat ajaib tingkat tinggi[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences31">
+			<DisplayName>lolos dari kematian</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan, Anda fokus untuk melarikan diri dan berusaha keras menghindari makhluk apa pun. Pada akhirnya, dia melarikan diri dari Sekte Tai Yi sendirian.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Turun 2![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences27">
+			<DisplayName>sedikit hati nurani</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia lolos dari bahaya dan bertemu dengan seorang murid yang terbaring tak sadarkan diri di tanah. Jadi dia memutuskan untuk membawa murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Turun menjadi 1![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences29">
+			<DisplayName>mencoba membantu</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia selamat dari bahaya dan bertemu dengan beberapa muridnya yang terbaring tak sadarkan diri di tanah. Oleh karena itu, dia memutuskan untuk membawa murid-murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Meningkat 1![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences30">
+			<DisplayName>Bantulah dengan sekuat tenaga</DisplayName>
+			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia selamat dari bahaya dan menemukan beberapa murid terbaring tak sadarkan diri di tanah. Oleh karena itu, dia memutuskan untuk membawa semua murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Meningkat 2![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences8">
+			<DisplayName>cadangan makanan</DisplayName>
+			<Desc>selama melarikan diri Dengan naluri binatang buas Dia mengumpulkan makanan dalam jumlah besar di jalan sebagai cadangan makanan. Bahkan membunuh beberapa ular dan beruang untuk dikumpulkan sebagai cadangan makanan.\n\n\nPada awalnya[color=#D06508]\nDiterima[color=#D06508]Makanan dan air minum[/color]meningkat di awal[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences9">
+			<DisplayName>naluri binatang</DisplayName>
+			<Desc>selama melarikan diri Anda menggunakan naluri binatang yang tajam untuk mengumpulkan berbagai item. Di area sekitar Battlefield\n\n\nDapatkan sumber daya default:[color=#D06508]milik[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences11">
+			<DisplayName>Harmoni rohani</DisplayName>
+			<Desc>selama melarikan diri Mungkin itu karena dia bisa merasakan semangat aslinya yang murni. Obat pembunuh penyakit ilahi yang tersembunyi melayang ke tangan Anda dengan sukarela.\n\n\n[size=10]menerima[color=#D06508]1 pil obat ilahi untuk menghilangkan penyakit[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences14">
+			<DisplayName>Harta Karun dari Murid Cabang Kedokteran</DisplayName>
+			<Desc>selama melarikan diri Anda juga kebetulan bertemu dengan seorang murid dari Ruang Pemurnian Pil yang telah melarikan diri. Sayangnya, dia tidak dapat menahan lukanya dan meninggal. Sebelum dia meninggal, dia memberinya barang-barang yang dia bawa. Anda mengumpulkannya sambil menitikkan air mata.\n\n\n[size=10]menerima[color=#D06508]Bahan baku jamu[/color]Tingkatkan di awal\nDapatkan sumber daya default:[color=#D06508]obat langka[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences15">
+			<DisplayName>Harta Karun dari Murid Cabang Penempaan Senjata</DisplayName>
+			<Desc>selama melarikan diri Anda juga kebetulan bertemu dengan seorang murid dari Ruang Penempaan Senjata Ajaib yang telah melarikan diri. Sayangnya, dia tidak dapat menahan lukanya dan meninggal. Sebelum dia meninggal, dia memberinya barang-barang yang dia bawa. Anda mengumpulkannya sambil menitikkan air mata.\n\n\n[size=10]menerima[color=#D06508]sumber daya bahan mentah[/color]Tingkatkan di awal\nDapatkan sumber daya default:[color=#D06508]bahan langka[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences16">
+			<DisplayName>Harta Karun dari Murid Aula Diplomasi</DisplayName>
+			<Desc>selama pelarian Anda juga kebetulan bertemu dengan seorang murid dari Aula Diplomatik yang melarikan diri. Sayangnya, dia tidak dapat menahan lukanya dan meninggal. Sebelum dia meninggal, dia memberinya barang-barang yang dia bawa. Anda mengumpulkannya sambil menitikkan air mata.\n\n\n[size=10]menerima[color=#D06508]sumber daya konstruksi[/color]Tingkatkan di awal\nDapatkan sumber daya default:[color=#D06508]bahan langka[/color][/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences17">
+			<DisplayName>Harta karun dari para santri yang merawatnya. Gudang jimat dan obat-obatan</DisplayName>
+			<Desc>selama pelarian Anda juga kebetulan bertemu dengan murid yang bertanggung jawab atas jimat dan gudang obat yang melarikan diri. Sayangnya, dia tidak dapat menahan lukanya dan meninggal. Sebelum dia meninggal, dia memberinya barang-barang yang dia bawa. Anda mengumpulkannya sambil menitikkan air mata.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]Yantra Dasar dan Pengantar Pengobatan Ajaib[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>
