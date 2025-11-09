@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_4_None">
+			<DisplayName>Teknik Budidaya Giok Abadi yang Sempurna</DisplayName>
+			<Desc>Sebuah teknik budidaya yang ditemukan oleh Immortal Jade Master. Itu adalah teknik budidaya yang diturunkan dari generasi ke generasi di Kunlun. Konon isi kursusnya mencakup banyak dao asal. Isi di dalamnya dibagi menjadi 6 alam dan 12 gerbang. Setiap praktisi yang berlatih hingga mencapai inti keterampilan akan menerima qi magis yang sangat dalam dan kuat. Namun mereka yang cocok untuk berkultivasi harus memiliki kecerdasan dan keberuntungan yang lebih tinggi dibandingkan orang biasa.</Desc>
+			<SelectDesc>Teknik ini terkenal karena keterampilan qi magisnya yang beragam dan kuat. Namun menerobos dunia setiap kali lebih sulit daripada teknik budidaya lainnya. Tidak sedikit pun. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Nafas dasar</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>pintu mental</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang kurang beruntung.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>pintu listrik bagian dalam</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang kurang beruntung.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Kumpulkan napas</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Gerbang Prana</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini sulit dilakukan oleh mereka yang memiliki kecerdasan rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>pintu hitam</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang kurang beruntung.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.2.DisplayName>Buat inti nafas</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>pintu merah</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini sulit dilakukan oleh mereka yang memiliki kecerdasan rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Gerbang yang menakjubkan</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Penggabungan</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Gerbang Emas</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Gerbang Air</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Gerbang Pruksa</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.3.DisplayName>pintu kebakaran</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.4.DisplayName>Gerbang Bumi</Stages.3.Necks.4.DisplayName>
+			<Stages.3.Necks.5.DisplayName>pintu lamunan mimpi</Stages.3.Necks.5.DisplayName>
+			<Stages.4.DisplayName>mengubah</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>pintu keberagaman</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>pintu perubahan</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>Gigi Surga</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>pintu kematian</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Dengan menggabungkan Jiwa Primordialnya sendiri dengan Dao Surgawi. Orang itu harus menghadapi murka surga secara langsung.[color=#D06508]\nMenembus batas pada tahap ini akan benar-benar menantang surga dan tidak akan menghasilkan bonus apa pun. Dari langkah ini[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>pintu kehidupan</Stages.5.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
