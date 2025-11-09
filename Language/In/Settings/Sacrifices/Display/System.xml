@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Blood">
+			<Display>Darah Binatang Iblis</Display>
+			<Desc>Korbankan darah binatang iblis untuk ditukar dengan item.</Desc>
+		</Text>
+		<Text Name="Elixir">
+			<Display>Mutiara Roh</Display>
+			<Desc>Korbankan mutiara roh untuk ditukar dengan barang.</Desc>
+		</Text>
+	</List>
+</Texts>
