@@ -1,0 +1,69 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Zhulong">
+      <DisplayName>naga lilin</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongFight">
+      <DisplayName>naga lilin</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_ShadowFight">
+      <DisplayName>Zoom Tempur Hantu</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YangShadow">
+      <DisplayName>Hantu Cahaya</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_YinShadow">
+      <DisplayName>Hantu Kegelapan</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_LongPuFix">
+      <DisplayName>Pengubah Hamba Naga</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhuLong_Part">
+      <DisplayName>Bagian naga lilin</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongShadow">
+      <DisplayName>bayangan naga lilin</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_NightGod">
+      <DisplayName>Dewa Malam Abadi</DisplayName>
+      <Desc>Dapatkan 1 lapisan [Xuanyin Breath] setiap 6 detik. Hanya senjata dan keterampilan sihir atribut Yang (Api dan Kayu) yang dapat menyebabkan kerusakan penuh. Senjata ajaib atribut bumi dapat menyebabkan lebih sedikit kerusakan. Kerusakan yang disebabkan oleh senjata sihir atribut Yin akan diserap.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Night">
+      <DisplayName>Nafas Xuanyin</DisplayName>
+      <Desc>100 lapisan Nafas Xuan Yin akan melepaskan iblis batiniah ke dalam bentuk.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_DayGod">
+      <DisplayName>dewa hari</DisplayName>
+      <Desc>Dapatkan 1 lapisan [Breath of the Sun] setiap 6 detik. Hanya senjata dan keterampilan sihir atribut Yin (air emas) yang dapat menyebabkan kerusakan penuh. Senjata ajaib atribut bumi dapat menyebabkan lebih sedikit kerusakan. Kerusakan yang disebabkan oleh senjata sihir atribut Yang akan diserap.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Day">
+      <DisplayName>Nafas Matahari</DisplayName>
+      <Desc>100 lapis Nafas Matahari akan melepaskan karma dan mengambil wujud.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Shennian">
+      <DisplayName>Pikiran spiritual bergetar</DisplayName>
+      <Desc>Setiap lapisan mengurangi kondisi pikiran sebanyak 2 poin dan akan dihapus saat naga lilin berpindah tahapan.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_Zuinie">
+      <DisplayName>penuh dengan dosa</DisplayName>
+      <Desc>Setiap lapisan meningkatkan 2 poin momok, dan naga lilin akan hilang saat berpindah tahapan.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen">
+      <DisplayName>Dihantui oleh karma</DisplayName>
+      <Desc>Hukuman Ilahi meningkat 1000 poin, dan dikurangi secara permanen sebesar 200 poin di akhir.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_yehuocanshen_end">
+      <DisplayName>Dihantui oleh karma</DisplayName>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao">
+      <DisplayName>topeng pikiran</DisplayName>
+      <Desc>Mood berkurang 100 poin dan akan meningkat secara permanen sebesar 20 poin di akhir.</Desc>
+    </Text>
+    <Text Name="Boss_Zhulong_xinlingzezao_end">
+      <DisplayName>topeng pikiran</DisplayName>
+    </Text>
+    <Text Name="Boss_ZhulongIdleEffect">
+      <DisplayName>Efek khusus naga lilin</DisplayName>
+    </Text>
+  </List>
+</Texts>
