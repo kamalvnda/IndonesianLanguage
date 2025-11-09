@@ -1,0 +1,405 @@
+<SpecialNames>
+  <List>
+	<SpecialItem Name="Item_HomeFood">
+		<Item_TurtleEgg>
+			<li Name="Puding telur penyu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Custard Telur Penyu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Sup telur penyu yang panas dan asam" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur penyu goreng dengan daun bawang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Bibimbap Telur Penyu Mentah" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Nasi Goreng Telur Penyu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur penyu rebus" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur penyu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Puding telur ular" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="puding ular" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Sup telur ular yang panas dan asam" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular goreng dengan daun bawang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular mentah dicampur nasi" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Nasi goreng telur ular" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular rebus" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular berbulu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Puding telur" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="puding telur" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Sup telur panas dan asam" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur goreng dengan daun bawang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur mentah dicampur nasi" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Nasi goreng telur" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="telur rebus" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur berbulu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Nasi sup tulang babi" Desc=""/>
+			<li Name="pai babi" Desc=""/>
+			<li Name="Nasi goreng babi hutan" Desc=""/>
+			<li Name="babi guling" Desc=""/>
+			<li Name="Lobak rebus daging babi" Desc=""/>
+			<li Name="Bihun rebus daging babi" Desc=""/>
+			<li Name="Daging Babi Suwir dengan Lada Pedas" Desc=""/>
+			<li Name="Potongan daging babi goreng" Desc=""/>
+			<li Name="Kaki babi hutan bakar arang" Desc=""/>
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Rebusan ayam" Desc=""/>
+			<li Name="patty ayam" Desc=""/>
+			<li Name="Nasi goreng ayam" Desc=""/>
+			<li Name="sayap ayam panggang" Desc=""/>
+			<li Name="Nasi sayap ayam" Desc=""/>
+			<li Name="Mie Ayam Suwir" Desc=""/>
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Nasi Daging Sapi" Desc=""/>
+			<li Name="daging sapi rebus" Desc=""/>
+			<li Name="Sup daging sapi" Desc=""/>
+			<li Name="Rebusan daging sapi dengan kentang" Desc=""/>
+			<li Name="Daging sapi goreng" Desc=""/>
+			<li Name="Betis sapi panggang arang" Desc=""/>
+			<li Name="Daging sapi tumis pedas" Desc=""/>
+			<li Name="Nasi goreng daging sapi" Desc=""/>
+			<li Name="Sup tulang sapi" Desc=""/>
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Kelinci panggang" Desc=""/>
+			<li Name="Gulungan kelinci" Desc=""/>
+			<li Name="Nasi goreng dengan daging kelinci yang dipotong dadu" Desc=""/>
+			<li Name="Kelinci Rebus" Desc=""/>
+			<li Name="Kelinci direbus dengan lobak" Desc=""/>
+			<li Name="Kelinci Rebus" Desc=""/>
+			<li Name="Kelinci Pedas" Desc=""/>
+			<li Name="kelinci madu" Desc=""/>
+			<li Name="Kelinci bakar arang" Desc=""/>
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Daging serigala panggang" Desc=""/>
+			<li Name="Daging serigala garam kasar" Desc=""/>
+			<li Name="Iga Serigala Panggang" Desc=""/>
+			<li Name="daging serigala pilihan" Desc=""/>
+			<li Name="Daging Serigala yang Direbus" Desc=""/>
+			<li Name="Daging serigala yang direbus" Desc=""/>
+			<li Name="Daging kaki serigala panggang arang" Desc=""/>
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="risotto ikan" Desc=""/>
+			<li Name="roti ikan" Desc=""/>
+			<li Name="taco ikan" Desc=""/>
+			<li Name="ikan bakar" Desc=""/>
+			<li Name="Ikan goreng kering" Desc=""/>
+			<li Name="ikan air jernih" Desc=""/>
+			<li Name="ikan kukus" Desc=""/>
+			<li Name="ikan rebus" Desc=""/>
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Sup daging ular" Desc=""/>
+			<li Name="Segmen Ular Goreng Kering" Desc=""/>
+			<li Name="Rasa Ular" Desc=""/>
+			<li Name="Daging ular yang direbus" Desc=""/>
+			<li Name="Daging ular tumis" Desc=""/>
+			<li Name="Daging ular pedas" Desc=""/>
+			<li Name="Kulit ular selada" Desc=""/>
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Roti kukus" Desc=""/>
+			<li Name="Hanamaki" Desc=""/>
+			<li Name="Tantanmen" Desc=""/>
+			<li Name="Mie Tarik Tangan" Desc=""/>
+			<li Name="Mie rebus" Desc=""/>
+			<li Name="pancake" Desc=""/>
+			<li Name="mie minyak wijen" Desc=""/>
+			<li Name="Kuah mie bening" Desc=""/>
+			<li Name="Mie Ayam Suwir" Desc=""/>
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Roti kukus" Desc=""/>
+			<li Name="Hanamaki" Desc=""/>
+			<li Name="Tantanmen" Desc=""/>
+			<li Name="Mie Tarik Tangan" Desc=""/>
+			<li Name="Mie rebus" Desc=""/>
+			<li Name="pancake" Desc=""/>
+			<li Name="mie minyak wijen" Desc=""/>
+			<li Name="Kuah mie bening" Desc=""/>
+			<li Name="Mie Ayam Suwir" Desc=""/>
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="sup jamur" Desc=""/>
+			<li Name="Tumis Jamur" Desc=""/>
+			<li Name="Jamur goreng kering" Desc=""/>
+			<li Name="Nasi goreng jamur" Desc=""/>
+			<li Name="Babi Goreng dengan Jamur" Desc=""/>
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Akar teratai goreng" Desc=""/>
+			<li Name="Akar Teratai Goreng Renyah" Desc=""/>
+			<li Name="Irisan akar teratai yang direbus" Desc=""/>
+			<li Name="Sup akar teratai dan tulang babi" Desc=""/>
+			<li Name="Iga Babi Rebus Akar Teratai" Desc=""/>
+			<li Name="pati akar teratai" Desc=""/>
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Sup Ayam Pir Sydney" Desc=""/>
+			<li Name="Cangkir nasi pir" Desc=""/>
+			<li Name="Sup pir musim gugur" Desc=""/>
+			<li Name="Hawthorn, kurma merah dan pir salju dalam pot" Desc=""/>
+			<li Name="Sup pir epiphyllum" Desc=""/>
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Tahu rebus buckthorn laut" Desc=""/>
+			<li Name="Sup ubi buckthorn laut" Desc=""/>
+			<li Name="Nasi buckthorn laut" Desc=""/>
+			<li Name="jus buckthorn laut" Desc=""/>
+			<li Name="jus buah asam" Desc=""/>
+			<li Name="Nasi goreng buah asam" Desc=""/>
+			<li Name="Sup buah dan ikan asam" Desc=""/>
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Katak panci kering" Desc=""/>
+			<li Name="Kaki katak yang renyah" Desc=""/>
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Daging penyu yang direbus" Desc=""/>
+			<li Name="Sup Penyu" Desc=""/>
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Daging beruang yang direbus" Desc=""/>
+			<li Name="Irisan daging beruang minyak merah pisau besar" Desc=""/>
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Item_TurtleEgg>
+			<li Name="Lima telur penyu rebus bumbu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Rahasia telur penyu asin" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Penyu Panggang dengan Kayu Buah" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur penyu yang digoreng" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur penyu panggang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="telur penyu macan" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Lima telur ular rebus bumbu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Rahasia telur ular asin" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular panggang dengan kayu buah" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular goreng" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ular panggang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="telur ular harimau" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Telur rebus berbumbu" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Asin Rahasia" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Panggang dengan Kayu Buah" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur ceplok" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur panggang" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="telur harimau" Desc="[Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Telinga babi direbus" Desc=""/>
+			<li Name="bakso babi" Desc=""/>
+			<li Name="Kaki babi yang direbus" Desc=""/>
+			<li Name="Daging babi hutan tumis dengan cabai merah" Desc=""/>
+			<li Name="pangsit babi" Desc=""/>
+			<li Name="Dada Babi Madu" Desc=""/>
+			<li Name="Potongan Daging Babi Panggang dengan Daun Bawang" Desc=""/>
+			<li Name="Pinggang babi rasa saus" Desc=""/>
+			<li Name="Dada Babi Madu" Desc=""/>
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Ayam Kung Pao" Desc=""/>
+			<li Name="Steak ayam besar" Desc=""/>
+			<li Name="Kaki ayam goreng" Desc=""/>
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Daging sapi rebus" Desc=""/>
+			<li Name="Daging sapi berlemak dalam sup" Desc=""/>
+			<li Name="Tendon Daging Sapi Rebus" Desc=""/>
+			<li Name="Bola daging sapi" Desc=""/>
+			<li Name="Pangsit daging sapi" Desc=""/>
+			<li Name="Daging sapi suwir goreng" Desc=""/>
+			<li Name="Casserole Daging Sapi" Desc=""/>
+			<li Name="Daging sapi rebus" Desc=""/>
+			<li Name="daging sapi emas" Desc=""/>
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Kepala Kelinci Pedas" Desc=""/>
+			<li Name="Kelinci Utuh Panggang" Desc=""/>
+			<li Name="Kelinci potong dadu tumis pedas" Desc=""/>
+			<li Name="Kelinci Renyah" Desc=""/>
+			<li Name="kelinci garam dan merica" Desc=""/>
+			<li Name="Kelinci Rebus dengan Jahe dan Bawang" Desc=""/>
+			<li Name="Kelinci Bishan" Desc=""/>
+			<li Name="Kelinci Menyelam" Desc=""/>
+			<li Name="Daging kelinci dicelupkan ke dalam air" Desc=""/>
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="daging serigala" Desc=""/>
+			<li Name="Daging serigala lada jepang" Desc=""/>
+			<li Name="Daging serigala jintan" Desc=""/>
+			<li Name="Daging serigala goreng jahe" Desc=""/>
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="ikan rebus" Desc=""/>
+			<li Name="bakso ikan" Desc=""/>
+			<li Name="kue ikan" Desc=""/>
+			<li Name="Tiga panci ikan" Desc=""/>
+			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
+			<li Name="Ikan diisi dengan anggur" Desc=""/>
+			<li Name="Fillet ikan goreng" Desc=""/>
+			<li Name="Stok ikan rebus" Desc=""/>
+			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="air liur ular" Desc=""/>
+			<li Name="bubur ular air" Desc=""/>
+			<li Name="Daging ular yang direbus" Desc=""/>
+			<li Name="Ular Rebus" Desc=""/>
+			<li Name="Ular goreng dengan daun bawang" Desc=""/>
+			<li Name="Sutra ular jarum emas" Desc=""/>
+			<li Name="Sup Naga Emas" Desc=""/>
+			<li Name="Sutra ular goreng berwarna-warni" Desc=""/>
+			<li Name="Tiga bakteri daging ular" Desc=""/>
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Mie Jenggot Naga" Desc=""/>
+			<li Name="Wajah palu" Desc=""/>
+			<li Name="Wajah jatuh" Desc=""/>
+			<li Name="wajah api" Desc=""/>
+			<li Name="seperai" Desc=""/>
+			<li Name="Ambil potongannya" Desc=""/>
+			<li Name="roti pasta kacang" Desc=""/>
+			<li Name="roti puding" Desc=""/>
+			<li Name="kantong gula" Desc=""/>
+			<li Name="pancake" Desc=""/>
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Mie Jenggot Naga" Desc=""/>
+			<li Name="Wajah palu" Desc=""/>
+			<li Name="Wajah jatuh" Desc=""/>
+			<li Name="wajah api" Desc=""/>
+			<li Name="seperai" Desc=""/>
+			<li Name="Ambil potongannya" Desc=""/>
+			<li Name="roti pasta kacang" Desc=""/>
+			<li Name="roti puding" Desc=""/>
+			<li Name="kantong gula" Desc=""/>
+			<li Name="pancake" Desc=""/>
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="Rebusan jamur dan delapan harta karun" Desc=""/>
+			<li Name="Kaldu jamur dengan nasi" Desc=""/>
+			<li Name="jamur panggang" Desc=""/>
+			<li Name="Rebusan kentang dengan jamur" Desc=""/>
+			<li Name="Gulungan jamur" Desc=""/>
+			<li Name="Jamur Berwarna-warni" Desc=""/>
+			<li Name="Jamur Enoki Bawang Putih Panggang" Desc=""/>
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="kotak akar teratai" Desc=""/>
+			<li Name="Sup plum asam dan akar teratai" Desc=""/>
+			<li Name="Irisan akar teratai asam manis" Desc=""/>
+			<li Name="Nasi kukus dengan hati akar teratai" Desc=""/>
+			<li Name="Akar teratai lima rempah" Desc=""/>
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Irisan es pir lily" Desc=""/>
+			<li Name="Minuman Double Shot Pir Madu" Desc=""/>
+			<li Name="Pir Isi Jamur Putih" Desc=""/>
+			<li Name="Plester pir musim gugur" Desc=""/>
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Kue buckthorn laut" Desc=""/>
+			<li Name="Susu kacang hijau buckthorn laut" Desc=""/>
+			<li Name="Buckthorn laut kristal" Desc=""/>
+			<li Name="Barbekyu dengan saus asam" Desc=""/>
+			<li Name="Scone Buah Tart" Desc=""/>
+			<li Name="Ikan rebus dengan buah asam" Desc=""/>
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Katak panci kering" Desc=""/>
+			<li Name="Kaki katak yang renyah" Desc=""/>
+		</Item_FrogMeat>
+		
+		<Item_TurtleMeat>
+			<li Name="Daging penyu yang direbus" Desc=""/>
+			<li Name="Sup Penyu" Desc=""/>
+		</Item_TurtleMeat>
+		
+		<Item_BearMeat>
+			<li Name="Cakar beruang kukus" Desc=""/>
+			<li Name="Cakar beruang yang direbus" Desc=""/>
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Item_TurtleEgg>
+			<li Name="Telur rebus lima warna" Desc="Bahan-bahan tersebut direbus dengan air beberapa kali, kemudian dibentuk menjadi irisan-irisan, ditaburi bubuk buah spiritual lima warna, dan ditumis dengan teknik khusus. Rasanya manis dan tidak berminyak. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Nafas Naga" Desc="Bahan-bahannya direbus dalam abu kayu sycamore bersuhu sangat tinggi selama tujuh jam tanpa menambahkan apa pun, sehingga rasa telurnya sendiri bisa dibawa keluar secara ekstrim, dan aroma kayu buah serta ledakan kekuatan roh api tak henti-hentinya berkesan. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Telur rebus lima warna" Desc="Bahan-bahan tersebut direbus dengan air beberapa kali, kemudian dibentuk menjadi irisan-irisan, ditaburi bubuk buah spiritual lima warna, dan ditumis dengan teknik khusus. Rasanya manis dan tidak berminyak. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Nafas Naga" Desc="Bahan-bahannya direbus dalam abu kayu sycamore bersuhu sangat tinggi selama tujuh jam tanpa menambahkan apa pun, sehingga rasa telurnya sendiri bisa dibawa keluar secara ekstrim, dan aroma kayu buah serta ledakan kekuatan roh api tak henti-hentinya berkesan. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Telur rebus lima warna" Desc="Bahan-bahan tersebut direbus dengan air beberapa kali, kemudian dibentuk menjadi irisan-irisan, ditaburi bubuk buah spiritual lima warna, dan ditumis dengan teknik khusus. Rasanya manis dan tidak berminyak. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+			<li Name="Telur Nafas Naga" Desc="Bahan-bahannya direbus dalam abu kayu sycamore bersuhu sangat tinggi selama tujuh jam tanpa menambahkan apa pun, sehingga rasa telurnya sendiri bisa dibawa keluar secara ekstrim, dan aroma kayu buah serta ledakan kekuatan roh api tak henti-hentinya berkesan. [Terima kasih kepada pemain penguji: Renjinglu yang telah menyediakan resepnya. 】"/>
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="angin hutan belantara" Desc="Betis babi dipanggang dengan tingkat kesulitan tinggi di atas api besar, menghasilkan tiga tekstur berbeda: lapisan luar renyah dan pedas, lapisan tengah kenyal, dan lapisan dalam berair dan empuk. Setelah memakannya, Anda merasa seperti berada di hutan belantara. Ini adalah hidangan bergaya padang rumput."/>
+			<li Name="Dua Puluh Empat Jembatan di Malam Terang Bulan" Desc="Tenderloin babi hutan diparut, direndam dan dibumbui, kemudian digulung menjadi bola-bola yang terbuat dari tahu, menjadi dua puluh empat bola, kemudian direbus dalam kaldu dengan api kecil untuk mengurangi sarinya. Ini adalah hidangan mewah."/>
+		</Item_BoarMeat>
+		<Item_Beef>
+			<li Name="Willow Fufeng Hijau" Desc="Daging sapi dipotong tipis-tipis, digoreng hingga tingkat tinggi dan disajikan sebagai piring. Teksturnya ringan tapi aftertastenya lama. Karena dagingnya disuwir halus, rasanya sangat gurih, namun jika tidak hati-hati panasnya akan hilang dan membuat daging menjadi basi."/>
+			<li Name="Tiga potong lidah sapi" Desc="Lidah sapi rasanya manis dan lezat, serta dagingnya sangat empuk. Lidah Sapi Sansi menghadirkan ciri khas ini secara ekstrem, menggunakan sedikit bumbu untuk menonjolkan rasa dan cita rasa asli lidah sapi secara ekstrem."/>
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Kelinci Kristal" Desc="Daging kelinci dimasak dengan cara khusus hingga tembus pandang seperti kristal. Rasanya kenyal dan harum, serta kelezatannya dengan warna dan rasa."/>
+			<li Name="Kelinci Lima Abadi" Desc="Ditumis dengan lima bumbu dan daging kelinci yang dipotong dadu, kelima rasa tersebut berlapis-lapis dan menonjol, membuat daging kelincinya berbeda. Kesulitannya terletak pada pengendalian panas. Jika tidak seimbang, bumbu akan tercampur dan rasanya akan hancur."/>
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="ulang tahun Tengu" Desc="Rahasia sup daging serigala yang dibuat dengan miso dan puluhan bahan pada awalnya tidak terlihat, namun saat Anda meminum kuahnya sedikit demi sedikit, bahan-bahan di dalamnya akan terungkap satu per satu, masing-masing dengan rasa tersendiri."/>
+			<li Name="Api yang membakar hati" Desc="Daging punggung serigala kualitas terbaik ditumis berkali-kali dengan cabai. Bahkan di musim dingin, seluruh tubuh akan terasa panas dan hangat di mulut. Rasanya sangat pedas sehingga Anda tidak bisa berhenti memakannya."/>
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
+			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Naga dan burung phoenix menghadirkan keberuntungan" Desc="Daging ular dan ayamnya direndam terlebih dahulu, lalu dimasukkan ke dalam panci kuah dan direbus dengan api kecil hingga kuahnya mengering. Aroma segar kedua daging tersebut saling melengkapi dan rasanya nikmat."/>
+			<li Name="piring ular penyu" Desc="Masak daging penyu dan daging ular bersama-sama. Tekstur daging penyu dan daging ular yang kuat dan lezat menjadikannya hidangan tonik yang enak."/>
+		</Item_SnakeMeat>
+		<Item_Flour>
+			<li Name="Tiga Ribu Masalah" Desc="Pasta setipis rambut ini disajikan dengan empat jenis sup rebus spesial. Ini sangat lezat dan meleleh di mulut Anda. Ini adalah hidangan pasta terbaik."/>
+			<li Name="Pangsit sup besar dengan lima keutamaan" Desc="Dalam tradisi memasak yang diturunkan dari istana, roti besar dibagi menjadi lima kompartemen dan diisi dengan lima isian khusus, melambangkan lima keutamaan yaitu kebajikan, keadilan, kesopanan, kebijaksanaan, dan kepercayaan. Jika dikukus dengan api kecil, kelima rasa akan tersedia; jika dikukus dengan api besar, kulit tipis di dalam roti akan pecah karena tekanan, dan saus akan tercampur secara acak, menciptakan rasa yang selalu berubah."/>
+			<li Name="kantong sobek tangan" Desc="Pasta spesial dari kota tepi pantai selatan ini lembut, manis dan kenyal, dengan rasa yang luar biasa. Itu menyimpan kenangan tentang kota itu."/>
+		</Item_Flour>
+		<Item_Wheat>
+			<li Name="Tiga Ribu Masalah" Desc="Pasta setipis rambut ini disajikan dengan empat jenis sup rebus spesial. Ini sangat lezat dan meleleh di mulut Anda. Ini adalah hidangan pasta terbaik."/>
+			<li Name="Pangsit sup besar dengan lima keutamaan" Desc="Dalam tradisi memasak yang diturunkan dari istana, roti besar dibagi menjadi lima kompartemen dan diisi dengan lima isian khusus, melambangkan lima keutamaan yaitu kebajikan, keadilan, kesopanan, kebijaksanaan, dan kepercayaan. Jika dikukus dengan api kecil, kelima rasa akan tersedia; jika dikukus dengan api besar, kulit tipis di dalam roti akan pecah karena tekanan, dan saus akan tercampur secara acak, menciptakan rasa yang selalu berubah."/>
+		</Item_Wheat>
+		<Item_Mushroom>
+			<li Name="Hujan ringan di Tianjie lembab seperti kue" Desc="Letakkan jamur yang sudah berbentuk bagus di atas tahu putih, dan terus tuangkan kuah spesial selama proses mengukus. Saat keluar dari panci, masih ada tetesan cairan di tutup jamur, itulah namanya."/>
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Akar teratai kukus Qiqiao" Desc="Awalnya hidangan ini digunakan untuk memuja surga, kemudian menjadi hidangan terkenal di kalangan masyarakat. Ambil akar teratai besar dengan tujuh lubang sebagai bahan utama, isi dengan daging cincang khusus dari tiga hewan dan empat hewan, kukus, iris dan sajikan di piring. Meski langkahnya sederhana, namun membutuhkan bahan dan keterampilan memasak yang sangat tinggi."/>
+			<li Name="Yuelongmen" Desc="Potong kedua ujung seluruh akar teratai dan buka lubang di tengahnya. Kemudian masukkan ke dalam kuali bebek mandarin khusus, tambahkan es di salah satu ujung kuahnya, dan di ujung lainnya tambahkan kuah bening, lalu tambahkan ikan teri kecil khas Yunmengze dan panaskan dengan api besar sebelum disajikan."/>
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Ukiran buah pir kristal" Desc="Bekukan pir berkualitas tinggi dengan cepat lalu kupas, dan daging buah pir akan berubah menjadi bahan bening. Itu diukir menjadi berbagai bentuk dalam waktu yang sangat singkat dan diletakkan di atas meja. Patung-patung halus tembus pandang menjulang di kabut putih, dan mulutnya terasa sejuk dan manis. Ini adalah kelezatan yang penuh warna dan rasa."/>
+			<li Name="Sayap jangkrik tertutup es" Desc="Kupas buah pir Sydney yang halus, potong tipis-tipis seperti sayap jangkrik, dan tempelkan lapis demi lapis pada dinding bagian dalam es krim yang dibuat dengan sirup jahe. Selama proses pemakannya, irisan buah pir setipis sayap jangkrik dan rasanya manis serta renyah. Setelah makan irisan buah pir, Anda bisa meminum kuahnya setelah esnya mencair. Meskipun ini minuman dingin, namun tetap lezat terlepas dari musim apa pun."/>
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Baguohui" Desc="Buah beri asam liar yang paling umum digunakan sebagai bahan mentah, dan dicampur menjadi berbagai rasa buah dengan teknik dan bahan yang luar biasa, lalu dimasukkan ke dalam panci. Hidangan ini tidak dapat diselesaikan tanpa keterampilan memasak luar biasa yang mengubah pembusukan menjadi keajaiban."/>
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Katak panci kering" Desc=""/>
+			<li Name="Kaki katak yang renyah" Desc=""/>
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="piring ular penyu" Desc="Masak daging penyu dan daging ular bersama-sama. Tekstur daging penyu dan daging ular yang kuat dan lezat menjadikannya hidangan tonik yang enak."/>
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="cakar beruang kristal" Desc=""/>
+		</Item_BearMeat>
+		
+		<Item_ChickenMeat>
+			<li Name="Tangisan emas menandakan fajar" Desc=""/>
+		</Item_ChickenMeat>
+	</SpecialItem>
+</List>
+</SpecialNames>
