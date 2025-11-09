@@ -1,0 +1,266 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Dan_BasePracticeDrug">
+      <DisplayName>Ramuan Dasar</DisplayName>
+      <Desc>Senses, Physique dan Comprehension meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan">
+      <DisplayName>Pil Esensi</DisplayName>
+      <Desc>Tingkat konversi esensi, kemampuan tubuh untuk menghasilkan Essence dan laju pengurasan nutrisi meningkat.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan2">
+      <DisplayName>Pil sembilan lubang</DisplayName>
+      <Desc>Tingkat konversi esensi, kemampuan tubuh untuk menghasilkan Essence dan laju pengurasan nutrisi meningkat.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan3">
+      <DisplayName>Resin Darah Naga</DisplayName>
+      <Desc>Tingkat konversi esensi, kemampuan tubuh untuk menghasilkan Essence dan laju pengurasan nutrisi meningkat.</Desc>
+    </Text>
+    <Text Name="Dan_Ling1">
+      <DisplayName>Pil pengumpul semangat</DisplayName>
+      <Desc>Kecepatan pengisian Qi meningkat sebesar 2000%.</Desc>
+    </Text>
+    <Text Name="Dan_Ling2">
+      <DisplayName>Ramuan Matahari Ungu</DisplayName>
+    </Text>
+    <Text Name="Dan_Ling3">
+      <DisplayName>Bubuk Roh Segudang</DisplayName>
+      <Desc>Qi maksimum meningkat 100.000 poin.</Desc>
+    </Text>
+    <Text Name="Dan_Defence">
+      <DisplayName>Pelet padat</DisplayName>
+      <Desc>Kekuatan perlindungan Qi meningkat sebesar 30%.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBaseFromLife">
+      <DisplayName>Pil Ilahi Lima Racun Lima Energi</DisplayName>
+	  <Desc>Keberuntungan meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase1">
+      <DisplayName>Pil Masuk Surga</DisplayName>
+      <Desc>Indra meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase2">
+      <DisplayName>Pil Sujud Bumi</DisplayName>
+      <Desc>Fisik meningkat 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase3">
+      <DisplayName>Pil Abadi yang Santai</DisplayName>
+      <Desc>Pesona meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase4">
+      <DisplayName>Pil Pikiran Jernih</DisplayName>
+      <Desc>Pemahaman meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase5">
+      <DisplayName>Pil Pemberkahan Dewa</DisplayName>
+      <Desc>Keberuntungan meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Dan_PracticeRate">
+      <DisplayName>Ramuan Pengadilan Kuning</DisplayName>
+      <Desc>Probabilitas terobosan meningkat sebesar 10%.</Desc>
+    </Text>
+    <Text Name="Dan_PracticeSpeed">
+      <DisplayName>Ramuan Kecambah Kuning</DisplayName>
+	  <Desc>Kecepatan budidaya meningkat sebesar 30%.</Desc>
+    </Text>
+    <Text Name="Dan_HundredRefine">
+      <DisplayName>Sembilan Ternyata Ramuan Emas</DisplayName>
+	  <Desc>Probabilitas terobosan meningkat sebesar 200%.</Desc>
+    </Text>
+    <Text Name="Dan_CalmDown">
+      <DisplayName>Ramuan Penenang Hati</DisplayName>
+      <Desc>Keadaan pikiran dan stabilitas emosional ditingkatkan.</Desc>
+    </Text>
+    <Text Name="Dan_Happiness">
+      <DisplayName>Ramuan Kebahagiaan</DisplayName>
+      <Desc>Suasana hati membaik, efisiensi kerja berkurang 50%.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger">
+      <DisplayName>Pil India</DisplayName>
+      <Desc>Dapat menopang diri sendiri dengan mengonsumsi Qi.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger1">
+      <DisplayName>Pil Besar</DisplayName>
+      <Desc>Tidak perlu makan dan minum.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger2">
+      <DisplayName>Suplemen militer</DisplayName>
+      <Desc>Penumpukan rasa lapar dan kelelahan berkurang 50%.</Desc>
+    </Text>
+    <Text Name="Dan_LostSoul">
+      <DisplayName>Pil Jiwa yang Hilang</DisplayName>
+      <Desc>Diinduksi menjadi koma.</Desc>
+    </Text>
+    <Text Name="Dan_IncreaseLife1">
+      <DisplayName>Ramuan Panjang Umur</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife2">
+      <DisplayName>Bubuk Kontinuitas Valley Spirit</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife3">
+      <DisplayName>Ramuan Spiritual Lima Ekstremitas</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife4">
+      <DisplayName>Pil Reforge Emas</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife5">
+      <DisplayName>obat mujarab Phoenix</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife6">
+      <DisplayName>Aliran Air Panjang Umur</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife7">
+      <DisplayName>Lingzhi</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife8">
+      <DisplayName>Lingzhi Ungu</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Anodyne">
+      <DisplayName>Obat bius</DisplayName>
+      <Desc>Meredakan rasa sakit.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Mint">
+      <DisplayName>daun mint</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence">
+      <DisplayName>Jus Roh Ibu Pertiwi</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence1">
+      <DisplayName>Darah Musim Semi Vena Jahat</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence_1">
+      <DisplayName>Lemak Inti Roh</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence1_1">
+      <DisplayName>Lemak Inti Darah</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Ginseng">
+      <DisplayName>Ginseng</DisplayName>
+      <Desc>Tingkat pemulihan meningkat 100%.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_RedGinseng">
+      <DisplayName>Ginseng merah</DisplayName>
+      <Desc>Tingkat pemulihan meningkat sebesar 400%.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_RedGinseng1">
+      <DisplayName>Ginseng merah (muda)</DisplayName>
+      <Desc>Qi maksimum meningkat.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Laxative">
+      <DisplayName>Pencahar</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Laxative1">
+      <DisplayName>Kelemahan</DisplayName>
+      <Desc>Kecepatan gerak dan efisiensi berkurang 50%.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_LongXianGuo">
+      <DisplayName>buah naga</DisplayName>
+      <Desc>Kelelahan hilang, kebutuhan akan makanan hilang.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_LingWater">
+      <DisplayName>Embun Roh</DisplayName>
+      <Desc>Tingkat pemulihan meningkat sebesar 400%.</Desc>
+    </Text>
+    <Text Name="Dan_LingStone">
+      <DisplayName>Batu roh</DisplayName>
+      <Desc>Pengisian ulang Qi dan kecepatan kultivasi meningkat.</Desc>
+    </Text>
+    <Text Name="Dan_LingCrystal">
+      <DisplayName>Kristal roh</DisplayName>
+      <Desc>Pengisian ulang Qi dan kecepatan kultivasi meningkat.</Desc>
+    </Text>
+    <Text Name="Dan_IncreaseNeckCountdown1">
+      <DisplayName>Pil penghindar kesengsaraan</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseNeckCountdown2">
+      <DisplayName>Pil Darah Viridescent</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail1">
+      <DisplayName>Obat yang Hancur</DisplayName>
+      <Desc>Tiba-tiba berat badan turun.</Desc>
+    </Text>
+    <Text Name="Dan_Fail2">
+      <DisplayName>Obat yang Hancur</DisplayName>
+      <Desc>Tiba-tiba berat badan bertambah.</Desc>
+    </Text>
+    <Text Name="Dan_Fail3">
+      <DisplayName>Obat yang Hancur</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail4">
+      <DisplayName>Obat yang Hancur</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail5">
+      <DisplayName>Obat yang Hancur</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul1">
+      <DisplayName>Ramuan Air Mata Dewa</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul2">
+      <DisplayName>Ramuan Pemahaman Mendalam</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul3">
+      <DisplayName>Koagulasi Amber Elixir</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul4">
+      <DisplayName>Ramuan Pembakar Jiwa</DisplayName>
+      <Desc>Tingkat pengalaman budidaya meningkat.</Desc>
+    </Text>
+    <Text Name="Dan_Soul4_D">
+      <DisplayName>Pembakaran jiwa</DisplayName>
+    </Text>
+    <Text Name="Dan_LunHui1">
+      <DisplayName>Tersentuh</DisplayName>
+      <Desc>Sangat tersentuh oleh kenangan dunia yang berbeda.</Desc>
+    </Text>
+    <Text Name="Dan_XianBone">
+      <DisplayName>Tulang Seorang Abadi</DisplayName>
+    </Text>
+    <Text Name="Dan_LingYuanZhong">
+      <DisplayName>Benih Jiwa yang Baru Lahir (usang)</DisplayName>
+    </Text>
+    <Text Name="Dan_LingYuanZhong_Equip">
+      <DisplayName>Benih Jiwa yang Baru Lahir (dilengkapi)</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_YuanHunLu">
+      <DisplayName>Asal Jiwa Embun</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XieHunLu">
+      <DisplayName>Embun Jiwa Jahat</DisplayName>
+      <Desc>Pemahaman meningkat sebesar 1 pt.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_XieHunLu1">
+      <DisplayName>Embun Jiwa Jahat (serangan balik)</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_YanDaoGuo">
+      <DisplayName>Aspek Buah Surga</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_QieDaoGuo">
+      <DisplayName>Prinsip Buah Mencuri Surga</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_ZaoHuaYuLu">
+      <DisplayName>Penciptaan Embun Giok</DisplayName>
+      <Desc>Jiwa Baru Lahir Pengguna menjadi kosong.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_ZaoHuaYuLu1">
+      <DisplayName>Penciptaan Embun Giok</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XianShiChongSheng">
+      <DisplayName>Kelahiran Kembali Ilahi</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XieShiChongSheng">
+      <DisplayName>Kelahiran Kembali yang Jahat</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Boss_Meat">
+      <DisplayName>Daging Ilahi</DisplayName>
+      <Desc>Umur panjang dan Qi maksimum meningkat setelah menelan daging dewa.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_Meat">
+      <DisplayName>Daging primordial</DisplayName>
+      <Desc>Nilai Dao diturunkan, umur panjang meningkat setelah menelan daging primordial.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Dan_FabaoNumAdd">
+      <DisplayName>Slot harta karun tidak terkunci</DisplayName>
+      <Desc>Jumlah maksimum harta karun ditingkatkan.</Desc>
+    </Text>
+  </List>
+</Texts>
