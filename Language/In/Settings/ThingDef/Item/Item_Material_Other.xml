@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_BingCanSi" sParam="Item">
+			<ThingName>sutra es</ThingName>
+			<Item.BeMaterial.NamePrefix>sutra es</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuZhiMing" sParam="Item">
+			<ThingName>materi yang tidak diketahui</ThingName>
+		</Text>
+		<Text Name="Item_Other_JinJing" sParam="Item">
+			<ThingName>inti emas barat</ThingName>
+			<Item.BeMaterial.NamePrefix>inti emas</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_MuJing" sParam="Item">
+			<ThingName>Inti kayu oriental</ThingName>
+			<Item.BeMaterial.NamePrefix>inti kayu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_ShuiJing" sParam="Item">
+			<ThingName>poros air utara</ThingName>
+			<Item.BeMaterial.NamePrefix>inti air</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_HuoJing" sParam="Item">
+			<ThingName>poros api selatan</ThingName>
+			<Item.BeMaterial.NamePrefix>inti api</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TuJing" sParam="Item">
+			<ThingName>inti tanah pusat</ThingName>
+			<Item.BeMaterial.NamePrefix>inti tanah</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_NoneJing" sParam="Item">
+			<ThingName>inti alami</ThingName>
+			<Item.BeMaterial.NamePrefix>inti alami</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LarkPerk" sParam="Item">
+			<ThingName>paruh</ThingName>
+			<Item.BeMaterial.NamePrefix>paruh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
+			<ThingName>Khao Krathing</ThingName>
+			<Item.BeMaterial.NamePrefix>Khao Krathing</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LionFang" sParam="Item">
+			<ThingName>Taring macan tutul</ThingName>
+			<Item.BeMaterial.NamePrefix>Taring macan tutul</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TortoiseShell" sParam="Item">
+			<ThingName>angker</ThingName>
+			<Item.BeMaterial.NamePrefix>angker</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_DeerFeet" sParam="Item">
+			<ThingName>kuku rusa</ThingName>
+			<Item.BeMaterial.NamePrefix>kuku rusa</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SPStuffCategories_1" sParam="Item">
+			<ThingName>tidak tahu</ThingName>
+		</Text>
+	</List>
+</Texts>
