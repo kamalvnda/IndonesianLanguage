@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu_Carve">
+			<Type>Hewan peliharaan</Type>
+		</Text>
+		<Text Name="RedWallDownLeft">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallUpLeft">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallMidUp">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallMidRight">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallVertical">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalf">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallHorizontal">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTiny">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTiny">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallDownLeftS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallUpLeftS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallMidUpS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallMidRightS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallVerticalS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalfS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallHorizontalS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS">
+			<Type>struktur</Type>
+			<Label>spesial</Label>
+		</Text>
+		<Text Name="ZhenWuCarve">
+			<Type>Dekorasi</Type>
+			<Label>patung</Label>
+		</Text>
+		<Text Name="TurTleMonu">
+			<Type>Dekorasi</Type>
+			<Label>patung</Label>
+		</Text>
+		<Text Name="IncenseTripod">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="RedWallGate">
+			<Type>kantor</Type>
+		</Text>
+		<Text Name="RedWallDrum">
+			<Type>Dekorasi</Type>
+			<Label>pemandangan</Label>
+		</Text>
+		<Text Name="WuDangBigGate">
+			<Type>kantor</Type>
+		</Text>
+		<Text Name="WuDangScreen">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="WuDangFlag">
+			<Type>Dekorasi</Type>
+			<Label>pemandangan</Label>
+		</Text>
+		<Text Name="WuDangXiangLu">
+			<Type>Dekorasi</Type>
+			<Label>mebel</Label>
+		</Text>
+		<Text Name="WuDangPuTuan">
+			<Type>kantor</Type>
+		</Text>
+		<Text Name="WuDangXianHeDeng">
+			<Type>Dekorasi</Type>
+			<Label>Lampu hias</Label>
+		</Text>
+		<Text Name="WuDangDivine">
+			<Type>Dekorasi</Type>
+			<Label>pemandangan</Label>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<Type>Dekorasi</Type>
+			<Label>Lampu hias</Label>
+		</Text>
+		<Text Name="WuDangJinDian">
+			<Type>Perangkat ajaib</Type>
+		</Text>
+		<Text Name="Building_ChaShu1">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+		<Text Name="Building_ChaShu2">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+		<Text Name="Building_WuDangSong1">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+		<Text Name="Building_WuDangSong2">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+		<Text Name="Building_WuDangSong3">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+		<Text Name="Building_WuDangSong4">
+			<Type>Dekorasi</Type>
+			<Label>pohon langka</Label>
+		</Text>
+	</List>
+</Texts>
