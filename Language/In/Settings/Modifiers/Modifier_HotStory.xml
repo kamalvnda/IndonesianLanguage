@@ -1,0 +1,55 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="HotStory_SocialContactLv">
+      <DisplayName>Kefasihan ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_MedicineLv">
+      <DisplayName>Pengobatan ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_CookingLv">
+      <DisplayName>Memasak ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_BuildingLv">
+      <DisplayName>Bangunan ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_FarmingLv">
+      <DisplayName>Pertanian ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_ManualLv">
+      <DisplayName>Kerajinan ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_MiningLv">
+      <DisplayName>Penambangan ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_ArtLv">
+      <DisplayName>Seni rupa ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_QiLv">
+      <DisplayName>Attunement Qi ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_FabaoLv">
+      <DisplayName>Kontrol harta karun ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_FightSkillLv">
+      <DisplayName>Pengetahuan misterius ditingkatkan</DisplayName>
+    </Text>
+    <Text Name="HotStory_MakeBigSuccess">
+      <DisplayName>Menciptakan sebuah mahakarya</DisplayName>
+    </Text>
+    <Text Name="HotStory_BrokeningChance">
+      <DisplayName>Kemungkinan terobosan meningkat</DisplayName>
+    </Text>
+    <Text Name="HotStory_Ling">
+      <DisplayName>Qi maksimum meningkat</DisplayName>
+    </Text>
+    <Text Name="HotStory_DanNum">
+      <DisplayName>Hasil pil meningkat</DisplayName>
+    </Text>
+    <Text Name="HotStory_FabaoQ">
+      <DisplayName>Nilai harta karun yang dimurnikan meningkat</DisplayName>
+    </Text>
+    <Text Name="HotStory_FabaoR">
+      <DisplayName>Nilai harta karun yang dimurnikan meningkat</DisplayName>
+    </Text>
+  </List>
+</Texts>
