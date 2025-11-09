@@ -1,0 +1,50 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Modifier_SpNpc_BasePropertie">
+      <DisplayName>Atribut terjamin</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_BaseFightPropertie">
+      <DisplayName>Atribut tempur dasar</DisplayName>
+    </Text>
+    <Text Name="Modifier_SpNpc_Ling">
+      <DisplayName>roh</DisplayName>
+      <Desc>Orang ini memiliki akar yang dalam dan aura yang tak terduga.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Shield">
+      <DisplayName>melindungi</DisplayName>
+      <Desc>Pria ini berbadan tembaga dan berbadan besi, serta sangat pandai dalam melindungi tubuh.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoAtk">
+      <DisplayName>tajam</DisplayName>
+      <Desc>Senjata orang ini seperti guntur, dan kekuatannya luar biasa.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoLing">
+      <DisplayName>Berat</DisplayName>
+      <Desc>Senjata orang ini sekuat gunung, dan kekuatannya sangat kuat.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoSpeed">
+      <DisplayName>kecepatan</DisplayName>
+      <Desc>Senjata orang ini seperti kilat, dan kecepatannya secepat guntur.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoDisp">
+      <DisplayName>menunjukkan</DisplayName>
+      <Desc>Keterampilan penanganan senjata orang ini tidak ada bandingannya.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FabaoNum">
+      <DisplayName>titik</DisplayName>
+      <Desc>Cahaya pedang orang ini dibedakan dan dapat mengendalikan senjata Liuhe.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillAtk">
+      <DisplayName>Hukum</DisplayName>
+      <Desc>Kekuatan sihir pria ini tidak ada bandingannya di dunia</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_FightSkillCD">
+      <DisplayName>cepat</DisplayName>
+      <Desc>Keterampilan pernapasan orang ini sangat cepat.</Desc>
+    </Text>
+    <Text Name="Modifier_SpNpc_Comeback">
+      <DisplayName>musuh lama</DisplayName>
+      <Desc>Musuh lama bertemu, dan kebencian mereka membuat mereka lebih kuat dari sebelumnya.</Desc>
+    </Text>
+  </List>
+</Texts>
