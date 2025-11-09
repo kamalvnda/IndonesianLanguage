@@ -1,0 +1,115 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="HotStory_Fun_LingWu">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+			<Selections.1.Display>memperoleh pengetahuan dan pemahaman</Selections.1.Display>
+		</Text>
+		<Text Name="HotStory_Fun_LingWu_DuShu">
+			<DisplayName>mencari</DisplayName>
+			<Desc>Saat membaca teks kuno, dia tiba-tiba[NAME]menemukan sesuatu yang luar biasa</Desc>
+			<Selections.0.Display>Langkah menuju pencerahan</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingGan">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu_Feed">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingFailed">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingSucceed">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_LingWu">
+			<DisplayName>pengartian</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang sesuatu!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Brokening">
+			<DisplayName>Semangat yang tercerahkan menerobos batas-batas.</DisplayName>
+			<Desc>setelah[NAME]Dapat mendobrak batasan[ENHIM]menerima sedikit ilmu dari hukum langit dan bumi</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenSucceed">
+			<DisplayName>semangat pencerahan</DisplayName>
+			<Desc>setelah[NAME]Dapat mendobrak batasan[ENHIM]menerima sedikit ilmu dari hukum langit dan bumi</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenFailed">
+			<DisplayName>semangat pencerahan</DisplayName>
+			<Desc>[NAME]meskipun[NAME]tidak akan mampu menembus batas.[ENHIM]Sebaliknya, ia menemukan pengetahuan dari hukum langit dan bumi.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Golding">
+			<DisplayName>Semangat Inti Emas yang Tercerahkan</DisplayName>
+			<Desc>[NAME]Memasuki keadaan samadhi di antara Makhluk Surgawi sambil menyegel untuk menciptakan esensi emas.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_GoldSucceed">
+			<DisplayName>semangat pencerahan</DisplayName>
+			<Desc>setelah[NAME]Berhasil menyegel dan menciptakan Inti Emas.[ENHIM]menerima beberapa wawasan tentang hukum Tao</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_ThunderSucceed">
+			<DisplayName>Kesengsaraan, semangat yang tercerahkan</DisplayName>
+			<Desc>[NAME]Dia mampu melewati Hukuman Surgawi dan mendapatkan wawasan tentang Dao.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDan">
+			<DisplayName>Roh mengetahui hakikat pengobatan.</DisplayName>
+			<Desc>[NAME]Terbangun ke kondisi pencerahan spiritual sambil menyempurnakan pengobatan.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDanFailed">
+			<DisplayName>Roh mengetahui hakikat pengobatan.</DisplayName>
+			<Desc>[NAME]Gagal memurnikan obatnya.[ENHIM]Sebaliknya, dia mempelajari sebagian dari esensi pil pemurnian.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Refining">
+			<DisplayName>Roh mengetahui inti dari menyempurnakan senjata ajaib.</DisplayName>
+			<Desc>[NAME]Terbangun ke kondisi pencerahan spiritual sambil menyempurnakan senjata ajaib.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningGod">
+			<DisplayName>Roh mengetahui inti dari menyempurnakan senjata ajaib.</DisplayName>
+			<Desc>[NAME]Pahami konsep mendalam tentang penempaan senjata ajaib!</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningFailed">
+			<DisplayName>Roh mengetahui inti dari menyempurnakan senjata ajaib.</DisplayName>
+			<Desc>[NAME]Gagal menempa senjata ajaib.[ENHIM]Sebaliknya, dia belajar tentang bagian dari esensi menempa senjata magis.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Fei_LingWu">
+			<DisplayName>Saya tiba-tiba menyadari konsep alam.</DisplayName>
+			<Desc>Tiba-tiba[NAME]Saya memperoleh beberapa wawasan saat bermain dengan Fei.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_LuShu_LingWu">
+			<DisplayName>Saya tiba-tiba menyadari konsep alam.</DisplayName>
+			<Desc>Tiba-tiba[NAME]Memperoleh wawasan saat bermain dengan Lu Chu.</Desc>
+			<Selections.0.Display>memperoleh pengetahuan dan pemahaman</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
