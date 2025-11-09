@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cat_1">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Sembilan Misterius</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kucing Primordial. yang menggunakan cahaya bulan untuk menempa kekuatan di jantung dan otak. Bila berhasil dipraktikkan, akan menghasilkan peningkatan kekuatan dan daya tahan tubuh yang sangat besar. Inilah asal usul kata kucing dengan sembilan nyawa.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Ini sangat meningkatkan kekuatan fisik dari Penggarap Fisik Abadi.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cat_2">
+			<Prefix>mata</Prefix>
+			<Suffix>Kaca segel ajaib</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kucing Primordial. Membentuk mata dengan esensi langit dan bintang Jika berhasil dilatih, Anda akan bisa melihat dengan jelas kelemahan musuh Anda.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
