@@ -1,0 +1,11 @@
+ID	Desc
+
+1	Kultivator Baru
+2	Tugas Kerja
+3	Membangun Sekte
+4	Elemen dan Fengshui
+5	Jalur Kultivasi
+6	Makhluk Kuno
+7	Orang Abadi dan Manusia
+8	Pemberontakan Yaoguai
+9	Manual Rahasia
