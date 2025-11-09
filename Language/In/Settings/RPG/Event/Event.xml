@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>awal</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>Di tempat jebakan</DisplayName>
+			<PDisplayName>Waktu tinggal (detik)</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>Masuk ke titik jebakan.</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>Tinggalkan titik jebakan.</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>terserang</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>hancur</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>aku sekarat.</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>Berinteraksi</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>Setelah interaksi</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>Karakter memasuki titik penciptaan.</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>Karakter masuk dan keluar dari titik pembuatan.</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>Kembalikan Bingkai Logika</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>Kembalikan Bingkai Rendering</DisplayName>
+		</Text>
+	</List>
+</Texts>
