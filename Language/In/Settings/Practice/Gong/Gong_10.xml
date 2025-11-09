@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_10_Huo">
+			<DisplayName>Teknik Budidaya Matahari Sejati</DisplayName>
+			<Desc>Salah satu dari lima teknik budidaya hukum unsur sejati dari Sekte Tai Yi, Api Biasa, Api Bumi, dan Api Surga. Ketiga api ini melambangkan manusia, bumi, dan langit. Menggabungkan ketiga api tersebut akan menghasilkan nyala api yang kuat, dan tidak ada apa pun yang tidak dapat terbakar. Namun, proses pengembangan teknik ini sangatlah berbahaya. Jika Anda mengambil langkah ceroboh, ketiga api tersebut dapat kembali dan menghapus keberadaan seorang kultivator, mengubahnya menjadi abu.</Desc>
+			<SelectDesc>Subjek ini luar biasa dalam penggunaan Veda Qi. Namun, dengan setiap terobosan, kultivator akan menghadapi risiko digigit api di dalam tubuhnya. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Api biasa</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Percikan api</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Pahami asal mula api di dalam tubuh Anda dan nyalakan api Anda sendiri. Di sinilah latihan dimulai.[color=#D06508]\nJika terjadi kesalahan dalam penyalaan api, dapat menyebabkan Titik Pulsa Qi di dalam tubuh terluka.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Api biasa</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Kumpulkan api sejati di portal mental untuk menyalakan hati dan menghubungkannya dengan Qi Langit dan Bumi.[color=#D06508]\nJika terjadi kesalahan, Api asli akan meledak dan membakar tubuh penggarap. menyebabkan rasa sakit yang luar biasa[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Api Bumi</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tungku peleburan</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Dengan menggunakan api yang sebenarnya, dia membentuk kembali seluruh tulang tubuhnya. Dengan menggunakan tubuh sebagai tungku untuk mempersiapkan pembentukan sari api ke dalam tubuh.[color=#D06508]\nJika terjadi kesalahan Api sejati menembus tubuh dan melahap sumsum tulang kultivator. Harap pikirkan baik-baik sebelum melanggar batasan pada tahap ini.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Api Bumi</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Api Surgawi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Lampu surga</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Kumpulkan semua jiwa ke dalam hati dan nyalakan api surgawi.[color=#D06508]\nJika terjadi kesalahan, Qi api di dalam tubuh akan meledak dan membakar hati kultivator. Harap persiapkan dengan baik sebelum memutuskan untuk melampaui batas pada tahap ini.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Api Surgawi</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Api Suci yang Besar</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Api Roh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Dengan menggabungkan Jiwa Primordialnya sendiri dengan Dao Surgawi. Orang itu harus menghadapi murka surga secara langsung.[color=#D06508]\nMenembus batas pada tahap ini akan benar-benar menantang surga dan tidak akan menghasilkan bonus apa pun. Dari langkah ini[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Kelahiran Kembali Surgawi</Stages.3.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
