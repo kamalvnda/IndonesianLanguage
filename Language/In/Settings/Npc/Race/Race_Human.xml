@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>manusia</DisplayName>
+			<Desc>Hewan Umum: Manusia</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>objek roh</DisplayName>
+			<Desc>Pengertian suatu benda/bangunan/tanaman yang secara tidak sengaja tercerahkan dalam jiwa dan menjelma menjadi manusia.</Desc>
+			<MaleName>pria</MaleName>
+			<FemaleName>perempuan</FemaleName>
+		</Text>
+	</List>
+</Texts>
