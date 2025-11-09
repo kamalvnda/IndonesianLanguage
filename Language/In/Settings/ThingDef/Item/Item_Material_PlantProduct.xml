@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Cotton" sParam="Item">
+			<ThingName>kapas</ThingName>
+			<Desc>Keranjang berisi kapas yang merupakan bahan baku utama tenun. Selain mendapatkannya dari menanam kapas. Anda juga bisa pergi ke Gunung Liang melalui petualangan untuk mengumpulkannya.</Desc>
+			<Item.FabaoSuffix>gulungan benang, tali, tali, satin, kawat</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
