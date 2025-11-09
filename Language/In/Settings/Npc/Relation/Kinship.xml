@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spouse">
+			<DisplayNameF>istri</DisplayNameF>
+			<DisplayNameM>suami</DisplayNameM>
+		</Text>
+		<Text Name="Child">
+			<DisplayNameF>anak perempuan</DisplayNameF>
+			<DisplayNameM>putra</DisplayNameM>
+		</Text>
+		<Text Name="Brother">
+			<DisplayNameF>saudara perempuan</DisplayNameF>
+			<DisplayNameM>saudara saudara</DisplayNameM>
+		</Text>
+		<Text Name="Parent">
+			<DisplayNameF>ibu</DisplayNameF>
+			<DisplayNameM>ayah</DisplayNameM>
+		</Text>
+		<Text Name="GodChild">
+			<DisplayNameF>putri angkat</DisplayNameF>
+			<DisplayNameM>Mengadopsi kartu pria</DisplayNameM>
+		</Text>
+		<Text Name="GodParent">
+			<DisplayNameF>ibu angkat</DisplayNameF>
+			<DisplayNameM>ayah angkat</DisplayNameM>
+		</Text>
+		<Text Name="BiaoBrother">
+			<DisplayNameF>sepupu</DisplayNameF>
+			<DisplayNameM>sepupu</DisplayNameM>
+		</Text>
+		<Text Name="Friend">
+			<DisplayNameF>teman</DisplayNameF>
+			<DisplayNameM>teman</DisplayNameM>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayNameF>orang impian</DisplayNameF>
+			<DisplayNameM>orang impian</DisplayNameM>
+		</Text>
+		<Text Name="FancyFlag">
+			<DisplayNameF>Orang yang diam-diam mencintai dirinya sendiri</DisplayNameF>
+			<DisplayNameM>Orang yang diam-diam mencintai dirinya sendiri</DisplayNameM>
+		</Text>
+		<Text Name="Lover">
+			<DisplayNameF>orang yang dicintai</DisplayNameF>
+			<DisplayNameM>orang yang dicintai</DisplayNameM>
+		</Text>
+		<Text Name="RivalInlove">
+			<DisplayNameF>saingan cinta</DisplayNameF>
+			<DisplayNameM>saingan cinta</DisplayNameM>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayNameF>musuh</DisplayNameF>
+			<DisplayNameM>musuh</DisplayNameM>
+		</Text>
+		<Text Name="Reincarnation">
+			<DisplayNameF>kehidupan sebelumnya</DisplayNameF>
+			<DisplayNameM>kehidupan sebelumnya</DisplayNameM>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayNameF>Tidak tahu (kosong)</DisplayNameF>
+			<DisplayNameM>Tidak tahu (kosong)</DisplayNameM>
+		</Text>
+	</List>
+</Texts>
