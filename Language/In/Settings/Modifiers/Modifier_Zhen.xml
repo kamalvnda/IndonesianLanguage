@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>Wilayah inti flora</DisplayName>
+			<Desc>Merangsang potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>Wilayah surgawi yang teduh</DisplayName>
+			<Desc>Tingkatkan kondisi emosi, kondisi mental, dan kecepatan kultivasi Anda.</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>Beban kamp rendah.</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>Beban kampnya sedang.</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>Beban kamp mekanik tinggi.</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>Kamp Mekanik Tingkat Lanjut</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>Serangan Mantra Gabungan</DisplayName>
+			<Desc>Pengecoran qi ajaib berikutnya akan mengumpulkan qi ajaib semua orang dalam formasi.</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>mendirikan kamp strategis</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>inti utama</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>Mengungkap sub-inti</DisplayName>
+			<Desc>Saat ini, lokasi sub-inti terungkap. Serangan menghasilkan kerusakan tambahan. Namun, hal itu bisa disembunyikan dengan mengubah formasi formasi.</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>Kembalikan formasi</DisplayName>
+			<Desc>Kamp sudah mulai pulih.</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>Ubah perusahaan</DisplayName>
+			<Desc>Inti telah diubah untuk sementara. Namun perubahan akan kembali ke aslinya setelah jangka waktu tertentu.</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>tujuan</DisplayName>
+			<Desc>Tanda itu dihancurkan oleh pertempuran.</Desc>
+		</Text>
+	</List>
+</Texts>
