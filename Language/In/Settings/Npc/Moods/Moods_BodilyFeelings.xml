@@ -1,0 +1,149 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Temperature1">
+			<DisplayName>Ini sangat dingin.</DisplayName>
+			<Desc>Merasa sangat kedinginan hingga bisa mati kedinginan.</Desc>
+			<StoryDesc>Saya merasa sangat kedinginan sehingga sulit untuk berpikir.</StoryDesc>
+		</Text>
+		<Text Name="Temperature2">
+			<DisplayName>Sangat dingin</DisplayName>
+			<Desc>Dingin sekali.</Desc>
+			<StoryDesc>Merasa sangat kedinginan sehingga Anda merasa satu-satunya cara untuk menghangatkan diri adalah dengan bergidik sebanyak yang Anda bisa.</StoryDesc>
+		</Text>
+		<Text Name="Temperature3">
+			<DisplayName>dingin</DisplayName>
+			<Desc>Udaranya sangat dingin sehingga aku hampir tidak tahan.</Desc>
+			<StoryDesc>Saya merasa sangat kedinginan sehingga saya harus menggosok kedua tangan saya sepanjang waktu agar tetap hangat.</StoryDesc>
+		</Text>
+		<Text Name="Temperature4">
+			<DisplayName>Ini cukup dingin.</DisplayName>
+			<Desc>Agak dingin.</Desc>
+			<StoryDesc>Anda mungkin perlu mencari sweter untuk melindungi dari tingkat dingin ini.</StoryDesc>
+		</Text>
+		<Text Name="Temperature5">
+			<DisplayName>Suhu ini nyaman.</DisplayName>
+			<Desc>Udaranya terasa pas. Suhu dan angin sepoi-sepoi sempurna.</Desc>
+			<StoryDesc>Cuacanya terasa sempurna saat ini.</StoryDesc>
+		</Text>
+		<Text Name="Temperature6">
+			<DisplayName>sedikit panas</DisplayName>
+			<Desc>Agak panas.</Desc>
+			<StoryDesc>Merasa sangat panas hingga keringat menumpuk di dahi. Jika saat ini saya memiliki kipas angin di tangan, alangkah baiknya.</StoryDesc>
+		</Text>
+		<Text Name="Temperature7">
+			<DisplayName>panas</DisplayName>
+			<Desc>Rasanya aku ingin menangis hingga seluruh tubuhku berkeringat.</Desc>
+			<StoryDesc>Rasanya mustahil untuk tidak bermandikan keringat pada saat ini.</StoryDesc>
+		</Text>
+		<Text Name="Temperature8">
+			<DisplayName>Ini panas.</DisplayName>
+			<Desc>Suhu ini terlalu panas untuk ditanggung.</Desc>
+			<StoryDesc>Merasa kepanasan hingga baju basah oleh keringat</StoryDesc>
+		</Text>
+		<Text Name="Temperature9">
+			<DisplayName>Sangat panas.</DisplayName>
+			<Desc>Sangat panas, sangat panas, sangat panas. Orang bisa terbakar dengan tingkat panas seperti ini.</Desc>
+			<StoryDesc>Saya merasa sangat panas hingga hampir kehilangan kesadaran.</StoryDesc>
+		</Text>
+		<Text Name="Light1">
+			<DisplayName>terang</DisplayName>
+			<Desc>Saking terangnya, aku bahkan sulit membuka mataku.</Desc>
+			<StoryDesc>Air mengalir karena silau yang tajam. Bahkan mencoba menutup mata tidak banyak membantu.</StoryDesc>
+		</Text>
+		<Text Name="Light2">
+			<DisplayName>cerah dan berkilau</DisplayName>
+			<Desc>Cahayanya sangat terang sehingga sulit untuk dilihat.</Desc>
+			<StoryDesc>Terasa sangat cerah sehingga saya hanya bisa menyipitkan mata.</StoryDesc>
+		</Text>
+		<Text Name="Light3">
+			<DisplayName>Itu redup.</DisplayName>
+			<Desc>Hampir tidak ada cahaya yang masuk. Membuatnya sulit melihat sesuatu dengan jelas</Desc>
+			<StoryDesc>Saya merasa sangat gelap sehingga saya harus memusatkan perhatian pada berbagai hal. hati-hati Jika ada cahaya yang menyinari, itu akan bagus...</StoryDesc>
+		</Text>
+		<Text Name="Light4">
+			<DisplayName>gelap</DisplayName>
+			<Desc>Terasa sangat gelap sehingga dia tidak bisa melihat tangan di depan wajahnya.</Desc>
+			<StoryDesc>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</StoryDesc>
+		</Text>
+		<Text Name="Light5">
+			<DisplayName>Itu redup.</DisplayName>
+			<Desc>Senja membuat pikiran terasa tenang dan rileks.</Desc>
+			<StoryDesc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</StoryDesc>
+		</Text>
+		<Text Name="Light6">
+			<DisplayName>gelap</DisplayName>
+			<Desc>Terasa sangat gelap sehingga dia tidak bisa melihat tangan di depan wajahnya. Tapi anehnya rasanya aman.</Desc>
+			<StoryDesc>Merasa santai dan menikmati kegelapan.</StoryDesc>
+		</Text>
+		<Text Name="Pain1">
+			<DisplayName>Terluka sampai mati</DisplayName>
+			<Desc>Seberapa menyakitkan ini? Jika aku harus menderita seperti ini, aku lebih baik mati...</Desc>
+			<StoryDesc>mengerang kesakitan. Seolah kematian sudah dekat.</StoryDesc>
+		</Text>
+		<Text Name="Pain2">
+			<DisplayName>sakit parah</DisplayName>
+			<Desc>Sakit sekali, sakitnya hampir tak tertahankan...</Desc>
+			<StoryDesc>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</StoryDesc>
+		</Text>
+		<Text Name="Pain3">
+			<DisplayName>Itu sangat menyakitkan.</DisplayName>
+			<Desc>Sungguh menyakitkan! Kapan rasa sakit ini akan hilang?!</Desc>
+			<StoryDesc>Rasanya segalanya bisa dilakukan untuk menghilangkan rasa sakit ini.</StoryDesc>
+		</Text>
+		<Text Name="Pain4">
+			<DisplayName>terluka</DisplayName>
+			<Desc>Sangat menyakitkan hingga saya harus mengertakkan gigi dan menahannya.</Desc>
+			<StoryDesc>Aku merasakan sakit yang luar biasa hingga aku hanya bisa meringis.</StoryDesc>
+		</Text>
+		<Text Name="Pain5">
+			<DisplayName>Sedikit sakit.</DisplayName>
+			<Desc>Ini cukup menyakitkan...</Desc>
+			<StoryDesc>Kerutkan alis Anda dan tarik napas dalam-dalam. Tampaknya membantu.</StoryDesc>
+		</Text>
+		<Text Name="Consciousness1">
+			<DisplayName>keadaan pikiran yang bingung</DisplayName>
+			<Desc>Siapa saya? Dimana aku?...Dan apa yang terjadi padaku?</Desc>
+			<StoryDesc>Bingung..</StoryDesc>
+		</Text>
+		<Text Name="Consciousness2">
+			<DisplayName>pusing</DisplayName>
+			<Desc>Pikiranku berputar-putar... Perasaan pusing ini sungguh tidak nyaman.</Desc>
+			<StoryDesc>Menghela nafas karena pusing</StoryDesc>
+		</Text>
+		<Text Name="Consciousness3">
+			<DisplayName>Pusing, seperti pingsan</DisplayName>
+			<Desc>Rasanya kepalaku sangat sibuk sehingga aku tidak bisa memikirkan apa pun.</Desc>
+			<StoryDesc>Saya merasa tidak enak badan.</StoryDesc>
+		</Text>
+		<Text Name="Consciousness4">
+			<DisplayName>Tak berdaya</DisplayName>
+			<Desc>Aku sedang tidak ingin melakukan apa pun. aku merasa tidak berdaya...</Desc>
+			<StoryDesc>Menguap dengan malas karena merasa tubuh kekurangan energi.</StoryDesc>
+		</Text>
+		<Text Name="GetWet">
+			<DisplayName>Basah kuyup</DisplayName>
+			<Desc>Akan lebih baik jika saya memiliki payung.</Desc>
+			<StoryDesc>Pakaiannya basah semua...jika Anda memiliki pakaian kering, pakaian ganti dan api yang hangat akan menyenangkan.</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood">
+			<DisplayName>Iblis menangis</DisplayName>
+			<Desc>Ada banyak setan yang mengerang di dalam hatiku... Mereka sepertinya lapar.</Desc>
+			<StoryDesc>Mencoba menahan suara ratapan iblis di dalam hatinya.</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_Satisfy">
+			<DisplayName>puas sementara</DisplayName>
+			<Desc>Puas. Perasaan ini sebenarnya cukup menyenangkan.</Desc>
+			<StoryDesc>Menghela nafas panjang karena gairah di hatimu.</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Distilasi roh</DisplayName>
+			<Desc>Aku merasa jiwaku terkoyak... Aku tak menyangka perasaan menyakitkan seperti itu benar-benar ada.</Desc>
+			<StoryDesc>Dia menggigit sampai giginya hampir patah karena rasa sakit.</StoryDesc>
+		</Text>
+		<Text Name="AfterAbsorbGong_6">
+			<DisplayName>kosong di dalam</DisplayName>
+			<Desc>Rasanya kultivasi tidak seefektif yang diharapkan. Seolah-olah semua yang telah dilakukannya sia-sia.</Desc>
+			<StoryDesc>Merasa lemah dan bingung</StoryDesc>
+		</Text>
+	</List>
+</Texts>
