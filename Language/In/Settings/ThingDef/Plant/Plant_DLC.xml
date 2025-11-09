@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Plant_Bamboo" sParam="Plant">
+			<ThingName>bambu</ThingName>
+			<Desc>Tanaman umum yang tumbuh dengan cepat dan dapat digunakan untuk membuat bangunan dan barang-barang khusus. Jika sudah dewasa, tunas mudanya sudah bisa dipanen dan dimakan.</Desc>
+		</Text>
+	</List>
+</Texts>
