@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JiuHuaA">
+			<IVNUMBER.0.Animal.DisplayName>kandang beruang</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Pelatihan yang diterima dari sekte telah memberi saya kenangan terkait dengan keterampilan perlawanan.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="JiuHuaAL">
+			<IVNUMBER.0.Animal.DisplayName>Kandang beruang biasa</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Ia menerima kebijaksanaan rasa takut.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Kandang beruang biasa</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Ia menerima kebijaksanaan pemikiran.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Kandang beruang biasa</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Ia menerima kebijaksanaan kebahagiaan.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Kandang beruang biasa</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Ia menerima kebijaksanaan kemarahan.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Kandang beruang biasa</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor beruang yang sedang dalam kondisi terbangun. Ia menerima kebijaksanaan kecemasan.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>
