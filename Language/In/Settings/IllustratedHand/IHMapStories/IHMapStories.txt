@@ -1,0 +1,17 @@
+ID	MapStoryID	DisplayName	Desc
+1	Secrets_Baozang_EX1	Lembah Cacing	Buka rahasia Lembah Cacing
+2	Secrets_Baozang_EX2	Harta Karun Racun	Buka rahasia Harta Karun Venom
+3	Secrets_Baozang_EX3	Istana Surgawi	Buka rahasia Istana Surgawi
+4	Secrets_Baozang_EX4	Gua Api	Buka rahasia Gua Api
+5	Secrets_Baozang_EX5	Harta Karun Malaikat	Buka rahasia Harta Karun Malaikat
+6	Secrets_Baozang_EX6	Sisa-sisa Setan	Buka rahasia Sisa-sisa Iblis
+7	Secrets_KunLunFaHui	Kompetisi Kunlun	Ikut serta dalam Kompetisi Kunlun
+8	Secrets_GuangShouMenTu	Pameran Takdir	Ikut serta dalam Pameran Takdir Abadi
+9	Secrets_XieDiLing	Pembukaan Makam Kaisar Iblis	Saksikan pembukaan Makam Kaisar Iblis
+10	Secrets_DuGuiXingZong	Kamu Xuan si Penjudi	Bertaruh melawan Ye Xuan si Penjudi
+11	Secrets_TianJi	Jimat Celeste Kuno	Buka rahasia Jimat Celeste Kuno
+12	BaoZang_QingLianShan	Gunung Teratai Biru Abadi	Buka rahasia Gunung Teratai Biru Abadi
+13	BaoZang_XuanKong	Tempat Tinggal Abadi Giok	Buka rahasia Jade Immortal Abode
+14	BaoZang_ChiLianYuan	Tempat Tinggal Abadi Istana Zamrud	Buka rahasia Emerald Palace Immortal Abode
+15	BaoZang_DengXian	Harta Karun Dong Hua	Buka rahasia Harta Karun Dong Hua
+16	LingWu_JiuHua1	Naga Tersembunyi dan Phoenix Bertengger	Buka rahasia di balik Naga Tersembunyi dan Phoenix Bertengger
