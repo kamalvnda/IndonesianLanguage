@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>Pingsan</DisplayName>
+			<Desc>kehilangan kesadaran</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>meningkatkan kekuatan</DisplayName>
+			<Desc>Serangan dan pertahanan akan ditingkatkan secara default.</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>Berkat Dewi Bumi</DisplayName>
+			<Desc>Kemampuannya meningkat pesat di bawah pengaruh berkah Dewi Bumi.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>kekuatan air</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>kekuatan api</DisplayName>
+			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>kekuatan air</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>kekuatan air</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>kekuatan air</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>kekuatan api</DisplayName>
+			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>kekuatan api</DisplayName>
+			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
+			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>Qi Resonansi Tingkat Lanjut</DisplayName>
+			<Desc>Resonansi Qi antar tanaman lentera dapat meningkatkan laju regenerasi Qi.</Desc>
+		</Text>
+	</List>
+</Texts>
