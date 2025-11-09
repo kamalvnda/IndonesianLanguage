@@ -1,0 +1,39 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhi_YunYangBegin">
+			<DisplayName>menjaga</DisplayName>
+			<Desc>ketika[NAME]menjaga[HENAME]Sesuatu yang istimewa terjadi.</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_YunYangEnd">
+			<DisplayName>Perawatan selesai</DisplayName>
+			<Desc>Kapan[NAME]menjaga[HENAME]Setelah itu selesai, sesuatu yang istimewa terjadi.</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Chance">
+			<DisplayName>Pahala dan keberuntungan</DisplayName>
+			<Desc>Ada sedikit perubahan dalam kecerdasan untuk sementara waktu.[NAME]pertumbuhan</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Grow">
+			<DisplayName>Tanaman roh sudah matang.</DisplayName>
+			<Desc>Ketika akar roh matang. Energi Qi di seluruh langit dan bumi tiba-tiba berubah dan sesuatu yang luar biasa terjadi.</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Ripe">
+			<DisplayName>Buah roh sudah matang sepenuhnya.</DisplayName>
+			<Desc>Ada reaksi tiba-tiba di langit dan bumi ketika tanaman roh itu matang. Sesuatu yang istimewa sepertinya telah terjadi.</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_LingSha">
+			<DisplayName>roh jahat</DisplayName>
+			<Desc>Roh iblis[NAME]Batas akhir telah tercapai. Sepertinya ada sesuatu yang terjadi.</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Attack">
+			<DisplayName>invasi musuh</DisplayName>
+			<Desc>Buah roh sudah matang. Namun, sepertinya ada keributan yang terjadi. Bersiap</Desc>
+			<Selections.0.Display>meneliti</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
