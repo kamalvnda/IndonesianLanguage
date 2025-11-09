@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Tiger_1">
+			<Prefix>maksud</Prefix>
+			<Suffix>raja</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Harimau Iblis Primordial. Pelatihan yang berhasil akan membuat praktisi tetap tenang bahkan dalam menghadapi krisis yang mengancam jiwa dengan hati seorang raja.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari pose bertarung: Kehendak Raja.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Tiger_2">
+			<Prefix>tubuh</Prefix>
+			<Suffix>Berselancar di atas angin</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Harimau Iblis Primordial. Jika berhasil dipraktekkan, maka akan diperoleh kekuatan yang cepat dan ganas seperti badai yang mengamuk.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan kekuatan Fisik Misterius sebesar 10%.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
