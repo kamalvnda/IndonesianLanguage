@@ -1,0 +1,118 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_3_1">
+			<Prefix>anjing</Prefix>
+			<Suffix>Setan</Suffix>
+			<Desc>Tempa kedua taringnya dan gabungkan dengan racun qi. Fisik Misterius ini memiliki kemampuan serangan yang luar biasa.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_2">
+			<Prefix>ekor</Prefix>
+			<Suffix>Pembunuh Bayangan</Suffix>
+			<Desc>Menempa ekor panjang baru hingga memiliki kemampuan membunuh apapun dalam sekejap mata. Tubuh misterius ini memiliki kemampuan luar biasa untuk menekan senjata roh.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_3">
+			<Prefix>cakar</Prefix>
+			<Suffix>Dimensi terpisah</Suffix>
+			<Desc>Tempa empat cakar untuk membuatnya sangat tajam. Dikatakan bahwa jika seorang kultivator mencapai tingkat keberhasilan tertinggi, ia dapat menembus seluruh dimensi dan tidak ada yang bisa lolos dari serangannya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan akurasi serangan Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_4">
+			<Prefix>tapak</Prefix>
+			<Suffix>surga</Suffix>
+			<Desc>Fisik Misterius yang kuat yang membentuk tubuh dengan kekuatan Yin dan Yang. Legenda mengatakan bahwa master iblis kuno menggunakannya untuk naik ke puncak dunia budidaya dan menginjak-injak master lainnya. Anda bisa meletakkan semuanya di bawah kaki Anda. Oleh karena itu disebut juga surga yang menghentak.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_5">
+			<Prefix>Armor Iblis</Prefix>
+			<Suffix>sepuluh ribu jari-jari</Suffix>
+			<Desc>Memurnikan esensi kuat di tenggorokan dan menggabungkannya dengan qi sejati hingga penampakannya seperti puluhan ribu lampu perak yang menyala-nyala. Fisik Misterius ini luar biasa dalam kemampuannya menembus armor yang dalam.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_6">
+			<Prefix>sayap</Prefix>
+			<Suffix>menembus tulang</Suffix>
+			<Desc>Tempa sayap menggunakan metode rahasia yang dapat melepaskan Qi korosif. Fisik Misterius ini luar biasa dalam kemampuannya menembus armor yang dalam.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_7">
+			<Prefix>baja</Prefix>
+			<Suffix>Setan Langit</Suffix>
+			<Desc>Bulu seluruh tubuh menyatu menjadi satu yang mampu menahan segala bentuk agresi.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_8">
+			<Prefix>skala</Prefix>
+			<Suffix>naga iblis</Suffix>
+			<Desc>Menyempurnakan tubuhnya hingga tampak seperti sisik naga. Konon kekuatan pertahanannya hampir tidak bisa dihancurkan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_9">
+			<Prefix>bulu angsa</Prefix>
+			<Suffix>sepuluh ribu dunia</Suffix>
+			<Desc>Fisik Misterius legendaris yang konon meniru kelahiran kembali Klan Burung Vermillion Primordial tanpa akhir. Bulu yang telah dicairkan dengan kekuatan transformasi ribuan kali yang lalu menghasilkan kekuatan yang hanya bisa dibayangkan.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_10">
+			<Prefix>maksud</Prefix>
+			<Suffix>Maya</Suffix>
+			<Desc>Gunakan kekuatan tertinggi klan iblis untuk membentuk otak dan menciptakan keinginan ilusi untuk menyembunyikannya. Jika menggunakan metode ini untuk membentuk otak Ia berpotensi mengalami perubahan misterius dan mengembangkan potensi evolusi seluruh organ.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Pelajari Sihir Pemurnian Tubuh: Pemurnian Tubuh Iblis</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_11">
+			<Prefix>napas</Prefix>
+			<Suffix>Sepuluh ribu setan</Suffix>
+			<Desc>Fisik Misterius yang diciptakan dengan menggabungkan semua teknik berjalan napas rahasia Klan Iblis. Ia memiliki kemampuan untuk secara ajaib mengembalikan qi sejati seorang kultivator.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sangat meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_12">
+			<Prefix>berkilau</Prefix>
+			<Suffix>Bintang selebriti</Suffix>
+			<Desc>Fisik Misterius yang Tidak Biasa Bentuklah ekor baru dengan teknik rahasia untuk menggabungkannya dengan kekuatan bintang. Hasilnya, stabilitas Fisik Misterius meningkat pesat.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara signifikan.\n Meningkatkan peluang menekan senjata ajaib Fisik Misterius secara signifikan.\n Meningkatkan basis penghindaran dari Penggarap Fisik Abadi secara signifikan.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
