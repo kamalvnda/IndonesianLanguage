@@ -1,0 +1,19 @@
+ID	Type	Key	Values
+	0无，1玄穹录，2群仙册，3红尘记，4轮回书	键	值
+1	1	[MONSTER1]	Gagak Emas Taikoo|binatang pasang surut|Layang-layang Xuan Kong|Yelong|Burung Kebencian Kaisar|Xuanming|Dijiang|kekacauan
+2	1	[PLACE1]	Pedang Tianfeng|Feiyunhai|Gu Yufeng|hutan belantara yang luas|Kota Jiuxian
+3	1	[NAME1]	Kaisar Ular Wasteland Timur Zi Sanxu|Raja Naga Raja Kera Taohai|Ular Jatuh Kaisar Jinbaru|Orang tua Kuzhu di Jintandong, Jalan Heixue
+4	1	[IDEA1]	Arti sebenarnya dari Hunyuan|Arti sebenarnya dari yin dan yang|Arti sebenarnya dari lima elemen|Arti sebenarnya dari membunuh
+5	1	[DAN1]	Tidak ada buah|Jeli yang mengungkapkan Tuhan|Teratai Hati Nirwana|Sebab dan akibat pada awalnya
+6	1	[EVENT1]	Pusaran Reinkarnasi|laut yang bergejolak|Lembah Samsara|Laut Tanpa Batas
+7	2	[CITY2]	Kastil Dairyo|Kota Guanhai|Kota Heyin|Desa Panshe|Fengcheng|Desa Jiuhua|Desa Mingsha|Kota Hanshan|Kota Luoxia|Daoxiangcun|Desa Wuhua|Desa Luxu|Desa Nanping
+8	2	[PLACE2]	Kastil Dairyo|Kota Guanhai|Kota Heyin|Desa Panshe|Fengcheng|Desa Jiuhua|Desa Mingsha|Kota Hanshan|Kota Luoxia|Daoxiangcun|Desa Wuhua|Desa Luxu|Desa Nanping|Gunung Danxia|Pegunungan Kunlun|Puncak Tianji|jiuhuashan|Gunung Longhu|Shushan|Gunung Gorei|Hyakubanzan|Montenegro|Pulau Hehuan|Gurun|Hutan belantara selatan|lapangan salju lebat|Lahan subur di tepi sungai|Dataran Tengah|Sangcheongdong|Tebing Danxia|Wulongchi|Tosendai|Gua Pembuluh Darah Naga|Feiyunjian|Juetianguan|Qianlongyuan|Fengqiya|Air Terjun Fei Liu|kayu dewa|Tebing Ningbi|Gua Feilei|Gua Dinxia|Gua Yuquan|makam pedang|Tianchi|hutan hujan mubai|Gua Seribu Mayat|Wanshekeng|Gua Binatang|jurang maut|Hutan Seribu Duri|Lihenhai|Kolam Naga Racun|Aula Sepuluh Ribu Setan|Huan Sha Yuan|lubang api |Istana Ziyun|Kuburan kapal|pulau penyu hitam|kesenjangan besar|Dinghaifeng|mata laut|Xuanyin cekung|Hiroshi Tonami|Racun bunga persik abadi|Makam Kaisar Jahat|Mushiya|Tianluoyu|Yujingtan|Yukikaugahara|Katsurayama|Lushan|Gunung Yuntai|Puncak Alkimia|Pingdingshan|Gunung Bulan|Xiaoliangshan|Gunung Tongling|Peninggalan Taiyi|pantai pasir hitam
+9	2	[SCHOOL2]	Langit Gua Danxia|Istana Kunlun|Istana Jitian|sekte Zixiao|Xuandao|Sekte Pedang Qinglian|Langit Gua Qixia|Hyakubanzan|Qiqianwu|Istana Tujuh Pembunuhan Iblis|pai akasia|Aula Sepuluh Ribu Setan
+10	2	[MONSTER2]	naga|burung phoenix yang ganas|naga lilin
+11	2	[DAN2]	Teratai emas lima warna|buah langya|sari kuning oker|wisteria kering pohon|Zhu Guo
+12	2	[LINGPLANT2]	akar roh air-Teratai emas lima warna|Jinlinggen-buah langya|Jenderal Tu Ling-sari kuning oker|Mulingen-Wisteria kering pohon|akar api-Zhu Guo
+13	3	[MONSTER3]	Fei|Bi Fang|Berubah menjadi ular
+14	3	[CITY3]	Kastil Dairyo|Kota Guanhai|Kota Heyin|Desa Panshe|Fengcheng|Desa Jiuhua|Desa Mingsha|Kota Hanshan|Kota Luoxia|Daoxiangcun|Desa Wuhua|Desa Luxu|Desa Nanping
+15	4	[SCHOOL4]	Langit Gua Danxia|Istana Kunlun|Istana Jitian|sekte Zixiao|Xuandao|Sekte Pedang Qinglian|Langit Gua Qixia|Hyakubanzan|Qiqianwu|Istana Tujuh Pembunuhan Iblis|pai akasia|Aula Sepuluh Ribu Setan
+16	4	[SCHOOLB4]	Hyakubanzan|Qiqianwu|Istana Tujuh Pembunuhan Iblis|pai akasia
+17	4	[SCHOOLG4]	Langit Gua Danxia|Istana Kunlun|sekte Zixiao|Xuandao|Sekte Pedang Qinglian|Langit Gua Qixia
