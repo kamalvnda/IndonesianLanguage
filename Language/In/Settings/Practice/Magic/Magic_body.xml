@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_ModifierTest">
+			<Desc>Lakukan mantra dengan modifikasi tambahan. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_Body_JingXi">
+			<DisplayName>Berjalan di Jalan Paus</DisplayName>
+			<Desc>Suatu metode menggerakkan nafas untuk meningkatkan efisiensi pernafasan hingga 100 kali lipat dari metode pernafasan normal sebelumnya. Setelah menggunakan mantra ini Dada dan paru-paru pengguna akan terkena penggunaan yang sangat berat sehingga efisiensi jalan nafas akan sangat berkurang selama jangka waktu 10 hari.</Desc>
+			<TargetDesc>Posisi untuk digunakan dalam pernapasan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Body_TuJin">
+			<DisplayName>Melahap hidup</DisplayName>
+			<Desc>Gunakan Fisik Misterius untuk mempercepat fungsi tubuh dan langsung mengonsumsi energi dari langit dan bumi untuk mengisi kembali energi yang hilang. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi1">
+			<DisplayName>Menghabiskan hidup</DisplayName>
+			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Ini akan sangat mempercepat umur pengguna dan kecepatan pemurnian. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi2">
+			<DisplayName>membakar kehidupan</DisplayName>
+			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Hal ini akan sangat mempercepat tingkat pemanfaatan umur pengguna dan meningkatkan tingkat keberhasilan perkembangan tubuh tingkat lanjut saat menempa tubuh. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+		</Text>
+		<Text Name="Magic_Body_Banyunqixue">
+			<DisplayName>perpindahan energi</DisplayName>
+			<Desc>Gunakan 50 inti kehidupan untuk menstimulasi energi ke seluruh tubuh guna mempercepat pemulihan dan menyembuhkan luka selama 100 detik.</Desc>
+		</Text>
+	</List>
+</Texts>
