@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RedWallDownLeftS" sParam="Building">
+			<ThingName>Dinding merah (sudut)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+			<StoryBnts.0.Name>menganalisa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah mempelajari cara membangun gedung ini.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallUpLeftS" sParam="Building">
+			<ThingName>Dinding merah (sudut)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallMidUpS" sParam="Building">
+			<ThingName>Dinding merah (samping)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallMidRightS" sParam="Building">
+			<ThingName>Dinding merah (samping)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalS" sParam="Building">
+			<ThingName>Tembok Merah (Tengah)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalHalfS" sParam="Building">
+			<ThingName>Tembok Merah (Tertutup)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallHorizontalS" sParam="Building">
+			<ThingName>dinding merah</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS" sParam="Building">
+			<ThingName>Dinding merah kecil (sudut)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS" sParam="Building">
+			<ThingName>Dinding merah kecil (sudut)</ThingName>
+			<Desc>Tembok unik Sekte Wutung digunakan untuk membangun berbagai bangunan di dalam sekte tersebut. Ada ukuran kecil dan besar tergantung bangunan yang ingin dibangun.</Desc>
+		</Text>
+	</List>
+</Texts>
