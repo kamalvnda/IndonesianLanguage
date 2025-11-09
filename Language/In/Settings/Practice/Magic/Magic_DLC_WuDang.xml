@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsCalmHeart">
+			<DisplayName>Berjalan untuk menenangkan pikiran</DisplayName>
+			<Desc>Gunakan pada karakter sekutu agar mereka tidak membutuhkan makanan, air, atau tidur selama 3 hari, namun pergerakannya diperlambat.</Desc>
+			<TargetDesc>Pilihlah karakter yang ramah</TargetDesc>
+		</Text>
+		<Text Name="LsShapeshift">
+			<DisplayName>Segel Hukuman Surga</DisplayName>
+			<Desc>Menunda waktu penalti transformasi karakter sekutu dengan imbalan umur.</Desc>
+			<TargetDesc>Pilih karakter ramah yang akan menghadapi hukuman transformasi.</TargetDesc>
+		</Text>
+		<Text Name="LsLingWater">
+			<DisplayName>tanah alami</DisplayName>
+			<Desc>Mengubah suatu area menjadi tanah roh menggunakan pertumbuhan dan nutrisinya sendiri. Namun air di dekatnya akan berubah menjadi air normal.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
