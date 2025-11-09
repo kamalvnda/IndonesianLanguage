@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="DiMuWish">
+			<DisplayName>memuja</DisplayName>
+			<Desc>Berikan Batu Roh ke Kuil Dewi Bumi.</Desc>
+			<Selections.0.Display>Berdoalah untuk Batu Roh</Selections.0.Display>
+			<Selections.1.Display>berdoa untuk alam</Selections.1.Display>
+		</Text>
+		<Text Name="YinYangCanWu">
+			<DisplayName>Konsep Yin dan Yang</DisplayName>
+			<Desc>Batu Yin dan Yang berisi hukum Yin dan Yang langit dan bumi. yang dapat digunakan untuk memahami Tao dalam latihan seseorang</Desc>
+			<Selections.0.Display>Konsep Yin dan Yang</Selections.0.Display>
+			<Selections.1.Display>Tidak terjadi apa-apa...</Selections.1.Display>
+		</Text>
+		<Text Name="FeelQi">
+			<DisplayName>Rasakan nafasnya</DisplayName>
+			<Desc>Ada aura luar biasa yang mengelilinginya. Phrueksa Saeng Prathip yang dapat berkomunikasi dengan kultivator</Desc>
+			<Selections.0.Display>Rasakan nafasnya</Selections.0.Display>
+			<Selections.1.Display>Tidak terjadi apa-apa...</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
