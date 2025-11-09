@@ -1,0 +1,189 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FanRenEvent">
+			<DisplayName>Temui penduduk desa</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda terhadap orang biasa saat mereka berkeliling dunia.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Membantu ketika mereka mempunyai masalah Dan berusaha untuk tidak melakukan hal-hal yang berdampak negatif ketika melakukan sesuatu.</Selection.0.Desc>
+			<Selection.1.DisplayName>Tidak memperhatikan</Selection.1.DisplayName>
+			<Selection.1.Desc>Lakukan sesuatu sesuai keinginan Anda sendiri tanpa mempedulikan dampaknya terhadap orang-orang tersebut.</Selection.1.Desc>
+			<Selection.2.DisplayName>tidak tertarik</Selection.2.DisplayName>
+			<Selection.2.Desc>Masalah-masalah sepele manusia tidak sebanding dengan waktuku.</Selection.2.Desc>
+		</Text>
+		<Text Name="JiangHuFenZheng">
+			<DisplayName>Mengalami inkonsistensi</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda terhadap para kultivator saat mereka berkeliling dunia.</Desc>
+			<Selection.0.DisplayName>Praktisi Dhamma</Selection.0.DisplayName>
+			<Selection.0.Desc>Saat menghadapi kejadian seperti ini Hal pertama yang harus dilakukan adalah mencoba mengatasi permasalahan sebagai seorang praktisi Dhamma.</Selection.0.Desc>
+			<Selection.1.DisplayName>Penggarap Iblis</Selection.1.DisplayName>
+			<Selection.1.Desc>Saat menghadapi kejadian seperti ini Pertama-tama, cobalah untuk mengatasi masalah tersebut sebagai seorang penggarap setan.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Menjauhlah dan cobalah untuk tidak terlibat dalam masalah tersebut.</Selection.2.Desc>
+		</Text>
+		<Text Name="FindTreasure">
+			<DisplayName>Takdir Guru</DisplayName>
+			<Desc>Tindakan yang akan ditunjukkan oleh para murid sekte Anda ketika mereka beruntung bertemu dengan Orang Suci Abadi saat mereka berkeliling dunia.</Desc>
+			<Selection.0.DisplayName>Masuk dan jelajahi.</Selection.0.DisplayName>
+			<Selection.0.Desc>Cobalah keberuntungan Anda ketika menghadapi situasi seperti itu.</Selection.0.Desc>
+			<Selection.1.DisplayName>menghindari masalah</Selection.1.DisplayName>
+			<Selection.1.Desc>Menjauhlah dan cobalah untuk tidak terlibat dalam masalah tersebut.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindProduce">
+			<DisplayName>Kumpulkan sumber daya</DisplayName>
+			<Desc>Tindakan yang akan ditunjukkan oleh murid sekte Anda ketika menemukan sumber daya lokal khusus saat mereka berkeliling dunia.</Desc>
+			<Selection.0.DisplayName>Kumpulkan sumber daya</Selection.0.DisplayName>
+			<Selection.0.Desc>Kumpulkan sumber daya secara aktif ketika menghadapi situasi seperti itu.</Selection.0.Desc>
+			<Selection.1.DisplayName>tidak tertarik</Selection.1.DisplayName>
+			<Selection.1.Desc>Jangan buang waktu untuk hal-hal seperti ini.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindHighProduce">
+			<DisplayName>menemukan harta karun</DisplayName>
+			<Desc>Tindakan yang akan ditunjukkan oleh murid sekte Anda ketika menemukan harta karun langka saat mereka berkeliling dunia.</Desc>
+			<Selection.0.DisplayName>mencoba untuk menemukan</Selection.0.DisplayName>
+			<Selection.0.Desc>Cobalah untuk menemukan harta karun ketika menghadapi situasi seperti itu.</Selection.0.Desc>
+			<Selection.1.DisplayName>tidak tertarik</Selection.1.DisplayName>
+			<Selection.1.Desc>Jangan buang waktu untuk hal-hal seperti ini.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindSecret">
+			<DisplayName>Cerita-cerita aneh</DisplayName>
+			<Desc>Tindakan yang ditunjukkan oleh para murid di sekte Anda ketika mereka mendengar hal-hal aneh. Saat mereka berkeliling dunia</Desc>
+			<Selection.0.DisplayName>Selidiki ceritanya</Selection.0.DisplayName>
+			<Selection.0.Desc>Cobalah untuk menanyakan dan mengeksplorasi detail ketika menghadapi situasi seperti itu.</Selection.0.Desc>
+			<Selection.1.DisplayName>tidak tertarik</Selection.1.DisplayName>
+			<Selection.1.Desc>Jangan buang waktu untuk hal-hal seperti ini.</Selection.1.Desc>
+		</Text>
+		<Text Name="School_All">
+			<DisplayName>Hubungan antar kantor</DisplayName>
+			<Desc>Logika dasar</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_1">
+			<DisplayName>Hubungan Antar Sekte – Sekte Manusia Langit</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Sekte Tirai Langit.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_2">
+			<DisplayName>Hubungan Antar Sekte - Istana Kunlun</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda saat bertemu orang-orang dari Istana Kunlun.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_3">
+			<DisplayName>Hubungan antar kantor - Wang Nuea Napa</DisplayName>
+			<Desc>Ini adalah sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Nuea Sky Palace.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_4">
+			<DisplayName>Hubungan antar sekte – Biara Awan Ungu</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Biara Awan Ungu.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_5">
+			<DisplayName>Hubungan antar sekte – sekte rahasia</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Sekte Mendalam.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_6">
+			<DisplayName>Hubungan antar sekte - Biara Buasikram</DisplayName>
+			<Desc>Ini adalah sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu dengan orang-orang dari Biara Indigo Lotus.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_7">
+			<DisplayName>Hubungan Antar Sekte – Sekte Cahaya Malam</DisplayName>
+			<Desc>Ini adalah sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Sekte Cahaya Malam.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_8">
+			<DisplayName>Hubungan antar sekte - Gunung Serangga Roi</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Gunung Seratus Serangga.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_9">
+			<DisplayName>Hubungan antara Sekte – Sekte Lubang Jurang</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh para murid sekte Anda ketika bertemu orang-orang dari Sekte Lubang Jurang.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_10">
+			<DisplayName>Hubungan antara Sekte - Tujuh Jalan Pembunuhan Sekte</DisplayName>
+			<Desc>Sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu seseorang dari Tujuh Jalan Sekte Pembunuhan.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_11">
+			<DisplayName>Hubungan antar kantor - Kantor Saranrom</DisplayName>
+			<Desc>Sikap yang harus diungkapkan oleh murid sekte Anda ketika bertemu dengan orang-orang dari Sekte Saranrom.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_12">
+			<DisplayName>Hubungan antar sekte – Biara Sepuluh Ribu Setan</DisplayName>
+			<Desc>Ini adalah sikap yang harus ditunjukkan oleh murid sekte Anda ketika bertemu orang-orang dari Biara Sepuluh Ribu Iblis.</Desc>
+			<Selection.0.DisplayName>ramah</Selection.0.DisplayName>
+			<Selection.0.Desc>Perlakukan mereka dengan ramah.</Selection.0.Desc>
+			<Selection.1.DisplayName>mengancam</Selection.1.DisplayName>
+			<Selection.1.Desc>Perlakukan mereka dengan ancaman.</Selection.1.Desc>
+			<Selection.2.DisplayName>menghindari masalah</Selection.2.DisplayName>
+			<Selection.2.Desc>Cobalah menjauhkan diri dari mereka untuk menghindari masalah lebih lanjut.</Selection.2.Desc>
+		</Text>
+		<Text Name="lingguangyishan">
+			<DisplayName>Bangkitkan sebuah ide</DisplayName>
+		</Text>
+	</List>
+</Texts>
