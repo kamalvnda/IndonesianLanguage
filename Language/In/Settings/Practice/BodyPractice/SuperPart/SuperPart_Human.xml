@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>Segel</Prefix>
+			<Suffix>Jalur Lima Elemen</Suffix>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan dasar dari Mysterious Physique.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
