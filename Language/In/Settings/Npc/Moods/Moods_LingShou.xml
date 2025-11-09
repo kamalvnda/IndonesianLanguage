@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsHelpPlayHappy">
+			<DisplayName>sangat senang</DisplayName>
+			<Desc>Bermain dengan Spirit Demon membuat Anda merasa nyaman sepanjang hari.</Desc>
+			<StoryDesc>Aku merasa saat-saat ceria seperti ini benar-benar membuat hari menjadi lebih cerah.</StoryDesc>
+		</Text>
+		<Text Name="BiteHappy">
+			<DisplayName>Saya merasa dicintai.</DisplayName>
+			<Desc>Gigitan lembut dari roh iblis membuatmu merasa sayang padanya.</Desc>
+			<StoryDesc>Saya tidak merasakan sakit sama sekali. Hanya sedikit gatal.</StoryDesc>
+		</Text>
+		<Text Name="BiteSad">
+			<DisplayName>rongseng</DisplayName>
+			<Desc>Digigit keras oleh roh iblis Dia sepertinya tidak begitu menyukaiku.</Desc>
+			<StoryDesc>merasa tidak bahagia</StoryDesc>
+		</Text>
+		<Text Name="PetHeal">
+			<DisplayName>Roh iblis mengikutimu.</DisplayName>
+			<Desc>Roh iblis itu sedang menunggu untuk menjadi temanmu. Jadikan suasana hati Anda lebih baik</Desc>
+			<StoryDesc>rasakan emosinya perlahan perlahan membaik</StoryDesc>
+		</Text>
+		<Text Name="PetStay">
+			<DisplayName>Roh iblis mengikutimu.</DisplayName>
+			<Desc>Roh iblis itu sedang menunggu untuk menjadi temanmu. Jadikan suasana hati Anda lebih baik</Desc>
+			<StoryDesc>rasakan emosinya perlahan perlahan membaik</StoryDesc>
+		</Text>
+	</List>
+</Texts>
