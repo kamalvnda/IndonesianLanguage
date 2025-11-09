@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_2">
+			<DisplayName>Fisik Emas Mendobrak Langit</DisplayName>
+			<Desc>Teknik mengolah tubuh yang dikembangkan oleh seorang jenius umat manusia di zaman dahulu didasarkan pada teknik mengolah tubuh iblis besar dari zaman kuno. Teknik ini dikenal garang dan agresif. Memurnikan tulang Anda untuk menciptakan tubuh yang kuat dan bertenaga. Hingga pada akhirnya membentuk tubuh yang tak terkalahkan dan kuat yang bahkan mampu menghancurkan kehampaan.</Desc>
+			<SelectDesc>Melangkah ke Jalur Budidaya Tubuh Abadi berarti Anda harus menggabungkan tubuh, qi, dan pikiran Anda menjadi satu. Hal ini membuat Anda tidak mungkin bisa menyulap qi ajaib atau bahkan menggunakan senjata magis. Satu-satunya hal yang dapat Anda andalkan adalah tubuh Anda. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Budidaya Tubuh Abadi?</SelectDesc>
+			<Stages.0.DisplayName>Selama pencairan tubuh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>membangun tubuh fisik</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Masa pembersihan sumsum tulang</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>transplantasi sumsum tulang</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Selama penciptaan tubuh ilahi</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Gabungkan tubuh dan pikiran</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Selama perubahan tubuh astral</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tubuh abadi</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
