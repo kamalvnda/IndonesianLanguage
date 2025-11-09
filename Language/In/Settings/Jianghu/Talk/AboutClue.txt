@@ -1,0 +1,9 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数	文本参数
+AboutClue_KnowClue	0	[NAME] bertele-tele untuk meminta petunjuk tentang [TXT].	Ya, kamu sudah memberitahuku hal itu.	Anda juga tahu tentang itu? Ceritanya panjang...	Saya tidak tahu apa yang Anda bicarakan.
+AboutClue_KnowSecrect	0	[NAME] bertele-tele untuk meminta petunjuk tentang [TXT].	Ya, kamu sudah memberitahuku hal itu.	Aku... aku tidak tahu apa-apa!	Saya tidak tahu apa yang Anda bicarakan.
+AboutClue_KnowOther	0	[NAME] bertele-tele untuk meminta petunjuk tentang [TXT].	Ya, kamu sudah memberitahuku hal itu.	Oh? Saya belum pernah mendengarnya, tapi siapa yang tidak punya rahasia?	Oh? Ini kedengarannya aneh, tapi terserah Anda.
+AboutClue_KnowNothing	0	[NAME] bertele-tele untuk meminta petunjuk tentang [TXT].	Oh, aku sudah mengetahuinya.	Saya tidak percaya! Berkatmu, pikiranku menjadi tercerahkan.	Bagaimana mungkin? Saya tidak percaya demikian. Anda hanya terlalu memikirkannya.
+AboutSecret_KnowClue	0	Apa yang kamu ketahui tentang [TXT]?	Ya, kamu sudah memberitahuku hal itu.	Aku... aku tidak tahu apa-apa!	Saya tidak tahu apa yang Anda bicarakan.
+AboutSecret_KnowOther	0	Tahukah Anda tentang [TXT]?	Ya, kamu sudah memberitahuku hal itu.	Oh? Saya belum pernah mendengarnya, tapi siapa yang tidak punya rahasia?	Oh? Ini kedengarannya aneh, tapi terserah Anda.
+AboutSecret_KnowNothing	0	Ada rahasia besar tentang [TXT]!	Oh, aku sudah mengetahuinya.	Saya tidak percaya! Berkatmu, pikiranku menjadi tercerahkan.	Bagaimana mungkin? Saya tidak percaya demikian. Anda hanya terlalu memikirkannya.
