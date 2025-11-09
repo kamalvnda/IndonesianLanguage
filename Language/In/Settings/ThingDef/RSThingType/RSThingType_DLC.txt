@@ -1,0 +1,3 @@
+ItemName	Type
+Item_BambooShoot	bahan-bahan
+Item_Bamboo	Bahan
