@@ -1,0 +1,152 @@
+<Helps>
+  <List>
+	<Help Name="Long" Type="Icon" Def="Boss_Long">
+		<Title>naga</Title>
+		<Icon>ui/Other/bosstujian3</Icon>
+	</Help>
+	<Help Name="Long_P1" Root="Long" Type="Content">
+		<Title>pola pemulihan</Title>
+		<Text>[color=#9e6404]Pembuluh darah air pecah:[/color]
+				Naga tersebut menyebabkan urat air bawah tanah meletus, menyebabkan kerusakan pada target dan mengubah suatu area menjadi perairan dangkal.
+		  [color=#9e6404]Guntur Setan Guishui:[/color]
+				Naga tersebut memadatkan kekuatan Guishui menjadi guntur iblis, menyebabkan kerusakan pada target.
+		  [color=#9e6404]Panggilan kawanan:[/color]
+				Gunakan kekuatan naga untuk menekan monster di sekitar dan melancarkan serangan.
+		  [color=#9e6404]Air asli mengembun:[/color]
+				Ketika aura naga kurang dari 75%, ia akan menyerap uap air di seluruh peta, menerapkan kekuatan roh air pada dirinya sendiri, dan memasuki wujud naga sejati.</Text>
+	</Help>
+	<Help Name="Long_P2" Root="Long" Type="Content">
+		<Title>bentuk naga sejati</Title>
+		<Text>[color=#9e6404]Pembuluh darah air pecah:[/color]
+				Naga tersebut menyebabkan urat air bawah tanah meletus, menyebabkan kerusakan pada target dan mengubah suatu area menjadi perairan dangkal.
+		  [color=#9e6404]Guntur Setan Guishui:[/color]
+				Naga tersebut memadatkan kekuatan Guishui menjadi guntur iblis, menyebabkan kerusakan pada beberapa target.
+		  [color=#9e6404]Teknik Penyedotan Naga:[/color]
+				Jiaolong menarik napas dalam-dalam, mempercepat hilangnya air karakter musuh di seluruh peta, dan menerapkan kekuatan roh air pada dirinya sendiri.
+		  [color=#9e6404]Serangan balik:[/color]
+				Naga menandai karakter untuk jangka waktu tertentu. Setelah waktu habis, setengah dari aura maksimum senjata ajaib akan meledak, menyebabkan kerusakan besar pada semua karakter dalam jarak 5 blok dari unit yang ditandai. Jika atribut senjata ajaib ditahan oleh naga, efeknya akan berlipat ganda, jika tidak, efeknya akan berkurang setengahnya.
+		  [color=#9e6404]Panggilan kawanan:[/color]
+				Gunakan kekuatan naga untuk menekan monster di sekitar dan melancarkan serangan.
+		  [color=#9e6404]Iblis langit berubah menjadi darah:[/color]
+				Naga itu memurnikan semua mayat di tempat kejadian, memulihkan dirinya sendiri, dan menerapkan kekuatan roh air.</Text>
+	</Help>
+	<Help Name="Long_Secret" Root="Long" Type="Content">
+		<Title>Rahasia Naga</Title>
+		<Text>[color=#9e6404]Perairan asli:[/color]
+				Naga adalah badan air sejati. Ia menerima lebih banyak kerusakan tanah, lebih sedikit kerusakan air, sangat sedikit kerusakan akibat kebakaran, dan menyerap kerusakan logam.
+		  [color=#9e6404]Kemarahan Naga:[/color]
+				Saat hujan lebat reda, naga akan menghabiskan banyak kekuatan roh air dan memasuki kondisi marah, dengan semua atribut meningkat selama 120 detik.
+				Ketika amukan naga berakhir, naga tersebut akan memanggil hujan lebat lagi dan menyebabkan banyak kerusakan pada karakter yang sebelumnya menyebarkan hujan lebat tersebut. Jika atribut karakter dikendalikan oleh naga, efeknya akan berlipat ganda, jika tidak, efeknya akan berkurang setengahnya.
+		  [color=#9e6404]Neraka Dingin:[/color]
+				Ketika bagian tubuh naga dihancurkan, ia akan mengeluarkan nafas dingin ke lokasi karakter yang menghancurkan bagian tersebut. Nafasnya bertahan selama beberapa bulan dan daerah sekitarnya akan mengalami cuaca dingin yang parah.
+		  [color=#9e6404]Zeguo:[/color]
+				Ketika kekuatan roh air mencapai 100 lapisan, naga akan mengubahnya menjadi kekuatan penghancur dan meledak. Seluruh wilayah akan hancur dan berubah menjadi air, dan semua makhluk hidup di dalamnya akan mati.
+		  [color=#9e6404]Cakar Naga Sejati:[/color]
+				Saat naga memasuki wujud naga sejati, cakarnya akan ditutupi oleh kekuatan naga sejati dan menjadi tidak bisa dihancurkan.
+		  [color=#9e6404]Geng Naga Pelindung Tubuh:[/color]
+				Jiaolong terlahir dengan Qi yang melindungi tubuh, dan bagian-bagiannya sulit untuk dihancurkan. Hanya ketika sedang marah, Qi pelindung tubuh akan berkumpul di dalam tubuh, dan bagian lain akan menjadi rentan.
+		  [color=#9e6404]Skala terbalik naga:[/color]
+				Setelah naga menjadi marah tiga kali, sisik kebalikannya akan terlihat.</Text>
+	</Help>
+	
+	<Help Name="Feng" Type="Icon" Def="Boss_Feng">
+	<Title>burung phoenix yang ganas</Title>
+	<Icon>ui/Other/bosstujian2</Icon>
+	</Help>
+	<Help Name="Feng_P1" Root="Feng" Type="Content">
+		<Title>bentuk api</Title>
+		<Text>[color=#9e6404]Huo Xihong Lian:[/color]
+				Burung phoenix yang ganas menghembuskan nafas api, menyebabkan kerusakan terus menerus pada target, dan memiliki peluang untuk membakar permukaan di dekatnya.
+		  [color=#9e6404]Sekering:[/color]
+				Burung phoenix yang ganas menandai karakter untuk jangka waktu tertentu. Setelah waktu habis, itu akan menyebabkan kerusakan besar dalam radius 2 blok, dan kerusakan tersebut akan dibagi ke semua makhluk dalam jangkauan. Jika atribut karakter yang disebutkan ditahan oleh burung phoenix yang ganas, kerusakannya akan meningkat 2 kali lipat.
+		  [color=#9e6404]Memakan api:[/color]
+				Burung phoenix yang ganas menarik napas dalam-dalam, menyerap semua api di peta, memulihkan auranya sendiri sesuai dengan jumlah api, dan memperoleh kekuatan roh api.
+		  [color=#9e6404]Kebakaran nyata terjadi:[/color]
+				Ketika kekuatan roh api mencapai 100 lapisan, burung phoenix yang ganas akan memasuki bentuk api yang sebenarnya dan melepaskan enam belas bulu roh api dari hidupnya sendiri untuk membantu dalam pertempuran.</Text>
+	</Help>
+	<Help Name="Feng_P2" Root="Feng" Type="Content">
+		<Title>bentuk sebenarnya</Title>
+		<Text>[color=#9e6404]Zhen Yan mempertahankan[/color]
+				Burung phoenix yang ganas akan terus mengkonsumsi kekuatan roh api untuk mempertahankan bentuk api aslinya. Ketika kekuatan roh api habis, burung phoenix yang ganas akan keluar dari bentuk api yang sebenarnya dan mencoba mengambil kembali bulu roh api. Setiap kali bulu roh api diambil kembali, 10% energi spiritual akan dipulihkan.
+		  [color=#9e6404]Nafas Api Sejati[/color]
+				Burung phoenix yang ganas memuntahkan berbagai macam api berbentuk kipas, menyebabkan kerusakan pada karakter dalam jangkauannya dan memiliki peluang untuk membakar permukaan tanah.
+		  [color=#9e6404]Sekering Zhenyan:[/color]
+				Burung phoenix yang ganas menandai semua praktisi logam, dan setelah waktunya habis, ia akan menyebabkan kerusakan besar dalam radius 2 blok, dan kerusakan tersebut akan dibagi ke semua makhluk dalam jangkauannya. Jika atribut karakter yang disebutkan ditahan oleh burung phoenix yang ganas, kerusakannya akan meningkat 2 kali lipat. Jika tidak ada praktisi logam, karakter akan diklik secara acak untuk melepaskan Meltdown.
+		  [color=#9e6404]Memakan api:[/color]
+				Burung phoenix yang ganas menarik napas dalam-dalam, menyerap semua api di peta, memulihkan auranya sendiri sesuai dengan jumlah api, dan memperoleh kekuatan roh api.
+		  [color=#9e6404]Kristal Matahari:[/color]
+				Burung phoenix yang ganas melepaskan kristal api sejati dari kehidupan dan kematiannya sendiri, meningkatkan suhu seluruh area dalam upaya mengubah seluruh peta menjadi bumi hangus.</Text>
+	</Help>
+	<Help Name="Feng_Secret" Root="Feng" Type="Content">
+		<Title>Rahasia burung phoenix yang ganas</Title>
+		<Text>[color=#9e6404]Tubuh api sejati:[/color]
+				Burung phoenix yang ganas adalah tubuh api yang sebenarnya. Ia menerima lebih banyak kerusakan air, lebih sedikit kerusakan akibat kebakaran, sangat sedikit kerusakan logam, dan menyerap kerusakan kayu.
+		  [color=#9e6404]Feng Nu Jiuxiao[/color]
+				Saat cuaca berubah menjadi hujan, burung phoenix yang ganas akan menjadi marah, menghentikan segala tindakan, dan segera menyemprotkan tiga bola api untuk membombardir permukaan sekitarnya. dan menyebabkan kerusakan besar pada semua musuh dalam jangkauan. Nyala api akan membombardir area dengan atribut api dan air yang kuat. Burung phoenix yang ganas akan segera mengeluarkan mantra pemakan api setelah mengamuk di langit, kemudian membubarkan awan hujan dan mengunci cuaca dalam keadaan terik matahari dalam jangka waktu tertentu.
+		  [color=#9e6404]Mata Panas[/color]
+				Ketika bagian tubuh dari burung phoenix ganas dihancurkan, ia akan memadatkan kekuatan api sejati ke seluruh tubuhnya dan menatap karakter di bagian yang rusak dengan matanya yang terbakar, menyebabkan kerusakan yang semakin besar. Selama proses ini, tubuh burung phoenix yang ganas juga akan menjadi rapuh karena kurangnya pertahanan.
+		  [color=#9e6404]Nirwana[/color]
+				Setelah kematian burung phoenix jahat, ia akan berubah menjadi nirwana dan berubah menjadi telur burung phoenix jahat. Ia akan menyerap energi spiritual dan mencoba untuk dibangkitkan dalam waktu empat puluh sembilan hari. Selama periode ini, jika energi spiritual telur phoenix jahat habis, phoenix jahat akan mati total; jika energi spiritual telur phoenix jahat penuh, phoenix jahat akan terlahir kembali. Jika telur phoenix jahat tidak menyerap cukup energi spiritual setelah empat puluh sembilan hari, phoenix jahat juga akan mati total.
+		  [color=#9e6404]Sayap Roh Api[/color]
+				Saat Fierce Phoenix dalam wujud apinya, hampir mustahil untuk dihancurkan karena sayapnya dilindungi oleh bulu api. Hanya setelah memasuki bentuk api yang sebenarnya dan melepaskan bulu api barulah sayap tersebut dapat dihancurkan.
+		  [color=#9e6404]Kristal Matahari:[/color]
+				Kristal Matahari dari Fierce Phoenix adalah intisari kental dari seluruh tubuhnya. Kecuali senjata ajaib berbahan dasar air, senjata ajaib lainnya tidak dapat membahayakannya.</Text>
+	</Help>
+	
+	<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
+	<Title>naga lilin</Title>
+	<Icon>ui/Other/bosstujian1</Icon>
+	</Help>
+	<Help Name="ZhuLong_P1" Root="ZhuLong" Type="Content">
+		<Title>pola diurnal</Title>
+		<Text>[color=#9e6404]Dewa Harian:[/color]
+				Naga lilin bermanifestasi dalam bentuk Yang, dan akan melapisi 1 lapisan Nafas Yang setiap 6 detik. Nafas Zhiyang akan diubah menjadi jumlah nafas Xuanyin yang sama pada tahap pemotongan.
+		  [color=#9e6404]Guntur Dosa:[/color]
+				Naga lilin menggerakkan kekuatan sucinya untuk memancarkan guntur Yang yang penuh karma, menyebabkan kerusakan pada karakter dan untuk sementara meningkatkan momok target sebanyak 2 poin. Semakin tinggi Scourge target, semakin tinggi pula kerusakannya.
+		  [color=#9e6404]Kamu Nafas Naga Api:[/color]
+				Naga lilin mengeluarkan nafas naga yang keras ke satu arah. Musuh yang terkena nafas akan menghasilkan [bentuk naga kebaikan] dan mengalami kerusakan. Semakin tinggi Scourge target, semakin tinggi pula kerusakannya.
+		  [color=#9e6404]Penghakiman Surga:[/color]
+				Melepaskannya pada target dengan momok terendah, menyebabkan kerusakan besar. Jika momok target lebih tinggi dari 50, auranya akan merajalela ke seluruh tubuh, menyebabkan cedera serius langsung dan hilangnya efektivitas tempur. Energi spiritual yang mengamuk juga akan meledak, menyebabkan kerusakan pada area 3 blok di dekatnya, dan akan diserap oleh Naga Lilin, melapisi 20 lapisan Nafas Matahari.
+		  [color=#9e6404]Karma mengambil bentuk:[/color]
+				Ketika Nafas Matahari mencapai tingkat ke-100, karma akan dilepaskan dan diubah menjadi [Bentuk Naga Pikiran Baik] untuk semua murid batin.
+		  [color=#9e6404]Kemarahan Yin dan Yang:[/color]
+				Ketika telur naga lilin dihancurkan, naga lilin dengan marah mengganggu jalur yin dan yang, menyebabkan kerusakan pada semua musuh dan menetaskan semua [Telur Yang] yang tidak tertekan, lalu naik ke udara, menghasilkan tiga [Telur Yin] di jalur tersebut, dan akhirnya muncul kembali dalam bentuk malam yang gelap. Selama transformasi Yin dan Yang, Zhulong memperoleh 50 lapisan Nafas Yin Misterius, dan peningkatan hukuman ilahi yang disebabkan oleh Guntur Dosa pada pemain juga akan dihapus.
+		  [color=#9e6404]Bentuk naga dari pemikiran yang baik:[/color]
+				Hantu yang diciptakan oleh naga lilin pada siang hari akan terus mengembalikan energi spiritual pada naga lilin. Kandungan aura dan kekuatan mantra dari hantu tersebut berhubungan dengan momok karakter saat diciptakan. Semakin tinggi momok targetnya, semakin kuat nilainya.
+		  [color=#9e6404]Telur Yang:[/color]
+				Saat naga lilin mengaktifkan murka yin dan yang, ia akan menetaskan semua [Telur Yang] di tempat kejadian, dan pelayan naga yang dihasilkan darinya akan menjadi ancaman besar. [Telur Yang] membutuhkan Feng Shui yang sangat jahat untuk menekannya.</Text>
+	</Help>
+	<Help Name="ZhuLong_P2" Root="ZhuLong" Type="Content">
+		<Title>bentuk malam yang gelap</Title>
+		<Text>[color=#9e6404]Dewa Malam Abadi:[/color]
+				Naga lilin bermanifestasi dalam bentuk yin, dan akan melapisi 1 lapisan nafas yin misterius setiap 6 detik. Nafas Xuanyin akan diubah menjadi jumlah napas Yang yang sama pada tahap pemotongan.
+		  [color=#9e6404]Guntur Pikiran Ilahi:[/color]
+				Naga lilin menggerakkan kekuatan sucinya dan mengirimkan guntur Yin yang menyerang pikiran ilahi, menyebabkan kerusakan pada karakter dan menurunkan mood target untuk sementara sebanyak 2 poin. Semakin rendah mood target, semakin tinggi kerusakannya.
+		  [color=#9e6404]Napas Naga Iblis Batin:[/color]
+				Naga lilin mengeluarkan nafas naga yang keras ke satu arah. Musuh yang terkena nafas akan menghasilkan [Bentuk Naga Pemikiran Jahat] dan terkena damage. Semakin rendah mood target, semakin tinggi kerusakannya.
+		  [color=#9e6404]Jurang pikiran jahat:[/color]
+				Itu dilepaskan pada target dengan kondisi mental tertinggi, menyebabkan kerusakan besar. Jika kondisi mental target lebih rendah dari 30, auranya akan merajalela ke seluruh tubuh, menyebabkan cedera serius secara langsung dan hilangnya efektivitas tempur. Energi spiritual yang mengamuk juga akan meledak, menyebabkan kerusakan pada area 3 blok di dekatnya, dan akan diserap oleh naga lilin, melapisi 20 lapisan nafas Xuanyin.
+		  [color=#9e6404]Iblis batiniah mengambil bentuk:[/color]
+				Ketika nafas Xuanyin mencapai lantai 100, iblis batiniah akan dilepaskan dan [bentuk naga pikiran jahat] akan dihasilkan untuk semua murid batin.
+		  [color=#9e6404]Kemarahan Yin dan Yang:[/color]
+				Ketika telur naga lilin dihancurkan, naga lilin dengan marah mengganggu jalur yin dan yang, menyebabkan kerusakan pada semua musuh dan menetaskan semua [Telur Yin] yang tidak tertekan, lalu naik ke udara, menghasilkan tiga [Telur Yang] di jalur tersebut, dan akhirnya muncul kembali dalam bentuk siang hari. Selama transisi antara yin dan yang, Zhulong memperoleh 50 lapisan Nafas Matahari, dan penurunan kondisi pikiran pemain yang disebabkan oleh Guntur Pikiran Ilahi juga akan hilang.
+		  [color=#9e6404]Bentuk naga pikiran jahat:[/color]
+				Hantu yang diciptakan oleh naga lilin di malam yang gelap dapat melepaskan senjata ajaib untuk menyerang. Kandungan aura hantu terkait dengan kekuatan senjata ajaib dan keadaan pikiran karakter saat dihasilkan. Semakin rendah mood target, semakin kuat kekuatannya.
+		  [color=#9e6404]Telur Yin:[/color]
+				Saat naga lilin mengaktifkan murka yin dan yang, ia akan menetaskan semua [Telur Yin] di tempat kejadian, dan pelayan naga yang dihasilkan darinya akan menjadi ancaman besar. [Telur Yin] perlu ditekan dengan feng shui yang baik.</Text>
+	</Help>
+	<Help Name="ZhuLong_Secret" Root="ZhuLong" Type="Content">
+		<Title>Rahasia Naga Lilin</Title>
+		<Text>[color=#9e6404]Inkarnasi Yin dan Yang:[/color]
+				Naga lilin adalah penjelmaan manusia dari yin dan yang antara langit dan bumi. Dalam bentuk siang hari, hanya kerusakan yang disebabkan oleh lima elemen milik yin (logam dan air) yang akan efektif, sedangkan kerusakan yang disebabkan oleh lima elemen milik Yang (api dan kayu) akan diserap. Dalam bentuk malam gelap, hanya kerusakan yang disebabkan oleh lima elemen Yang (api dan kayu) yang akan efektif, sedangkan kerusakan dari lima elemen Yin (logam dan air) akan diserap. Meskipun kerusakan atribut bumi mengabaikan tahapan, kerusakan yang ditimbulkan hanya lebih kecil.
+		  [color=#9e6404]Topeng Pikiran Murka Surga:[/color]
+				Ketika mata naga hancur dalam bentuk malam yang gelap, Zhulong akan menggunakan murka surga untuk meluncurkan topeng pikiran pada karakter di bagian yang rusak. Orang yang menghancurkan mata naga akan mengalami penurunan mood sebesar 100 poin selama satu tahun. Jika Anda selamat dari topeng psikis, suasana hati Anda akan meningkat secara permanen sebesar 20 poin.
+		  [color=#9e6404]Murka Surga - Dihantui Karma:[/color]
+				Ketika mata naga hancur dalam bentuk siang hari, Zhulong akan menggunakan murka surga untuk meluncurkan Karmic Fire Haunting pada karakter di bagian yang rusak. Orang yang menghancurkan mata naga akan mendapat peningkatan 1.000 poin momok selama satu tahun. Jika Anda selamat dari api karma, momoknya akan berkurang secara permanen sebesar 200 poin.
+		  [color=#9e6404]Skala Surga:[/color]
+				Ada skala surga di antara alis Zhulong, yang hanya akan muncul setelah Zhulong mengaktifkan murka yin dan yang dua kali.
+		  [color=#9e6404]Giok Kekacauan:[/color]
+				Chaos Jade adalah sumber kekuatan naga lilin. Hanya setelah menghancurkan mata dan menghancurkan Skala Langit barulah Chaos Jade muncul di lokasi Skala Langit.</Text>
+	</Help>
+</List>
+</Helps>
