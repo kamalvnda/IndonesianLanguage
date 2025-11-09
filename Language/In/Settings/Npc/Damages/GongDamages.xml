@@ -1,0 +1,175 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Tower_FuBai">
+			<DisplayName>dekadensi</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit1">
+			<DisplayName>Luka memar</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit2">
+			<DisplayName>cedera ringan</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit3">
+			<DisplayName>luka kecil</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_ThunderDamage">
+			<DisplayName>luka petir</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_SwordLight2">
+			<DisplayName>Pedang Qi Korosif (Kekerasan)</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Failure">
+			<DisplayName>lelah</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Corrosion">
+			<DisplayName>karat</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_Frostbite">
+			<DisplayName>Radang dingin</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_ColdPoison">
+			<DisplayName>racun musim dingin</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_VisceralBurn">
+			<DisplayName>elemen api</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_BurnOfPain">
+			<DisplayName>terbakar</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Weathering">
+			<DisplayName>Lapuk</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Petrifaction2">
+			<DisplayName>membatu (kekerasan)</DisplayName>
+		</Text>
+		<Text Name="FivePoison">
+			<DisplayName>lima napas beracun</DisplayName>
+		</Text>
+		<Text Name="SwordBallDamage">
+			<DisplayName>Tubuh robek</DisplayName>
+		</Text>
+		<Text Name="XueGuLianXing">
+			<DisplayName>Kutukan yang melelehkan hati</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3_Damage">
+			<DisplayName>Demensia</DisplayName>
+		</Text>
+		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
+			<DisplayName>Semangatnya terbatas.</DisplayName>
+		</Text>
+		<Text Name="SoulOutOfBrain">
+			<DisplayName>roh anti roh</DisplayName>
+		</Text>
+		<Text Name="LostSoul">
+			<DisplayName>diblokir</DisplayName>
+		</Text>
+		<Text Name="Damage_GongXinYin_Damage">
+			<DisplayName>Jiwa yang Patah</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan1">
+			<DisplayName>jiwa yang rusak</DisplayName>
+		</Text>
+		<Text Name="Damage_Kidnap_MiHun">
+			<DisplayName>ilmu hitam</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan2">
+			<DisplayName>memblokir kesadaran</DisplayName>
+		</Text>
+		<Text Name="Damage_ZhenFaZhenDang">
+			<DisplayName>Efek dari kamp</DisplayName>
+		</Text>
+		<Text Name="DiffEnergyInvade">
+			<DisplayName>Nafas asing</DisplayName>
+		</Text>
+		<Text Name="MeridianRupture">
+			<DisplayName>merobek</DisplayName>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>rusak</DisplayName>
+		</Text>
+		<Text Name="ElixirFieldShock">
+			<DisplayName>Titik fokus dari denyut turbulen</DisplayName>
+		</Text>
+		<Text Name="NeiQiWenLuan">
+			<DisplayName>Qi di dalamnya diaduk.</DisplayName>
+		</Text>
+		<Text Name="Damage_Boss_LingBoom">
+			<DisplayName>Nafasnya gelisah.</DisplayName>
+		</Text>
+		<Text Name="Damage_Sys_SuppressGodCall">
+			<DisplayName>Tangguhkan Hukuman Surga</DisplayName>
+		</Text>
+		<Text Name="JieNanHuangu">
+			<DisplayName>Nyeri akibat penggantian tulang</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury_Sp">
+			<DisplayName>Titik nadi rusak.</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury">
+			<DisplayName>Qi melebihi batas</DisplayName>
+		</Text>
+		<Text Name="SevereInjury">
+			<DisplayName>Hilangnya qi asli</DisplayName>
+		</Text>
+		<Text Name="Jin_ThunderDamage">
+			<DisplayName>luka petir</DisplayName>
+		</Text>
+		<Text Name="Jin_BoneNail">
+			<DisplayName>osteoporosis</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight1">
+			<DisplayName>Pedang Korosif Qi (ringan)</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight2">
+			<DisplayName>Pedang Qi Korosif (Kekerasan)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour1">
+			<DisplayName>Nafas Kematian (cahaya)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour2">
+			<DisplayName>Nafas Kematian (Kekerasan)</DisplayName>
+		</Text>
+		<Text Name="Mu_Failure">
+			<DisplayName>lelah</DisplayName>
+		</Text>
+		<Text Name="Mu_Corrosion">
+			<DisplayName>karat</DisplayName>
+		</Text>
+		<Text Name="Mu_Parasitic">
+			<DisplayName>terinfeksi parasit</DisplayName>
+		</Text>
+		<Text Name="Shui_Frostbite">
+			<DisplayName>Radang dingin</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdBlood">
+			<DisplayName>titik nadi es</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdPoison">
+			<DisplayName>racun musim dingin</DisplayName>
+		</Text>
+		<Text Name="Huo_VisceralBurn">
+			<DisplayName>Elemen api masuk</DisplayName>
+		</Text>
+		<Text Name="Huo_BurnOfPain">
+			<DisplayName>mengalami nyeri terbakar</DisplayName>
+		</Text>
+		<Text Name="Huo_MarrowDry">
+			<DisplayName>Degenerasi sumsum tulang</DisplayName>
+		</Text>
+		<Text Name="Huo_HeartBurn">
+			<DisplayName>Elemen api menembus jantung</DisplayName>
+		</Text>
+		<Text Name="Tu_Weathering">
+			<DisplayName>Lapuk</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction1">
+			<DisplayName>membatu (ringan)</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction2">
+			<DisplayName>membatu (parah)</DisplayName>
+		</Text>
+		<Text Name="Tu_BrainClose">
+			<DisplayName>Tutup hatimu</DisplayName>
+		</Text>
+	</List>
+</Texts>
