@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Forest">
+			<DisplayName>hutan</DisplayName>
+		</Text>
+		<Text Name="Plain">
+			<DisplayName>Bidang biasa</DisplayName>
+		</Text>
+		<Text Name="Mountain">
+			<DisplayName>gunung</DisplayName>
+		</Text>
+		<Text Name="Aqua">
+			<DisplayName>sungai</DisplayName>
+		</Text>
+	</List>
+</Texts>
