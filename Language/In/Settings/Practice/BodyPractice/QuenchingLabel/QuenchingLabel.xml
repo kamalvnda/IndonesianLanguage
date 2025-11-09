@@ -1,0 +1,526 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BQLabel_LOST">
+			<DisplayName>kehilangan sesuatu</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base">
+			<DisplayName>Label</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Special1">
+			<DisplayName>Tulang Belakang Api</DisplayName>
+			<Desc>Tempa tulang belakang dengan teknik rahasia untuk mengubah dasar aslinya.[size=10][color=#D06508]\n Sangat meningkatkan batas pemurnian tulang dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special2">
+			<DisplayName>Otak ilusi</DisplayName>
+			<Desc>Tempa otak dengan teknik rahasia untuk mengubah dasar aslinya.[size=10][color=#D06508]\n Sangat meningkatkan batas pemurnian organ dalam dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special3">
+			<DisplayName>hati di atas langit</DisplayName>
+			<Desc>Tempa hati dengan teknik rahasia untuk mengubah dasar aslinya.[size=10][color=#D06508]\n Sangat meningkatkan batas pemurnian daging dan darah dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Organ yang ditingkatkan</DisplayName>
+			<Desc>Meningkatkan kekuatan organ melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.\n Sedikit meningkatkan kekuatan fisik Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>memperkuat tulang</DisplayName>
+			<Desc>Memperkuat tulang melalui pemurnian tubuh Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Meningkatkan basis kekuatan Fisik Misterius secara moderat.\n Meningkatkan daya tahan dasar Fisik Misterius secara moderat.\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.\n Sedikit meningkatkan kekuatan fisik dari Penggarap Fisik Abadi.\n Sedikit meningkatkan umur Fisik Abadi Penggarap.\n Sedikit meningkatkan nafsu makan Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Diperkuat secara fisik</DisplayName>
+			<Desc>Memperkuat otot melalui pemurnian tubuh Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sedikit meningkatkan basis akurasi Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius.\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan jumlah Qi Sejati yang digunakan oleh Misterius Fisik.\n Sedikit meningkatkan kekuatan fisik Penggarap Fisik Abadi.\n Sedikit meningkatkan umur Penggarap Fisik Abadi.\n Sedikit meningkatkan nafsu makan Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spine">
+			<DisplayName>memperkuat tulang belakang</DisplayName>
+			<Desc>Memperkuat tulang belakang melalui pemurnian tubuh Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan jumlah Qi Sejati yang digunakan oleh Fisik Misterius.\n Sedikit meningkatkan kekuatan fisik Penggarap Fisik Abadi.\n Sedikit meningkatkan umur Fisik Abadi Penggarap.\n Sedikit meningkatkan nafsu makan Penggarap Fisik Abadi.\n Sedikit meningkatkan batas pemurnian tulang Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Brain">
+			<DisplayName>penguatan otak</DisplayName>
+			<Desc>Meningkatkan fungsi dasar otak melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan jumlah maksimum kenangan menyakitkan.\n Sedikit meningkatkan durasi Kemarahan Gila Penggarap Fisik Abadi.\n Sedikit meningkatkan laju penggunaan Qi Sejati dari Fisik Misterius.\n Sangat meningkatkan toleransi rasa sakit dari Penggarap Fisik Abadi.\n Sedikit meningkatkan batas pemurnian organ dalam dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Eye">
+			<DisplayName>Mata yang Diperkuat</DisplayName>
+			<Desc>Memperkuat fungsi dasar mata melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan basis penghindaran dari Penggarap Fisik Abadi.\n Sedikit meningkatkan akurasi serangan Fisik Tersembunyi.\n Sedikit meningkatkan tingkat keberhasilan pertahanan Fisik Misterius.\n Sedikit meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.\n Sedikit meningkatkan radius kesadaran Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Misterius Fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Ear">
+			<DisplayName>Telinga yang Ditingkatkan</DisplayName>
+			<Desc>Meningkatkan fungsi dasar telinga melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan basis penghindaran dari Penggarap Fisik Abadi.\n Sedikit meningkatkan akurasi serangan Fisik Tersembunyi.\n Sedikit meningkatkan tingkat keberhasilan pertahanan Fisik Misterius.\n Sedikit meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Nose">
+			<DisplayName>hidung yang diperkuat</DisplayName>
+			<Desc>Meningkatkan fungsi dasar hidung melalui perpaduan tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan efisiensi aliran napas Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Mouth">
+			<DisplayName>memperkuat mulut</DisplayName>
+			<Desc>Meningkatkan fungsi dasar mulut melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan level maksimum dari apa yang dapat dikonsumsi oleh Penggarap Fisik Abadi.\n Sedikit meningkatkan kemungkinan mendapatkan esensi dari melahap item.\n Sedikit meningkatkan jumlah esensi yang diperoleh dari melahap item.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Throat">
+			<DisplayName>leher yang diperkuat</DisplayName>
+			<Desc>Meningkatkan fungsi dasar tenggorokan melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan efisiensi aliran napas Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Heart">
+			<DisplayName>Memperkuat Hati</DisplayName>
+			<Desc>Memperkuat fungsi dasar jantung melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan laju penyamarataan kekuatan saat menggunakan Kemarahan Gila Penggarap Fisik Abadi.\n Sedikit meningkatkan laju pemurnian tubuh Penggarap Fisik Abadi.\n Sedikit meningkatkan nilai pembentukan fisik maksimum dari Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Liver">
+			<DisplayName>Memperkuat hati</DisplayName>
+			<Desc>Meningkatkan fungsi dasar hati melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemurnian tubuh para penggarap Fisik Abadi.\n Sedikit meningkatkan jumlah esensi yang diperoleh dari melahap item.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spleen">
+			<DisplayName>memperkuat limpa</DisplayName>
+			<Desc>Memperkuat fungsi dasar limpa melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat penyembuhan diri dari Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Lung">
+			<DisplayName>paru-paru yang diperkuat</DisplayName>
+			<Desc>Memperkuat fungsi dasar paru-paru melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan efisiensi aliran napas Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Penguatan ginjal</DisplayName>
+			<Desc>Meningkatkan fungsi dasar ginjal melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi.\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.\n Meningkatkan secara moderat tingkat perolehan energi fisik para penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Penguatan perut</DisplayName>
+			<Desc>Memperkuat fungsi dasar lambung melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan level maksimum dari apa yang dapat dikonsumsi oleh Penggarap Fisik Abadi.\n Sedikit meningkatkan kemungkinan mendapatkan esensi dari item yang dimakan.\n Sedikit meningkatkan jumlah esensi yang diperoleh dari item yang dimakan.\n Meningkatkan bonus konsumsi makanan dari Penggarap Fisik Abadi sedang.\n Cukup meningkatkan laju perolehan energi fisik dari penggarap Fisik Abadi.\n Sedikit meningkatkan laju penggunaan Qi Sejati dari Fisik Misterius.\n Sangat signifikan meningkatkan nafsu makan para Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Intestines">
+			<DisplayName>memperkuat usus</DisplayName>
+			<Desc>Meningkatkan fungsi dasar usus melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan level maksimum dari apa yang dapat dikonsumsi oleh Penggarap Fisik Abadi.\n Sedikit meningkatkan kemungkinan mendapatkan esensi dari item yang dimakan.\n Sedikit meningkatkan jumlah esensi yang diperoleh dari item yang dimakan.\n Meningkatkan bonus konsumsi makanan dari Penggarap Fisik Abadi sedang.\n Meningkatkan secara moderat laju perolehan energi fisik dari penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Genitals">
+			<DisplayName>penguatan penis</DisplayName>
+			<Desc>Meningkatkan fungsi dasar organ seksual melalui pemurnian tubuh. Proses ini dapat dipercepat dengan menggunakan sari kehidupan untuk mengubah nasib dan membentuk tubuh.[size=10][color=#D06508]\n Sedikit meningkatkan keadaan emosi dasar dari Penggarap Fisik Abadi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_F01_All">
+			<DisplayName>tubuh fisik</DisplayName>
+			<Desc>Mengompresi Qi ke dalam tubuh fisik untuk meningkatkan fleksibilitas dan ketangkasan. yang memiliki peluang tinggi untuk diperoleh selama pemurnian fisik normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B01_All">
+			<DisplayName>tulang tajam</DisplayName>
+			<Desc>Menjadikan tulang lebih tajam dan kuat. yang lebih mungkin didapat selama fusi tulang normal Dan itu akan sangat meningkatkan peluang mendapatkannya jika Anda menyempurnakan tubuh Anda juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Sedikit meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B02_All">
+			<DisplayName>tulang besi</DisplayName>
+			<Desc>Mengubah tulang menjadi logam Menjadikannya lebih tahan terhadap kerusakan. yang lebih mungkin didapat selama fusi tulang normal Dan itu akan sangat meningkatkan peluang mendapatkannya jika Anda menyempurnakan tubuh Anda juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Sedikit meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Organ yang dilapisi Qi</DisplayName>
+			<Desc>Kompres Qi ke dalam organ dalam untuk meningkatkan Qi Sejati dari para penggarap Fisik Abadi. Ini memiliki peluang besar untuk diperoleh selama penempaan jeroan normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Sedikit meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_All">
+			<DisplayName>tubuh fisik menguat</DisplayName>
+			<Desc>Menambahkan energi Qi ke otot, menjadikannya lebih kuat. yang memiliki peluang sedang untuk diperoleh selama pemurnian fisik normal Dan itu akan sangat meningkatkan peluang mendapatkannya jika Anda memurnikan tubuh Anda juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Meningkatkan daya tahan Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_All">
+			<DisplayName>Darah asam</DisplayName>
+			<Desc>Darahnya bersifat korosif dan mengalir lebih cepat saat Penggarap Fisik Abadi menyerang. yang memiliki peluang sedang untuk diperoleh selama pemurnian fisik normal Dan itu akan sangat meningkatkan peluang mendapatkannya jika Anda memurnikan tubuh Anda juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_All">
+			<DisplayName>Tulang Terkutuklah</DisplayName>
+			<Desc>Dia memukulkan kutukan itu ke tulangnya. Ini memberi mereka peluang untuk menyerang melalui armor. yang memiliki peluang sedang untuk diperoleh selama fusi tulang normal Dan itu akan sangat meningkatkan peluang mendapatkannya jika Anda menyempurnakan tubuh Anda juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Meningkatkan peluang dasar untuk menyerang secara moderat melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_All">
+			<DisplayName>Nafas Anatta</DisplayName>
+			<Desc>Ciptakan Qi tak berbentuk untuk menyelimuti organ dalam. Hal ini memungkinkan terciptanya Qi sejati di dalam tubuh dengan lebih cepat. yang memiliki peluang sedang untuk diperoleh selama penempaan visceral normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_All">
+			<DisplayName>merangsang tubuh</DisplayName>
+			<Desc>Merangsang kekuatan tubuh fisik melampaui batasnya. Menjadikannya lebih kuat dan tahan lama. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Sedikit meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_All">
+			<DisplayName>tulang psikis</DisplayName>
+			<Desc>Mengompresi Qi ke dalam tulang agar lebih fleksibel dan tahan lama. Ada sedikit kemungkinan hal ini diperoleh selama fusi tulang normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Potensi eksplosif</DisplayName>
+			<Desc>Merangsang potensi organ dan menggunakannya dalam situasi yang mengerikan. Ada kemungkinan kecil untuk mendapatkannya selama penempaan jeroan normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika kamu memurnikan tubuhmu juga. "Inti yang tidak beruntung"[size=10][color=#D06508]\n Sedikit memperpendek durasi kondisi lemah Penggarap Fisik Abadi setelah Qi Sejati habis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_All">
+			<DisplayName>regenerasi alami</DisplayName>
+			<Desc>Integrasikan Qi alami ke dalam organ untuk menciptakan Qi Sejati yang berkelanjutan. Ada kemungkinan kecil untuk mendapatkannya selama penempaan jeroan normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Keberuntungan”.[size=10][color=#D06508]\n Cukup meningkatkan tingkat pemulihan Qi Sejati dari para pembudidaya Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_All">
+			<DisplayName>Menelusuri kembali jejak daging dan darah</DisplayName>
+			<Desc>Membangkitkan kekuatan garis keturunan leluhur Itu membuat daging menjadi sangat kuat. Hal ini sangat jarang terjadi selama pemurnian visceral normal.[size=10][color=#D06508]\n Sangat meningkatkan basis akurasi Fisik Misterius.\n Sangat meningkatkan basis peluang keberhasilan pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_All">
+			<DisplayName>Telusuri tulangnya</DisplayName>
+			<Desc>Membangkitkan kekuatan garis keturunan leluhur Menjadikan tulang lebih kuat. Hal ini sangat jarang terjadi selama penempaan jeroan normal.[size=10][color=#D06508]\n Sangat meningkatkan kekuatan Fisik Misterius.\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Menelusuri organ dalam</DisplayName>
+			<Desc>Membangkitkan kekuatan garis keturunan leluhur Menjadikan tulang lebih kuat. Hal ini sangat jarang terjadi selama penempaan jeroan normal.[size=10][color=#D06508]\n Sangat meningkatkan jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Jin">
+			<DisplayName>tubuh emas</DisplayName>
+			<Desc>Beri nutrisi pada tubuh Anda dengan kekuatan elemen emas. Menjadikan daging dan darahnya mengandung kekuatan unsur emas. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Esensi Emas”.[size=10][color=#D06508]\n Sedikit meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Mu">
+			<DisplayName>Tanaman tubuh</DisplayName>
+			<Desc>Beri nutrisi pada tubuh Anda dengan kekuatan elemen kayu. Menjadikan daging dan darahnya mengandung kekuatan elemen kayu. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan peluang mendapatkannya akan sangat meningkat jika Anda menempa tubuh dengan "Fruit Essence".[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Shui">
+			<DisplayName>Badan air</DisplayName>
+			<Desc>Beri nutrisi pada tubuh Anda dengan kekuatan elemen air. Menjadikan daging dan darahnya mengandung kekuatan unsur air. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan peluang mendapatkannya akan sangat meningkat jika Anda menempa tubuh Anda dengan "Waree Essence".[size=10][color=#D06508]\n Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Huo">
+			<DisplayName>tubuh api</DisplayName>
+			<Desc>Beri nutrisi pada tubuh Anda dengan kekuatan elemen api. Menjadikan daging dan darahnya mengandung kekuatan elemen api. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika tubuh itu ditempa dengan “Fire Essence”.[size=10][color=#D06508]\n Sedikit meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Tu">
+			<DisplayName>tubuh duniawi</DisplayName>
+			<Desc>Beri nutrisi pada tubuh Anda dengan kekuatan elemen tanah. Menjadikan daging dan darahnya mengandung kekuatan unsur tanah. Ada kemungkinan kecil untuk mendapatkannya selama pemurnian fisik normal. Dan itu akan sangat meningkatkan peluang mendapatkannya jika kamu menempa tubuhmu dengan "Earth Core".[size=10][color=#D06508]\n Sedikit meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Chun">
+			<DisplayName>Memulihkan darah</DisplayName>
+			<Desc>Menambahkan kemampuan untuk meregenerasi darah, yang dapat mengurangi pembakaran True Qi saat menggunakan Fisik Misterius. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti pohon muda"[size=10][color=#D06508]\n Mengurangi tingkat konsumsi Qi Sejati dari Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Chun">
+			<DisplayName>regenerasi tulang</DisplayName>
+			<Desc>Menambahkan sifat regeneratif tulang yang dapat mengurangi pembakaran Qi Sejati saat menggunakan Fisik Misterius. yang berpeluang besar didapat jika kamu juga menggabungkan tulang "Inti Sapling"[size=10][color=#D06508]\n Mengurangi tingkat konsumsi Qi Sejati dari Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Chun">
+			<DisplayName>Mempercepat metabolisme</DisplayName>
+			<Desc>Mempercepat laju metabolisme energi dalam tubuh untuk menciptakan Qi yang sebenarnya. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga “Inti Sapling”[size=10][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Xia">
+			<DisplayName>merangsang darah</DisplayName>
+			<Desc>Mempercepat laju peredaran darah dalam tubuh untuk meningkatkan kecepatan. Ada kemungkinan besar untuk mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Flowering Essence".[size=10][color=#D06508]\n Sedikit meningkatkan akurasi serangan Fisik Tersembunyi.\n Sedikit meningkatkan peluang keberhasilan pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Xia">
+			<DisplayName>anakan tulang</DisplayName>
+			<Desc>Mempercepat laju pertumbuhan tulang dalam tubuh untuk meningkatkan kekuatannya. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Flowering Essence".[size=10][color=#D06508]\n Sedikit meningkatkan kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>merangsang organ</DisplayName>
+			<Desc>Merangsang aktivitas organ untuk mempercepat efisiensinya pada saat-saat kritis. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "Flower Essence".[size=10][color=#D06508]\n Sedikit meningkatkan laju peningkatan kekuatan saat menggunakan Kemarahan Gila Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Qiu">
+			<DisplayName>kemiskinan darah</DisplayName>
+			<Desc>Menambahkan properti korosif pada garis keturunan untuk meningkatkan kemungkinan serangan menembus armor. Namun, korosi tersebut juga akan berdampak negatif pada ketahanan Fisik Misterius. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Wild Core"[size=10][color=#D06508]\n Sedikit meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Tersembunyi.\n Sedikit mengurangi daya tahan Fisik Tersembunyi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Qiu">
+			<DisplayName>tulang ekstrim</DisplayName>
+			<Desc>Ubah struktur tulang Anda secara paksa untuk meningkatkan kekuatan Anda dalam waktu singkat. Namun, memaksakan perubahan seperti itu juga akan berdampak negatif pada ketahanan Fisik Misterius. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Wild Core"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit mengurangi daya tahan Fisik Tersembunyi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Qiu">
+			<DisplayName>Tubuh fisik mutlak</DisplayName>
+			<Desc>Merangsang penggunaan penuh kemampuan tubuh. Namun hal tersebut akan mengakibatkan peningkatan metabolisme energi dan juga akan berdampak buruk pada daya tahan tubuh. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Wild Core"[size=10][color=#D06508]\n Sangat meningkatkan laju pemulihan Qi Sejati dari Fisik Misterius.\n Sedikit mengurangi daya tahan Fisik Tersembunyi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>garis keturunan tersembunyi</DisplayName>
+			<Desc>Memperlambat aliran darah dan mengurangi kecepatan persepsi saraf. Namun imbalannya adalah kekuatan Fisik Misterius tiba-tiba meningkat. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga. "Titik baliknya"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit mengurangi daya tahan Fisik Tersembunyi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>tulang yang tersegel</DisplayName>
+			<Desc>Perubahan struktur tulang mengurangi sebagian kekuatannya. Namun imbalannya adalah kekuatan Fisik Misterius tiba-tiba meningkat. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga. "Titik baliknya"[size=10][color=#D06508]\n Sedikit mengurangi kekuatan Fisik Tersembunyi.\n Sedikit mengurangi daya tahan Tubuh Tersembunyi.\n Meningkatkan laju penyamarataan kekuatan saat menggunakan Kemarahan Gila dari Penggarap Fisik Abadi Sedang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>sirkuit terbalik</DisplayName>
+			<Desc>Ini menghambat fungsi organ dan mengurangi efisiensi menghasilkan Qi yang sebenarnya. Namun imbalannya adalah kekuatan Fisik Misterius tiba-tiba meningkat. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga. "Titik baliknya"[size=10][color=#D06508]\n Mengurangi tingkat pemulihan Qi Sejati dari Fisik Mendalam secara moderat.\n Meningkatkan tingkat penyamarataan kekuatan saat menggunakan Kemarahan Gila dari Penggarap Fisik Abadi Sedang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_DaYaoYuanJing">
+			<DisplayName>Daging setan</DisplayName>
+			<Desc>Tubuh fisik berubah karena terkorosi oleh kekuatan iblis, yang meningkatkan kecepatan indranya secara signifikan. Namun hal itu membuat pengendalian tubuh menjadi sulit. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Meningkatkan akurasi serangan Fisik Misterius secara moderat.\n Sedikit menurunkan peluang sukses dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_DaYaoYuanJing">
+			<DisplayName>Tulang Setan</DisplayName>
+			<Desc>Tulangnya berubah karena terkikis oleh kekuatan iblis. yang sangat meningkatkan kekuatan Fisik Misterius Tapi itu membuat pergerakan menjadi sulit. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Sedikit meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Tersembunyi.\n Sedikit meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Organ setan</DisplayName>
+			<Desc>Organ dalam berubah karena terkorosi oleh kekuatan iblis. Ini sangat meningkatkan kemampuan regenerasi Fisik Misterius. Tapi itu menyebabkan basis True Qi rusak. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.\n Mengurangi jumlah maksimum Qi Sejati dari Penggarap Fisik Abadi secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_DaYaoYuanJing">
+			<DisplayName>Kegilaan Darah</DisplayName>
+			<Desc>Tubuh fisik berubah karena terkorosi oleh kekuatan iblis dan tubuh menyerap kekuatan itu sebagai miliknya. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit mengurangi keakuratan serangan Fisik Tersembunyi.\n Sedikit menurunkan peluang keberhasilan dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B02_DaYaoYuanJing">
+			<DisplayName>Tulang Gila</DisplayName>
+			<Desc>Tulangnya berubah karena terkikis oleh kekuatan iblis dan tubuh menyerap kekuatan itu sebagai miliknya. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit mengurangi keakuratan serangan Fisik Tersembunyi.\n Sedikit menurunkan peluang keberhasilan dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O02_DaYaoYuanJing">
+			<DisplayName>organ gila</DisplayName>
+			<Desc>Organ dalam berubah karena terkorosi oleh kekuatan iblis, dan tubuh membentuk Qi Sejati yang ganas yang bergabung dengan Qi Sejati asli. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Demon Core"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit mengurangi keakuratan serangan Fisik Tersembunyi.\n Sedikit menurunkan peluang keberhasilan dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_GuShouJingXue">
+			<DisplayName>Tubuh gila</DisplayName>
+			<Desc>Tubuh fisik berubah dan intuisi persepsi meningkat. Namun hal itu akan mengakibatkan lebih sulitnya mengendalikan tubuh. Itu juga mengurangi kekuatan dan daya tahan Fisik Misterius. Namun perubahan ini akan membantu tubuh merespons berbagai situasi. dengan tepat Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi Darah Iblis Kuno"[size=10][color=#D06508]\n Mengurangi kekuatan Fisik Tersembunyi secara moderat.\n Mengurangi daya tahan tubuh secara moderat.\n Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara signifikan.\n Meningkatkan peluang menekan senjata ajaib Fisik Misterius secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_GuShouGuFen">
+			<DisplayName>tulang binatang</DisplayName>
+			<Desc>perubahan tulang Menjadikannya sekuat tulang iblis kuno, namun membuatnya lebih sulit untuk mengendalikan tubuh. Namun, itu akan meningkatkan kekuatan Fisik Misterius secara signifikan. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Iblis Kuno"[size=10][color=#D06508]\n Sangat meningkatkan kekuatan Fisik Misterius.\n Mengurangi keakuratan serangan Fisik Tersembunyi.\n Mengurangi peluang berhasil dalam pertahanan Fisik Misterius.\n Mengurangi kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_SiHunZhiXi">
+			<DisplayName>Daging zombie</DisplayName>
+			<Desc>Tubuh fisik mengubah dan merangsang penciptaan qi sejati yang tersembunyi di dalam tubuh. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh Anda dengan “esensi jahat”.[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Sedikit meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_SiHunZhiXi">
+			<DisplayName>Daging haus akan darah.</DisplayName>
+			<Desc>Tubuh fisik berubah dan beberapa kapiler dihilangkan. Oleh karena itu, otot semakin menginginkan darah dari luar. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh Anda dengan “esensi jahat”.[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara moderat.\n Meningkatkan akurasi serangan Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_SiHunZhiXi">
+			<DisplayName>kulit tanpa kontak</DisplayName>
+			<Desc>Kulit berubah dan banyak saraf terluka. Akibatnya, kulit kehilangan sebagian besar sensasinya. Tapi apa yang dia terima sebagai imbalannya adalah kekuatan dan kekuatan lebih dari biasanya. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh Anda dengan “esensi jahat”.[size=10][color=#D06508]\n Meningkatkan daya tahan Fisik Misterius secara moderat.\n Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_SiHunZhiXi">
+			<DisplayName>tulang abu-abu</DisplayName>
+			<Desc>Tulang-tulangnya terkikis oleh uap mayat dan berubah menjadi abu-abu. yang dapat menstimulasi qi sejati dengan kekuatan aneh. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "esensi jahat".[size=10][color=#D06508]\n Meningkatkan daya tahan Fisik Misterius secara moderat.\n Sedikit meningkatkan peluang keberhasilan pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_SiHunZhiXi">
+			<DisplayName>tulang berongga</DisplayName>
+			<Desc>Tulang berubah dan rongga kecil terbentuk di dalamnya, membuatnya sangat ringan sehingga memungkinkan tubuh bergerak lebih cepat. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "esensi jahat".[size=10][color=#D06508]\n Meningkatkan akurasi serangan Fisik Misterius secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_SiHunZhiXi">
+			<DisplayName>pembusukan organ</DisplayName>
+			<Desc>Organ dalam terkorosi oleh uap mayat. Hingga Qi sebenarnya di dalam tubuh terkontaminasi dengan uap mayat. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "esensi jahat".[size=10][color=#D06508]\n Meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Tersembunyi hingga tingkat sedang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>napas mayat</DisplayName>
+			<Desc>Organ dalam berubah Bagaimanapun, organ dalam telah lama mengalami korosi uap mayat. Sehingga memberinya kemampuan untuk menciptakan energi misterius dari ketiadaan. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "esensi jahat".[size=10][color=#D06508]\n Cukup meningkatkan tingkat pemulihan Qi Sejati dari para pembudidaya Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_WuHuiJingHua">
+			<DisplayName>Daging yang bermutasi</DisplayName>
+			<Desc>Tubuh fisik diubah oleh rangsangan brutal dari banyak zat aneh, dan menembus ke dalam daging dan darah. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh Anda dengan "Defilement Essence".[size=10][color=#D06508]\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuHuiJingHua">
+			<DisplayName>Mata parasit</DisplayName>
+			<Desc>Tubuh fisik diubah oleh rangsangan brutal dari banyak zat aneh, dan menembus ke dalam mata. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh Anda dengan "Defilement Essence".[size=10][color=#D06508]\n Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Karakter setan</DisplayName>
+			<Desc>Tulang-tulang tersebut diubah oleh rangsangan brutal dari banyak zat aneh, dan menembus ke dalam tulang dan membentuk karakter-karakter aneh, yang membuat tubuh lebih tahan terhadap keadaan amukan yang mengamuk. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Inpure Essence".[size=10][color=#D06508]\n Sedikit meningkatkan durasi Kemarahan Gila Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuHuiJingHua">
+			<DisplayName>tulang yang tertelan</DisplayName>
+			<Desc>Tulangnya berubah karena rangsangan brutal dari zat aneh. Jumlahnya banyak dan membuat tulang haus akan lebih banyak Qi. Hal ini membuat sulit untuk dikendalikan. Tapi itu meningkatkan kemampuannya untuk menyerang lebih jauh lagi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Inpure Essence".[size=10][color=#D06508]\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.\n Meningkatkan secara moderat laju penggunaan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_WuHuiJingHua">
+			<DisplayName>deformasi eksternal</DisplayName>
+			<Desc>Tulang diubah oleh rangsangan brutal dari banyak zat aneh, menyebabkan tubuh bagian luar kehilangan struktur dan bentuknya. Hal ini membuatnya sulit untuk dikendalikan. Namun, itu sangat meningkatkan kekuatan Fisik Misterius. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Inpure Essence".[size=10][color=#D06508]\n Sangat meningkatkan daya tahan Fisik Misterius.\n Mengurangi keakuratan serangan Fisik Tersembunyi.\n Mengurangi peluang berhasil dalam pertahanan Fisik Misterius.\n Mengurangi kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>deformasi internal</DisplayName>
+			<Desc>Organ dalam diubah oleh rangsangan brutal dari banyak zat aneh, menyebabkan jaringan dalam kehilangan bentuknya. Namun, ia mampu memancarkan aliran qi sejati dengan sendirinya. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "Defilement Essence".[size=10][color=#D06508]\n Sedikit mengurangi durasi kondisi lemah Penggarap Fisik Abadi setelah Qi Sejati habis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuHuiJingHua">
+			<DisplayName>organ difus</DisplayName>
+			<Desc>Organ dalam diubah oleh rangsangan brutal dari banyak zat aneh, menyebabkan organ dalam tersebar di tempat acak. yang merupakan beban besar bagi tubuh Namun, hal itu juga memiliki keuntungan membuat Fisik Misterius lebih tahan lama. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "Defilement Essence".[size=10][color=#D06508]\n Meningkatkan daya tahan Fisik Misterius secara moderat.\n Meningkatkan tingkat penggunaan Qi Sejati dari Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuXingZhiJing">
+			<DisplayName>tubuh tak kasat mata</DisplayName>
+			<Desc>Lambat laun tubuh Itu telah berubah menjadi sesuatu yang hampir tidak terlihat kecuali Anda melihatnya dengan cermat. Dengan kemampuannya tersebut, membuat orang lain lebih sulit mendeteksi pergerakannya. Ada kemungkinan besar untuk mendapatkannya jika Anda menempa tubuh fisik Anda dengan “Esensi Tanpa Bentuk”.[size=10][color=#D06508]\n Mengurangi kekuatan Fisik Tersembunyi.\n Meningkatkan akurasi serangan Fisik Misterius.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuXingZhiJing">
+			<DisplayName>Ratusan tulang berubah</DisplayName>
+			<Desc>Tulang lambat laun akan lentur dan dapat berubah bentuk sesuai kebutuhan. Hal ini mungkin menyebabkan kekuatan Fisik Misterius berkurang. Namun, kemampuan menyerang melalui armor adalah penggantinya. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Inti Tak Berbentuk".[size=10][color=#D06508]\n Mengurangi kekuatan Fisik Tersembunyi.\n Meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.\n Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Energi Ilusi</DisplayName>
+			<Desc>Organ dalam mengalami perubahan dan menciptakan energi tak kasat mata yang menyelimuti tubuh. yang memiliki peluang besar untuk diperoleh jika seseorang menggabungkan organ dalam dengan “esensi tak berbentuk”[size=10][color=#D06508]\n Sedikit meningkatkan basis penghindaran dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_JiaoLongYuanJing">
+			<DisplayName>sisik naga</DisplayName>
+			<Desc>Tubuh fisiknya berubah dan sisik naga muncul di tubuhnya. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Naga Air"[size=10][color=#D06508]\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_JiaoLongYuanJing">
+			<DisplayName>tulang naga</DisplayName>
+			<Desc>Tulangnya berubah dan terlihat seperti Dengan munculnya tanduk naga yang memiliki peluang besar untuk didapatkan jika kamu juga menggabungkan tulang "Inti Naga Air"[size=10][color=#D06508]\n Sangat meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_JiaoLongYuanJing">
+			<DisplayName>nafas kilat</DisplayName>
+			<Desc>Organ dalam berubah dan kekuatan petir menembus ke dalam tujuh organ berlubang. Karena itu, tubuh mampu menggabungkan True Qi dengan petir. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga "Inti Naga Air"[size=10][color=#D06508]\n Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_XiongFengYuanJing">
+			<DisplayName>Darah Api Keabadian</DisplayName>
+			<Desc>Tubuh fisiknya berubah dan garis keturunan Vermillion Bird bergabung dengan tubuh fisiknya sendiri. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Angsa Api"[size=10][color=#D06508]\n Sangat meningkatkan akurasi serangan Hidden Physique.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_XiongFengYuanJing">
+			<DisplayName>Tulang Abadi</DisplayName>
+			<Desc>Tulangnya berubah dan garis keturunan Vermillion Bird menyatu dengan tulangnya. yang berpeluang besar didapat jika kamu juga memadukan tulang "Fire Swan Core"[size=10][color=#D06508]\n Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_XiongFengYuanJing">
+			<DisplayName>Nafas api</DisplayName>
+			<Desc>Organ dalam berubah dan menciptakan True Qi misterius yang dapat membakar target hingga rata dengan tanah. yang berpeluang besar didapat jika kamu juga memadukan tulang "Fire Swan Core"[size=10][color=#D06508]\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_ZhuLongYuanJing">
+			<DisplayName>Darah Ilusi</DisplayName>
+			<Desc>Darah di dalam tubuh berubah begitu banyak sehingga warnanya hampir menjadi hitam setelah menyatu dengan energi Yin murni. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Naga Lilin"[size=10][color=#D06508]\n Mengurangi daya tahan Fisik Tersembunyi secara moderat.\n Meningkatkan peluang berhasil dalam pertahanan Fisik Misterius secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_ZhuLongYuanJing">
+			<DisplayName>tubuh bercahaya</DisplayName>
+			<Desc>Tubuh fisik berubah dan memancarkan cahaya setelah True Qi bergabung dengan kekuatan Pure Yang. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Naga Lilin"[size=10][color=#D06508]\n Sangat meningkatkan daya tahan Fisik Misterius.\n Mengurangi peluang berhasil dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_ZhuLongYuanJing">
+			<DisplayName>Tulang Neraka</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan energi iblis. Memberi Anda kemampuan untuk meledak di saat krisis. yang berpeluang besar didapat jika kamu juga menggabungkan tulang "Candle Dragon Core"[size=10][color=#D06508]\n Meningkatkan kekuatan Fisik Misterius secara signifikan.\n Mengurangi akurasi serangan Fisik Tersembunyi secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_ZhuLongYuanJing">
+			<DisplayName>tulang bodhisattva</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan kekuatan Bodhisattva. menyebabkan Fisik Misterius kehilangan sebagian kekuatannya. Namun, hal itu sangat meningkatkan stabilitas tubuh. yang berpeluang besar didapat jika kamu juga menggabungkan tulang "Candle Dragon Core"[size=10][color=#D06508]\n Mengurangi kekuatan Fisik Tersembunyi secara moderat.\n Meningkatkan akurasi serangan Fisik Misterius secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>Siklus Yin Yang</DisplayName>
+			<Desc>Organ dalam berubah dan menciptakan dua bentuk Qi Sejati yang berputar antara Yin dan Yang. Hasilnya, tingkat pemulihan True Qi meningkat. Namun, dia juga akan merasa lebih lelah setelah menggunakan True Qi-nya. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga "Candle Dragon Core"[size=10][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati dari Penggarap Fisik Abadi\n Meningkatkan secara signifikan durasi kondisi lemah Penggarap Fisik Abadi setelah Qi Sejati mereka habis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_ZhuLongYuanJing">
+			<DisplayName>siang malam</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan qi terang dan gelap. Hal ini memungkinkan tubuh dengan cepat memulihkan Qi Sejatinya. Namun, hal ini juga mengakibatkan tingkat pembakaran True Qi yang lebih tinggi dari biasanya. yang memiliki peluang besar untuk mendapatkannya jika kamu menggabungkan organ dalam juga "Candle Dragon Core"[size=10][color=#D06508]\n Sangat meningkatkan kecepatan penggunaan Qi Sejati dari Fisik Misterius.\n Sangat meningkatkan kecepatan pemulihan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_YongJiJingSui">
+			<DisplayName>tubuh lawan</DisplayName>
+			<Desc>Tubuh fisiknya mengalami perubahan aneh yang menyebabkannya berubah menjadi bagian lain dari tubuhnya. Ada perlawanan. Oleh karena itu, tubuh berusaha membuang zat asing tersebut hingga beberapa bagian tubuh mengalami kerusakan. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi Abadi"[size=10][color=#D06508]\n Sedikit mengurangi efektivitas Fisik Misterius.\n Sedikit meningkatkan nilai pembentukan fisik maksimum dari Penggarap Fisik Abadi.\n Cukup menunda periode Hukuman Surgawi yang akan datang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_YongJiJingSui">
+			<DisplayName>tulang lawan</DisplayName>
+			<Desc>Tulang-tulangnya telah mengalami perubahan aneh yang mempengaruhi seluruh tubuh. Ada perlawanan. Oleh karena itu, tubuh berusaha membuang zat asing tersebut hingga sebagian tulang mengalami kerusakan. yang berpeluang besar didapat jika kamu juga menggabungkan tulang "Eternal Essence"[size=10][color=#D06508]\n Sedikit mengurangi keefektifan Fisik Misterius.\n Sedikit meningkatkan batas pemurnian tulang dari Penggarap Fisik Abadi.\n Menunda sebentar periode Hukuman Surgawi yang akan datang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_YongJiJingSui">
+			<DisplayName>Organ antagonis</DisplayName>
+			<Desc>Organ dalam mengalami perubahan aneh yang menyebabkannya mempengaruhi seluruh tubuh. Ada perlawanan. Oleh karena itu, tubuh berusaha membuang zat asing tersebut hingga beberapa organ dalam mengalami kerusakan. yang berpeluang besar mendapatkannya jika kamu menggabungkan organ dalam juga "Eternal Essence"[size=10][color=#D06508]\n Sedikit mengurangi keefektifan Fisik Misterius.\n Sedikit meningkatkan batas pemurnian organ dalam dari Penggarap Fisik Abadi.\n Menunda sebentar periode Hukuman Surgawi yang akan datang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXJin">
+			<DisplayName>Tubuh Sky mengaum</DisplayName>
+			<Desc>Tubuh fisiknya berubah setelah menyatu dengan qi emas surgawi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Emas Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi dari Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar dari Fisik Misterius.\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXJin">
+			<DisplayName>Tulang Langit yang Mengaum</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan qi emas surgawi. yang berpeluang besar didapat jika kamu juga memadukan tulang "Inti Emas Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXJin">
+			<DisplayName>Organ Langit Mengaum</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan qi emas surgawi. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Inti Emas Misterius"[size=10][color=#D06508]\n Mengurangi kerusakan dari elemen kayu yang diterima oleh Mysterious Physique secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXMu">
+			<DisplayName>Tubuh anggur</DisplayName>
+			<Desc>Tubuh fisik berubah setelah menyatu dengan qi pohon dewa. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi tumbuhan misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi dari Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar dari Fisik Misterius.\n Sangat meningkatkan akurasi serangan Fisik Tersembunyi.\n Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXMu">
+			<DisplayName>Tulang Anggur</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan qi pohon dewa. yang berpeluang besar didapat jika kamu juga menggabungkan tulang "Esensi Tumbuhan Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan keakuratan serangan Fisik Tersembunyi.\n Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXMu">
+			<DisplayName>organ pokok anggur</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan qi pohon dewa. yang berpeluang besar mendapatkannya jika kamu menggabungkan organ dalam juga "Esensi Tumbuhan Misterius"[size=10][color=#D06508]\n Mengurangi secara moderat kerusakan dari elemen tanah yang diterima oleh Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXShui">
+			<DisplayName>darah gelombang laut</DisplayName>
+			<Desc>Tubuh fisik mengalami perubahan setelah menyatu dengan Qi ilahi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Kaenwaree yang Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi dari Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar dari Fisik Misterius.\n Sangat meningkatkan laju pemulihan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXShui">
+			<DisplayName>tulang gelombang laut</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan Qi Air Surgawi. yang berpeluang besar didapat jika kamu juga memadukan tulang "Kaenwaree Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan laju pemulihan Qi Sejati dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXShui">
+			<DisplayName>organ gelombang laut</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan prana surgawi. yang berpeluang besar mendapatkannya jika kamu menggabungkan organ dalamnya juga "Kaenwaree Misterius"[size=10][color=#D06508]\n Mengurangi kerusakan elemen api yang diterima oleh Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXHuo">
+			<DisplayName>Darah Api Langit</DisplayName>
+			<Desc>Tubuh fisiknya berubah setelah menyatu dengan qi api surgawi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi Api Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi dari Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar dari Fisik Misterius.\n Ini sangat meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXHuo">
+			<DisplayName>Tulang Api Langit</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan qi api surgawi. yang berpeluang besar didapat jika kamu juga memadukan tulang "Esensi Api Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Ini sangat meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXHuo">
+			<DisplayName>Organ Api Langit</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan qi api surgawi. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Esensi Api Misterius"[size=10][color=#D06508]\n Mengurangi secara moderat kerusakan elemen emas yang diterima oleh Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXTu">
+			<DisplayName>Tubuh fisik dunia pegunungan</DisplayName>
+			<Desc>Tubuh fisik berubah setelah menyatu dengan qi bumi surgawi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Bumi yang Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis akurasi Fisik Misterius.\n Sedikit meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius.\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXTu">
+			<DisplayName>Tulang Gunung Dunia</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan qi bumi surgawi. yang berpeluang besar didapat jika kamu juga memadukan tulang "Inti Bumi Misterius"[size=10][color=#D06508]\n Sedikit meningkatkan basis kekuatan Fisik Misterius.\n Sedikit meningkatkan daya tahan dasar Fisik Misterius.\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXTu">
+			<DisplayName>Organ Phuphaloka</DisplayName>
+			<Desc>Organ dalam berubah setelah menyatu dengan qi bumi surgawi. yang memiliki peluang besar untuk mendapatkannya jika Anda menggabungkan organ dalam juga "Inti Bumi Misterius"[size=10][color=#D06508]\n Mengurangi kerusakan elemen air yang diterima oleh Mysterious Physique secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYangJingHua">
+			<DisplayName>Darah Sinar Matahari</DisplayName>
+			<Desc>Daging dan darahnya berubah dan memancarkan cahaya cemerlang. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Sun Essence".[size=10][color=#D06508]\n Meningkatkan tingkat pemurnian tubuh para penggarap Fisik Abadi secara moderat.\n Sangat meningkatkan keakuratan serangan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYangJingHua">
+			<DisplayName>Tulang Api Putih</DisplayName>
+			<Desc>Tulang-tulangnya berubah dan memancarkan energi yang membara seolah-olah terbakar oleh api yang tak terlihat. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Sun Essence".[size=10][color=#D06508]\n Meningkatkan tingkat pemurnian tubuh para penggarap Fisik Abadi secara moderat.\n Ini sangat meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Nafas matahari</DisplayName>
+			<Desc>Garis meridian yang dalam berubah ketika partikel energi matahari menembus garis meridian. Hasilnya, ketika menggunakan kekuatan saat menggunakan mengamuk, itu meningkat pesat. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "Sun Essence".[size=10][color=#D06508]\n Meningkatkan secara moderat laju pemurnian tubuh para penggarap Fisik Abadi.\n Sangat meningkatkan laju penyamarataan kekuatan saat menggunakan Kemarahan Gila Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYinJingHua">
+			<DisplayName>Tubuh bulan musim dingin</DisplayName>
+			<Desc>Dagingnya berkembang dari sinar bulan. Hasilnya, ia berkilauan seolah berkilauan di bawah sinar bulan. Ada kemungkinan besar mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Moon Essence".[size=10][color=#D06508]\n Meningkatkan basis penghindaran dari Penggarap Fisik Abadi Menengah\n Sangat meningkatkan peluang keberhasilan dalam pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYinJingHua">
+			<DisplayName>Tulang Bulan Musim Dingin</DisplayName>
+			<Desc>Tulang berkembang dari sinar bulan. Akibatnya, ia mengeluarkan rasa dingin, seolah seluruh sumsum tubuhnya berubah menjadi es. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tulang dengan "Moon Essence".[size=10][color=#D06508]\n Meningkatkan basis penghindaran dari Penggarap Fisik Abadi Menengah\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYinJingHua">
+			<DisplayName>Nafas Bulan Musim Dingin</DisplayName>
+			<Desc>Pembuluh darah dalam diberi energi oleh cahaya bulan. Hal ini memungkinkan dia untuk menciptakan Qi sejati yang bahkan dapat menekan api dari Vermillion Swan. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan organ dalam dengan "Moon Essence".[size=10][color=#D06508]\n Meningkatkan basis penghindaran dari Penggarap Fisik Abadi Menengah\n Mengurangi kerusakan elemen yang diterima oleh Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_JieMieJingHua">
+			<DisplayName>Menghancurkan kekuatan</DisplayName>
+			<Desc>Tubuhnya diubah oleh kekuatan Dao Surgawi. Hal ini memungkinkan para penggarap Fisik Abadi untuk mendapatkan kekuatan yang dikatakan mampu menghancurkan hampir semua hal. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Hukuman Surga"[size=10][color=#D06508]\n Sangat meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_JieMieJingHua">
+			<DisplayName>Kekuatan Hukum Langit</DisplayName>
+			<Desc>Tubuhnya diubah oleh kekuatan Dao Surgawi. Mengubah tubuh menjadi Dao Physique Dikatakan memiliki kekuatan untuk mengalahkan segala kejahatan. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Hukuman Surga"[size=10][color=#D06508]\n Sangat meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Satu Surga</DisplayName>
+			<Desc>Tubuh diubah oleh kekuatan Dao Surgawi dan digabungkan dengan Qi Langit dan Bumi hingga menjadi satu. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Inti Hukuman Surga"[size=10][color=#D06508]\n Sangat meningkatkan efisiensi gerakan nafas Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_JiuYangZhenHua">
+			<DisplayName>Darah Matahari</DisplayName>
+			<Desc>Darah bercampur dengan energi Yang murni dan berubah menjadi darah merah seperti matahari yang membara. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi Cahaya Matahari"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan basis akurasi Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_JiuYangZhenHua">
+			<DisplayName>tulang surya</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan energi Yang murni, membentuk sembilan api suci berwarna. yang berpeluang besar didapat jika kamu juga memadukan tulang "Sunlight Essence"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan basis kekuatan Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_JiuYangZhenHua">
+			<DisplayName>organ surya</DisplayName>
+			<Desc>Organ dalam diperhalus oleh panasnya sinar matahari. sampai berwarna tembaga seperti dilelehkan di bawah sinar matahari. yang berpeluang besar mendapatkannya jika kamu menggabungkan organ dalam juga "Sunlight Essence"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan kemungkinan menyerang secara moderat melalui energi mendalam dari Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_XuanYueZhenJing">
+			<DisplayName>Tubuh kristal</DisplayName>
+			<Desc>Tubuh fisiknya telah menyatu dengan energi Yin hingga tubuhnya tampak seperti Kristal Sembilan Surga. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Esensi Cahaya Bulan"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan peluang keberhasilan pertahanan dasar Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_XuanYueZhenJing">
+			<DisplayName>tulang zamrud</DisplayName>
+			<Desc>Tulangnya berubah setelah menyatu dengan kekuatan Yin murni dan memancarkan cahaya hijau seperti batu giok zamrud. yang berpeluang besar didapat jika kamu juga memadukan tulang "Moonlight Essence"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan daya tahan dasar Fisik Misterius secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_XuanYueZhenJing">
+			<DisplayName>napas dingin</DisplayName>
+			<Desc>Qi yang dalam di dalam tubuh telah menyatu dengan energi yin murni untuk membentuk kumpulan energi sembilan yin di berbagai titik qi tubuh, yang berpeluang besar diperoleh jika organ dalam juga menyatu. "Esensi Cahaya Bulan"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>kekuatan Anatta</DisplayName>
+			<Desc>Tubuh menyatu dengan energi misterius hukum waktu dan hukum ketidakkekalan. Ada kemungkinan besar untuk mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Anatta Essence".[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Sedikit meningkatkan kekuatan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Delapan Pulsa</DisplayName>
+			<Desc>Tubuh menyatu dengan energi misterius dari energi asal mula alam semesta. Hasilnya, delapan titik di dalam tubuh mewakili delapan alam semesta. Ada kemungkinan besar untuk mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Anatta Essence".[size=10][color=#D06508]\n Cukup meningkatkan efektivitas Fisik Misterius\n Sedikit meningkatkan daya tahan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Kekuatan tak terlihat</DisplayName>
+			<Desc>Tubuh itu telah menyatu dengan energi misterius dari Energi Kekacauan. Membuat tubuh menerima energi dari lima unsur dan energi dari yin dan yang. Ada kemungkinan besar untuk mendapatkannya jika Anda menempa tubuh fisik Anda dengan "Anatta Essence".[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Sedikit meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Kekuatan Surgawi</DisplayName>
+			<Desc>Tubuhnya menyatu dengan energi misterius dari bintang dan luar angkasa. Hal ini memungkinkan Star Qi untuk bergabung dengan True Qi milik kultivator. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Kaen Fa Dara"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Sedikit meningkatkan akurasi serangan Fisik Tersembunyi.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Kekuatan Segel Langit</DisplayName>
+			<Desc>Tubuh itu telah menyatu dengan tiga kekuatan misterius: Kekuatan Awan Terlarang, Kekuatan Surga Ilahi, dan Kekuatan Amanat Surgawi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Kaen Fa Dara"[size=10][color=#D06508]\n Cukup meningkatkan efektivitas Fisik Misterius\n Sedikit meningkatkan tingkat keberhasilan pertahanan Fisik Misterius.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>kekuatan antimateri</DisplayName>
+			<Desc>Tubuhnya telah menyatu dengan energi dan hukum misterius yang bahkan mampu melawan Dao Surgawi. Ada kemungkinan besar mendapatkannya jika Anda menggabungkan tubuh fisik Anda juga. "Kaen Fa Dara"[size=10][color=#D06508]\n Meningkatkan efektivitas Fisik Misterius secara moderat\n Sedikit meningkatkan kemungkinan menyerang melalui armor Qi dari Penggarap Fisik Abadi.[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>
