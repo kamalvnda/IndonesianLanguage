@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BPQuenchingMethods_test1">
+			<DisplayName>tes hijau</DisplayName>
+			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test2">
+			<DisplayName>tes ungu</DisplayName>
+			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test3">
+			<DisplayName>uji oranye</DisplayName>
+			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1">
+			<DisplayName>Tempa titik meridian</DisplayName>
+			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1_1">
+			<DisplayName>Tempa Delapan Pulsa</DisplayName>
+			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Hasilnya setara dengan menggunakan Pulse Point Fusion 8 kali berturut-turut. Setiap kali Anda menggunakan metode ini Bagian yang dipilih mengalami 8 fusi normal, dan terakhir kali menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_2">
+			<DisplayName>Menempa tubuh iblis</DisplayName>
+			<Desc>Tempa tubuhmu menggunakan kekuatan iblis. Gunakan Dao Essence dalam jumlah besar untuk merangsang tubuh menciptakan jalur evolusi yang lebih besar. Setiap kali Anda menggunakan metode ini, pecahan yang dipilih akan ditempa untuk membuat jalur evolusi 1 kali lebih banyak dari biasanya.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_3">
+			<DisplayName>Tempa Enam Jalan</DisplayName>
+			<Desc>Menggunakan aturan enam jalur untuk membantu menyempurnakan tubuh bersama dengan Inti Dao. yang melemahkan karakteristik namun memberikan efisiensi tinggi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan mengalami peleburan normal sebanyak 6 kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_4">
+			<DisplayName>Menempa Jalan Kaisar</DisplayName>
+			<Desc>Sebuah seni pemurnian tubuh yang diciptakan oleh lima kaisar kuno. Gunakan Dao Essence dalam jumlah besar untuk memicu jalur evolusi langka. Setiap kali Anda menggunakan metode ini, bidak yang dipilih akan ditempa oleh Jalur Evolusi Lanjutan sebanyak 1 kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_5">
+			<DisplayName>Menyempurnakan Fisik Sembilan Yin</DisplayName>
+			<Desc>Rahasia memurnikan tubuh menggunakan kekuatan Yin yang dikombinasikan dengan teknik ramalan ilahi. Setiap kali Anda menggunakan metode ini Bagian yang dipilih mengalami 8 fusi normal, dan terakhir kali menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_6">
+			<DisplayName>Tempa Bintang Ungu</DisplayName>
+			<Desc>Rahasia memurnikan tubuh menggunakan kekuatan bintang untuk membantu menentukan jalur evolusi. Setiap kali Anda menggunakan metode ini Fragmen yang dipilih mengalami 14 fusi normal, dan terakhir kali akan menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp1">
+			<DisplayName>Tempa tubuh matahari</DisplayName>
+			<Desc>Menggunakan darah Iblis Api Ilahi untuk merangsang pemurnian Inti Dao di dalam tubuh seseorang. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika menggunakan metode ini untuk menyatukan tulang belakang Kecil kemungkinannya tulang belakang akan mengalami perubahan misterius. Hal ini memungkinkan berkembangnya potensi evolusi semua tulang.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp2">
+			<DisplayName>Tempa tubuh iblis</DisplayName>
+			<Desc>Gunakan kesadaran hantu untuk merangsang pemurnian inti dao di dalam tubuh. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika menggunakan metode ini untuk menyatukan otak Kecil kemungkinan organ dalam akan mengalami perubahan misterius. Ini mengembangkan potensi evolusioner semua organ dalam.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp3">
+			<DisplayName>Memperbaiki tubuh musuh</DisplayName>
+			<Desc>Gunakan Roh Dao untuk memanfaatkan kekuatan Antimateri dan menggunakannya untuk merangsang Pemurnian Inti Dao di dalam tubuh. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika Anda menggunakan cara ini untuk meluluhkan hati Kecil kemungkinan tubuh fisik akan mengalami perubahan misterius. Ini mengembangkan potensi evolusi seluruh tubuh fisik.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_ReQuenching">
+			<DisplayName>Tubuhnya meleleh.</DisplayName>
+			<Desc>Memaksa Qi Sejati di dalam tubuh untuk menolak semua organ palsu di tubuh menggunakan Inti Abadi sebagai panduan. Dengan melakukan ini, semua hasil pemurnian tubuh akan hancur dan kultivator akan menjadi manusia biasa sekali lagi.</Desc>
+		</Text>
+	</List>
+</Texts>
