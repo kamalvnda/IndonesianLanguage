@@ -1,0 +1,61 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="JobPracticeFeeling">
+      <DisplayName>Memahami</DisplayName>
+    </Text>
+    <Text Name="JobPractice">
+      <DisplayName>Berkultivasi</DisplayName>
+    </Text>
+    <Text Name="JobBrokenNeck">
+      <DisplayName>Menerobos</DisplayName>
+    </Text>
+    <Text Name="JobPracticeSkill">
+      <DisplayName>Berlatih</DisplayName>
+    </Text>
+    <Text Name="JobReceiveApprentice">
+      <DisplayName>Menerima magang</DisplayName>
+    </Text>
+    <Text Name="JobBuildBody">
+      <DisplayName>Badan pelatihan</DisplayName>
+    </Text>
+    <Text Name="JobRobBody">
+      <DisplayName>Memiliki tubuh</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbLing">
+      <DisplayName>Menyerap Qi</DisplayName>
+    </Text>
+    <Text Name="JobRefiningFabao">
+      <DisplayName>Memperbaiki harta karun</DisplayName>
+    </Text>
+    <Text Name="JobPaintCharm">
+      <DisplayName>Menuliskan pesona</DisplayName>
+    </Text>
+    <Text Name="JobTeachHim">
+      <DisplayName>Pengajaran</DisplayName>
+    </Text>
+    <Text Name="JobLeave2Explore">
+      <DisplayName>Bepergian</DisplayName>
+    </Text>
+    <Text Name="JobMasterHelp">
+      <DisplayName>Membantu</DisplayName>
+    </Text>
+    <Text Name="JobFeelEsoterica">
+      <DisplayName>Memahami seni rahasia</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbGong">
+      <DisplayName>Mengasyikkan</DisplayName>
+    </Text>
+    <Text Name="JobMelting">
+      <DisplayName>Pengilangan</DisplayName>
+    </Text>
+    <Text Name="JobEatPracticeFood">
+      <DisplayName>Mengambil</DisplayName>
+    </Text>
+    <Text Name="JobJiangdao">
+      <DisplayName>Memberikan ceramah Dao</DisplayName>
+    </Text>
+    <Text Name="JobMagicNormal">
+      <DisplayName>Mengucapkan mantra</DisplayName>
+    </Text>
+  </List>
+</Texts>
