@@ -1,0 +1,46 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGAnimal_SnakeBody">
+			<Part.Parts.0.DisplayName>kepala</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>tengkorak</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>otak</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>mata kiri</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>mata kanan</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>hidung</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>mulut</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>leher</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>gigi taring atas</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>gigi taring bawah</Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>lidah bercabang dua</Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>kepala</Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.1.DisplayName>Batang tubuh</Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>tulang rusuk yang tebal</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>tulang belakang</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>jantung</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>hati</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>limpa</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>paru-paru</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>ginjal</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Perut</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>usus</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>alat kelamin</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Otot batang tubuh</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Sisik ular</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Batang tubuh</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>ekor ular</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.2.DisplayName>Seluruh tubuh</Part.Parts.2.DisplayName>
+			<Part.Parts.3.DisplayName>Titik fokus dari denyut Qi</Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Titik berkumpulnya Kepala Qi</Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>Titik berkumpulnya Qi Hati</Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.2.DisplayName>Titik berkumpulnya perut bagian bawah.</Part.Parts.3.Parts.2.DisplayName>
+			<Part.Parts.3.Parts.3.DisplayName>meridian Nhan</Part.Parts.3.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.4.DisplayName>meridian</Part.Parts.3.Parts.4.DisplayName>
+			<Part.Parts.3.Parts.5.DisplayName>minuman meridian</Part.Parts.3.Parts.5.DisplayName>
+			<Part.Parts.3.Parts.6.DisplayName>meridian Tai</Part.Parts.3.Parts.6.DisplayName>
+			<Part.Parts.3.Parts.7.DisplayName>meridian Yinwei</Part.Parts.3.Parts.7.DisplayName>
+			<Part.Parts.3.Parts.8.DisplayName>meridian Yin Qiao</Part.Parts.3.Parts.8.DisplayName>
+			<Part.Parts.3.Parts.9.DisplayName>meridian Yang Wei</Part.Parts.3.Parts.9.DisplayName>
+			<Part.Parts.3.Parts.10.DisplayName>meridian Yang Qiao</Part.Parts.3.Parts.10.DisplayName>
+		</Text>
+	</List>
+</Texts>
