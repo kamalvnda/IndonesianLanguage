@@ -1,0 +1,219 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level2Base">
+			<Desc>Templat Lokasi Lv.2</Desc>
+		</Text>
+		<Text Name="Place_DanXia1">
+			<DisplayName>Gua Kristal</DisplayName>
+			<Desc>Gua batu alam terletak di kaki Khao Man Fa. Ini memiliki jalan setapak yang berkelok-kelok dan pemandangan yang menakjubkan. Jauh di dalam gua berdiri patung batu Ling Bao Tianjun. Itu adalah tempat yang sempurna untuk menutup gerbang budidaya.</Desc>
+		</Text>
+		<Text Name="Place_DanXia2">
+			<DisplayName>Gunung Fa Man</DisplayName>
+			<Desc>Tebing yang terletak di puncak Gunung Man Sky. Di bawah sinar matahari yang temaram saat senja membuat pemandangan di tebing ini indah tiada tara.</Desc>
+		</Text>
+		<Text Name="Place_DanXia3">
+			<DisplayName>Danau Lima Naga</DisplayName>
+			<Desc>Danau suci yang terletak jauh di dalam Gunung Sky Man. Bunga teratai bermekaran di danau yang seolah tak berdasar. terhubung ke saluran air di kerak bumi Dikatakan bahwa akar roh air – teratai emas lima warna. Itu ditanam di sini oleh Sekte Tirai Langit.</Desc>
+		</Text>
+		<Text Name="Place_KunLun1">
+			<DisplayName>Tempat Pertemuan Ilmuwan</DisplayName>
+			<Desc>Platform batu di kaki Pegunungan KunLun bagian selatan diukir dengan banyak karakter kuno yang maknanya tidak diketahui. bahwa mantan Raja dari Timur telah mewariskan pengetahuan tentang jalan menuju keabadian di sini untuk generasi mendatang sebelum dia naik ke alam surga.</Desc>
+		</Text>
+		<Text Name="Place_KunLun2">
+			<DisplayName>Gua Pembuluh Darah Naga</DisplayName>
+			<Desc>Gua misterius yang terletak jauh di Pegunungan Kunlun. Di dalamnya, terdapat ribuan lembah yang sangat rumit. Legenda mengatakan bahwa gua ini terhubung langsung dengan Nadi Naga Bumi, dan Istana Kunlun menggunakan Nadi Naga ini untuk menanam Akar Spiritual Langit dan Bumi, Inti Bumi Kuning, di sini.</Desc>
+		</Text>
+		<Text Name="Place_KunLun2_1">
+			<DisplayName>Lubang Mata Matahari</DisplayName>
+			<Desc>Ini adalah lubang yang bisa dilihat di mana-mana di Gua Pembuluh Darah Naga. Di permukaan, tampak seperti lubang biasa, namun memancarkan aura aneh. Jika bukan karena mereka yang akrab dengan Gua Pembuluh Darah Naga, Mereka pasti tidak akan bisa mendeteksi aura Qi yang begitu samar. Dan jika diperhatikan dengan teliti, sepertinya ada pola alam yang aneh. Tersembunyi di mulut gua juga.</Desc>
+		</Text>
+		<Text Name="Place_TianJi1">
+			<DisplayName>Cloud Valley</DisplayName>
+			<Desc>Lembah yang dalam di antara tebing curam di puncak langit. Di dalam lembah, ada aliran Qi yang konstan seperti pusaran tak berujung. Oleh karena itu, aliran angin di dalam gunung ini sangat berfluktuasi. Bahkan Burung Iblis pun tidak akan bisa kembali jika dia tidak sengaja terbang masuk. Konon tempat ini adalah tempat di mana Istana Langit Nuea dahulu menumbuhkan Akar Roh Emas - Buah Belimbing Emas.</Desc>
+		</Text>
+		<Text Name="Place_TianJi2">
+			<DisplayName>Pos Pemeriksaan Phan Napa</DisplayName>
+			<Desc>Jalan sempit Ini adalah jalan menuju puncak Khao Thiap Fa. Di sepanjang jalan, ada rumput Pikiran Jernih yang lebat. Hasilnya, mereka yang melewati jalan ini akan memiliki pikiran yang jernih dan merasa tenang serta jauh dari keinginan duniawi. Hal ini membuatnya dikenal sebagai pos pemeriksaan Phan Napha. Ketika Anda melewati sepanjang jalan ke atas, Anda akan menemukan Nuea Sky Palace yang terletak di puncak gunung.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua1">
+			<DisplayName>Desa Sembilan Bunga</DisplayName>
+			<Desc>Desa di kaki Gunung Sembilan Bunga dan karena perlindungan dari Biara Awan Ungu. Hasilnya, desa menjadi sejahtera dan masyarakat hidup tenteram. Di sekeliling desa terdapat aliran bijih giok. Tempat dimana penduduk desa mencari nafkah dengan mengekstraksi dan mengumpulkan batu giok dan menjualnya ke Biara Awan Ungu.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua2">
+			<DisplayName>Kolam Naga Tersembunyi</DisplayName>
+			<Desc>Kolam Naga Tersembunyi ini adalah salah satu sudut pandang populer di Gunung Sembilan Bunga. Orang bisa melihat lautan awan dan pemandangan indah dari sini. Legenda mengatakan bahwa pada zaman kuno, seorang guru yang kuat membesarkan seekor naga di sini.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua3">
+			<DisplayName>Fire Swan Pha</DisplayName>
+			<Desc>Tebing Pha Hong Phloeng ini merupakan salah satu sudut pandang paling populer di Gunung Kao Buppha. Tempat ini memiliki dua batang kering pohon Giant Vermillion Swan yang berdiri. Menurut legenda, konon pada zaman dahulu, Angsa Vermillion Surgawi menggunakan tempat ini sebagai tempat tinggal.</Desc>
+		</Text>
+		<Text Name="Place_LongHu1">
+			<DisplayName>Air Terjun Phan Fa</DisplayName>
+			<Desc>Tempat dengan pemandangan Gunung Dragon Tiger yang spektakuler. Tempat ini memiliki air yang jatuh dari puncak gunung hingga ke kaki bukit. Suara air terjun ini bergema seperti suara naga yang membubung ke angkasa.</Desc>
+		</Text>
+		<Text Name="Place_LongHu2">
+			<DisplayName>Hutan Kabut</DisplayName>
+			<Desc>Hutan lebat di kaki Gunung Harimau Naga dengan banyak pohon yang berumur ratusan tahun. Ada rumor yang mengatakan bahwa Pohon Burung Vermillion juga tumbuh di sini. Karena banyaknya energi dari kayu, maka hutan ini merupakan tempat yang ideal untuk menanam Akar Pohon Spiritual Langit dan Bumi.</Desc>
+		</Text>
+		<Text Name="Place_Shu1">
+			<DisplayName>Tebing Batu Giok</DisplayName>
+			<Desc>Tempat ini terletak di puncak barat Gunung Su. Tebing ini menawarkan pemandangan yang indah. Itu dipenuhi dengan roh binatang buas dan Qi yang melimpah. Karena tempat ini terdapat denyut bumi yang sempurna. Oleh karena itu, tempat ini penuh dengan batu mineral berharga seperti bijih tembaga api, dll. Apalagi dengan qi api yang padat, tempat ini sangat cocok untuk tumbuhnya akar roh api.</Desc>
+		</Text>
+		<Text Name="Place_Shu2">
+			<DisplayName>Gua Guntur Guntur</DisplayName>
+			<Desc>Salah satu dari dua belas gua terkenal di Gunung Su. Konon di sinilah tempat pendiri Biara Teratai Indigo biasa mengasingkan diri untuk mempelajari kebenaran Taoisme. Legenda mengatakan bahwa sang pendiri meninggalkan beberapa rahasia besar di tempat ini sebelum ia terlahir kembali di surga. Namun, meskipun ribuan tahun telah berlalu, belum ada yang menemukan rahasia itu.</Desc>
+		</Text>
+		<Text Name="Place_Shu3">
+			<DisplayName>Gua Cahaya Berkilauan</DisplayName>
+			<Desc>Salah satu dari dua belas gua terkenal di Gunung Su. Terletak jauh di sisi utara gunung. Tempat ini memiliki aliran mineral api yang mengalir di dalam gua. Setelah ribuan tahun berlalu, aliran mineral api itu mengembun menjadi kristal bercahaya. Oleh karena itu, gua ini dikenal dengan nama Gua Cahaya Cemerlang. Itu adalah tempat yang sangat bagus bagi para penggarap untuk mengolah Elemental Api.</Desc>
+		</Text>
+		<Text Name="Place_Shu4">
+			<DisplayName>Gua Mata Air Giok</DisplayName>
+			<Desc>Salah satu dari dua belas gua terkenal di Gunung Su. Legenda mengatakan bahwa ada sumber air tanah yang tersembunyi jauh di dalam gua dan hanya mereka yang beruntung dapat menemukannya.</Desc>
+		</Text>
+		<Text Name="Place_Shu5">
+			<DisplayName>Makam Pedang</DisplayName>
+			<Desc>Gua yang gelap dan berkelok-kelok di dalam Gunung Su. Tempat yang penuh dengan pedang dari banyak ahli yang diwariskan dari generasi ke generasi di Biara Teratai Indigo.</Desc>
+		</Text>
+		<Text Name="Place_WuLian1">
+			<DisplayName>Danau Surgawi</DisplayName>
+			<Desc>Danau air suci yang terletak jauh di dalam Gunung Teratai Lima Warna. Dikatakan bahwa itu adalah tempat di mana Orang Suci Teratai Lima Warna mencuri Jalan Surgawi dan menyegelnya di Gunung Teratai Lima Warna, dan kemudian mendirikan sekte di sini. Legenda mengatakan bahwa tempat ini memiliki sumber kehidupan yang tersembunyi dan hanya mereka yang memiliki nasib baik yang dapat menemukannya.</Desc>
+		</Text>
+		<Text Name="Place_WuLian2">
+			<DisplayName>Hutan Hujan Mai Khao</DisplayName>
+			<Desc>Hutan misterius jauh di dalam Gunung Teratai Lima Warna. Saat hujan, hutan ini berubah menjadi lautan kabut dengan suasana bak surga. Rumor mengatakan bahwa suatu ketika ada seorang bijak yang menderita penyakit serius dan pergi ke hutan dengan harapan untuk bunuh diri. Namun, dia keluar dari hutan dan berkata bahwa dia telah menemukan seorang guru yang memegang pedang kayu yang dapat memanggil angin dan hujan di tangan kirinya dan batu giok putih yang dia pegang di tangan kanannya dapat digunakan untuk menyembuhkan segala macam penyakit. Setelah itu, orang-orang menyebut guru misterius ini sebagai Guru Hutan Putih. yang kemudian menjadi nama hutan ini yang disebut dengan "Hutan Hujan Mai Khao" itu sendiri</Desc>
+		</Text>
+		<Text Name="Place_BaiMan1">
+			<DisplayName>Gua Kematian</DisplayName>
+			<Desc>Setiap kali seorang murid dari Gunung Seratus Serangga membunuh binatang iblis, Mereka akan membawa tubuh binatang iblis itu ke Gua Kematian ini untuk menyegelnya dan membentuknya menjadi boneka iblis menggunakan Qi kematian yang padat dari gua ini. Jika ada mayat yang baru dipindahkan dan belum bertransformasi Mutiara rohnya mungkin bisa diambil.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan2">
+			<DisplayName>Lubang Sepuluh Ribu Ular</DisplayName>
+			<Desc>Lubang yang digunakan para murid dari Gunung Seratus Serangga untuk memelihara berbagai ular dan serangga beracun. Dan ketika ular dan serangga beracun itu dewasa, para murid dari Gunung Seratus Serangga juga akan mengumpulkan sari darah mereka untuk digunakan dalam budidaya Qi.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan3">
+			<DisplayName>Gua Iblis</DisplayName>
+			<Desc>Gua yang digunakan para murid Gunung Seratus Serangga untuk memelihara berbagai jenis binatang iblis. Namun, pernah terjadi kecelakaan yang sangat serius di dalam gua ini. Sejak saat itu, gua ini telah ditinggalkan dan menjadi kawasan terlarang di Gunung Seratus Serangga.</Desc>
+		</Text>
+		<Text Name="Place_XianKong1">
+			<DisplayName>Abyss of the Abyss</DisplayName>
+			<Desc>The Boundless Abyss terletak di Abyss Pit Mountain. Tempat ini memancarkan gaya magnet yang sangat terkonsentrasi. Gaya magnet inilah yang menarik banyak meteorit jatuh ke tempat ini. Oleh karena itu, tempat ini mengandung mineral berharga yang sangat diinginkan oleh para pembudidaya, yaitu Bijih Cahaya Bintang. Namun mineral tersebut tidak mudah ditemukan. Oleh karena itu, kebanyakan orang yang datang ke tempat ini dengan harapan menemukan mineral cahaya bintang seringkali kembali dengan tangan kosong.</Desc>
+		</Text>
+		<Text Name="Place_Hei4">
+			<DisplayName>Hutan Seribu Duri</DisplayName>
+			<Desc>Hutan lebat yang terletak di kaki Gunung Black Rock. Tempat ini ditumbuhi banyak tanaman merambat berduri yang tersebar di seluruh hutan. Hal ini membuat hutan hampir tidak ada hewan atau manusia. Oleh karena itu, hutan ini kaya akan pohon-pohon berumur ribuan tahun yang dapat dilihat di mana-mana di dalam hutan, dan dengan pohon-pohon berumur ribuan tahun ini, qi kayu di dalam hutan ini sangat lebat. Hal ini menjadikan hutan ini tempat yang sempurna untuk mengembangkan seni elemen kayu.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan1">
+			<DisplayName>Laut Ilusi Terkutuklah</DisplayName>
+			<Desc>Ada sebuah pulau besar di dekatnya. dengan Pulau Saranrom Bagian tengah pulau itu dipenuhi lautan kabut yang dikenal dengan nama Laut Ilusi Terkutuklah. Jika ada yang tersesat di lautan kabut itu, mereka tersesat dalam tujuh emosi dan dihantui oleh masa lalu mereka yang penuh kekerasan. Dan jika orang-orang itu ceroboh Itu mungkin menyebabkan mereka terjebak dalam ilusi kejam itu selamanya.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan2">
+			<DisplayName>Danau Naga Racun</DisplayName>
+			<Desc>Danau dalam di Pulau Saranrom. Legenda mengatakan bahwa jauh di dalam danau ini terdapat gua naga beracun. Mereka melindungi perairan bumi dan sering menyerang Penggarap yang lewat. Namun ada rumor lain bahwa Gua Naga Racun dan Air Mancur Bumi adalah tipuan yang dikeluarkan oleh Sekte Saranrom untuk memanipulasi para penggarap.</Desc>
+		</Text>
+		<Text Name="Place_Desert1">
+			<DisplayName>Biara Sepuluh Ribu Iblis</DisplayName>
+			<Desc>Sekte iblis besar yang tersembunyi jauh di Gurun Besar. Sekte ini telah diisolasi dari dunia Penggarap Mana selama ribuan tahun. Mereka cenderung menghindari sorotan dan bersembunyi di balik bayang-bayang. Karena itu, sangat sedikit orang yang mengetahuinya. Sampai saat ini inilah peristiwa munculnya Prasasti Tebing Naga di dunia. Biara Sepuluh Ribu Iblis sekali lagi menampakkan dirinya ke dunia para penggarap.</Desc>
+		</Text>
+		<Text Name="Place_Desert2">
+			<DisplayName>Mirror Desert</DisplayName>
+			<Desc>Tanah terlantar jauh di Gurun Besar. Tempat ini mengalami badai pasir sepanjang waktu dan udara di sini dipenuhi dengan unsur qi tanah yang kaya. Ini menjadikannya tempat yang sangat baik bagi para pembudidaya yang mengolah Elemen Tanah jika mereka dapat bertahan dalam lingkungan yang keras ini.</Desc>
+		</Text>
+		<Text Name="Place_Desert3">
+			<DisplayName>Gua Api</DisplayName>
+			<Desc>Gua aneh yang tersembunyi jauh di Gurun Besar. Suhu di dalam gua sangat panas. Konon ada harta surga dan bumi, unsur api, yang tersembunyi di dalam gua.</Desc>
+		</Text>
+		<Text Name="Place_Desert4">
+			<DisplayName>Desa Desa Pasir Mun</DisplayName>
+			<Desc>desa kecil Terletak di tepi Laut Besar Barat. Sebagian besar penduduk desa di sini memiliki darah iblis. Oleh karena itu, mereka memiliki temperamen yang keras dan bertarung secara sembarangan bahkan tanpa takut mati. Mereka hidup dengan berburu monster di gurun untuk mencari nafkah.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest1">
+			<DisplayName>Hutan Bunga Persik Tanpa Bunga</DisplayName>
+			<Desc>Hutan ini awalnya sangat luas. Dan karena luasnya wilayah ini, masih banyak buah persik yang belum dipanen hingga buah persik tersebut membusuk dan terakumulasi selama ribuan tahun sehingga menimbulkan lautan racun yang menyebar luas.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest2">
+			<DisplayName>Makam Kaisar Iblis</DisplayName>
+			<Desc>Makam Kaisar Iblis Pendiri Sekte Iblis Selatan Makam ini terbuat dari meteorit besi raksasa yang terkubur jauh di bawah tanah. Terlebih lagi, makam itu sendiri dikelilingi oleh formasi Sembilan Langit dan Sepuluh Dewa Penghancur Dunia. Jika tidak ada metode rahasia khusus yang digunakan untuk membuka makam, Bahkan jika orang itu memiliki tingkat basis budidaya apa pun, Mereka akan dibunuh segera setelah mereka memasuki makam.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest3">
+			<DisplayName>Valley of Worms</DisplayName>
+			<Desc>Lembah jauh di dalam hutan selatan. Tempat itu sebagian besar merupakan hutan hujan lebat dengan banyak ular dan serangga di dalamnya. Namun, lingkungan yang panas dan lembab di sini ideal untuk pertumbuhan akar Pohon Anggur-Pohon Roh. Oleh karena itu, para pembudidaya sering datang ke sini untuk mencari Akar Spiritual Langit dan Bumi ini.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield1">
+			<DisplayName>Snow Valley</DisplayName>
+			<Desc>Lembah ini terletak di Negeri Salju Abadi dan hampir tidak ada orang yang masuk ke dalam lembah karena cuacanya yang dingin. Namun, tempat ini dipenuhi dengan Qi alami yang berlimpah. Ada juga ginseng kuno berusia ribuan tahun yang tumbuh di dalam lembah.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield2">
+			<DisplayName>Danau Batu Giok</DisplayName>
+			<Desc>Sebuah danau jauh di Tanah Salju Abadi, konon betapapun dinginnya cuaca, ia tidak pernah membeku satu kali pun. Konon di tengah telaga ini tumbuh teratai emas lima warna dan hanya mereka yang beruntung yang bisa menemukannya. Sumber air danau ini terhubung dengan inti bumi. Oleh karena itu, ia mempunyai gaya magnet yang sangat kuat. Alhasil, tak seorang pun yang terjatuh ke laut bisa lolos. Legenda mengatakan bahwa Kaisar Iblis Fu Bi Kong pernah menguasai dunia para kultivator. Ketika dia dikelilingi oleh para ahli Dia datang ke danau ini untuk menyembunyikan berbagai harta karunnya di dalam kotak emas dan melemparkannya ke medan magnet di bawah danau.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield3">
+			<DisplayName>Blizzard Field</DisplayName>
+			<Desc>Dataran tertutup salju tak berujung. Dimana badai salju tidak pernah berhenti. Tempat ini kaya akan mineral kristal es.</Desc>
+		</Text>
+		<Text Name="Place_FertileField1">
+			<DisplayName>Kota Hanshan</DisplayName>
+			<Desc>Kota kecil di utara sungai besar</Desc>
+		</Text>
+		<Text Name="Place_FertileField2">
+			<DisplayName>Mueang Yud Tawan</DisplayName>
+			<Desc>Kota kecil Di dataran utara sungai Orang-orang di sini jujur ​​dan damai. Kebanyakan dari mereka mencari nafkah dengan menambang batu giok di dekat desa.</Desc>
+		</Text>
+		<Text Name="Place_FertileField3">
+			<DisplayName>Desa Daxiang</DisplayName>
+			<Desc>Sebuah desa yang dibangun di tepi danau. Sebagian besar penduduk desa di sini bekerja di bidang pertanian dan perikanan.</Desc>
+		</Text>
+		<Text Name="Place_FertileField4">
+			<DisplayName>Gunung Kui</DisplayName>
+			<Desc>Gunung terkenal di selatan sungai Memiliki pemandangan yang indah, cuaca yang bagus, dan yang paling penting, jamur reishi yang melimpah.</Desc>
+		</Text>
+		<Text Name="Place_FertileField5">
+			<DisplayName>Gunung Lu</DisplayName>
+			<Desc>Gunung terkenal di selatan sungai. Jalannya berkelok-kelok sehingga membuat monyet pun tersesat. Di gunung ini, ada urat-urat batu roh yang berserakan. Meski tidak layak untuk penambangan skala besar. Namun, itu juga merupakan tempat di mana para penggarap mandiri sering datang untuk mendapatkan beberapa batu roh untuk digunakan dalam kehidupan sehari-hari. Ada rumor yang mengatakan bahwa beberapa kultivator pernah merasakan aura emas memancar dari dalam gunung. Kemungkinan di dalam gunung ini terdapat Akar Jiwa Emas - Buah Belimbing Emas yang tersembunyi.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains1">
+			<DisplayName>Gunung Mengetuk Langit</DisplayName>
+			<Desc>Gunung terkenal yang dikelilingi awan tebal di pedalaman Dataran Tengah. Oleh karena itu disebut gunung yang menyentuh langit. Gunung ini kaya akan merkuri merah. Oleh karena itu, para alkemis sering datang ke sini untuk mengambilnya.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains2">
+			<DisplayName>Puncak Kedokteran</DisplayName>
+			<Desc>Dulu, tempat ini digunakan sebagai tempat para ahli pengobatan mempelajari pemurnian berbagai obat ajaib. Namun, sekarang tempat itu sepi dan hampir tidak ada yang tersisa. Sebagian besar tanaman spiritual di taman telah mengering. Hanya Rumput Roh yang tangguh yang dapat bertahan dan menyebar ke seluruh gunung. Dikatakan bahwa seorang ahli pengobatan diam-diam telah menanam Inti Bumi Kuning Akar Roh Bumi dan hanya mereka yang memiliki nasib baik yang dapat menemukannya.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains3">
+			<DisplayName>Gunung Pingding</DisplayName>
+			<Desc>Gunung aneh di pedesaan Central Plains. Di puncak datar gunung terdapat lapangan terbuka yang konon diciptakan oleh tangan para dewa. Di puncak gunung terukir nama-nama orang jenius dari berbagai tempat. Tempat ini sangat kaya akan qi emas yang pekat. Oleh karena itu, ini adalah tempat yang sangat baik bagi para petani untuk berlatih budidaya elemen emas.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains4">
+			<DisplayName>Lapangan Taburan Bunga</DisplayName>
+			<Desc>Sebuah desa yang dibangun di sebelah gunung di pedalaman dataran tengah. Generasi penduduk desa di sini telah mempraktikkan pengobatan dan membudidayakan kebun obat di pegunungan terdekat.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains5">
+			<DisplayName>Desa Ton Reed</DisplayName>
+			<Desc>Sebuah desa di pedesaan Dataran Tengah. Tempat yang terkenal dengan produksi tekstilnya</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace11">
+			<DisplayName>Desa Nanping</DisplayName>
+			<Desc>Desa kecil Di mana sebagian besar penduduk desa mencari nafkah dari pertanian dan berburu</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace12">
+			<DisplayName>Gunung Chan Pen</DisplayName>
+			<Desc>Gunung kecil yang terletak di perbatasan selatan Tempat ini ditutupi dengan berbagai pohon dan tanaman, dan para alkemis sering naik ke gunung ini untuk mengumpulkan tumbuhan yang diperlukan untuk meramu obat.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace13">
+			<DisplayName>Gunung Liang</DisplayName>
+			<Desc>Gunung batu berwarna coklat yang dulunya merupakan tambang kerajaan. Namun, kemudian ditinggalkan karena perang antar kerajaan. Kebanyakan penduduk desa kini memanfaatkan kaki gunung ini untuk menanam pohon kapas guna mencari nafkah.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace14">
+			<DisplayName>Gunung Tongling</DisplayName>
+			<Desc>Pegunungan berbatu kaya akan mineral logam Namun, tidak banyak orang yang datang ke gunung ini.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace15">
+			<DisplayName>Reruntuhan Tai Yi</DisplayName>
+			<Desc>Reruntuhan Sekte Tai Yi</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace16">
+			<DisplayName>Pantai berpasir hitam</DisplayName>
+			<Desc>Pantai dengan pasir sehitam tinta. Di pantai ada pintu masuk misterius yang mengarah ke sarang bawah tanah. Dan hanya mereka yang beruntung yang akan menemukan pintu masuknya.</Desc>
+		</Text>
+	</List>
+</Texts>
