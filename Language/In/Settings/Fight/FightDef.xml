@@ -1,0 +1,53 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="FaBao">
+      <Packs.0.DescTags>Treasure attack</Packs.0.DescTags>
+      <Packs.1.DescTags>Treasure attack</Packs.1.DescTags>
+      <Packs.2.DescTags>Treasure attack</Packs.2.DescTags>
+      <Packs.3.DescTags>Treasure attack</Packs.3.DescTags>
+    </Text>
+    <Text Name="Skill">
+      <Packs.0.DescTags>Spell attack</Packs.0.DescTags>
+      <Packs.1.DescTags>Spell attack</Packs.1.DescTags>
+      <Packs.2.DescTags>Spell attack</Packs.2.DescTags>
+      <Packs.3.DescTags>Spell attack</Packs.3.DescTags>
+    </Text>
+    <Text Name="Jin">
+      <Packs.1.DescTags>Metal damage</Packs.1.DescTags>
+      <Packs.2.DescTags>Metal damage</Packs.2.DescTags>
+      <Packs.3.DescTags>Metal damage</Packs.3.DescTags>
+      <Packs.4.DescTags>Metal damage</Packs.4.DescTags>
+      <Packs.5.DescTags>Metal damage</Packs.5.DescTags>
+    </Text>
+    <Text Name="Mu">
+      <Packs.1.DescTags>Wood damage</Packs.1.DescTags>
+      <Packs.2.DescTags>Wood damage</Packs.2.DescTags>
+      <Packs.3.DescTags>Wood damage</Packs.3.DescTags>
+      <Packs.4.DescTags>Wood damage</Packs.4.DescTags>
+      <Packs.5.DescTags>Wood damage</Packs.5.DescTags>
+      <Packs.6.DescTags>Wood damage</Packs.6.DescTags>
+    </Text>
+    <Text Name="Shui">
+      <Packs.1.DescTags>Water damage</Packs.1.DescTags>
+      <Packs.2.DescTags>Water damage</Packs.2.DescTags>
+      <Packs.3.DescTags>Water damage</Packs.3.DescTags>
+      <Packs.4.DescTags>Water damage</Packs.4.DescTags>
+      <Packs.5.DescTags>Water damage</Packs.5.DescTags>
+    </Text>
+    <Text Name="Huo">
+      <Packs.1.DescTags>Fire damage</Packs.1.DescTags>
+      <Packs.2.DescTags>Fire damage</Packs.2.DescTags>
+      <Packs.3.DescTags>Fire damage</Packs.3.DescTags>
+      <Packs.4.DescTags>Fire damage</Packs.4.DescTags>
+      <Packs.5.DescTags>Fire damage</Packs.5.DescTags>
+    </Text>
+    <Text Name="Tu">
+      <Packs.1.DescTags>Earth damage</Packs.1.DescTags>
+      <Packs.2.DescTags>Earth damage</Packs.2.DescTags>
+      <Packs.3.DescTags>Earth damage</Packs.3.DescTags>
+      <Packs.4.DescTags>Earth damage</Packs.4.DescTags>
+      <Packs.5.DescTags>Earth damage</Packs.5.DescTags>
+      <Packs.6.DescTags>Earth damage</Packs.6.DescTags>
+    </Text>
+  </List>
+</Texts>
