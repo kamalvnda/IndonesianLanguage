@@ -1,0 +1,133 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+			<ThingName>Bukit Raja Naga</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+			<ThingName>Inti Angsa Menyala</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+			<ThingName>Bulu Angsa Menyala</ThingName>
+		</Text>
+		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+			<ThingName>Bulu Api Abadi</ThingName>
+			<Desc>bulu aneh Meski tidak terlalu panas saat disentuh. Tapi itu bisa terus menghilangkan panas. Hal ini menyebabkan suhu ruangan atau ruang terbatas lainnya meningkat pesat. Tampaknya tidak ada gunanya selain semangat kuat yang menutupinya.</Desc>
+			<Item.FabaoSuffix>bulu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_GangYu" sParam="Item">
+			<ThingName>Armor Besi Angsa Menyala</ThingName>
+			<Desc>Bulu phoenix utuh Ada sejumlah besar panas yang terkompresi di dalamnya. Ini sangat tajam dan kuat. Memakainya membantu menahan kondisi cuaca dingin. Ini juga membantu meningkatkan sirkulasi nafas dan darah. Termasuk meningkatkan laju metabolisme dengan sangat baik.</Desc>
+			<Item.FabaoSuffix>bulu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_TouYu" sParam="Item">
+			<ThingName>Bulu Angsa Menyala Abadi</ThingName>
+			<Desc>Bulu indah dengan api abadi mengalir dari kepala Vermillion Swan. Itu memiliki esensi dari Vermillion Bird yang tersegel di dalamnya. Phoen yang menyala adalah iblis yang ahli dalam energi magis. Oleh karena itu, mereka yang memakai bulu angsa ini akan mampu meningkatkan batas atas energi magisnya ke 3 level lagi.</Desc>
+			<Item.FabaoSuffix>bulu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+			<ThingName>Bulu Ekor Angsa Api</ThingName>
+			<Desc>Bulu ekor besar angsa yang menyala Bulu ekor besar angsa yang menyala Meskipun ada nyala api yang berkilauan di ujungnya, Namun, alih-alih menjadi sangat panas saat disentuh, malah terasa cukup hangat. yang dianggap sangat ajaib. Ia mungkin memiliki beberapa kemampuan khusus. Jika Anda melelehkannya melalui proses khusus,</Desc>
+			<Item.FabaoSuffix>bulu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_Gu" sParam="Item">
+			<ThingName>Tulang Angsa Menyala</ThingName>
+			<Desc>Kedua tulang sayap Angsa Vermillion Mereka sangat padat namun sangat ringan. Ia mungkin memiliki kemampuan khusus. Jika Anda melelehkannya melalui proses khusus,</Desc>
+			<Item.FabaoSuffix>bulu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_HongYu" sParam="Item">
+			<ThingName>Giok Angsa Api Surgawi</ThingName>
+			<Desc>Asal muasal kekuatan phoenix api dimana roh primordialnya bersemayam di dalamnya. Jika ada yang berkomunikasi dengannya dengan roh primordial Orang itu mungkin memiliki akses ke beberapa misterinya. saat memakainya Orang itu akan menerima kekuatan Vermillion Bird, mengurangi kerusakan akibat kebakaran sebesar 10%.</Desc>
+			<Item.FabaoSuffix>giok</Item.FabaoSuffix>
+			<StoryBnts.0.Name>merenungkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mencari tahu misteri darinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossFeng_Meat" sParam="Item">
+			<ThingName>Daging Angsa Vermillion</ThingName>
+			<Desc>Daging dan darah dari Vermillion Swan Eating itu akan meningkatkan Qi maksimum seseorang sebanyak 25 unit dan memperpanjang umur seseorang selama 10 tahun, efeknya akan berkurang secara bertahap. Jika Anda memakannya berkali-kali</Desc>
+			<Item.FabaoSuffix>daging</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonScale" sParam="Item">
+			<ThingName>sisik naga</ThingName>
+			<Desc>Sisik yang jatuh dari tubuh naga itu telah kehilangan sebagian besar sifat spiritualnya. Namun ada semangat kuat yang menyelimutinya.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Jiao" sParam="Item">
+			<ThingName>Khao Mangkorn Waree</ThingName>
+			<Desc>Tanduk atas Naga Air tempat inti iblisnya disimpan di dalam Naga Air adalah iblis yang berspesialisasi dalam senjata magis. Memakainya akan memberi orang itu kekuatan Naga Air. Memungkinkan Anda meningkatkan batas maksimum keterampilan senjata ajaib Anda sebanyak 3 level.</Desc>
+			<Item.FabaoSuffix>Dia</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Zhua" sParam="Item">
+			<ThingName>Cakar Naga Air</ThingName>
+			<Desc>Cakar tajam naga air Itu tajam dan menyembunyikan kekuatan penghancur yang luar biasa. Ia mungkin memiliki kemampuan khusus. Jika Anda melelehkannya melalui proses khusus,</Desc>
+			<Item.FabaoSuffix>Dia</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Lin" sParam="Item">
+			<ThingName>Skala Naga Air</ThingName>
+			<Desc>Sisik lengkap dari tubuh Naga Air. Hari sangat sulit untuk dihancurkan. Mereka yang memakainya akan memiliki ketahanan terhadap kerusakan dari sihir qi.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_NiLin" sParam="Item">
+			<ThingName>Skala Terbalik Naga Air</ThingName>
+			<Desc>Asal Kekuatan Naga Air dimana roh primordialnya bersemayam di dalamnya. Jika ada yang berkomunikasi dengannya dengan roh primordial Orang itu mungkin mempunyai akses ke beberapa misterinya. Memakainya akan memberi orang itu kekuatan Naga Air. Mengurangi kerusakan dari elemen Air sebesar 10%.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+			<StoryBnts.0.Name>merenungkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mencari tahu misteri darinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossLong_Jing" sParam="Item">
+			<ThingName>Pulsa Naga Air</ThingName>
+			<Desc>Pembuluh darah dalam ekor naga air. Itu berisi Qi yang sangat padat yang terkandung di dalamnya. Ia mungkin memiliki kemampuan khusus. Jika Anda melelehkannya melalui proses khusus,</Desc>
+			<Item.FabaoSuffix>Urat daging</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Meat" sParam="Item">
+			<ThingName>Daging Naga Air</ThingName>
+			<Desc>Makan Darah dan Daging Naga Air akan meningkatkan Qi maksimum seseorang sebesar 25 unit dan memperpanjang umur seseorang selama 10 tahun, efeknya akan berkurang secara bertahap. Jika Anda memakannya berkali-kali</Desc>
+			<Item.FabaoSuffix>daging</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+			<ThingName>serpihan putih</ThingName>
+			<Desc>Sisik putih bersih jatuh dari tubuh Lilin Naga.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+			<ThingName>skala hitam</ThingName>
+			<Desc>Sisik hitam pekat yang jatuh dari tubuh Lilin Naga.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+			<ThingName>kristal yin yang</ThingName>
+			<Desc>Kristal bening dengan elemen hitam dan putih bercampur secara seimbang di dalam mata Naga Lilin. Tampaknya bisa digunakan untuk menguraikan misteri Yin dan Yang. Ia mungkin memiliki kemampuan khusus. Jika Anda melelehkannya melalui proses khusus,</Desc>
+			<Item.FabaoSuffix>kristal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+			<ThingName>Skala Naga Lilin</ThingName>
+			<Desc>Sisik aneh di atas alis Naga Lilin. di mana inti iblisnya disimpan di dalam. Lima elemen elemen diubah menjadi yin dan yang oleh Naga Tian. Memakainya akan memberi orang itu kekuatan Naga Lilin. Memungkinkan Anda meningkatkan batas maksimum keterampilan armor mendalam Anda sebanyak 3 level.</Desc>
+			<Item.FabaoSuffix>skala</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+			<ThingName>Kekacauan Giok</ThingName>
+			<Desc>Asal usul kekuatan Naga Lilin dimana roh primordialnya bersemayam di dalamnya. Jika ada yang berkomunikasi dengannya dengan roh primordial Orang itu mungkin memiliki akses ke beberapa misterinya. Memakainya akan memberi orang itu kekuatan Naga Lilin. Mengurangi kerusakan dari kelima elemen sebesar 5%.</Desc>
+			<Item.FabaoSuffix>giok</Item.FabaoSuffix>
+			<StoryBnts.0.Name>merenungkan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cobalah untuk mencari tahu misteri darinya.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+			<ThingName>Materi Kejadian</ThingName>
+			<Desc>Pilih dan daging lilin naga. Itu berisi energi Yin dan Yang bercampur secara kacau di dalamnya. Membuatnya sulit untuk digunakan. Memakannya akan mengurangi biji dadu sebanyak 2 dan memperpanjang umur Anda sebanyak 10 tahun. Hasilnya akan menurun secara bertahap. Jika Anda memakannya berkali-kali</Desc>
+			<Item.FabaoSuffix>daging</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_FengYin" sParam="Item">
+			<ThingName>Giok Angsa Api Kuno</ThingName>
+			<Desc>Sebuah batu giok kuno yang merupakan bagian dari harta karun dari altar naga. Tampaknya itu adalah salah satu item yang dibuat menjadi satu set.</Desc>
+			<Item.FabaoSuffix>giok</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Periksa batu giok phoenix kuno yang menyala-nyala</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+			<ThingName>batu giok kuno</ThingName>
+			<Desc>Sepotong batu giok ditemukan di Medan Perang Surgawi. Itu memiliki esensi yin dan yang terpancar di dalamnya. Seolah-olah itu memberi nutrisi pada sesuatu.</Desc>
+			<Item.FabaoSuffix>giok</Item.FabaoSuffix>
+			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Periksa batu giok kuno</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>
