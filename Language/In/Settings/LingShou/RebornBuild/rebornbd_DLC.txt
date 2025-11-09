@@ -1,0 +1,3 @@
+race	bdtag	desc
+LsPandaXian	PandaStone	Bersaudara dengan Tianqiu Xiuxiu，Itu yang lebih muda。Cacat fisik setelah lahir，Bertahan setelah menerima inti kehidupan saudaranya，Meski masih belum bisa berlatih，Namun dengan inspirasi dari langit dan bumi, ia memasuki tubuhnya dan menjadi hewan peliharaan spiritual.。
+LsPandaXiu	PandaStone	Bersaudara dengan Immortal Tianbao，adalah yang lebih tua。Setelah ia lahir, ia memindahkan esensi hidupnya untuk menyelamatkan adiknya.，Oleh karena itu pikiran dan tubuh tidak dapat lagi tumbuh dengan sendirinya，Tapi itu juga memungkinkan Anda meminjam beberapa kemampuan abadi untuk bertarung.。
