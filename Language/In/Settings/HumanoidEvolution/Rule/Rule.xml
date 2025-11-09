@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Default">
+			<Fragment.Random.0.Format.0>{0}: Mendapatkan sedikit pemahaman.</Fragment.Random.0.Format.0>
+			<Fragment.Random.0.Format.1>{0}: Dapatkan pemahaman.</Fragment.Random.0.Format.1>
+			<Fragment.Random.0.Format.2>{0}: Mulailah menyerap pikiran.</Fragment.Random.0.Format.2>
+			<Fragment.Random.1.Format.0>{0}dipanggil kembali.</Fragment.Random.1.Format.0>
+			<Fragment.Random.2.Format.0>{0}merasa tidak jelas</Fragment.Random.2.Format.0>
+		</Text>
+	</List>
+</Texts>
