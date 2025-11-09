@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Kosong</DisplayName>
+		</Text>
+		<Text Name="TSkillSkill">
+			<DisplayName>Peningkatan Mantra</DisplayName>
+		</Text>
+		<Text Name="SkillSkill_Gong10_1">
+			<DisplayName>Astroflare</DisplayName>
+		</Text>
+	</List>
+</Texts>
