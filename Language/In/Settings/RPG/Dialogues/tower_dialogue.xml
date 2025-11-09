@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="tower_dialogue">
+			<Nodes.0.Text>awal</Nodes.0.Text>
+			<Nodes.2.Text>Fitur baru</Nodes.2.Text>
+			<Nodes.3.Text>Fitur baru</Nodes.3.Text>
+			<Nodes.4.Text>Fitur baru</Nodes.4.Text>
+			<Nodes.6.Text>Fitur baru</Nodes.6.Text>
+		</Text>
+	</List>
+</Texts>
