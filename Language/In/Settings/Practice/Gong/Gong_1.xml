@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_1_Shui">
+			<DisplayName>Enam belas teknik budidaya, langkah menuju menjadi ahli</DisplayName>
+			<Desc>Salah satu dari Lima Teknik Budidaya Hukum Elemen Sejati dari Sekte Tai Yi, ia memiliki 4 alam utama dan 16 sub-level berbeda. yang harus dikembangkan secara bertahap oleh peserta pelatihan selangkah demi selangkah. Bukan perkara mudah untuk mencapai tingkat puncak teknik budidaya ini. Tapi setidaknya itu sangat mudah pada awalnya. Pelatih secara bertahap akan selangkah demi selangkah dengan mantap di jalur kultivasi hingga akhirnya menjadi seorang master.</Desc>
+			<SelectDesc>Teknik budidaya ini harus dilakukan secara bertahap dan memerlukan landasan yang kokoh. Selanjutnya, kultivator harus menghadapi hukuman untuk pertama kalinya sejak berada di ranah Formasi Inti Yang Sangat Besar. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>Mengondensasi Qi</Stages.0.DisplayName>
+			<Stages.0.Desc>Ruang lingkup pertama dari mata pelajaran ini Membutuhkan konsentrasi yang stabil dan waktu yang lama untuk berlatih Qi. Mungkin sulit bagi orang yang sangat cerdas untuk menjernihkan pikirannya dari kekacauan dan melewati alam ini.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Pikiran terkonsentrasi</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Berkonsentrasilah sebagai satu kesatuan dan singkirkan pikiran kacau di pikiran Anda.[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan tinggi.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>introspeksi</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Setelah berkonsentrasi, terus sadari perubahan di dalam tubuh Anda. Ibarat orang buta yang merasakan sekelilingnya hingga akhirnya mencapai keadaan dimana ia dapat merasakan kondisi organ dalamnya.[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan tinggi.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Mengemudi nafas</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Ketika melakukan kontemplasi terus menerus Pelatih akan dapat menemukan makna prana melalui meditasi. Ini adalah awal dari perubahan kekuatan yang dikenal sebagai 'Kebijaksanaan tingkat pertama'.[color=#D06508]\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki indra Qi rendah.\nKegagalan menembus batas akan menyebabkan cedera.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Necks.3.DisplayName>menghubungkan langit</Stages.0.Necks.3.DisplayName>
+			<Stages.0.Necks.3.Desc>Pada tahap ini, peserta pelatihan harus secara bertahap Meningkatkan Qi batinnya sendiri dan memindahkannya melalui Qi Vena dan Qi Vena ke seluruh tubuh untuk membentuk sirkuit internal. Ini disebut 'Siklus alam semesta'</Stages.0.Necks.3.Desc>
+			<Stages.1.DisplayName>Buat inti nafas</Stages.1.DisplayName>
+			<Stages.1.Desc>Di alam ke-2, para petani harus mempertaruhkan nyawa mereka untuk mengendalikan keseimbangan air dan api. dalam membentuk inti emas</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>pintu mental</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Bukalah pintu pikiran yang terhubung dengan langit dan bumi Tinggalkan segala permasalahan duniawi.</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Isi hatimu</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Biarkan Qi mengalir bebas ke seluruh tubuh. Membantu praktisi mencapai keadaan kesempurnaan.</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>lautan nafas</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Ciptakan lautan qi untuk membuat inti qi. Yang satu area dada, yang kedua area perut bagian bawah yang bentuknya seperti kompor. Hati itu seperti api. Ginjal itu seperti air dan kehidupan itu seperti bahan bakar.[color=#D06508]\nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.\nKegagalan menembus batas dapat mengakibatkan cedera.[/color]</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.3.DisplayName>padatkan esensinya</Stages.1.Necks.3.DisplayName>
+			<Stages.1.Necks.3.Desc>Gabungkan kekuatan fisik, energi dalam, dan energi spiritual untuk memadatkannya menjadi esensi emas.</Stages.1.Necks.3.Desc>
+			<Stages.2.DisplayName>Tempa intinya</Stages.2.DisplayName>
+			<Stages.2.Desc>Di alam ketiga, praktisi kembali ke sifat aslinya, murni dan membebaskan pikirannya serta menyadari jati dirinya dalam keadaan ini.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Satu penjara</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Penggarap harus menghadapi Hukuman Petir Surgawi setelah menciptakan Inti Emas.</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Asal</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Identitas sejati sang kultivator secara bertahap akan memudar. Terbentuk di dalam inti emas seolah-olah pada tahap awal perkembangan prenatal.[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Larva</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Identitas sejati sang kultivator secara bertahap akan memudar. sudah terbentuk dan siap tumbuh[color=#D06508]nMenembus tahap ini akan sulit bagi mereka yang berstamina rendah.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.2.Necks.3.DisplayName>bayi</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.3.Desc>Tubuh yang murni di dalam jiwa yang kuat Untuk mulai menerobos batas-batas tubuh manusia dan memasuki keadaan keabadian itu</Stages.2.Necks.3.Desc>
+			<Stages.3.DisplayName>kelahiran roh</Stages.3.DisplayName>
+			<Stages.3.Desc>Pada tingkat ke-4, jiwa batin seorang kultivator harus melalui hukuman surgawi untuk membentuk tubuh Yang murni, meninggalkan tubuh kasar aslinya. Untuk menjadi ahli sejati</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>membentuk semangat</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Sempurnakan jiwa Anda dengan nafas Yin murni dari Dewi Bumi.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>semangat terbang</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Pisahkan diri Anda dari tubuh manusia dan biarkan roh Anda berkeliaran di dunia.[color=#D06508]\nHarap diperhatikan bahwa melanggar batas akan sangat mengurangi umur.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>semangat pencerahan</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Kebangkitan Spiritual dengan Berkah Ilahi Setelah dilatih ke tingkat tertinggi, praktisi harus menghadapi hukuman dari surga.[color=#D06508]\nMenembus batas pada tahap ini akan benar-benar menantang surga dan tidak akan menghasilkan bonus apa pun. Dari langkah ini[/color]</Stages.3.Necks.2.Desc>
+			<Stages.3.Necks.3.DisplayName>Kelahiran Kembali Surgawi</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.3.Desc>Setelah melewati hukuman langit dan bumi, orang itu akan dapat bereinkarnasi sebagai Orang Suci. Jika tidak, surga akan mencoba menghancurkan keberadaan orang itu jika orang itu terus tinggal di dunia fana.</Stages.3.Necks.3.Desc>
+		</Text>
+	</List>
+</Texts>
