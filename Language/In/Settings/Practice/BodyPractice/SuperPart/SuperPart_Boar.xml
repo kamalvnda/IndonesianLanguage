@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Boar_1">
+			<Prefix>darah</Prefix>
+			<Suffix>Setan Kuno</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Babi Hutan Primordial. Gunakan teknik rahasia untuk membuat rambut di sekitar leher lebih kuat dan tajam. Setelah berhasil dilatih, Anda bisa menggunakannya untuk menembus semua jenis pertahanan musuh.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Boar_2">
+			<Prefix>anjing</Prefix>
+			<Suffix>menghancurkan sesuatu</Suffix>
+			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Babi Hutan Primordial. Masukkan kekuatan penghancur ke dalam taringnya dan buat mereka lebih kuat dan tajam. Hanya satu serangan saja yang bisa menghancurkan segalanya.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
