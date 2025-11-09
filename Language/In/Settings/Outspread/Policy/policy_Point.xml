@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Policy_TianDaoShenDan">
+			<DisplayName>Pelajari Taoisme</DisplayName>
+			<Desc>Amati perubahan langit dan bumi serta Feng Shui. Ciptakan pil pencerahan sesekali.</Desc>
+		</Text>
+		<Text Name="Policy_TreasureHunt">
+			<DisplayName>perburuan harta karun</DisplayName>
+			<Desc>Berburu harta karun langka di lokasi yang belum dijelajahi. Harta yang berbeda akan membutuhkan metode dan tingkat kecerdasan yang berbeda.</Desc>
+		</Text>
+		<Text Name="Policy_Acceleration">
+			<DisplayName>tenaga kerja</DisplayName>
+			<Desc>Kirim perwakilan sekte atau murid untuk mengawasi penggunaan tenaga kerja. Anda akan mendapatkan peningkatan produksi secara berkala. Produktivitas ladang bergantung pada keterampilan pertanian. Hasil dari tambang dan tambang batu roh bergantung pada keterampilan menambang. Dan hasil dari tempat penebangan kayu bergantung pada jumlah penduduk.</Desc>
+		</Text>
+		<Text Name="Policy_Discipline">
+			<DisplayName>Upacara gairah</DisplayName>
+			<Desc>Mengingatkan masyarakat untuk berperilaku baik dan bermoral. Disiplin yang berbeda diperlukan dalam situasi yang berbeda. Tingkat keberhasilan tergantung pada keterampilan tempur.</Desc>
+		</Text>
+		<Text Name="Policy_Secret">
+			<DisplayName>Buatlah rencana</DisplayName>
+			<Desc>Cobalah untuk meyakinkan murid sekte lain untuk menjadi murid sekte Anda. Dengan berbagai cara, baik dengan menghalangi kerja perwakilan aliran lain maupun menciptakan hal-hal yang meresahkan kehidupan masyarakat sehari-hari. Untuk itu diperlukan tingkat Intelektual yang sangat tinggi ditambah strategi khusus untuk meningkatkan peluang keberhasilan.</Desc>
+		</Text>
+		<Text Name="Policy_Sermon">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>Publikasikan ajaran kantor Anda. Termasuk memecahkan dan mengelola berbagai masalah. efisien Hasilnya akan tergantung pada Karisma, Ketertarikan, dan Stabilitas.</Desc>
+		</Text>
+		<Text Name="Policy_Give">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Memberikan makanan kepada masyarakat miskin dan kelaparan Orang-orang yang menerima bantuan akan terkesan dengan kantor Anda. Anda bisa mendapatkan sejumlah kecil murid. Termasuk kekuatan daya tarik dan kekuatan pengaruh.</Desc>
+		</Text>
+		<Text Name="Policy_Missionary">
+			<DisplayName>Buatlah prestasi</DisplayName>
+			<Desc>Memberikan makanan kepada masyarakat miskin dan kelaparan Orang-orang yang menerima bantuan akan terkesan dengan kantor Anda. Anda bisa mendapatkan sejumlah kecil murid. Termasuk kekuatan daya tarik dan kekuatan pengaruh.</Desc>
+		</Text>
+		<Text Name="Policy_Submiss">
+			<DisplayName>digabungkan bersama</DisplayName>
+			<Desc>Menjadi satu-satunya perwakilan biro di kota ini Menjadi satu-satunya perwakilan biro di kota ini yang akan mengadakan berbagai acara. Banyak yang datang untuk menguji kemampuan Anda. Mencoba membuat kemajuan dalam menyatukan kota. Ini akan berhasil ketika nilai keberhasilan mencapai 20. Jika Anda melewatkan satu langkah pun, Penduduk Desa mungkin merasa bahwa Anda mengancam nyawa mereka sehingga menyebabkan Anda harus memulai dari awal. Dan jika ada perubahan kebijakan selama proses tersebut, maka merger akan terhenti.</Desc>
+		</Text>
+		<Text Name="Policy_God">
+			<DisplayName>keajaiban</DisplayName>
+			<Desc>Biarkan murid Penggarap Jalan Ilahi menggunakan keajaiban mereka.</Desc>
+		</Text>
+	</List>
+</Texts>
