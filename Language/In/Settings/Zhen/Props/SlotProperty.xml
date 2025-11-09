@@ -1,0 +1,116 @@
+<Texts Type="Stability">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>bebas</Descript>
+			<Tip>bebas</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>Basis stabilitas mekanis {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>Basis stabilitas mekanis {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>Stabilitas mekanis {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>Stabilitas mekanis {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>Basis Keterampilan Senjata Ajaib {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>Basis Keterampilan Senjata Ajaib {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>Keterampilan Senjata Ajaib {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>Keterampilan Senjata Ajaib {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>Basis Keterampilan Qi Ajaib {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>Basis Keterampilan Qi Ajaib {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>Keterampilan Qi Ajaib {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>Keterampilan Qi Ajaib {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>Pangkalan Zirah Qi {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>Pangkalan Zirah Qi {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildTambahkan">
+			<Descript>Armor Qi {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>Armor Qi {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>Basis penggunaan {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>Basis penggunaan {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>Penggunaan {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>Penggunaan {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>Basis Kinerja Perkemahan {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>Basis Kinerja Perkemahan {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>Efisiensi formasi {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>Efisiensi formasi {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>Ukuran perkemahan {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>Ukuran perkemahan {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>Ukuran perkemahan {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>Ukuran perkemahan {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NPCZhenPressurePowerupBasev">
+			<Descript>Beban kamp mekanis {1}{0}</Descript>
+		</Text>
+		<Text Name="NPCZhenPressurePowerupBasep">
+			<Descript>Beban kamp mekanis {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NPCZhenPressurePowerupAddv">
+			<Descript>Beban kamp mekanis {1}{0}</Descript>
+		</Text>
+		<Text Name="NPCZhenPressurePowerupAddp">
+			<Descript>Beban kamp mekanis {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NPCZhenPointBasev">
+			<Descript>Basis kekuatan maksimum formasi {1}{0}</Descript>
+		</Text>
+		<Text Name="NPCZhenPointBasep">
+			<Descript>Basis kekuatan maksimum formasi {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NPCZhenPointAddv">
+			<Descript>Energi maksimum formasi {1}{0}</Descript>
+		</Text>
+		<Text Name="NPCZhenPointAddp">
+			<Descript>Kekuatan maksimum formasi {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>
