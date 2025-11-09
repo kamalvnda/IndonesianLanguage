@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>Buat sistem pegunungan</DisplayName>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>mengikuti</DisplayName>
+			<TargetDesc>Pilih karakter yang ingin Anda ikuti.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Nyalakan kembang api</DisplayName>
+			<TargetDesc>Pilih lokasi untuk menyalakan api.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>menembakkan kembang api</DisplayName>
+			<TargetDesc>Pilih lokasi untuk menyalakan api.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
