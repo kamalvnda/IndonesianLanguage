@@ -1,0 +1,164 @@
+ID	Content	WholeContent	TipDesc	Desc	TipsContent
+
+1	Cadangan makanan tidak mencukupi.	Cadangan makanan tidak mencukupi.			
+2	Cadangan obat tidak mencukupi.	Cadangan obat tidak mencukupi.			
+3	Cadangan stamina tidak mencukupi.	Cadangan stamina tidak mencukupi.			
+4	Musim panas akan datang.	Musim panas akan datang.	Harap bersiap menghadapi cuaca panas.		
+5	Musim dingin akan datang.	Musim dingin akan datang.	Harap bersiap menghadapi cuaca dingin.		
+6	Musuhmu muncul.	Musuhmu muncul.			
+7	{0}{1} sedang diserang.	Sekte ini sedang diserang.			
+8	Ada api.	Ada api.			
+9	Pejalan kaki membutuhkan bantuan.	Pejalan kaki membutuhkan bantuan.			
+10	{0} sedang mencoba mengambil item {1}.	Musuh sedang mencoba mengambil suatu item.			
+11	Musuh {0} mengambil item {1}.	Musuh mengambil barang itu.			
+12	Binatang ajaib {0} muncul.	Binatang ajaib muncul.			
+13	Harta karun yang jatuh.	Harta karun yang jatuh.			
+14	Abadi {0}_tiba/berangkat.	Yang abadi telah tiba.			
+15	{0} jatuh cinta pada {1}.	Perasaan cinta yang baru.			
+16	{0} berhenti mencintai {1}.	Perasaan cinta memudar.			
+17	{0} menyatakan perasaannya kepada {1} _dan mereka menjadi kekasih/tetapi gagal.	Seseorang menyatakan perasaannya.			
+18	{0} membujuk {1} _dan berhasil/dan gagal.	Seseorang mencoba persuasi.			
+19	Ditinggalkan	Ditinggalkan			
+20	{0} sedang dalam suasana hati yang buruk.	Seseorang sedang dalam suasana hati yang buruk.			
+21	Suasana hati {0} memburuk karena {1}.	Suasana hati seseorang memburuk.			
+22	{0} tidak stabil secara mental.	Seseorang tidak stabil secara mental.			
+23	{0}: _jatuh ke tanah/kehilangan kesadaran/sekarat.	Seseorang tidak berdaya.			
+24	Ditinggalkan	Ditinggalkan			
+25	{0}: meninggal.	Seseorang meninggal.			
+26	{0}: malas dalam bekerja.	Seseorang malas dalam pekerjaannya.			
+27	{0}: berhenti bermalas-malasan.	Seseorang berhenti bermalas-malasan dalam pekerjaannya.			
+28	{0} membutuhkan senjata untuk berburu.	Seseorang membutuhkan senjata untuk berburu.			
+29	{0} memerlukan alat untuk memotong.	Seseorang membutuhkan alat untuk memotong.			
+30	{0} memerlukan alat penambangan.	Seseorang membutuhkan alat penambangan.			
+31	{0} memerlukan alat pertanian.	Seseorang membutuhkan alat pertanian.			
+32	keahlian {0} untuk {1} naik level.	Keterampilan naik level.			
+33	{0}: jatuh ke sisi iblis.	Seseorang jatuh ke sisi iblis.			
+34	{0} berhasil meletakkan fondasi.	Seseorang berhasil meletakkan fondasinya.			
+35	{0} mencapai batas.	Seseorang mencapai batasnya.			
+36	Batas {0} hampir habis.	Batasan seseorang hampir berakhir.			
+37	Batas {0} telah berakhir.	Batasan seseorang telah berakhir.			
+38	{0} membuat artefak {1} _dan berhasil/tetapi gagal.	Seseorang membuat artefak.			
+39	Melakukan alkimia _dan berhasil/tetapi gagal.	Seseorang melakukan alkimia.			
+40	{0} mengakui {1} sebagai master.	Seseorang punya tuan baru.			
+41	{0} mempunyai keluhan tentang sekte tersebut.	Seseorang mempunyai keluhan tentang sekte tersebut.			
+42	{0} kembali dari petualangan.	Seseorang kembali dari petualangan.			
+43	{0} melakukan terobosan _dan berhasil/tetapi gagal.	Seseorang sedang melakukan terobosan.			
+44	Pandangan ke Masa Depan Universal: {0}.	Pandangan ke Depan Universal.			
+45	{0} membutuhkan pemimpin cabang.	Cabang membutuhkan pemimpin baru.			
+46	{0} lapar.	Seseorang lapar.	Dibutuhkan lebih banyak makanan.		
+47	{0} haus.	Seseorang haus.	Dibutuhkan lebih banyak sumber air.		
+48	{0} bosan.	Seseorang bosan.	Dibutuhkan lebih banyak fasilitas hiburan.		
+49	{0} lelah.	Seseorang lelah.	Dibutuhkan lebih banyak istirahat dan tidur.		
+50	{0}: sakit.	Seseorang terluka.			
+51	{0}: cedera memburuk.	Cedera seseorang semakin parah.			
+52	{0}: lumpuh.	Seseorang lumpuh.			
+53	Penyimpanan selesai.				
+54	{0}: kondisi pertumbuhan yang tidak sesuai.	Kondisi pertumbuhan tanaman spiritual menjadi tidak sesuai.			
+55	{0} dalam bahaya.	Perasaan bahaya yang aneh hadir.			
+56	A {1} merasakan Qi dan menerobos menjadi binatang buas.				
+57	Binatang {0} telah muncul.	Seekor binatang buas muncul.			
+58	Beast {0} merasakan Qi dan menerobos.	Binatang menerobos.			
+59	Binatang purba {0} sedang menyerang!	Seekor binatang purba sedang menyerang!			
+60	{0} mengaktifkan artefak {1}.				
+61	{0} melewati Masa Kesengsaraan _dan berhasil/tetapi gagal.	Selamat dari Kesengsaraan			
+62	Relik muncul!	Peninggalan Muncul			
+63	{0} diklaim oleh {1}.				
+64	Versi baru tersedia		Versi baru tersedia: {0}.		
+65	{0} mencoba menyalin {1} _dan berhasil/tetapi gagal.	Disimpan di Paviliun Manual			
+66	Kondisi mental {0} dinaikkan menjadi [{1}] dan juga meningkatkan keilahiannya.				
+67	{0} kehilangan kendali atas obsesinya dan akan menghadapi Kesusahan Kepercayaan.	Terobsesi			
+68	{0} membuat relik suci {1} _dan berhasil/tetapi gagal.	Membuat Relik Suci			
+69	Obsesi {0} terhadap {1} muncul.	Obsesi Muncul			
+70	{0} telah mencapai keilahian penuh dan akan segera naik.	Kenaikan			
+71	{0} memutuskan obsesi mereka: [{1}]				
+72	Gelar dewa {0} telah berubah.	Gelar Ilahi			
+73	{0} mencoba mempelajari {1} _dan berhasil/tetapi gagal.	Belajar			
+74	{1} menemukan sepotong {0} saat sedang makan pangsit.				
+75	{0} menjadi terang	Animisme Tao			
+76	{0} memiliki kesadaran diri dan telah menjadi Roh yang Hidup	Kebangkitan Roh Makhluk Hidup			
+77	{0} Penyaluran gagal	Penyaluran gagal			
+78	{0} muncul	Roh Hidup Lewat			
+79	{1} milik {0} telah dibentuk ulang				
+80	Batu Yin Yang telah mendapatkan kembali kekuatannya.	Batu Yin Yang telah mendapatkan kembali kekuatannya.			
+81	Prasasti Ibu Bumi telah mendapatkan kembali kekuatannya.	Prasasti Ibu Bumi telah mendapatkan kembali kekuatannya.			
+82	Sebuah item telah terbang keluar dari Otherworld Rift.	Sebuah item telah terbang keluar dari Otherworld Rift.			
+83	{0}： Ikan mengambil umpannya!	Penangkapan ikan			
+84	{0} telah mempelajari {1}	Pelatihan			
+85	Hadiah Volume dao yang sebenarnya {0} diklaim	Hadiah diklaim			
+86	Hadiah Volume dao yang sebenarnya {0} diklaim ke tempat hadiah	Hadiah diklaim			
+87	Jade Tablet Space: {0} Klaim Berhasil	Hadiah diklaim			
+88	Jade Tablet Space: {0} telah dikumpulkan ke Tempat Hadiah	Hadiah diklaim			
+89	Anda Memiliki Email Baru	Surel Baru			
+90	Penyimpanan Normal: {0} Klaim Berhasil	Hadiah diklaim			
+91	Penyimpanan Umum: {0} telah dikumpulkan ke Tempat Hadiah	Hadiah diklaim			
+10001	Gua Misterius			Gempa bumi yang semakin sering terjadi di sekte Anda tiba-tiba berhenti baru-baru ini, dan pada saat yang sama, sebuah gua misterius muncul di tanah. Anda dapat merasakan keinginan yang kuat namun tidak jelas dari suatu makhluk dari dalam gua. Anda tidak tahu apa itu. \n Kultivator kuno mulai lebih sering muncul di dunia ini. Mungkin Anda bisa menanyakan informasi kepada mereka.	
+10002	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
+10003	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
+10004	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
+10005	Dikorbankan			Anda menyelesaikan ritual di depan gua, dan makhluk misterius itu sangat puas.	
+10006	Bencana Alam			Makhluk misterius di dalam gua sangat marah, dan menimbulkan bencana: [TXT].	
+10007	Bencana Binatang Buas			Makhluk misterius di dalam gua itu sangat marah, dan itu menarik beberapa monster untuk menyerang sekte Anda.	
+10008	Bencana Kehancuran			Makhluk misterius di dalam gua itu sangat marah, dan menyemburkan semburan air yang menembus permukaan tanah.	
+10009	Keluar dari Abu			Naga yang marah itu menerobos tanah dan muncul.	
+10010	Terbunuh			Setelah pertarungan yang panjang dan sulit, Naga itu akhirnya terbunuh.	
+10011	Panas Ekstrim			Untuk alasan yang tidak diketahui, suhu rata-rata di dunia ini tiba-tiba meningkat sedikit. Kenaikan suhu ini jauh melampaui perubahan cuaca normal. Ini mungkin mengindikasikan sesuatu yang tidak biasa.	
+10012	Monster yang Tidak Tertekuk			Kekeringan ekstrim telah membuat monster menjadi gila, dan beberapa monster yang tidak berdaya muncul di dekat sekte tersebut.	
+10013	Sayap Berkobar Jatuh			Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.	
+10014	Kekeringan yang Berkepanjangan			Panas yang terus berlanjut telah menyebabkan kekeringan. Anda merasakan suhu meningkat semakin tinggi. Jika Anda tidak mengambil tindakan sekarang, situasinya mungkin akan bertambah buruk.	
+10015	Binatang yang Tidak Tertekuk			Beberapa monster menjadi gila karena ketakutan, dan mereka bahkan meninggalkan wilayah mereka sendiri untuk membuat kekacauan di mana-mana!	
+10016	Sayap Berkobar Jatuh			Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.	
+10017	Suara Melengking			Setelah mengucapkan mantra untuk mengusir kekeringan yang berkepanjangan, Anda menemukan bahwa dunia tampak menjadi sangat sunyi selama satu jam. Beberapa saat kemudian, sekawanan besar burung tiba-tiba terbang dari beberapa gunung terpencil. Suara melengking dan seram memecah kesunyian.	
+10018	Phoenoxica Tiba			Phoenix yang ganas mendekat.	
+10019	Air Terjun Phoenoxica			Setelah pertarungan yang panjang dan sulit, Phoenix akhirnya terbunuh.	
+10020	Malam Kutub Dimulai			Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Area di sekitar sekte Anda menjadi gelap gulita, seolah-olah saat itu malam hari.	
+10021	Telur Yin			Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah malam. Ada sesuatu yang menetas di dalam diri mereka...	
+10022	Hari Kutub Dimulai			Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Tiba-tiba menjadi tengah hari di daerah sekitar sekte Anda... Anda tidak tahu berapa lama kekacauan ini akan berlanjut.	
+10023	Telur Yang			Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah hari. Ada sesuatu yang menetas di dalam diri mereka...	
+10024	Kekacauan Obor Naga			Kekacauan Yin dan Yang yang terus berlanjut akhirnya mencapai batasnya. Sambil menghela nafas panjang, makhluk raksasa mulai bermanifestasi di dalam dunia!	
+10025	Penetasan Telur			Saat telur aneh mulai menetas, alam Yin dan Yang perlahan kehilangan keseimbangan!	
+10026	Pemecahan Telur			Saat telur-telur aneh itu dihancurkan, Yin dan Yang dari alam ini perlahan-lahan kehilangan keseimbangan!	
+10027	Perubahan Drastis			Tiba-tiba terjadi ledakan Qi di Dataran Tengah. Pada awalnya, tidak ada yang terlalu memperhatikannya, mengira itu adalah perubahan normal dalam aliran Qi. Seiring berjalannya waktu, masyarakat mulai menyadari bahwa skala dan intensitas ledakan tersebut melampaui ekspektasi. Ini telah menyebar dari pusat gempa selama lebih dari sebulan, membuktikan bahwa pada akhirnya ini adalah perubahan drastis yang akan mempengaruhi semua kultivator.\n Sekarang, pengaruh ledakan tersebut telah mencapai sekte Anda. Saat semua orang menikmati Qi yang melimpah, Anda bertanya-tanya apa arti perubahan drastis ini bagi Anda semua...	
+10028	Gelombang Seribu Tahun			Sudah berhari-hari sejak ledakan Qi selesai menyebar ke seluruh dunia. Dari membaca dokumen-dokumen lama, sekte-sekte terkenal akhirnya memutuskan bahwa gelombang Qi-lah yang melonjak setiap 3.000 tahun. Para penggarap kuno yang tertidur karena berbagai alasan mulai dihidupkan kembali satu per satu oleh Gelombang Seribu Tahun.\n Tanpa tatanan dan aturan saat ini, para penggarap di zaman dahulu percaya pada hukum rimba. Para kultivator dengan kepercayaan kuno dan pengalaman yang signifikan dalam kultivasi ini telah menyebabkan kekacauan di dunia kultivator hanya dalam waktu beberapa hari...	
+10029	Bencana di Wild South			Sebuah bencana misterius terjadi baru-baru ini di pegunungan di perbatasan utara. Dikatakan bahwa tanah dan gunung berguncang selama satu menit, dan suaranya sangat keras hingga menyebar ribuan mil. Ketika para penggarap terdekat tiba, mereka hanya menemukan semua gunung tenggelam dalam air, dengan Qi kuat yang tidak menyenangkan merembes ke area tersebut.\n Tampaknya beberapa binatang purba langka dan sulit ditangkap yang bersembunyi di pegunungan dan danau terpengaruh oleh Gelombang Seribu Tahun dan menjadi aktif kembali.	
+10030	Kebisingan Bawah Tanah			Gelombang Seribu Tahun telah berlalu. Dalam waktu kurang dari sebulan, para pembudidaya kuno dihidupkan kembali, dan binatang buas purba mulai aktif kembali... Dunia para pembudidaya dihadapkan pada perubahan drastis. Seiring berjalannya waktu, dunia kultivator secara bertahap mendapatkan kembali kedamaian dan keseimbangannya. Segalanya tampak kembali ke jalurnya. \n Namun, gempa bawah tanah mulai sering terjadi di sekte Anda. Anda tidak tahu apa yang sedang terjadi...	
+10031	Kesengsaraan Naga			Kekuatan Kesengsaraan Surgawi telah membunuh semua Naga Banjir yang belum lahir...	
+10032	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
+10033	Pencapaian ({0}) gagal	Prestasi		Prestasi Gagal	
+20001	Rumor di Dunia				
+20002	Gangguan Dunia Lain			Ada pembicaraan bahwa Celah ke dunia lain tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun berkilau keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.	
+30001	Agen {0} telah tiba di {1}.	Agen telah mencapai		Kedatangan Berhasil	
+30002	Berhasil menetapkan {0}.	Tugas berhasil		Tugas Berhasil	
+30003	Selesai membangun {0}.	Bangunan selesai		Bangunan selesai	
+30004	Menyelesaikan peningkatan aula utama {0}.	Peningkatan Aula Utama		Peningkatan Selesai	
+30005	{0}	Suatu peristiwa terjadi.		Peristiwa terjadi	
+30006	{0}	Sebuah bencana terjadi.		Bencana terjadi	
+30007	Pedagang {0} telah tiba.	Pedagang Tiba		Pedagang Keliling telah tiba	
+30008	Kami telah membangun {0}!	Bangunan Selesai		Keajaiban Dibangun	
+40000	Merchant Union telah mengumumkan kecaman mereka!	Kecaman dari Merchant Union	Karena perilaku kasar Anda, Merchant Union telah memutuskan untuk melarang Anda dari daftar perdagangan mereka selamanya.		
+30009	keyakinan {0} penuh.	Keyakinan Penuh	{0} telah mengumpulkan cukup banyak keyakinan. Tolong kirimkan murid untuk mengumpulkannya.		
+30010	Penyimpanan {0} penuh.	Penyimpanannya penuh.	Penyimpanan {0} penuh, harap klaim secara manual.		
+30011	{0}	Pilih Kebijakan			
+31001	Peri Kecil yang Aneh	Peri Kecil yang Aneh	Elf Kecil yang Aneh telah tiba.		Elf Kecil yang Aneh telah tiba.
+31002	Naga Obor yang bermutasi	Naga Obor yang bermutasi	Naga Obor yang bermutasi telah muncul.		Naga Obor yang bermutasi telah muncul.
+32001	Seekor anak anjing muncul di dekatnya!	Seekor anak anjing muncul di dekatnya!	Seekor anak anjing muncul di dekatnya!		
+32002	Seekor rubah muncul di dekatnya!	Seekor rubah muncul di dekatnya!	Seekor rubah muncul di dekatnya!		
+32003	{0} digunakan untuk menggemeretakkan gigi	Sekte sedang diserang	Sekte sedang diserang		
+32004	Seekor kura-kura hitam muncul di dekatnya!	Seekor kura-kura hitam muncul di dekatnya!	Seekor kura-kura hitam muncul di dekatnya!		
+33001	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk	Kesengsaraan Surgawi yang Berubah Bentuk gagal	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk dan bertemu dengan pembuatnya		
+33002	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk	Kesengsaraan Surgawi yang Berubah Bentuk gagal	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk dan menjadi Monster		
+34001	{0} sangat membutuhkan Berpikir	Kebutuhan mendesak untuk Berpikir	Telah memperoleh Pemikiran yang cukup, lanjutkan dan mulai Berpikir.		
+34002	{0} memasuki Kondisi Kebangkitan	Keadaan Kebangkitan			
+34003	{0} mulai belajar	Tahap Pembelajaran			
+34004	{0} telah matang	Tahap Dewasa			
+34005	{0} ragu-ragu	Ragu-ragu			
+34006	Kecerdasan {0} sudah maksimal	Latihan			
+34007	Qi {0} sudah maksimal	Latihan			
+34008	Mantra {0} sudah maksimal	Latihan			
+34009	Inti {0} telah mencapai batas maksimal	Latihan			
+34010	Perlindungan {0} telah mencapai batas maksimal	Latihan			
+34011	Seekor panda dewa telah muncul di dekat sini!	Seekor panda dewa telah muncul di dekat sini!	Seekor panda dewa telah muncul di dekat sini!		
+34101	Batu Roh dari Altar Gema Surga telah tiba	Batu Roh dari Altar Gema Surga telah tiba			
+34102	Batu Roh di Altar Gema Surga menunggu untuk dikumpulkan	Batu Roh di Altar Gema Surga menunggu untuk dikumpulkan			
+34103	Batu Roh Mengkristal Selesai!	Batu Roh Mengkristal Selesai!			
+34200	Buka Kunci Mantel: {0}	Buka Kunci Mantel.	Dapat diproduksi di meja jahit.		
+41001	Kekacauan Surgawi	Kekacauan Surgawi			
