@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Sekolah_1">
+			<DisplayName>Inti Tirai Langit</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_2">
+			<DisplayName>Inti Kunlun</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_3">
+			<DisplayName>Sumbu utama di atas langit</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_4">
+			<DisplayName>Inti Awan Ungu</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_5">
+			<DisplayName>Inti yang misterius</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_6">
+			<DisplayName>Inti Teratai Surgawi</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_7">
+			<DisplayName>inti cahaya malam</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_8">
+			<DisplayName>Inti dari seratus serangga</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_9">
+			<DisplayName>Inti Jurang</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_10">
+			<DisplayName>Inti dari Tujuh Jalan Pembunuhan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Sekolah_11">
+			<DisplayName>Inti terintegrasi</DisplayName>
+		</Text>
+	</List>
+</Texts>
