@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<PossibleMagic.0.DisplayName>menyirami tanaman</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Penyiraman membantu tanaman tumbuh lebih cepat. Itu hanya bergantung pada perilaku roh iblis. Tidak dapat diterapkan</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Menyuburkan</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Tukarkan pertumbuhan dan nutrisi Anda sendiri untuk mengubah lahan menjadi tanah subur.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>mengemis</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Bersikaplah ceria terhadap karakternya. Menggunakan nafsu, pesona, dan kecerdasan mereka untuk menghancurkan hati mereka yang tertutup\n[color=#FF0000]Membutuhkan 100 Intelijen untuk digunakan.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan 50 pelindung energi[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan 100 pelindung energi[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Membutuhkan 100 energi magis[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsFox">
+			<PossibleMagic.0.DisplayName>Penyembuhan Qi</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Mengobati luka siswa di sekte Itu hanya tergantung pada perilaku roh iblis. Tidak dapat diterapkan</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>menciptakan tanah roh</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Tukarkan pertumbuhan dan nutrisi Anda sendiri untuk mengubah lahan menjadi tanah roh\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>mengemis</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Bermainlah dengan pedagang untuk mendapatkan keuntungan mereka.\n[color=#FF0000]Membutuhkan 100 Intelijen untuk digunakan.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan 50 inti iblis[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Membutuhkan 50 energi[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Membutuhkan 100 energi[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsDragon">
+			<PossibleMagic.0.DisplayName>Sihir yang keren</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Mengobati gejala insolasi di kalangan siswa di sekte Itu hanya tergantung pada perilaku roh iblis. Tidak dapat diterapkan</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Hancurkan Penjara Beku</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Karena jenis makhluknya sama dengan Naga Air. Ia mampu mengusir penjara beku yang ditinggalkan Naga Air.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>napas beku</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Gunakan Qi asli Naga Air untuk menghilangkan panas terik.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Kehormatan Naga</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Tampilkan kekuatan luar biasa di depan perwakilan sekte untuk meningkatkan stabilitas.[color=#FF0000]Membutuhkan 100 Intelijen untuk digunakan.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>aliran petir</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Membutuhkan 100 energi magis[/color]</PossibleSkill.2.Desc>
+		</Text>
+		<Text Name="LsPhoenix">
+			<PossibleMagic.0.DisplayName>sihir penghangat tubuh</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Menyembuhkan radang dingin siswa di sekte Itu hanya tergantung pada perilaku roh iblis. Tidak dapat diterapkan</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Nafas Api</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Gunakan Qi asli Burung Vermillion untuk mengusir iblis itu.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>mata yang tercerahkan</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Memberikan pencerahan kepada murid batin Hal ini memungkinkan untuk melihat tampilan sebenarnya dari barang yang dilelang.\n[color=#FF0000]Membutuhkan Intelijen 50 untuk menggunakannya.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Angsa yang menguntungkan</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Tunjukkan kekuatan luar biasa Anda di depan perwakilan sekte untuk meningkatkan daya tarik sekte tersebut.[color=#FF0000]Membutuhkan 100 Intelijen untuk digunakan.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan 50 inti iblis[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Membutuhkan 100 energi magis[/color]</PossibleSkill.2.Desc>
+		</Text>
+	</List>
+</Texts>
