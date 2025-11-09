@@ -1,0 +1,99 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Esoterica_SYS_LOST">
+      <DisplayName>Kosong</DisplayName>
+      <Desc>Bangunan hilang yang tidak dikenali siapa pun. \n(Kosong)</Desc>
+      <EffectDesc>None</EffectDesc>
+    </Text>
+    <Text Name="Esoterica_LunHui1">
+      <DisplayName>Pukulan Liar</DisplayName>
+      <Desc>Buku rahasia misterius dari masa depan. Mempelajarinya dapat meningkatkan sifat-sifat seseorang.</Desc>
+      <EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Keberuntungan sebesar 10%.</EffectDesc>
+    </Text>
+    <Text Name="Esoterica_LunHui2">
+      <DisplayName>Kembalinya Musim Semi</DisplayName>
+      <Desc>Memiliki ilmu dari zaman modern, orang akan memuji kecerdasan Anda.</Desc>
+      <EffectDesc>Meningkatkan Indra sebesar 0,5 poin\nMeningkatkan Pemahaman sebesar 0,5 poin</EffectDesc>
+    </Text>
+    <Text Name="Esoterica_LunHui3">
+      <DisplayName>Kekuatan Gelombang</DisplayName>
+      <Desc>Korbankan umur panjang Anda untuk meningkatkan kekuatan alami tubuh Anda dalam waktu singkat dan mengisi kembali Qi.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Kekuatan Lonjakan\nKorbankan umur panjang Anda untuk meningkatkan kekuatan alami tubuh Anda dalam waktu singkat dan mengisi kembali Qi.[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Esoterica_LunHui4">
+      <DisplayName>Hukum Abadi Kunlun</DisplayName>
+      <Desc>Sebuah hukum rahasia yang diajarkan oleh makhluk abadi misterius di kedalaman Gunung Kunlun. Dapat meningkatkan Pemahaman dan Fisik seseorang</Desc>
+      <EffectDesc>Meningkatkan Pemahaman sebesar 0,5 poin\nMeningkatkan Fisik sebesar 0,5 poin</EffectDesc>
+    </Text>
+    <Text Name="Esoterica_LunHui5">
+      <DisplayName>Pesona ketenangan</DisplayName>
+      <Desc>Sebuah manual yang berisi simbol jimat yang dapat meningkatkan mood pengguna dan menenangkan pikiran.</Desc>
+      <EffectDesc>Pesona yang Dipelajari:\nPesona ketenangan</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_DanXia1">
+      <DisplayName>Naungan Seribu Awan</DisplayName>
+      <Desc>Sebuah teknik unik yang tercipta pada momen pencerahan dari mengamati pemandangan di Vermillion Cloud Precipice. Mempraktikkannya meningkatkan kerusakan mantra.</Desc>
+      <EffectDesc>Meningkatkan kerusakan mantra</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_DanXia2">
+      <DisplayName>Cakrawala Ungu</DisplayName>
+      <Desc>Sebuah teknik unik yang tercipta pada momen pencerahan dari mengamati pemandangan di Vermillion Cloud Precipice. Mempraktikkannya meningkatkan kondisi pikiran.</Desc>
+      <EffectDesc>Meningkatkan kondisi pikiran\nMeningkatkan umur panjang</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_DengXian1">
+      <DisplayName>Volume Tersembunyi Bunga Timur - Pedang Myrtle</DisplayName>
+      <Desc>Teknik pedang tiada tara yang diciptakan oleh Kaisar Bunga Timur. Dengan mengumpulkan kekuatan Bintang Utara dalam niat pedangmu, kamu akan mampu memotong banyak sekali keberadaan semudah rumput.</Desc>
+      <EffectDesc>Meningkatkan kekuatan harta karun</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_JiuHua">
+      <DisplayName>Kanon Naga Phoenix</DisplayName>
+      <Desc>Seni rahasia zaman kuno yang memungkinkan seseorang memahami aliran Qi di dalam tubuh naga dan burung phoenix. Mempelajari metode ini dapat menanamkan kekuatan naga dan burung phoenix pada tubuh seseorang. Meningkatkan semua atribut.</Desc>
+      <EffectDesc>Meningkatkan Indra sebesar 0,5 poin\nMeningkatkan Fisik sebesar 0,5 poin\nMeningkatkan Pesona sebesar 0,5 poin\nMeningkatkan Pemahaman sebesar 0,5 poin\nMeningkatkan umur panjang</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_LongHu1">
+      <DisplayName>Maksud Pedang Aliran Bergegas</DisplayName>
+      <Desc>Sebuah metode yang lahir dari perolehan pencerahan dari aliran kuat Air Terjun Aliran Terbang, yang meningkatkan jarak pengusiran harta karun.</Desc>
+      <EffectDesc>Meningkatkan jarak pengusiran harta karun</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_LongHu2">
+      <DisplayName>Hukum Pikiran Arus Terbang</DisplayName>
+      <Desc>Sebuah metode yang lahir dari memperoleh pencerahan dari pemandangan megah Air Terjun Aliran Terbang, meningkatkan kecepatan pengisian Qi.</Desc>
+      <EffectDesc>Meningkatkan kecepatan pengisian Qi</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_ChiLianYuan">
+      <DisplayName>Pemurnian Harta Karun Bumi</DisplayName>
+      <Desc>Catatan rahasia seorang ahli penyulingan kuno Nangong Hong. Berisi banyak wawasan mendalam tentang seni pemurnian harta karun. Meningkatkan tingkat keberhasilan penyempurnaan.\n[color=#D06508]Untuk memperingati pemain pertama yang berhasil memurnikan harta karun dengan kesengsaraan surgawi: Qiong Lou[/color]</Desc>
+      <EffectDesc>Sangat meningkatkan tingkat keberhasilan pemurnian harta karun</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_ChiLianYuan1">
+      <DisplayName>Seni Rahasia Nangong Hong</DisplayName>
+      <Desc>Serangkaian metode rahasia yang dicatat oleh Nangong Hong dalam perjalanan mereka menuju keabadian. Meningkatkan atribut dasar.\n[color=#D06508]Untuk memperingati pemain pertama yang berhasil memurnikan harta karun dengan kesengsaraan surgawi: Qiong Lou[/color]</Desc>
+      <EffectDesc>Meningkatkan Indra sebesar 0,5 poin\nMeningkatkan Pemahaman sebesar 0,5 poin</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_XuanKong">
+      <DisplayName>Metode Pembalikan Keberuntungan Surgawi</DisplayName>
+      <Desc>Sebuah metode kuno untuk mencuri kekayaan dari Surga, ditemukan oleh Immortal Yuan Ruoxue, metode ini dapat meningkatkan keberuntungan seseorang secara signifikan.\n[color=#D06508]Untuk memperingati pemain pertama yang naik dengan inti emas tingkat terendah: Sebenarnya Ini Bukan Saya[/color]</Desc>
+      <EffectDesc>Meningkatkan Keberuntungan sebanyak 1 poin</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_ShanHeJue">
+      <DisplayName>Hukum Sungai dan Pegunungan</DisplayName>
+      <Desc>Sebuah metode mendalam yang dipelajari oleh nenek moyang Ultimate Heaven Peak selama studinya tentang Dragon Vein. Hal ini memungkinkan penggunanya untuk membentuk kembali lanskap menggunakan Jade Seeds.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari:\nFormasi Danau\nFormasi Tanah\nSulap tanah roh\nSulap kolam roh\nSulap tanah subur\nResep yang dipelajari:\nBenih Jiwa yang Baru Lahir\nDebu Giok Penciptaan\nKonstruksi yang dipelajari:\nKolam Giok Penciptaan[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_LongDan">
+      <DisplayName>Hukum Sejati Roh Naga</DisplayName>
+      <Desc>Resep obat mujarab tiada tara yang diperoleh dari pecahan memori naga banjir.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Resep yang dipelajari:\nRamuan Roh Naga\nSangat meningkatkan kekuatan harta karun[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_FengDan">
+      <DisplayName>Hukum Sejati Roh Phoenix</DisplayName>
+      <Desc>Resep obat mujarab tiada tara yang diperoleh dari pecahan memori burung phoenix.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Resep yang dipelajari:\nPhoenix Spirit Elixir\nSangat meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+    </Text>
+    <Text Name="Other_Esoterica_ZhuLongDan">
+      <DisplayName>Hukum Sejati Roh Yin Yang</DisplayName>
+      <Desc>Resep ramuan tak tertandingi yang diperoleh dari pecahan memori naga obor.</Desc>
+      <EffectDesc>[size=10][color=#D06508]Resep yang dipelajari:\nYin Yang Spirit Elixir\nSangat meningkatkan kekuatan perlindungan Qi[/color][/size]</EffectDesc>
+    </Text>
+  </List>
+</Texts>
