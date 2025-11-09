@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>Aku tidak tahu apa yang terjadi, tapi tiba-tiba[name]Dia mengalami trans mental tanpa alasan.</Events.0.Story>
+			<Events.1.Story>[name][rand_string=Tiba-tiba bersin, tiba-tiba cegukan, pasir tiba-tiba masuk ke mata, menguap, mulai bergumam sendiri, menggosok perut, menggaruk dirinya sendiri, tiba-tiba merasa bosan, menyisir rambut dengan jari, tiba-tiba ada sesuatu di sepatuku, terinjak sesuatu, merapikan bajuku, mendesah, tersentak, menjilat bibir, mendecakkan lidah, membersihkan debu di badan, menyenandungkan lagu, ingin ngobrol dengan seseorang, ingin mencoba menulis puisi, merasakan tenggorokanku gatal, baru saja mengeluarkan suara]</Events.1.Story>
+			<Events.2.Story>[name][rand_string=Lingkari Qi Anda sendiri, ulangi mantra berkali-kali, ingat jalan Tao]</Events.2.Story>
+			<Events.3.Story>[name]Tiba-tiba saya merasakan [rand_string=mata kanan,mata kiri] sedikit bergerak-gerak.</Events.3.Story>
+			<Events.4.Story>[name]Dia sepertinya mendengar seseorang memanggil namanya.[IT]</Events.4.Story>
+			<Events.5.Story>[name]Ingin berbicara dengan seseorang tentang [rand_lable=obj_friend,obj_nearthing,other=obj,obj_action].</Events.5.Story>
+			<Events.6.Story>[name]Saya sangat suka [rand_lable=obj_weather,obj_action]</Events.6.Story>
+			<Events.7.Story>[name]Menatap [rand_lable=obj_friend,obj_nearthing] di dekatnya [rand_string=Dengan linglung, lalu terkekeh sambil berpikir]</Events.7.Story>
+			<Events.8.Story>[name]Ingin menggunakan [obj_equip][rand_string=modify,clean,organize]</Events.8.Story>
+		</Text>
+	</List>
+</Texts>
