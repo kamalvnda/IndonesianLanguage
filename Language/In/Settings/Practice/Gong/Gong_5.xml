@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_5_Tu">
+			<DisplayName>Teknik Budidaya Qi Surgawi</DisplayName>
+			<Desc>Pada zaman dahulu bumi telah dipisahkan secara paksa dari surga. Kejadian ini menyebabkan Qi surgawi di dunia manusia yang tadinya melimpah menjadi kering dan para penggarap tidak mampu lagi bereinkarnasi ke alam surgawi. dalam keputusasaan Ada seorang kultivator dengan bakat tak tertandingi yang tidak puas dengan apa yang telah dilakukan surga dan menemukan teknik kultivasi. Teknik ini tidak mengandalkan Qi ilahi untuk mengolahnya, tetapi mengandalkan kekuatan hidup di dalam tubuh seseorang untuk menerobos berbagai alam. Oleh karena itu, teknik ini hanya cocok untuk mereka yang memiliki tubuh sempurna. Seseorang mungkin juga harus bergantung pada obat-obatan dalam jumlah besar untuk meningkatkan vitalitas dan memperpanjang umurnya untuk mencapai puncak keterampilan.</Desc>
+			<SelectDesc>Teknik ini luar biasa dalam kekuatan pertahanannya. Dan selama seorang kultivator dapat berlatih hingga titik yang diperlukan, orang tersebut akan dapat dengan mudah mencapai Alam Inti Emas. Namun, mengolah teknik ini membutuhkan vitalitas dan umur yang besar. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
+			<Stages.0.DisplayName>menelan darah</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>menelan darah</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Mengondensasi Qi</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>mengorbankan vitalitas</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>mengorbankan vitalitas</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Memperkuat</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Tempa intinya</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Transformasi Tulang</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Transformasi Tulang</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Mengintegrasikan</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>melahirkan embrio</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Bakar jiwa</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>membakar</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>terik</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>resolusi terakhir</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>resolusi terakhir</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Kelahiran Kembali Surgawi</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>
