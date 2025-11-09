@@ -1,0 +1,162 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>bebas</DisplayName>
+		</Text>
+		<Text Name="zhuxinzhen">
+			<DisplayName>Tentara Pembunuh Utama</DisplayName>
+			<Description>Ini adalah formasi paling kuat dari zaman kuno. Saat digunakan, itu menjadi lingkaran cahaya empat arah. Setiap arah memiliki pedang tersendiri yang melayang di atasnya, mengelilingi seluruh pusatnya. Ketika dirangsang oleh roh kelahiran Keempat pedang akan merespon penggunanya dan formasi akan melepaskan aura pedang untuk menyerang musuh. Bahkan seorang ahli sejati pun tidak bisa dikatakan bertahan di depan formasi ini.</Description>
+			<NodeName.0>Inti Pembunuhan Utama</NodeName.0>
+			<NodeName.1>Bunuh tuannya</NodeName.1>
+			<NodeName.2>kematian</NodeName.2>
+			<NodeName.3>tanpa akhir</NodeName.3>
+			<NodeName.4>Kekal</NodeName.4>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>meningkatkan stabilitas</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Dapatkan Mantra: Bunuh Master</SuitEffect.3.Description>
+		</Text>
+		<Text Name="qixingzhen">
+			<DisplayName>Tentara Penakluk</DisplayName>
+			<Description>Formasi ahli yang konon diturunkan dari Kaisar Prajurit Pengusir Setan dari Surga Kesembilan. Dia bisa menggunakan kekuatan tujuh bintang untuk membentuk Domain Pedang Emas. Ia memiliki kekuatan untuk melenyapkan kejahatan, dan itu adalah formasi yang sangat ditakuti oleh iblis dan iblis.</Description>
+			<NodeName.0>Pedang Bercahaya Surga</NodeName.0>
+			<NodeName.1>Pedang Inti Surgawi</NodeName.1>
+			<NodeName.2>Pedang Giok Surgawi</NodeName.2>
+			<NodeName.3>Pedang Mutiara Surgawi</NodeName.3>
+			<NodeName.4>Pedang Skala Surgawi</NodeName.4>
+			<NodeName.5>Pedang Jernih Surgawi</NodeName.5>
+			<NodeName.6>Pedang Cahaya Surgawi</NodeName.6>
+			<SuitEffect.0.Description>Meningkatkan keterampilan energi magis</SuitEffect.0.Description>
+			<SuitEffect.1.Description>meningkatkan stabilitas</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan kemampuan menggunakan kamp mekanis</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Meningkatkan keterampilan energi magis</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Dapatkan keajaiban: Alam Pedang Emas</SuitEffect.4.Description>
+		</Text>
+		<Text Name="wufangbumiezhen">
+			<DisplayName>Kekuatan Langit dan Bumi</DisplayName>
+			<Description>Sebuah formasi besar berdasarkan lima bendera yang telah ada sejak awal zaman. gagak hitam bendera utara Bendera Selatan, Api Keabadian, Menghancurkan Bendera Bumi di tengah bendera barat awan putih persik kuning Sedangkan untuk bendera timur, teratai hijau Perpaduan kelima elemen tersebut menciptakan wilayah luas yang tidak dapat ditembus oleh hukum alam.</Description>
+			<NodeName.0>Inti dari pembentukan Langit dan Bumi</NodeName.0>
+			<NodeName.1>awan putih</NodeName.1>
+			<NodeName.2>teratai hijau</NodeName.2>
+			<NodeName.3>gagak hitam</NodeName.3>
+			<NodeName.4>Api keabadian melahap bumi.</NodeName.4>
+			<NodeName.5>buah persik kuning</NodeName.5>
+			<SuitEffect.0.Description>Tingkatkan pelindung energi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>meningkatkan stabilitas</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Dapatkan keajaiban: Alam Tanpa Akhir</SuitEffect.3.Description>
+		</Text>
+		<Text Name="liuyuzhen">
+			<DisplayName>Formasi Kaisar Ilahi</DisplayName>
+			<Description>Perkemahan Ritual Pengadilan Surgawi Saat membuat formasi ini, itu akan mengungkapkan tempat tinggal murni enam dewa Pengadilan Surgawi. Mengubah kerajaan manusia menjadi surga yang menidurkan manusia ke dalam keharmonisan spiritual</Description>
+			<NodeName.0>Formasi Kaisar Langit</NodeName.0>
+			<NodeName.1>Formasi Kaisar Kutub</NodeName.1>
+			<NodeName.2>Formasi Kaisar Bintang Utara</NodeName.2>
+			<NodeName.3>Pasal pertama kitab Kejadian</NodeName.3>
+			<NodeName.4>Kamp Mekanik Ilahi Abadi</NodeName.4>
+			<NodeName.5>Formasi Kaisar Dunia</NodeName.5>
+			<SuitEffect.0.Description>meningkatkan stabilitas</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Dapatkan keajaiban: Alam Surga Ilahi</SuitEffect.1.Description>
+		</Text>
+		<Text Name="longxingzhen">
+			<DisplayName>Perkemahan Dalang Naga</DisplayName>
+			<Description>Formasi magis berdasarkan mempelajari tubuh naga air. Dikatakan sebagai formasi yang digunakan untuk mengendalikan naga. Saat digunakan, ia mampu mengekstraksi Qi dari roh naga untuk memanfaatkan Qi Sihir Naga yang kuat.</Description>
+			<NodeName.0>Segel Skala Naga Terlarang</NodeName.0>
+			<NodeName.1>Segel Gunung Naga</NodeName.1>
+			<NodeName.2>Segel Gunung Naga</NodeName.2>
+			<NodeName.3>Segel Cakar Naga</NodeName.3>
+			<NodeName.4>Segel Cakar Naga</NodeName.4>
+			<NodeName.5>Segel Skala Naga</NodeName.5>
+			<NodeName.6>Segel Cakar Naga</NodeName.6>
+			<NodeName.7>Segel Cakar Naga</NodeName.7>
+			<NodeName.8>Segel Ekor Naga</NodeName.8>
+			<SuitEffect.0.Description>Dapatkan keajaiban: Naga Langit</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi magis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Dapatkan keajaiban: Pembantaian Ilahi</SuitEffect.2.Description>
+		</Text>
+		<Text Name="fengjianzhen">
+			<DisplayName>Perkemahan Pedang Angsa Berapi</DisplayName>
+			<Description>Formasi magis berdasarkan studi tentang tubuh Vermillion Swan. Dikatakan bahwa itu adalah formasi yang digunakan untuk mengendalikan Vermillion Swan. Saat digunakan, Ia dapat memanfaatkan Qi dari Vermillion Bird Spirit untuk menggunakan Vermillion Phoenix Magic Qi yang kuat.</Description>
+			<NodeName.0>Armor Qi Api Sejati</NodeName.0>
+			<NodeName.1>Armor Terlupakan</NodeName.1>
+			<NodeName.2>ditutupi dengan pelindung energi</NodeName.2>
+			<NodeName.3>Armor Qi Tulang Hitam</NodeName.3>
+			<NodeName.4>Armor Qi Bulu Api</NodeName.4>
+			<NodeName.5>Armor Qi Bulu Api</NodeName.5>
+			<NodeName.6>Armor Qi Tulang Hitam</NodeName.6>
+			<NodeName.7>Armor Qi Bulu Api</NodeName.7>
+			<NodeName.8>Armor Qi Bulu Api</NodeName.8>
+			<SuitEffect.0.Description>Dapatkan sihir: Divine Flaming Swan Sword</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Dapatkan keajaiban: Nirwana</SuitEffect.2.Description>
+		</Text>
+		<Text Name="Yinyangzhen">
+			<DisplayName>Formasi Yin Yang</DisplayName>
+			<Description>Tata letak formasinya terinspirasi oleh aliran Qi antara langit dan bumi. Konon formasi ini melambangkan Yin dan Yang. Penyempurnaan energi Yin dan Yang membuat formasi Yi Yang menjadi sangat fleksibel.</Description>
+			<NodeName.0>Hukum Langit Hitam</NodeName.0>
+			<NodeName.1>Hukum Yin</NodeName.1>
+			<NodeName.2>Hukum Yang</NodeName.2>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi magis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tingkatkan pelindung energi</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tingkatkan kemampuan menggunakan kamp mekanis</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tingkatkan efisiensi kamp</SuitEffect.4.Description>
+		</Text>
+		<Text Name="Sanyinzhen">
+			<DisplayName>Perkemahan Roh Hitam</DisplayName>
+			<Description>Sebuah formasi berdasarkan studi tentang tiga talenta langit, bumi dan kemanusiaan. Dikatakan bahwa formasi ini menggunakan Yin Qi murni untuk membuatnya. Ini dapat meningkatkan kekuatan pengguna secara signifikan.</Description>
+			<NodeName.0>Yin Qi Surgawi</NodeName.0>
+			<NodeName.1>Dunia Yin Qi</NodeName.1>
+			<NodeName.2>Yin Qi Manusia</NodeName.2>
+			<SuitEffect.0.Description>Tingkatkan efisiensi kamp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Meningkatkan keterampilan energi magis</SuitEffect.1.Description>
+		</Text>
+		<Text Name="bamen_ji">
+			<DisplayName>Formasi Pedang Neraka: Kehidupan</DisplayName>
+			<Description>Dikatakan sebagai formasi yang menggunakan Hukum Delapan Arah. Tingkatkan kekuatan pelindung armor mendalam Anda dengan menarik kekuatan dari Gerbang Kehidupan.</Description>
+			<NodeName.0>pintu ketidakterbatasan</NodeName.0>
+			<NodeName.1>pintu kedamaian</NodeName.1>
+			<NodeName.2>pintu kehidupan</NodeName.2>
+			<SuitEffect.0.Description>Tingkatkan efisiensi kamp</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_xiong">
+			<DisplayName>Formasi Pedang Neraka: Kematian</DisplayName>
+			<Description>Dikatakan sebagai formasi yang menggunakan Hukum Delapan Arah. Meningkatkan kekuatan skill Spirit Weapon pengguna dengan menarik kekuatan dari gerbang kematian.</Description>
+			<NodeName.0>pintu kematian</NodeName.0>
+			<NodeName.1>pintu bencana</NodeName.1>
+			<NodeName.2>gerbang kehancuran</NodeName.2>
+			<SuitEffect.0.Description>Tingkatkan keterampilan senjata ajaib</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_zhong">
+			<DisplayName>Formasi Pedang Abyssal: Siklus Hidup dan Mati</DisplayName>
+			<Description>Dikatakan sebagai formasi yang menggunakan Hukum Delapan Arah. Ciptakan formasi dengan mengatur keseimbangan siklus hidup dan mati.</Description>
+			<NodeName.0>gerbang kemerdekaan</NodeName.0>
+			<NodeName.1>gerbang keindahan</NodeName.1>
+			<SuitEffect.0.Description>meningkatkan stabilitas</SuitEffect.0.Description>
+		</Text>
+		<Text Name="jiayimushenzhen">
+			<DisplayName>Perkemahan Pohon Roh</DisplayName>
+			<Description>Sebuah formasi yang diciptakan oleh Genesis Core dari Eastern Spirit Wood. Dikatakan sebagai formasi yang memiliki kemampuan untuk membangkitkan Qi langit dan bumi. Membantu meningkatkan daya regenerasi seluruh makhluk hidup.</Description>
+			<NodeName.0>Puncak Pohon Roh</NodeName.0>
+			<NodeName.1>Cabang Roh</NodeName.1>
+			<NodeName.2>Daun Roh</NodeName.2>
+			<NodeName.3>Batang Pohon Roh</NodeName.3>
+			<NodeName.4>Akar Pohon Roh</NodeName.4>
+			<SuitEffect.0.Description>Tingkatkan efisiensi kamp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan kemampuan menggunakan kamp mekanis</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Dapatkan keajaiban: Alam Kayu Roh</SuitEffect.2.Description>
+		</Text>
+		<Text Name="wuyuezhen">
+			<DisplayName>Formasi Konvergensi</DisplayName>
+			<Description>Sebuah formasi yang diciptakan oleh inti roh dari lima alam. Saat digunakan, itu akan menarik kekuatan ke lima alam dari berbagai arah. Mari kita ciptakan wilayah perlindungan yang tidak dapat dihancurkan.</Description>
+			<NodeName.0>Gunung Zamrud</NodeName.0>
+			<NodeName.1>jurang</NodeName.1>
+			<NodeName.2>pulau terpencil</NodeName.2>
+			<NodeName.3>suaka</NodeName.3>
+			<NodeName.4>Surga</NodeName.4>
+			<SuitEffect.0.Description>Tingkatkan pelindung energi</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tingkatkan efisiensi kamp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Dapatkan Mantra: Lima Alam</SuitEffect.2.Description>
+		</Text>
+	</List>
+</Texts>
