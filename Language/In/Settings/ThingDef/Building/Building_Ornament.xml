@@ -1,0 +1,119 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="OrnamentBase" sParam="Building">
+			<Desc>barang-barang dekoratif Ini mempengaruhi lima elemen lingkungan sesuai dengan bahan yang digunakan untuk membuatnya.</Desc>
+		</Text>
+		<Text Name="Building_StoneMan" sParam="Building">
+			<ThingName>patung batu</ThingName>
+		</Text>
+		<Text Name="Building_Flag1" sParam="Building">
+			<ThingName>bendera naga</ThingName>
+		</Text>
+		<Text Name="Building_Flag2" sParam="Building">
+			<ThingName>Bendera Tiga Arah</ThingName>
+		</Text>
+		<Text Name="Building_Flag3" sParam="Building">
+			<ThingName>Bendera Tai Chi</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion" sParam="Building">
+			<ThingName>singa batu</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion2" sParam="Building">
+			<ThingName>singa batu</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion3" sParam="Building">
+			<ThingName>singa batu</ThingName>
+		</Text>
+		<Text Name="Building_BigTripod" sParam="Building">
+			<ThingName>kompor</ThingName>
+		</Text>
+		<Text Name="Building_SmallTripod" sParam="Building">
+			<ThingName>kompor</ThingName>
+		</Text>
+		<Text Name="Building_BigCenser" sParam="Building">
+			<ThingName>pot</ThingName>
+		</Text>
+		<Text Name="Building_SmallCenser" sParam="Building">
+			<ThingName>pot</ThingName>
+		</Text>
+		<Text Name="Building_BigSwordPillar" sParam="Building">
+			<ThingName>Pedang Pertahanan</ThingName>
+			<Desc>Sebuah bangunan yang dapat mengaktifkan Formasi Pedang Pertahanan. Itu dapat diaktifkan untuk memblokir serangan musuh. Perisai hanya dapat melindungi murid dalam dan tidak dapat mengembalikan senjata ajaib.</Desc>
+		</Text>
+		<Text Name="Building_BigVase" sParam="Building">
+			<ThingName>vas</ThingName>
+		</Text>
+		<Text Name="Building_SmallVase" sParam="Building">
+			<ThingName>vas</ThingName>
+		</Text>
+		<Text Name="Building_Screen1" sParam="Building">
+			<ThingName>Partisi</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf" sParam="Building">
+			<ThingName>rak penyimpanan buku</ThingName>
+		</Text>
+		<Text Name="Building_ItemShelf" sParam="Building">
+			<ThingName>Berdiri</ThingName>
+			<Desc>Dapat digunakan untuk menyusun barang yang diinginkan.</Desc>
+		</Text>
+		<Text Name="Building_ShuZhuangTai" sParam="Building">
+			<ThingName>meja kaca</ThingName>
+		</Text>
+		<Text Name="Building_Tower" sParam="Building">
+			<ThingName>Pagoda yang sangat tinggi</ThingName>
+		</Text>
+		<Text Name="Building_Tower2" sParam="Building">
+			<ThingName>klenteng</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei" sParam="Building">
+			<ThingName>prasasti batu</ThingName>
+		</Text>
+		<Text Name="Building_Zhong" sParam="Building">
+			<ThingName>bel</ThingName>
+			<Desc>Lonceng besar yang bisa dibunyikan untuk memperingatkan dan memanggil semua murid luar untuk menghindari bahaya. Anda harus menekan getar dan menekan berhenti sendiri. Ini juga bisa digunakan sebagai hiasan. Hal ini mempengaruhi lima unsur lingkungan menurut materinya.</Desc>
+		</Text>
+		<Text Name="Building_Gu" sParam="Building">
+			<ThingName>kotak</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan1" sParam="Building">
+			<ThingName>Batu hiasan taman (puncak gunung)</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan2" sParam="Building">
+			<ThingName>Batu taman (lembah)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai1" sParam="Building">
+			<ThingName>Bonsai (hijau abadi)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai2" sParam="Building">
+			<ThingName>Bonsai (pohon pinus)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai3" sParam="Building">
+			<ThingName>Bonsai (pohon tegak)</ThingName>
+		</Text>
+		<Text Name="Building_Tower1" sParam="Building">
+			<ThingName>pagoda emas</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei1" sParam="Building">
+			<ThingName>Batu Kuat</ThingName>
+		</Text>
+		<Text Name="Building_Zhong1" sParam="Building">
+			<ThingName>lonceng naga</ThingName>
+		</Text>
+		<Text Name="Building_Gu1" sParam="Building">
+			<ThingName>gendang naga</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing" sParam="Building">
+			<ThingName>Aula Alkitab</ThingName>
+			<Desc>Rak yang digunakan untuk menyimpan berbagai kitab suci. Masing-masing berkapasitas 100 unit. Semakin tinggi level gulir, semakin banyak ruang yang digunakan.</Desc>
+		</Text>
+		<Text Name="Building_StoneYiJi1" sParam="Building">
+			<ThingName>Prasasti Batu Pixi</ThingName>
+		</Text>
+		<Text Name="Building_StoneYiJi2" sParam="Building">
+			<ThingName>Patung yang dihias</ThingName>
+		</Text>
+		<Text Name="Building_JuNengDeng" sParam="Building">
+			<ThingName>Kejadian Cahaya</ThingName>
+		</Text>
+	</List>
+</Texts>
