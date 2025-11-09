@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>Segel Senjata Ajaib</DisplayName>
+			<Desc>Dengan auman naga Akibatnya, senjata ajaib itu tersegel dan tidak bisa digunakan.</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>Segel energi magis</DisplayName>
+			<Desc>Dengan suara nyala api Black Vermillion Swan Akibatnya, energi magis tersegel dan tidak dapat digunakan.</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>bingung</DisplayName>
+			<Desc>bingung</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>Teknik khusus untuk pelatihan umum</DisplayName>
+			<Desc>Teknik khusus untuk pelatihan umum</Desc>
+		</Text>
+	</List>
+</Texts>
