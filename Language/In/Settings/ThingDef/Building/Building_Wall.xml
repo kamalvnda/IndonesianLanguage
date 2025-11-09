@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wall" sParam="Building">
+			<ThingName>dinding</ThingName>
+			<Desc>Struktur dasar yang digunakan untuk membuat ruangan tertutup. Ukuran ruangan harus berada dalam 3-400 ruang.</Desc>
+		</Text>
+		<Text Name="Barrier2" sParam="Building">
+			<ThingName>pagar</ThingName>
+			<Desc>Pagar batu atau logam sederhana digunakan untuk memisahkan bagian-bagian yang berbeda. Tidak dapat membuat ruangan</Desc>
+		</Text>
+		<Text Name="Barrier" sParam="Building">
+			<ThingName>pagar</ThingName>
+			<Desc>Rel kayu sederhana yang digunakan untuk memisahkan bagian-bagian yang berbeda. Tidak dapat membuat ruangan</Desc>
+		</Text>
+		<Text Name="Door" sParam="Building">
+			<ThingName>pintu</ThingName>
+			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan.\n(Pintu yang ditempatkan bersebelahan dan menghadap ke arah yang sama dianggap sebagai pintu yang sama.)</Desc>
+		</Text>
+		<Text Name="Door_SpringFestival" sParam="Building">
+			<ThingName>pintu</ThingName>
+			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan. Ada karakter keberuntungan yang tertulis di pintu untuk keberuntungan.\n(Pintu yang ditempatkan bersebelahan dan menghadap ke arah yang sama dianggap sebagai pintu yang sama.)</Desc>
+		</Text>
+		<Text Name="Door_WanYao" sParam="Building">
+			<ThingName>pintu</ThingName>
+			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan. Pintu itu diukir dan dihiasi dengan kepala binatang.\n(Pintu yang ditempatkan bersebelahan menghadap ke arah yang sama dianggap sebagai pintu yang sama.)</Desc>
+		</Text>
+		<Text Name="Firecracker" sParam="Building">
+			<ThingName>Kembang Api (Naga)</ThingName>
+			<Desc>Dapat membawa kebahagiaan bagi orang-orang Saat dinyalakan Kembang api lainnya Semua di dalam tiga kotak menyala secara bersamaan. Dikatakan bahwa sesuatu yang ajaib terjadi ketika sembilan kembang api dinyalakan sekaligus di bawah langit berbintang.</Desc>
+		</Text>
+		<Text Name="HideDoor" sParam="Building">
+			<ThingName>pintu masuk</ThingName>
+			<Desc>Hanya terlihat dalam pengeditan</Desc>
+		</Text>
+		<Text Name="AirWall" sParam="Building">
+			<ThingName>dinding udara</ThingName>
+			<Desc>Hanya terlihat dalam pengeditan</Desc>
+		</Text>
+	</List>
+</Texts>
