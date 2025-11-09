@@ -1,0 +1,792 @@
+<Texts Type="Other">
+<List>
+<Text Name="God2_Dan">
+ <DisplayName>Pil Kehendak Surga</DisplayName>
+ <Desc>Setelah selamat dari kesengsaraan surgawi, Anda mengintip melalui Dao Surgawi. Raih pemahaman agung Dao alkimia untuk mencuri Kehendak Surga dan menyempurnakan pil tertinggi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Membuka resep:\nHeaven's Will Pill[/color][/size]</EffectDesc>
+</Text>
+<Text Name="God2_Fabao">
+ <DisplayName>Harta Karun Surga</DisplayName>
+ <Desc>Setelah selamat dari kesengsaraan surgawi, Anda mengintip melalui Dao Surgawi. Raih pemahaman agung tentang penyempurnaan Dao untuk mencuri Kehendak Surga dan menyempurnakan harta karun tertinggi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan tingkat keberhasilan pemurnian harta karun\nSangat meningkatkan kecepatan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_1">
+ <DisplayName>Pemurnian Lima Mata Air</DisplayName>
+ <Desc>Bersihkan pikiran dan jiwa Anda dengan air dingin. Dengan mengembangkan hukum ini, Anda akan semakin meningkatkan komunikasi Anda dengan Langit dan Bumi. Ini akan membuat pikiran Anda lebih jernih dan meningkatkan tingkat penyerapan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan laju penyerapan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_2">
+ <DisplayName>Harmonisasi Qi Tertinggi</DisplayName>
+ <Desc>Mantra dari hukum Enam Belas Langkah Tertinggi Pencerahan yang memungkinkan penggunanya menyelaraskan Qi mereka. Kendalikan pikiran Anda sendiri dan arahkan aliran Qi sesuai keinginan Anda.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_3">
+ <DisplayName>Berkuda Angin</DisplayName>
+ <Desc>Sebuah metode rahasia menggunakan aliran angin untuk meningkatkan kecepatan senjata terbang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan perjalanan peta\nMeningkatkan kecepatan harta karun\nMeningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_4">
+ <DisplayName>Sirkulasi Ganas</DisplayName>
+ <Desc>Sebuah metode rahasia untuk menyempurnakan Qi ganas untuk memperkuat Jiwa Baru Lahir seseorang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sedikit Meningkatkan kekuatan mantra\nSedikit meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_5">
+ <DisplayName>Gelombang Arus</DisplayName>
+ <Desc>Kumpulkan semua Qi di tubuh Anda dan biarkan mengalir melalui meridian ke Dantian.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pengisian Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_6">
+ <DisplayName>Pengumpulan Air</DisplayName>
+ <Desc>Serap Qi Air Sejati Langit dan Bumi untuk menutupi kekurangan Houtian. Mempraktikkan metode ini secara fundamental meningkatkan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Secara mendasar meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_7">
+ <DisplayName>Bentuk Sejati Esensi Air</DisplayName>
+ <Desc>Sebuah metode rahasia menggunakan Air Sejati untuk menyehatkan darah seseorang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_8">
+ <DisplayName>Bentuk Sejati Qi Air</DisplayName>
+ <Desc>Sebuah metode rahasia menggunakan Air Sejati untuk menyehatkan meridian seseorang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pesona sebesar 0,5 poin\nSangat meningkatkan laju penyerapan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong1_Esoterica_9">
+ <DisplayName>Bentuk Sejati Roh Air</DisplayName>
+ <Desc>Sebuah metode rahasia menggunakan Air Sejati untuk menyehatkan pikiran seseorang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pemahaman sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_1">
+ <DisplayName>Metode Seratus Tempering</DisplayName>
+ <Desc>Praktek tingkat awal dari sekte Vermillion Cloud. Hal ini memungkinkan penggunanya untuk terus menerus melemahkan tubuhnya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 0,1 poin\nMeningkatkan Fisik sebesar 0,1 poin\n Sedikit meningkatkan Qi maksimum\n Sedikit meningkatkan tingkat keberhasilan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_2">
+ <DisplayName>Metode Pendinginan Rohani</DisplayName>
+ <Desc>Sebuah metode pendinginan material dengan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kualitas harta karun yang dimurnikan\nMeningkatkan tingkat keberhasilan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_3">
+ <DisplayName>Penggabungan Api Petir</DisplayName>
+ <Desc>Hukum rahasia untuk memadatkan petir di tubuh pengguna. Ini memiliki banyak efek yang menakjubkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat Memperluas batas suhu\nSangat Meningkatkan kekuatan mantra\nSangat meningkatkan tingkat keberhasilan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_4">
+ <DisplayName>Api Primordal Kemurnian Tertinggi</DisplayName>
+ <Desc>Hukum rahasia untuk memadatkan Api Primordal Kemurnian Tertinggi di tubuh pengguna. Ini memiliki banyak efek yang menakjubkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan tingkat keberhasilan pemurnian harta karun\nMeningkatkan kualitas harta karun yang dimurnikan[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_5">
+ <DisplayName>nyala api hati</DisplayName>
+ <Desc>Sebuah hukum rahasia untuk memadatkan Heartflame di tubuh pengguna. Ini memiliki banyak efek yang menakjubkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum\nMeningkatkan Pemahaman sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_6">
+ <DisplayName>Qi Sejati Kemurnian Tertinggi</DisplayName>
+ <Desc>Kumpulkan Qi primordial Langit dan Bumi dan sempurnakan menjadi Qi Sejati.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan attunement Qi sebanyak 2 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_7">
+ <DisplayName>Atlas Bahan</DisplayName>
+ <Desc>Sebuah buku tebal yang berisi sifat-sifat bahan yang paling umum. Ini meningkatkan tingkat keberhasilan pemurnian harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan tingkat keberhasilan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_8">
+ <DisplayName>Sepuluh Langkah Pemurnian Harta Karun</DisplayName>
+ <Desc>Panduan tingkat awal tentang pemurnian harta karun. Ini berisi sebagian besar praktik dasar seni ini.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pemurnian harta karun\nMeningkatkan tingkat keberhasilan pemurnian harta karun\nMeningkatkan kualitas harta karun yang dimurnikan\nMeningkatkan kualitas harta karun yang dimurnikan[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_9">
+ <DisplayName>Panduan Ukiran Giok</DisplayName>
+ <Desc>Sebuah manual dengan beberapa teknik ukiran harta karun. Teknik-teknik ini memungkinkan pengguna untuk meningkatkan kualitas harta karun yang dimurnikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kualitas harta karun yang dimurnikan\nMeningkatkan tingkat keberhasilan pemurnian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong2_Esoterica_10">
+ <DisplayName>Tesis Rahasia Pemahaman Kismet</DisplayName>
+ <Desc>Panduan rahasia sekte Vermillion Cloud tentang pemurnian harta karun. Ini berisi teknik pemurnian yang paling sakral dan tiada taranya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pemurnian harta karun\nSangat meningkatkan tingkat keberhasilan pemurnian harta karun\nSangat meningkatkan kualitas harta karun yang dimurnikan\nSangat meningkatkan kualitas harta karun yang dimurnikan\n\nMembuka jimat:\nPesona penciptaan harta karun\nPesona lima roh harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_1">
+ <DisplayName>Niat Membunuh</DisplayName>
+ <Desc>Teknik tingkat awal dari hukum Tujuh Pedang Pembantaian yang memungkinkan mengasah niat membunuh seseorang. Ini secara mendasar meningkatkan kekuatan serangan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nSecara mendasar meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_2">
+ <DisplayName>Tubuh Setan Tujuh Pembantaian</DisplayName>
+ <Desc>Gunakan niat membunuh untuk melemahkan meridian Anda, membentuk tubuh pembantaian. Sangat meningkatkan Fisik. Metode ini juga berisi resep untuk Pil Pedang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebanyak 1 poin\n Sedikit meningkatkan Qi maksimum\nMembuka resep: Pil pedang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_3">
+ <DisplayName>Maksud Pedang Iblis</DisplayName>
+ <Desc>Sebuah teknik dari Tujuh Pedang Pembantaian yang memasukkan niat jahat ke dalam pedang untuk meningkatkan kekuatannya secara signifikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nMeningkatkan kecepatan pengisian Qi harta\nmeningkatkan Qi maksimum harta\nMeningkatkan kecepatan pergerakan harta\nMeningkatkan kecepatan putaran harta\nMeningkatkan panjang jejak harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_4">
+ <DisplayName>Panduan Penguasaan Pedang</DisplayName>
+ <Desc>Teknik tingkat awal dari hukum Tujuh Pedang Pembantaian yang memungkinkan penggunanya menggunakan hartanya untuk waktu yang lama.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_5">
+ <DisplayName>Jiwa Pedang Bercahaya</DisplayName>
+ <Desc>Kembangkan persatuan ekstrim dengan pedang Anda. Matikan semua gangguan eksternal. Dapatkan jiwa tajam yang tiada tara.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nSecara mendasar meningkatkan kekuatan serangan harta karun\nSecara mendasar meningkatkan kecepatan pergerakan harta karun\nSecara mendasar meningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_6">
+ <DisplayName>Penyetelan Pedang</DisplayName>
+ <Desc>Selaraskan pikiran Anda dengan pedang. Berkomunikasi dengannya. Seperti air yang membawa ikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan kekuatan serangan harta secara mendasar\nMeningkatkan Qi maksimum harta secara mendasar\nMeningkatkan secara mendasar kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_7">
+ <DisplayName>Penguasaan Pedang Ilahi</DisplayName>
+ <Desc>Penuhi pedang dengan kesadaranmu dan gunakan niat pedangmu hingga batasnya. Asah penguasaan pedang Anda ke tingkat Keilahian.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nSecara mendasar meningkatkan kekuatan serangan harta karun\nSecara mendasar meningkatkan kecepatan pergerakan harta karun\nSecara mendasar meningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_8">
+ <DisplayName>Harmonisasi Pedang</DisplayName>
+ <Desc>Harmoniskan jiwamu dengan esensi pedang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan kekuatan serangan harta secara mendasar\nMeningkatkan Qi maksimum harta secara mendasar\nMeningkatkan secara mendasar kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_9">
+ <DisplayName>Pedang Tak Tertandingi</DisplayName>
+ <Desc>Semuanya lenyap ke dalam kehampaan. Hanya Pedang yang tersisa. Teknik ini sangat meningkatkan kondisi pikiran dan kecepatan pergerakan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kondisi pikiran\nSangat meningkatkan kecepatan pergerakan harta karun\nSangat meningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_10">
+ <DisplayName>Aku menjadi Pedang</DisplayName>
+ <Desc>Teknik Harmonisasi Pedang dipoles hingga mencapai kemampuan manusia yang ekstrim. Hukum ini sangat meningkatkan kondisi pikiran dan Qi harta karun secara maksimal.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kondisi pikiran\nSangat meningkatkan Qi maksimum harta\nSangat meningkatkan kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_11">
+ <DisplayName>Panduan serangan</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_12">
+ <DisplayName>Panduan tusukan</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_13">
+ <DisplayName>Panduan pemotongan</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_14">
+ <DisplayName>Istirahat manual</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_15">
+ <DisplayName>Panduan menyodok</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_16">
+ <DisplayName>Panduan potong</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_17">
+ <DisplayName>Blokir panduan</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_18">
+ <DisplayName>Panduan menangkis</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong3_Esoterica_19">
+ <DisplayName>Panduan terpisah</DisplayName>
+ <Desc>Sebuah manual dengan teknik tertentu dari hukum Tujuh Pedang Pembantaian. Mereka membutuhkan pelatihan tingkat ekstrim.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_1">
+ <DisplayName>Hukum Aliran Ilahi Istana Surgawi</DisplayName>
+ <Desc>Sebuah hukum rahasia yang berasal dari Istana Kunlun yang memungkinkan penggunanya melunakkan meridiannya dan meningkatkan Qi maksimumnya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum secara mendasar\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_2">
+ <DisplayName>Cerah seperti Debu</DisplayName>
+ <Desc>Sesuaikan Diri Anda dengan kehendak Surga. Lembutkan kecerahanmu, jadikan sama seperti debu.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Keberuntungan 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_3">
+ <DisplayName>Teknik Aliran Hebat</DisplayName>
+ <Desc>Teknik internal Istana Kunlun yang memungkinkan penggunanya menyesuaikan diri dengan aliran Qi Langit dan Bumi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Menurunkan waktu penggunaan mantra\nMenurunkan cooldown mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_4">
+ <DisplayName>Lima Asal Qi</DisplayName>
+ <Desc>Gambarkan lima elemen ke lima organ dan resonansikan di dalam tubuh Anda untuk meningkatkan umur panjang, meningkatkan Qi maksimum dan tingkat pengisian nutrisi dan air.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan umur panjang\nMeningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_5">
+ <DisplayName>Studi Segudang Hukum</DisplayName>
+ <Desc>Tinjau kembali hukum yang telah Anda pelajari sejauh ini dan perdalam pemahaman Anda tentang hukum tersebut. Menurunkan nilai Dao.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Menurunkan Dao sebesar 10 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_6">
+ <DisplayName>Hukum Agung Semangat Lembah</DisplayName>
+ <Desc>Semangat lembah tidak mati –
+Itu disebut feminin yang dalam dan misterius.
+Mempelajari hukum ini meningkatkan umur panjang pengguna dan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan umur panjang\nMeningkatkan Qi maksimum\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_7">
+ <DisplayName>Janin Purba</DisplayName>
+ <Desc>Teknik internal Istana Kunlun yang memungkinkan penggunanya membentuk Janin Asal dan memurnikannya menjadi Janin Purba. Ini akan sangat meningkatkan penyesuaian Nascent Soul dengan dunia luar.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pengisian Qi\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_8">
+ <DisplayName>Jiwa Logam yang Baru Lahir</DisplayName>
+ <Desc>Padatkan Qi logam di Jiwa Baru Lahir Anda, tingkatkan Indra dan kekuatan serangan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 0,2 poin\nMeningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_9">
+ <DisplayName>Jiwa Kayu yang Baru Lahir</DisplayName>
+ <Desc>Padatkan Qi kayu di Jiwa Baru Lahir Anda, tingkatkan Fisik dan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,2 poin\ninmeningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_10">
+ <DisplayName>Jiwa yang Baru Lahir Air</DisplayName>
+ <Desc>Padatkan Qi air di Jiwa Baru Lahir Anda, tingkatkan Pesona dan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pesona sebesar 0,2 poin\nMeningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_11">
+ <DisplayName>Api Jiwa yang Baru Lahir</DisplayName>
+ <Desc>Padatkan Qi api di Jiwa Baru Lahir Anda, tingkatkan Pemahaman dan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pemahaman sebesar 0,2\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong4_Esoterica_12">
+ <DisplayName>Jiwa yang Baru Lahir di Bumi</DisplayName>
+ <Desc>Padatkan Qi bumi dalam Jiwa Baru Lahir Anda, tingkatkan efektivitas perlindungan Keberuntungan dan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Keberuntungan 0,2 poin\nMeningkatkan efektivitas perlindungan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_1">
+ <DisplayName>Korosi Tubuh</DisplayName>
+ <Desc>Mantra ampuh Hukum Pencurian Surga yang menurunkan Pesona dan sedikit meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebanyak 0,3 poin\nMenurunkan Pesona sebanyak 1 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_2">
+ <DisplayName>Korosi Rasa</DisplayName>
+ <Desc>Mantra ampuh Hukum Pencurian Surga yang menurunkan Indra dan sedikit meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebanyak 0,3 poin\nMenurunkan Indra sebanyak 1 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_3">
+ <DisplayName>Korosi Pemahaman</DisplayName>
+ <Desc>Mantra ampuh Hukum Pencurian Surga yang menurunkan Pemahaman dan sedikit meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nMenurunkan Pemahaman sebesar 1 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_4">
+ <DisplayName>Korosi Keberuntungan</DisplayName>
+ <Desc>Mantra ampuh Hukum Pencurian Surga yang menurunkan Keberuntungan dan sedikit meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nMenurunkan Keberuntungan sebesar 1 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_5">
+ <DisplayName>Refleksi Sembilan Dunia</DisplayName>
+ <Desc>Setelah empat korosi, gunakan kekuatan pembusukan untuk menarik Qi Langit dan Bumi ke diri Anda. Ini sangat meningkatkan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_6">
+ <DisplayName>Reformasi Tulang Darah</DisplayName>
+ <Desc>Sebuah metode rahasia untuk memurnikan hati Anda sendiri, mengubah darah menjadi Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pengisian Qi\n Sedikit meningkatkan Qi maksimum\nMerusak jantung![/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_7">
+ <DisplayName>Perlindungan Darah</DisplayName>
+ <Desc>Sebuah teknik yang diturunkan oleh para penggarap kuno dari pertempuran tanpa akhir. Meningkatkan efektivitas perlindungan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan efektivitas perlindungan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_8">
+ <DisplayName>Metode Pernapasan Penyu</DisplayName>
+ <Desc>Metode pernapasan kuno yang memungkinkan penggunanya memperoleh umur panjang seperti kura-kura dengan meniru pernapasannya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_9">
+ <DisplayName>Pernapasan mati rasa</DisplayName>
+ <Desc>Perlambat nafas dan tenangkan hati agar terhindar dari tatapan Langit. Mempraktikkan metode ini akan sangat meningkatkan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_10">
+ <DisplayName>Surga Menipu</DisplayName>
+ <Desc>Sebuah teknik yang diturunkan dari zaman kuno. Mempraktikkannya akan menambah waktu sebelum kesengsaraan surgawi berikutnya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]sangat menambah waktu sebelum kesengsaraan surgawi berikutnya[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_11">
+ <DisplayName>Penjarahan Surga</DisplayName>
+ <Desc>Sebuah hukum rahasia dari zaman kuno. Ini dapat digunakan untuk menjarah Karunia Surgawi, sehingga meningkatkan umur panjang secara signifikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Mengalikan umur panjang alami sebanyak 5[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong5_Esoterica_12">
+ <DisplayName>Mencuri Surga</DisplayName>
+ <Desc>Curi kehidupan itu sendiri dari Surga Tinggi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_1">
+ <DisplayName>Pemurnian Tubuh Esensi Giok</DisplayName>
+ <Desc>Metode pemurnian Tao tingkat awal yang menggunakan esensi batu giok untuk memurnikan tubuh pengguna. Meningkatkan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nSecara mendasar meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_2">
+ <DisplayName>Nyanyian Pembersih Hati</DisplayName>
+ <Desc>Gunakan esensi batu giok untuk membersihkan hati Anda. Meningkatkan Pemahaman</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pemahaman sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_3">
+ <DisplayName>Hukum Kemurnian Kebajikan</DisplayName>
+ <Desc>Hukum Taoisme yang paling mendalam. Gunakan hukum ini untuk mengembangkan kebajikan tertinggi, memurnikan pikiran Anda. Meningkatkan kondisi pikiran.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan nilai dasar keadaan pikiran[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_4">
+ <DisplayName>Panduan pil</DisplayName>
+ <Desc>Kumpulan pil alkimia daois paling penting. Meningkatkan tingkat keberhasilan penyempurnaan pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan tingkat keberhasilan penyempurnaan pil\nMembuka resep:\nRamuan dasar\nPil Pemulihan Internal Lima Bentuk\nBubuk peremajaan\nRamuan kebahagiaan\nPil Inedia\nRamuan Penenang Hati[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_5">
+ <DisplayName>Ratusan Herbal dan Mineral</DisplayName>
+ <Desc>Mempelajari panduan ini akan membuat seseorang memahami banyak sekali hal yang ada antara Langit dan Bumi. Sangat meningkatkan pemurnian pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan tingkat keberhasilan pemurnian pil\nMeningkatkan kecepatan pemurnian pil\nMembuka resep:\nPil Penetral Logam\nPil Musim Semi Hijau\nBubuk Pencahar Surga\nPil Api Sejati\nCampuran Penstabil Bumi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_6">
+ <DisplayName>Manual Pil Tertinggi</DisplayName>
+ <Desc>Panduan alkimia tertinggi. Berisi studi alkimia Taoisme selama ribuan tahun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Membuka resep:\nRamuan Matahari Ungu\nRamuan Istana Kuning\nRamuan Kecambah Kuning\nResin Sanguis Draconis\nRamuan Panjang Umur\nBubuk Kontinuitas Roh Lembah\nRamuan Emas Sembilan Putaran\nBubuk Roh Segudang\n\nMembuka jimat:\nPil Ilahi pesona\nSegudang pesona pil\n\nSangat meningkatkan hasil pemurnian pil\nSangat meningkatkan tingkat keberhasilan pemurnian pil\nMeningkatkan kecepatan pemurnian pil[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_7">
+ <DisplayName>Kejelasan Visi</DisplayName>
+ <Desc>Dengan mencuci mata dengan ramuan khusus, Anda akan bisa melihat lebih jelas. Meningkatkan Indra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_8">
+ <DisplayName>Sembilan Langkah Pemurnian</DisplayName>
+ <Desc>Sebuah manual kuno yang berisi sembilan langkah spesifik dalam mengoperasikan tungku alkimia. Sangat meningkatkan tingkat keberhasilan penyempurnaan pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan tingkat keberhasilan penyempurnaan pil[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_9">
+ <DisplayName>Metode Pemurnian Cepat</DisplayName>
+ <Desc>Metode rahasia penyempurnaan pil yang sangat meningkatkan kecepatan penyempurnaan pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan penyempurnaan pil[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_10">
+ <DisplayName>Metode Ekstraksi Esensi</DisplayName>
+ <Desc>Metode rahasia penyempurnaan pil yang sangat meningkatkan hasil penyempurnaan pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan hasil pemurnian pil[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_11">
+ <DisplayName>Metode Pemurnian Roh</DisplayName>
+ <Desc>Metode rahasia penyempurnaan pil yang sangat meningkatkan tingkat keberhasilan penyempurnaan pil.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan tingkat keberhasilan penyempurnaan pil[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_12">
+ <DisplayName>Panduan Nutrisi Ramuan</DisplayName>
+ <Desc>Sebuah manual yang berisi tentang cara-cara menutrisi tubuh dengan ramuan obat. Meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_13">
+ <DisplayName>Teknik Penyempurnaan Residu</DisplayName>
+ <Desc>Sebuah teknik canggih dari manual Herb Nourishment yang menggunakan esensi medis residensial untuk memperkuat pikiran seseorang. Meningkatkan Qi maksimum dan meningkatkan laju penyerapan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum\nMeningkatkan laju penyerapan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong6_Esoterica_14">
+ <DisplayName>Kanon Internal Tertinggi</DisplayName>
+ <Desc>Sebuah manual rahasia tertinggi yang berisi pengetahuan mendalam tentang tubuh manusia. Sangat meningkatkan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_1">
+ <DisplayName>Penempaan Pikiran</DisplayName>
+ <Desc>Sebuah teknik untuk meredam pikiran seseorang. Meningkatkan nilai dasar suasana hati dan kecepatan kultivasi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan nilai dasar suasana hati\nMeningkatkan kecepatan kultivasi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_2">
+ <DisplayName>Tonglen</DisplayName>
+ <Desc>Menjadi gunung dan sungai, rumput dan pepohonan, bukan badai dan hujan. Rasakan kasih sayang terhadap semua makhluk hidup. Sedikit meningkatkan Pesona dan kondisi pikiran.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pesona sebesar 0,3 poin\nMeningkatkan kondisi pikiran[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_3">
+ <DisplayName>Satu dengan Semua Makhluk</DisplayName>
+ <Desc>Menjadi satu dengan burung, binatang, dan manusia. Rasakan pikiran dari segudang makhluk. Mempraktikkan hukum ini Sangat meningkatkan Pesona dan Kefasihan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pesona sebesar 0,5 poin\nSangat meningkatkan Kefasihan\nSangat meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_4">
+ <DisplayName>Hukum Pemutusan Emosi Tertinggi</DisplayName>
+ <Desc>Rasakan berbagai bentuk kasih sayang. Parah semuanya. Dengan demikian, tidak akan ada lagi rahasia di dunia Manusia. Anda akan lengkap.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan nilai suasana hati dasar\nMenghilangkan kemampuan untuk merasakan sakit[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_5">
+ <DisplayName>Terlahir Kembali Baru</DisplayName>
+ <Desc>Buang diri Anda yang lama dan jadilah segar kembali. Sangat meningkatkan kekuatan fisik dan pemulihan tubuh.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,5\nSangat meningkatkan kekuatan pemulihan tubuh[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_6">
+ <DisplayName>Kitab Suci Budidaya Diri</DisplayName>
+ <Desc>Kumpulan teknik untuk memperbaiki diri. Meningkatkan Pesona dan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pesona sebesar 0,3 poin\nMeningkatkan Qi maksimum secara mendasar\nMeningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_7">
+ <DisplayName>Batalkan Meditasi</DisplayName>
+ <Desc>Metode pemurnian berkelanjutan dari Ultimate Heaven Palace. Meningkatkan kondisi pikiran dan kecepatan kultivasi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan nilai dasar keadaan pikiran\nMeningkatkan kecepatan kultivasi\nMeningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_8">
+ <DisplayName>Kanon umur panjang</DisplayName>
+ <Desc>Panduan aneh dari klan abadi abadi. Mempraktikkan metodenya akan memungkinkan pengguna untuk melunakkan titik akupuntur dan meridiannya. Sangat meningkatkan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan umur panjang[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_9">
+ <DisplayName>Tubuh Awan Dewa Angin</DisplayName>
+ <Desc>Tuhan dan Yang Esa adalah sama. Angin dan Awan mengikuti Tubuh. Hukum ini meningkatkan Qi maksimum dalam jumlah besar dan meningkatkan Mantra secara signifikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum dalam jumlah besar\nMeningkatkan Pesona sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_10">
+ <DisplayName>Satu Potong untuk Melihat Diri Sendiri</DisplayName>
+ <Desc>Teknik mental tertinggi dari Supreme Affection Severing Dao. Satu pemotongan cepat akan membuat seseorang melihat Jati Diri yang sebenarnya. Sangat meningkatkan kecepatan budidaya dan kekuatan serangan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan budidaya\nSangat meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_11">
+ <DisplayName>Pedang Hati</DisplayName>
+ <Desc>Sebuah teknik pedang yang mampu menembus hati manusia. Ia memiliki kekuatan yang menakutkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nMeningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_12">
+ <DisplayName>Pedang Tujuh Kasih Sayang</DisplayName>
+ <Desc>Kumpulkan tujuh kasih sayang di pedang Anda, tingkatkan Qi maksimumnya secara signifikan. Tujuh kasih sayang menyebabkan penderitaan, menurunkan kecepatan pengisian Qi harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum harta\nMenurunkan kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong7_Esoterica_13">
+ <DisplayName>Pedang Kasih Sayang Ekstrim</DisplayName>
+ <Desc>Kumpulkan kasih sayang yang ekstrim di ujung pedang Anda. Tidak ada yang tidak bisa dipotong.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kekuatan serangan harta karun\nSangat meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_1">
+ <DisplayName>hukum Xianwu</DisplayName>
+ <Desc>Bermeditasilah di jantung Xianwu, duduk di Bintang Utara. Hukum ini meletakkan dasar bagi Great Bear Piercing Heart. Mempelajari hukum ini akan menstabilkan pikiran Anda.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan Pemahaman sebesar 0,3 poin\nMeningkatkan kekuatan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_2">
+ <DisplayName>Sutra Sinan</DisplayName>
+ <Desc>Sebuah metode rahasia untuk melemahkan diri sendiri dengan kekuatan bintang. Ini adalah dasar dari hukum Great Bear. Meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nMeningkatkan Qi maksimum\ninmeningkatkan Qi maksimum harta\nMeningkatkan kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_3">
+ <DisplayName>Mantra Dubhe</DisplayName>
+ <Desc>Pinjam kekuatan Dubhe untuk Anda gunakan sendiri. cahayanya memiliki niat membunuh yang menakutkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_4">
+ <DisplayName>Mantra Merak</DisplayName>
+ <Desc>Pinjam kekuatan Merak untuk digunakan sendiri, cahayanya terus berkedip.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan putaran harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_5">
+ <DisplayName>Mantra Phecda</DisplayName>
+ <Desc>Pinjam kekuatan Phecda untuk Anda gunakan sendiri, cahayanya memiliki aura kekaisaran yang tak tergoyahkan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan ketahanan mengusir harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_6">
+ <DisplayName>Mantra Megrez</DisplayName>
+ <Desc>Pinjam kekuatan Megrez untuk Anda gunakan sendiri, cahayanya menekan semua kekacauan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan Qi maksimum harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_7">
+ <DisplayName>Mantra Alioth</DisplayName>
+ <Desc>Pinjam kekuatan Alioth untuk Anda gunakan sendiri, cahayanya memenuhi alam semesta.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_8">
+ <DisplayName>Mantra Mizar</DisplayName>
+ <Desc>Pinjam kekuatan Mizar untuk Anda gunakan sendiri, cahayanya menyinari dunia yang paling jauh.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan jarak tolak harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_9">
+ <DisplayName>Mantra Alkaid</DisplayName>
+ <Desc>Pinjam kekuatan Alkaid untuk Anda gunakan sendiri, cahayanya tidak bisa lepas.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_10">
+ <DisplayName>Batas Beruang Besar - Mantra Tujuh Bintang</DisplayName>
+ <Desc>Teknik rahasia utama dari hukum Beruang Besar. Kekuatannya tiada taranya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nMeningkatkan kecepatan pergerakan harta karun\nMeningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_11">
+ <DisplayName>Mantra Hati Kosong</DisplayName>
+ <Desc>Arahkan kesadaran Anda ke alam semesta yang luas dan singkirkan Ego Anda. Meningkatkan kondisi pikiran.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan nilai suasana hati dasar[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_12">
+ <DisplayName>Mantra Pemurnian Darah</DisplayName>
+ <Desc>Sempurnakan darah Anda sendiri untuk meningkatkan semua atribut. Melakukan hal ini akan mengurangi umur panjang Anda sebanyak 120 tahun dan Qi maksimum Anda sebesar 10%.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Menurunkan umur panjang\nPada dasarnya Menurunkan Qi maksimum\nMeningkatkan semua atribut 0,25 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong8_Esoterica_13">
+ <DisplayName>Mata Bintang</DisplayName>
+ <Desc>Buka mata Anda terhadap kedalaman bintang-bintang. Sangat meningkatkan Indra dan memungkinkan seseorang menembus semua kegelapan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 1 poin\nMenampilkan seluruh area[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_1">
+ <DisplayName>Pemandangan Samsara</DisplayName>
+ <Desc>Dengan mempraktekkan cara ini anda akan mampu mengetahui rahasia dunia ini. Ini akan sangat meningkatkan Indra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_2">
+ <DisplayName>Tiga Dunia</DisplayName>
+ <Desc>Masuki keadaan tanpa pikiran dan lihatlah sekilas tiga dunia, secara bertahap bersihkan diri Anda. Dengan mempraktikkan metode ini, Anda akan menghilangkan rasa takut akan kematian dan menjernihkan pikiran. Meningkatkan kecepatan budidaya.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan kultivasi\nMeningkatkan kondisi pikiran[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_3">
+ <DisplayName>Tulisan Kehidupan dan Kematian</DisplayName>
+ <Desc>Rekaman kuno tentang transformasi yang terjadi antara kematian dan kelahiran kembali. Itu telah diwariskan oleh makhluk abadi kepada keturunan mereka di zaman kuno. Memahami tulisan-tulisan ini meningkatkan umur panjang dan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan umur panjang\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_4">
+ <DisplayName>Tubuh Reinkarnasi</DisplayName>
+ <Desc>Dengan mempraktikkan metode rahasia dari tulisan Kehidupan dan Kematian ini, Anda secara bertahap akan membentuk kembali tubuh Anda menjadi Tubuh Reinkarnasi. Sangat Meningkatkan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat Meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_5">
+ <DisplayName>Jantung Reinkarnasi</DisplayName>
+ <Desc>Sebuah ajaran tentang suka dan duka dari seratus reinkarnasi. Merenungkannya akan menenangkan pikiran Anda, memungkinkan Anda melihat berbagai macam dharma dan memperoleh Hati Reinkarnasi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kondisi pikiran\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_6">
+ <DisplayName>Kitab Suci Reinkarnasi</DisplayName>
+ <Desc>Sebuah kitab suci yang berasal dari Dunia Bawah. Ini adalah kitab inti dari Hukum Reinkarnasi Umur Panjang. Merenungkan kitab suci ini pada dasarnya akan Meningkatkan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum secara mendasar[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_7">
+ <DisplayName>Menutrisi Tubuh</DisplayName>
+ <Desc>Pinjam energi kehidupan antara Langit dan Bumi untuk menopang tubuh Anda. Latihan ini sedikit meningkatkan Fisik dan meningkatkan laju penyerapan Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nSedikit meningkatkan laju penyerapan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_8">
+ <DisplayName>Ensiklopedia Majemuk</DisplayName>
+ <Desc>Memahami kesatuan segala sesuatu. Bahkan kerikil yang paling sederhana pun memiliki esensi yang sama dengan batu giok yang tiada taranya. Mempraktikkan metode ini akan meningkatkan kendali Anda atas harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nMeningkatkan kecepatan pengisian Qi harta\ninmeningkatkan maksimum Qi harta\nMeningkatkan kecepatan pergerakan harta\nMeningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_9">
+ <DisplayName>Pernapasan Alami</DisplayName>
+ <Desc>Harmoniskan pernapasan Anda dengan denyut Langit dan Bumi, semakin menyatu dengan dunia. Teknik ini meningkatkan Qi maksimum dan meningkatkan kecepatan pengisian Qi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum\nMeningkatkan kecepatan pengisian Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_10">
+ <DisplayName>Transformasi Janin</DisplayName>
+ <Desc>Sebuah hukum rahasia yang memungkinkan penggunanya untuk membentuk kembali tubuhnya, meningkatkan Fisik, Pesona dan potensi bawaan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nMeningkatkan Pesona sebesar 0,3 poin\nMeningkatkan potensi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_11">
+ <DisplayName>Sutra Pemahaman Ilahi</DisplayName>
+ <Desc>Pahami misteri Enam Jalan. Mempraktikkan sutra ini meningkatkan Pemahaman.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pemahaman sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_12">
+ <DisplayName>Tubuh Deva: Gulir Pertama</DisplayName>
+ <Desc>Tahap awal mengubah tubuh Anda menjadi Tubuh Deva, yang akan meningkatkan umur panjang, meningkatkan kekuatan pemulihan tubuh, dan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]meningkatkan umur panjang\nMeningkatkan kekuatan pemulihan tubuh\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_13">
+ <DisplayName>Badan Pemahaman: Gulir Pertama</DisplayName>
+ <Desc>Gunakan misteri Enam Jalan untuk membentuk kembali tubuh Anda. Metode ini cocok untuk para kultivator dengan fondasi yang tidak stabil setelah melakukan terobosan gegabah ke ranah Inti Emas. Ini pada dasarnya akan meningkatkan Qi maksimum dalam jumlah besar.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Secara mendasar meningkatkan Qi maksimum dalam jumlah besar[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong9_Esoterica_14">
+ <DisplayName>Tubuh Asura: Gulir Pertama</DisplayName>
+ <Desc>Gunakan pemahaman Anda tentang Jalan Asura untuk mengubah tubuh Anda, meningkatkan kekuatan tempur secara signifikan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nMeningkatkan kekuatan mantra\nMeningkatkan efektivitas perlindungan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_1">
+ <DisplayName>Catatan rahasia kekaisaran</DisplayName>
+ <Desc>Hukum rahasia yang sudah lama hilang. Mempraktikkannya pada dasarnya akan meningkatkan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Pada dasarnya Meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_2">
+ <DisplayName>Tiga Hati Matahari Merah</DisplayName>
+ <Desc>Mantra ini akan memacu aliran Qi dalam tubuh Anda sesuai dengan detak jantung Anda. Ini meningkatkan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Memperluas batas suhu\nMeningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_3">
+ <DisplayName>Kitab Suci Fajar Sejati</DisplayName>
+ <Desc>Pinjam kekuatan Matahari untuk mengisi mantramu. Sangat Meningkatkan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat Meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_4">
+ <DisplayName>Pemurnian Tubuh Api Sejati</DisplayName>
+ <Desc>Tempelkan tubuh Anda dengan Api Sejati Langit dan Bumi. Meningkatkan kekuatan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_5">
+ <DisplayName>Menatap matahari</DisplayName>
+ <Desc>Renungkan wujud asli Matahari, kumpulkan Qi-nya. Latihan ini akan meningkatkan Qi maksimal Anda.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_6">
+ <DisplayName>Lima organ temper</DisplayName>
+ <Desc>Latihan ini terdiri dari menempa kelima organ dalam Anda dengan api batin. Ini memperkuat organ dalam Anda, sedikit meningkatkan statistik primer dan meningkatkan tingkat konversi esensi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan statistik utama sebesar 0,2 poin\nMeningkatkan rasio konversi esensi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_7">
+ <DisplayName>Tiga meridian Yang</DisplayName>
+ <Desc>Latihan ini terdiri dari meredam meridian Anda menggunakan tiga api Yang. Ini meningkatkan Qi maksimum dan meningkatkan Fisik.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum\nMeningkatkan Fisik sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_8">
+ <DisplayName>api jantung</DisplayName>
+ <Desc>Nyalakan True Fetalfire di hatimu, sangat mengurangi cooldown mantra dan konsumsi Qi mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Menurunkan cooldown mantra\nMenurunkan konsumsi Qi mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_9">
+ <DisplayName>Mantra Api Surgawi</DisplayName>
+ <Desc>Mantra api rahasia. Memahaminya akan sangat meningkatkan kerusakan mantra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kerusakan mantra[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_10">
+ <DisplayName>Pembersihan pikiran</DisplayName>
+ <Desc>Gunakan teknik ini untuk membersihkan pikiran Anda dengan api batin. Sangat meningkatkan Pemahaman.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Pemahaman sebesar 0,5 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong10_Esoterica_11">
+ <DisplayName>Sebagai Satu dengan Skyfire</DisplayName>
+ <Desc>Mempraktikkan hukum ini Sangat meningkatkan Keberuntungan.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Keberuntungan 0,25 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_1">
+ <DisplayName>Patung Tubuh Yin Yang Lebih Besar</DisplayName>
+ <Desc>Tempelkan tubuh Anda dengan Qi Yin Besar. Jika dilakukan oleh laki-laki, jenis kelaminnya akan berubah.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Transformasi tubuh Yin Murni\nPada dasarnya meningkatkan Qi maksimum\nMeningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_2">
+ <DisplayName>Hukum Pengendalian Yin Sejati</DisplayName>
+ <Desc>Sebuah hukum yang memungkinkan penggunanya mengendalikan harta mereka dengan kekuatan Yin Murni. Sangat meningkatkan kecepatan pergerakan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pergerakan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_3">
+ <DisplayName>Perisai Energi Kosmik</DisplayName>
+ <Desc>Sebuah panduan rahasia tentang kondensasi energi Yin asli untuk memperkuat pertahanan seseorang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan efektivitas perlindungan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_4">
+ <DisplayName>Dewa dalam Kekosongan</DisplayName>
+ <Desc>Temukan rezeki di kehampaan untuk melihat para dewa. Ini adalah misteri tertinggi dari hukum Ilahi Pemurnian Bunga Matahari.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Keberuntungan sebanyak 1 poin\nSangat meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_5">
+ <DisplayName>Hukum Bumi yang Hebat</DisplayName>
+ <Desc>Visualisasikan bentuk Bumi Besar dan pinjam kekuatannya. Meningkatkan Qi maksimum.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_6">
+ <DisplayName>Visi Ilahi</DisplayName>
+ <Desc>Dengan kekuatan Yin Murni terkonsentrasi di mata Anda, semua ilusi akan hilang. Meningkatkan Indra.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Indra sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_7">
+ <DisplayName>Delapan Tubuh Ekstremitas</DisplayName>
+ <Desc>Langit dan Bumi memiliki delapan ekstremitas. Begitu pula dengan tubuh manusia. Berkonsentrasilah pada delapan meridian Anda dan perbarui tubuh Anda.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebesar 0,3 poin\nMeningkatkan Pesona sebesar 0,3 poin[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_8">
+ <DisplayName>Langkah Tuhan</DisplayName>
+ <Desc>Setiap langkah dewa mencakup sepuluh ribu Li.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pergerakan\nMeningkatkan kecepatan perjalanan peta[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_9">
+ <DisplayName>Kebajikan Besar</DisplayName>
+ <Desc>Tanahnya sangat luas. Orang yang mulia membawa kebajikan yang besar bersamanya. Mempraktikkan metode ini akan meningkatkan kebajikan, melemahkan kesengsaraan surgawi dan sangat meningkatkan umur panjang.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan umur panjang dalam jumlah besar[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_10">
+ <DisplayName>Pedang Spektral</DisplayName>
+ <Desc>Hukum anggar yang berasal dari Netherworld. Memberikan peningkatan kematian dengan imbalan stamina.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nPada dasarnya Menurunkan Qi maksimum harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_11">
+ <DisplayName>Tebasan Instan</DisplayName>
+ <Desc>Teknik quickslash mendalam yang berasal dari Netherworld.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kecepatan pergantian harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_12">
+ <DisplayName>Teknik Yin Yang Lebih Besar</DisplayName>
+ <Desc>Sebuah teknik dari Netherworld yang memungkinkan penggunanya untuk mengilhami harta mereka dengan Yin Murni, meningkatkan ketahanan terhadap penolakan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan ketahanan mengusir harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_13">
+ <DisplayName>Aura Neraka</DisplayName>
+ <Desc>Teknik pedang dari Netherworld yang menurunkan kecepatan pengisian Qi harta karun, namun sangat meningkatkan kekuatan serangan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan serangan harta karun\nSedikit menurunkan kecepatan pengisian Qi harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_14">
+ <DisplayName>Penghancuran Nether</DisplayName>
+ <Desc>Teknik pedang dari Netherworld. Sangat meningkatkan kekuatan serangan harta karun.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Sangat meningkatkan kekuatan serangan harta karun[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_15">
+ <DisplayName>Misteri Klasik Ibu Pertiwi</DisplayName>
+ <Desc>Buku tebal ini berisi banyak teknik yang meningkatkan pengendalian jiwa seseorang. Konon buku tebal ini berasal dari Enam Istana Ibu Pertiwi.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan attunement Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong11_Esoterica_16">
+ <DisplayName>Yin Qi Sejati</DisplayName>
+ <Desc>Sempurnakan untaian Yin Qi primordial, tingkatkan Qi maksimum dalam jumlah besar.</Desc>
+ <EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum sebesar 15.000 poin[/color][/size]</EffectDesc>
+</Text>
+
+<Text Name="Gong12_Esoterica_1">
+<DisplayName>Manual Mantra Umum</DisplayName>
+<Desc>Satu set simbol pesona umum.</Desc>
+<EffectDesc>Membuka jimat:\nPesona yang merobek ruang\nPesona Kehendak Surga\nPesona ketenangan\nPesona kecerdasan\nPesona kesatria</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_2">
+<DisplayName>Atlas Pesona Misterius</DisplayName>
+<Desc>Atlas rahasia yang berisi diagram pesona untuk meningkatkan pertahanan seseorang.</Desc>
+<EffectDesc>Membuka jimat:\nPesona Perisai Misterius</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_3">
+<DisplayName>Catatan Mantra Pedang</DisplayName>
+<Desc>Catatan rahasia yang berisi diagram pesona untuk meningkatkan kekuatan harta karun seseorang.</Desc>
+<EffectDesc>Membuka jimat:\nPesona Pedang Tajam</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_4">
+<DisplayName>Simbol Mantra Mantra</DisplayName>
+<Desc>Sebuah buku rahasia yang berisi diagram pesona untuk meningkatkan kekuatan mantra seseorang.</Desc>
+<EffectDesc>Membuka jimat:\nPesona Mantra Ampuh</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_5">
+<DisplayName>Metode Pesona Bakat Ilahi</DisplayName>
+<Desc>Pesona yang telah lama hilang ini dapat meningkatkan kemampuan pemakainya, bahkan mengubah manusia biasa menjadi jenius yang tiada tara.</Desc>
+<EffectDesc>Membuka pesona:\nPesona Bakat Ilahi</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_6">
+<DisplayName>Mantra Karunia Surgawi</DisplayName>
+<Desc>Menurut catatan kuno, jimat ini dapat menarik kekuatan Dao Surgawi.</Desc>
+<EffectDesc>Membuka jimat:\nPesona Hadiah Surgawi</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_7">
+<DisplayName>Keilahian yang Tak Tertandingi</DisplayName>
+<Desc>Pada zaman kuno para penggarap dewa, jimat ini tersebar luas dan sangat populer. Sayangnya, pengetahuan tentang pesona ini perlahan-lahan memudar hingga terlupakan.</Desc>
+<EffectDesc>Membuka pesona:\nPesona Kediaman Ilahi\nPesona Rasa Ilahi\nPesona Keilahian\nPesona Kemanusiaan</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_8">
+<DisplayName>Metode Berkuda Awan</DisplayName>
+<Desc>Metode aneh yang lahir dari mempelajari pergerakan awan ini dapat meningkatkan kecepatan terbang seseorang secara signifikan.</Desc>
+<EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan terbang secara signifikan[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_9">
+<DisplayName>Metode Pertemuan Qi</DisplayName>
+<Desc>Metode pengumpulan Qi yang unik ini dapat meningkatkan Qi maksimal seseorang.</Desc>
+<EffectDesc>[size=10][color=#D06508]Meningkatkan Qi maksimum sebesar 1000 poin.[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_10">
+<DisplayName>Kanon Kemacetan Awan</DisplayName>
+<Desc>Dengan mengkondensasi Qi dalam tubuh seseorang menjadi bentuk seperti awan, seseorang dapat meningkatkan pertahanan Qi mereka secara signifikan.</Desc>
+<EffectDesc>[size=10][color=#D06508]Meningkatkan Pertahanan Qi[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_11">
+<DisplayName>Kanon Surgawi</DisplayName>
+<Desc>Pada zaman kuno, orang-orang hidup selama seratus musim, sambil mempertahankan kekuatan mereka. Mempraktikkan teknik ini dapat meningkatkan Fisik dan umur panjang.</Desc>
+<EffectDesc>[size=10][color=#D06508]Meningkatkan Fisik sebanyak 2 poin dan Umur Panjang sebanyak 300 tahun.[/color][/size]</EffectDesc>
+</Text>
+<Text Name="Gong12_Esoterica_12">
+<DisplayName>Gulungan Kayu Timur</DisplayName>
+<Desc>Serangkaian teknik yang berasal dari Kuil Kayu Timur. Hal ini memungkinkan penggunanya untuk membagi kesadaran mereka menjadi beberapa bagian.</Desc>
+<EffectDesc>[size=10][color=#D06508]Menambahkan satu helai kesadaran[/color][/size]</EffectDesc>
+</Text>
+</List>
+</Texts>
