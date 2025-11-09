@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_TaiShi">
+			<DisplayName>Tai Sue</DisplayName>
+			<Desc>Mulai permainan baru dengan 3 peristiwa Kekacauan Surgawi yang telah diperbaiki.</Desc>
+			<Trigger.StartGame.Extent.Desc>Sebuah cerita baru telah dimulai. Dao Tai Si Surgawi mulai bergerak...</Trigger.StartGame.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhong">
+			<DisplayName>Taichung</DisplayName>
+			<Desc>Setiap 10/50/100 hari, memicu salah satu dari tiga jenis Kekacauan Surgawi: Turbulen/Yin Yang/Tetap.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>Seiring berjalannya waktu Beberapa perubahan telah terjadi di dunia...</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>Seiring berjalannya waktu Dunia telah mengalami perubahan...</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>Seiring berjalannya waktu Dunia telah mengalami perubahan besar...</Trigger.Time.Days.2.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhen">
+			<DisplayName>Tai Zhen</DisplayName>
+			<Desc>Meningkatkan tingkat reputasi sekte sebanyak 1 tingkat akan merangsang Kekacauan Surgawi Yin Yang 1 kali; Setiap 6 kali, itu akan memicu Kekacauan Surgawi statis.</Desc>
+			<TriggerInfo.Desc>Level klan meningkat. Aktifkan Tao Zhen Surgawi</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>reputasi[SCHOOL]Meningkat, menstimulasi Tao Zhen Surgawi...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>reputasi[SCHOOL]meroket hingga dikenal di seluruh dunia Dan dia tidak menyangka hal itu akan merangsang Dao Surgawi Tai Zhen. Salah satu Dao Surgawi</Trigger.School.Score.1.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXu">
+			<DisplayName>Sawi Thailand</DisplayName>
+			<Desc>Terobosan setiap murid sekte memiliki kesempatan untuk memprovokasi Kekacauan Surgawi satu kali.</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC]Baru saja memulai jalan menuju keabadian Merangsang Tao Surga, Tai Xu...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>pelatihan dari[NPC]Maju, rangsang Tao Tai Xu surgawi...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC]Mengetahui jalan besar Menyebabkan gerakan abnormal di Dao Tai Xu Surgawi…</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC]Raih Tao dan terlahir kembali ke surga. Merangsang kekacauan di Dao Tai Xu Surgawi...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXuan">
+			<DisplayName>Tai Xuan</DisplayName>
+			<Desc>Efek dari Turbulent Heavenly Chaos atau Yin Yang tidak dapat dipilih sendiri.</Desc>
+		</Text>
+		<Text Name="Mutation_TaiYi">
+			<DisplayName>Tai Yi</DisplayName>
+			<Desc>Setelah kekacauan Turbulensi Surgawi diaktifkan, Memiliki peluang untuk mengatur ulang satu efek Kekacauan.</Desc>
+		</Text>
+		<Text Name="Mutation_TaiJi">
+			<DisplayName>Tai Chi</DisplayName>
+			<Desc>Saat menerima Kekacauan Surgawi yang bergejolak atau Yin dan Yang Ini memperluas jangkauan acak dari hasil tersebut.</Desc>
+		</Text>
+	</List>
+</Texts>
