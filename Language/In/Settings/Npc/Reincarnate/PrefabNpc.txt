@@ -1,0 +1,11 @@
+ID	IsHide	Desc	Sex	IsRealReincarnate	LastName	FristName	Age	BodyType	Hair	Beard	BodyColor	BackStory1	BackStory2	BackStory3	Feature1	Feature2	Experience1	Experience2	Experience3
+
+-1	2	Reincarnator who had lost their identity. No one knows who they are or where are they from. (Empty)	1	0															
+1	1		1	0	Zi	Feiyu	45	1	10	5	3	200045	200046	200027	LunHui_1	LunHui_2	Experiences6	Experiences11	Experiences13
+2	0		1	0	Zhou	Young Lord	22	1	9		3	200043	200044	200028	LunHui_4				
+3	0	This Reincarnator is in commemoration of the spring of 2017.	1	0	Xu	Wugui	27	1	8		3	200023	200035		LunHui_5				
+4	0	This Reincarnator is in commemoration of the spring of 2017.	1	0	Yang	Large	32	2	3		3	200023	200034		LunHui_2	HighMan			
+5	0		1	0	Dou	Dou	27	1	2		3	23	200026						
+6	0		1	0	Mi	Bo	14	1	9		0	23			SonOfDestiny	LunHui_2	Experiences4	Experiences8	Experiences26
+7	0		1	0	Ji	Xing	20	1	3		0	8			SonOfDestiny				
+8	0		2	0	Zhao	Yishan	29	2	4		0	23			SonOfDestiny				
