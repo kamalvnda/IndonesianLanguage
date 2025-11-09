@@ -1,0 +1,109 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NormalFun">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Dia menghela nafas panjang.</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Dance">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj] [name]Saya tidak sengaja menendang dan memukul [obj_nearthing].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj] [name]Pergelangan kaki saya terkilir secara tidak sengaja</Events.14.Story>
+		</Text>
+		<Text Name="Fun_Music">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj] [name]Dia tidak bisa menahan diri untuk tidak bersenandung pelan.</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayBird">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj] [name]Aku hanya bisa menangis pelan.</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Calligraphy">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya menumpahkan tinta.</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayChess">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] yang ada di dekatnya.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa telah melakukan kesalahan dan marah pada diri sendiri.</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayTicTacToe">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba, pikiranku[name]Saya mulai tertidur dan memikirkan tentang [obj_friend], teman saya.[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya mulai merasa tertarik dengan [obj_nearthing] di sekitar.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]tiba-tiba terdiam[name]Saya merasa bijaksana. [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]sendirian Tiba-tiba, banyak pikiran dan perasaan mulai memasuki pikirannya.[name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa ingin menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya merasa sulit bernapas.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] sementara[obj]Tiba-tiba[name]Saya ingin bepergian [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>tindakan[obj]terganggu[name]Hanya [obj_badmood] yang dapat menghilangkan rasa frustrasi tersebut.</Events.11.Story>
+			<Events.12.Story>[name]Sangat ceria karena [obj_goodmood] dan mau tidak mau[obj]dengan senang hati</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] [name]Pasir tiba-tiba terbang ke matanya saat dia berada[obj]</Events.13.Story>
+		</Text>
+	</List>
+</Texts>
