@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>gandum</ThingName>
+			<Desc>sumber makanan utama Meski membutuhkan waktu lama untuk tumbuh Namun merupakan tanaman yang sangat tangguh. Ia dapat tumbuh dengan baik pada suhu antara keduanya[temperature]0[/temperature]ke[temperature]40[/temperature]Ia juga menghasilkan buah yang banyak dalam setiap panennya.</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>tumbuhan liar</ThingName>
+			<Desc>Ramuan umum yang banyak digunakan dan sering digunakan dalam sediaan obat. Itu bisa tumbuh pada suhu antara[temperature]10[/temperature]ke[temperature]40[/temperature]hanya</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>kapas</ThingName>
+			<Desc>Sumber utama bahan baku produksi kain Ia dapat tumbuh dengan baik pada suhu antara keduanya[temperature]5[/temperature]ke[temperature]35[/temperature]Anda dapat menemukannya selama petualangan Anda di Gunung Liang.</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>jamur</ThingName>
+			<Desc>Jamur umumnya tumbuh pada suhu antara[temperature]18[/temperature]ke[temperature]23[/temperature]dan hanya dapat tumbuh di lingkungan yang gelap.</Desc>
+		</Text>
+	</List>
+</Texts>
