@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Build_Discipline">
+			<DisplayName>Balai Penegakan Hukum</DisplayName>
+			<Desc>Aula Yudisial adalah tempat para murid melakukan upacara inisiasi mereka. dan upacara pencemaran nama baik yang dapat dilihat oleh penduduk desa secara umum. Upacara ini Dengan membuka Balai Hukum, Anda dapat menggunakannya untuk mengendalikan kerusuhan tetapi menghukum pelaku kesalahan.</Desc>
+		</Text>
+		<Text Name="Build_Secret">
+			<DisplayName>paviliun rahasia</DisplayName>
+			<Desc>Paviliun rahasia tersembunyi di sudut dan biasanya tidak terbuka. tontonan masyarakat umum Membuka kunci paviliun rahasia akan membuka kunci perintah perencanaan. Untuk memanfaatkan kekuatan perwakilan biro lain. tidak stabil</Desc>
+		</Text>
+		<Text Name="Build_Sermon">
+			<DisplayName>kuil suci</DisplayName>
+			<Desc>Di dalam kuil terdapat patung dewa yang diciptakan untuk disembah masyarakat dan sebagai penyemangat untuk membantu menyebarkan ajaran aliran tersebut. Membuka kunci Kuil Suci akan membuka Perintah Penyebaran. Untuk digunakan untuk meyakinkan orang agar percaya pada kantor Anda.</Desc>
+		</Text>
+		<Text Name="Build_Recuit">
+			<DisplayName>Aula Grandmaster Roh</DisplayName>
+			<Desc>Aula Master Jiwa digunakan untuk upacara perekrutan. Orang yang cocok dapat melamar untuk bergabung dengan sekte Anda di sini. Membuka Kunci Aula Grandmaster Jiwa akan Membuka kunci perintah perekrutan Digunakan untuk merekrut orang-orang berbakat untuk bergabung dengan sekte tersebut.</Desc>
+		</Text>
+	</List>
+</Texts>
