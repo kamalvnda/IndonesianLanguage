@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="affix_1">
+			<Display>demonisasi</Display>
+			<Desc>[color=#B0FA6B][size=18]· Ada kemungkinan besar hewan akan berubah menjadi monster saat dibunuh.[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_2">
+			<Display>Saturasi Qi obat</Display>
+			<Desc>[color=#B0FA6B][size=18]· Berhasil meramu obat akan meningkatkan lima elemen Qi di tempat kejadian. sesuai dengan kadar dan unsur obatnya[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_5">
+			<Display>Pemujaan setan</Display>
+			<Desc>[color=#B0FA6B][size=18]· Aktifkan Pemujaan Setan\n · Gunakan Pemujaan Setan di Istana Leluhur.[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_3">
+			<Display>Sumber daya yang melimpah</Display>
+			<Desc>[size=18]· Meningkatkan jumlah barang yang dijatuhkan dari setan dan hewan.\n · Pedagang akan memiliki barang dagangan dua kali lebih banyak.[/size]</Desc>
+		</Text>
+		<Text Name="affix_4">
+			<Display>hewan peliharaan roh</Display>
+			<Desc>[size=18]· Mulailah dengan hewan peliharaan Huajuan\n · Nutrisi yang lebih baik dari memelihara hewan peliharaan.[/size]</Desc>
+		</Text>
+		<Text Name="challenge_affix_1">
+			<Display>Setan Gila</Display>
+			<Desc>· Meningkatkan kesulitan serangan iblis.</Desc>
+		</Text>
+		<Text Name="challenge_affix_2">
+			<Display>Cuaca yang bergejolak</Display>
+			<Desc>· Meningkatkan efek negatif cuaca\n · Meningkatkan tingkat kesulitan pelatihan anti-kemalangan.</Desc>
+		</Text>
+	</List>
+</Texts>
