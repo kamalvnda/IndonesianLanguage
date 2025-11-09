@@ -1,0 +1,113 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Dice" sParam="Item">
+			<ThingName>dadu</ThingName>
+			<Desc>Sepasang dadu yang dapat digunakan untuk menghilangkan rasa bosan dan meningkatkan mood di waktu luang. Namun hal itu akan menghambat efisiensi kerja.</Desc>
+			<Item.FabaoSuffix>dadu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SmallBell" sParam="Item">
+			<ThingName>bel</ThingName>
+			<Desc>Lonceng kecil yang Anda bawa akan membantu meningkatkan mood Anda dan menarik perhatian orang lain. Buat mereka lebih tertarik untuk berkomunikasi dengan Anda.</Desc>
+			<Item.FabaoSuffix>bel</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bracelet" sParam="Item">
+			<ThingName>gelang</ThingName>
+			<Desc>Mengenakan sepasang gelang membuat penampilan Anda semakin menawan.</Desc>
+			<Item.FabaoSuffix>Gelang, diukir</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Handkerchief" sParam="Item">
+			<ThingName>kain flanel</ThingName>
+			<Desc>Membawa saputangan akan membuat Anda terlihat seperti orang yang sopan di mata orang lain.</Desc>
+			<Item.FabaoSuffix>saputangan, sutra, tekstil</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PerfumeBag" sParam="Item">
+			<ThingName>Sachet beraroma</ThingName>
+			<Desc>Kantong kecil berisi ramuan dan rempah-rempah aromatik Ini meningkatkan kondisi mental ketika dikenakan oleh murid batin.</Desc>
+			<Item.FabaoSuffix>tas</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WhiteHair" sParam="Item">
+			<ThingName>Puisi sedih</ThingName>
+			<Desc>Puisi sedih yang dikumpulkan menjadi sebuah buku Kesedihan yang mendalam akan menyebabkan orang yang membawanya diwarnai dengan kesedihan hingga rambutnya memutih. Yang menambah pesona pemakainya</Desc>
+			<Item.FabaoSuffix>volume, buku, slip, gulir</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+			<ThingName>dunia yang indah</ThingName>
+			<Desc>Kotak dari dunia lain Benamkan diri Anda dalam gameplay yang menyenangkan dan mengesankan.</Desc>
+			<Item.FabaoSuffix>kotak</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+			<ThingName>Hati berdoa</ThingName>
+			<Desc>Harta karun yang tercipta dari doa orang-orang biasa untuk hidup bahagia.</Desc>
+			<Item.FabaoSuffix>jantung</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+			<ThingName>Jarum Ilahi Timur</ThingName>
+			<Desc>Benda ini awalnya adalah pedang ajaib dari master abadi. Meski telah kehilangan seluruh kekuatannya dalam proses reinkarnasi bersama tuannya, Namun esensinya yang luar biasa masih tetap ada.</Desc>
+			<Item.FabaoSuffix>jarum</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+			<ThingName>batu giok putih</ThingName>
+			<Desc>Sepotong Batu Giok Putih yang ditinggalkan oleh Guru Kayu Putih. Meskipun terlihat sangat biasa, namun dapat meningkatkan daya tahan alami pemakainya secara signifikan.</Desc>
+			<Item.FabaoSuffix>batu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+			<ThingName>lukisan empat musim</ThingName>
+			<Desc>Diagram misterius dengan kekuatan luar biasa tersembunyi. Itu telah ditinggalkan oleh Immortal Qinglian. Mereka yang membawanya dapat menggunakan Qi alami empat musim di alam semesta tanpa batas untuk menipu langit, sehingga menghindari hukuman surgawi selama sembilan tahun jika mereka tidak membawa Lukisan Empat Musim selama ini. Hukuman surgawi akan segera muncul di hadapan orang tersebut.</Desc>
+			<Item.FabaoSuffix>gambar</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Other_PuppetTest" sParam="Item">
+			<ThingName>wayang</ThingName>
+			<Desc>Boneka tersebut konon dibuat dengan menggunakan metode rahasia untuk meningkatkan Qi boneka tersebut untuk mengendalikannya sesuai keinginan sesuai dengan metode yang tersedia dalam Enam Belas Langkah Teknik Budidaya Abadi.</Desc>
+			<Item.FabaoSuffix>wayang</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_RabbitLuck" sParam="Item">
+			<ThingName>Kaki Kelinci Setan</ThingName>
+			<Desc>Dikatakan membawa keberuntungan bagi yang membawanya.</Desc>
+		</Text>
+		<Text Name="Item_Yao_WolfAtk" sParam="Item">
+			<ThingName>Serigala Setan Fang</ThingName>
+			<Desc>Taring iblis serigala yang utuh dan penuh energi negatif. Memakainya akan meningkatkan kekuatan senjata ajaib secara signifikan.</Desc>
+		</Text>
+		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+			<ThingName>Skala Setan Ular</ThingName>
+			<Desc>Sisik iblis ular itu mengandung Yin Qi yang padat di dalamnya. Hal ini membuat orang yang membawanya lebih tahan terhadap panas. Ini juga membantu meningkatkan kondisi mental Anda.</Desc>
+		</Text>
+		<Text Name="Item_Yao_BearPiMao" sParam="Item">
+			<ThingName>Bulu Setan Beruang Liar</ThingName>
+			<Desc>Bulu keras di leher babi hutan itu menyembunyikan Yang Qi di dalamnya. Menjadikan yang membawanya lebih tahan terhadap dingin. Itu juga meningkatkan kecepatan kultivasi.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TurtleKe" sParam="Item">
+			<ThingName>cangkang kura-kura raksasa</ThingName>
+			<Desc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TigerZhui" sParam="Item">
+			<ThingName>Tulang Setan Harimau</ThingName>
+			<Desc>Tulang harimau dengan kekuatan tirani tersembunyi di dalamnya. Memakainya akan menambah pesona dan benih dao pemakainya.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CattleJiao" sParam="Item">
+			<ThingName>Tanduk Setan Banteng</ThingName>
+			<Desc>Tanduk kuat dari setan banteng Memakainya meningkatkan keanggunan pemakainya.</Desc>
+		</Text>
+		<Text Name="Item_Yao_ChickenGuan" sParam="Item">
+			<ThingName>mahkota emas</ThingName>
+			<Desc>Cockscomb berharga yang dimiliki oleh Cock Demon yang menyimpan kekuatan esensi matahari di dalamnya. Memakainya meningkatkan kecerdasan pemakainya.</Desc>
+		</Text>
+		<Text Name="Item_StoneCutter" sParam="Item">
+			<ThingName>pisau pemotong batu</ThingName>
+			<Desc>Pisau yang sangat tumpul. Awalnya pisau yang digunakan untuk menambang. Itu bisa meningkatkan kecepatan konstruksi murid luar.</Desc>
+		</Text>
+		<Text Name="Item_SewingDefender" sParam="Item">
+			<ThingName>menjahit ban lengan</ThingName>
+			<Desc>Meskipun terlihat seperti ban lengan pada umumnya, namun dapat mempercepat pekerjaan menjahit dengan meningkatkan tenaga pada bagian siku.</Desc>
+		</Text>
+		<Text Name="Item_MillVell" sParam="Item">
+			<ThingName>masker</ThingName>
+			<Desc>Masker yang membuat Anda tidak dapat dikenali saat digunakan untuk menutupi wajah. Jadi Anda bisa menguleni adonan atau mempercepat kerajinan lainnya. sesuai keinginan Karena tidak ada yang tahu apakah Anda baik-baik saja atau tidak.</Desc>
+		</Text>
+		<Text Name="Item_Sys_RanSeYu" sParam="Item">
+			<ThingName>batu giok yang diwarnai</ThingName>
+			<Desc>Jenis batu giok khusus yang diaktifkan dengan merapal mantra. Ia berubah menjadi asap dan menempel pada seseorang sehingga lebih sulit dideteksi. Namun, orang yang melemparkannya masih bisa merasakan rasanya.</Desc>
+			<Item.FabaoSuffix>giok</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
