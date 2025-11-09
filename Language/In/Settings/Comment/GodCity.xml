@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCityGod_Gong_1">
+			<Title>Alam Ilahi – Dewa Petir Sembilan Surga</Title>
+			<Desc>Alam Ilahi yang diciptakan oleh Sembilan Dewa Petir Surgawi.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_2">
+			<Title>Alam Ilahi – Kebijaksanaan Ilahi Delapan Surga</Title>
+			<Desc>Alam Ilahi yang diciptakan oleh Delapan Dewa Jalan Surgawi.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_3">
+			<Title>Alam para dewa - dewa dari sepuluh neraka besar</Title>
+			<Desc>Alam ilahi yang diciptakan oleh sepuluh dewa neraka besar.</Desc>
+		</Text>
+	</List>
+</Texts>
