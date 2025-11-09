@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="KunLunA">
+			<IVNUMBER.0.Animal.DisplayName>kandang kucing</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor kucing dalam keadaan sadar. Pelatihan yang diterima dari sekte tersebut memberikan kenangan terkait potensinya.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="KunLunAL">
+			<IVNUMBER.0.Animal.DisplayName>Kandang kucing biasa</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor kucing dalam keadaan sadar. Ia menerima kebijaksanaan rasa takut.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Kandang kucing biasa</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor kucing dalam keadaan sadar. Ia menerima kebijaksanaan pemikiran.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Kandang kucing biasa</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor kucing dalam keadaan sadar. Ia menerima kebijaksanaan kebahagiaan.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Kandang kucing biasa</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor kucing dalam keadaan sadar. Ia menerima kebijaksanaan kemarahan.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Kandang kucing biasa</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor kucing yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kecemasan.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>
