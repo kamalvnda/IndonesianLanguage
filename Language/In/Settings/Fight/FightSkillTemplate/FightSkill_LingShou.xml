@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_SheildSkill">
+			<DisplayName>Perisai Roh</DisplayName>
+		</Text>
+		<Text Name="Ls_TransferQi">
+			<DisplayName>Nyanyian Pengabdian</DisplayName>
+		</Text>
+		<Text Name="Ls_FabaoSkill">
+			<DisplayName>Pedang Ilahi</DisplayName>
+		</Text>
+		<Text Name="Ls_FoxSkillAmp">
+			<DisplayName>Terik</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater">
+			<DisplayName>Banjir Guntur</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater5">
+			<DisplayName>Guntur Banjir Besar</DisplayName>
+		</Text>
+		<Text Name="Ls_Fanshi">
+			<DisplayName>Menyerang balasan</DisplayName>
+			<Desc>Menimbulkan sejumlah kerusakan yang berhubungan dengan Max Qi artefak musuh, serta menonaktifkan kemampuannya untuk menggunakan artefak tersebut selama jangka waktu tertentu.</Desc>
+		</Text>
+		<Text Name="Ls_Penhuo">
+			<DisplayName>Letusan Api</DisplayName>
+		</Text>
+		<Text Name="Ls_Ci">
+			<DisplayName>Sinar Metamagnetik</DisplayName>
+		</Text>
+		<Text Name="Ls_JinThunder">
+			<DisplayName>Baut Ilahi</DisplayName>
+		</Text>
+		<Text Name="Ls_AddModifier">
+			<DisplayName>Perlindungan</DisplayName>
+			<Desc>Sangat meningkatkan kekuatan Penghalang Qi dan Ketangguhan Tubuh Rahasianya.</Desc>
+		</Text>
+		<Text Name="Ls_Confuse">
+			<DisplayName>Bingung</DisplayName>
+			<Desc>Membuat bingung musuh sehingga tidak bisa menyerang atau bergerak, namun akan terbangun jika diserang.</Desc>
+		</Text>
+		<Text Name="Ls_Rongduan">
+			<DisplayName>Sekering</DisplayName>
+			<Desc>Gunakan kekuatan inferno untuk menimbulkan kerusakan yang dapat didistribusikan pada musuh, serta menonaktifkan kemampuannya untuk mengeluarkan mantra selama jangka waktu tertentu.</Desc>
+		</Text>
+	</List>
+</Texts>
