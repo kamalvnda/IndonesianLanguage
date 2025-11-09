@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_3">
+			<DisplayName>Sepuluh dewa neraka</DisplayName>
+			<Desc>Sebuah metode untuk mengembangkan kekuatan para dewa yang telah lama menghilang sejak zaman kuno. Ini adalah metode penanaman dengan mengambil keyakinan makhluk hidup untuk mengubahnya menjadi kekuatan ilahi. Berbagai sekte yang mempraktikkan penanaman dewa semuanya memiliki metode penanaman yang serupa. Perbedaannya hanya pada metode mengubah kekuatan iman menjadi mentransformasikan energi ilahi dan menggunakan energi ilahi tersebut sebagai media untuk memanggil dewa penjaga yang berbeda. Sepuluh Teknik Ilahi Neraka Besar diwarisi dari Dewa Besar yang menguasai Dunia Bawah. Dengan mempraktikkan teknik ini, praktisi akan dapat menggunakan kekuatan Alam Kematian sebagai media untuk memanggil malaikat pelindung dari Alam Kematian. Teknik ini unik karena menciptakan armor Qi yang kuat.</Desc>
+			<SelectDesc>Penggarap Jalan Ilahi berbeda dari Penggarap Jalan Suci karena mereka mengandalkan keyakinan makhluk hidup untuk berlatih. Dan meskipun tidak ada persyaratan bakat untuk mengembangkan Jalan Ilahi, Namun Anda tetap harus memiliki tingkat kecerdasan yang sangat tinggi jika ingin mencapai puncak. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Kultivasi Ilahi?</SelectDesc>
+			<Stages.0.DisplayName>pertapa</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Pengorbanan</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Sempurnakan pikiran Anda</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>penciptaan</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Alam para dewa</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Perintah: Malaikat Roh</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Perintah: Roh Jenderal</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Perintah: Ketidakkekalan</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Perintah: Penghakiman</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.4.DisplayName>Alam para dewa</Stages.2.Necks.4.DisplayName>
+			<Stages.3.DisplayName>nirwana</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Di atas dunia</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
