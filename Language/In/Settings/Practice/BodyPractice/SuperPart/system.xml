@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<Prefix>kehilangan sesuatu</Prefix>
+			<Desc>kehilangan sesuatu</Desc>
+		</Text>
+		<Text Name="_SYS_CORE_">
+			<Prefix>tubuh</Prefix>
+			<Desc>tubuh</Desc>
+		</Text>
+	</List>
+</Texts>
