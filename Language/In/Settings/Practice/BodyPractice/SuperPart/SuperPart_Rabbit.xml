@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Rabbit_1">
+			<Prefix>mata</Prefix>
+			<Suffix>Giok Darah</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kelinci Primordial. Tanamkan mata dengan nyala api yang sebenarnya dan gunakan untuk merangsang qi kayu di hati. Ibaratnya kayu adalah bahan bakarnya. Ketika pelatihan mencapai tingkat tertinggi, ia akan dapat merasakan perubahan halus dalam aliran Qi secara maksimal.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan akurasi serangan Hidden Physique.\n Sedikit meningkatkan peluang keberhasilan pertahanan Mysterious Physique.</Levels.0.Desc>
+			<Levels.1.Title>Lantai dua</Levels.1.Title>
+			<Levels.1.Desc>Sedikit meningkatkan peluang untuk menekan senjata ajaib Fisik Misterius.\n Sedikit meningkatkan peluang menyerang melalui armor Qi dari Penggarap Fisik Abadi.</Levels.1.Desc>
+			<Levels.2.Title>Lantai tiga</Levels.2.Title>
+			<Levels.2.Desc>Sedikit meningkatkan efisiensi gerakan nafas Penggarap Fisik Abadi.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Rabbit_2">
+			<Prefix>kaki</Prefix>
+			<Suffix>Menginjak awan</Suffix>
+			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kelinci Primordial. yang membentuk telinga dan kaki dengan teknik rahasia dan menggabungkan fungsinya secara harmonis. Hal ini menghasilkan kecepatan yang tak terbayangkan dan indra persepsi yang sempurna.</Desc>
+			<Levels.0.Title>Lantai pertama</Levels.0.Title>
+			<Levels.0.Desc>Sangat meningkatkan basis penghindaran dari Penggarap Fisik Abadi.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
