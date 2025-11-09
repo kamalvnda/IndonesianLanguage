@@ -1,0 +1,50 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="GodStory_1">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>saat berangkat[NAME]Dia telah menyebarkan ajaran dan membantu orang-orang yang tidak memiliki latar belakang kultivasi apa pun sepanjang perjalanannya.</Desc>
+			<Selections.0.Display>Tidak masalah, itu bagus.</Selections.0.Display>
+		</Text>
+		<Text Name="GodStory_2">
+			<DisplayName>Sebarkan ajarannya</DisplayName>
+			<Desc>saat berangkat[NAME]Bertemu orang-orang tanpa latar belakang yang membutuhkan bantuan dan membantu mereka.</Desc>
+			<Selections.0.Display>Tidak masalah, itu bagus.</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_1">
+			<DisplayName>Perang Alam Manusia</DisplayName>
+			<Desc>[NAME]bergegas untuk[PLACE]dan menemukan banyak korban perang yang menderita di sini.</Desc>
+			<Selections.0.Display>Menuntut penghentian perang</Selections.0.Display>
+			<Selections.1.Display>Hentikan perang dengan menggunakan kekuatan.</Selections.1.Display>
+			<Selections.1.Tip>inti emas</Selections.1.Tip>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_2">
+			<DisplayName>bencana epidemi</DisplayName>
+			<Desc>[NAME]bergegas untuk[PLACE]dan menemukan bahwa ada epidemi parah yang menyebar ke seluruh negeri. Banyak warga kota yang meninggal.</Desc>
+			<Selections.0.Display>Membantu menyelamatkan warga kota</Selections.0.Display>
+			<Selections.0.Tip>inti emas</Selections.0.Tip>
+			<Selections.1.Display>Kunci kota dan karantina pasien.</Selections.1.Display>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_3">
+			<DisplayName>Iblis di alam manusia</DisplayName>
+			<Desc>[NAME]bergegas untuk[PLACE]dan menemukan bahwa ada banyak setan berkumpul di sini. Orang-orang di sini berada dalam kekacauan.</Desc>
+			<Selections.0.Display>Berencana untuk mengusir iblis</Selections.0.Display>
+			<Selections.1.Display>Gunakan kekuatan untuk mengusir iblis.</Selections.1.Display>
+			<Selections.1.Tip>inti emas</Selections.1.Tip>
+			<Selections.2.Display>meninggalkan</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_4">
+			<DisplayName>bencana alam</DisplayName>
+			<Desc>ketika[NAME]bergegas untuk[PLACE] [ENHIM]Ternyata situasi di sini sangat kacau. Orang-orang berteriak ketakutan dan berusaha melarikan diri dari bencana tersebut.</Desc>
+			<Selections.0.Display>Bantu warga kota</Selections.0.Display>
+			<Selections.1.Display>meninggalkan</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_Gong_God_1">
+			<DisplayName>Mata pelajaran yang hilang</DisplayName>
+			<Desc>Kapan[NAME]Tiba di lembah yang disebutkan Tiba-tiba, ada kilatan petir yang samar-samar. Itu menebas, yang berbeda dari sambaran petir biasa. Sepertinya ada sesuatu yang luar biasa di sini.</Desc>
+			<Selections.0.Display>Lihatlah lembahnya</Selections.0.Display>
+			<Selections.1.Display>meninggalkan</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>
