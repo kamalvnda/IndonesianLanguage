@@ -1,0 +1,9 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse">
+			<DisplayName>Kontrak jiwa</DisplayName>
+			<Desc>Ucapkan mantra pada binatang iblis tingkat rendah dan segel ke dalam kontrak.</Desc>
+			<TargetDesc>Pilih binatang yang tidak sadarkan diri.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
