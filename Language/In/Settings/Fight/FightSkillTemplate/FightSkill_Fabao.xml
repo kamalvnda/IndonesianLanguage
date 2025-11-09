@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TFabaoSkill">
+			<DisplayName>Peningkatan Artefak</DisplayName>
+		</Text>
+		<Text Name="FabaoSkill_Gong3_1">
+			<DisplayName>Pisau Resonansi</DisplayName>
+		</Text>
+		<Text Name="FabaoSkill_Gong8_1">
+			<DisplayName>Memiliki Pedang Utara</DisplayName>
+		</Text>
+	</List>
+</Texts>
