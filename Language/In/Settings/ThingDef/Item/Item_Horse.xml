@@ -1,0 +1,46 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_HorseBase" sParam="Item">
+			<Item.FabaoSuffix>gulir, gambar, kontrak</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
+			<ThingName>Kontrak Jiwa: Kelinci Setan</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
+			<ThingName>Kontrak Jiwa: Setan Ayam</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
+			<ThingName>Kontrak Jiwa: Serigala Setan</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
+			<ThingName>Kontrak Jiwa: Setan Ular</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
+			<ThingName>Kontrak Jiwa: Babi Hutan</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
+			<ThingName>Kontrak Jiwa: Beruang Setan</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
+			<ThingName>Kontrak Jiwa: Katak Setan</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
+			<ThingName>Kontrak Jiwa: Turtle Demon</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
+			<ThingName>Kontrak Jiwa: Setan Kucing</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
+			<ThingName>Kontrak Jiwa: Setan Banteng</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
+			<ThingName>Kontrak Jiwa: Setan Harimau</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromLuShu" sParam="Item">
+			<ThingName>Kontrak Jiwa: Lu Su</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromFei" sParam="Item">
+			<ThingName>Kontrak Jiwa: Fei</ThingName>
+		</Text>
+	</List>
+</Texts>
