@@ -1,0 +1,214 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Shit">
+			<DisplayName>Bau busuk</DisplayName>
+		</Text>
+		<Text Name="BurnScar">
+			<DisplayName>terbakar</DisplayName>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>bekas luka</DisplayName>
+		</Text>
+		<Text Name="Osteodynia">
+			<DisplayName>nyeri tulang</DisplayName>
+		</Text>
+		<Text Name="DeformedSkeleton">
+			<DisplayName>salah format</DisplayName>
+		</Text>
+		<Text Name="ViscusInjury">
+			<DisplayName>cedera dalam</DisplayName>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>gangguan pendengaran</DisplayName>
+		</Text>
+		<Text Name="MeridianBlocking">
+			<DisplayName>Titik fokus denyut nadi menyempit.</DisplayName>
+		</Text>
+		<Text Name="Palpitation">
+			<DisplayName>Jantung berdebar-debar</DisplayName>
+		</Text>
+		<Text Name="Poisoning1">
+			<DisplayName>Keracunan (sedikit)</DisplayName>
+		</Text>
+		<Text Name="Poisoning2">
+			<DisplayName>Keracunan (sedang)</DisplayName>
+		</Text>
+		<Text Name="Poisoning3">
+			<DisplayName>Keracunan (parah)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing1">
+			<DisplayName>Pembekuan darah (sedikit)</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing2">
+			<DisplayName>Pembekuan darah (parah)</DisplayName>
+		</Text>
+		<Text Name="Cold1">
+			<DisplayName>Dingin (sedikit)</DisplayName>
+		</Text>
+		<Text Name="Cold2">
+			<DisplayName>Dingin (parah)</DisplayName>
+		</Text>
+		<Text Name="Fracture1">
+			<DisplayName>retakan</DisplayName>
+		</Text>
+		<Text Name="Fracture2">
+			<DisplayName>merusak</DisplayName>
+		</Text>
+		<Text Name="Fracture3">
+			<DisplayName>mengurangi</DisplayName>
+		</Text>
+		<Text Name="Fracture4">
+			<DisplayName>hancur</DisplayName>
+		</Text>
+		<Text Name="Fabao_CutOff">
+			<DisplayName>rusak</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Disintegrate">
+			<DisplayName>terkoyak-koyak</DisplayName>
+		</Text>
+		<Text Name="Corrosion">
+			<DisplayName>mengikis</DisplayName>
+		</Text>
+		<Text Name="ForgLick">
+			<DisplayName>lidah cambuk</DisplayName>
+		</Text>
+		<Text Name="Boil">
+			<DisplayName>lepuh</DisplayName>
+		</Text>
+		<Text Name="Toothache">
+			<DisplayName>sakit gigi</DisplayName>
+		</Text>
+		<Text Name="Faint">
+			<DisplayName>pingsan</DisplayName>
+		</Text>
+		<Text Name="Hemorrhoids">
+			<DisplayName>Wasir</DisplayName>
+		</Text>
+		<Text Name="HemorrhoidsEX">
+			<DisplayName>Wasir permanen</DisplayName>
+		</Text>
+		<Text Name="Frostbite1">
+			<DisplayName>Radang dingin (ringan)</DisplayName>
+		</Text>
+		<Text Name="Frostbite2">
+			<DisplayName>Radang dingin (sedang)</DisplayName>
+		</Text>
+		<Text Name="Frostbite3">
+			<DisplayName>Radang dingin (parah)</DisplayName>
+		</Text>
+		<Text Name="Scald1">
+			<DisplayName>Lepuh (sedikit)</DisplayName>
+		</Text>
+		<Text Name="Scald2">
+			<DisplayName>Lepuh (sedang)</DisplayName>
+		</Text>
+		<Text Name="Scald3">
+			<DisplayName>Lepuh (parah)</DisplayName>
+		</Text>
+		<Text Name="Bruise1">
+			<DisplayName>Memar (kecil)</DisplayName>
+		</Text>
+		<Text Name="Bruise2">
+			<DisplayName>Memar (sedang)</DisplayName>
+		</Text>
+		<Text Name="Bruise3">
+			<DisplayName>Memar (parah)</DisplayName>
+		</Text>
+		<Text Name="Infection">
+			<DisplayName>menulari</DisplayName>
+		</Text>
+		<Text Name="Cut1">
+			<DisplayName>Terpotong (sedikit)</DisplayName>
+		</Text>
+		<Text Name="Cut2">
+			<DisplayName>Potong (sedang)</DisplayName>
+		</Text>
+		<Text Name="Cut3">
+			<DisplayName>Terpotong (parah)</DisplayName>
+		</Text>
+		<Text Name="Puncture">
+			<DisplayName>ditusuk</DisplayName>
+		</Text>
+		<Text Name="Fabao_Tear">
+			<DisplayName>merobek</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Evaporate">
+			<DisplayName>tidak stabil</DisplayName>
+		</Text>
+		<Text Name="Deterioration">
+			<DisplayName>memburuk</DisplayName>
+		</Text>
+		<Text Name="VisceralRupture">
+			<DisplayName>rusak</DisplayName>
+		</Text>
+		<Text Name="VisceralCut">
+			<DisplayName>Terpotong</DisplayName>
+		</Text>
+		<Text Name="Destroy">
+			<DisplayName>hancur</DisplayName>
+		</Text>
+		<Text Name="Wound">
+			<DisplayName>luka</DisplayName>
+		</Text>
+		<Text Name="FrostbiteInside">
+			<DisplayName>Radang dingin</DisplayName>
+		</Text>
+		<Text Name="SnakeVenom">
+			<DisplayName>Gigitan ular berbisa</DisplayName>
+		</Text>
+		<Text Name="DiseaseBreath">
+			<DisplayName>TBC</DisplayName>
+		</Text>
+		<Text Name="HolyJudgement">
+			<DisplayName>Nafas korosif</DisplayName>
+		</Text>
+		<Text Name="FirebiteInside">
+			<DisplayName>Pitam panas</DisplayName>
+		</Text>
+		<Text Name="FoodDamage">
+			<DisplayName>lapar</DisplayName>
+		</Text>
+		<Text Name="WaterDamage">
+			<DisplayName>Haus</DisplayName>
+		</Text>
+		<Text Name="GuanyinDamage">
+			<DisplayName>makan hal-hal kotor</DisplayName>
+		</Text>
+		<Text Name="AbdominalDistention">
+			<DisplayName>Kembung</DisplayName>
+		</Text>
+		<Text Name="AbdominalPain">
+			<DisplayName>sakit perut</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>Lelah</DisplayName>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Sakit karena meleleh</DisplayName>
+		</Text>
+		<Text Name="Anaesthesia">
+			<DisplayName>teh</DisplayName>
+		</Text>
+		<Text Name="TEST_FULL">
+			<DisplayName>Uji kerusakan</DisplayName>
+		</Text>
+		<Text Name="Puppet_Abrasion">
+			<DisplayName>Lelah</DisplayName>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayName>kosong</DisplayName>
+		</Text>
+		<Text Name="BloodFeed">
+			<DisplayName>Inti Darah</DisplayName>
+		</Text>
+		<Text Name="LsBiteLighty">
+			<DisplayName>digigit ringan</DisplayName>
+		</Text>
+		<Text Name="LsBite">
+			<DisplayName>gigitan parah</DisplayName>
+		</Text>
+		<Text Name="Pollinosis">
+			<DisplayName>alergi</DisplayName>
+		</Text>
+	</List>
+</Texts>
