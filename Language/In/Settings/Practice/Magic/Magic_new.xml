@@ -1,0 +1,144 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BuildMine">
+			<DisplayName>membangun gunung</DisplayName>
+			<Desc>Gunakan Qi dalam jumlah besar untuk menarik mineral dari bawah tanah.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="BuildRain">
+			<DisplayName>menyerukan hujan</DisplayName>
+			<Desc>Memanggil hujan di area tertentu. Digunakan untuk memadamkan api dan sedikit meningkatkan laju pertumbuhan tanaman.</Desc>
+			<TargetDesc>Pilih lokasi</TargetDesc>
+		</Text>
+		<Text Name="Prophesy">
+			<DisplayName>Memprediksi siklus takdir</DisplayName>
+			<Desc>Gunakan umur untuk menghitung jalan surga. Cobalah untuk memprediksi peristiwa apa yang akan terjadi pada sekte tersebut dalam beberapa hari ke depan. Semakin tinggi benih dao, semakin tinggi kecerdasan dan keberuntungan pengguna. Semakin tinggi tingkat keberhasilannya.</Desc>
+		</Text>
+		<Text Name="Prophesy_MapStory">
+			<DisplayName>Ramalan para dewa</DisplayName>
+			<Desc>Gunakan umur untuk menghitung jalan surga. Cobalah untuk memprediksi peristiwa apa yang akan terjadi pada sekte tersebut dalam beberapa hari ke depan. Semakin tinggi benih dao, semakin tinggi kecerdasan dan keberuntungan pengguna. Semakin tinggi tingkat keberhasilannya.</Desc>
+		</Text>
+		<Text Name="BuildSea">
+			<DisplayName>membuat aliran</DisplayName>
+			<Desc>Ucapkan mantra dan ubah area tersebut menjadi perairan dangkal.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="BuildLand">
+			<DisplayName>membangun tanah tersebut</DisplayName>
+			<Desc>Ucapkan mantra dan ubah ruang menjadi daratan.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="BuildLing">
+			<DisplayName>menciptakan tanah roh</DisplayName>
+			<Desc>Ucapkan mantra untuk mengaktifkan Benih Keberuntungan untuk mengubah area tersebut menjadi Bumi Spiritual.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="BuildLingWater">
+			<DisplayName>Ciptakan Sumur Semangat</DisplayName>
+			<Desc>Ucapkan mantra untuk mengaktifkan Benih Keberuntungan untuk mengubah area tersebut menjadi air roh.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="BuildFertileSoil">
+			<DisplayName>Ciptakan tanah yang subur</DisplayName>
+			<Desc>Ucapkan mantra untuk mengaktifkan pasir keberuntungan untuk mengubah area tersebut menjadi tanah yang sangat baik.</Desc>
+			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemOpen">
+			<DisplayName>Periksa Feng Shui</DisplayName>
+			<Desc>Gunakan batu roh untuk memeriksa harta karun dan menentukan karakteristiknya.</Desc>
+			<TargetDesc>Pilih properti yang belum diverifikasi.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemCreate">
+			<DisplayName>Kombinasikan Feng Shui</DisplayName>
+			<Desc>Gunakan inti darah untuk membuat objek feng shui. Namun, tanpa kondensasi selama bertahun-tahun, senjata Sihir yang diciptakan oleh keterampilan ini agak lemah dan tidak bisa menjadi harta roh.\n[color=#FF0000]Mantra ini sepertinya kehilangan efektivitasnya seiring berjalannya waktu. Saat jalan ilahi berkembang seiring waktu[/color]</Desc>
+			<TargetDesc>Pilih item yang bukan properti magis.</TargetDesc>
+		</Text>
+		<Text Name="LingXiZhou">
+			<DisplayName>Mantra Harmoni</DisplayName>
+			<Desc>Cobalah untuk membujuk lawan Anda untuk bergabung dengan Anda dengan berkomunikasi dengan mereka menggunakan roh. Semakin banyak benih dio, semakin besar perbedaan statistik dan persepsi. Peluang sukses hanya akan meningkat. Refleksi dan kontrol sihir dapat terjadi jika statistik target terlalu tinggi dibandingkan pengguna. Hanya dapat digunakan sekali pada setiap target.</Desc>
+			<TargetDesc>Pilih musuh yang belum terkena mantra Harmoni.</TargetDesc>
+		</Text>
+		<Text Name="XinYinJue">
+			<DisplayName>Mantra Gema</DisplayName>
+			<Desc>Hubungkan dan pancarkan ide satu sama lain dalam upaya membujuk lawan Anda untuk bergabung dengan pihak perapal mantra. Semakin banyak benih dio, semakin besar perbedaan statistik dan persepsi. Peluang sukses hanya akan meningkat. Refleksi dan kontrol sihir dapat terjadi jika statistik target terlalu tinggi dibandingkan pengguna. Tingkat keberhasilannya jauh lebih tinggi jika kedua belah pihak memiliki karakteristik dewasa yang serupa atau memiliki garis keturunan yang sama. Untuk menggunakannya pada target dengan basis budidaya, orang tersebut harus jatuh pingsan terlebih dahulu. Ini adalah mantra yang sangat berisiko; jika gagal, target akan mati dan pengguna akan terluka.</Desc>
+			<TargetDesc>Pilih musuh sasaran</TargetDesc>
+		</Text>
+		<Text Name="TianMoWu">
+			<DisplayName>Tarian Setan Surgawi</DisplayName>
+			<Desc>Gunakan Tarian Iblis Surgawi dan geser target ke sisi pengguna. Refleksi dan kontrol sihir dapat terjadi jika statistik target terlalu tinggi dibandingkan pengguna. Seiring berjalannya waktu, kemungkinan target terbangun dari trance meningkat. Seberapa besar perbedaan statistik dan karisma antara pengguna dan target? Semakin kecil kemungkinan targetnya sadar. Untuk menggunakannya pada target dengan basis budidaya, orang tersebut harus jatuh pingsan terlebih dahulu. Pikiran target akan rusak setiap kali mantra ini terkena.</Desc>
+			<TargetDesc>Pilih musuh sasaran</TargetDesc>
+		</Text>
+		<Text Name="WuYinKeShen">
+			<DisplayName>Lima Roh yang Diinisiasi</DisplayName>
+			<Desc>Membaptis otak target dengan Qi yang kuat untuk sementara waktu mengubah mereka agar bergabung dengan pihak mereka. Refleksi dan kontrol sihir dapat terjadi jika statistik target terlalu tinggi dibandingkan pengguna. Seberapa besar perbedaan statistik dan kecerdasan antara pengguna dan target? Pencucian otak menjadi semakin sulit. Untuk menggunakannya pada target dengan basis budidaya, orang tersebut harus jatuh pingsan terlebih dahulu. Durasi mantranya semakin lama setiap kali digunakan berulang kali. Sebaliknya, hal ini menyebabkan kerusakan yang tidak dapat diperbaiki pada Persepsi target.</Desc>
+			<TargetDesc>Pilih musuh sasaran</TargetDesc>
+		</Text>
+		<Text Name="FenShenZhiShu">
+			<DisplayName>Pemisahan jiwa</DisplayName>
+			<Desc>Mengontrol Roh Kejadian untuk memaksanya terbelah guna meningkatkan sub-jiwa. Pengguna akan kehilangan dosis dan umur maksimumnya. Semakin banyak mata pelajaran yang Anda gunakan, Semakin banyak Anda harus membayar, semakin banyak kompensasi yang akan berlipat ganda.</Desc>
+		</Text>
+		<Text Name="LinghunKaowen">
+			<DisplayName>Selidiki semangatnya</DisplayName>
+			<Desc>Lakukan interogasi roh pada karakter yang sekarat untuk mencoba mengetahui rahasia mereka.</Desc>
+			<TargetDesc>Pilih karakter yang ingin Anda selidiki.</TargetDesc>
+		</Text>
+		<Text Name="LiuRenShensuan">
+			<DisplayName>Tanyakan tentang bintang-bintang</DisplayName>
+			<Desc>Pilih karakter untuk memeriksa lokasinya. Semakin banyak benih dao dan informasi yang dimiliki pengguna tentang target, semakin kuat pula pengguna skill tersebut. Semakin tinggi tingkat keberhasilan prediksinya.</Desc>
+		</Text>
+		<Text Name="Linghunwenzhong">
+			<DisplayName>Mata seratus ribu dewa</DisplayName>
+			<Desc>Pilih karakter untuk memeriksa lokasinya. Semakin banyak penduduk Alam Dewa dan informasi karakter yang dimiliki pengguna, semakin tinggi tingkat keberhasilan dalam mendeteksi lokasi target, semakin tinggi pula tingkat keberhasilannya.</Desc>
+		</Text>
+		<Text Name="YouTongLing_Item">
+			<DisplayName>Kelahiran Roh Hitam</DisplayName>
+			<Desc>Gunakan 7 Permata Pembalasan, 3 Permata Jiwa, dan 1 Permata Jiwa Pertama untuk berkomunikasi dan membangkitkan roh benda. Kebangkitan spiritual mungkin memerlukan waktu untuk menunjukkan hasilnya. Sebuah objek tidak dapat dihidupkan kembali saat berada dalam fase kebangkitan. Semakin banyak biji dao yang dimiliki kastor dan semakin lama objek tersebut terbangun, semakin banyak pula biji dao yang dimiliki kastor. Semakin besar kemungkinan berhasil membangkitkan semangat.</Desc>
+			<TargetDesc>Pilih item sasaran</TargetDesc>
+		</Text>
+		<Text Name="LingTongLing_Building">
+			<DisplayName>Lahirnya aliran kehidupan</DisplayName>
+			<Desc>Gunakan umur 10 tahun dan Permata Roh Primordial untuk mengkomunikasikan dan membangkitkan semangat suatu objek. Kebangkitan spiritual mungkin memerlukan waktu untuk menunjukkan hasilnya. Suatu objek tidak dapat dihidupkan kembali saat berada dalam fase kebangkitan roh. Semakin banyak biji dadu yang dimiliki perapal mantra, semakin lama waktu yang dibutuhkan untuk membangunkan bangunan tersebut. Semakin besar kemungkinan berhasil membangkitkan semangat.</Desc>
+			<TargetDesc>Pilih sebuah bangunan</TargetDesc>
+		</Text>
+		<Text Name="ZaoHuaSuTi">
+			<DisplayName>Fisik Kejadian</DisplayName>
+			<Desc>Gunakan 1 Lucky Seed untuk menghidupkan kembali target ke kondisi berusia 14 tahun dan memulihkan berbagai bagian. dari semua mayat yang hilang</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="DianHua">
+			<DisplayName>nafas awal</DisplayName>
+			<Desc>Gunakan mantra untuk mensimulasikan berbagai perubahan. alam dan menjadikan hewan merasakan keagungan ciptaan untuk membangkitkan kecerdasannya. Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Angry">
+			<DisplayName>Pemahaman: Tersinggung</DisplayName>
+			<Desc>Gunakan qi elemen kayu untuk membuat binatang itu kesal karena membangkitkan kecerdasannya. Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Happy">
+			<DisplayName>Pemahaman: Menyenangkan</DisplayName>
+			<Desc>bisnis bisnis Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Miss">
+			<DisplayName>Pemahaman: Renungkan</DisplayName>
+			<Desc>Gunakan Qi Bumi untuk membuat binatang itu merasa berat untuk membangkitkan kecerdasannya. Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Afraid">
+			<DisplayName>Pemahaman: Ketakutan</DisplayName>
+			<Desc>Gunakan elemen qi air untuk membuat binatang itu merasa takut untuk membangkitkan kecerdasan mereka. Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_Worry">
+			<DisplayName>Pemahaman: Cemas</DisplayName>
+			<Desc>Gunakan Qi Emas untuk membuat binatang itu merasa cemas untuk membangkitkan kecerdasannya. Mantra ini bertentangan dengan hukum surga. Oleh karena itu, umur seseorang diperlukan untuk merapal mantra.</Desc>
+			<TargetDesc>Pilih tujuan</TargetDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Mantra untuk memperbaiki langit</DisplayName>
+			<Desc>Gunakan 1 Permata Roh Primordial untuk merapal mantra pada Senjata Sihir Primordial yang sedang dikembangkan untuk membangunkannya secara instan.</Desc>
+			<TargetDesc>Pilih senjata ajaib kuno yang sedang dalam budidaya.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
