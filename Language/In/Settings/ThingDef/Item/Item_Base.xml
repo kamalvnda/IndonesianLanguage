@@ -1,7 +1,7 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="ItemBase" sParam="Item">
-			<Item.FabaoSuffix>Harta Karun Roh</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Harta Karun yang Sangat Besar</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
