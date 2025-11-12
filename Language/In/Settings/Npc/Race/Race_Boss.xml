@@ -1,35 +1,35 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Boss_Long">
-			<DisplayName>Naga Air</DisplayName>
-			<Desc>Setan Purba: Naga Air</Desc>
-			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>ekor</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Dia</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>cakar depan kiri</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>cakar kanan depan</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>cakar kiri belakang</FightParts.5.DisplayName>
-			<FightParts.6.DisplayName>cakar belakang kanan</FightParts.6.DisplayName>
-			<FightParts.7.DisplayName>skala kembali</FightParts.7.DisplayName>
+			<DisplayName>Naga Banjir</DisplayName>
+			<Desc>Binatang Purba: Naga Banjir</Desc>
+			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Ekor</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Klakson</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>L-Cakar Depan</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>R-Cakar Depan</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>L-Cakar Belakang</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>R-Cakar Belakang</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Skala Terlarang</FightParts.7.DisplayName>
 		</Text>
 		<Text Name="Boss_Feng">
-			<DisplayName>angsa yang menyala-nyala</DisplayName>
-			<Desc>Setan Purba: Angsa Api</Desc>
-			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>bulu mahkota</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>sayap kiri</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>sayap kanan</FightParts.3.DisplayName>
+			<DisplayName>Phoenix</DisplayName>
+			<Desc>Binatang Purba: Phoenix</Desc>
+			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Bulu Mahkota</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>L-Sayap</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Sayap-R</FightParts.3.DisplayName>
 			<FightParts.4.DisplayName>Bulu ekor</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>Mata Matahari</FightParts.5.DisplayName>
+			<FightParts.5.DisplayName>Mata Surya</FightParts.5.DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong">
-			<DisplayName>naga lilin</DisplayName>
-			<Desc>Setan Purba: Naga Lilin</Desc>
-			<FightParts.0.DisplayName>Batang tubuh</FightParts.0.DisplayName>
+			<DisplayName>Naga Obor</DisplayName>
+			<Desc>Binatang Purba: Naga Banjir</Desc>
+			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
 			<FightParts.1.DisplayName>Skala Langit</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>giok naga</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>mata kiri</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>mata kanan</FightParts.4.DisplayName>
+			<FightParts.2.DisplayName>Naga Giok</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Mata Kiri</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Mata Kanan</FightParts.4.DisplayName>
 		</Text>
 	</List>
 </Texts>
