@@ -1,307 +1,307 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Yin_DiscipleCompleteCommandRandom">
-			<Desc>Para murid sekte mengabaikan perintah dan melanjutkan sesuai keinginan mereka.</Desc>
+			<Desc>Murid mengabaikan pengaturan kerja dan menyelesaikan instruksi secara acak.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_SoulPetCanNotControl">
-			<Desc>Roh iblis bertindak sesuai keinginannya. tidak bisa dilatih untuk disiplin</Desc>
+			<Desc>Hewan peliharaan roh bertindak sesuka mereka dan tidak lagi mematuhi pelatihan</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_CantConfineTongling">
-			<Desc>Tidak dapat menyegel benda roh</Desc>
+			<Desc>Tidak Dapat Mengurung Makhluk yang Dibekukan</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_CantInviteNpc">
-			<Desc>Tidak dapat mengundang orang lain ke sekte tersebut.</Desc>
+			<Desc>Tidak dapat mengundang orang lain ke sekte Anda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_1">
-			<Desc>Tingkat pemulihan Qi Spiritual para murid di sekte tersebut sedikit menurun.</Desc>
+			<Desc>Sedikit mengurangi kecepatan pemulihan energi spiritual murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_2">
-			<Desc>Pemulihan Qi para murid sekte itu melambat.</Desc>
+			<Desc>Memperlambat pemulihan Qi murid Sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_3">
-			<Desc>Tingkat pemulihan Qi Spiritual para murid di sekte tersebut menurun drastis.</Desc>
+			<Desc>Secara signifikan mengurangi kecepatan pemulihan energi spiritual murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_4">
-			<Desc>Kecepatan budidaya para murid sekte menurun.</Desc>
+			<Desc>Kurangi kecepatan budidaya murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_5">
-			<Desc>Tingkat kultivasi para murid di sekte tersebut melambat drastis.</Desc>
+			<Desc>Secara drastis memperlambat budidaya murid Sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_6">
-			<Desc>Lebih mudah bagi murid sekte untuk kelaparan.</Desc>
+			<Desc>Murid sekte menjadi lebih rentan terhadap kelaparan.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_7">
-			<Desc>Para murid di sekte tersebut lebih mudah lelah.</Desc>
+			<Desc>Murid sekte menjadi lebih rentan terhadap kelelahan.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_8">
-			<Desc>Lebih mudah bagi murid sekte untuk merasa haus.</Desc>
+			<Desc>Murid sekte menjadi lebih rentan terhadap rasa haus.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_9">
-			<Desc>Armor mendalam para murid sekte sedikit berkurang.</Desc>
+			<Desc>Kurangi sedikit kekuatan penghalang Qi untuk murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_10">
-			<Desc>Armor mendalam para murid sekte berkurang secara moderat.</Desc>
+			<Desc>Kurangi kekuatan penghalang Qi untuk murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_11">
-			<Desc>Peluang seorang murid di sekte untuk menerobos penghalang sedikit menurun.</Desc>
+			<Desc>Sedikit mengurangi kemungkinan murid sekte menerobos kemacetan.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_12">
-			<Desc>Peluang seorang murid di sekte untuk menerobos penghalang menurun secara moderat.</Desc>
+			<Desc>Kurangi kemungkinan murid sekte menerobos kemacetan</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_13">
-			<Desc>Bonus benih dao murid sekte itu sedikit meningkat.</Desc>
+			<Desc>Tingkatkan sedikit bonus pencapaian murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_14">
-			<Desc>Bonus benih dao murid sekte meningkat secara moderat.</Desc>
+			<Desc>Tingkatkan bonus pencapaian murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_15">
-			<Desc>Bonus Dao Seed murid Sekte meningkat pesat.</Desc>
+			<Desc>Sangat meningkatkan bonus Pencapaian murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_16">
-			<Desc>Umur maksimum seorang murid sekte sedikit menurun.</Desc>
+			<Desc>Sedikit mengurangi batas umur murid Sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_17">
-			<Desc>Umur maksimum murid sekte menurun.</Desc>
+			<Desc>Kurangi batas umur murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_18">
-			<Desc>Umur maksimum seorang murid sekte sangat berkurang.</Desc>
+			<Desc>Secara signifikan memotong umur murid Sekte Cap.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_19">
-			<Desc>Kecepatan pergerakan para murid sekte sedikit menurun.</Desc>
+			<Desc>Sedikit mengurangi kecepatan pergerakan murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_20">
-			<Desc>Kecepatan pergerakan para murid di sekte tersebut menurun.</Desc>
+			<Desc>Kurangi kecepatan gerakan murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_21">
-			<Desc>Kecepatan pergerakan para murid di sekte tersebut menurun drastis.</Desc>
+			<Desc>Sangat mengurangi kecepatan gerakan murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_22">
-			<Desc>Kecepatan pelatihan dasar para murid sekte menurun.</Desc>
+			<Desc>Kurangi kecepatan Pelatihan Yayasan murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_23">
-			<Desc>Kecepatan kultivasi dasar para murid sekte menurun drastis.</Desc>
+			<Desc>Sangat mengurangi kecepatan Pelatihan Dasar para murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_24">
-			<Desc>Kecepatan belajar para murid sekte menurun.</Desc>
+			<Desc>Kurangi kecepatan belajar murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_25">
-			<Desc>Kecepatan belajar para murid sekte telah sangat menurun.</Desc>
+			<Desc>Sangat mengurangi kecepatan belajar murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_26">
-			<Desc>Kecepatan kerja para murid sekte sedikit menurun.</Desc>
+			<Desc>Sedikit mengurangi kecepatan kerja keseluruhan murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_27">
-			<Desc>Kecepatan kerja para murid di sekte tersebut menurun.</Desc>
+			<Desc>Mengurangi kecepatan kerja keseluruhan murid Sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_28">
-			<Desc>Kecepatan kerja para murid di sekte tersebut menurun drastis.</Desc>
+			<Desc>Secara signifikan mengurangi kecepatan kerja keseluruhan murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_29">
-			<Desc>Kondisi mental dasar para murid sekte sedikit menurun.</Desc>
+			<Desc>Sedikit menurunkan nilai kondisi mental dasar murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_30">
-			<Desc>Kondisi mental dasar para murid sekte menurun.</Desc>
+			<Desc>Menurunkan Keadaan Mental dasar murid Sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_31">
-			<Desc>Nilai dasar kondisi mental murid sekte turun drastis.</Desc>
+			<Desc>Secara signifikan menurunkan nilai kondisi mental dasar murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_32">
-			<Desc>Resistensi murid sekte terhadap kerusakan unsur emas menurun.</Desc>
+			<Desc>Mengurangi pengurangan kerusakan atribut logam untuk murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_33">
-			<Desc>Ketahanan murid sekte terhadap kerusakan elemen kayu menurun.</Desc>
+			<Desc>Mengurangi pengurangan kerusakan kayu untuk murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_34">
-			<Desc>Ketahanan siswa sekte terhadap kerusakan elemen air menurun.</Desc>
+			<Desc>Kurangi pengurangan kerusakan air untuk murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_35">
-			<Desc>Resistensi murid sekte terhadap kerusakan elemen api menurun.</Desc>
+			<Desc>Mengurangi pengurangan kerusakan akibat kebakaran untuk murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_36">
-			<Desc>Resistensi murid sekte terhadap kerusakan elemen tanah menurun.</Desc>
+			<Desc>Mengurangi pengurangan kerusakan atribut bumi untuk murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_37">
-			<Desc>Resistensi murid sekte terhadap semua kerusakan unsur menurun.</Desc>
+			<Desc>Mengurangi pengurangan kerusakan semua atribut untuk murid sekte</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_38">
-			<Desc>Kemampuan sekte untuk mendukung formasi formasi menurun.</Desc>
+			<Desc>Mengurangi kapasitas beban formasi murid sekte.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_40">
-			<Desc>Biaya seni bela diri para murid sekte berkurang 1 langkah.</Desc>
+			<Desc>Level keterampilan Pertempuran murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_41">
-			<Desc>Biaya seni bela diri para murid sekte berkurang 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Pertempuran murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_42">
-			<Desc>Biaya seni bela diri para murid sekte berkurang 3 tingkat.</Desc>
+			<Desc>Tingkat Keterampilan Pertempuran Murid Sekte -3</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_43">
-			<Desc>Keterampilan sosial para murid sekte menurun 1 tingkat.</Desc>
+			<Desc>Tingkat keterampilan sosial murid sekte -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_44">
-			<Desc>Keterampilan sosial para murid sekte menurun 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan sosial murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_45">
-			<Desc>Keterampilan sosial para murid sekte menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Tingkat keterampilan sosial murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_46">
-			<Desc>Tingkat keterampilan para murid sekte menurun 1 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Seni murid sekte -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_47">
-			<Desc>Tingkat keterampilan murid sekte tersebut turun 2 tingkat.</Desc>
+			<Desc>Level keterampilan Artisanry murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_48">
-			<Desc>Tingkat keterampilan murid sekte tersebut menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Seni murid sekte -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_49">
-			<Desc>Nilai rasa Qi murid sekte itu menurun 1 tingkat.</Desc>
+			<Desc>Tingkat Keterampilan Sense Murid Sekte Qi -1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_50">
-			<Desc>Nilai rasa Qi murid sekte itu menurun sebanyak 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Qi Sense murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_51">
-			<Desc>Nilai rasa Qi murid sekte itu menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Tingkat Keterampilan Sense Murid Sekte Qi -3</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_52">
-			<Desc>Keterampilan menempa senjata ajaib murid sekte berkurang 1 level.</Desc>
+			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid sekte -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_53">
-			<Desc>Keterampilan menempa senjata ajaib murid sekte berkurang 2 level.</Desc>
+			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid sekte -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_54">
-			<Desc>Keterampilan menempa senjata ajaib murid sekte berkurang 3 level.</Desc>
+			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid sekte -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_55">
-			<Desc>Keterampilan pemurnian medis/pengobatan sekte tersebut menurun sebesar 1 tingkat.</Desc>
+			<Desc>Level keterampilan Kedokteran/Alkimia murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_56">
-			<Desc>Keterampilan pemurnian medis/pengobatan sekte tersebut menurun sebanyak 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Kedokteran/Alkimia murid sekte -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_57">
-			<Desc>Keterampilan pemurnian medis/pengobatan sekte tersebut menurun sebanyak 3 level.</Desc>
+			<Desc>Tingkat keterampilan Kedokteran/Alkimia murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_58">
-			<Desc>Keterampilan senjata magis murid sekte berkurang 1 level.</Desc>
+			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_59">
-			<Desc>Keterampilan senjata ajaib murid sekte berkurang 2 level.</Desc>
+			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_60">
-			<Desc>Keterampilan senjata ajaib murid sekte berkurang 3 level.</Desc>
+			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_61">
-			<Desc>Keterampilan qi ajaib murid sekte itu berkurang 1 tingkat.</Desc>
+			<Desc>Tingkat Keterampilan Mantra Murid Sekte -1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_62">
-			<Desc>Keterampilan qi ajaib para murid sekte berkurang 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Mantra murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_63">
-			<Desc>Keterampilan qi sihir murid sekte tersebut menurun sebanyak 3 level.</Desc>
+			<Desc>Tingkat keterampilan Mantra murid sekte -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_64">
-			<Desc>Keterampilan armor mendalam murid sekte itu berkurang 1 level.</Desc>
+			<Desc>Tingkat keterampilan Perlindungan murid sekte -1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_65">
-			<Desc>Keterampilan armor mendalam murid sekte itu berkurang 2 level.</Desc>
+			<Desc>Tingkat Keterampilan Perlindungan Murid Sekte -2</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_66">
-			<Desc>Keterampilan armor mendalam murid sekte itu menurun sebanyak 3 level.</Desc>
+			<Desc>Tingkat keterampilan Perlindungan murid sekte -3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_67">
-			<Desc>Keterampilan seni bela diri sekte tersebut menurun 1 level.</Desc>
+			<Desc>Tingkat keterampilan Formasi murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_68">
-			<Desc>Keterampilan seni bela diri sekte tersebut menurun 2 level.</Desc>
+			<Desc>Tingkat keterampilan Formasi murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_69">
-			<Desc>Keterampilan seni bela diri sekte tersebut menurun sebanyak 3 level.</Desc>
+			<Desc>Tingkat keterampilan Formasi murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_70">
-			<Desc>Tingkat keterampilan penambangan murid sekte tersebut menurun sebesar 1 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Penambangan murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_71">
-			<Desc>Tingkat keterampilan penambangan murid sekte tersebut menurun sebanyak 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Metalurgi murid sekte -2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_72">
-			<Desc>Tingkat keterampilan penambangan murid sekte tersebut menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Tingkat Keterampilan Penambangan Murid Sekte -3</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_73">
-			<Desc>Tingkat keterampilan pertanian para murid sekte menurun 1 tingkat.</Desc>
+			<Desc>Level keterampilan Bertani murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_74">
-			<Desc>Tingkat keterampilan pertanian para murid sekte menurun 2 tingkat.</Desc>
+			<Desc>Level keterampilan Bertani murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_75">
-			<Desc>Tingkat keterampilan pertanian para murid sekte menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Level keterampilan Bertani murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_76">
-			<Desc>Tingkat keterampilan konstruksi murid sekte menurun 1 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Konstruksi murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_77">
-			<Desc>Tingkat keterampilan konstruksi murid sekte menurun 2 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Konstruksi murid sekte berkurang 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_78">
-			<Desc>Tingkat keterampilan konstruksi murid sekte menurun sebanyak 3 tingkat.</Desc>
+			<Desc>Tingkat keterampilan Konstruksi murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_79">
-			<Desc>Keterampilan memasak murid sekte tersebut menurun 1 level.</Desc>
+			<Desc>Level keterampilan Memasak murid sekte berkurang 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_80">
-			<Desc>Keterampilan memasak murid sekte tersebut menurun sebanyak 2 level.</Desc>
+			<Desc>Keterampilan Memasak Murid Sekte Level -2</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_81">
-			<Desc>Keterampilan memasak murid sekte tersebut menurun sebanyak 3 level.</Desc>
+			<Desc>Level keterampilan Memasak murid sekte berkurang 3.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_88">
-			<Desc>Nilai pesona murid sekte tersebut menurun sebesar 10%.</Desc>
+			<Desc>Karisma murid sekte berkurang 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_89">
-			<Desc>Nilai pesona murid sekte tersebut menurun sebesar 30%.</Desc>
+			<Desc>Karisma murid sekte berkurang 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_90">
-			<Desc>Nilai pesona murid sekte berkurang 50%.</Desc>
+			<Desc>Karisma murid sekte berkurang 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_91">
-			<Desc>Kecerdasan para murid sekte menurun sebesar 10%.</Desc>
+			<Desc>Kecerdasan murid sekte -10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_92">
-			<Desc>Kecerdasan para murid sekte menurun sebesar 30%.</Desc>
+			<Desc>Kecerdasan murid sekte berkurang 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_93">
-			<Desc>Kecerdasan para murid sekte menurun sebesar 50%.</Desc>
+			<Desc>Kecerdasan murid sekte berkurang 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_94">
-			<Desc>Keberuntungan para murid sekte menurun 10%.</Desc>
+			<Desc>Peluang murid sekte -10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_95">
-			<Desc>Keberuntungan para murid sekte menurun sebesar 30%.</Desc>
+			<Desc>Peluang murid sekte -30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_96">
-			<Desc>Keberuntungan para murid sekte menurun sebesar 50%.</Desc>
+			<Desc>Keberuntungan murid sekte berkurang 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_97">
-			<Desc>Nilai persepsi murid sekte tersebut menurun sebesar 10%.</Desc>
+			<Desc>Persepsi murid sekte -10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_98">
-			<Desc>Nilai persepsi murid sekte tersebut menurun sebesar 30%.</Desc>
+			<Desc>Persepsi murid sekte -30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_99">
-			<Desc>Nilai persepsi murid sekte tersebut menurun sebesar 50%.</Desc>
+			<Desc>Persepsi murid sekte berkurang 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_100">
-			<Desc>Stamina murid sekte menurun 10%.</Desc>
+			<Desc>Konstitusi murid sekte berkurang 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_101">
-			<Desc>Stamina murid sekte menurun sebesar 30%.</Desc>
+			<Desc>Konstitusi murid sekte berkurang 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_102">
-			<Desc>Stamina murid sekte menurun 50%.</Desc>
+			<Desc>Konstitusi murid sekte berkurang 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_39">
-			<Desc>Kelima kualitas murid sekte berkurang 10%.</Desc>
+			<Desc>Lima atribut murid sekte -10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yin_Modifier_103">
-			<Desc>Kelima kualitas murid sekte berkurang 30%.</Desc>
+			<Desc>Lima atribut murid sekte berkurang 30%.</Desc>
 		</Text>
 	</List>
 </Texts>
