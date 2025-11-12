@@ -1,25 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="kind_1">
-			<Desc>Karakter yang terbang ke surga: {0:F0}</Desc>
+			<Desc>Karakter yang Ascendant: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_2">
 			<Desc>Petualangan: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_3">
-			<Desc>Persiapan Obat/Alkimia: {0:F0}</Desc>
+			<Desc>Obat/Alkimia: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_4">
 			<Desc>Artefak dibuat: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_5">
-			<Desc>Yantra ditarik: {0:F0}</Desc>
+			<Desc>Talisman digambar: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_6">
 			<Desc>Makhluk yang terbunuh: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_7">
-			<Desc>Penggarap yang Terbunuh: {0:F0}</Desc>
+			<Desc>Cultivator yang Terbunuh: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_8">
 			<Desc>Makanan yang dibuat: {0:F0} Jenis</Desc>
@@ -49,10 +49,10 @@
 			<Desc>Pencarian Jiwa: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_17">
-			<Desc>Umur yang Dibajak: {0:F0} detik</Desc>
+			<Desc>Umur yang Dicuri: {0:F0} detik</Desc>
 		</Text>
 		<Text Name="kind_18">
-			<Desc>Semangat Halus: {0:F0}</Desc>
+			<Desc>Jiwa yang Terbebas/Dimurnikan: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_19">
 			<Desc>Jiwa yang Tertangkap: {0:F0}</Desc>
