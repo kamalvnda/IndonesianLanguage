@@ -1,88 +1,88 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YGRabbit">
-			<DisplayName>Klan Kelinci Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Kelinci Iblis.</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Kelinci Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Kelinci Yaoguai</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGChicken">
-			<DisplayName>Klan Ayam Iblis</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Ayam Iblis.</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
-			<TalkBefore>jib</TalkBefore>
-			<TalkAfter>Jib!</TalkAfter>
+			<DisplayName>Ayam Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Ayam Yaoguai</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
+			<TalkBefore>Kicauan,</TalkBefore>
+			<TalkAfter>kicauan!</TalkAfter>
 		</Text>
 		<Text Name="YGWolf">
-			<DisplayName>Klan Serigala Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Serigala Iblis.</Desc>
-			<TalkBefore>Biru!</TalkBefore>
-			<TalkAfter>Biru!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Serigala Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Serigala Yaoguai</Desc>
+			<TalkBefore>Melolong,</TalkBefore>
+			<TalkAfter>ooooo!</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGSnake">
-			<DisplayName>Klan Ular Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Ular Iblis.</Desc>
-			<TalkBefore>Mendesis!</TalkBefore>
-			<TalkAfter>Mendesis</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Ular Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Ular Yaoguai</Desc>
+			<TalkBefore>Sssss,</TalkBefore>
+			<TalkAfter>sssss</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGBoar">
-			<DisplayName>Klan Babi Hutan Iblis</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Babi Hutan Iblis.</Desc>
-			<TalkBefore>Bagus</TalkBefore>
-			<TalkAfter>Oke</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Babi Hutan Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Babi Hutan Yaoguai</Desc>
+			<TalkBefore>Oink,</TalkBefore>
+			<TalkAfter>oke</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGBear">
-			<DisplayName>Klan Beruang Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Klan Ras Beruang Iblis.</Desc>
-			<TalkBefore>Wah!</TalkBefore>
-			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Beruang Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Beruang Yaoguai</Desc>
+			<TalkBefore>Melolong,</TalkBefore>
+			<TalkAfter>menggeram</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGTurtle">
-			<DisplayName>Klan Penyu Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Penyu Iblis.</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Penyu Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Turtle Yaoguai</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGFrog">
-			<DisplayName>Klan Katak Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Katak Iblis.</Desc>
-			<TalkBefore>Ups!</TalkBefore>
-			<TalkAfter>Ups!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Katak Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Katak Yaoguai</Desc>
+			<TalkBefore>Mati,</TalkBefore>
+			<TalkAfter>mati</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGCat">
-			<DisplayName>Klan Kucing Setan</DisplayName>
-			<Desc>Binatang iblis yang diubah menjadi klan setengah iblis dengan berhasil membangkitkan kecerdasan mereka sendiri: Klan Kucing Iblis.</Desc>
-			<TalkBefore>Meong!</TalkBefore>
+			<DisplayName>Kucing Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Kucing Yaoguai</Desc>
+			<TalkBefore>mengeong,</TalkBefore>
 			<TalkAfter>mengeong</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGCattle">
-			<DisplayName>Klan Banteng Iblis</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Banteng Iblis.</Desc>
-			<TalkBefore>Ya ampun!</TalkBefore>
-			<TalkAfter>Mo!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Banteng Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Banteng Yaoguai</Desc>
+			<TalkBefore>Melenguh,</TalkBefore>
+			<TalkAfter>melenguh!</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="YGTiger">
-			<DisplayName>Suku Harimau Setan</DisplayName>
-			<Desc>Seekor binatang iblis yang berhasil berubah menjadi ras setengah iblis dengan membangkitkan kecerdasannya sendiri: Klan Harimau Iblis.</Desc>
-			<TalkBefore>Haha~</TalkBefore>
-			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Harimau Yaoguai</DisplayName>
+			<Desc>Hewan berubah menjadi Yaoguai karena kecerdasan yang terbangun: Harimau Yaoguai</Desc>
+			<TalkBefore>Menggeram~</TalkBefore>
+			<TalkAfter>menggeram!</TalkAfter>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 	</List>
 </Texts>
