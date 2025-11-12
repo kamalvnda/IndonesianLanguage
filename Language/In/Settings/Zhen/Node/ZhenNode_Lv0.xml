@@ -1,58 +1,58 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>kosong</DisplayName>
+			<DisplayName>Kosong</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_1">
-			<DisplayName>Inti Asli: Periode</DisplayName>
+			<DisplayName>Proto-pilar: Interval</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_2">
-			<DisplayName>Inti Asli: Kembali</DisplayName>
+			<DisplayName>Proto-pilar: Putar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_3">
-			<DisplayName>Inti asli: melengkung</DisplayName>
+			<DisplayName>Proto-pilar: Kurva</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_4">
-			<DisplayName>Inti asli: pengelasan</DisplayName>
+			<DisplayName>Proto-pilar: Tautan</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_1">
-			<DisplayName>Inti Asli: Tali</DisplayName>
+			<DisplayName>Proto-pilar: Kabel</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_2">
-			<DisplayName>Inti Asli: Yod</DisplayName>
+			<DisplayName>Proto-pilar: Tip</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_3">
-			<DisplayName>Inti asli: baris</DisplayName>
+			<DisplayName>Proto-pilar: Baris</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_5_1">
-			<DisplayName>Inti Asli: Tersedia</DisplayName>
+			<DisplayName>Proto-pilar: Kosong</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_6_1">
-			<DisplayName>Inti Asli: Lengkap</DisplayName>
+			<DisplayName>Proto-pilar: Utuh</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_1_1">
-			<DisplayName>Sub-Sumbu Asli: Ikatan</DisplayName>
+			<DisplayName>Proto-bantuan: Obligasi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_1">
-			<DisplayName>Sub-inti asli: berpasangan</DisplayName>
+			<DisplayName>Proto-bantu: Berpasangan</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_2">
-			<DisplayName>Sub-Sumbu Asli: Tersegmentasi</DisplayName>
+			<DisplayName>Proto-auxiliary: Partisi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_3">
-			<DisplayName>Sub-inti asli: Integrasikan</DisplayName>
+			<DisplayName>Proto-bantuan: Persatuan</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_1">
-			<DisplayName>Sub-Sumbu Asli: Potong</DisplayName>
+			<DisplayName>Proto-bantuan: Pesangon</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_2">
-			<DisplayName>Sub-Sumbu Asli: Seberang</DisplayName>
+			<DisplayName>Proto-bantu: Menyeberang</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_3">
-			<DisplayName>Sub-inti asli: Terdistribusi</DisplayName>
+			<DisplayName>Proto-bantu: Menyebarkan</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_4">
-			<DisplayName>Sub-Tema Asli: Krisis</DisplayName>
+			<DisplayName>Proto-bantuan: Kritis</DisplayName>
 		</Text>
 	</List>
 </Texts>
