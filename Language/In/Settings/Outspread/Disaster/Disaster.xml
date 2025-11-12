@@ -4,13 +4,13 @@
 			<DisplayName>Kekeringan</DisplayName>
 		</Text>
 		<Text Name="Flood">
-			<DisplayName>banjir</DisplayName>
+			<DisplayName>Banjir</DisplayName>
 		</Text>
 		<Text Name="Siberia">
 			<DisplayName>Bahaya musim dingin</DisplayName>
 		</Text>
 		<Text Name="EarthQuake">
-			<DisplayName>gempa bumi</DisplayName>
+			<DisplayName>Gempa bumi</DisplayName>
 		</Text>
 	</List>
 </Texts>
