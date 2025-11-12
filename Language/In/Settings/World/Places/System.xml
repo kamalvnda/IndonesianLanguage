@@ -1,22 +1,22 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="_OnTheWay">
-			<DisplayName>Berangkat</DisplayName>
+			<DisplayName>Dalam perjalanan</DisplayName>
 		</Text>
 		<Text Name="_GodOnTheWay">
-			<DisplayName>Tuhan berangkat</DisplayName>
+			<DisplayName>Tuhan Sedang Dalam Perjalanan</DisplayName>
 		</Text>
 		<Text Name="_InMap">
-			<DisplayName>Area</DisplayName>
+			<DisplayName>Daerah</DisplayName>
 		</Text>
 		<Text Name="_StayFree">
-			<DisplayName>Berkeliling dunia</DisplayName>
+			<DisplayName>Berkeliaran dalam petualangan.</DisplayName>
 		</Text>
 		<Text Name="Place_OldSchool">
 			<DisplayName>Sekte Kuno</DisplayName>
 		</Text>
 		<Text Name="_TestMap">
-			<DisplayName>Berjalan</DisplayName>
+			<DisplayName>Dalam perjalanan</DisplayName>
 		</Text>
 		<Text Name="_LOSTPALCE">
 			<DisplayName>Tanah Hilang (Kosong)</DisplayName>
