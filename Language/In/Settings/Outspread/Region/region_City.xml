@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HeYin">
-			<DisplayName>Kota Sai Nam Huan</DisplayName>
-			<Desc>Ini adalah kota dimana berbagai jenis bangunan dapat dibangun dan dapat merekrut murid.</Desc>
+			<DisplayName>Kota Tepi Sungai</DisplayName>
+			<Desc>Ini adalah kota, di mana berbagai macam bangunan politik dapat dibangun dan murid dapat direkrut.</Desc>
 		</Text>
 		<Text Name="GuanHai">
-			<DisplayName>kota pemandangan laut</DisplayName>
+			<DisplayName>Pemandangan laut</DisplayName>
 		</Text>
 		<Text Name="PanShe">
 			<DisplayName>Desa Ekor Ular</DisplayName>
 		</Text>
 		<Text Name="Feng">
-			<DisplayName>kota yang kaya raya</DisplayName>
+			<DisplayName>Kota Kelimpahan</DisplayName>
 		</Text>
 		<Text Name="DaLiang">
-			<DisplayName>Kota Daliang</DisplayName>
+			<DisplayName>Kota Kehancuran</DisplayName>
 		</Text>
 	</List>
 </Texts>
