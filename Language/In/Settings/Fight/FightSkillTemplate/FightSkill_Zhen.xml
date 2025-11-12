@@ -2,19 +2,19 @@
 	<List>
 		<Text Name="ChangeZhen">
 			<DisplayName>Ubah Formasi</DisplayName>
-			<Tip>Change a formation to cover exposed auxiliaries.</Tip>
+			<Tip>Ubah formasi untuk menutupi pasukan pembantu yang terbuka.</Tip>
 		</Text>
 		<Text Name="CancelZhen">
 			<DisplayName>Bubar</DisplayName>
-			<Tip>Disbands the formation. After disbanding a formation, some time must pass before a new formation can be formed.</Tip>
+			<Tip>Membubarkan formasi. Setelah suatu formasi dibubarkan, perlu beberapa waktu sebelum formasi baru dapat terbentuk.</Tip>
 		</Text>
 		<Text Name="JointJian">
 			<DisplayName>Artefak Bersama</DisplayName>
-			<Tip>Everyone combines their Qi in order to control the formation pillar's artifact and refill it with Qi, drastically boosting the Artifact Power according to the formation's Sword Mastery Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
 		</Text>
 		<Text Name="JointSkill">
 			<DisplayName>Mantra Bersama</DisplayName>
-			<Tip>Everyone combines their Qi in order to help the formation pillar cast the next spell, boosting its power. The power increase is related to the formation's Spell Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
 		</Text>
 		<Text Name="ZhenTempAura">
 			<DisplayName>Memanaskan</DisplayName>
@@ -32,53 +32,53 @@
 			<DisplayName>Stabilitas Lebih Rendah</DisplayName>
 		</Text>
 		<Text Name="RevealZhen">
-			<DisplayName>Bantu Terkena</DisplayName>
+			<DisplayName>Pembantu Terbuka</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen1">
 			<DisplayName>Derivasi Surgawi</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
-			<Tip>Follows the pattern of the Stone Sentinel Maze to attack the weak points of the target formation. Lowers its stability and has a chance of exposing its auxhilaries.</Tip>
+			<HeadMsg>Pilih pembantu musuh.</HeadMsg>
+			<Tip>Mengikuti pola Labirin Penjaga Batu untuk menyerang titik lemah formasi target. Menurunkan stabilitasnya dan berpeluang mengekspos alat bantunya.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen2">
 			<DisplayName>Pertempuran Kesendirian</DisplayName>
-			<Tip>Deals a huge amount of Qi damage to the target.</Tip>
+			<Tip>Menimbulkan kerusakan Qi dalam jumlah besar pada target.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield1">
 			<DisplayName>Domain Lima Puncak</DisplayName>
-			<Tip>Create a domain spanning a 5-meter radius around the target point and use the formation's Qi to defend.</Tip>
+			<Tip>Buat domain dengan radius 5 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield2">
 			<DisplayName>Domain Luasnya</DisplayName>
-			<Tip>Create a domain spanning a 12-meter radius around the target point and use the formation's Qi to defend.</Tip>
+			<Tip>Buat domain dengan radius 12 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea1">
 			<DisplayName>Domain Esensi Kayu</DisplayName>
-			<Tip>Create a domain spanning an 8-meter radius around the target point. Fertilizes the soil inside and increases the natural resilience of allied characters.</Tip>
+			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Menyuburkan tanah di dalam dan meningkatkan ketahanan alami karakter terkait.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea2">
 			<DisplayName>Domain Ketenangan Surgawi</DisplayName>
-			<Tip>Create a domain spanning an 8-meter radius around the target point. Increases the mental state, mood, cultivation speed of allied characters inside the domain.</Tip>
+			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Meningkatkan kondisi mental, suasana hati, kecepatan pengembangan karakter sekutu di dalam domain.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointJian1">
 			<DisplayName>Pedang Ilahi Phoenix</DisplayName>
-			<Tip>Everyone combines their Qi in order to control the formation pillar's artifact and refill it with Qi, drastically boosting the Artifact Power according to the formation's Sword Mastery Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointSkill1">
 			<DisplayName>Raungan Naga Ilahi</DisplayName>
-			<Tip>Everyone combines their Qi in order to help the formation pillar cast the next spell, boosting its power. The power increase is related to the formation's Spell Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability1">
 			<DisplayName>Penghapusan Ilahi</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
-			<Tip>Deals a huge amount of damage to the enemy's formation stability.</Tip>
+			<HeadMsg>Pilih pembantu musuh.</HeadMsg>
+			<Tip>Menimbulkan kerusakan besar pada stabilitas formasi musuh.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability2">
 			<DisplayName>Nirwana</DisplayName>
-			<Tip>Recovers formation stability.</Tip>
+			<Tip>Memulihkan stabilitas formasi.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian">
 			<DisplayName>Penyerang Kemarahan</DisplayName>
-			<Tip>After a short delay, deals a huge amount of Qi damage to enemies within a 12-meter radius of the target point.</Tip>
+			<Tip>Setelah jeda singkat, menimbulkan kerusakan Qi dalam jumlah besar kepada musuh dalam radius 12 meter dari titik target.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
 			<DisplayName>Pertempuran Peluru Kesendirian</DisplayName>
