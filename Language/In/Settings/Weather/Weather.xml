@@ -1047,7 +1047,7 @@
 	</Weather>
 	
 	<Weather Name="Fei_Overcast">
-		<DisplayName>Berawan (蜚)</DisplayName>
+		<DisplayName>Berawan (Fei)</DisplayName>
 		<StoryDesc>Awan gelap memenuhi langit, awan hitam menyapu, awan dan kabut terkunci</StoryDesc>
 		<Icon>res/Sprs/ui/icon_yintian01</Icon>
 		<Kind>Type1</Kind>
