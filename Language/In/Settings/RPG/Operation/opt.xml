@@ -1,34 +1,34 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mine">
-			<DisplayName>pertambangan</DisplayName>
+			<DisplayName>Pertambangan</DisplayName>
 		</Text>
 		<Text Name="Pickup">
-			<DisplayName>mengumpulkan</DisplayName>
+			<DisplayName>Mengumpulkan</DisplayName>
 		</Text>
 		<Text Name="Cutoff">
-			<DisplayName>memotong</DisplayName>
+			<DisplayName>Memotong</DisplayName>
 		</Text>
 		<Text Name="Eat">
-			<DisplayName>makan</DisplayName>
+			<DisplayName>Makan</DisplayName>
 		</Text>
 		<Text Name="Dialog">
-			<DisplayName>berbicara</DisplayName>
+			<DisplayName>Berbicara</DisplayName>
 		</Text>
 		<Text Name="Interact">
 			<DisplayName>Berinteraksi</DisplayName>
 		</Text>
 		<Text Name="Equip">
-			<DisplayName>memakai</DisplayName>
+			<DisplayName>Memakai</DisplayName>
 		</Text>
 		<Text Name="Attack">
-			<DisplayName>menyerang</DisplayName>
+			<DisplayName>Menyerang</DisplayName>
 		</Text>
 		<Text Name="Slaughter">
-			<DisplayName>membunuh</DisplayName>
+			<DisplayName>Membunuh</DisplayName>
 		</Text>
 		<Text Name="SlaughterBoss">
-			<DisplayName>menggali</DisplayName>
+			<DisplayName>Menggali</DisplayName>
 		</Text>
 	</List>
 </Texts>
