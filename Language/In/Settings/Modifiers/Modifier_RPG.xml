@@ -1,8 +1,8 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="RPGSelectNpc">
-			<DisplayName>Teknik khusus untuk pelatihan umum</DisplayName>
-			<Desc>Teknik khusus untuk pelatihan umum</Desc>
+			<DisplayName>Efek Khusus Pelatihan Umum</DisplayName>
+			<Desc>Efek Khusus Pelatihan Umum</Desc>
 		</Text>
 	</List>
 </Texts>
