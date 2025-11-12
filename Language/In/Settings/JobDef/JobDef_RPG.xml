@@ -1,52 +1,52 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobAIPathMove">
-			<DisplayName>berjalan</DisplayName>
+			<DisplayName>Bergerak</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIFree">
-			<DisplayName>berjalan-jalan</DisplayName>
+			<DisplayName>Berjalan-jalan</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIStay">
-			<DisplayName>Istirahatlah</DisplayName>
+			<DisplayName>Tinggal</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIRoute">
-			<DisplayName>patroli</DisplayName>
+			<DisplayName>Patroli</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIPatrol">
-			<DisplayName>bepergian</DisplayName>
+			<DisplayName>Berkeliaran</DisplayName>
 		</Text>
 		<Text Name="JobRPGPlayerMove">
-			<DisplayName>berjalan</DisplayName>
+			<DisplayName>Bergerak</DisplayName>
 		</Text>
 		<Text Name="JobRPGOpt">
-			<DisplayName>berjalan</DisplayName>
+			<DisplayName>Bergerak</DisplayName>
 		</Text>
 		<Text Name="JobRPGMine">
-			<DisplayName>pertambangan</DisplayName>
+			<DisplayName>Milikku</DisplayName>
 		</Text>
 		<Text Name="JobRPGCutoff">
-			<DisplayName>memotong kayu</DisplayName>
+			<DisplayName>Mencacah</DisplayName>
 		</Text>
 		<Text Name="JobRPGPickup">
-			<DisplayName>menyusun</DisplayName>
+			<DisplayName>Mengumpulkan</DisplayName>
 		</Text>
 		<Text Name="JobRPGEat">
-			<DisplayName>makan</DisplayName>
+			<DisplayName>Makan</DisplayName>
 		</Text>
 		<Text Name="JobRPGDialog">
-			<DisplayName>berbicara</DisplayName>
+			<DisplayName>Bicara</DisplayName>
 		</Text>
 		<Text Name="JobRPGEquip">
-			<DisplayName>memakai</DisplayName>
+			<DisplayName>Melengkapi</DisplayName>
 		</Text>
 		<Text Name="JobRPGPassiveMove">
-			<DisplayName>berjalan</DisplayName>
+			<DisplayName>Bergerak</DisplayName>
 		</Text>
 		<Text Name="JobRPGMoveTo">
-			<DisplayName>berjalan ke</DisplayName>
+			<DisplayName>Pindah Ke</DisplayName>
 		</Text>
 		<Text Name="JobRPGSlaughter">
-			<DisplayName>membedah</DisplayName>
+			<DisplayName>Tukang daging</DisplayName>
 		</Text>
 	</List>
 </Texts>
