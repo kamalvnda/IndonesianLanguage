@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="affix_1">
-			<Display>demonisasi</Display>
+			<Display>Demonisasi</Display>
 			<Desc>[color=#B0FA6B][size=18]· Ada kemungkinan besar hewan akan berubah menjadi monster saat dibunuh.[/color][/size]</Desc>
 		</Text>
 		<Text Name="affix_2">
@@ -17,7 +17,7 @@
 			<Desc>[size=18]· Meningkatkan jumlah barang yang dijatuhkan dari setan dan hewan.\n · Pedagang akan memiliki barang dagangan dua kali lebih banyak.[/size]</Desc>
 		</Text>
 		<Text Name="affix_4">
-			<Display>hewan peliharaan roh</Display>
+			<Display>Hewan peliharaan roh</Display>
 			<Desc>[size=18]· Mulailah dengan hewan peliharaan Huajuan\n · Nutrisi yang lebih baik dari memelihara hewan peliharaan.[/size]</Desc>
 		</Text>
 		<Text Name="challenge_affix_1">
