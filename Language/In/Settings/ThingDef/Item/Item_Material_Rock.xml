@@ -4,12 +4,12 @@
 			<Item.FabaoSuffix>Batu, Segel, Prasasti, Dualjade, Tablet, Menara, Batu Besar</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRock" sParam="Item">
-			<ThingName>batu coklat</ThingName>
+			<ThingName>Batu coklat</ThingName>
 			<Desc>Batu berwarna coklat; bahan yang sangat umum.</Desc>
 			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRock" sParam="Item">
-			<ThingName>batu abu-abu</ThingName>
+			<ThingName>Batu abu-abu</ThingName>
 			<Desc>Batu berwarna abu-abu; bahan yang sangat umum.</Desc>
 			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
 		</Text>
