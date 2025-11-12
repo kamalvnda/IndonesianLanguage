@@ -2,23 +2,23 @@
 	<List>
 		<Text Name="Optimistic">
 			<DisplayName>Optimis</DisplayName>
-			<Desc>Segala sesuatu ada naik turunnya. Apakah saya benar?</Desc>
-			<StoryDesc>Lihatlah dunia seperti biasa.</StoryDesc>
+			<Desc>Segalanya tampak selalu naik dan naik, bukan?</Desc>
+			<StoryDesc>Optimis seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Pessimism">
-			<DisplayName>pesimistis</DisplayName>
-			<Desc>Mengapa dunia ini diciptakan? Mengapa kita harus menderita seperti ini?</Desc>
-			<StoryDesc>Melihat dunia dengan pesimis seperti biasanya</StoryDesc>
+			<DisplayName>Pesimis</DisplayName>
+			<Desc>Dunia ini sudah berakhir, mengapa kita harus terus memperpanjang hal yang tidak bisa dihindari?</Desc>
+			<StoryDesc>Pesimistis seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Depressed">
-			<DisplayName>tidak bahagia</DisplayName>
-			<Desc>Semuanya... Ini sangat tidak ada artinya</Desc>
-			<StoryDesc>Tertekan seperti biasa</StoryDesc>
+			<DisplayName>Tidak senang</DisplayName>
+			<Desc>Itu tidak ada artinya, tidak ada satupun...</Desc>
+			<StoryDesc>Sedih seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Regret">
-			<DisplayName>sedih</DisplayName>
-			<Desc>Aku benar-benar merasa kasihan... Seandainya aku bisa memutar kembali waktu... Hidupku setelah ini akan dipenuhi dengan kesakitan. Saya hanya bisa berharap bahwa saya akan memiliki kesempatan untuk menebus dosa-dosa saya.</Desc>
-			<StoryDesc>Masih tenggelam dalam perasaan menyesal</StoryDesc>
+			<DisplayName>Sedih</DisplayName>
+			<Desc>Aku benar-benar menyesalinya...kalau saja keadaannya berbeda. Aku hanya berharap tahun-tahunku yang tersisa ini penuh dengan kepedihan, mungkin itu akan membawa sedikit penebusan.</Desc>
+			<StoryDesc>Penuh penyesalan seperti biasanya</StoryDesc>
 		</Text>
 	</List>
 </Texts>
