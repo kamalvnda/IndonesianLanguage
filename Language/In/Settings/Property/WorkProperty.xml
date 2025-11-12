@@ -105,12 +105,12 @@
 		</Text>
 		<Text Name="MiningYieldEfficiency">
 			<DisplayName>Produk dari pertambangan</DisplayName>
-			<Desc>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Desc>
+			<Desc>Hasil yang diperoleh dari penambangan mineral.</Desc>
 			<FunctionKind>Status Kerajinan</FunctionKind>
 		</Text>
 		<Text Name="MadeQualityAddValue">
-			<DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</DisplayName>
-			<Desc>Kualitas ditambahkan ke berbagai hal Setelah membuatnya</Desc>
+			<DisplayName>Menciptakan Peningkatan Kualitas</DisplayName>
+			<Desc>Kualitas yang ditambahkan ke suatu barang saat mengolahnya menjadi produk akhir.</Desc>
 			<FunctionKind>Status Kerajinan</FunctionKind>
 		</Text>
 		<Text Name="ArtRateValue">
