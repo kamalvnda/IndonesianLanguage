@@ -1,106 +1,234 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Weather_SunnyDay">
-      <DisplayName>Hari yang cerah</DisplayName>
-    </Text>
-    <Text Name="Weather_Overcast">
-      <DisplayName>Berawan</DisplayName>
-    </Text>
-    <Text Name="Weather_LightRain">
-      <DisplayName>Hujan ringan</DisplayName>
-    </Text>
-    <Text Name="Weather_HeavyRain">
-      <DisplayName>Hujan lebat</DisplayName>
-    </Text>
-    <Text Name="Weather_LightSnow">
-      <DisplayName>Salju tipis</DisplayName>
-    </Text>
-    <Text Name="Weather_HeavySnow">
-      <DisplayName>Salju lebat</DisplayName>
-    </Text>
-    <Text Name="Weather_DenseFog">
-      <DisplayName>Kabut tebal</DisplayName>
-    </Text>
-    <Text Name="Weather_SpringAir">
-      <DisplayName>Musim semi sudah tiba</DisplayName>
-    </Text>
-    <Text Name="Weather_Melancholy">
-      <DisplayName>Suasana yang menyedihkan</DisplayName>
-    </Text>
-    <Text Name="Weather_HarvestAir">
-      <DisplayName>Panen melimpah</DisplayName>
-    </Text>
-    <Text Name="Weather_Impetuous">
-      <DisplayName>Suasana terburu-buru</DisplayName>
-    </Text>
-    <Text Name="Weather_Hail">
-      <DisplayName>Memanggil</DisplayName>
-    </Text>
-    <Text Name="Weather_MouldRains">
-      <DisplayName>Hujan prem</DisplayName>
-    </Text>
-    <Text Name="Weather_Drought">
-      <DisplayName>Kekeringan</DisplayName>
-    </Text>
-    <Text Name="Weather_Rainstorm">
-      <DisplayName>Hujan badai</DisplayName>
-    </Text>
-    <Text Name="Weather_Fohn">
-      <DisplayName>Angin Foehn</DisplayName>
-    </Text>
-    <Text Name="Weather_DustStorm">
-      <DisplayName>Badai debu</DisplayName>
-    </Text>
-    <Text Name="Weather_LingRarefiedWave">
-      <DisplayName>Qi kering</DisplayName>
-    </Text>
-    <Text Name="Weather_LingUpWave">
-      <DisplayName>Qi yang kaya</DisplayName>
-    </Text>
-    <Text Name="Weather_HeatWave">
-      <DisplayName>Gelombang panas</DisplayName>
-    </Text>
-    <Text Name="Weather_ColdWave">
-      <DisplayName>Depan dingin</DisplayName>
-    </Text>
-    <Text Name="Weather_HeatWaveInWinter">
-      <DisplayName>Aliran hangat</DisplayName>
-    </Text>
-    <Text Name="Weather_ColdWaveInSummer">
-      <DisplayName>Depan dingin</DisplayName>
-    </Text>
-    <Text Name="Weather_PermanentNight">
-      <DisplayName>Malam abadi</DisplayName>
-    </Text>
-    <Text Name="Weather_Miasma">
-      <DisplayName>racun</DisplayName>
-    </Text>
-    <Text Name="Weather_LightningStorm">
-      <DisplayName>Badai petir</DisplayName>
-    </Text>
-    <Text Name="Weather_LuShu_SunnyDay">
-      <DisplayName>Hari yang cerah</DisplayName>
-    </Text>
-    <Text Name="Weather_Fei_HeavyRain">
-      <DisplayName>Hujan lebat</DisplayName>
-    </Text>
-    <Text Name="Weather_SpringFestival">
-      <DisplayName>Festival musim semi</DisplayName>
-    </Text>
-    <Text Name="Weather_ZuShiBiHu">
-      <DisplayName>Perlindungan leluhur</DisplayName>
-    </Text>
-    <Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
-      <DisplayName>Alam Air Sejati Sembilan Yin</DisplayName>
-      <Desc>Alam Air Sejati Sembilan Yin sangat meningkatkan kekuatan pemulihan alami karakter ramah dan kecepatan pengisian Qi</Desc>
-    </Text>
-    <Text Name="Modifier_Weather_Magic_BeiDouJianJie">
-      <DisplayName>Alam Pedang Beruang Besar</DisplayName>
-      <Desc>Great Bear Sword Realm sangat meningkatkan kekuatan harta karun karakter teman</Desc>
-    </Text>
-    <Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
-      <DisplayName>Nine Yang True Fire Realm</DisplayName>
-      <Desc>Alam Api Sejati Sembilan Yang menyebabkan peningkatan suhu yang besar, meningkatkan kekuatan mantra karakter teman secara signifikan</Desc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Weather_SunnyDay">
+			<DisplayName>Jernih</DisplayName>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>Berawan</DisplayName>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>Hujan ringan</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>Hujan lebat</DisplayName>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>Salju Ringan</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>Salju Lebat</DisplayName>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>Kabut Tebal</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>Udara Musim Semi</DisplayName>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>Suasana hati yang suram</DisplayName>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>Panen Udara</DisplayName>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>Gangguan</DisplayName>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>Memanggil</DisplayName>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>Musim hujan</DisplayName>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>Kekeringan</DisplayName>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>Hujan badai</DisplayName>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>Angin Foehn</DisplayName>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>Badai Debu</DisplayName>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>Kekeringan Qi</DisplayName>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>Semburan Qi</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>Gelombang Panas</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>Sangat Dingin</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>Gelombang Panas</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>Sangat Dingin</DisplayName>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>Malam Kutub</DisplayName>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>Udara Berbahaya</DisplayName>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>Hujan badai</DisplayName>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>Jernih</DisplayName>
+		</Text>
+		<Text Name="Weather_Fei_HeavyRain">
+			<DisplayName>Hujan lebat</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>Festival Musim Semi</DisplayName>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>Perlindungan Grandmaster</DisplayName>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Qi Aquasfer</DisplayName>
+			<Desc>Tingkatkan kecepatan pemulihan Qi dan Ketahanan Alami Anda secara signifikan saat berada di dalam Qi Aquasphere.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+			<DisplayName>Zona Pedang Kereta Besar</DisplayName>
+			<Desc>Tingkatkan Kekuatan Artefak Anda secara signifikan saat berada di dalam Grand Chariot Bladezone.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Qi Ignosfer</DisplayName>
+			<Desc>Tingkatkan Kekuatan Mantra Anda secara signifikan saat berada di dalam Qi Ignosphere.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Season_DanQi">
+			<DisplayName>Qi Alkimia Meluap</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Wu">
+			<DisplayName>Qi Alkimia Meluap (Qi Primordial)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, tingkat budidaya menurun, kecepatan belajar meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Jin">
+			<DisplayName>Qi Alkimia Meluap (Qi Metalik)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Mu">
+			<DisplayName>Qi Alkimia Meluap (Qi Kayu)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Shui">
+			<DisplayName>Qi Alkimia Meluap (Qi Air)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Huo">
+			<DisplayName>Qi Alkimia Meluap (Qi Api)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Tu">
+			<DisplayName>Qi Alkimia Meluap (Qi Bumi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMu">
+			<DisplayName>Qi Alkimia Meluap (Qi yang Melelahkan)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan pemotongan kayu dan pemanenan meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShui">
+			<DisplayName>Alkimia Qi Meluap (Lonjakan Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alchemy Qi yang kaya, kerajinan tangan dan kecepatan menjahit meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuo">
+			<DisplayName>Qi Alkimia Meluap (Qi Meleleh)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan penambangan meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinTu">
+			<DisplayName>Alkimia Qi Meluap (Akumulasi Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, hasil penambangan meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShui">
+			<DisplayName>Alkimia Qi Meluap (Pembiakan Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, hasil panen meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuo">
+			<DisplayName>Qi Alkimia Meluap (Qi Api Penuh)</DisplayName>
+			<Desc>Dikelilingi oleh Alchemy Qi yang kaya, kecepatan menempa dan memasak meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuTu">
+			<DisplayName>Alkimia Qi Meluap (Menstabilkan Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan konstruksi meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuo">
+			<DisplayName>Qi Alkimia Meluap (Qi Api Menurun)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan bantuan bencana dan tingkat keberhasilan meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiTu">
+			<DisplayName>Alkimia Qi Meluap (Qi Meluap)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, efek penyembuhan dan pemulihan alami yang diharapkan meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_HuoTu">
+			<DisplayName>Alkimia Qi Meluap (Ashen Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan pembongkaran dan pemrosesan batu meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuShui">
+			<DisplayName>Alkimia Qi Meluap (Jia Wood Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kompatibilitas teknik atribut kayu meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuHuo">
+			<DisplayName>Qi Alkimia Meluap (Yi Kayu Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, hasil alkimia meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuTu">
+			<DisplayName>Alkimia Qi Meluap (Ji Earth Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan pembangunan fondasi, kecepatan kultivasi, dan nilai kondisi mental meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiHuo">
+			<DisplayName>Alkimia Qi Meluap (Xin Metal Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, tingkat keberhasilan penyempurnaan artefak meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiTu">
+			<DisplayName>Alkimia Qi Meluap (Ren Air Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kompatibilitas teknik atribut air meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuoTu">
+			<DisplayName>Alkimia Qi Meluap (Kui Metal Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kompatibilitas teknik atribut logam meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiHuo">
+			<DisplayName>Alkimia Qi Meluap (Bing Fire Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kompatibilitas teknik atribut api meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiTu">
+			<DisplayName>Qi Alkimia Meluap (Qi Air Gui)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan pemurnian pil meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuoTu">
+			<DisplayName>Alkimia Qi Meluap (Wu Earth Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kompatibilitas teknik atribut bumi meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuoTu">
+			<DisplayName>Alkimia Qi Meluap (Ding Fire Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya, kecepatan pemurnian harta magis meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoJin">
+			<DisplayName>Alkimia Qi Meluap (Logam Sever Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoMu">
+			<DisplayName>Alkimia Qi Meluap (Kayu Sever Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoShui">
+			<DisplayName>Alkimia Qi Meluap (Air Sever Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoHuo">
+			<DisplayName>Alkimia Qi Meluap (Fire Sever Qi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoTu">
+			<DisplayName>Qi Alkimia Meluap (Qi Utara Bumi)</DisplayName>
+			<Desc>Dikelilingi oleh Alkimia Qi yang kaya.</Desc>
+		</Text>
+	</List>
 </Texts>
