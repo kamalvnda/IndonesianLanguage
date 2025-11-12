@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="jiaolong_baoyu">
-			<DisplayName>Hujan Badai (Air Naga)</DisplayName>
-			<StoryDesc>Hujan badai menyebabkan malapetaka</StoryDesc>
+			<DisplayName>Hujan Badai (Naga Banjir)</DisplayName>
+			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
 		</Text>
 		<Text Name="xiongfeng_lieyang">
-			<DisplayName>Sinar matahari cerah (Fire Swan)</DisplayName>
-			<StoryDesc>Matahari bersinar di atas. (Kondisi cuaca saat ini tidak dapat diubah)</StoryDesc>
+			<DisplayName>Matahari Bersinar (Phoenix)</DisplayName>
+			<StoryDesc>Matahari bersinar di atas. Cuaca saat ini tidak dapat digantikan.</StoryDesc>
 		</Text>
 		<Text Name="xiongfeng_suneye">
-			<DisplayName>Suneye</DisplayName>
-			<StoryDesc>Suhu di area ini akan terus meningkat.</StoryDesc>
+			<DisplayName>Mata Surya</DisplayName>
+			<StoryDesc>Suhu di kawasan ini akan terus meningkat.</StoryDesc>
 		</Text>
 		<Text Name="zhulong_day">
-			<DisplayName>Hari Abadi Yang</DisplayName>
+			<DisplayName>Matahari Tengah Malam Yang</DisplayName>
 		</Text>
 		<Text Name="zhulong_night">
-			<DisplayName>Malam Abadi Yin</DisplayName>
+			<DisplayName>Malam Kutub Yin</DisplayName>
 		</Text>
 		<Text Name="zhulong_day_begin">
-			<DisplayName>Hari Abadi Yang</DisplayName>
+			<DisplayName>Matahari Tengah Malam Yang</DisplayName>
 		</Text>
 		<Text Name="zhulong_night_begin">
-			<DisplayName>Malam Abadi Yin</DisplayName>
+			<DisplayName>Malam Kutub Yin</DisplayName>
 		</Text>
 	</List>
 </Texts>
