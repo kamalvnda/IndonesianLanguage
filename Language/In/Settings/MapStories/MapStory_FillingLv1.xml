@@ -1,366 +1,366 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="TESTALL">
-			<DisplayName>Guru bangun</DisplayName>
-			<Desc>Sejak gelombang pasang seribu tahun melanda, para pembudidaya kuno telah muncul di mana-mana. Kumpulkan informasi sebanyak mungkin. Banyak Dewa muncul di dunia ini sekali lagi.</Desc>
-			<Selections.0.Display>Guru bangun</Selections.0.Display>
+			<DisplayName>Kelahiran Orang Bijak</DisplayName>
+			<Desc>Sejak awal Gelombang Seribu Tahun, Penggarap Kuno telah bermunculan di mana-mana. Kumpulkan informasi sebanyak mungkin, sudah ada banyak orang bijak yang lahir di dunia ini.</Desc>
+			<Selections.0.Display>Kelahiran Orang Bijak</Selections.0.Display>
 		</Text>
 		<Text Name="BaseFillingStory">
-			<DamageCache.0.DescTags>Bentrokan senjata ajaib</DamageCache.0.DescTags>
-			<DamageCache.1.DescTags>Bentrokan senjata ajaib</DamageCache.1.DescTags>
-			<DamageCache.2.DescTags>Bentrokan senjata ajaib</DamageCache.2.DescTags>
-			<DamageCache.3.DescTags>Bentrokan senjata ajaib</DamageCache.3.DescTags>
-			<DamageCache.4.DescTags>Bentrokan senjata ajaib</DamageCache.4.DescTags>
-			<DamageCache.5.DescTags>Bentrokan senjata ajaib</DamageCache.5.DescTags>
-			<DamageCache.6.DescTags>Bentrokan senjata ajaib</DamageCache.6.DescTags>
-			<DamageCache.7.DescTags>Bentrokan senjata ajaib</DamageCache.7.DescTags>
-			<DamageCache.8.DescTags>Bentrokan senjata ajaib</DamageCache.8.DescTags>
-			<DamageCache.9.DescTags>Bentrokan senjata ajaib</DamageCache.9.DescTags>
-			<DamageCache.10.DescTags>Kerusakan Elemen Emas</DamageCache.10.DescTags>
-			<DamageCache.11.DescTags>Kerusakan Elemen Emas</DamageCache.11.DescTags>
-			<DamageCache.12.DescTags>Kerusakan Elemen Emas</DamageCache.12.DescTags>
-			<DamageCache.13.DescTags>Kerusakan Elemen Emas</DamageCache.13.DescTags>
-			<DamageCache.14.DescTags>Kerusakan Elemen Emas</DamageCache.14.DescTags>
-			<DamageCache.15.DescTags>Kerusakan unsur kayu</DamageCache.15.DescTags>
-			<DamageCache.16.DescTags>Kerusakan unsur kayu</DamageCache.16.DescTags>
-			<DamageCache.17.DescTags>Kerusakan unsur kayu</DamageCache.17.DescTags>
-			<DamageCache.18.DescTags>Kerusakan unsur kayu</DamageCache.18.DescTags>
-			<DamageCache.19.DescTags>Kerusakan unsur kayu</DamageCache.19.DescTags>
-			<DamageCache.20.DescTags>Kerusakan unsur kayu</DamageCache.20.DescTags>
-			<DamageCache.21.DescTags>Kerusakan unsur air</DamageCache.21.DescTags>
-			<DamageCache.22.DescTags>Kerusakan unsur air</DamageCache.22.DescTags>
-			<DamageCache.23.DescTags>Kerusakan unsur air</DamageCache.23.DescTags>
-			<DamageCache.24.DescTags>Kerusakan unsur air</DamageCache.24.DescTags>
-			<DamageCache.25.DescTags>Kerusakan unsur air</DamageCache.25.DescTags>
-			<DamageCache.26.DescTags>Kerusakan elemen api</DamageCache.26.DescTags>
-			<DamageCache.27.DescTags>Kerusakan elemen api</DamageCache.27.DescTags>
-			<DamageCache.28.DescTags>Kerusakan elemen api</DamageCache.28.DescTags>
-			<DamageCache.29.DescTags>Kerusakan elemen api</DamageCache.29.DescTags>
-			<DamageCache.30.DescTags>Kerusakan elemen api</DamageCache.30.DescTags>
-			<DamageCache.31.DescTags>Kerusakan Elemen Tanah</DamageCache.31.DescTags>
-			<DamageCache.32.DescTags>Kerusakan Elemen Tanah</DamageCache.32.DescTags>
-			<DamageCache.33.DescTags>Kerusakan Elemen Tanah</DamageCache.33.DescTags>
-			<DamageCache.34.DescTags>Kerusakan Elemen Tanah</DamageCache.34.DescTags>
-			<DamageCache.35.DescTags>Kerusakan Elemen Tanah</DamageCache.35.DescTags>
-			<DamageCache.36.DescTags>Kerusakan Elemen Tanah</DamageCache.36.DescTags>
+			<DamageCache.0.DescTags>Penghancuran Artefak</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>Penghancuran Artefak</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>Penghancuran Artefak</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>Penghancuran Artefak</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>Penghancuran Artefak</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>Penghancuran Artefak</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>Penghancuran Artefak</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>Penghancuran Artefak</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>Penghancuran Artefak</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>Penghancuran Artefak</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>Kerusakan Logam</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>Kerusakan Logam</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>Kerusakan Logam</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>Kerusakan Logam</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>Kerusakan Logam</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>Kerusakan Kayu</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>Kerusakan Kayu</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>Kerusakan Kayu</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>Kerusakan Kayu</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>Kerusakan Kayu</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>Kerusakan Kayu</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>Kerusakan Air</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>Kerusakan Air</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>Kerusakan Air</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>Kerusakan Air</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>Kerusakan Air</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>Kerusakan Akibat Kebakaran</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>Kerusakan Akibat Kebakaran</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>Kerusakan Akibat Kebakaran</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>Kerusakan Akibat Kebakaran</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>Kerusakan Akibat Kebakaran</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>Kerusakan Bumi</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>Kerusakan Bumi</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>Kerusakan Bumi</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>Kerusakan Bumi</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>Kerusakan Bumi</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>Kerusakan Bumi</DamageCache.36.DescTags>
 		</Text>
 		<Text Name="Free_Base">
-			<DisplayName>pergi jalan-jalan</DisplayName>
-			<Desc>[NAME]Temukan tempat dengan pemandangan yang sangat indah dan siapkan senjata ajaib.[ITS]Setelah itu kami berjalan keluar untuk melihat pemandangan sekitar.</Desc>
+			<DisplayName>Berjalan-jalan</DisplayName>
+			<Desc>[NAME]menemukan tempat dengan pemandangan yang bagus[ITS]artefak itu pergi dan pergi untuk melihat pemandangan.</Desc>
 		</Text>
 		<Text Name="Free_1">
-			<DisplayName>Menyesap teh</DisplayName>
-			<Desc>[NAME]Melewati kota kecil di suatu tempat dan merasa sedikit lelah[ENHIM]Menyembunyikan Qi-nya, berpura-pura menjadi orang biasa dan pergi menyesap teh di kedai teh desa.</Desc>
+			<DisplayName>Minum Teh</DisplayName>
+			<Desc>[NAME]melewati sebuah kota kecil, merasa sedikit lelah dan sebagainya, berpenampilan seperti orang biasa, dan mampir untuk beristirahat di kedai teh setempat.</Desc>
 		</Text>
 		<Text Name="Free_2">
-			<DisplayName>istirahat</DisplayName>
-			<Desc>Dalam perjalanan[NAME]Merasa sedikit lelah, saya memutuskan untuk tidur siang di bawah pohon.</Desc>
+			<DisplayName>Istirahat</DisplayName>
+			<Desc>[NAME]merasa sedikit lelah sepanjang perjalanan dan memutuskan untuk tidur siang di bawah pohon.</Desc>
 		</Text>
 		<Text Name="Join_Base">
-			<DisplayName>Berpartisipasilah dalam Festival Takdir Xian</DisplayName>
-			<Desc>[NAME]Menemukan beberapa orang biasa yang mungkin memiliki bakat kultivasi dan memberi tahu mereka tentang lokasi sekte tersebut.[ITS]kepada sekelompok orang itu sebelum terbang menjauh</Desc>
+			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
+			<Desc>[NAME]menemukan beberapa rakyat jelata yang telah berkomitmen pada Tao dan memberitahukan lokasinya kepada rakyat jelata[ITS]Sekolah lalu melanjutkan perjalanan.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
-			<DisplayName>menculik orang biasa</DisplayName>
-			<Desc>[NAME]Ucapkan mantra dan culik sekelompok orang biasa.</Desc>
+			<DisplayName>Menculik manusia</DisplayName>
+			<Desc>[NAME]melakukan keajaiban dan kemudian menculik beberapa manusia.</Desc>
 		</Text>
 		<Text Name="Join_1">
-			<DisplayName>Berpartisipasilah dalam Festival Takdir Xian</DisplayName>
-			<Desc>[NAME]Temukan seorang pemuda dengan kemampuan luar biasa, temukan pohon muda dengan kemampuan hebat. Oleh karena itu, mereka melakukan beberapa keajaiban dalam mimpi mereka dan memberi mereka takdir untuk mempraktikkan penguasaan. Jika murid ini tertarik untuk mencari keabadian, Dia mungkin akan tiba di sekte tersebut dalam satu atau dua hari berikutnya.</Desc>
+			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
+			<Desc>[NAME]menemukan individu muda yang sangat berbakat dan mengungkapkan keajaiban kepada mereka dalam mimpi mereka, memberikan Takdir Abadi kepada rakyat jelata ini. Jika murid ini memutuskan untuk mencari umur panjang dengan mengikuti Tao, mereka mungkin akan tiba di gerbang Ordo dalam satu atau dua hari.</Desc>
 		</Text>
 		<Text Name="Join_2">
-			<DisplayName>Berpartisipasilah dalam Festival Takdir Xian</DisplayName>
-			<Desc>[NAME]Bertemu dengan sepenuh hati setiap kali bulan membiru Melihat orang-orang diburu dan menyadari bahwa nasib mereka sepertinya terikat pada sekte tersebut.[NAME]Dia membacakan mantra untuk membantu mereka dan membawa mereka ke sekte tersebut.</Desc>
+			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
+			<Desc>[NAME]menemukan balas dendam setiap bulan biru. Setelah melihat seseorang yang sedang diburu dan menyadari bahwa nasib mereka sepertinya terikat pada Sekolah,[NAME]membacakan mantra untuk menyelamatkan mereka dan mengarahkan mereka ke Sekolah.</Desc>
 		</Text>
 		<Text Name="Visit_Base">
-			<DisplayName>pertemuan kebetulan</DisplayName>
-			<Desc>[NAME]Bertemu dengan sekelompok siswa[SCHOOL]Ayo, ucapkan halo.[ENHIM]sambil berjalan di jalan</Desc>
-			<Selections.0.Display>pergi mencari</Selections.0.Display>
-			<Selections.1.Display>berbicara ramah</Selections.1.Display>
-			<Selections.2.Display>obrolan ringan</Selections.2.Display>
-			<Selections.3.Display>ejekan</Selections.3.Display>
-			<Selections.4.Display>ejekan</Selections.4.Display>
-			<Selections.5.Display>tidak tertarik</Selections.5.Display>
-			<Selections.6.Display>memprovokasi</Selections.6.Display>
-			<Selections.6.Tip>inti emas</Selections.6.Tip>
-			<Selections.7.Display>memprovokasi</Selections.7.Display>
-			<Selections.7.Tip>inti emas</Selections.7.Tip>
-			<Selections.8.Display>tidak tertarik</Selections.8.Display>
-			<Selections.8.Tip>inti emas</Selections.8.Tip>
-			<Selections.9.Display>tidak tertarik</Selections.9.Display>
-			<Selections.9.Tip>inti emas</Selections.9.Tip>
+			<DisplayName>Pertemuan Kesempatan</DisplayName>
+			<Desc>[NAME]menemukan sekelompok[SCHOOL]murid-murid yang datang untuk memberi salam[ENHIM]saat berada di jalan.</Desc>
+			<Selections.0.Display>Melanjutkan</Selections.0.Display>
+			<Selections.1.Display>Obrolan Ramah</Selections.1.Display>
+			<Selections.2.Display>Obrolan Kecil</Selections.2.Display>
+			<Selections.3.Display>Mengejek</Selections.3.Display>
+			<Selections.4.Display>Mengejek</Selections.4.Display>
+			<Selections.5.Display>Mengabaikan</Selections.5.Display>
+			<Selections.6.Display>Memprovokasi</Selections.6.Display>
+			<Selections.6.Tip>Inti Emas</Selections.6.Tip>
+			<Selections.7.Display>Memprovokasi</Selections.7.Display>
+			<Selections.7.Tip>Inti Emas</Selections.7.Tip>
+			<Selections.8.Display>Mengabaikan</Selections.8.Display>
+			<Selections.8.Tip>Inti Emas</Selections.8.Tip>
+			<Selections.9.Display>Mengabaikan</Selections.9.Display>
+			<Selections.9.Tip>Inti Emas</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_1">
-			<DisplayName>pertemuan kebetulan</DisplayName>
-			<Desc>[NAME]Temui senior dari[SCHOOL]Sambil berjalan di jalan</Desc>
-			<Selections.0.Display>pergi mencari</Selections.0.Display>
-			<Selections.1.Display>menyapa</Selections.1.Display>
-			<Selections.2.Display>obrolan ringan</Selections.2.Display>
-			<Selections.3.Display>serangan diam-diam</Selections.3.Display>
-			<Selections.3.Tip>inti emas</Selections.3.Tip>
-			<Selections.4.Display>serangan diam-diam</Selections.4.Display>
-			<Selections.4.Tip>inti emas</Selections.4.Tip>
-			<Selections.5.Display>menyerang</Selections.5.Display>
-			<Selections.5.Tip>inti emas</Selections.5.Tip>
-			<Selections.6.Display>tidak tertarik</Selections.6.Display>
-			<Selections.7.Display>memprovokasi</Selections.7.Display>
-			<Selections.7.Tip>inti emas</Selections.7.Tip>
-			<Selections.8.Display>memprovokasi</Selections.8.Display>
-			<Selections.8.Tip>inti emas</Selections.8.Tip>
-			<Selections.9.Display>tidak tertarik</Selections.9.Display>
-			<Selections.9.Tip>inti emas</Selections.9.Tip>
-			<Selections.10.Display>tidak tertarik</Selections.10.Display>
-			<Selections.10.Tip>inti emas</Selections.10.Tip>
+			<DisplayName>Pertemuan Kesempatan</DisplayName>
+			<Desc>[NAME]terjadi pada seorang penatua[SCHOOL]sambil berjalan di jalan.</Desc>
+			<Selections.0.Display>Melanjutkan</Selections.0.Display>
+			<Selections.1.Display>Mengunjungi</Selections.1.Display>
+			<Selections.2.Display>Obrolan Kecil</Selections.2.Display>
+			<Selections.3.Display>Serangan Menyelinap</Selections.3.Display>
+			<Selections.3.Tip>Inti Emas</Selections.3.Tip>
+			<Selections.4.Display>Serangan Menyelinap</Selections.4.Display>
+			<Selections.4.Tip>Inti Emas</Selections.4.Tip>
+			<Selections.5.Display>Menyerang</Selections.5.Display>
+			<Selections.5.Tip>Inti Emas</Selections.5.Tip>
+			<Selections.6.Display>Mengabaikan</Selections.6.Display>
+			<Selections.7.Display>Memprovokasi</Selections.7.Display>
+			<Selections.7.Tip>Inti Emas</Selections.7.Tip>
+			<Selections.8.Display>Memprovokasi</Selections.8.Display>
+			<Selections.8.Tip>Inti Emas</Selections.8.Tip>
+			<Selections.9.Display>Mengabaikan</Selections.9.Display>
+			<Selections.9.Tip>Inti Emas</Selections.9.Tip>
+			<Selections.10.Display>Mengabaikan</Selections.10.Display>
+			<Selections.10.Tip>Inti Emas</Selections.10.Tip>
 		</Text>
 		<Text Name="Visit_2">
-			<DisplayName>Kunjungi kantor</DisplayName>
-			<Desc>Kapan[NAME]tahu itu[SCHOOL]Di dekat sini[ENHIM]sedang menuju ke arah[SCHOOL]langsung</Desc>
-			<Selections.0.Display>ke dalam</Selections.0.Display>
-			<Selections.1.Display>Kunjungi kepala kantor</Selections.1.Display>
-			<Selections.2.Display>Kunjungi kepala kantor</Selections.2.Display>
-			<Selections.3.Display>Mendapatkan kepercayaan dari Istana Nuea Napa</Selections.3.Display>
-			<Selections.4.Display>Rahasia Gua Guntur</Selections.4.Display>
-			<Selections.5.Display>menyapa</Selections.5.Display>
-			<Selections.6.Display>menyapa</Selections.6.Display>
-			<Selections.7.Display>menyapa</Selections.7.Display>
-			<Selections.8.Display>menyapa</Selections.8.Display>
-			<Selections.9.Display>menyapa</Selections.9.Display>
-			<Selections.9.Tip>Alam Roh Primordial atau memiliki hubungan yang baik</Selections.9.Tip>
-			<Selections.10.Display>menyelinap masuk</Selections.10.Display>
-			<Selections.10.Tip>Alam Roh Primordial dan memiliki keberuntungan yang tinggi.</Selections.10.Tip>
-			<Selections.11.Display>tidak tertarik</Selections.11.Display>
+			<DisplayName>Kunjungi Sekolah Gunung</DisplayName>
+			<Desc>[NAME]sedang bergegas ketika menyadari bahwa sekolah pegunungan[SCHOOL]berada di dekatnya.</Desc>
+			<Selections.0.Display>Memasuki</Selections.0.Display>
+			<Selections.1.Display>Kunjungi Pemimpin Sekte</Selections.1.Display>
+			<Selections.2.Display>Kunjungi Pemimpin Sekte</Selections.2.Display>
+			<Selections.3.Display>Dipercayakan oleh Istana Skydome</Selections.3.Display>
+			<Selections.4.Display>Rahasia Gua Petir</Selections.4.Display>
+			<Selections.5.Display>Mengunjungi</Selections.5.Display>
+			<Selections.6.Display>Mengunjungi</Selections.6.Display>
+			<Selections.7.Display>Mengunjungi</Selections.7.Display>
+			<Selections.8.Display>Mengunjungi</Selections.8.Display>
+			<Selections.9.Display>Mengunjungi</Selections.9.Display>
+			<Selections.9.Tip>Roh Primordial atau kedua belah pihak harus memiliki hubungan yang baik.</Selections.9.Tip>
+			<Selections.10.Display>Menyelinap masuk</Selections.10.Display>
+			<Selections.10.Tip>Keadaan Roh Primordial dan Keberuntungan tinggi</Selections.10.Tip>
+			<Selections.11.Display>Mengabaikan</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
-			<DisplayName>tanah manusia</DisplayName>
-			<Desc>[NAME]Melewati kota kecil dan bersenang-senang jadi memutuskan untuk menyamar sebagai orang normal dan menghilang ke dalam kota.</Desc>
-			<Selections.0.Display>Bermain di tanah manusia</Selections.0.Display>
-			<Selections.1.Display>menyebabkan kekacauan di dunia manusia</Selections.1.Display>
-			<Selections.2.Display>meninggalkan</Selections.2.Display>
+			<DisplayName>Alam Fana</DisplayName>
+			<Desc>[NAME]melewati sebuah kota kecil, mengambil perasaan duniawi dan memutuskan untuk mengambil penampilan sebagai orang biasa dan menghilang ke dalam kota.</Desc>
+			<Selections.0.Display>Nikmati Alam Fana</Selections.0.Display>
+			<Selections.1.Display>Lemparkan Alam Fana ke dalam kekacauan</Selections.1.Display>
+			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Story_1">
-			<DisplayName>tanah manusia</DisplayName>
-			<Desc>[NAME]Perhatikan ada seorang wanita tua yang sedang memoles jeruji besi di tepi sungai.</Desc>
-			<Selections.0.Display>Pertanyaan (niat baik)</Selections.0.Display>
-			<Selections.1.Display>Anda telah memperoleh pemahaman.</Selections.1.Display>
-			<Selections.2.Display>Penyelidikan (niat jahat)</Selections.2.Display>
-			<Selections.3.Display>Itu seorang wanita lagi.</Selections.3.Display>
-			<Selections.4.Display>Itu seorang wanita lagi.</Selections.4.Display>
-			<Selections.5.Display>Itu seorang wanita lagi.</Selections.5.Display>
+			<DisplayName>Alam Fana</DisplayName>
+			<Desc>[NAME]memperhatikan ada seorang wanita tua yang sedang memoles batang besi di tepi sungai.</Desc>
+			<Selections.0.Display>Bertanya (Niat Baik)</Selections.0.Display>
+			<Selections.1.Display>Anda memperoleh pemahaman.</Selections.1.Display>
+			<Selections.2.Display>Menanyakan (Niat Jahat)</Selections.2.Display>
+			<Selections.3.Display>Dia lagi.</Selections.3.Display>
+			<Selections.4.Display>Dia lagi.</Selections.4.Display>
+			<Selections.5.Display>Dia lagi.</Selections.5.Display>
 		</Text>
 		<Text Name="Story_2">
-			<DisplayName>tanah manusia</DisplayName>
-			<Desc>[NAME]Sepertinya kita ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini.[IT]Duduk disana memikirkan apakah mungkin memperoleh pencerahan dari tempat ini.</Desc>
-			<Selections.0.Display>Bermeditasi untuk menemukan konsep Tao.</Selections.0.Display>
-			<Selections.0.Tip>menggunakan kecerdasan</Selections.0.Tip>
+			<DisplayName>Alam Fana</DisplayName>
+			<Desc>[NAME]sepertinya ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini. Diatasi dengan rasa kagum,[IT]duduk di sana dan tidak tahu apakah mungkin mendapatkan pencerahan.</Desc>
+			<Selections.0.Display>Inspirasi Mendalam</Selections.0.Display>
+			<Selections.0.Tip>Intelijen</Selections.0.Tip>
 			<Selections.1.Display>Menyerap Qi</Selections.1.Display>
 		</Text>
 		<Text Name="Story_3">
-			<DisplayName>tanah manusia</DisplayName>
-			<Desc>[NAME]Dua binatang ajaib terlihat bertarung di udara. Kedua binatang itu sepertinya memiliki metode bertarung yang sangat aneh. Seolah-olah itu adalah pertarungan antara binatang dari dunia lain.[NAME]Keduanya merasa heboh sekaligus takjub. Tampaknya pertarungan antara dua binatang iblis ini menyembunyikan suatu misteri.</Desc>
-			<Selections.0.Display>Tirulah binatang buas</Selections.0.Display>
-			<Selections.0.Tip>Gunakan kesadaran</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Alam Fana</DisplayName>
+			<Desc>[NAME]melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain.[NAME]sangat bersemangat dan penasaran karena sepertinya pertarungan antara kedua binatang ini menyembunyikan suatu misteri.</Desc>
+			<Selections.0.Display>Tirulah binatang-binatang aneh itu</Selections.0.Display>
+			<Selections.0.Tip>Persepsi</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="GoodFight_Base">
-			<DisplayName>bencana dari epidemi</DisplayName>
-			<Desc>[NAME]Melewati sebuah kota dan menemukan bahwa kota tersebut sedang menderita epidemi. Tampaknya di gerbang kota ada beberapa Penggarap yang membantu warga kota mengendalikan Penyakit Peledak. Namun, situasinya terus memburuk di mana-mana dan sepertinya mereka tidak akan mampu mengendalikannya dalam waktu lama.</Desc>
-			<Selections.0.Display>membantu</Selections.0.Display>
-			<Selections.1.Display>membantu secara tidak jujur</Selections.1.Display>
-			<Selections.1.Tip>Nafas dasar</Selections.1.Tip>
-			<Selections.2.Display>membantu secara tidak jujur</Selections.2.Display>
-			<Selections.2.Tip>Buat inti nafas</Selections.2.Tip>
-			<Selections.3.Display>tidak tertarik</Selections.3.Display>
+			<DisplayName>Wabah mendatangkan malapetaka</DisplayName>
+			<Desc>[NAME]melewati sebuah kota dan menemukan bahwa wabah penyakit mendatangkan malapetaka di tempat ini. Di pintu masuk kota nampaknya ada beberapa petani yang membantu warga kota untuk mengendalikan wabah. Namun situasinya semakin memburuk, sepertinya mereka tidak akan mampu mengendalikannya.</Desc>
+			<Selections.0.Display>Membantu</Selections.0.Display>
+			<Selections.1.Display>Membantu dengan tidak tulus</Selections.1.Display>
+			<Selections.1.Tip>Pembentukan Qi</Selections.1.Tip>
+			<Selections.2.Display>Membantu dengan tidak tulus</Selections.2.Display>
+			<Selections.2.Tip>pembentukan inti</Selections.2.Tip>
+			<Selections.3.Display>Mengabaikan</Selections.3.Display>
 		</Text>
 		<Text Name="GoodFight_1">
-			<DisplayName>Pertarungan antara Dhamma dan Adham</DisplayName>
-			<Desc>[NAME]Cahaya terang terlihat dan ledakan keras terdengar tak jauh dari situ. Sepertinya ada orang yang berkelahi.</Desc>
-			<Selections.0.Display>Menyerang murid-murid Sekte Iblis</Selections.0.Display>
-			<Selections.0.Tip>Buat inti nafas</Selections.0.Tip>
-			<Selections.1.Display>Menyerang murid-murid Sekte Iblis</Selections.1.Display>
-			<Selections.1.Tip>Buat inti nafas</Selections.1.Tip>
-			<Selections.2.Display>Menyerang siswa sekolah Dhamma</Selections.2.Display>
-			<Selections.2.Tip>Buat inti nafas</Selections.2.Tip>
-			<Selections.3.Display>Menyerang siswa sekolah Dhamma</Selections.3.Display>
-			<Selections.3.Tip>Buat inti nafas</Selections.3.Tip>
-			<Selections.4.Display>tidak tertarik</Selections.4.Display>
+			<DisplayName>Pertempuran antara Keadilan dan Kejahatan</DisplayName>
+			<Desc>[NAME]melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang yang berkelahi.</Desc>
+			<Selections.0.Display>Serang Murid Sekte Jahat</Selections.0.Display>
+			<Selections.0.Tip>pembentukan inti</Selections.0.Tip>
+			<Selections.1.Display>Serang Murid Sekte Jahat</Selections.1.Display>
+			<Selections.1.Tip>pembentukan inti</Selections.1.Tip>
+			<Selections.2.Display>Serang Hanya Murid Sekte</Selections.2.Display>
+			<Selections.2.Tip>pembentukan inti</Selections.2.Tip>
+			<Selections.3.Display>Serang Hanya Murid Sekte</Selections.3.Display>
+			<Selections.3.Tip>pembentukan inti</Selections.3.Tip>
+			<Selections.4.Display>Mengabaikan</Selections.4.Display>
 		</Text>
 		<Text Name="BadFight_Base">
-			<DisplayName>Pasukan Pemurnian Jiwa Iblis</DisplayName>
-			<Desc>[NAME]Melewati sebuah kota dan menemukan banyak roh pendendam di daerah tersebut. Sepertinya seseorang sedang berlatih seni iblis.</Desc>
-			<Selections.0.Display>membantu</Selections.0.Display>
-			<Selections.1.Display>membantu secara tidak jujur</Selections.1.Display>
-			<Selections.1.Tip>inti emas</Selections.1.Tip>
-			<Selections.2.Display>hentikan mereka</Selections.2.Display>
-			<Selections.2.Tip>inti emas</Selections.2.Tip>
-			<Selections.3.Display>tidak tertarik</Selections.3.Display>
+			<DisplayName>Array Jahat Memurnikan Jiwa</DisplayName>
+			<Desc>[NAME]melewati sebuah kota dan menemukan bahwa kebencian berlimpah di tempat ini. Sepertinya seseorang sedang mempraktikkan ilmu hitam.</Desc>
+			<Selections.0.Display>Membantu</Selections.0.Display>
+			<Selections.1.Display>Membantu dengan tidak tulus</Selections.1.Display>
+			<Selections.1.Tip>Inti Emas</Selections.1.Tip>
+			<Selections.2.Display>Hentikan mereka.</Selections.2.Display>
+			<Selections.2.Tip>Inti Emas</Selections.2.Tip>
+			<Selections.3.Display>Mengabaikan</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
-			<DisplayName>Pertarungan antara Dhamma dan Adham</DisplayName>
-			<Desc>[NAME]Cahaya terang terlihat dan ledakan keras terdengar tak jauh dari situ. Sepertinya ada orang yang berkelahi.</Desc>
-			<Selections.0.Display>Menyerang murid-murid Sekte Iblis</Selections.0.Display>
-			<Selections.0.Tip>Buat inti nafas</Selections.0.Tip>
-			<Selections.1.Display>Menyerang murid-murid Sekte Iblis</Selections.1.Display>
-			<Selections.1.Tip>Buat inti nafas</Selections.1.Tip>
-			<Selections.2.Display>Menyerang siswa sekolah Dhamma</Selections.2.Display>
-			<Selections.2.Tip>Buat inti nafas</Selections.2.Tip>
-			<Selections.3.Display>Menyerang siswa sekolah Dhamma</Selections.3.Display>
-			<Selections.3.Tip>Buat inti nafas</Selections.3.Tip>
-			<Selections.4.Display>tidak tertarik</Selections.4.Display>
+			<DisplayName>Pertempuran antara Keadilan dan Kejahatan</DisplayName>
+			<Desc>[NAME]melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang yang berkelahi.</Desc>
+			<Selections.0.Display>Serang Murid Sekte Jahat</Selections.0.Display>
+			<Selections.0.Tip>pembentukan inti</Selections.0.Tip>
+			<Selections.1.Display>Serang Murid Sekte Jahat</Selections.1.Display>
+			<Selections.1.Tip>pembentukan inti</Selections.1.Tip>
+			<Selections.2.Display>Serang Hanya Murid Sekte</Selections.2.Display>
+			<Selections.2.Tip>pembentukan inti</Selections.2.Tip>
+			<Selections.3.Display>Serang Hanya Murid Sekte</Selections.3.Display>
+			<Selections.3.Tip>pembentukan inti</Selections.3.Tip>
+			<Selections.4.Display>Mengabaikan</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
-			<DisplayName>Temukan harta ajaib</DisplayName>
-			<Desc>[NAME]Secara tidak sengaja menemukan tempat persembunyian beberapa penggarap... Dan sepertinya tempat itu sudah lama ditinggalkan.</Desc>
-			<Selections.0.Display>Berjalan untuk melihat.</Selections.0.Display>
-			<Selections.0.Tip>Habiskan banyak uang</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Cari Relik</DisplayName>
+			<Desc>[NAME]secara tidak sengaja menemukan kediaman tersembunyi seorang penggarap...sepertinya sudah ditinggalkan beberapa waktu yang lalu.</Desc>
+			<Selections.0.Display>Lihatlah</Selections.0.Display>
+			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
-			<DisplayName>Menemukan kolam misterius</DisplayName>
-			<Desc>[NAME]Lelah setelah melakukan perjalanan berhari-hari berturut-turut, malam itu juga[ENHIM]Kami menemukan kolam yang dalam dengan pemandangan yang indah dan memutuskan untuk berhenti di area ini untuk bermalam.[NAME]Saya sangat terkejut dengan cahaya redup itu. muncul di kolam itu</Desc>
-			<Selections.0.Display>Berjalan untuk melihat.</Selections.0.Display>
-			<Selections.0.Tip>Kembangkan Qi</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Pertemuan Kolam Dalam</DisplayName>
+			<Desc>[NAME]bergegas selama berhari-hari, dan meski lelah, baru setelah menemukan genangan air yang dalam di senja hari, orang ini memutuskan untuk beristirahat. Pada malam hari,[NAME]terkejut saat menemukan cahaya sepertinya berasal dari air.</Desc>
+			<Selections.0.Display>Lihatlah</Selections.0.Display>
+			<Selections.0.Tip>Masuk ke Status Latihan</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Base">
-			<DisplayName>Kumpulkan sumber daya</DisplayName>
-			<Desc>Kapan[NAME]Bepergian ketika Anda tiba di suatu tempat tertentu.[ENHIM]Menemukan tempat ini memiliki banyak hal yang cukup berguna.</Desc>
-			<Selections.0.Display>mengumpulkan</Selections.0.Display>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Kumpulkan Sumber Daya</DisplayName>
+			<Desc>Kapan[NAME]sampai di tempat ini, ternyata disekitarnya banyak sekali yang bisa dikumpulkan.</Desc>
+			<Selections.0.Display>Pengumpulan Sumber Daya</Selections.0.Display>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="City_Base">
-			<DisplayName>kota</DisplayName>
-			<Desc>[NAME]telah tiba[PLACE]dan menemukan bahwa terdapat populasi yang padat dan bisnis berkembang pesat.</Desc>
-			<Selections.0.Display>Temukan seorang siswa</Selections.0.Display>
-			<Selections.0.Tip>Gunakan keberuntungan dan pesona</Selections.0.Tip>
-			<Selections.1.Display>Merampok orang biasa</Selections.1.Display>
-			<Selections.2.Display>Bantu orang</Selections.2.Display>
-			<Selections.3.Display>Beli bahan</Selections.3.Display>
-			<Selections.4.Display>meninggalkan</Selections.4.Display>
+			<DisplayName>Kota</DisplayName>
+			<Desc>[NAME]datang ke[PLACE]dan menemukan bahwa wilayah tersebut padat penduduknya dan bisnis berkembang pesat.</Desc>
+			<Selections.0.Display>Cari Murid</Selections.0.Display>
+			<Selections.0.Tip>Keberuntungan dan Karisma</Selections.0.Tip>
+			<Selections.1.Display>Rob Rakyat jelata</Selections.1.Display>
+			<Selections.2.Display>Bantu orang lain</Selections.2.Display>
+			<Selections.3.Display>Bahan Pembelian</Selections.3.Display>
+			<Selections.4.Display>Berangkat</Selections.4.Display>
 		</Text>
 		<Text Name="Business_Base">
-			<DisplayName>Beli bahan</DisplayName>
-			<Desc>[NAME]Menemukan bahwa ada pasar yang sangat berkembang pesat di sini dengan harga yang lebih murah dari biasanya.[ENHIM]Jadi saya memutuskan untuk membeli sesuatu dan membawanya kembali.</Desc>
-			<Selections.0.Display>membeli makanan</Selections.0.Display>
-			<Selections.1.Display>membeli marmer</Selections.1.Display>
-			<Selections.2.Display>Beli kayu olahan</Selections.2.Display>
-			<Selections.3.Display>membeli bijih besi</Selections.3.Display>
-			<Selections.4.Display>membeli kapas</Selections.4.Display>
+			<DisplayName>Bahan Pembelian</DisplayName>
+			<Desc>[NAME]menemukan bahwa tempat ini memiliki pasar yang berkembang dengan harga rendah sehingga memutuskan untuk mengambil barang sebelum kembali.</Desc>
+			<Selections.0.Display>Beli Makanan</Selections.0.Display>
+			<Selections.1.Display>Beli Marmer</Selections.1.Display>
+			<Selections.2.Display>Beli Kayu</Selections.2.Display>
+			<Selections.3.Display>Beli Bijih Besi</Selections.3.Display>
+			<Selections.4.Display>Beli Kapas</Selections.4.Display>
 		</Text>
 		<Text Name="Highfind_Base">
-			<DisplayName>Cari harta karun</DisplayName>
-			<Desc>[NAME]Saya mendengar berita bahwa ada beberapa item di...[PLACE]yang berguna untuk pelatihan</Desc>
-			<Selections.0.Display>mencari</Selections.0.Display>
-			<Selections.0.Tip>Habiskan banyak uang</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Kumpulkan Harta Karun</DisplayName>
+			<Desc>[NAME]mendengar bahwa ada beberapa barang yang diproduksi[PLACE]yang berguna untuk Latihan seseorang.</Desc>
+			<Selections.0.Display>Mencari</Selections.0.Display>
+			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
-			<DisplayName>mencari petunjuk</DisplayName>
-			<Desc>[NAME]Apakah kamu sudah lewat?[PLACE]Saat bepergian dan bertemu dengan penduduk setempat sedang membicarakan sesuatu.</Desc>
-			<Selections.0.Display>Mintalah informasi</Selections.0.Display>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Carilah Petunjuk</DisplayName>
+			<Desc>[NAME]lewat[PLACE]saat bepergian dan menemukan bahwa ada banyak sekali orang yang mendiskusikan sesuatu.</Desc>
+			<Selections.0.Display>Bertanya-tanya</Selections.0.Display>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
-			<DisplayName>Temukan tempat</DisplayName>
-			<Desc>[NAME]Kudengar ada tempat menarik di dekat sini.[PLACE]Jadi[ENHIM]Jadi memutuskan untuk melakukan perjalanan untuk mencari tempat itu.</Desc>
-			<Selections.0.Display>Temukan tempat yang tenang</Selections.0.Display>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Cari Lokasi</DisplayName>
+			<Desc>[NAME]mendengar bahwa ada lebih dari beberapa tempat yang sangat menarik di dekatnya[PLACE]dan memutuskan untuk pergi bertamasya.</Desc>
+			<Selections.0.Display>Cari Tempat Terpencil</Selections.0.Display>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Cold">
-			<DisplayName>Menemukan tanah salju secara tidak sengaja</DisplayName>
-			<Desc>[NAME]Sepertinya kita ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini.[IT]Duduk disana memikirkan apakah mungkin memperoleh pencerahan dari tempat ini.</Desc>
-			<Selections.0.Display>memahami konsepnya</Selections.0.Display>
-			<Selections.0.Tip>menggunakan kecerdasan</Selections.0.Tip>
+			<DisplayName>Pertemuan Kebetulan di Padang Salju</DisplayName>
+			<Desc>[NAME]sepertinya ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini. Diatasi dengan rasa kagum,[IT]duduk di sana dan tidak tahu apakah mungkin mendapatkan pencerahan.</Desc>
+			<Selections.0.Display>Inspirasi Mendalam</Selections.0.Display>
+			<Selections.0.Tip>Intelijen</Selections.0.Tip>
 			<Selections.1.Display>Menyerap Qi</Selections.1.Display>
-			<Selections.2.Display>Ini terlalu dingin</Selections.2.Display>
+			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Cold2">
-			<DisplayName>Menemukan tanah salju secara tidak sengaja</DisplayName>
-			<Desc>[NAME]Dua binatang ajaib terlihat bertarung di udara. Kedua binatang itu sepertinya memiliki metode bertarung yang sangat aneh. Seolah-olah itu adalah pertarungan antara binatang dari dunia lain.[NAME]Keduanya merasa heboh sekaligus takjub. Tampaknya pertarungan antara dua binatang iblis ini menyembunyikan suatu misteri.</Desc>
-			<Selections.0.Display>Tirulah binatang buas</Selections.0.Display>
-			<Selections.0.Tip>Gunakan kesadaran</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
-			<Selections.2.Display>Ini terlalu dingin</Selections.2.Display>
+			<DisplayName>Pertemuan Kebetulan di Padang Salju</DisplayName>
+			<Desc>[NAME]melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain.[NAME]sangat bersemangat dan penasaran karena sepertinya pertarungan antara kedua binatang ini menyembunyikan suatu misteri.</Desc>
+			<Selections.0.Display>Tirulah binatang-binatang aneh itu</Selections.0.Display>
+			<Selections.0.Tip>Persepsi</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
+			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Secret_Cold_Base">
-			<DisplayName>mencari petunjuk</DisplayName>
-			<Desc>[NAME]Telah bepergian ke[PLACE]Dan[IT]Saya mendengar beberapa rumor menyebar di kalangan penduduk kota.</Desc>
-			<Selections.0.Display>Mintalah informasi</Selections.0.Display>
-			<Selections.0.Tip>Resistensi dingin</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Carilah Petunjuk</DisplayName>
+			<Desc>[NAME]bepergian ke[PLACE]Dan[IT]mendengar bahwa ada rumor menarik yang tersebar di sini dan mencoba mencari tahu apa yang bisa ditemukan.</Desc>
+			<Selections.0.Display>Bertanya-tanya</Selections.0.Display>
+			<Selections.0.Tip>Tahan Dingin</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
-			<DisplayName>Temukan tempat</DisplayName>
-			<Desc>[NAME]Kudengar ada tempat menarik di dekat sini.[PLACE]Jadi[ENHIM]Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Desc>
-			<Selections.0.Display>Temukan tempat yang tenang</Selections.0.Display>
-			<Selections.0.Tip>Resistensi dingin</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Cari Lokasi</DisplayName>
+			<Desc>[NAME]mendengar bahwa ada lebih dari beberapa tempat yang sangat menarik di dekatnya[PLACE]dan memutuskan untuk pergi bertamasya.</Desc>
+			<Selections.0.Display>Cari Tempat Terpencil</Selections.0.Display>
+			<Selections.0.Tip>Tahan Dingin</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Cold_Base">
-			<DisplayName>Kumpulkan sumber daya</DisplayName>
-			<Desc>ketika[NAME]bepergian[ENHIM]Saya kebetulan memperhatikan sesuatu di sekitar saya.[PLACE]yang cukup berguna bagi biro</Desc>
-			<Selections.0.Display>Kumpulkan sumber daya lokal</Selections.0.Display>
-			<Selections.0.Tip>Resistensi dingin</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
+			<DisplayName>Kumpulkan Sumber Daya</DisplayName>
+			<Desc>Ketika[NAME]sedang bepergian, ternyata disekitarnya banyak sekali[PLACE]itu bisa berguna.</Desc>
+			<Selections.0.Display>Kumpulkan Makanan Khas Lokal</Selections.0.Display>
+			<Selections.0.Tip>Tahan Dingin</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
-			<DisplayName>Cari harta karun</DisplayName>
-			<Desc>[NAME]Saya mendengar berita bahwa ada beberapa item di...[PLACE]yang berguna untuk pelatihan</Desc>
-			<Selections.0.Display>mencari</Selections.0.Display>
-			<Selections.0.Tip>Habiskan banyak uang</Selections.0.Tip>
-			<Selections.1.Display>tidak tertarik</Selections.1.Display>
-			<Selections.2.Display>Ini terlalu dingin</Selections.2.Display>
+			<DisplayName>Kumpulkan Harta Karun</DisplayName>
+			<Desc>[NAME]mendengar bahwa ada beberapa barang yang diproduksi[PLACE]yang berguna untuk Latihan seseorang.</Desc>
+			<Selections.0.Display>Mencari</Selections.0.Display>
+			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.1.Display>Mengabaikan</Selections.1.Display>
+			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Visit_Old_Base">
-			<DisplayName>pertemuan kebetulan</DisplayName>
-			<Desc>[NAME]Bertemu dengan sekelompok siswa[SCHOOL]Ayo, ucapkan halo.[ENHIM]Sambil berjalan di jalan</Desc>
-			<Selections.0.Display>berbicara ramah</Selections.0.Display>
-			<Selections.1.Display>obrolan ringan</Selections.1.Display>
-			<Selections.2.Display>ejekan</Selections.2.Display>
-			<Selections.3.Display>ejekan</Selections.3.Display>
-			<Selections.4.Display>tidak tertarik</Selections.4.Display>
-			<Selections.5.Display>memprovokasi</Selections.5.Display>
-			<Selections.5.Tip>inti emas</Selections.5.Tip>
-			<Selections.6.Display>memprovokasi</Selections.6.Display>
-			<Selections.6.Tip>inti emas</Selections.6.Tip>
-			<Selections.7.Display>tidak tertarik</Selections.7.Display>
-			<Selections.7.Tip>inti emas</Selections.7.Tip>
-			<Selections.8.Display>tidak tertarik</Selections.8.Display>
-			<Selections.8.Tip>inti emas</Selections.8.Tip>
+			<DisplayName>Pertemuan Kesempatan</DisplayName>
+			<Desc>[NAME]menemukan sekelompok[SCHOOL]murid-murid yang datang untuk memberi salam[ENHIM]saat berada di jalan.</Desc>
+			<Selections.0.Display>Obrolan Ramah</Selections.0.Display>
+			<Selections.1.Display>Obrolan Kecil</Selections.1.Display>
+			<Selections.2.Display>Mengejek</Selections.2.Display>
+			<Selections.3.Display>Mengejek</Selections.3.Display>
+			<Selections.4.Display>Mengabaikan</Selections.4.Display>
+			<Selections.5.Display>Memprovokasi</Selections.5.Display>
+			<Selections.5.Tip>Inti Emas</Selections.5.Tip>
+			<Selections.6.Display>Memprovokasi</Selections.6.Display>
+			<Selections.6.Tip>Inti Emas</Selections.6.Tip>
+			<Selections.7.Display>Mengabaikan</Selections.7.Display>
+			<Selections.7.Tip>Inti Emas</Selections.7.Tip>
+			<Selections.8.Display>Mengabaikan</Selections.8.Display>
+			<Selections.8.Tip>Inti Emas</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
-			<DisplayName>pertemuan kebetulan</DisplayName>
-			<Desc>[NAME]Temui senior dari[SCHOOL]Sambil berjalan di jalan</Desc>
-			<Selections.0.Display>menyapa</Selections.0.Display>
-			<Selections.1.Display>obrolan ringan</Selections.1.Display>
-			<Selections.2.Display>serangan diam-diam</Selections.2.Display>
-			<Selections.2.Tip>inti emas</Selections.2.Tip>
-			<Selections.3.Display>serangan diam-diam</Selections.3.Display>
-			<Selections.3.Tip>inti emas</Selections.3.Tip>
-			<Selections.4.Display>menyerang</Selections.4.Display>
-			<Selections.4.Tip>inti emas</Selections.4.Tip>
-			<Selections.5.Display>tidak tertarik</Selections.5.Display>
-			<Selections.6.Display>memprovokasi</Selections.6.Display>
-			<Selections.6.Tip>inti emas</Selections.6.Tip>
-			<Selections.7.Display>memprovokasi</Selections.7.Display>
-			<Selections.7.Tip>inti emas</Selections.7.Tip>
-			<Selections.8.Display>tidak tertarik</Selections.8.Display>
-			<Selections.8.Tip>inti emas</Selections.8.Tip>
-			<Selections.9.Display>tidak tertarik</Selections.9.Display>
-			<Selections.9.Tip>inti emas</Selections.9.Tip>
+			<DisplayName>Pertemuan Kesempatan</DisplayName>
+			<Desc>[NAME]terjadi pada seorang penatua[SCHOOL]sambil berjalan di jalan.</Desc>
+			<Selections.0.Display>Mengunjungi</Selections.0.Display>
+			<Selections.1.Display>Obrolan Kecil</Selections.1.Display>
+			<Selections.2.Display>Serangan Menyelinap</Selections.2.Display>
+			<Selections.2.Tip>Inti Emas</Selections.2.Tip>
+			<Selections.3.Display>Serangan Menyelinap</Selections.3.Display>
+			<Selections.3.Tip>Inti Emas</Selections.3.Tip>
+			<Selections.4.Display>Menyerang</Selections.4.Display>
+			<Selections.4.Tip>Inti Emas</Selections.4.Tip>
+			<Selections.5.Display>Mengabaikan</Selections.5.Display>
+			<Selections.6.Display>Memprovokasi</Selections.6.Display>
+			<Selections.6.Tip>Inti Emas</Selections.6.Tip>
+			<Selections.7.Display>Memprovokasi</Selections.7.Display>
+			<Selections.7.Tip>Inti Emas</Selections.7.Tip>
+			<Selections.8.Display>Mengabaikan</Selections.8.Display>
+			<Selections.8.Tip>Inti Emas</Selections.8.Tip>
+			<Selections.9.Display>Mengabaikan</Selections.9.Display>
+			<Selections.9.Tip>Inti Emas</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
-			<DisplayName>Kunjungi kantor</DisplayName>
-			<Desc>Kapan[NAME]tahu itu[SCHOOL]Di dekat sini[ENHIM]sedang menuju ke arah[SCHOOL]langsung</Desc>
-			<Selections.0.Display>Kunjungi kepala kantor</Selections.0.Display>
-			<Selections.1.Display>menyapa</Selections.1.Display>
-			<Selections.2.Display>menyapa</Selections.2.Display>
-			<Selections.3.Display>menyapa</Selections.3.Display>
-			<Selections.4.Display>menyapa</Selections.4.Display>
-			<Selections.5.Display>menyapa</Selections.5.Display>
-			<Selections.5.Tip>Alam Roh Primordial atau memiliki hubungan yang baik</Selections.5.Tip>
-			<Selections.6.Display>menyelinap masuk</Selections.6.Display>
-			<Selections.6.Tip>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</Selections.6.Tip>
-			<Selections.7.Display>tidak tertarik</Selections.7.Display>
+			<DisplayName>Kunjungi Sekolah Gunung</DisplayName>
+			<Desc>[NAME]sedang bergegas ketika menyadari bahwa sekolah pegunungan[SCHOOL]berada di dekatnya.</Desc>
+			<Selections.0.Display>Kunjungi Pemimpin Sekte</Selections.0.Display>
+			<Selections.1.Display>Mengunjungi</Selections.1.Display>
+			<Selections.2.Display>Mengunjungi</Selections.2.Display>
+			<Selections.3.Display>Mengunjungi</Selections.3.Display>
+			<Selections.4.Display>Mengunjungi</Selections.4.Display>
+			<Selections.5.Display>Mengunjungi</Selections.5.Display>
+			<Selections.5.Tip>Roh Primordial atau kedua belah pihak harus memiliki hubungan yang baik.</Selections.5.Tip>
+			<Selections.6.Display>Menyelinap masuk</Selections.6.Display>
+			<Selections.6.Tip>Keadaan Roh Primordial dan Keberuntungan tinggi</Selections.6.Tip>
+			<Selections.7.Display>Mengabaikan</Selections.7.Display>
 		</Text>
 	</List>
 </Texts>
