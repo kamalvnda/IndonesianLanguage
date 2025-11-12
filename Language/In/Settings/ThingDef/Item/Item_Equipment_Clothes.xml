@@ -1,67 +1,67 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="ClothesBase" sParam="Item">
-			<Item.FabaoSuffix>pakaian, baju besi, jubah, kemeja</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pakaian, Armor, Jubah, Kemeja</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerClothes" sParam="Item">
-			<ThingName>Kemeja tipis</ThingName>
-			<Desc>Pakaian yang sangat menyerap keringat Namun tidak banyak melindungi dari hawa dingin.</Desc>
+			<ThingName>Kemeja Tipis</ThingName>
+			<Desc>Pakaian yang sangat menyerap keringat, tetapi juga sedikit melindungi seseorang dari hawa dingin.</Desc>
 		</Text>
 		<Text Name="Item_SilkClothes" sParam="Item">
-			<ThingName>kemeja musim panas</ThingName>
-			<Desc>Pakaian yang membuat Anda merasa segar dan santai. Kenakan dan rasakan sejuk dan nyaman.</Desc>
+			<ThingName>Kemeja Musim Panas</ThingName>
+			<Desc>Pakaian yang menyegarkan dan menenangkan, memakainya terasa sejuk dan menyenangkan.</Desc>
 		</Text>
 		<Text Name="Item_PracticeClothes" sParam="Item">
-			<ThingName>Kemeja kantor</ThingName>
-			<Desc>Seragam standar sekte menjaga tubuh tetap hangat dengan baik. Namun memakainya cukup panas dan tidak nyaman.</Desc>
+			<ThingName>Seragam Sekte</ThingName>
+			<Desc>Seragam standar suatu sekte, memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu bernapas.</Desc>
 		</Text>
 		<Text Name="Item_FormalClothes" sParam="Item">
-			<ThingName>kemeja kasual</ThingName>
-			<Desc>Pakaian kasual sehari-hari Membuat tubuh tetap hangat tetapi ventilasi tidak baik.</Desc>
+			<ThingName>Kemeja Kasual</ThingName>
+			<Desc>Pakaian sehari-hari yang kasual memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu menyerap keringat.</Desc>
 		</Text>
 		<Text Name="Item_WinterClothes" sParam="Item">
-			<ThingName>mantel musim dingin</ThingName>
-			<Desc>Pakaian tebal dan kuat Membantu menambah kehangatan tubuh secara maksimal.</Desc>
+			<ThingName>Kemeja Musim Dingin</ThingName>
+			<Desc>Pakaian yang tebal dan kokoh membuat seseorang tetap hangat.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes1" sParam="Item">
-			<ThingName>Jubah Skala Naga</ThingName>
-			<Desc>Pakaian ajaib yang terbuat dari sisik naga. Memiliki kemampuan untuk meningkatkan keterampilan armor mendalam pemakainya.</Desc>
+			<ThingName>Tunik Skala</ThingName>
+			<Desc>Kain ajaib yang ditenun dengan sisik naga. Memakainya meningkatkan tingkat keterampilan Perlindungan seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes2" sParam="Item">
-			<ThingName>Jubah malam</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yin Qi murni. Ia memiliki kemampuan untuk meningkatkan keterampilan qi magis pemakainya.</Desc>
+			<ThingName>Tunik Bayangan</ThingName>
+			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes3" sParam="Item">
-			<ThingName>Jubah Berkobar</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yang Qi murni. Memiliki kemampuan untuk meningkatkan skill senjata sakti kepada pemakainya.</Desc>
+			<ThingName>Tunik Cinder</ThingName>
+			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Artifact Mastery seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes4" sParam="Item">
-			<ThingName>jubah biru langit</ThingName>
-			<Desc>Pakaian ajaib yang ditenun menggunakan metode rahasia yang menantang langit. Memiliki kemampuan untuk mereduksi biji dadu kepada pemakainya.</Desc>
+			<ThingName>Tunik Kain Kafan</ThingName>
+			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes5" sParam="Item">
-			<ThingName>Jubah burung</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari bulu burung surgawi yang memiliki kekuatan untuk mengusir segala kejahatan. Ia memiliki kemampuan untuk meningkatkan kondisi mental dengan mengusir setan batin pemakainya.</Desc>
+			<ThingName>Tunik Bulu</ThingName>
+			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes6" sParam="Item">
-			<ThingName>jubah emas</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yang Qi murni. Memiliki kemampuan untuk meningkatkan skill senjata sakti kepada pemakainya.</Desc>
+			<ThingName>Tunik Emas</ThingName>
+			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Artifact Mastery seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes7" sParam="Item">
-			<ThingName>Jubah mandi api</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari bulu Iblis Tikus Api Neraka. Ia memiliki kemampuan untuk meningkatkan skill Qi Armor dan mengurangi kerusakan elemen api pada pemakainya.</Desc>
+			<ThingName>Tunik Pemandian Api</ThingName>
+			<Desc>Kain ajaib yang dijahit dengan kulit Tikus Api. Memakainya dapat meningkatkan level skill Perlindungan seseorang dan secara efektif mengurangi Kerusakan akibat Kebakaran.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes8" sParam="Item">
-			<ThingName>Jubah selancar laut</ThingName>
-			<Desc>Pakaian ajaib yang ditenun menggunakan metode rahasia yang menantang langit. Memiliki kemampuan untuk mereduksi biji dadu kepada pemakainya.</Desc>
+			<ThingName>Jubah Aliran</ThingName>
+			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes9" sParam="Item">
-			<ThingName>Jubah Bayangan Jiwa</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari benang yang mengandung Yin Qi murni. Ia memiliki kemampuan untuk meningkatkan keterampilan qi magis pemakainya.</Desc>
+			<ThingName>Tunik Spectre</ThingName>
+			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes10" sParam="Item">
-			<ThingName>Jubah Awan Giok</ThingName>
-			<Desc>Pakaian ajaib yang ditenun dari bulu burung surgawi yang memiliki kekuatan untuk mengusir segala kejahatan. Ia memiliki kemampuan untuk meningkatkan kondisi mental dengan mengusir setan batin pemakainya.</Desc>
+			<ThingName>Tunik Derek</ThingName>
+			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang.</Desc>
 		</Text>
 	</List>
 </Texts>
