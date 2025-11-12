@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FoodToHuman">
-			<DisplayName>Makanan Jiwa</DisplayName>
-			<Desc>Memiliki kemampuan menyerap Qi yang tinggi adalah bakat alami.</Desc>
+			<DisplayName>Semangat Makanan Makhluk Hidup</DisplayName>
+			<Desc>Secara alami memiliki kemampuan Penyerapan Qi yang tinggi.</Desc>
 		</Text>
 		<Text Name="LingStoneToHuman">
-			<DisplayName>Roh Batu</DisplayName>
-			<Desc>Memiliki fondasi qi yang tinggi adalah bakat alami.</Desc>
+			<DisplayName>Roh Batu Makhluk Hidup</DisplayName>
+			<Desc>Secara alami memiliki Base Qi yang tinggi.</Desc>
 		</Text>
 		<Text Name="FabaoToHuman">
-			<DisplayName>Roh Senjata Ajaib</DisplayName>
-			<Desc>Memiliki tingkat pemulihan Qi senjata ajaib dan tingkat transfer Qi yang tinggi adalah bakat alami.</Desc>
+			<DisplayName>Roh Artefak Makhluk Hidup</DisplayName>
+			<Desc>Secara alami memiliki tingkat pemulihan Qi artefak dan rasio konversi yang tinggi.</Desc>
 		</Text>
 		<Text Name="DanToHuman">
-			<DisplayName>obat roh</DisplayName>
-			<Desc>Berbagai obat tidak akan menyebabkan tubuh menolak begitu obat tersebut digunakan.</Desc>
+			<DisplayName>Ramuan Hidup</DisplayName>
+			<Desc>Tidak akan ada toleransi obat yang dihasilkan saat Anda meminum pil lagi.</Desc>
 		</Text>
 		<Text Name="PlantToHuman">
-			<DisplayName>Bisa tumbuh sendiri</DisplayName>
-			<Desc>Berkembang perlahan setiap hari</Desc>
+			<DisplayName>Pertumbuhan Diri</DisplayName>
+			<Desc>Terus tumbuh perlahan setiap hari.</Desc>
 		</Text>
 		<Text Name="BuildToHuman">
-			<DisplayName>Bisa sembuh sendiri</DisplayName>
-			<Desc>Proses regenerasi: {0}\n Ketika proses regenerasi 100, semua organ akan beregenerasi dan proses regenerasi menjadi nol.</Desc>
+			<DisplayName>Memperbaiki diri</DisplayName>
+			<Desc>Kemajuan Perbaikan: {0}\n Saat kemajuan perbaikan mencapai 100, semua anggota tubuh yang hilang akan dipulihkan dan kemajuan akan kembali ke nol.</Desc>
 		</Text>
 	</List>
 </Texts>
