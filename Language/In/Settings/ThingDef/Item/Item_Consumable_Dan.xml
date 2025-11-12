@@ -4,7 +4,7 @@
 			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
-			<ThingName>Membentuk Pil</ThingName>
+			<ThingName>Pil Pembentukan Qi</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi, dapat mengatur lima Qi dalam tubuh seseorang dan menstimulasi potensinya, untuk sementara meningkatkan Persepsi, Konstitusi, dan Kecerdasan sebesar 30% selama 48 jam. Secara signifikan meningkatkan kemajuan Pelatihan Dasar untuk murid luar saat dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
@@ -20,7 +20,7 @@
 			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 28 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling" sParam="Item">
-			<ThingName>Pil Hujan Qi</ThingName>
+			<ThingName>Pil Regen Qi</ThingName>
 			<Desc>Pil kaya akan Qi. Konsumsilah untuk memulihkan 3.000 Qi dan meningkatkan Tingkat Pemulihan Qi selama 6 jam. Umumnya disarankan untuk menunda konsumsi setelah mencapai fase pembentukan inti, jika tidak, pengguna dapat terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling2" sParam="Item">
@@ -44,7 +44,7 @@
 			<Desc>Pil yang bisa membuat seseorang merasa bahagia selama 2 hari, tapi juga menurunkan efisiensi dalam melakukan segalanya hingga 50%.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
-			<ThingName>Pil India</ThingName>
+			<ThingName>Pil Inedia</ThingName>
 			<Desc>Konsumsi Pil Inedia untuk mendapatkan kemampuan Penyerapan Qi selama 2 hari, secara otomatis memulihkan Rasa Lapar.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
@@ -69,7 +69,7 @@
 			<Desc>Pil yang dapat menetralkan Qi yang tidak teratur di dalam tubuh seseorang, mampu menyembuhkan luka secara efektif dengan label “Spirit”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
-			<ThingName>Menyembuhkan Bubuk</ThingName>
+			<ThingName>Bubuk Penyembuh</ThingName>
 			<Desc>Elixir mampu menyembuhkan Cedera Batin dengan tag "Logam", "Kayu", "Air", "Api" dan "Bumi"; kerja yang relatif lambat.</Desc>
 			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
 		</Text>
@@ -125,11 +125,11 @@
 			<Desc>Konsumsi untuk memperpanjang umur 500 tahun, serta meningkatkan Lima Atribut masing-masing sebesar 10%. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
-			<ThingName>Pil Hujan</ThingName>
+			<ThingName>Pil Regenerasi</ThingName>
 			<Desc>Pil yang bisa memperpanjang umur 256 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
-			<ThingName>Pil besok</ThingName>
+			<ThingName>Pil Morrow</ThingName>
 			<Desc>Pil yang dapat memperpanjang umur 490 tahun, sekaligus menunda datangnya Kesengsaraan Surgawi selama 49 hari. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
@@ -141,7 +141,7 @@
 			<Desc>Menipu cara Surga menggunakan roh binatang dalam sembilan Mutiara Jiwa, dan menunda Kesengsaraan Surgawi selama 27 hari. Dapat dikonsumsi berkali-kali.</Desc>
 		</Text>
 		<Text Name="Item_Dan_SwordBall" sParam="Item">
-			<ThingName>Pil Pisau</ThingName>
+			<ThingName>Pil Pedang</ThingName>
 			<Desc>Pil ramuan seperti yang tercatat di Pedang Tujuh Pembantaian, dapat dibuat dengan memurnikan esensi lima logam dengan Tungku Alkimia. Jangan menelan—selamanya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
@@ -161,7 +161,7 @@
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Konstitusi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
-			<ThingName>Pil Eter</ThingName>
+			<ThingName>Pil Ether</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Karisma sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
@@ -173,7 +173,7 @@
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Keberuntungan sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
-			<ThingName>pil kutukan</ThingName>
+			<ThingName>Pil kutukan</ThingName>
 			<Desc>Konsumsilah untuk mengaktifkan Qi purba Anda, tingkatkan Lima Atribut masing-masing sebesar 10%. Namun akibatnya, 60 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
@@ -205,7 +205,7 @@
 			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya membuat tubuh karakter menjadi lebih langsing.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
-			<ThingName>Memperbaiki Pil</ThingName>
+			<ThingName>Pil Fixing</ThingName>
 			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya mengunci penampilan karakter saat ini.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
@@ -233,19 +233,19 @@
 			<Desc>Elixir dibuat dengan memanfaatkan Anguish Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, 9 tahun Umurmu akan hilang karena potensinya yang dingin dan menyeramkan.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
-			<ThingName>Pil Soulrend</ThingName>
+			<ThingName>Pil Jiwa</ThingName>
 			<Desc>Elixir dibuat dengan memanfaatkan Spirit Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, cadangan Qi Anda akan rusak karena potensinya yang intensif. Mengurangi Maks Qi sebesar 10.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
-			<ThingName>Pil Tenang</ThingName>
+			<ThingName>Pil Ketenangan</ThingName>
 			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Konsumsi berulang kali secara bertahap akan meningkatkan potensinya. Namun, pengguna akan dikejutkan dengan sisa kesadaran yang kacau, sehingga mengakibatkan kerusakan otak.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul4" sParam="Item">
-			<ThingName>Pil Hangus</ThingName>
+			<ThingName>Pil Menghanguskan</ThingName>
 			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya akan membakar seratus tahun Umur seseorang, memberikan kebijaksanaan luar biasa selama 2 jam dan sangat meningkatkan efisiensi dalam memperoleh Inspirasi. Namun, setelah pil tersebut berlaku, pil tersebut akan menyebabkan kerusakan parah pada pikiran seseorang, secara permanen mengurangi Kecerdasan sebesar 20%. Mengkonsumsinya dalam jumlah besar secara bertahap akan mengurangi potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LunHui1" sParam="Item">
-			<ThingName>Memori Tertutup: Ketenaran</ThingName>
+			<ThingName>Memori Yang Tertutup: Ketenaran</ThingName>
 			<Desc>Setelah dikonsumsi, Anda dapat memperoleh Inspirasi dari dan tergerak oleh rangkaian memori ini. \n[color=#D06508]Ini sebagai apresiasi terhadap serial video Stardom yang dibuat oleh Xiaoyaosanren karena telah memberi saya kekuatan dan kegembiraan![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn" sParam="Item">
@@ -280,11 +280,11 @@
 			<Desc>Elixir terbuat dari roh primordial Torch Dragon, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, sehingga Anda dapat mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
-			<ThingName>Pil Perdana</ThingName>
+			<ThingName>Pil Murni</ThingName>
 			<Desc>Pil Ilahi pada zaman kuno dikatakan dibuat dari gumpalan Qi purba yang jernih dan keruh dari ciptaan dunia. Cara meramunya sudah lama hilang. Dengan meminum pil ini, seseorang dapat menghidupkan kembali penciptaan langit dan bumi di dalam Roh Primordialnya, sehingga memperoleh dua sub-roh. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
-			<ThingName>Pil Serentak</ThingName>
+			<ThingName>Pil Penyatuan</ThingName>
 			<Desc>Pil ilahi pada zaman kuno, metode pembuatannya telah lama hilang. Dengan mengkonsumsi pil ini seseorang menjadi sadar akan dirinya yang lain, menghasilkan sub-spirit baru. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen3" sParam="Item">
