@@ -1,46 +1,46 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Gong_SnatchBody">
-      <DisplayName>Penangkapan Tubuh Lebih Rendah</DisplayName>
-    </Text>
-    <Text Name="Gong_LifeBurning">
-      <DisplayName>Hidup membara</DisplayName>
-      <Desc>Kekuatan meningkat untuk waktu yang singkat. Akan menimbulkan efek samping.</Desc>
-    </Text>
-    <Text Name="Gong_DevilBlood">
-      <DisplayName>Demonisasi</DisplayName>
-      <Desc>Telah menghubungkan jiwa mereka dengan Dunia Bawah, sepenuhnya menjelekkan tubuh. Kekuatan fisik dan kultivasi meningkat pesat, tetapi orang ini ditinggalkan oleh Surga dan Manusia.</Desc>
-    </Text>
-    <Text Name="Gong_DevilBlood_LianHun">
-      <DisplayName>Pemurnian Jiwa</DisplayName>
-      <Desc>Sedang disiksa, menahan rasa sakit yang luar biasa.</Desc>
-    </Text>
-    <Text Name="Gong_HunTin_Self">
-      <DisplayName>Membelah Jiwa</DisplayName>
-      <Desc>Pikiran telah rusak karena penggunaan Parasitisme Jiwa. Pemahaman, kecepatan kultivasi, dan tingkat perolehan poin pemahaman sedikit berkurang.</Desc>
-    </Text>
-    <Text Name="Gong_TaHua_Self">
-      <DisplayName>Karuna</DisplayName>
-      <Desc>Nilai-nilai dasar suasana hati dan keadaan pikiran berkurang.</Desc>
-    </Text>
-    <Text Name="Gong_TaHua_Self1">
-      <DisplayName>Karuna</DisplayName>
-      <Desc>Nilai-nilai dasar suasana hati dan keadaan pikiran berkurang.</Desc>
-    </Text>
-    <Text Name="Gong_TianMoWu">
-      <DisplayName>Tarian Setan</DisplayName>
-    </Text>
-    <Text Name="Gong_SoulKeYin">
-      <DisplayName>Segel Iblis Ilahi</DisplayName>
-    </Text>
-    <Text Name="Modifier_GongXinYin_Damage">
-      <DisplayName>Segel Kekerabatan pulih kembali</DisplayName>
-    </Text>
-    <Text Name="WuYinKeShenRestore">
-      <DisplayName>Pemulihan Lima Segel Ilahi</DisplayName>
-    </Text>
-    <Text Name="TianMoWuRestore">
-      <DisplayName>Pemulihan Tarian Iblis</DisplayName>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>Kepemilikan Dewa Yin</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>Pembakaran Kehidupan</DisplayName>
+			<Desc>Meningkatkan kemampuan untuk waktu singkat dengan mengorbankan kerusakan pada tubuh saat selesai.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>Demonisasi</DisplayName>
+			<Desc>Berkomunikasi dengan Iblis Surgawi dan menjelekkan tubuh seseorang sepenuhnya, sangat meningkatkan kualitas fisik dan kecepatan kultivasi. Tapi mulai sekarang, seseorang akan dibenci oleh makhluk surgawi dan manusia.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>Sempurnakan Jiwa</DisplayName>
+			<Desc>Menahan siksaan, jiwa telah menanggung kesakitan yang luar biasa.</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>Pemisahan Jiwa</DisplayName>
+			<Desc>Karena membelah sebagian Roh Primordial untuk melakukan Infeksi Jiwa, kesadaran karakter menjadi rusak. Kecerdasan, Kecepatan Kultivasi, dan Kecepatan Memperoleh Inspirasi akan sedikit berkurang.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>Simpati yang dieksploitasi</DisplayName>
+			<Desc>Lakukan teknik Eksploitasi untuk memperoleh Inspirasi dan Budidaya dari pikiran makhluk hidup lainnya. Namun akibatnya akan menurunkan nilai dasar Mood dan Mental State.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>Simpati yang dieksploitasi</DisplayName>
+			<Desc>Lakukan teknik Eksploitasi untuk memperoleh Inspirasi dan Budidaya dari pikiran makhluk hidup lainnya. Namun akibatnya akan menurunkan nilai dasar Mood dan Mental State.</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>Daya Tarik Setan Surgawi</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>Jejak Pikiran</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>Nyanyian Resonansi Menjadi Bumerang</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>Pemulihan Lima Jejak Spiritual</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>Pemulihan Tarian Setan Surgawi</DisplayName>
+		</Text>
+	</List>
 </Texts>
