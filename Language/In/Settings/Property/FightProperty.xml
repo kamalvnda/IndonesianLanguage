@@ -101,7 +101,7 @@
 		</Text>
 		<Text Name="NpcFight_ZhenKeyPointNum">
 			<DisplayName>Ukuran kamp</DisplayName>
-			<Desc>Besar kecilnya formasi yang menjadi inti karakter ini. Semakin banyak karakter di kamp, ​​​​semakin baik. Ukuran formasi menjadi lebih besar.</Desc>
+			<Desc>Ukuran formasi dengan karakter ini sebagai pilarnya. Formasi dengan lebih banyak orang akan memiliki ukuran yang lebih besar.</Desc>
 			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenEnginePower">
