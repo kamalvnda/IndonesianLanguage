@@ -1,85 +1,85 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="zhuxian_0">
-			<DisplayName>Inti Pembunuhan Utama</DisplayName>
+			<DisplayName>Pilar Ragestriker</DisplayName>
 		</Text>
 		<Text Name="zhuxian_1">
-			<DisplayName>Bunuh tuannya</DisplayName>
+			<DisplayName>Penyerang Kemarahan</DisplayName>
 		</Text>
 		<Text Name="zhuxian_2">
-			<DisplayName>kematian</DisplayName>
+			<DisplayName>Pembawa Kematian</DisplayName>
 		</Text>
 		<Text Name="zhuxian_3">
-			<DisplayName>tanpa akhir</DisplayName>
+			<DisplayName>Kemarahan yang Tak Berujung</DisplayName>
 		</Text>
 		<Text Name="zhuxian_4">
-			<DisplayName>Kekal</DisplayName>
+			<DisplayName>Pembawa murka</DisplayName>
 		</Text>
 		<Text Name="qixing_0">
-			<DisplayName>Cahaya Surga</DisplayName>
+			<DisplayName>meg</DisplayName>
 		</Text>
 		<Text Name="qixing_1">
-			<DisplayName>Inti Surga</DisplayName>
+			<DisplayName>Duhe</DisplayName>
 		</Text>
 		<Text Name="qixing_2">
-			<DisplayName>Giok Surgawi</DisplayName>
+			<DisplayName>Keingintahuan</DisplayName>
 		</Text>
 		<Text Name="qixing_3">
-			<DisplayName>Mutiara Surgawi</DisplayName>
+			<DisplayName>Pegda</DisplayName>
 		</Text>
 		<Text Name="qixing_4">
-			<DisplayName>Timbangan Surga</DisplayName>
+			<DisplayName>Alioth</DisplayName>
 		</Text>
 		<Text Name="qixing_5">
-			<DisplayName>Bersihkan surga</DisplayName>
+			<DisplayName>Tukang kayu</DisplayName>
 		</Text>
 		<Text Name="qixing_6">
-			<DisplayName>Cahaya surgawi</DisplayName>
+			<DisplayName>Alkaid</DisplayName>
 		</Text>
 		<Text Name="wufang_0">
-			<DisplayName>Inti dari pembentukan Langit dan Bumi</DisplayName>
+			<DisplayName>Pilar Formasi yang Tak Tertembus</DisplayName>
 		</Text>
 		<Text Name="wufang_1">
-			<DisplayName>awan putih</DisplayName>
+			<DisplayName>Awan Putih</DisplayName>
 		</Text>
 		<Text Name="wufang_2">
-			<DisplayName>teratai hijau</DisplayName>
+			<DisplayName>Teratai Hijau</DisplayName>
 		</Text>
 		<Text Name="wufang_3">
-			<DisplayName>gagak hitam</DisplayName>
+			<DisplayName>Hering Hitam</DisplayName>
 		</Text>
 		<Text Name="wufang_4">
-			<DisplayName>Api keabadian melahap bumi.</DisplayName>
+			<DisplayName>Api yang Melonjak</DisplayName>
 		</Text>
 		<Text Name="wufang_5">
-			<DisplayName>buah persik kuning</DisplayName>
+			<DisplayName>Aprikot Kuning</DisplayName>
 		</Text>
 		<Text Name="liuyu_0">
 			<DisplayName>Formasi Kaisar Langit</DisplayName>
 		</Text>
 		<Text Name="liuyu_1">
-			<DisplayName>Formasi Kaisar Kutub</DisplayName>
+			<DisplayName>Formasi Kaisar Polaris</DisplayName>
 		</Text>
 		<Text Name="liuyu_2">
 			<DisplayName>Formasi Kaisar Bintang Utara</DisplayName>
 		</Text>
 		<Text Name="liuyu_3">
-			<DisplayName>Pasal pertama kitab Kejadian</DisplayName>
+			<DisplayName>Formasi Persatuan Primordial</DisplayName>
 		</Text>
 		<Text Name="liuyu_4">
-			<DisplayName>Kamp Mekanik Ilahi Abadi</DisplayName>
+			<DisplayName>Formasi Umur Panjang Ilahi</DisplayName>
 		</Text>
 		<Text Name="liuyu_5">
-			<DisplayName>Formasi Kaisar Dunia</DisplayName>
+			<DisplayName>Formasi Kaisar Bumi</DisplayName>
 		</Text>
 		<Text Name="longxing_0">
-			<DisplayName>Segel Skala Naga Terlarang</DisplayName>
+			<DisplayName>Segel Skala Terlarang</DisplayName>
 		</Text>
 		<Text Name="longxing_1">
-			<DisplayName>Segel Gunung Naga</DisplayName>
+			<DisplayName>Segel Tanduk Naga</DisplayName>
 		</Text>
 		<Text Name="longxing_2">
-			<DisplayName>Segel Gunung Naga</DisplayName>
+			<DisplayName>Segel Tanduk Naga</DisplayName>
 		</Text>
 		<Text Name="longxing_3">
 			<DisplayName>Segel Cakar Naga</DisplayName>
@@ -100,34 +100,34 @@
 			<DisplayName>Segel Ekor Naga</DisplayName>
 		</Text>
 		<Text Name="fengjian_0">
-			<DisplayName>Armor Qi Api Sejati</DisplayName>
+			<DisplayName>Penghalang Api Sejati</DisplayName>
 		</Text>
 		<Text Name="fengjian_1">
-			<DisplayName>Armor Terlupakan</DisplayName>
+			<DisplayName>Penghalang Kelupaan</DisplayName>
 		</Text>
 		<Text Name="fengjian_2">
-			<DisplayName>ditutupi dengan pelindung energi</DisplayName>
+			<DisplayName>Penghalang Mantel</DisplayName>
 		</Text>
 		<Text Name="fengjian_3">
-			<DisplayName>Armor Qi Tulang Hitam</DisplayName>
+			<DisplayName>Penghalang Darkbone</DisplayName>
 		</Text>
 		<Text Name="fengjian_4">
-			<DisplayName>Armor Qi Bulu Api</DisplayName>
+			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
 		</Text>
 		<Text Name="fengjian_5">
-			<DisplayName>Armor Qi Bulu Api</DisplayName>
+			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
 		</Text>
 		<Text Name="fengjian_6">
-			<DisplayName>Armor Qi Tulang Hitam</DisplayName>
+			<DisplayName>Penghalang Darkbone</DisplayName>
 		</Text>
 		<Text Name="fengjian_7">
-			<DisplayName>Armor Qi Bulu Api</DisplayName>
+			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
 		</Text>
 		<Text Name="fengjian_8">
-			<DisplayName>Armor Qi Bulu Api</DisplayName>
+			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
 		</Text>
 		<Text Name="yinyang_0">
-			<DisplayName>Hukum Langit Hitam</DisplayName>
+			<DisplayName>Pengakuan Iman Surga yang Kacau</DisplayName>
 		</Text>
 		<Text Name="yinyang_1">
 			<DisplayName>Hukum Yin</DisplayName>
@@ -135,68 +135,68 @@
 		<Text Name="yinyang_2">
 			<DisplayName>Hukum Yang</DisplayName>
 		</Text>
-		<Text Name="keren_0">
-			<DisplayName>Yin Qi Surgawi</DisplayName>
+		<Text Name="sanyin_0">
+			<DisplayName>Kekuatan Yin dari Surga</DisplayName>
 		</Text>
-		<Text Name="Sanyin_1">
-			<DisplayName>Dunia Yin Qi</DisplayName>
+		<Text Name="sanyin_1">
+			<DisplayName>Kekuatan Yin Bumi</DisplayName>
 		</Text>
-		<Text Name="Sanyin_2">
-			<DisplayName>Yin Qi Manusia</DisplayName>
+		<Text Name="sanyin_2">
+			<DisplayName>Kekuatan Yin Manusia</DisplayName>
 		</Text>
 		<Text Name="bamen_0">
-			<DisplayName>pintu ketidakterbatasan</DisplayName>
+			<DisplayName>Gerbang Keterbukaan</DisplayName>
 		</Text>
 		<Text Name="bamen_1">
-			<DisplayName>pintu kedamaian</DisplayName>
+			<DisplayName>Gerbang Istirahat</DisplayName>
 		</Text>
 		<Text Name="bamen_2">
-			<DisplayName>pintu kehidupan</DisplayName>
+			<DisplayName>Gerbang Kehidupan</DisplayName>
 		</Text>
 		<Text Name="bamen_3">
-			<DisplayName>pintu kematian</DisplayName>
+			<DisplayName>Gerbang Kematian</DisplayName>
 		</Text>
 		<Text Name="bamen_4">
-			<DisplayName>pintu bencana</DisplayName>
+			<DisplayName>Gerbang Ancaman</DisplayName>
 		</Text>
 		<Text Name="bamen_5">
-			<DisplayName>gerbang kehancuran</DisplayName>
+			<DisplayName>Gerbang Kerusakan</DisplayName>
 		</Text>
 		<Text Name="bamen_6">
-			<DisplayName>gerbang kemerdekaan</DisplayName>
+			<DisplayName>Gerbang Pengasingan</DisplayName>
 		</Text>
 		<Text Name="bamen_7">
-			<DisplayName>gerbang keindahan</DisplayName>
+			<DisplayName>Gerbang Kecantikan</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_0">
 			<DisplayName>Batang Pohon Roh</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_1">
-			<DisplayName>Puncak Pohon Roh</DisplayName>
+			<DisplayName>Mahkota Pohon Roh</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_2">
-			<DisplayName>Cabang Roh</DisplayName>
+			<DisplayName>Cabang Pohon Roh</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_3">
-			<DisplayName>Daun Roh</DisplayName>
+			<DisplayName>Daun Pohon Roh</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_4">
 			<DisplayName>Akar Pohon Roh</DisplayName>
 		</Text>
 		<Text Name="wushan_0">
-			<DisplayName>Penampilan Puncak Giok</DisplayName>
+			<DisplayName>Bentuk Puncak Zamrud</DisplayName>
 		</Text>
 		<Text Name="wushan_1">
-			<DisplayName>Penampakan tetesan air</DisplayName>
+			<DisplayName>Bentuk Jurang</DisplayName>
 		</Text>
 		<Text Name="wushan_2">
-			<DisplayName>Penampakan pulau terpencil</DisplayName>
+			<DisplayName>Bentuk Pulau Biasa</DisplayName>
 		</Text>
 		<Text Name="wushan_3">
-			<DisplayName>Penampakan Bait Suci</DisplayName>
+			<DisplayName>Bentuk Tempat Suci</DisplayName>
 		</Text>
 		<Text Name="wushan_4">
-			<DisplayName>penampakan surga</DisplayName>
+			<DisplayName>Bentuk Surga</DisplayName>
 		</Text>
 	</List>
 </Texts>
