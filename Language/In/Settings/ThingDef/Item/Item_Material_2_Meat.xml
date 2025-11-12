@@ -1,90 +1,90 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="MeatBase" sParam="Item">
-			<Item.FabaoSuffix>Daging Rebus, Meja Makan, Irisan</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Rebusan Daging, Taplak Meja, Benjolan</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BoarMeat" sParam="Item">
-			<ThingName>daging babi hutan</ThingName>
-			<Desc>Daging babi hutan</Desc>
+			<ThingName>Daging Babi Hutan</ThingName>
+			<Desc>Daging babi hutan.</Desc>
 		</Text>
 		<Text Name="Item_FrogMeat" sParam="Item">
-			<ThingName>daging katak</ThingName>
-			<Desc>daging katak</Desc>
+			<ThingName>Daging Katak</ThingName>
+			<Desc>Daging katak.</Desc>
 		</Text>
 		<Text Name="Item_TurtleMeat" sParam="Item">
-			<ThingName>Daging penyu</ThingName>
-			<Desc>daging penyu</Desc>
+			<ThingName>Daging Penyu</ThingName>
+			<Desc>Daging kura-kura.</Desc>
 		</Text>
 		<Text Name="Item_BearMeat" sParam="Item">
-			<ThingName>daging beruang</ThingName>
-			<Desc>daging beruang</Desc>
+			<ThingName>Daging Beruang</ThingName>
+			<Desc>Daging beruang.</Desc>
 		</Text>
 		<Text Name="Item_Beef" sParam="Item">
-			<ThingName>daging bison</ThingName>
-			<Desc>daging banteng</Desc>
+			<ThingName>Daging Banteng</ThingName>
+			<Desc>Daging sapi.</Desc>
 		</Text>
 		<Text Name="Item_RabbitMeat" sParam="Item">
-			<ThingName>daging kelinci</ThingName>
-			<Desc>daging kelinci</Desc>
+			<ThingName>Daging Kelinci</ThingName>
+			<Desc>Daging kelinci.</Desc>
 		</Text>
 		<Text Name="Item_ChickenMeat" sParam="Item">
-			<ThingName>daging ayam</ThingName>
-			<Desc>daging ayam</Desc>
+			<ThingName>Ayam</ThingName>
+			<Desc>Daging ayam.</Desc>
 		</Text>
 		<Text Name="Item_WolfMeat" sParam="Item">
-			<ThingName>daging serigala</ThingName>
-			<Desc>daging serigala</Desc>
+			<ThingName>Daging Serigala</ThingName>
+			<Desc>Daging serigala.</Desc>
 		</Text>
 		<Text Name="Item_FishMeat" sParam="Item">
-			<ThingName>daging ikan</ThingName>
-			<Desc>daging ikan</Desc>
+			<ThingName>Ikan</ThingName>
+			<Desc>Daging ikan.</Desc>
 		</Text>
 		<Text Name="Item_SnakeMeat" sParam="Item">
-			<ThingName>daging ular</ThingName>
-			<Desc>daging ular</Desc>
+			<ThingName>Daging Ular</ThingName>
+			<Desc>Daging ular.</Desc>
 		</Text>
 		<Text Name="Item_CatMeat" sParam="Item">
-			<ThingName>daging kucing</ThingName>
-			<Desc>daging kucing</Desc>
+			<ThingName>Daging Kucing</ThingName>
+			<Desc>Daging kucing.</Desc>
 		</Text>
 		<Text Name="Item_TigerMeat" sParam="Item">
-			<ThingName>daging harimau</ThingName>
-			<Desc>daging harimau</Desc>
+			<ThingName>Daging Harimau</ThingName>
+			<Desc>Daging harimau.</Desc>
 		</Text>
 		<Text Name="Item_ChickenEgg" sParam="Item">
-			<ThingName>telur</ThingName>
-			<Desc>telur ayam</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Ayam</ThingName>
+			<Desc>Telur ayam.</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SnakeEgg" sParam="Item">
-			<ThingName>telur ular</ThingName>
-			<Desc>telur ular</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Ular</ThingName>
+			<Desc>Telur ular.</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_TurtleEgg" sParam="Item">
-			<ThingName>Telur penyu</ThingName>
-			<Desc>telur penyu</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Penyu</ThingName>
+			<Desc>Telur penyu.</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LongEgg" sParam="Item">
-			<ThingName>Telur Naga Air</ThingName>
-			<Desc>Telur naga air yang belum menetas. Itu jelas menunjukkan tanda-tanda kehidupan. Inkubasi telur harus di tempat dengan suhu di bawah -200 derajat dan kaya Qi alami. Ini bagus jika area tersebut berelemen Air.</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Naga Banjir</ThingName>
+			<Desc>telur Flood Dragon yang belum menetas; itu menunjukkan tanda-tanda kehidupan yang jelas. Untuk menetaskan telur harus berada di tempat dengan suhu di bawah -200 derajat, sangat kaya Qi, dan sangat kondusif bagi unsur Air.</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEgg" sParam="Item">
-			<ThingName>Telur Angsa yang Berapi-api</ThingName>
-			<Desc>Telur Angsa Api yang belum menetas Jelas menunjukkan tanda-tanda kehidupan. Pengeraman telur harus di tempat dengan suhu di atas 300 derajat dan kaya akan Qi alami. Ini bagus jika area tersebut berelemen Api.</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Phoenix</ThingName>
+			<Desc>Telur burung phoenix yang belum menetas, di dalamnya terdapat tanda-tanda kehidupan yang jelas. Untuk menetaskan telur harus berada di tempat dengan suhu di atas 300 derajat, sangat kaya Qi, dan sangat kondusif bagi elemen Api.</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEggChange" sParam="Item">
-			<ThingName>Telur Angsa yang Berapi-api</ThingName>
-			<Desc>Akan bangun...</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Phoenix</ThingName>
+			<Desc>Bangun...</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JiaolongChange" sParam="Item">
-			<ThingName>Telur Naga Air</ThingName>
-			<Desc>Akan bangun...</Desc>
-			<Item.FabaoSuffix>telur, manik-manik, bola, bibit</Item.FabaoSuffix>
+			<ThingName>Telur Naga Banjir</ThingName>
+			<Desc>Bangun...</Desc>
+			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
