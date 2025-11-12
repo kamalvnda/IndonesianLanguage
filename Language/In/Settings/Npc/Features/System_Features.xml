@@ -1,8 +1,8 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>[kosong]</DisplayName>
-			<Desc>Bangunan yang hilang dan tidak diketahui \n(kosong)</Desc>
+			<DisplayName>[Empty]</DisplayName>
+			<Desc>Sifat ini telah hilang, begitu pula semua informasi mengenainya. (Kosong).</Desc>
 		</Text>
 	</List>
 </Texts>
