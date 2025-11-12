@@ -1,86 +1,86 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JYRabbit">
-			<DisplayName>monster kelinci</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa kesadaran: Kelinci Setan</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Kelinci Monster</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Kelinci</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYChicken">
-			<DisplayName>Setan Ayam</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Setan Ayam</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Ayam Monster</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Chicken</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYWolf">
-			<DisplayName>Serigala Setan</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kesadaran: Demon Wolf</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Rakasa Serigala</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Wolf</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYSnake">
-			<DisplayName>monster ular</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Setan Ular</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Ular</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Ular</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="JYBoar">
-			<DisplayName>Setan Babi Hutan</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa terbangun: Setan Babi Hutan</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Babi Hutan</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Boar</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYBear">
-			<DisplayName>monster beruang</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Beruang Setan</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Beruang</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bear</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYFrog">
-			<DisplayName>monster katak</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Katak Iblis</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Katak Raksasa</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Katak Monster</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYTurtle">
-			<DisplayName>Setan Penyu</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Demon Turtle</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Penyu</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Turtle</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYCat">
-			<DisplayName>Setan Kucing</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kesadaran: Setan Kucing</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Kucing</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Cat</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYCattle">
-			<DisplayName>Setan Banteng</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Iblis Banteng</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Banteng</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bull</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYTiger">
-			<DisplayName>Setan Harimau</DisplayName>
-			<Desc>Makhluk yang memperoleh kekuatan tanpa kebangkitan: Demon Tiger</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Harimau</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Tiger</Desc>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYLongpuNight">
 			<DisplayName>Hamba Naga (Malam)</DisplayName>
-			<Desc>Seorang hamba yang menerima kekuatan Yin dan Yang.</Desc>
+			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
 		</Text>
 		<Text Name="JYLongpuDay">
-			<DisplayName>Hamba Naga (Siang Hari)</DisplayName>
-			<Desc>Seorang hamba yang menerima kekuatan Yin dan Yang.</Desc>
+			<DisplayName>Hamba Naga (Hari)</DisplayName>
+			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
 		</Text>
 		<Text Name="JYZhuLongENian">
-			<DisplayName>Medium Naga Iblis</DisplayName>
-			<Desc>Mengungkap kejahatan dalam hati</Desc>
+			<DisplayName>Avatar Naga Ganas</DisplayName>
+			<Desc>Manifestasi dari kejahatan dalam pikiran.</Desc>
 		</Text>
 		<Text Name="JYZhuLongShanNian">
-			<DisplayName>Sosok naga ilahi</DisplayName>
-			<Desc>Menampilkan kebaikan dalam pikiran</Desc>
+			<DisplayName>Avatar Naga Jinak</DisplayName>
+			<Desc>Perwujudan kebaikan dalam pikiran.</Desc>
 		</Text>
 	</List>
 </Texts>
