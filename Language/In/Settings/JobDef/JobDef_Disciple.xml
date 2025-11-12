@@ -16,7 +16,7 @@
       <DisplayName>Menerima magang</DisplayName>
     </Text>
     <Text Name="JobBuildBody">
-      <DisplayName>Badan pelatihan</DisplayName>
+      <DisplayName>Pelatihan Tubuh</DisplayName>
     </Text>
     <Text Name="JobRobBody">
       <DisplayName>Memiliki tubuh</DisplayName>
