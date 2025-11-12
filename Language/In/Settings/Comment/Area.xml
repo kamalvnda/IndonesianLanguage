@@ -23,7 +23,7 @@
 		<Text Name="AreaTransaction">
 			<Notes>Pendapat tentang area perdagangan</Notes>
 			<Title>daerah perdagangan</Title>
-			<Desc>Ruang untuk bertukar kata</Desc>
+			<Desc>digunakan untuk Transaksi Jual & Beli</Desc>
 		</Text>
 	</List>
 </Texts>
