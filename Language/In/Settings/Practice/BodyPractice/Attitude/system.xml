@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>kehilangan sesuatu</DisplayName>
+			<DisplayName>Kehilangan sesuatu</DisplayName>
 		</Text>
 		<Text Name="SYS_ATK">
 			<DisplayName>Pose serangan</DisplayName>
