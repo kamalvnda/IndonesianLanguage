@@ -4,7 +4,7 @@
       <DisplayName>Atribut pertempuran bagian umum BOSS</DisplayName>
     </Text>
     <Text Name="Boss_Jiaolong">
-      <DisplayName>naga</DisplayName>
+      <DisplayName>Naga</DisplayName>
     </Text>
     <Text Name="Boss_JiaolongFight">
       <DisplayName>Atribut pertarungan naga</DisplayName>
@@ -16,7 +16,7 @@
       <DisplayName>Bagian naga yang lemah</DisplayName>
     </Text>
     <Text Name="Boss_Jiaolong_JiSiGongYang">
-      <DisplayName>tumbuh dewasa</DisplayName>
+      <DisplayName>Tumbuh dewasa</DisplayName>
       <Desc>Naga iblis memperoleh kekuatan dari pengorbanan tersebut, dan energi spiritualnya menjadi lebih kuat.</Desc>
     </Text>
     <Text Name="Boss_Jiaolong_Shuiling">
@@ -32,7 +32,7 @@
       <Desc>Naga iblis itu menarik napas dalam-dalam, air di tubuh karakter itu hilang dengan cepat!</Desc>
     </Text>
     <Text Name="Boss_Jiaolong_zhenlong">
-      <DisplayName>naga asli</DisplayName>
+      <DisplayName>Naga Sejati</DisplayName>
     </Text>
     <Text Name="Boss_Jiaolong_fanshi">
       <DisplayName>Serangan balik Devour-Dragon</DisplayName>
