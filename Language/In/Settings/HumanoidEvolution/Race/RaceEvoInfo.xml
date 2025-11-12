@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="All">
-			<PeferEnvironment.Desc>menyukai</PeferEnvironment.Desc>
+			<PeferEnvironment.Desc>Menyukai</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Snake">
 			<NaiveTalk>Desis, desis!</NaiveTalk>
@@ -25,7 +25,7 @@
 		<Text Name="Chicken">
 			<NaiveTalk>Kook Kook!</NaiveTalk>
 			<PeferEnvironment.PlantDesc>Ingin berada di dekat tanaman padi</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>suka berada di luar</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar</PeferEnvironment.LightDesc>
 			<PeferEnvironment.LiveDesc>Saya tidak suka karnivora.</PeferEnvironment.LiveDesc>
 			<PeferEnvironment.Desc>Ingin berada di dekat tanaman padi, suka berada di luar ruangan.\nTidak menyukai karnivora.</PeferEnvironment.Desc>
 		</Text>
@@ -51,7 +51,7 @@
 		<Text Name="Turtle">
 			<NaiveTalk>Ha ha!</NaiveTalk>
 			<PeferEnvironment.PlantDesc>Ingin berada di dekat alang-alang</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ingin tinggal di dalam ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LightDesc>Ingin tinggal di dalam ruangan</PeferEnvironment.LightDesc>
 			<PeferEnvironment.Desc>Ingin dekat alang-alang, suka berdiam diri di dalam kamar.</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Cat">
