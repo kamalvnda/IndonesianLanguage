@@ -1,11 +1,11 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Type_HengDing">
-			<DisplayName>konstan</DisplayName>
+			<DisplayName>Konstan</DisplayName>
 			<Desc>Pilih efek kekacauan</Desc>
 		</Text>
 		<Text Name="Mutation_Type_DongDang">
-			<DisplayName>bergolak</DisplayName>
+			<DisplayName>Bergolak</DisplayName>
 			<Desc>Pilih satu opsi dari Kondisi dan Efek untuk menggabungkannya menjadi efek Anomali yang lengkap.</Desc>
 		</Text>
 		<Text Name="Mutation_Type_YinYang">
