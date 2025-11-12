@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Point_Discipline">
-			<DisplayName>ruang kosong</DisplayName>
+			<DisplayName>Daerah Kosong</DisplayName>
 		</Text>
 		<Text Name="Point_Secret">
-			<DisplayName>ruang kosong</DisplayName>
+			<DisplayName>Daerah Kosong</DisplayName>
 		</Text>
 		<Text Name="Point_Sermon">
-			<DisplayName>ruang kosong</DisplayName>
+			<DisplayName>Daerah Kosong</DisplayName>
 		</Text>
 		<Text Name="Point_Recuit">
-			<DisplayName>ruang kosong</DisplayName>
+			<DisplayName>Daerah Kosong</DisplayName>
 		</Text>
 	</List>
 </Texts>
