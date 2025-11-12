@@ -1,70 +1,70 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobLsDecide">
-			<DisplayName>ragu-ragu</DisplayName>
+			<DisplayName>Ragu-ragu</DisplayName>
 		</Text>
 		<Text Name="JobEatItem2">
-			<DisplayName>makan</DisplayName>
+			<DisplayName>Makan</DisplayName>
 		</Text>
 		<Text Name="JobAtk4Fun">
-			<DisplayName>menyerang</DisplayName>
+			<DisplayName>Menyerang</DisplayName>
 		</Text>
 		<Text Name="JobGoShit">
-			<DisplayName>Pergi buang air besar.</DisplayName>
+			<DisplayName>Pergi buang air besar</DisplayName>
 		</Text>
 		<Text Name="JobLsCarry">
-			<DisplayName>Mengangkut</DisplayName>
+			<DisplayName>mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobLsCutoff">
-			<DisplayName>memotong kayu</DisplayName>
+			<DisplayName>Memotong</DisplayName>
 		</Text>
 		<Text Name="JobLsMine">
-			<DisplayName>pertambangan</DisplayName>
+			<DisplayName>Pertambangan</DisplayName>
 		</Text>
 		<Text Name="JobLsCarryToBed">
-			<DisplayName>Mengangkut</DisplayName>
+			<DisplayName>mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobLsCarryToDest">
-			<DisplayName>Mengangkut</DisplayName>
+			<DisplayName>mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithSelf">
-			<DisplayName>bersenang senang</DisplayName>
+			<DisplayName>Bersenang senang</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithSth">
-			<DisplayName>bermain</DisplayName>
+			<DisplayName>Bermain</DisplayName>
 		</Text>
 		<Text Name="JobLsFun">
-			<DisplayName>bermain</DisplayName>
+			<DisplayName>Bermain</DisplayName>
 		</Text>
 		<Text Name="JobLsHelpPlay">
-			<DisplayName>bermain</DisplayName>
+			<DisplayName>Bermain</DisplayName>
 		</Text>
 		<Text Name="JobLsTrain">
-			<DisplayName>latihan</DisplayName>
+			<DisplayName>Berolahraga</DisplayName>
 		</Text>
 		<Text Name="JobLsPee">
-			<DisplayName>air</DisplayName>
+			<DisplayName>Pengairan</DisplayName>
 		</Text>
 		<Text Name="JobLsCure">
-			<DisplayName>merawat</DisplayName>
+			<DisplayName>Penyembuhan</DisplayName>
 		</Text>
 		<Text Name="JobLsFollow">
-			<DisplayName>mengikuti</DisplayName>
+			<DisplayName>Mengikuti</DisplayName>
 		</Text>
 		<Text Name="JobLsFeedHim">
-			<DisplayName>Memberi makan</DisplayName>
+			<DisplayName>Makanan</DisplayName>
 		</Text>
 		<Text Name="JobLsSleep">
-			<DisplayName>tidur</DisplayName>
+			<DisplayName>Tidur</DisplayName>
 		</Text>
 		<Text Name="JobLsSleepWithNpc">
-			<DisplayName>tidur</DisplayName>
+			<DisplayName>Tidur</DisplayName>
 		</Text>
 		<Text Name="JobLsGotoThing">
-			<DisplayName>pergi</DisplayName>
+			<DisplayName>Pergi ke</DisplayName>
 		</Text>
 		<Text Name="JobConfuse">
-			<DisplayName>bingung</DisplayName>
+			<DisplayName>Bingung</DisplayName>
 		</Text>
 	</List>
 </Texts>
