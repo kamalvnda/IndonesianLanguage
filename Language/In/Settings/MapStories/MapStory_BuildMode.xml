@@ -1,33 +1,33 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="BuildMode_ChangeTime">
-			<DisplayName>tanah Maya</DisplayName>
-			<Desc>Jam berapa Anda ingin menyesuaikan waktunya?</Desc>
+			<DisplayName>Negeri Ilusi</DisplayName>
+			<Desc>Jadi, kapan Anda perlu menyesuaikan waktunya?</Desc>
 			<Selections.0.Display>Pagi</Selections.0.Display>
-			<Selections.1.Display>siang</Selections.1.Display>
-			<Selections.2.Display>Dingin</Selections.2.Display>
-			<Selections.3.Display>waktu malam</Selections.3.Display>
-			<Selections.4.Display>Sudahlah.</Selections.4.Display>
+			<Selections.1.Display>Satu</Selections.1.Display>
+			<Selections.2.Display>Senja</Selections.2.Display>
+			<Selections.3.Display>Waktu malam</Selections.3.Display>
+			<Selections.4.Display>Sudahlah</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeSeason">
-			<DisplayName>tanah Maya</DisplayName>
-			<Desc>Musim apa yang ingin Anda ubah?</Desc>
-			<Selections.0.Display>musim semi</Selections.0.Display>
-			<Selections.1.Display>musim panas</Selections.1.Display>
-			<Selections.2.Display>jatuh</Selections.2.Display>
-			<Selections.3.Display>musim dingin</Selections.3.Display>
-			<Selections.4.Display>Sudahlah.</Selections.4.Display>
+			<DisplayName>Negeri Ilusi</DisplayName>
+			<Desc>Jadi, musim apa yang seharusnya?</Desc>
+			<Selections.0.Display>Musim semi</Selections.0.Display>
+			<Selections.1.Display>Musim panas</Selections.1.Display>
+			<Selections.2.Display>Musim gugur</Selections.2.Display>
+			<Selections.3.Display>Musim dingin</Selections.3.Display>
+			<Selections.4.Display>Sudahlah</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeWeather">
-			<DisplayName>tanah Maya</DisplayName>
-			<Desc>Jam berapa Anda ingin mengubah cuaca?</Desc>
-			<Selections.0.Display>Hujan ringan/salju</Selections.0.Display>
-			<Selections.1.Display>Hujan lebat/salju</Selections.1.Display>
-			<Selections.2.Display>badai debu</Selections.2.Display>
-			<Selections.3.Display>malam abadi</Selections.3.Display>
-			<Selections.4.Display>badai petir</Selections.4.Display>
-			<Selections.5.Display>Cuacanya cerah.</Selections.5.Display>
-			<Selections.6.Display>Sudahlah.</Selections.6.Display>
+			<DisplayName>Negeri Ilusi</DisplayName>
+			<Desc>Jadi, cuaca apa yang seharusnya?</Desc>
+			<Selections.0.Display>Hujan Ringan/Salju</Selections.0.Display>
+			<Selections.1.Display>Hujan Lebat/Salju</Selections.1.Display>
+			<Selections.2.Display>Badai Debu</Selections.2.Display>
+			<Selections.3.Display>Malam Kutub</Selections.3.Display>
+			<Selections.4.Display>Hujan badai</Selections.4.Display>
+			<Selections.5.Display>Hapus semua efek cuaca</Selections.5.Display>
+			<Selections.6.Display>Sudahlah</Selections.6.Display>
 		</Text>
 	</List>
 </Texts>
