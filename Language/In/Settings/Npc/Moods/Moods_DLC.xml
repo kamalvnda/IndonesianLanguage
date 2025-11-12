@@ -1,29 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mood_BigFish">
-			<DisplayName>Tangkap ikan besar</DisplayName>
-			<Desc>Menangkap ikan besar saja sudah enak.</Desc>
-			<StoryDesc>Menangkap ikan besar rasanya enak sekali</StoryDesc>
+			<DisplayName>Menangkap ikan besar.</DisplayName>
+			<Desc>Baru saja menangkap ikan besar dan rasanya enak.</Desc>
+			<StoryDesc>Menangkap ikan besar dan rasanya sangat menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="Mood_BigBigFish">
-			<DisplayName>Tangkap ikan raksasa</DisplayName>
-			<Desc>Menangkap ikan raksasa seperti itu sungguh menakjubkan.</Desc>
-			<StoryDesc>Anda bisa menangkap ikan raksasa. terasa sangat enak</StoryDesc>
+			<DisplayName>Menangkap ikan raksasa.</DisplayName>
+			<Desc>Baru saja menangkap ikan raksasa dan rasanya enak.</Desc>
+			<StoryDesc>Menangkap ikan raksasa dan rasanya sangat menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="Mood_BeFished">
-			<DisplayName>memegang</DisplayName>
-			<Desc>Tertangkap setelah memakan umpan</Desc>
-			<StoryDesc>Saya merasa sedikit marah karena tertangkap.</StoryDesc>
+			<DisplayName>Tertangkap.</DisplayName>
+			<Desc>Tertangkap setelah mengambil umpan.</Desc>
+			<StoryDesc>Merasa sedikit marah karena tertangkap</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishSmell">
-			<DisplayName>Bau amis</DisplayName>
-			<Desc>Memakan ikan pari setan yang berbau amis.</Desc>
-			<StoryDesc>Memakan ikan pari setan yang berbau amis.</StoryDesc>
+			<DisplayName>Bau</DisplayName>
+			<Desc>Makan Demon Flatfish, bau</Desc>
+			<StoryDesc>makan Demon Flatfish, bau</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishGood">
-			<DisplayName>lezat</DisplayName>
-			<Desc>Makanlah ikan nabati yang lezat.</Desc>
-			<StoryDesc>Makanlah ikan nabati yang lezat.</StoryDesc>
+			<DisplayName>Lezat</DisplayName>
+			<Desc>Makan Ikan Cahaya Bulan, rasanya enak</Desc>
+			<StoryDesc>makan Ikan Cahaya Bulan, rasanya enak</StoryDesc>
 		</Text>
 	</List>
 </Texts>
