@@ -9,17 +9,17 @@
 			<Item.BeMaterial.NamePrefix>Kayu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_HardWood" sParam="Item">
-			<ThingName>kayu emas</ThingName>
+			<ThingName>Kayu emas</ThingName>
 			<Desc>Goldwood berharga yang berumur seratus tahun, bahannya sangat kokoh dan berat.</Desc>
 			<Item.BeMaterial.NamePrefix>kayu emas</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ParasolWood" sParam="Item">
-			<ThingName>kayu phoenix</ThingName>
+			<ThingName>Kayu phoenix</ThingName>
 			<Desc>Kayu surgawi tempat Phoenix bertengger, memiliki permukaan halus dan tekstur sangat kuat yang kaya akan Qi. Bahan yang sangat langka.</Desc>
 			<Item.BeMaterial.NamePrefix>Kayu Payung</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingWood" sParam="Item">
-			<ThingName>kayu roh</ThingName>
+			<ThingName>Kayu roh</ThingName>
 			<Desc>Kayu yang telah diliputi Qi, merupakan bahan yang sangat kokoh dan sangat tahan terhadap api.</Desc>
 			<Item.BeMaterial.NamePrefix>kayu roh</Item.BeMaterial.NamePrefix>
 		</Text>
