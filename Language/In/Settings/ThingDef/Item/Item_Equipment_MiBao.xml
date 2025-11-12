@@ -1,7 +1,7 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
-			<ThingName>Berkumpul</ThingName>
+			<ThingName>Racun</ThingName>
 			<Desc>Artefak jahat seperti yang tercatat dalam Buku Seratus Racun. Pertama, Inkubasi Pedang dibentuk dengan mencampurkan sembilan Phoenixwood dengan sejumlah Beast Blood yang cocok dengan tiga puluh enam bintang surgawi. Kemudian diperlukan lima Roh Primordial yang sangat beracun dari Iblis Ular untuk membuatnya menjadi produk akhir. Saat menyerang seseorang dengan pedang ini, hembusan anginnya yang berbisa bahkan dapat menembus Qi Barrier seseorang dan menyebabkan kerusakan pada musuh secara langsung.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Bunuh 5 Iblis Ular sambil membawa item ini.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Untuk setiap serangan ke-15, ia akan menyerang tubuh penggarap itu sendiri, menembus perisai dan memberikan kerusakan tambahan.</Item.Fabao.SpecialAbility.0.Desc>
