@@ -1,79 +1,79 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="FengShui" sParam="Building">
-			<ThingName>bagan bintang</ThingName>
-			<Desc>Struktur yang digunakan untuk mengamati Lima Elemen, Feng Shui, dan distribusi Qi.</Desc>
+			<ThingName>Observatorium</ThingName>
+			<Desc>Sebuah struktur yang digunakan untuk mengamati Lima Elemen, Feng Shui dan distribusi Qi.</Desc>
 		</Text>
 		<Text Name="TheGate" sParam="Building">
-			<ThingName>Prasasti batu kantor</ThingName>
-			<Desc>Ini adalah simbol penting dari kantor.</Desc>
+			<ThingName>Sekte Bintang</ThingName>
+			<Desc>Sebuah prasasti penting dari sekte tersebut.</Desc>
 		</Text>
 		<Text Name="Build_TheBigGate" sParam="Building">
-			<ThingName>Pintu kantor</ThingName>
-			<Desc>Gerbang besar sekte tersebut</Desc>
+			<ThingName>Gerbang Sekte</ThingName>
+			<Desc>Gerbang sekte yang megah.</Desc>
 		</Text>
 		<Text Name="Cushion" sParam="Building">
-			<ThingName>bantalan kursi</ThingName>
-			<Desc>Bantalan empuk untuk duduk dan berlatih</Desc>
+			<ThingName>Bantalan</ThingName>
+			<Desc>Bantalan empuk untuk diduduki orang.</Desc>
 		</Text>
 		<Text Name="Building_MagicCushion" sParam="Building">
-			<ThingName>bantalan nafas</ThingName>
-			<Desc>Bantalan yang hanya digunakan untuk budidaya. Itu bisa mengumpulkan energi.</Desc>
+			<ThingName>Bantal Qi</ThingName>
+			<Desc>Bantalan yang khusus digunakan untuk budidaya yang dapat mengumpulkan Qi.</Desc>
 		</Text>
 		<Text Name="BasePracticePlace" sParam="Building">
-			<ThingName>Poin pelatihan dasar</ThingName>
-			<Desc>Tidak memerlukan bahan apa pun untuk membangunnya, hanya titik yang ditentukan untuk pelatihan dasar Sekte Luar.</Desc>
+			<ThingName>Tempat Pelatihan</ThingName>
+			<Desc>Tidak memerlukan materi apa pun, hanya tempat yang ditentukan untuk pelatihan murid luar.</Desc>
 		</Text>
 		<Text Name="PuppetPlace" sParam="Building">
-			<ThingName>tempat peristirahatan boneka</ThingName>
-			<Desc>Boneka itu akan berjalan kembali ke sini jika tidak ada pekerjaan yang harus dilakukan.</Desc>
+			<ThingName>Tempat Kapal</ThingName>
+			<Desc>Kapal akan kembali ke sini dan menunggu ketika tidak ada pekerjaan.</Desc>
 		</Text>
 		<Text Name="TrainingDummy" sParam="Building">
-			<ThingName>boneka kayu</ThingName>
-			<Desc>Peralatan yang digunakan untuk pelatihan dasar murid luar.</Desc>
+			<ThingName>Boneka Kayu</ThingName>
+			<Desc>Perangkat yang digunakan untuk pelatihan dasar murid luar.</Desc>
 		</Text>
 		<Text Name="ExploreBackPlace" sParam="Building">
-			<ThingName>Poin penempatan hadiah</ThingName>
-			<Desc>Setelah murid batin kembali dari petualangannya Mereka akan membawa hadiahnya ke sini.</Desc>
+			<ThingName>Tempat Hadiah</ThingName>
+			<Desc>Setelah murid batin kembali dari petualangan, mereka akan memberikan hadiahnya di sini.</Desc>
 		</Text>
 		<Text Name="Building_Statue1" sParam="Building">
-			<ThingName>Patung Raja Moral</ThingName>
-			<Desc>Patung raksasa Raja Kebajikan</Desc>
+			<ThingName>Patung Kebajikan</ThingName>
+			<Desc>Patung raksasa Penguasa Kebajikan.</Desc>
 		</Text>
 		<Text Name="Building_Statue2" sParam="Building">
-			<ThingName>Patung Raja Genesis</ThingName>
-			<Desc>Patung raksasa Raja Genesis</Desc>
+			<ThingName>Patung Awal</ThingName>
+			<Desc>Patung raksasa Penguasa Awal Primordial.</Desc>
 		</Text>
 		<Text Name="Building_Statue3" sParam="Building">
-			<ThingName>Patung Raja Harta Karun</ThingName>
-			<Desc>Patung raksasa Raja Harta Karun</Desc>
+			<ThingName>Patung Harta Karun</ThingName>
+			<Desc>Patung raksasa Penguasa Harta Karun.</Desc>
 		</Text>
 		<Text Name="Building_SacrificialTable" sParam="Building">
 			<ThingName>Kuil Leluhur</ThingName>
-			<Desc>Tempat suci yang digunakan untuk menghormati dan memuja leluhur.</Desc>
+			<Desc>Tempat suci yang digunakan untuk mengenang para leluhur.</Desc>
 		</Text>
 		<Text Name="DanStove" sParam="Building">
-			<ThingName>Tungku Peleburan Obat</ThingName>
-			<Desc>Tempat yang digunakan untuk penyulingan obat</Desc>
+			<ThingName>Tungku Alkimia</ThingName>
+			<Desc>Tempat terbaik untuk meramu ramuan.</Desc>
 		</Text>
 		<Text Name="DanStove_Part" sParam="Building">
-			<ThingName>Furnace Part (Dev)</ThingName>
+			<ThingName>Bagian Tungku (Pengembangan)</ThingName>
 		</Text>
 		<Text Name="RefiningCushion" sParam="Building">
-			<ThingName>Tungku Senjata Ajaib</ThingName>
-			<Desc>Tempat yang digunakan untuk menempa senjata ajaib.</Desc>
+			<ThingName>Meja Kerajinan</ThingName>
+			<Desc>Tempat terbaik untuk membuat artefak.</Desc>
 		</Text>
 		<Text Name="Building_SleeveSpace" sParam="Building">
-			<ThingName>Miniatur alam semesta</ThingName>
-			<Desc>Ruang tidak stabil yang diciptakan dengan memanfaatkan kekuatan kristal ruang-waktu dan memperkuat material berharga dari lima elemen. yang dapat digunakan untuk menyimpan barang Dan karena ketidakstabilan ini Oleh karena itu, dimensi ini dapat menyimpan berbagai benda keluar masuk.</Desc>
-			<StoryBnts.0.Name>Simpan barang</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Kumpulkan berbagai item di peta yang tidak tertutup kabut dan tidak menggunakan item sihir untuk memasuki miniatur alam semesta.</StoryBnts.0.Desc>
-			<StoryBnts.1.Name>meneliti</StoryBnts.1.Name>
-			<StoryBnts.1.Desc>Gunakan indra spiritual Anda untuk memeriksa apa yang ada di miniatur alam semesta.</StoryBnts.1.Desc>
+			<ThingName>Alam Semesta Mini</ThingName>
+			<Desc>Alam Semesta Terikat yang tidak stabil diciptakan dengan mengarahkan kekuatan spasial Kristal Roh Alam Semesta yang dilengkapi dengan bahan berharga dari Lima Elemen, yang dapat digunakan untuk menyimpan barang. Karena ketidakstabilan spasial, ia hanya dapat menyimpan barang-barang umum. Jika tidak, hal itu dapat menyebabkan ruang tersebut runtuh.</Desc>
+			<StoryBnts.0.Name>Perolehan</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Segera kumpulkan semua item di peta yang tidak tertutup kabut, tidak dilarang dan dapat dikoleksi oleh Mini Universe.</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Memeriksa</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Gunakan Pikiran Ilahi untuk memeriksa rahasia Mini Universe.</StoryBnts.1.Desc>
 		</Text>
 		<Text Name="Building_SleeveSpace1" sParam="Building">
-			<ThingName>Gerbang miniatur alam semesta</ThingName>
-			<Desc>Sebuah pintu kecil yang menghubungkan ke miniatur alam semesta. Itu bisa memunculkan hal-hal yang ada di dalamnya.</Desc>
+			<ThingName>Gerbang Mini Alam Semesta</ThingName>
+			<Desc>Gerbang kecil yang menghubungkan ke Mini Universe, yang melaluinya seseorang dapat mengambil item di dalamnya.</Desc>
 		</Text>
 	</List>
 </Texts>
