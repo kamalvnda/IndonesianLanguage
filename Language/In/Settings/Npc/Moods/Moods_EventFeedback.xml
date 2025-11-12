@@ -1,569 +1,569 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Drink1">
-			<DisplayName>Saya minum air kotor</DisplayName>
-			<Desc>Sepertinya ada sesuatu yang mengambang di air itu!?</Desc>
-			<StoryDesc>Muntah 2 kali setelah minum air itu.</StoryDesc>
+			<DisplayName>Saya minum air kotor.</DisplayName>
+			<Desc>Sepertinya ada sesuatu yang mengambang di air itu.</Desc>
+			<StoryDesc>muntah dua kali setelah minum air itu</StoryDesc>
 		</Text>
 		<Text Name="Dan_Happiness">
-			<DisplayName>Merasa melayang</DisplayName>
-			<Desc>Saya merasa senang, santai, dan tidak ingin melakukan apa pun.</Desc>
-			<StoryDesc>Merasa sangat santai.</StoryDesc>
+			<DisplayName>Menginjak di Udara</DisplayName>
+			<Desc>Saya merasa senang, santai, dan tidak ingin melakukan apapun sama sekali.</Desc>
+			<StoryDesc>merasa sulit untuk menjadi lebih puas</StoryDesc>
 		</Text>
 		<Text Name="Eat1">
-			<DisplayName>Makanan menjijikkan</DisplayName>
-			<Desc>Apakah benda ini benar-benar bisa dimakan? Kenapa aku harus makan makanan menjijikkan seperti itu...</Desc>
-			<StoryDesc>Kesulitan menelan makanan di mulut</StoryDesc>
+			<DisplayName>Makanan Menjijikkan</DisplayName>
+			<Desc>Bisakah ini dimakan? Kenapa aku harus makan ini, itu menjijikkan...</Desc>
+			<StoryDesc>merasa sulit untuk tidak merasa jijik setelah memakan makanan ini</StoryDesc>
 		</Text>
 		<Text Name="Eat3">
-			<DisplayName>hambar</DisplayName>
+			<DisplayName>Rasanya seperti Lilin</DisplayName>
 			<Desc>Apa rasa ini?</Desc>
-			<StoryDesc>Merasa malu dan tertekan setelah memakan apa yang ada di hadapan Anda</StoryDesc>
+			<StoryDesc>merasa sulit untuk tidak merasa putus asa setelah makan apapun itu</StoryDesc>
 		</Text>
 		<Text Name="Eat4">
-			<DisplayName>Makan makanan yang kurang matang</DisplayName>
-			<Desc>Sulit menelan makanan mentah.</Desc>
-			<StoryDesc>Makan makanan mentah membuat Anda merasa tidak nyaman.</StoryDesc>
+			<DisplayName>Makan Makanan Mentah</DisplayName>
+			<Desc>Sulit menelan makanan yang belum matang.</Desc>
+			<StoryDesc>Mengonsumsi makanan mentah membuat seseorang merasa tidak nyaman</StoryDesc>
 		</Text>
 		<Text Name="Eat5">
-			<DisplayName>memakan kotoran</DisplayName>
-			<Desc>Aku sangat lapar, tapi yang kutemukan hanyalah kotoran... Berapa lama aku bisa hidup jika aku hanya makan kotoran ini?</Desc>
-			<StoryDesc>Merasa tertekan setelah makan kotoran</StoryDesc>
+			<DisplayName>Makan Kotoran</DisplayName>
+			<Desc>Aku sangat lapar, tapi yang ada hanyalah tanah... Berapa lama lagi aku bisa hidup di atas tanah?</Desc>
+			<StoryDesc>Merasa terkuras setelah memakan kotoran itu</StoryDesc>
 		</Text>
 		<Text Name="Eat6">
-			<DisplayName>Sangat penuh</DisplayName>
-			<Desc>Ah, penuh sekali.</Desc>
-			<StoryDesc>merasa santai</StoryDesc>
+			<DisplayName>Perut Penuh</DisplayName>
+			<Desc>Aku sangat kenyang setelah semua itu.</Desc>
+			<StoryDesc>merasa nyaman</StoryDesc>
 		</Text>
 		<Text Name="Eat7">
-			<DisplayName>Makanan buatan sendiri</DisplayName>
-			<Desc>Rasanya enak!</Desc>
-			<StoryDesc>Saya merasa sangat puas dengan makanan ini.</StoryDesc>
+			<DisplayName>Makanan Rumahan</DisplayName>
+			<Desc>Ini rasanya enak!</Desc>
+			<StoryDesc>Merasa makanannya begitu memuaskan</StoryDesc>
 		</Text>
 		<Text Name="Eat8">
-			<DisplayName>makanan lezat</DisplayName>
-			<Desc>[TXT]Rasanya sangat enak. Saya ingin makan sepiring lagi.</Desc>
-			<StoryDesc>Merasa senang setelah menyantap makanan ini.</StoryDesc>
+			<DisplayName>Makanan Gourmet</DisplayName>
+			<Desc>[TXT]rasanya ilahi. Saya ragu saya bisa lebih puas.</Desc>
+			<StoryDesc>Merasa senang setelah makan seperti itu</StoryDesc>
 		</Text>
 		<Text Name="Eat9">
-			<DisplayName>Makanan yang luar biasa</DisplayName>
-			<Desc>[TXT]Apakah itu makanan yang dibuat oleh manusia atau dewa?! Setelah memakannya, saya tidak ingin lagi mencari keabadian!</Desc>
-			<StoryDesc>Saya terkejut dengan betapa menakjubkannya makanan ini.</StoryDesc>
+			<DisplayName>Makanan Lezat</DisplayName>
+			<Desc>[TXT]apakah ini benar-benar makanan yang dibuat oleh manusia atau dewa?! Aku bahkan tidak ingin mencari Keabadian lagi!</Desc>
+			<StoryDesc>Merasa takjub melihat betapa nikmatnya makanan itu</StoryDesc>
 		</Text>
 		<Text Name="Eat10">
-			<DisplayName>Makanannya jelek.</DisplayName>
-			<Desc>[TXT]Apa yang saya makan hari ini sangat buruk. Saya tidak ingin makan hal seperti ini lagi.</Desc>
-			<StoryDesc>Tidak puas dengan makanan buruk yang baru saja saya makan</StoryDesc>
+			<DisplayName>Makanan Mentah</DisplayName>
+			<Desc>Makanan yang kasar[TXT]adalah. Saya tidak ingin makan ini lagi jika saya bisa membantu.</Desc>
+			<StoryDesc>Tidak merasa puas setelah makan itu</StoryDesc>
 		</Text>
 		<Text Name="Eat11">
-			<DisplayName>makanan hambar</DisplayName>
-			<Desc>[TXT]Apa yang saya makan hari ini cukup biasa. Saya ingin makan sesuatu yang lebih baik.</Desc>
-			<StoryDesc>Saya sedikit tidak puas karena makanannya yang sederhana. yang baru saja aku makan</StoryDesc>
+			<DisplayName>Bukan Makanan Terbaik</DisplayName>
+			<Desc>Itu[TXT]hari ini...Saya sudah mendapatkan yang lebih baik dan benar-benar lebih memilih sesuatu yang lebih baik saat ini.</Desc>
+			<StoryDesc>Tidak begitu puas dengan makanan itu</StoryDesc>
 		</Text>
 		<Text Name="Eat12">
-			<DisplayName>Apakah kamu membawakanku kotoran untuk dimakan?</DisplayName>
-			<Desc>Dosa apa yang telah saya lakukan hingga harus memakan makanan ini?</Desc>
-			<StoryDesc>Saya linglung seolah-olah saya baru saja makan kotoran.</StoryDesc>
+			<DisplayName>#$%^ Pemakan</DisplayName>
+			<Desc>Dosa apa yang baru saja kulakukan...</Desc>
+			<StoryDesc>merasa sulit untuk tidak merasa linglung setelah makan setumpuk #$%^</StoryDesc>
 		</Text>
 		<Text Name="Sleep1">
 			<DisplayName>Istirahat yang cukup</DisplayName>
-			<Desc>Saya merasa berenergi setelah tidur.</Desc>
-			<StoryDesc>Merasa diremajakan setelah istirahat malam yang nyenyak.</StoryDesc>
+			<Desc>Saya merasa penuh energi setelah tidur.</Desc>
+			<StoryDesc>Merasa energik setelah istirahat malam yang nyenyak</StoryDesc>
 		</Text>
 		<Text Name="Sleep2">
-			<DisplayName>Mimpi buruk</DisplayName>
-			<Desc>Aku tidak bisa tidur nyenyak karena mimpi buruk itu(</Desc>
-			<StoryDesc>Merasa lelah dan lemah karena mimpi buruk</StoryDesc>
+			<DisplayName>Mimpi Buruk</DisplayName>
+			<Desc>Saya tidak bisa tidur nyenyak karena mimpi buruk itu.</Desc>
+			<StoryDesc>Rasa penat dan letih setelah tidur yang dipenuhi mimpi buruk pun hilang</StoryDesc>
 		</Text>
 		<Text Name="Sleep8">
-			<DisplayName>mimpi indah</DisplayName>
+			<DisplayName>Sebuah Mimpi Besar</DisplayName>
 			<Desc>Mimpi yang luar biasa...</Desc>
-			<StoryDesc>Saya tidak ingin bangun karena saya bermimpi indah.</StoryDesc>
+			<StoryDesc>merasa sulit untuk tidak menikmati pancaran mimpi yang begitu besar</StoryDesc>
 		</Text>
 		<Text Name="Sleep3">
 			<DisplayName>Tidur terganggu</DisplayName>
-			<Desc>Saya selalu terbangun oleh kehadiran sesuatu yang bergerak di dekatnya.</Desc>
-			<StoryDesc>Merasa mengantuk setelah kurang tidur</StoryDesc>
+			<Desc>Saya terus terbangun karena sepertinya selalu ada sesuatu yang bergerak di sekitar.</Desc>
+			<StoryDesc>merasa sulit untuk tidak menguap setelah kurang tidur malam</StoryDesc>
 		</Text>
 		<Text Name="Sleep4">
-			<DisplayName>Tidur dingin</DisplayName>
-			<Desc>Saya terbangun karena cuaca sangat dingin.</Desc>
-			<StoryDesc>Merasa tubuh tidak bertenaga karena kurang tidur sepanjang malam.</StoryDesc>
+			<DisplayName>Tidur Dingin</DisplayName>
+			<Desc>Saya terus terbangun karena betapa dinginnya cuaca.</Desc>
+			<StoryDesc>merasa sulit untuk memiliki banyak energi setelah tidur malam yang buruk</StoryDesc>
 		</Text>
 		<Text Name="Sleep5">
-			<DisplayName>Tidur panas</DisplayName>
-			<Desc>Panas sekali sampai aku tidak bisa tidur.</Desc>
-			<StoryDesc>Merasa tubuh tidak bertenaga karena kurang tidur sepanjang malam.</StoryDesc>
+			<DisplayName>Terlalu Panas untuk Tidur</DisplayName>
+			<Desc>Panas sekali sampai sulit tidur.</Desc>
+			<StoryDesc>merasa sulit untuk memiliki banyak energi setelah tidur malam yang buruk</StoryDesc>
 		</Text>
 		<Text Name="Sleep6">
-			<DisplayName>tergeletak di lantai</DisplayName>
-			<Desc>Saya berbaring di tanah yang dingin dan keras sepanjang malam. Seluruh tubuhku kesakitan.</Desc>
-			<StoryDesc>Badan saya pegal-pegal setelah tidur di lantai semalaman.</StoryDesc>
+			<DisplayName>Tidur di Tanah</DisplayName>
+			<Desc>Saya tidur sepanjang malam di tanah yang dingin dan keras. Seluruh tubuhku terasa sakit.</Desc>
+			<StoryDesc>merasa sulit badannya tidak pegal setelah tidur di tanah</StoryDesc>
 		</Text>
 		<Text Name="Sleep7">
-			<DisplayName>Tidur di tengah hutan</DisplayName>
-			<Desc>Aku tidak bisa tidur nyenyak karena rasanya ada sesuatu yang menatapku sepanjang malam.</Desc>
-			<StoryDesc>Ia mengeluh pada dirinya sendiri karena tidak ingin tidur di tengah hutan lagi.</StoryDesc>
+			<DisplayName>Tidur di Hutan Belantara</DisplayName>
+			<Desc>Aku tidak bisa tidur nyenyak karena aku merasa ada sesuatu yang mengintaiku sepanjang malam.</Desc>
+			<StoryDesc>Merasa baik...selain itu yang bisa dilakukan hanyalah mengeluh karena tidak ingin tidur di alam liar lagi</StoryDesc>
 		</Text>
 		<Text Name="Work">
-			<DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</DisplayName>
-			<Desc>[TXT]Baik kesenangan maupun hiburan, saya bisa melakukan ini sepanjang hari.</Desc>
-			<StoryDesc>Saya merasa puas dengan pekerjaan ini.</StoryDesc>
+			<DisplayName>Pekerjaan yang Menarik</DisplayName>
+			<Desc>Saya bisa bekerja sebagai[TXT]sepanjang hari.</Desc>
+			<StoryDesc>Merasa puas dengan pekerjaan ini</StoryDesc>
 		</Text>
 		<Text Name="FavoriteWork">
-			<DisplayName>Bergairah tentang pekerjaan</DisplayName>
-			<Desc>[TXT]Cukup menarik, saya merasa waktu berlalu begitu cepat ketika saya sedang bekerja.</Desc>
-			<StoryDesc>Saya merasa bisa melakukan pekerjaan seperti ini selamanya.</StoryDesc>
+			<DisplayName>Terobsesi dengan Pekerjaan</DisplayName>
+			<Desc>[TXT]sepenuhnya terlalu menarik. Waktu berlalu dengan cepat saat bekerja.</Desc>
+			<StoryDesc>Merasa bahwa pekerjaan seperti ini dapat dilakukan sepanjang hari dan seseorang akan tetap kembali lagi</StoryDesc>
 		</Text>
 		<Text Name="SocialContact9">
 			<DisplayName>Sembuh</DisplayName>
-			<Desc>Saya dirawat oleh[TXT]Sungguh luar biasa!</Desc>
-			<StoryDesc>Saya merasa dokter itu sangat berbakat.</StoryDesc>
+			<Desc>Saya sudah disembuhkan oleh[TXT]. Ini luar biasa!</Desc>
+			<StoryDesc>Merasa bahwa tabib itu hebat</StoryDesc>
 		</Text>
 		<Text Name="SocialContact14">
-			<DisplayName>menolak cinta</DisplayName>
-			<Desc>Aku menyatakan cintaku padanya[TXT]tapi ditolak</Desc>
-			<StoryDesc>Merasa terbebani oleh rasa sakit karena penolakan</StoryDesc>
+			<DisplayName>Pengakuan Dosa yang Ditolak</DisplayName>
+			<Desc>Aku menyatakan cintaku padanya[TXT]dan ditolak.</Desc>
+			<StoryDesc>merasa sulit untuk tidak merasa sedih dengan rasa sakit yang baru-baru ini masih terasa segar</StoryDesc>
 		</Text>
 		<Text Name="SocialContact15">
-			<DisplayName>orang yang dicintai</DisplayName>
-			<Desc>[TXT]Dan sekarang kami telah menjadi sepasang kekasih. Dan...wow! Hidup ini sangat cerah!</Desc>
-			<StoryDesc>Perasaan melayang bahagia setelah berhasil menyatakan cinta</StoryDesc>
+			<DisplayName>kekasih</DisplayName>
+			<Desc>[TXT]dan saya sekarang adalah pasangan, dan, WOW, betapa hebatnya hidup ini!</Desc>
+			<StoryDesc>merasa sulit untuk tidak merasa seperti jutaan dolar ketika Anda menjadi pasangan dengan seseorang yang juga mencintai Anda</StoryDesc>
 		</Text>
 		<Text Name="Death1">
-			<DisplayName>Seseorang meninggal</DisplayName>
+			<DisplayName>Seseorang meninggal.</DisplayName>
 			<Desc>Kematian selalu merupakan sebuah tragedi.</Desc>
-			<StoryDesc>Merasa sedikit tertekan dengan berlalunya kehidupan lain</StoryDesc>
+			<StoryDesc>merasa sulit untuk tidak merasa sedikit tertekan dengan berlalunya kehidupan lain</StoryDesc>
 		</Text>
 		<Text Name="Death2">
-			<DisplayName>Kematian seorang kakak</DisplayName>
-			<Desc>Murid senior dan rekan guru saya telah meninggal dunia...</Desc>
-			<StoryDesc>Aku merasa kepergian orang terdekatku selalu membuat orang-orang di sekitarku merasa tertekan.</StoryDesc>
+			<DisplayName>Kematian Sesama Murid</DisplayName>
+			<Desc>Salah satu murid guruku meninggal...</Desc>
+			<StoryDesc>Merasa meninggalnya seseorang yang begitu dekat membuat orang disekitarnya selalu berduka</StoryDesc>
 		</Text>
 		<Text Name="Death3">
-			<DisplayName>kematian seorang teman</DisplayName>
-			<Desc>[TXT]... Kenapa kamu pergi terburu-buru? Aku rindu saat-saat kita dulu bersenang-senang bersama...</Desc>
-			<StoryDesc>Saya merasa air mata cenderung mudah mengalir ketika seorang teman meninggal.</StoryDesc>
+			<DisplayName>Kematian Seorang Teman</DisplayName>
+			<Desc>[TXT]... Bagaimana kamu bisa pergi? aku sudah rindu saat-saat kita bersama...</Desc>
+			<StoryDesc>Merasa air mata mudah mengalir saat teman lewat</StoryDesc>
 		</Text>
 		<Text Name="Death4">
-			<DisplayName>kematian seorang kekasih</DisplayName>
-			<Desc>Mengapa!? Mengapa?! Mengapa Anda harus membawanya?[TXT]Pergi dariku!?</Desc>
-			<StoryDesc>Aku merasa kepergian jodohku menimbulkan pertanyaan apakah sisa hidup ini layak dijalani atau tidak...</StoryDesc>
+			<DisplayName>Kekasih yang Meninggal</DisplayName>
+			<Desc>Mengapa!? Mengapa?! Mengapa mengambil[TXT]dariku!?</Desc>
+			<StoryDesc>Merasa meninggalnya pasangan membuat seseorang bertanya-tanya apakah hidup ini layak untuk dijalani..</StoryDesc>
 		</Text>
 		<Text Name="Death5">
-			<DisplayName>kematian hewan peliharaan</DisplayName>
-			<Desc>[TXT]Wah, sudah berapa tahun kamu berada di sisiku?</Desc>
-			<StoryDesc>Merasa memikirkan kenangan bersama antara tuan dan hewan peliharaan?</StoryDesc>
+			<DisplayName>Kematian Hewan Peliharaan</DisplayName>
+			<Desc>Sayangku[TXT], berapa tahun kamu di sisiku?</Desc>
+			<StoryDesc>Merasa kenangan apa yang dibagikan antara seorang guru dan rekan tercinta?</StoryDesc>
 		</Text>
 		<Text Name="Death6">
-			<DisplayName>kematian kerabat</DisplayName>
-			<Desc>[TXT]Pergi dan tak pernah kembali... Saat ini aku merasa sangat kesepian...</Desc>
-			<StoryDesc>Saya merasakan kepedihan karena kehilangan seorang kerabat sungguh menyakitkan.</StoryDesc>
+			<DisplayName>Kerabat yang Meninggal</DisplayName>
+			<Desc>-ku[TXT]telah berlalu... Kini, aku semakin sendirian...</Desc>
+			<StoryDesc>Merasa bahwa kesedihan karena kehilangan orang yang dicintai sangatlah besar</StoryDesc>
 		</Text>
 		<Text Name="Death7">
-			<DisplayName>kematian musuh</DisplayName>
-			<Desc>Akhirnya, kamu bajingan.[TXT]Ia mati pada suatu saat.</Desc>
-			<StoryDesc>Saya merasa berkurangnya satu musuh membuat hidup lebih mudah.</StoryDesc>
+			<DisplayName>Kematian Musuh</DisplayName>
+			<Desc>[TXT]akhirnya menendang ember.</Desc>
+			<StoryDesc>Merasa bahwa satu musuh berkurang membuat hidup lebih mudah</StoryDesc>
 		</Text>
 		<Text Name="Death8">
-			<DisplayName>Kematian seorang kakak</DisplayName>
-			<Desc>[TXT]telah meninggalkan dunia Betapa menyedihkan...</Desc>
-			<StoryDesc>Turut berduka cita atas meninggalnya para siswa tua dan muda.</StoryDesc>
+			<DisplayName>Kematian Sesama Murid</DisplayName>
+			<Desc>-ku[TXT]akhirnya meninggalkan dunia ini...</Desc>
+			<StoryDesc>Merasa ketika seseorang yang sangat berpengaruh dalam hidup seseorang meninggal...rasa sakitnya luar biasa</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice1">
-			<DisplayName>mendobrak batasan</DisplayName>
-			<Desc>Saya merasa basis kultivasi saya berkembang!</Desc>
-			<StoryDesc>Kemajuan dalam praktik dirasa selalu membuat orang bahagia.</StoryDesc>
+			<DisplayName>Terobosan</DisplayName>
+			<Desc>Duniaku kini semakin besar!</Desc>
+			<StoryDesc>Merasa bahwa Terobosan dalam pelatihan selalu membuat seseorang gembira</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice2">
-			<DisplayName>Berhasil menembus batas.</DisplayName>
-			<Desc>Menembus batas berhasil dan basis budidaya berkembang. Perasaan seperti itu sungguh luar biasa!</Desc>
-			<StoryDesc>Saya merasa kesuksesan membawa perasaan puas..</StoryDesc>
+			<DisplayName>Terobosan Sukses</DisplayName>
+			<Desc>Saya telah mengalami Terobosan dalam pelatihan dan wow rasanya luar biasa!</Desc>
+			<StoryDesc>Merasa bahwa kesuksesan dapat melahirkan rasa puas diri..</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice3">
-			<DisplayName>Gagal menembus batas</DisplayName>
-			<Desc>Sangat menyedihkan. Saya gagal menembus batas...</Desc>
-			<StoryDesc>Saya merasa tidak ada seorang pun yang bisa menjadi pemenang sepanjang waktu..</StoryDesc>
+			<DisplayName>Gagal Melakukan Terobosan</DisplayName>
+			<Desc>Sayangnya, saya gagal melakukan Terobosan...</Desc>
+			<StoryDesc>Merasa tidak bisa menang sepanjang waktu..</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice4">
-			<DisplayName>Hukuman surga sudah dekat.</DisplayName>
-			<Desc>Aku merasa hukuman surgawiku sudah dekat. Karena itu, saya merasa sangat tidak nyaman.</Desc>
-			<StoryDesc>Saya merasa sulit untuk menenangkan pikiran saya dalam situasi ini.</StoryDesc>
+			<DisplayName>Kesengsaraan Surgawi Semakin Dekat</DisplayName>
+			<Desc>Aku merasa Kesengsaraan Surgawi sudah dekat dan membuatku tidak nyaman.</Desc>
+			<StoryDesc>merasa sulit untuk menenangkan pikiran dalam situasi seperti ini</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice5">
-			<DisplayName>Berhasil mengatasi hukuman surgawi</DisplayName>
+			<DisplayName>Selamat dari kesengsaraan</DisplayName>
 			<Desc>Saya selamat!</Desc>
-			<StoryDesc>Perasaan selamat dari hukuman surgawi sungguh luar biasa!</StoryDesc>
+			<StoryDesc>Merasa bahwa Bertahan dalam kesengsaraan benar-benar membuat seseorang tersenyum!</StoryDesc>
 		</Text>
 		<Text Name="TaoismPractice6">
-			<DisplayName>Dikalahkan oleh Hukuman Surga</DisplayName>
-			<Desc>B-Aku gagal....Ini benar-benar kerugian besar...</Desc>
-			<StoryDesc>Kegagalan menghadapi Hukuman Surgawi dirasakan sangat tidak ada harapan.</StoryDesc>
+			<DisplayName>Kesengsaraan Gagal</DisplayName>
+			<Desc>Saya kalah....ini kerugian yang signifikan...</Desc>
+			<StoryDesc>Merasa Gagal dalam kesengsaraan membuat seseorang benar-benar tertindas</StoryDesc>
 		</Text>
 		<Text Name="MakeArt">
-			<DisplayName>karya seni</DisplayName>
-			<Desc>Saya telah mendedikasikan hati dan jiwa saya untuk tugas ini!</Desc>
-			<StoryDesc>Perasaan menyelesaikan karya seni ini sungguh memuaskan.</StoryDesc>
+			<DisplayName>Karya Seni</DisplayName>
+			<Desc>Saya mencurahkan hati dan jiwa saya ke dalam pekerjaan ini!</Desc>
+			<StoryDesc>Merasa telah menyelesaikan sebuah karya seni sungguh membuat seseorang merasa puas</StoryDesc>
 		</Text>
 		<Text Name="Health1">
-			<DisplayName>terluka</DisplayName>
-			<Desc>aku terluka dan itu sangat menyakitkan..</Desc>
-			<StoryDesc>Rasanya satu-satunya hal yang bisa kulakukan saat ini hanyalah mengertakkan gigi dan menahan rasa sakit.</StoryDesc>
+			<DisplayName>Terluka</DisplayName>
+			<Desc>Aku terluka dan itu sangat menyakitkan...</Desc>
+			<StoryDesc>Merasa bahwa yang bisa dilakukan hanyalah meringis kesakitan</StoryDesc>
 		</Text>
 		<Text Name="Health2">
-			<DisplayName>sakit</DisplayName>
-			<Desc>aku merasa tidak enak badan...</Desc>
-			<StoryDesc>merasa menderita penyakit</StoryDesc>
+			<DisplayName>Sakit</DisplayName>
+			<Desc>Aku merasa tidak enak badan...</Desc>
+			<StoryDesc>Perasaan bahwa Tidak ada seorang pun yang suka sakit dan itu terlihat jelas hanya dengan sekali melihat orang yang sakit</StoryDesc>
 		</Text>
 		<Text Name="Health3">
-			<DisplayName>dengan disabilitas</DisplayName>
-			<Desc>Aku tidak akan pernah mendapatkan kembali apa yang telah hilang...</Desc>
-			<StoryDesc>Merasa bahwa menjadi penyandang disabilitas dapat mengubah hidup seseorang. Seseorang benar-benar bisa mendapatkannya..</StoryDesc>
+			<DisplayName>Dengan disabilitas</DisplayName>
+			<Desc>Aku tidak akan pernah bisa mendapatkan kembali apa yang telah hilang...</Desc>
+			<StoryDesc>Menjadi cacat mengubah hidup seseorang sepenuhnya..</StoryDesc>
 		</Text>
 		<Text Name="SeeSomething1">
-			<DisplayName>Menemukan mayat</DisplayName>
+			<DisplayName>Melihat Mayat</DisplayName>
 			<Desc>Saya melihat mayat di tempat terbuka.</Desc>
-			<StoryDesc>Saya merasa melihat mayat membuat orang merasa tidak nyaman.</StoryDesc>
+			<StoryDesc>Melihat mayat membuat seseorang merasa tidak nyaman</StoryDesc>
 		</Text>
 		<Text Name="SeeSomething2">
-			<DisplayName>melihat darah</DisplayName>
-			<Desc>Melihat darahnya membuatku merasa... tidak nyaman.</Desc>
-			<StoryDesc>Noda darah di lantai dirasa membuat warga merasa tidak nyaman.</StoryDesc>
+			<DisplayName>Terlihat Darah</DisplayName>
+			<Desc>Melihat darah membuatku...tidak nyaman.</Desc>
+			<StoryDesc>Merasa bahwa Darah setidaknya bisa membuat seseorang mual</StoryDesc>
 		</Text>
 		<Text Name="NotBury">
-			<DisplayName>Tidak terkubur dengan benar</DisplayName>
-			<Desc>Kami tidak menguburkan jenazahnya.[TXT]secara seremonial</Desc>
-			<StoryDesc>Saya merasa menguburkan seseorang yang dekat dengan saya tanpa upacara yang layak membuat saya merasa tidak nyaman.</StoryDesc>
+			<DisplayName>Tidak Dikuburkan dengan Benar</DisplayName>
+			<Desc>Kami tidak bisa menguburkannya[TXT]dengan bermartabat.</Desc>
+			<StoryDesc>Merasa bahwa seseorang yang dekat tidak dikuburkan dengan benar membuat seseorang merasa tidak nyaman</StoryDesc>
 		</Text>
 		<Text Name="SayHi">
-			<DisplayName>menyapa</DisplayName>
-			<Desc>aku menyapa[TXT]</Desc>
-			<StoryDesc>Saya merasa menyapa seseorang jelas lebih baik daripada mengabaikannya.</StoryDesc>
+			<DisplayName>Salam</DisplayName>
+			<Desc>saya menyapa[TXT].</Desc>
+			<StoryDesc>Merasa bahwa Menyapa seseorang selalu lebih baik daripada mengabaikannya, itu sudah pasti</StoryDesc>
 		</Text>
 		<Text Name="AfterTalk">
-			<DisplayName>berbicara</DisplayName>
-			<Desc>saya berbicara dengan[TXT]</Desc>
-			<StoryDesc>Senang rasanya berbicara dengan orang lain.</StoryDesc>
+			<DisplayName>Mengobrol</DisplayName>
+			<Desc>Saya mengobrol menyenangkan dengan[TXT].</Desc>
+			<StoryDesc>merasa selalu senang untuk mengejar ketinggalan</StoryDesc>
 		</Text>
 		<Text Name="DeepTalk">
-			<DisplayName>Bicaralah secara terbuka</DisplayName>
-			<Desc>Saya berbicara secara terbuka dengan[TXT]</Desc>
-			<StoryDesc>Senang rasanya berbicara secara terbuka.</StoryDesc>
+			<DisplayName>Pembicaraan dari hati ke hati</DisplayName>
+			<Desc>Saya berhubungan dari hati ke hati[TXT].</Desc>
+			<StoryDesc>selalu merasa senang bisa berbicara baik dari hati ke hati</StoryDesc>
 		</Text>
 		<Text Name="Neglect">
-			<DisplayName>Dingin</DisplayName>
-			<Desc>saya berbicara dengan[TXT]Tapi sepertinya[IT]Tidak ingin berbicara denganku. Dan aku terlalu malas untuk memperhatikannya.[IT]juga</Desc>
-			<StoryDesc>Merasa bahwa terkadang lebih baik tidak mengatakan sesuatu jika terasa tidak nyaman.</StoryDesc>
+			<DisplayName>Bahu Dingin</DisplayName>
+			<Desc>saya berbicara dengan[TXT], Tetapi[IT]sepertinya tidak mau memberiku waktu, jadi aku membalasnya saja[IT].</Desc>
+			<StoryDesc>Merasa bahwa Menerima sikap dingin bisa membuat seseorang...kesal</StoryDesc>
 		</Text>
 		<Text Name="Quarrel">
-			<DisplayName>sengketa</DisplayName>
-			<Desc>Saya bertengkar dengan[TXT]Dan saya merasa sangat marah.</Desc>
-			<StoryDesc>Rasanya berdebat memang bisa membuat kedua belah pihak jadi panas kepala.</StoryDesc>
+			<DisplayName>Argumen</DisplayName>
+			<Desc>Saya bertengkar dengan[TXT], dan saya kesal.</Desc>
+			<StoryDesc>Merasa bahwa pertengkaran dapat membuat kedua belah pihak menjadi panas</StoryDesc>
 		</Text>
 		<Text Name="Insult">
-			<DisplayName>penghinaan</DisplayName>
-			<Desc>Saya telah dipandang rendah oleh[TXT]</Desc>
-			<StoryDesc>Rasa malu seperti itu dirasakan menimbulkan kebencian.</StoryDesc>
+			<DisplayName>Dipermalukan</DisplayName>
+			<Desc>Saya dipermalukan oleh[TXT].</Desc>
+			<StoryDesc>Merasa bahwa Penghinaan melahirkan kebencian</StoryDesc>
 		</Text>
 		<Text Name="SayHiFight">
-			<DisplayName>membantah</DisplayName>
-			<Desc>Saya sedang ngobrol sedikit dengan[TXT]Tapi entah kenapa, semuanya mulai tegang. Setelah itu, aku dan[IT]Mereka mulai berdebat.</Desc>
-			<StoryDesc>Saya merasa terkadang orang berdebat satu sama lain tanpa alasan...</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya sedang berbasa-basi[TXT]tapi entah kenapa segalanya menjadi tegang, dan kami mulai bertengkar. Berantakan sekali.</Desc>
+			<StoryDesc>Merasa Terkadang kita bertengkar tanpa alasan..</StoryDesc>
 		</Text>
 		<Text Name="AfterTalkFight">
-			<DisplayName>pertengkaran</DisplayName>
-			<Desc>saya berbicara dengan[TXT]Setelah itu, aku dan[IT]Mereka bertengkar tanpa alasan.</Desc>
-			<StoryDesc>Saya merasa terkadang orang berdebat satu sama lain tanpa alasan...</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya sempat ngobrol dengan[TXT]dan kami akhirnya bertengkar tanpa alasan yang jelas.</Desc>
+			<StoryDesc>Merasa Terkadang kita bertengkar tanpa alasan..</StoryDesc>
 		</Text>
 		<Text Name="DeepTalkFight">
-			<DisplayName>Pertukaran pukulan</DisplayName>
-			<Desc>Saya berbicara secara terbuka dengan[TXT]Nanti, aku dan[IT]Mereka bertarung sengit dan berakhir dengan saling bertukar pukulan. Sungguh memalukan.</Desc>
-			<StoryDesc>Rasanya berdebat bisa berujung pada penyesalan di kemudian hari.</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Aku membuka hatiku untuk itu[TXT]namun kami terlibat perdebatan sengit, dan bahkan berakhir dengan pertengkaran. Sayang sekali.</Desc>
+			<StoryDesc>Merasa bahwa Bertengkar dapat dengan mudah menimbulkan penyesalan</StoryDesc>
 		</Text>
 		<Text Name="NeglectFight">
-			<DisplayName>memukul</DisplayName>
-			<Desc>saya berbicara dengan[TXT]Tetapi[IT]Sebaliknya, dia tidak puas dengan apa yang saya katakan. Setelah itu, aku dan[IT]Itu berakhir dengan perkelahian.</Desc>
-			<StoryDesc>Merasa bahwa pertengkaran menimbulkan kebencian</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya mulai berbicara dengan[TXT]tapi mereka tersinggung dengan perkataanku, dan kami akhirnya bertengkar satu sama lain.</Desc>
+			<StoryDesc>Merasa bahwa Perkelahian melahirkan kebencian</StoryDesc>
 		</Text>
 		<Text Name="QuarrelFight">
-			<DisplayName>bentrokan</DisplayName>
-			<Desc>Saya memiliki konflik dengan[TXT]Dan hal ini hanya bisa diperbaiki dengan tinju.</Desc>
-			<StoryDesc>Merasa bahwa pertengkaran menimbulkan kebencian</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya bertengkar dengan[TXT]itu hanya bisa diselesaikan dengan tinju.</Desc>
+			<StoryDesc>Merasa bahwa Perkelahian melahirkan kebencian</StoryDesc>
 		</Text>
 		<Text Name="InsultFight">
-			<DisplayName>berkelahi</DisplayName>
-			<Desc>saya dan[TXT]Kami berbicara dengan nada menghina satu sama lain. Si idiot itu perlu diberi pelajaran dengan tinjuku.</Desc>
-			<StoryDesc>Aku merasa tidak ada yang baik. Dari pertengkaran itu</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya bertukar hinaan dengan[TXT]. Si idiot yang suka berperang harus diberi pelajaran, dengan tinjuku.</Desc>
+			<StoryDesc>Merasa bahwa tidak ada hal baik yang datang dari pertarungan</StoryDesc>
 		</Text>
 		<Text Name="Fighting">
-			<DisplayName>bertarung</DisplayName>
-			<Desc>saya berdebat dengan[TXT] [IT]Itu hanya bajingan gila.</Desc>
-			<StoryDesc>Aku merasa tidak ada yang baik. Dari pertengkaran itu</StoryDesc>
+			<DisplayName>Bertarung</DisplayName>
+			<Desc>Saya bertengkar dengan[TXT]. [IT]benar-benar brengsek.</Desc>
+			<StoryDesc>Merasa bahwa tidak ada hal baik yang datang dari pertarungan</StoryDesc>
 		</Text>
 		<Text Name="BuildBody">
-			<DisplayName>membangun kembali</DisplayName>
-			<Desc>Meregenerasi seluruh organ dan bagian tubuh yang hilang.</Desc>
-			<StoryDesc>Saya merasa membangun kembali tubuh saya setelah cacat membuat saya merasa bahagia.</StoryDesc>
+			<DisplayName>Dibangun kembali</DisplayName>
+			<Desc>Tubuhku sudah lebih baik sekarang.</Desc>
+			<StoryDesc>Merasa bahwa tubuh Anda dibangun kembali setelah dinonaktifkan membuat seseorang merasa gembira</StoryDesc>
 		</Text>
 		<Text Name="FailInLove">
-			<DisplayName>jatuh cinta</DisplayName>
-			<Desc>Saya jatuh cinta[TXT]</Desc>
-			<StoryDesc>Saya merasa terkadang orang bisa melakukan hal bodoh. Saatnya memiliki cinta.</StoryDesc>
+			<DisplayName>Terpesona</DisplayName>
+			<Desc>Aku sudah jatuh cinta[TXT].</Desc>
+			<StoryDesc>Merasa bahwa Kita melakukan hal-hal bodoh ketika sedang jatuh cinta</StoryDesc>
 		</Text>
 		<Text Name="SleepWithWhat">
-			<DisplayName>manajemen yang buruk</DisplayName>
+			<DisplayName>Perencanaan yang Buruk</DisplayName>
 			<Desc>Saya tidak bisa tidur dengan orang itu.</Desc>
-			<StoryDesc>Merasa kurang tidur membuat Anda mudah kesal.</StoryDesc>
+			<StoryDesc>Merasa bahwa pengaturan tidur yang buruk menyebabkan kemarahan</StoryDesc>
 		</Text>
 		<Text Name="StayWithGood">
-			<DisplayName>berbahagialah</DisplayName>
-			<Desc>Saya suka menghabiskan waktu bersama[TXT]</Desc>
-			<StoryDesc>Senang rasanya bisa menikmati kebahagiaan menghabiskan waktu bersama dengan orang yang Anda sukai.</StoryDesc>
+			<DisplayName>Senang</DisplayName>
+			<Desc>Saya suka menghabiskan waktu bersama[TXT].</Desc>
+			<StoryDesc>Merasakan betapa nikmatnya menikmati kebahagiaan karena bisa menghabiskan waktu bersama gebetan</StoryDesc>
 		</Text>
 		<Text Name="SleepWithSpouse">
-			<DisplayName>tetap bersama</DisplayName>
-			<Desc>saya tinggal bersama[TXT]</Desc>
-			<StoryDesc>Rasakan bahagia saat Anda bersama dengan orang yang Anda cintai.</StoryDesc>
+			<DisplayName>Terlampir</DisplayName>
+			<Desc>Saya tinggal bersama dengan[TXT].</Desc>
+			<StoryDesc>merasa mudah untuk bahagia ketika memikirkan orang penting Anda</StoryDesc>
 		</Text>
 		<Text Name="SleepWithLover">
-			<DisplayName>malu</DisplayName>
-			<Desc>saya tinggal bersama[TXT]</Desc>
-			<StoryDesc>Merasa malu saat bersama dengan orang yang disukai</StoryDesc>
+			<DisplayName>Malu</DisplayName>
+			<Desc>Saya tinggal bersama dengan[TXT].</Desc>
+			<StoryDesc>Merasa bahwa Beberapa orang merasa malu terhadap orang terdekatnya, sebenarnya menerimanya</StoryDesc>
 		</Text>
 		<Text Name="FoundOrganization1">
-			<DisplayName>Kantor pendiri</DisplayName>
-			<Desc>Kami tinggal di sini dan berlatih dalam kesendirian. Kami sekarang telah mendirikan sekte baru. Ini adalah awal yang baik.</Desc>
-			<StoryDesc>Ambisi dan kegembiraan dirasakan muncul dalam diri setiap orang di sekte tersebut.</StoryDesc>
+			<DisplayName>Sekte Didirikan</DisplayName>
+			<Desc>Kami tinggal di sini, dalam pengasingan, berlatih. Kami sekarang telah mendirikan sebuah sekte. Ini adalah awal yang baik.</Desc>
+			<StoryDesc>Merasa bahwa Antusiasme itu menular dengan awal yang penuh keberuntungan</StoryDesc>
 		</Text>
 		<Text Name="FoundOrganization2">
-			<DisplayName>Perkuat kantor</DisplayName>
-			<Desc>Sekte kami menjadi semakin terkenal. Mari kita bantu membangunnya menjadi sekte yang hebat.</Desc>
-			<StoryDesc>Pertumbuhan sekte ini dirasakan telah merangsang semangat juang semua orang.</StoryDesc>
+			<DisplayName>Penguatan Sekte</DisplayName>
+			<Desc>Sekte kami secara bertahap mendapatkan ketenarannya, dan ini bukanlah tugas yang mudah. Mari kita terus membangunnya menjadi sekte yang lebih besar.</Desc>
+			<StoryDesc>Merasa bahwa kekuasaan sekte membuat seseorang bersemangat untuk bertarung</StoryDesc>
 		</Text>
 		<Text Name="FoundOrganization3">
-			<DisplayName>Surga muncul</DisplayName>
-			<Desc>Alam surgawi adalah kantor kita.</Desc>
-			<StoryDesc>Perasaan bangga ketika sekte tersebut menjadi surga dunia</StoryDesc>
+			<DisplayName>Tempat Tinggal Surgawi Selesai</DisplayName>
+			<Desc>Tempat Tinggal Surgawi ini adalah Surga kita.</Desc>
+			<StoryDesc>Merasa bahwa Kebanggaan berlimpah ketika suatu Sekte menjadi Surga Duniawi</StoryDesc>
 		</Text>
 		<Text Name="BeSchoolMaster">
-			<DisplayName>menjadi kepala kantor</DisplayName>
-			<Desc>Saya pasti akan memimpin semua orang ke jalan menuju keabadian.</Desc>
-			<StoryDesc>Dia merasa bahwa menjadi master sekte memiliki beban yang sangat besar baginya.</StoryDesc>
+			<DisplayName>Menjadi Pemimpin Sekte</DisplayName>
+			<Desc>Saya pasti akan menuntun semua orang mengikuti Hukum menuju keabadian.</Desc>
+			<StoryDesc>Merasa bahwa Menjadi Pemimpin Sekte mengisi seseorang dengan semangat</StoryDesc>
 		</Text>
 		<Text Name="INeedTrousersM">
-			<DisplayName>ingin celana</DisplayName>
-			<Desc>Sekte ini bahkan tidak punya celana?</Desc>
-			<StoryDesc>Saya merasa marah karena saya tidak punya celana untuk dipakai.</StoryDesc>
+			<DisplayName>Celana MIA</DisplayName>
+			<Desc>Sekte bahkan tidak punya celana?</Desc>
+			<StoryDesc>Merasakan kemarahan itu menular ketika tidak ada celana yang bisa ditemukan</StoryDesc>
 		</Text>
 		<Text Name="INeedClothesF">
-			<DisplayName>membutuhkan kemeja</DisplayName>
-			<Desc>kasar! Dimana bajuku!?</Desc>
-			<StoryDesc>Saya merasa sangat malu ketika saya tidak punya pakaian untuk dipakai.</StoryDesc>
+			<DisplayName>Pakaian Dibutuhkan</DisplayName>
+			<Desc>AH! Dimana pakaianku!?</Desc>
+			<StoryDesc>Perasaan bahwa Rasa Malu berlimpah ketika seseorang terkejut mengetahui bahwa mereka tidak memiliki apa-apa selain setelan ulang tahun</StoryDesc>
 		</Text>
 		<Text Name="INeedTrousersF">
-			<DisplayName>ingin celana</DisplayName>
-			<Desc>kasar! Sekte ini bahkan tidak memiliki celana...?!</Desc>
-			<StoryDesc>Saya merasa marah karena saya tidak punya celana untuk dipakai.</StoryDesc>
+			<DisplayName>Celana MIA</DisplayName>
+			<Desc>AH! Kenapa tidak ada...?!</Desc>
+			<StoryDesc>Merasakan kemarahan itu menular ketika tidak ada celana yang bisa ditemukan</StoryDesc>
 		</Text>
 		<Text Name="Kick1">
-			<DisplayName>dibuang</DisplayName>
-			<Desc>Seseorang diusir dari sekte tersebut.</Desc>
-			<StoryDesc>Rasanya seperti seseorang yang dikeluarkan dari sekte menyebabkan orang-orang yang tersisa merasa tertekan.</StoryDesc>
+			<DisplayName>Diusir</DisplayName>
+			<Desc>Seseorang telah diusir.</Desc>
+			<StoryDesc>Merasa bahwa seseorang dikeluarkan cenderung membuat semua orang merasa tertindas</StoryDesc>
 		</Text>
 		<Text Name="Kick2">
-			<DisplayName>Siswa yang lebih tua dan lebih muda dikeluarkan.</DisplayName>
-			<Desc>Sangat menyedihkan bahwa beberapa murid senior diusir dari sekte tersebut.</Desc>
-			<StoryDesc>Rasanya fakta bahwa murid yang lebih tua dan lebih muda diusir dari sekte membuat semua orang merasa tidak puas.</StoryDesc>
+			<DisplayName>Sesama Anggota Diusir</DisplayName>
+			<Desc>Sayangnya sesama anggota telah dikeluarkan.</Desc>
+			<StoryDesc>Merasa bahwa sesama anggota dikeluarkan membuat semua orang merasa kurang senang</StoryDesc>
 		</Text>
 		<Text Name="Kick3">
-			<DisplayName>Kawan-kawan diusir.</DisplayName>
-			<Desc>Apa yang terjadi disini!? Mengapa?[TXT]Temanku dikeluarkan dari sekte?!</Desc>
-			<StoryDesc>Ia merasa pengusiran temannya dari sekte tersebut telah meninggalkan perasaan pahit di hatinya.</StoryDesc>
+			<DisplayName>Teman yang Diusir</DisplayName>
+			<Desc>Apa yang kalian semua lakukan!? Kenapa temanku,[TXT], meninggalkan?!</Desc>
+			<StoryDesc>Merasa bahwa seorang teman baik yang dikeluarkan cenderung meninggalkan mereka yang masih merugi</StoryDesc>
 		</Text>
 		<Text Name="Kick4">
-			<DisplayName>kekasih diusir</DisplayName>
-			<Desc>Apa-apaan ini!? Mengapa?[TXT]Kekasihku diusir dari sekte?!</Desc>
-			<StoryDesc>Rasanya kemarahan di dalam dirinya akan meledak ketika orang penting dalam hidupnya diusir dari sekte tersebut.</StoryDesc>
+			<DisplayName>Kekasih yang Diusir</DisplayName>
+			<Desc>Apa yang kalian semua lakukan!? Kenapa temanku,[TXT], meninggalkan?!</Desc>
+			<StoryDesc>Merasa bahwa Kemarahan menjadi meledak ketika orang penting lainnya diusir</StoryDesc>
 		</Text>
 		<Text Name="Kick5">
-			<DisplayName>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</DisplayName>
-			<Desc>Apa yang terjadi disini!? Mengapa?[TXT]Kerabat saya diusir dari sekte ini?!</Desc>
-			<StoryDesc>Dia merasa bahwa kerabatnya yang diusir dari sekte tersebut telah meninggalkan perasaan pahit di hatinya.</StoryDesc>
+			<DisplayName>Anggota Keluarga yang Diusir</DisplayName>
+			<Desc>Apa yang kalian semua lakukan!? Kenapa temanku,[TXT], meninggalkan?!</Desc>
+			<StoryDesc>Merasa bahwa ada anggota keluarga yang diusir cenderung membuat seseorang kesal</StoryDesc>
 		</Text>
 		<Text Name="Kick6">
-			<DisplayName>Guru itu diusir</DisplayName>
-			<Desc>Menguasai[TXT]Diusir dari sekte?! Apa yang sebenarnya terjadi di sini?</Desc>
-			<StoryDesc>Ia merasa pengusiran gurunya dari sekte tersebut telah meninggalkan perasaan pahit di hatinya.</StoryDesc>
+			<DisplayName>Guru yang diusir</DisplayName>
+			<Desc>Tuanku,[TXT], telah dipaksa keluar...apa yang salah?</Desc>
+			<StoryDesc>Merasa bahwa seorang master yang dikeluarkan cenderung membuat seseorang kesal</StoryDesc>
 		</Text>
 		<Text Name="Kick7">
-			<DisplayName>Musuh diusir.</DisplayName>
-			<Desc>Sialan kamu![TXT]Apakah Anda dipecat dari kantor? Ha ha!</Desc>
-			<StoryDesc>Saya merasa bahwa musuh yang diusir dari sekte membuat sekte ini menjadi tempat tinggal yang lebih baik.</StoryDesc>
+			<DisplayName>Musuh yang Diusir</DisplayName>
+			<Desc>[TXT]telah diusir? HA HA HA HA!</Desc>
+			<StoryDesc>Merasa bahwa musuh yang diusir tentu mencerahkan minggu seseorang</StoryDesc>
 		</Text>
 		<Text Name="Defection1">
-			<DisplayName>meninggalkan kantor</DisplayName>
-			<Desc>Seseorang telah meninggalkan sekte tersebut...</Desc>
-			<StoryDesc>Saya bertanya-tanya mengapa orang Itu sebabnya dia melakukan ini?</StoryDesc>
+			<DisplayName>Penyeberang</DisplayName>
+			<Desc>Seseorang telah membelot dari Sekte...</Desc>
+			<StoryDesc>Merasa bahwa Mengapa seseorang membelot?</StoryDesc>
 		</Text>
 		<Text Name="Defection2">
-			<DisplayName>Kerabat meninggalkan kantor</DisplayName>
-			<Desc>[TXT]Kerabat saya telah meninggalkan sekte ini? Mengapa?[IT]Untuk bisa melakukan itu...?</Desc>
-			<StoryDesc>Dia merasa sangat marah dan terkejut karena kerabatnya telah meninggalkan sekte tersebut.</StoryDesc>
+			<DisplayName>Anggota Keluarga Telah Membelot</DisplayName>
+			<Desc>-ku[TXT]telah membelot dari Sekte, mengapa...?</Desc>
+			<StoryDesc>Merasakan Kemarahan dan keterkejutan yang melimpah karena pembelotan anggota keluarga dari Sekte</StoryDesc>
 		</Text>
 		<Text Name="Defection3">
-			<DisplayName>Temannya meninggalkan kantor.</DisplayName>
-			<Desc>[TXT]Teman saya telah meninggalkan sekte tersebut. Mengapa?[IT]Untuk bisa melakukan itu...?</Desc>
-			<StoryDesc>Dia merasa sangat marah dan terkejut pada rekan-rekannya yang meninggalkan sekte tersebut.</StoryDesc>
+			<DisplayName>Seorang Teman Telah Membelot</DisplayName>
+			<Desc>-ku[TXT]telah membelot dari Sekte, mengapa...?</Desc>
+			<StoryDesc>Merasakan Kemarahan dan keterkejutan yang melimpah karena pembelotan seorang teman dari Sekte</StoryDesc>
 		</Text>
 		<Text Name="Defection4">
-			<DisplayName>Sang kekasih meninggalkan kantor.</DisplayName>
-			<Desc>[TXT]Kekasihku telah meninggalkan sekte tersebut. Mengapa?[IT]Untuk bisa melakukan itu...?</Desc>
-			<StoryDesc>Rasanya kekasih orang yang meninggalkan sekte itu adalah sesuatu yang sangat tidak terduga.</StoryDesc>
+			<DisplayName>Pembelotan Kekasih</DisplayName>
+			<Desc>-ku[TXT]telah membelot dari Sekte, mengapa...?</Desc>
+			<StoryDesc>Merasa pembelotan seorang kekasih dari sekte sungguh tak terduga</StoryDesc>
 		</Text>
 		<Text Name="Defection5">
-			<DisplayName>Musuh meninggalkan biro.</DisplayName>
-			<Desc>[TXT]Jadi kamu keluar seperti itu?[IT]Anda benar-benar berani mengkhianati sekte tersebut.</Desc>
-			<StoryDesc>Dia merasa bahwa musuh bebuyutannya meninggalkan sekte tersebut adalah hal yang menyenangkan.</StoryDesc>
+			<DisplayName>Pembelotan Musuh</DisplayName>
+			<Desc>[TXT]kabur? Sepertinya petunjuk akhirnya diambil.</Desc>
+			<StoryDesc>Merasa bahwa pembelotan musuh membuat minggu ini menjadi minggu yang menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="DiscontentMood">
-			<DisplayName>jenggot</DisplayName>
-			<Desc>Saya tidak begitu puas dengan apa yang terjadi...</Desc>
-			<StoryDesc>Lebih mudah merasa kesal ketika hidup tidak bahagia.</StoryDesc>
+			<DisplayName>Tidak senang</DisplayName>
+			<Desc>Aku tidak begitu puas dengan apa yang terjadi...</Desc>
+			<StoryDesc>merasa mudah marah ketika seseorang tidak puas dengan kehidupan</StoryDesc>
 		</Text>
 		<Text Name="Mood_BasePracticeAchievements1">
-			<DisplayName>Basis Qi meningkat sedikit.</DisplayName>
-			<Desc>Tampaknya pelatihan ini berjalan perlahan. Tunjukkan hasilnya!</Desc>
-			<StoryDesc>Sangat menyenangkan melihat hasil pelatihan.</StoryDesc>
+			<DisplayName>Fondasi Sedikit Dibangun</DisplayName>
+			<Desc>Sepertinya berolahraga mulai membuahkan hasil!</Desc>
+			<StoryDesc>merasa mudah untuk menjadi bersemangat ketika keuntungan menjadi nyata</StoryDesc>
 		</Text>
 		<Text Name="Mood_BasePracticeAchievements2">
-			<DisplayName>Fondasi Qi meningkat secara moderat.</DisplayName>
-			<Desc>Tampaknya latihan itu tidak buruk sama sekali!</Desc>
-			<StoryDesc>Sangat memuaskan melihat hasil usaha Anda.</StoryDesc>
+			<DisplayName>Fondasi Cukup Dibangun</DisplayName>
+			<Desc>Sepertinya berolahraga benar-benar membuahkan hasil!</Desc>
+			<StoryDesc>Merasakan euforia yang melimpah ketika orang lain mulai memperhatikan keuntungan yang diperolehnya</StoryDesc>
 		</Text>
 		<Text Name="BecomeDisciple">
-			<DisplayName>cakrawala baru</DisplayName>
-			<Desc>Jalan menuju keabadian kini telah terbuka.</Desc>
-			<StoryDesc>Saya merasa sangat puas ketika saya mulai berjalan di jalur penguasaan.</StoryDesc>
+			<DisplayName>Dunia Baru</DisplayName>
+			<Desc>Jalan menuju Keabadian telah dimulai.</Desc>
+			<StoryDesc>merasa lebih baik untuk tidak membiarkan keuntungan menimbulkan rasa puas diri</StoryDesc>
 		</Text>
 		<Text Name="SeeGod">
-			<DisplayName>Saksi Adven</DisplayName>
-			<Desc>Menyaksikan kenaikan seseorang ke alam surga memang cukup menggetarkan.</Desc>
-			<StoryDesc>Saya merasa bisa menjadi saksi naiknya seseorang ke alam surga merupakan suatu kebanggaan tersendiri.</StoryDesc>
+			<DisplayName>Saksi Kenaikan</DisplayName>
+			<Desc>Menyaksikan kenaikan orang lain merupakan motivasi yang cukup besar.</Desc>
+			<StoryDesc>Merasa menyaksikan kenaikan benar-benar bisa membuat kepala tegak</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing1">
-			<DisplayName>Pengalaman buruk</DisplayName>
-			<Desc>Bagaimana kamu bisa melakukan ini padaku?</Desc>
-			<StoryDesc>Pengalaman menakutkan dirasa membuat masyarakat merasa panik.</StoryDesc>
+			<DisplayName>Pengalaman yang Mengerikan</DisplayName>
+			<Desc>Bagaimana dia bisa memperlakukanku seperti itu?</Desc>
+			<StoryDesc>Merasa bahwa pengalaman yang mengerikan membuat seseorang dilanda kepanikan</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing2">
-			<DisplayName>Saksi dari peristiwa yang paling mengerikan</DisplayName>
-			<Desc>Saya adalah saksi dari hal paling mengerikan yang terjadi pada saya.[TXT]</Desc>
-			<StoryDesc>Merasa bahwa menyaksikan pengalaman yang menakutkan membuat seseorang jatuh ke dalam keadaan paranoia.</StoryDesc>
+			<DisplayName>Saksi Pengalaman yang Mengerikan</DisplayName>
+			<Desc>Saya menyaksikan sesuatu yang mengerikan terjadi[TXT].</Desc>
+			<StoryDesc>Merasa bahwa menyaksikan pengalaman yang menakutkan membuat seseorang berada dalam ketakutan</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing3">
-			<DisplayName>Saya merasa kasihan pada rekan-rekan saya.</DisplayName>
-			<Desc>Saya cukup khawatir setelah melihat pengalaman mengerikan itu menimpa saya.[TXT]siapa temanku</Desc>
-			<StoryDesc>Dia merasakan ketakutan sekaligus kemarahan setelah melihat apa yang terjadi pada rekan-rekannya.</StoryDesc>
+			<DisplayName>Merasa Kasihan pada Teman</DisplayName>
+			<Desc>Saya cukup khawatir setelah melihat pengalaman mengerikan seperti itu menimpa teman saya,[TXT].</Desc>
+			<StoryDesc>Perasaan takut dan marah meluap-luap setelah menyaksikan kejadian mengerikan menimpa seorang teman</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing4">
-			<DisplayName>Rasakan simpati untuk orang yang Anda cintai</DisplayName>
-			<Desc>Saya cukup khawatir setelah melihat pengalaman mengerikan itu menimpa saya.[TXT]siapa kekasihku</Desc>
-			<StoryDesc>Merasa takut sekaligus marah setelah melihat kejadian yang menimpa kekasihnya</StoryDesc>
+			<DisplayName>Merasa Buruk pada Kekasih</DisplayName>
+			<Desc>Saya cukup khawatir setelah melihat pengalaman mengerikan seperti itu menimpa teman saya,[TXT].</Desc>
+			<StoryDesc>Perasaan takut dan marah meluap-luap setelah menyaksikan sesuatu yang begitu mengerikan menimpa kekasihnya</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing5">
-			<DisplayName>Saya merasa kasihan pada kerabat saya.</DisplayName>
-			<Desc>Aku melihat hal buruk terjadi padamu.[TXT]Kerabatku... Bagaimana hal seperti ini bisa terjadi?</Desc>
-			<StoryDesc>Dia merasakan ketakutan sekaligus kemarahan setelah melihat apa yang terjadi pada kerabatnya.</StoryDesc>
+			<DisplayName>Merasa Buruk untuk Anggota Keluarga</DisplayName>
+			<Desc>Saya menyaksikan sesuatu yang buruk terjadi pada saya[TXT]... Bagaimana ini bisa terjadi?</Desc>
+			<StoryDesc>Merasakan ketakutan dan kemarahan yang meluap-luap setelah menyaksikan sesuatu yang sangat mengerikan menimpa orang yang dicintai</StoryDesc>
 		</Text>
 		<Text Name="TerribleThing6">
-			<DisplayName>Saksi dari peristiwa yang paling mengerikan</DisplayName>
-			<Desc>Saya telah menjadi saksi peristiwa yang mengerikan.</Desc>
-			<StoryDesc>Melihat hal-hal menakutkan dirasa membuat orang merasa cemas.</StoryDesc>
+			<DisplayName>Saksi Pengalaman yang Mengerikan</DisplayName>
+			<Desc>Saya menyaksikan sesuatu yang menakutkan.</Desc>
+			<StoryDesc>Merasa menyaksikan sesuatu yang begitu menakutkan membuat seseorang cemas</StoryDesc>
 		</Text>
 		<Text Name="NiceThing1">
-			<DisplayName>Keajaiban</DisplayName>
-			<Desc>Seseorang telah memberikan mantra ajaib padaku! Perasaan ini sungguh luar biasa!</Desc>
-			<StoryDesc>Pengalaman indah seperti itu dirasa membuat orang kerap terpesona karenanya.</StoryDesc>
+			<DisplayName>Sebuah Keajaiban</DisplayName>
+			<Desc>Seseorang melakukan keajaiban pada saya! Menakjubkan!</Desc>
+			<StoryDesc>Merasa bahwa pengalaman yang begitu indah membuat seseorang terpesona oleh kemegahannya</StoryDesc>
 		</Text>
 		<Text Name="NiceThing1_1">
-			<DisplayName>Pengalaman luar biasa</DisplayName>
-			<Desc>Saya mendapatkan pengalaman yang tak terlupakan. Sungguh luar biasa.</Desc>
-			<StoryDesc>Saya merasa pengalaman yang begitu indah membuat siapa pun terpesona karenanya</StoryDesc>
+			<DisplayName>Pengalaman yang Luar Biasa</DisplayName>
+			<Desc>Saya mengalami pengalaman yang tak terlupakan, sungguh luar biasa.</Desc>
+			<StoryDesc>Merasa bahwa pengalaman yang begitu indah membuat seseorang terpesona dengan semuanya</StoryDesc>
 		</Text>
 		<Text Name="NiceThing2">
-			<DisplayName>Saksi keajaiban</DisplayName>
-			<Desc>Aku melihat seseorang merapalkan mantra sihir padaku.[TXT]Saya sangat iri.</Desc>
-			<StoryDesc>Saya merasa iri ketika melihat seseorang menerima keajaiban.</StoryDesc>
+			<DisplayName>Saksi Keajaiban</DisplayName>
+			<Desc>Saya menyaksikan seseorang melakukan keajaiban[TXT], aku sangat iri.</Desc>
+			<StoryDesc>Merasa menyaksikan orang lain melakukan mukjizat menimbulkan rasa iri</StoryDesc>
 		</Text>
 		<Text Name="NiceThing2_1">
-			<DisplayName>Saksikan sesuatu yang luar biasa</DisplayName>
-			<Desc>Saya melihat seseorang melakukan keajaiban. Sungguh menakjubkan.</Desc>
-			<StoryDesc>Saya merasa menyaksikan keajaiban seseorang sangatlah mengharukan.</StoryDesc>
+			<DisplayName>Saksi Sesuatu yang Ajaib</DisplayName>
+			<Desc>Saya melihat seseorang menghasilkan keajaiban, sungguh ajaib.</Desc>
+			<StoryDesc>Merasa menyaksikan suatu keajaiban telah menanamkan rasa kerinduan</StoryDesc>
 		</Text>
 		<Text Name="NiceThing3">
-			<DisplayName>Selamat kawan</DisplayName>
-			<Desc>Aku melihat seseorang merapalkan mantra sihir padaku.[TXT]siapa temanku Ini sungguh menyenangkan.</Desc>
-			<StoryDesc>Saya merasa melihat keajaiban terjadi pada teman saya sungguh merupakan hal yang menggembirakan.</StoryDesc>
+			<DisplayName>Bahagia untuk seorang Teman</DisplayName>
+			<Desc>Aku melihat seseorang melakukan keajaiban pada temanku,[TXT], dan saya sangat senang hal seperti itu terjadi pada orang seperti itu.</Desc>
+			<StoryDesc>Merasa menyaksikan keajaiban pada diri seorang teman telah meninggalkan rasa apresiasi yang mendalam</StoryDesc>
 		</Text>
 		<Text Name="NiceThing4">
-			<DisplayName>Selamat untuk kekasihmu.</DisplayName>
-			<Desc>Aku melihat seseorang merapalkan mantra sihir padaku.[TXT]Aku dan kekasihku sangat bahagia karena hal-hal indah seperti itu telah terjadi.[IT]</Desc>
-			<StoryDesc>Saya merasa melihat keajaiban terjadi pada seseorang yang saya cintai sungguh merupakan hal yang menggembirakan.</StoryDesc>
+			<DisplayName>Bahagia untuk Kekasih Seseorang</DisplayName>
+			<Desc>Saya menyaksikan seseorang melakukan keajaiban pada pasangan saya,[TXT]. Ini spektakuler.</Desc>
+			<StoryDesc>Merasa bahwa menyaksikan keajaiban pada orang terdekat telah meninggalkan rasa penghargaan yang mendalam</StoryDesc>
 		</Text>
 		<Text Name="NiceThing5">
-			<DisplayName>Selamat untuk kerabat</DisplayName>
-			<Desc>Aku melihat seseorang merapalkan mantra sihir padaku.[TXT]Saya dan kerabat saya senang.[IT]Sungguh</Desc>
-			<StoryDesc>Saya merasa melihat keajaiban terjadi pada kerabat saya sungguh merupakan hal yang menggembirakan.</StoryDesc>
+			<DisplayName>Bahagia untuk Anggota Keluarga</DisplayName>
+			<Desc>Saya menyaksikan seseorang melakukan keajaiban pada saya[TXT]dan saya sangat senang hal itu terjadi.</Desc>
+			<StoryDesc>Merasa menyaksikan keajaiban pada salah satu anggota keluarga meninggalkan rasa apresiasi yang mendalam</StoryDesc>
 		</Text>
 		<Text Name="Mood_LingStone">
-			<DisplayName>Resonansi nafas</DisplayName>
-			<Desc>Dikelilingi oleh gelombang Qi alam sungguh terasa menyenangkan.</Desc>
-			<StoryDesc>Kenyamanan dikelilingi aliran Qi alami membuat orang merasa sangat rileks.</StoryDesc>
+			<DisplayName>Resonansi Qi</DisplayName>
+			<Desc>Bergaul dengan Qi adalah perasaan yang luar biasa.</Desc>
+			<StoryDesc>Perasaan bahwa Rasa nyaman diberikan kepada seseorang yang diselimuti oleh Qi yang begitu kuat</StoryDesc>
 		</Text>
 		<Text Name="Mood_LingStone1">
-			<DisplayName>Resonansi nafas</DisplayName>
-			<Desc>Dikelilingi oleh gelombang Qi alam sungguh terasa menyenangkan.</Desc>
-			<StoryDesc>Kenyamanan dikelilingi aliran Qi alami membuat orang merasa sangat rileks.</StoryDesc>
+			<DisplayName>Resonansi Mendalam</DisplayName>
+			<Desc>Bergaul dengan Qi adalah perasaan yang luar biasa.</Desc>
+			<StoryDesc>Perasaan bahwa Rasa nyaman diberikan kepada seseorang yang diselimuti oleh Qi yang begitu kuat</StoryDesc>
 		</Text>
 		<Text Name="Mood_Equipment_Fun">
-			<DisplayName>Peralatan bermain yang menarik</DisplayName>
-			<Desc>Bukan ide yang buruk untuk memiliki sesuatu yang bisa dimainkan untuk menghabiskan waktu dan bersantai.</Desc>
-			<StoryDesc>Saya merasa mudah untuk tertarik pada perasaan senang seperti itu.</StoryDesc>
+			<DisplayName>Mainan yang Menarik</DisplayName>
+			<Desc>Bukan ide yang buruk untuk memiliki sesuatu untuk dimainkan.</Desc>
+			<StoryDesc>merasa senang bisa mengalihkan perhatian saat dibutuhkan</StoryDesc>
 		</Text>
 		<Text Name="Mood_PracticeFoodScanty">
-			<DisplayName>kekuatan fisik yang tidak mencukupi</DisplayName>
-			<Desc>Tubuh saat ini kekurangan energi fisik di dalam tubuh. Hal ini membuat mustahil untuk terus berlatih.</Desc>
-			<StoryDesc>Ketika kekuatan fisik tidak mencukupi, tidak mungkin untuk berlatih apapun.</StoryDesc>
+			<DisplayName>Staminanya tidak mencukupi</DisplayName>
+			<Desc>Stamina terbatas, tidak ada cara untuk berlatih.</Desc>
+			<StoryDesc>Tidak dapat berlatih karena stamina tidak mencukupi. Setidaknya itu menjengkelkan</StoryDesc>
 		</Text>
 		<Text Name="SeeBodyPuppet">
-			<DisplayName>Beberapa hal cukup menakutkan.</DisplayName>
-			<Desc>Saya melihat sesuatu yang agak menakutkan... Dan benda itu bisa bergerak!</Desc>
-			<StoryDesc>Saya merasa bahwa melihat sesuatu di luar pikiran sadar saya mengkhawatirkan.</StoryDesc>
+			<DisplayName>Sedikit ngeri</DisplayName>
+			<Desc>Saya melihat sesuatu yang mengerikan...dan itu bergerak!</Desc>
+			<StoryDesc>merasa mudah merasa ngeri setelah melihat sesuatu...gaib</StoryDesc>
 		</Text>
 		<Text Name="Illusion1">
-			<DisplayName>halusinasi kebahagiaan</DisplayName>
+			<DisplayName>Halusinasi Bahagia</DisplayName>
 			<Desc>Oh, betapa indahnya dunia ini!</Desc>
-			<StoryDesc>Lihat kisah-kisah indah yang tidak diketahui orang lain.</StoryDesc>
+			<StoryDesc>Melihat hal-hal indah tanpa sepengetahuan orang lain</StoryDesc>
 		</Text>
 		<Text Name="Illusion2">
-			<DisplayName>Halusinasi penderitaan</DisplayName>
-			<Desc>Eh, itu sungguh menjijikkan!</Desc>
-			<StoryDesc>Lihat kisah-kisah mengerikan yang tidak diketahui orang lain.</StoryDesc>
+			<DisplayName>Halusinasi yang Mengerikan</DisplayName>
+			<Desc>Eh, menjijikkan!</Desc>
+			<StoryDesc>Melihat hal-hal aneh tanpa sepengetahuan orang lain</StoryDesc>
 		</Text>
 		<Text Name="BeResurrection">
-			<DisplayName>Menghidupkan kembali</DisplayName>
-			<Desc>Saya telah dibangkitkan! Ha ha!</Desc>
-			<StoryDesc>Merasa senang bisa dihidupkan kembali.</StoryDesc>
+			<DisplayName>Dibangkitkan</DisplayName>
+			<Desc>saya dibangkitkan! HA HA HA!</Desc>
+			<StoryDesc>Masih senang dibangkitkan</StoryDesc>
 		</Text>
 		<Text Name="PaoZhang1">
-			<DisplayName>kembang api yang menarik</DisplayName>
-			<Desc>Ini sangat menarik. Mereka terlihat sangat cantik.</Desc>
-			<StoryDesc>Masih memikirkan kembang api yang menarik itu.</StoryDesc>
+			<DisplayName>Kembang Api yang Menarik</DisplayName>
+			<Desc>Menarik sekali. Mereka terlihat sangat cantik.</Desc>
+			<StoryDesc>Masih memikirkan kembang api yang menarik</StoryDesc>
 		</Text>
 		<Text Name="PaoZhang2">
-			<DisplayName>menjijikkan</DisplayName>
-			<Desc>kasar! Ini sungguh menjijikkan!</Desc>
-			<StoryDesc>Merasa mual dan ingin muntah</StoryDesc>
+			<DisplayName>Bruto</DisplayName>
+			<Desc>Ah! Itu menjijikkan!</Desc>
+			<StoryDesc>Masih merasa mual dan jijik</StoryDesc>
 		</Text>
 	</List>
 </Texts>
