@@ -2,46 +2,46 @@
 	<List>
 		<Text Name="Stability">
 			<Descript>Stabilitas {1}{0:N1}%</Descript>
-			<ToolTips>Formasi kehilangan stabilitas saat diserang. Jika stabilitas formasi turun menjadi 0, formasi akan hancur.</ToolTips>
+			<ToolTips>Formasi akan kehilangan Stabilitas ketika diserang. Jika Stabilitas formasi turun ke 0, formasi tersebut akan rusak.</ToolTips>
 		</Text>
 		<Text Name="FabaoAtkPower">
-			<Descript>Keahlian Senjata Ajaib {1}{0:N1}</Descript>
-			<ToolTips>Kekuatan senjata ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan senjata ajaib akan mempengaruhi peningkatan senjata ajaib inti.</ToolTips>
-			<LuaToolTips>string.format("Kekuatan senjata ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan senjata ajaib akan mempengaruhi peningkatan senjata ajaib inti.\nPeningkatan Kekuatan Artefak: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+			<Descript>Kemampuan Penguasaan Artefak {1}{0:N1}</Descript>
+			<ToolTips>Kekuatan artefak pilar akan meningkat setelah formasi terbentuk. \nPenguasaan artefak memengaruhi tingkat peningkatan kekuatan artefak pilar setelah formasi terbentuk.</ToolTips>
+			<LuaToolTips>string.format("Kekuatan artefak pilar akan meningkat setelah formasi terbentuk.\nPenguasaan artefak memengaruhi tingkat peningkatan kekuatan artefak pilar setelah formasi terbentuk.\nPeningkatan Kekuatan Artefak: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
 		</Text>
 		<Text Name="MagicPower">
-			<Descript>Keterampilan Qi Ajaib {1}{0:N1}</Descript>
-			<ToolTips>Kekuatan qi ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan qi ajaib akan berpengaruh pada peningkatan kekuatan senjata ajaib inti.</ToolTips>
-			<LuaToolTips>string.format("Kekuatan qi ajaib inti akan meningkat saat menggunakan formasi.\nKeterampilan qi ajaib akan berpengaruh pada peningkatan kekuatan senjata ajaib inti.\nPeningkatan Kekuatan Mantra: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+			<Descript>Kemampuan Mengeja {1}{0:N1}</Descript>
+			<ToolTips>Kemampuan mantra mempengaruhi tingkat peningkatan kekuatan artefak pilar setelah formasi terbentuk. \nKemampuan mantra memengaruhi tingkat peningkatan kekuatan mantra pilar setelah formasi terbentuk.</ToolTips>
+			<LuaToolTips>string.format("Kekuatan artefak pilar akan meningkat setelah formasi terbentuk.\nKemampuan mantra memengaruhi tingkat peningkatan kekuatan artefak pilar setelah formasi terbentuk.\nPeningkatan Kekuatan Mantra: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
 		</Text>
 		<Text Name="Sheild">
-			<Descript>Qi Armor {1}{0:N1}</Descript>
-			<ToolTips>Saat formasi diserang Sebagian dari kerusakan yang diterima diserap oleh formasi, dan semua karakter dalam formasi membagi sisa kerusakan secara merata. Setiap kamp akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. antara semua karakter di kamp</ToolTips>
-			<LuaToolTips>string.format("Kamp akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. Di antara semua karakter di kamp, ​​kemah akan menerima pengurangan kerusakan. dan kerusakan akhir akan dibagi rata. Di antara semua karakter di kamp\nPengurangan Kerusakan: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+			<Descript>Kemampuan Perlindungan {1}{0:N1}</Descript>
+			<ToolTips>Saat formasi diserang, sebagian damage yang diterima akan diserap oleh formasi, dan semua karakter dalam formasi akan membagi sisa damage secara merata. \nFormasi akan menerima pengurangan kerusakan, dan kerusakan akhir dibagi rata ke semua karakter dalam formasi</ToolTips>
+			<LuaToolTips>string.format("Formasi akan menerima pengurangan kerusakan, dan kerusakan akhir dibagi rata ke seluruh karakter dalam formasi.\nFormasi akan menerima pengurangan kerusakan, dan kerusakan akhir dibagi rata ke semua karakter dalam formasi\nPengurangan Kerusakan: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
 		</Text>
 		<Text Name="SkillCooldown">
-			<Descript>Penggunaan {1}{0:N1}</Descript>
-			<ToolTips>saat formasi masih bekerja, energinya akan terakumulasi seiring berjalannya waktu. yang dapat digunakan untuk melepaskan kemampuan khusus Selain itu, Qi semua karakter dalam formasi seimbang secara dinamis saat formasi masih aktif.\nPenggunaan kemampuan mempengaruhi laju akumulasi energi dan siklus keseimbangan Qi.</ToolTips>
-			<LuaToolTips>string.format("saat formasi masih aktif Ini akan mengumpulkan energinya seiring waktu. yang dapat digunakan untuk melepaskan kemampuan khusus Selain itu, Qi semua karakter dalam formasi seimbang secara dinamis saat formasi masih beroperasi.\nKemampuan penggunaan mempengaruhi tingkat akumulasi energi dan siklus keseimbangan Qi.\nLaju Pengurangan Siklus Operasi: %.0f%%\nSiklus Akumulasi Wawasan: %.0f detik\nSiklus Keseimbangan Qi: %.0f detik", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+			<Descript>Kemampuan Operasi {1}{0:N1}</Descript>
+			<ToolTips>Ketika formasi terus beroperasi, ia akan mengakumulasi Energi. Formasi Insight dapat digunakan untuk mengeluarkan kemampuan formasi khusus. Terlebih lagi, Qi semua karakter dalam formasi akan seimbang secara proporsional seiring dengan terus beroperasinya formasi. \nKemampuan pengoperasian mempengaruhi tingkat akumulasi Energi dan siklus keseimbangan Qi.</ToolTips>
+			<LuaToolTips>string.format("Saat formasi terus beroperasi, ia akan mengumpulkan Energi. Wawasan Formasi dapat digunakan untuk melepaskan beberapa kemampuan formasi khusus. Selain itu, Qi semua karakter dalam formasi akan seimbang secara proporsional saat formasi terus beroperasi.\nKemampuan pengoperasian memengaruhi tingkat akumulasi Energi dan interval keseimbangan Qi.\nTingkat Pengurangan Siklus Operasi: %.0f%%\nSiklus Akumulasi Wawasan: %.0f detik\nSiklus Keseimbangan Qi: %.0f detik", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
 		</Text>
 		<Text Name="ReduceCost">
-			<Descript>Efisiensi perusahaan mesin {1}{0:N1}</Descript>
-			<ToolTips>Saat formasi dibuat Mempertahankannya dan menggunakan keterampilan formasi akan menyebabkan qi setiap karakter dalam formasi terkuras. Jumlah energi yang dibutuhkan untuk mempertahankan formasi berhubungan dengan jumlah energi maksimal karakter pada posisi inti. Energi yang dibutuhkan untuk menggunakan keajaiban formasi terkait dengan kekuatan sihir.\nEfisiensi formasi mempengaruhi energi yang digunakan dalam berbagai tindakan. Di dalam formasi</ToolTips>
-			<LuaToolTips>string.format("Ketika formasi telah dibuat, Mempertahankan dan menggunakan keterampilan formasi akan menyebabkan qi setiap karakter dalam formasi terkuras. Jumlah energi yang dibutuhkan untuk mempertahankan formasi terkait dengan jumlah energi maksimum karakter di posisi inti. Energi yang diperlukan untuk menggunakan keajaiban formasi terkait dengan kekuatan sihir.\nEfisiensi formasi mempengaruhi energi yang digunakan dalam berbagai tindakan dalam formasi. \nBiaya Saat Ini Dikurangi: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
+			<Descript>Efisiensi Formasi {1}{0:N1}</Descript>
+			<ToolTips>Setelah formasi terbentuk, mempertahankannya dan menggunakan keterampilan formasi akan menghabiskan Qi dari setiap karakter dalam formasi. Biaya Qi untuk mempertahankan formasi terkait dengan Max Qi karakter pilar dalam formasi. Biaya Qi untuk menggunakan keterampilan formasi apa pun terkait dengan kekuatan keterampilan tersebut. \nEfisiensi formasi mempengaruhi biaya Qi dari setiap tindakan formasi.</ToolTips>
+			<LuaToolTips>string.format("Setelah formasi terbentuk, mempertahankannya dan menggunakan keterampilan formasi akan dikenakan biaya Qi dari setiap karakter dalam formasi. Biaya Qi untuk mempertahankan formasi terkait dengan Max Qi karakter pilar dalam formasi. Biaya Qi untuk menggunakan keterampilan formasi apa pun terkait dengan kekuatan keterampilan. \nEfisiensi formasi mempengaruhi biaya Qi dari setiap tindakan formasi. \nBiaya Saat Ini yang Dikurangi: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerup">
 			<Descript>Ukuran Formasi {1}{0:N1}</Descript>
-			<ToolTips>Ukuran suatu formasi ditentukan oleh jumlah inti dalam formasi tersebut. Semakin besar jumlah inti, semakin besar ukuran formasinya. Kemampuan inti menentukan ukuran maksimum formasi. Jika karakter membuat formasi yang melebihi kemampuannya, Stabilitas formasi akan sangat berkurang.</ToolTips>
-			<LuaToolTips>string.format("Ukuran formasi ditentukan oleh jumlah inti dalam formasi. Semakin besar jumlah inti, semakin besar ukuran formasi. \nKemampuan inti menentukan ukuran maksimum formasi. Jika karakter membuat formasi melebihi kemampuannya, Stabilitas mesin akan sangat berkurang. \nStabilitas Formasi Saat Ini yang Disesuaikan: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+			<ToolTips>Ukuran ditentukan oleh jumlah node dalam suatu formasi. Semakin banyak node dalam suatu formasi, semakin besar ukurannya.  Kemampuan karakter pilar menentukan ukuran formasi maksimal. Jika karakter memiliki formasi yang ukurannya melebihi kemampuannya, stabilitas formasi akan sangat berkurang. Jika tidak, maka akan bertambah.</ToolTips>
+			<LuaToolTips>string.format("Ukuran ditentukan oleh jumlah node dalam suatu formasi. Semakin banyak node dalam suatu formasi, semakin besar ukurannya. \nKemampuan karakter pilar menentukan ukuran maksimum formasi. Jika karakter menampung formasi yang ukurannya melebihi kemampuannya, stabilitas formasi akan sangat berkurang. Jika tidak, maka akan ditingkatkan. \nStabilitas Formasi Saat Ini yang Disesuaikan: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
 		</Text>
 		<Text Name="NpcZhenPressurePowerup">
-			<Descript>Mesin memuat {1}{0:N1}</Descript>
-			<ToolTips>Beban kamp ditentukan oleh kompleksitas struktur kamp. Formasi dengan sub-inti yang lebih jauh dari inti utama akan mempunyai beban yang lebih besar. Kemampuan inti menentukan beban maksimum yang dapat ditanggung oleh formasi. Jika karakter utama membuat formasi yang melebihi kemampuannya, beban pada formasi akan meningkat.</ToolTips>
-			<LuaToolTips>string.format("Beban pada formasi ditentukan oleh kompleksitas struktur formasi. Formasi dengan sub-inti yang jauh dari inti utama akan memiliki beban yang lebih besar.\nKapasitas inti menentukan beban maksimum yang dapat ditanggung oleh formasi. Jika karakter utama membuat formasi yang melebihi kemampuannya, Beban formasi akan meningkat secara eksponensial. \nQi Biaya/detik: %.0f", z.CostLingPerSec)</LuaToolTips>
+			<Descript>Beban Formasi {1}{0:N1}</Descript>
+			<ToolTips>Beban formasi ditentukan oleh kompleksitas struktur formasi. Formasi dengan alat bantu yang lebih jauh dari pilar akan mempunyai beban yang lebih besar. Kemampuan karakter pilar menentukan beban formasi maksimal. Jika karakter tersebut menampung formasi yang beban formasinya melebihi kemampuannya, biaya formasi akan meningkat pesat. Jika tidak maka akan berkurang.</ToolTips>
+			<LuaToolTips>string.format("Beban formasi ditentukan oleh kompleksitas struktur formasi. Formasi dengan pembantu yang jauh dari pilar akan memiliki beban yang lebih besar. \nKemampuan karakter pilar menentukan beban formasi maksimum. Jika karakter menjadi tuan rumah formasi yang beban formasinya melebihi kemampuannya, biaya formasi akan sangat meningkat. Jika tidak, maka akan berkurang. \nBiaya Qi/detik: %.0f", z.CostLingPerSec)</LuaToolTips>
 		</Text>
 		<Text Name="NpcZhenPoint">
-			<Descript>Energi formasi {1}{0:N1}</Descript>
-			<ToolTips>Saat formasi terus digunakan, Ia akan menyimpan sebagian energinya. Energi itu dapat digunakan untuk melepaskan keterampilan sihir formasi. Namun, formasi tersebut memiliki batasan pada akumulasi energinya. Ketika batas itu tercapai, maka tidak dapat ditingkatkan lagi.</ToolTips>
+			<Descript>Energi Formasi {1}{0:N1}</Descript>
+			<ToolTips>Ketika formasi terus beroperasi, ia akan mengakumulasi Energi. Energi Formasi dapat digunakan untuk mengeluarkan kemampuan formasi khusus. Namun, suatu formasi memiliki batasan mengenai jumlah Energi yang dapat disimpannya. Setelah batasan tercapai, Energi akan berhenti meningkat.</ToolTips>
 		</Text>
 	</List>
 </Texts>
