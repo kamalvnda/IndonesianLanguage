@@ -10,22 +10,22 @@
 			<SParam2>Berdagang dengan pedagang</SParam2>
 		</Text>
 		<Text Name="Move2UnlockGong">
-			<SParam2>pergi belajar budidaya</SParam2>
+			<SParam2>pergi belajar Cultivasi</SParam2>
 		</Text>
 		<Text Name="MoveToTake">
 			<SParam2>pergi menangkap binatang</SParam2>
 		</Text>
 		<Text Name="GoToActiveLcBuild">
-			<SParam2>untuk menggunakan gambar benda ajaib</SParam2>
+			<SParam2>Aktifkan Benda Ajaib</SParam2>
 		</Text>
 		<Text Name="MoveToTakeLc">
-			<SParam2>Pergi ke resepsi</SParam2>
+			<SParam2>Adopsi</SParam2>
 		</Text>
 		<Text Name="MoveToRefuseLc">
-			<SParam2>pergi penggusuran</SParam2>
+			<SParam2>pergi Usir</SParam2>
 		</Text>
 		<Text Name="MoveToKickoutAnimal">
-			<SParam2>pergi penggusuran</SParam2>
+			<SParam2>pergi Banish</SParam2>
 			<SParam3>mengusir, ksjujue,3</SParam3>
 		</Text>
 		<Text Name="MoveToFreePackAnimal">
@@ -33,8 +33,8 @@
 			<SParam3>Buka, terima, 3</SParam3>
 		</Text>
 		<Text Name="MoveToCanWu">
-			<SParam2>Ayo latih napasmu.</SParam2>
-			<SParam3>Pelatihan nafas, dazuo,3</SParam3>
+			<SParam2>Ayo Meditasi.</SParam2>
+			<SParam3>bermeditasi, dazuo,3</SParam3>
 		</Text>
 	</List>
 </Texts>
