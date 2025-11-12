@@ -1,32 +1,41 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Boss_Xiongfeng">
-      <DisplayName>burung phoenix yang ganas</DisplayName>
-    </Text>
-    <Text Name="Boss_XiongfengFight">
-      <DisplayName>burung phoenix yang ganas</DisplayName>
-    </Text>
-    <Text Name="Boss_Xiongfeng_Part">
-      <DisplayName>bagian phoenix yang ganas</DisplayName>
-    </Text>
-    <Text Name="Boss_Xiongfeng_huoling">
-      <DisplayName>Kekuatan roh api</DisplayName>
-      <Desc>Burung phoenix yang ganas mengumpulkan kekuatan roh api. Saat mencapai lantai 100, ia akan melepaskan bulu api dan memasuki bentuk api yang sebenarnya.</Desc>
-    </Text>
-    <Text Name="Boss_Xiongfeng_Huofeng">
-      <DisplayName>bentuk sebenarnya</DisplayName>
-      <Desc>Bentuk api yang sebenarnya akan terus memakan roh api, dan ketika habis, bulu api yang tersisa akan didaur ulang dan auranya dipulihkan.</Desc>
-    </Text>
-    <Text Name="Boss_Xiongfeng_rongjin">
-      <DisplayName>sekering</DisplayName>
-      <Desc>Kerusakan akan terjadi setelah beberapa saat, dan praktisi non-logam hanya menerima dua pertiga dari kerusakan.</Desc>
-    </Text>
-    <Text Name="Boss_Xiongfeng_yishang">
-      <DisplayName>Mudah terluka</DisplayName>
-      <Desc>Burung phoenix yang ganas berada dalam kondisi rentan.</Desc>
-    </Text>
-    <Text Name="Boss_Xiongfeng_taiyangzhiyan">
-      <DisplayName>mata matahari</DisplayName>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>Bagian Tubuh Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>Kekuatan Roh Api</DisplayName>
+			<Desc>Phoenix memusatkan kekuatan Roh Api hingga mencapai 100 tumpukan, yang pada saat itu ia melepaskan Bulu Api dan masuk ke dalam Bentuk Inferno.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>Formulir Neraka</DisplayName>
+			<Desc>Phoenix terus mengkonsumsi Roh Api saat berada dalam Bentuk Inferno. Ketika itu berakhir, pulihkan sisa bulu api dan pulihkan Qi.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>Sekering</DisplayName>
+			<Desc>Memberikan kerusakan setelah jangka waktu tertentu. Pembudidaya Non-Logam hanya menerima 1/3 dari kerusakan.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>Rentan</DisplayName>
+			<Desc>Phoenix rentan.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>Mata Surya</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng2">
+			<DisplayName>Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part2">
+			<DisplayName>Bagian Tubuh Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
+			<DisplayName>Mata Surya</DisplayName>
+		</Text>
+	</List>
 </Texts>
