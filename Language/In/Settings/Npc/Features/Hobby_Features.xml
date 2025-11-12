@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Reader">
-			<DisplayName>Cerdas</DisplayName>
-			<Desc>Orang ini berpendidikan tinggi dan mampu memahami materi yang sulit. dengan mudah</Desc>
+			<DisplayName>Intelektual</DisplayName>
+			<Desc>Orang yang berpendidikan tinggi, mampu memahami konten yang tidak jelas.</Desc>
 		</Text>
 		<Text Name="Craftsman">
-			<DisplayName>tukang</DisplayName>
-			<Desc>Orang ini sangat ahli dalam keahliannya.[IT]Dapat membuat atau menciptakan berbagai peralatan. Cepat dan pekerjaannya selesai dengan baik.</Desc>
+			<DisplayName>Tukang</DisplayName>
+			<Desc>Seseorang yang unggul dalam kerajinan tangan. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
 		</Text>
 		<Text Name="CraftsmanEX">
 			<DisplayName>Penggemar Gunpla</DisplayName>
-			<Desc>Orang ini adalah orang yang terobsesi dengan model Gunpla. Hal ini menyebabkan orang tersebut memiliki keterampilan kerajinan tangan yang halus. Hasilnya, Anda dapat membuat atau menciptakan berbagai perangkat. Cepat dan pekerjaannya selesai dengan baik.</Desc>
+			<Desc>Seseorang yang terobsesi dengan model Gunpla yang memiliki sepasang tangan terampil sebagai hasilnya. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
 		</Text>
 		<Text Name="Artist">
-			<DisplayName>Artis jenius</DisplayName>
-			<Desc>Orang ini adalah orang yang sangat emosional.[IT]Memiliki imajinasi yang luar biasa dan tak terduga.</Desc>
+			<DisplayName>Artis Berbakat</DisplayName>
+			<Desc>Seseorang dengan hati sensitif yang kaya akan emosi, orang ini memiliki imajinasi yang tak tertandingi.</Desc>
 		</Text>
 		<Text Name="Warrior">
-			<DisplayName>prajurit</DisplayName>
-			<Desc>Orang ini pada dasarnya adalah seorang pejuang.[IT]Mampu menoleransi rasa sakit dengan sangat baik dan mampu tetap tenang dalam situasi apapun.</Desc>
+			<DisplayName>Prajurit</DisplayName>
+			<Desc>Seorang pejuang alami, yang satu ini mampu menahan rasa sakit yang luar biasa dan tetap tenang dalam keadaan apa pun.</Desc>
 		</Text>
 		<Text Name="DeepPotential">
-			<DisplayName>hadiah</DisplayName>
-			<Desc>Orang ini terlahir dengan Qi Root yang luar biasa. Hal ini memungkinkan dia untuk mengolah Qi lebih mudah dan cepat dibandingkan orang lain.</Desc>
+			<DisplayName>Bakat</DisplayName>
+			<Desc>Seseorang yang terlahir dengan bakat luar biasa, dapat berkultivasi dengan mudah.</Desc>
 		</Text>
 	</List>
 </Texts>
