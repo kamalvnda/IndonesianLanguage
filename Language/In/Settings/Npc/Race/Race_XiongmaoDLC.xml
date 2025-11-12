@@ -1,36 +1,36 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YGPanda">
-			<DisplayName>Klan Panda Setan</DisplayName>
-			<Desc>Binatang iblis yang telah berubah menjadi ras setengah iblis dengan berhasil membangkitkan kecerdasannya sendiri: Ras Panda Iblis.</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Panda Yaoguai</DisplayName>
+			<Desc>Hewan Berubah Menjadi Yaogua Karena Kecerdasan yang Bangkit: Panda Yaoguai</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="Panda">
-			<DisplayName>panda</DisplayName>
-			<Desc>Hewan biasa: Panda</Desc>
-			<TalkBefore>*ewwww*</TalkBefore>
-			<TalkAfter>*ewwww*</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Panda</DisplayName>
+			<Desc>Hewan Biasa: Panda</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="JYPanda">
-			<DisplayName>Setan Panda</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa terbangun: Panda Iblis</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<DisplayName>Monster Panda</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Panda</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
 		</Text>
 		<Text Name="LsPandaXian">
-			<DisplayName>Sian Sian</DisplayName>
-			<Desc>Saint Saint Panda adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>*ewwww*</TalkBefore>
-			<TalkAfter>*ewwww*</TalkAfter>
+			<DisplayName>Xianxian</DisplayName>
+			<Desc>Divine Panda Xianxian adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
 		</Text>
 		<Text Name="LsPandaXiu">
-			<DisplayName>Siu Xiu</DisplayName>
-			<Desc>Panda Suci Xiuxiu adalah binatang roh iblis yang dibentuk oleh kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>*ewwww*</TalkBefore>
-			<TalkAfter>*ewwww*</TalkAfter>
+			<DisplayName>Xiu Xiu</DisplayName>
+			<Desc>Divine Panda Xiuxiu adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
 		</Text>
 	</List>
 </Texts>
