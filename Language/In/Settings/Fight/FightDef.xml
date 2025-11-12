@@ -1,53 +1,96 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="FaBao">
-      <Packs.0.DescTags>Treasure attack</Packs.0.DescTags>
-      <Packs.1.DescTags>Treasure attack</Packs.1.DescTags>
-      <Packs.2.DescTags>Treasure attack</Packs.2.DescTags>
-      <Packs.3.DescTags>Treasure attack</Packs.3.DescTags>
-    </Text>
-    <Text Name="Skill">
-      <Packs.0.DescTags>Spell attack</Packs.0.DescTags>
-      <Packs.1.DescTags>Spell attack</Packs.1.DescTags>
-      <Packs.2.DescTags>Spell attack</Packs.2.DescTags>
-      <Packs.3.DescTags>Spell attack</Packs.3.DescTags>
-    </Text>
-    <Text Name="Jin">
-      <Packs.1.DescTags>Metal damage</Packs.1.DescTags>
-      <Packs.2.DescTags>Metal damage</Packs.2.DescTags>
-      <Packs.3.DescTags>Metal damage</Packs.3.DescTags>
-      <Packs.4.DescTags>Metal damage</Packs.4.DescTags>
-      <Packs.5.DescTags>Metal damage</Packs.5.DescTags>
-    </Text>
-    <Text Name="Mu">
-      <Packs.1.DescTags>Wood damage</Packs.1.DescTags>
-      <Packs.2.DescTags>Wood damage</Packs.2.DescTags>
-      <Packs.3.DescTags>Wood damage</Packs.3.DescTags>
-      <Packs.4.DescTags>Wood damage</Packs.4.DescTags>
-      <Packs.5.DescTags>Wood damage</Packs.5.DescTags>
-      <Packs.6.DescTags>Wood damage</Packs.6.DescTags>
-    </Text>
-    <Text Name="Shui">
-      <Packs.1.DescTags>Water damage</Packs.1.DescTags>
-      <Packs.2.DescTags>Water damage</Packs.2.DescTags>
-      <Packs.3.DescTags>Water damage</Packs.3.DescTags>
-      <Packs.4.DescTags>Water damage</Packs.4.DescTags>
-      <Packs.5.DescTags>Water damage</Packs.5.DescTags>
-    </Text>
-    <Text Name="Huo">
-      <Packs.1.DescTags>Fire damage</Packs.1.DescTags>
-      <Packs.2.DescTags>Fire damage</Packs.2.DescTags>
-      <Packs.3.DescTags>Fire damage</Packs.3.DescTags>
-      <Packs.4.DescTags>Fire damage</Packs.4.DescTags>
-      <Packs.5.DescTags>Fire damage</Packs.5.DescTags>
-    </Text>
-    <Text Name="Tu">
-      <Packs.1.DescTags>Earth damage</Packs.1.DescTags>
-      <Packs.2.DescTags>Earth damage</Packs.2.DescTags>
-      <Packs.3.DescTags>Earth damage</Packs.3.DescTags>
-      <Packs.4.DescTags>Earth damage</Packs.4.DescTags>
-      <Packs.5.DescTags>Earth damage</Packs.5.DescTags>
-      <Packs.6.DescTags>Earth damage</Packs.6.DescTags>
-    </Text>
-  </List>
+	<List>
+		<Text Name="FaBao">
+			<Packs.0.DescTags>Penghancuran Artefak</Packs.0.DescTags>
+			<Packs.1.DescTags>Penghancuran Artefak</Packs.1.DescTags>
+			<Packs.2.DescTags>Penghancuran Artefak</Packs.2.DescTags>
+			<Packs.3.DescTags>Penghancuran Artefak</Packs.3.DescTags>
+		</Text>
+		<Text Name="GongBroken">
+			<Packs.0.DescTags>Penghancuran Artefak</Packs.0.DescTags>
+			<Packs.1.DescTags>Penghancuran Artefak</Packs.1.DescTags>
+			<Packs.2.DescTags>Penghancuran Artefak</Packs.2.DescTags>
+			<Packs.3.DescTags>Penghancuran Artefak</Packs.3.DescTags>
+		</Text>
+		<Text Name="Skill">
+			<Packs.0.DescTags>Pengeboman Ajaib</Packs.0.DescTags>
+			<Packs.1.DescTags>Pengeboman Ajaib</Packs.1.DescTags>
+			<Packs.2.DescTags>Pengeboman Ajaib</Packs.2.DescTags>
+			<Packs.3.DescTags>Pengeboman Ajaib</Packs.3.DescTags>
+		</Text>
+		<Text Name="Jin">
+			<Packs.1.DescTags>Kerusakan Logam</Packs.1.DescTags>
+			<Packs.2.DescTags>Kerusakan Logam</Packs.2.DescTags>
+			<Packs.3.DescTags>Kerusakan Logam</Packs.3.DescTags>
+			<Packs.4.DescTags>Kerusakan Logam</Packs.4.DescTags>
+			<Packs.5.DescTags>Kerusakan Logam</Packs.5.DescTags>
+		</Text>
+		<Text Name="Mu">
+			<Packs.1.DescTags>Kerusakan Kayu</Packs.1.DescTags>
+			<Packs.2.DescTags>Kerusakan Kayu</Packs.2.DescTags>
+			<Packs.3.DescTags>Kerusakan Kayu</Packs.3.DescTags>
+			<Packs.4.DescTags>Kerusakan Kayu</Packs.4.DescTags>
+			<Packs.5.DescTags>Kerusakan Kayu</Packs.5.DescTags>
+			<Packs.6.DescTags>Kerusakan Kayu</Packs.6.DescTags>
+		</Text>
+		<Text Name="Shui">
+			<Packs.1.DescTags>Kerusakan Air</Packs.1.DescTags>
+			<Packs.2.DescTags>Kerusakan Air</Packs.2.DescTags>
+			<Packs.3.DescTags>Kerusakan Air</Packs.3.DescTags>
+			<Packs.4.DescTags>Kerusakan Air</Packs.4.DescTags>
+			<Packs.5.DescTags>Kerusakan Air</Packs.5.DescTags>
+		</Text>
+		<Text Name="Huo">
+			<Packs.1.DescTags>Kerusakan Akibat Kebakaran</Packs.1.DescTags>
+			<Packs.2.DescTags>Kerusakan Akibat Kebakaran</Packs.2.DescTags>
+			<Packs.3.DescTags>Kerusakan Akibat Kebakaran</Packs.3.DescTags>
+			<Packs.4.DescTags>Kerusakan Akibat Kebakaran</Packs.4.DescTags>
+			<Packs.5.DescTags>Kerusakan Akibat Kebakaran</Packs.5.DescTags>
+		</Text>
+		<Text Name="Tu">
+			<Packs.1.DescTags>Kerusakan Bumi</Packs.1.DescTags>
+			<Packs.2.DescTags>Kerusakan Bumi</Packs.2.DescTags>
+			<Packs.3.DescTags>Kerusakan Bumi</Packs.3.DescTags>
+			<Packs.4.DescTags>Kerusakan Bumi</Packs.4.DescTags>
+			<Packs.5.DescTags>Kerusakan Bumi</Packs.5.DescTags>
+			<Packs.6.DescTags>Kerusakan Bumi</Packs.6.DescTags>
+		</Text>
+		<Text Name="BodyAttackNormal">
+			<Packs.0.DescTags>Serangan Berat</Packs.0.DescTags>
+			<Packs.1.DescTags>Serangan Berat</Packs.1.DescTags>
+			<Packs.2.DescTags>Serangan Berat</Packs.2.DescTags>
+			<Packs.3.DescTags>Serangan Berat</Packs.3.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Normal">
+			<Packs.0.DescTags>Menggores</Packs.0.DescTags>
+			<Packs.1.DescTags>Menggores</Packs.1.DescTags>
+			<Packs.2.DescTags>Menggores</Packs.2.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Skill">
+			<Packs.0.DescTags>Serangan Berat Ajaib</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Fabao">
+			<Packs.0.DescTags>Penghancuran Artefak</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Jin">
+			<Packs.0.DescTags>Kerusakan Logam</Packs.0.DescTags>
+			<Packs.1.DescTags>Kerusakan Logam</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Mu">
+			<Packs.0.DescTags>Kerusakan Kayu</Packs.0.DescTags>
+			<Packs.1.DescTags>Kerusakan Kayu</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Shui">
+			<Packs.0.DescTags>Kerusakan Air</Packs.0.DescTags>
+			<Packs.1.DescTags>Kerusakan Air</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Huo">
+			<Packs.0.DescTags>Kerusakan Akibat Kebakaran</Packs.0.DescTags>
+			<Packs.1.DescTags>Kerusakan Akibat Kebakaran</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Tu">
+			<Packs.0.DescTags>Kerusakan Bumi</Packs.0.DescTags>
+			<Packs.1.DescTags>Kerusakan Bumi</Packs.1.DescTags>
+		</Text>
+	</List>
 </Texts>
