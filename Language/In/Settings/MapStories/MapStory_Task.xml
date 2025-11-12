@@ -1,8 +1,8 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Sup">
-			<DisplayName>digabungkan bersama</DisplayName>
-			<Desc>digabungkan bersama</Desc>
+			<DisplayName>Menggabungkan</DisplayName>
+			<Desc>Menggabungkan</Desc>
 			<Selections.0.Display>Tidak terjadi apa-apa...</Selections.0.Display>
 		</Text>
 	</List>
