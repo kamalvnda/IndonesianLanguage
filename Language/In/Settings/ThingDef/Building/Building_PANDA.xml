@@ -2,27 +2,27 @@
 	<List>
 		<Text Name="LsPanda_Carve" sParam="Building">
 			<ThingName>Patung Panda Ilahi</ThingName>
-			<Desc>Patung panda dewa Dapat digunakan untuk menghidupkan kembali atau memanggil panda dewa.</Desc>
+			<Desc>Patung panda dewa. Dapat digunakan untuk menghidupkan kembali atau memanggil panda dewa.</Desc>
 		</Text>
 		<Text Name="BambooBed" sParam="Building">
-			<ThingName>tempat tidur bambu</ThingName>
-			<Desc>Tempat tidur single bambu yang nyaman akan membantu Anda tidur nyenyak sepanjang malam.</Desc>
+			<ThingName>Tempat Tidur Bambu</ThingName>
+			<Desc>Tempat tidur single bambu yang nyaman dapat memberikan Anda tidur malam yang nyenyak.</Desc>
 		</Text>
 		<Text Name="Building_BambooScreen1" sParam="Building">
-			<ThingName>partisi bambu</ThingName>
+			<ThingName>Layar Lipat Bambu</ThingName>
 		</Text>
 		<Text Name="Building_WaterWheel" sParam="Building">
-			<ThingName>turbin air</ThingName>
+			<ThingName>Kincir air</ThingName>
 		</Text>
 		<Text Name="Building_BambooScreen2" sParam="Building">
-			<ThingName>partisi bambu</ThingName>
+			<ThingName>Layar Lipat Bambu</ThingName>
 		</Text>
 		<Text Name="BambooLight" sParam="Building">
-			<ThingName>lampu bambu</ThingName>
-			<Desc>Lampu hias yang bersinar di malam hari untuk memberikan penerangan sekitar</Desc>
+			<ThingName>Tiang Lampu Bambu</ThingName>
+			<Desc>Lampu hias yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
 		</Text>
 		<Text Name="Building_BambooPavilion" sParam="Building">
-			<ThingName>paviliun bambu</ThingName>
+			<ThingName>Paviliun Bambu</ThingName>
 		</Text>
 	</List>
 </Texts>
