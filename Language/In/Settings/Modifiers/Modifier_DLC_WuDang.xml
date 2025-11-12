@@ -1,36 +1,36 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Magic_XuanWuHeart">
-			<DisplayName>Berjalan untuk menenangkan pikiran</DisplayName>
-			<Desc>Tidak memerlukan air, makanan dan istirahat selama 3 hari, namun akan memperlambat pergerakan Anda.</Desc>
+			<DisplayName>Nafas Damai</DisplayName>
+			<Desc>Tidak diperlukan makanan, air atau tidur selama 3 hari, namun pergerakan akan menjadi lambat.</Desc>
 		</Text>
 		<Text Name="Modifier_XuanWuShield">
-			<DisplayName>Perisai Armor Hitam</DisplayName>
-			<Desc>Sangat meningkatkan armor dalam dan daya tahan Fisik Misterius dalam waktu singkat.</Desc>
+			<DisplayName>Perisai Darkarmor</DisplayName>
+			<Desc>Secara drastis meningkatkan penghalang Qi dan daya tahan tubuh rahasia dalam rentang waktu singkat.</Desc>
 		</Text>
 		<Text Name="Modifier_XuanWuBreak">
-			<DisplayName>Runtuhnya retakan</DisplayName>
-			<Desc>Mengurangi Qi Armor dan daya tahan Fisik Misterius secara signifikan dalam waktu singkat.</Desc>
+			<DisplayName>Pelanggaran Penaklukan</DisplayName>
+			<Desc>Mengurangi Qi Barrier dan daya tahan tubuh rahasia secara signifikan dalam kurun waktu singkat.</Desc>
 		</Text>
 		<Text Name="Modifier_JinFish">
-			<DisplayName>Inti Cakar Emas</DisplayName>
-			<Desc>Tingkatkan armor mendalam dan daya tahan Fisik Misterius dalam waktu singkat.</Desc>
+			<DisplayName>Esensi Cakar Emas</DisplayName>
+			<Desc>Meningkatkan Qi Barrier dan rahasia daya tahan tubuh dalam kurun waktu singkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou1">
-			<DisplayName>berpikir jernih</DisplayName>
-			<Desc>Tingkatkan kondisi mental Anda sedikit setelah dengan tulus berdoa dan memohon berkah pada Upacara Persembahan Dupa Naga tahunan.</Desc>
+			<DisplayName>Pikiran Jernih</DisplayName>
+			<Desc>Sedikit meningkatkan Kondisi Mental setelah berdoa dengan tulus dan membuat permohonan di acara tahunan Persembahan Dupa Naga.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou2">
-			<DisplayName>meditasi tingkat lanjut</DisplayName>
-			<Desc>Peluang untuk menembus batasan sangat meningkat setelah berdoa dengan tulus dan meminta berkah pada Upacara Dupa Naga tahunan.</Desc>
+			<DisplayName>Tingkat Lebih Tinggi</DisplayName>
+			<Desc>Sangat meningkatkan peluang Terobosan setelah berdoa dengan tulus dan membuat permohonan dalam acara tahunan Persembahan Dupa Naga.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou3">
-			<DisplayName>Keberuntungan memimpin</DisplayName>
-			<Desc>Sedikit meningkatkan peluang perlindungan Anda setelah dengan tulus berdoa dan meminta berkah pada Upacara Dupa Naga tahunan.</Desc>
+			<DisplayName>Nasib Baik</DisplayName>
+			<Desc>Sedikit meningkatkan Pertahanan setelah berdoa dengan tulus dan membuat permohonan di acara tahunan Persembahan Dupa Naga.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou5">
-			<DisplayName>Menghukum orang yang serakah</DisplayName>
-			<Desc>Karena keserakahan dalam meminta berkah dalam jumlah besar pada Upacara Dupa Naga tahunan, hal itu mengakibatkan hukuman dari surga. Hasilnya, kelima statistik tersebut berkurang secara signifikan.</Desc>
+			<DisplayName>Hukuman Keserakahan</DisplayName>
+			<Desc>Meskipun mendapat banyak berkah, menerima hukuman ilahi dan menurunkan Lima Atribut secara signifikan setelah membuat terlalu banyak permintaan dalam acara Persembahan Dupa Naga tahunan.</Desc>
 		</Text>
 	</List>
 </Texts>
