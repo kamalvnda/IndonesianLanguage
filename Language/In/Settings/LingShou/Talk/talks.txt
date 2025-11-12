@@ -1,152 +1,152 @@
 talk	notarget	int	string	float	thing
-NotEatShit	Saya tidak akan makan kotoran.				
-NotEatEssence	Saya tidak akan makan Genius Dibao kecuali Anda memberi saya makan				
-NotEatDrug	Bahkan jika Anda membunuh saya, saya tidak akan memakan pil sebagai makanan ringan kecuali jika diberikan kepada saya.				
-NotEatWheat	Saya hanya makan gandum ketika saya lapar				
-NotEatDryMeat	Aku... benar-benar tidak bisa makan dendeng				
+NotEatShit	eegk.??				
+NotEatEssence	Apa!! tidak akan makan Cairan, kecuali kau memberi aku makan.				
+NotEatDrug	Bahkan jika Kau membunuhku, aku tidak akan memakan pil sebagai makanan ringan kecuali jika diberikan kepada ku.				
+NotEatWheat	Aku hanya makan gandum ketika lapar				
+NotEatDryMeat	Aku... Daging ini sangat kering				
 NotEatPear	Apa itu buah pir? Bisakah itu dimakan?				
-NotEatMeat	Daging mentah itu menjijikkan, saya tidak akan pernah memakannya kecuali benar-benar diperlukan				
-NotEatCook	Toko kue adalah makanan terakhir yang ingin saya makan				
-NotBiteBuilding	Saya tidak benar-benar ingin menyerang bangunan				
-NotBiteClothes	Saya tidak bermain-main dengan pakaian				
-NotBiteOuter	Saya tidak akan menyerang murid luar				
-NotBiteInner	Saya tidak akan menyerang murid batiniah				
-NotBiteVisitor	Saya tidak akan menyerang pengunjung				
-NotBiteIncoming	Saya tidak akan menyerang manusia yang datang				
-NotAtkEnemy	Saya tidak akan menyerang musuh kecuali diserang				
-NotShitAtShitPlace	Saya tidak akan mengeluarkan kotoran di titik ekskresi				
-NotShitAtPlants	Saya tidak buang air besar di samping tanaman				
-NotShitAtDogHouse	Aku tidak akan buang air besar di sarangku				
-NotShitAtStorage	Saya tidak akan buang air besar di gudang				
-NotShitOnBed	Aku tidak akan buang air besar di tempat tidur				
-NotShitInFarm	Saya tidak akan buang air besar di lahan pertanian				
-NotCarryOuterToBed	Saya tidak akan memindahkan murid yang tidak sadarkan diri ke tempat tidur				
-NotCarryVisitorToDest	Saya tidak akan memindahkan pengunjung yang tidak sadarkan diri ke titik bergerak				
-NotCarryEnemyToDest	Saya tidak akan memindahkan musuh yang tidak sadarkan diri ke titik transfer				
-NotCarryIncomingToDest	Saya tidak akan memindahkan manusia yang tidak sadarkan diri ke titik yang bergerak.				
-NotCarryEnemyBodyToDest	Saya tidak akan memindahkan mayat musuh ke titik transportasi				
-NotCarryVisitorBodyToDest	Saya tidak akan memindahkan jenazah pengunjung ke tempat pemindahan				
-NotCarryIncomingBodyToDest	Saya tidak akan membawa mayat fana ke titik perpindahan				
-NotHelpCarry	Saya tidak akan membantu mengatur segalanya				
-NotHelpTimber	Saya tidak akan membantu menebang pohon itu				
-NotHelpMine	Aku tidak akan membantu milikku				
-NotHelpFind	Saya tidak akan membantu menjarah barang				
-NotHelpKill	Saya tidak akan membantu menyembelih hewan				
-NotHelpPlant	Saya tidak akan membantu menyuburkan tanaman				
-NotCureFreeze	Saya tidak akan membantu mengatasi radang dingin				
-NotCureHot	Saya tidak akan membantu mengobati sengatan panas				
-NotHelpCook	Saya tidak bisa membantu memasak				
-NotHeatEndure	Saya tidak akan membantu meningkatkan toleransi panas				
-NotColdEndure	Saya tidak akan membantu meningkatkan toleransi dingin				
-NotHelpPlay	Saya tidak akan bermain-main dengan murid-murid saya				
-NotPlayToy	Saya tidak bisa bermain dengan mainan				
-NotTrainQiGan	Saya tidak tahu cara melatih kemampuan reiki.				
-NotTrainNeiDan	Saya tidak tahu bagaimana melatih kemampuan mengendalikan ramuan itu				
-NotTrainHuTi	Saya tidak tahu bagaimana melatih kemampuan perlindungan tubuh saya				
-NotTrainLingZhi	Saya tidak tahu bagaimana melatih kemampuan mental saya				
-NotTrainShuFa	Saya tidak tahu cara melatih keterampilan sihir				
-WannaEatShit					Ini {0}, enakkah?
+NotEatMeat	Daging mentah itu menjijikkan, aku tidak akan pernah memakannya kecuali benar-benar diperlukan				
+NotEatCook	Toko kue adalah makanan terakhir yang inginku makan				
+NotBiteBuilding	Aku tidak benar-benar ingin menyerang bangunan				
+NotBiteClothes	Aku tidak bermain-main dengan pakaian				
+NotBiteOuter	Aku tidak akan menyerang murid luar				
+NotBiteInner	Aku tidak akan menyerang murid dalam				
+NotBiteVisitor	Aku tidak akan menyerang pengunjung				
+NotBiteIncoming	Aku tidak akan menyerang manusia yang datang				
+NotAtkEnemy	Aku tidak akan menyerang musuh kecuali diserang				
+NotShitAtShitPlace	Aku tidak akan bab di titik ekskresi				
+NotShitAtPlants	Aku bab di samping tanaman? Meh!!!				
+NotShitAtDogHouse	Aku tidak akan bab di sarangku				
+NotShitAtStorage	Pikirkan Kembali Bodoh!!			
+NotShitOnBed	bab di tempat tidur? Jorok!!!				
+NotShitInFarm	Aku tidak akan buang air besar di lahan pertanian				
+NotCarryOuterToBed	Aku tidak akan memindahkan murid pingsan ke tempat tidur				
+NotCarryVisitorToDest	Aku tidak akan memindahkan pengunjung yang pingsan ke titik teleportasi.				
+NotCarryEnemyToDest	Aku tidak akan memindahkan musuh yang tidak sadarkan diri ke titik teleportasi				
+NotCarryIncomingToDest	Aku tidak akan memindahkan manusia yang pingsan ke titik teleportasi.				
+NotCarryEnemyBodyToDest	aku tidak akan memindahkan mayat musuh ke titik teleportasi				
+NotCarryVisitorBodyToDest	Aku tidak akan memindahkan mayad pengunjung ke titik teleportasi				
+NotCarryIncomingBodyToDest	Saya tidak akan membawa mayat fana ke titik teleportasi				
+NotHelpCarry	aku tidak akan membantu mengatur segalanya				
+NotHelpTimber	aku tidak akan membantu menebang pohon itu				
+NotHelpMine	Aku tidak akan membantu menambang				
+NotHelpFind	aku tidak akan membantu menjarah barang				
+NotHelpKill	aku tidak akan membantu menyembelih hewan				
+NotHelpPlant	Aku tidak akan membantu menyuburkan tanaman				
+NotCureFreeze	Aku tidak akan membantu mengatasi radang dingin				
+NotCureHot	Aku tidak akan membantu mengobati sengatan panas				
+NotHelpCook	Aku tidak bisa membantu memasak				
+NotHeatEndure	Aku tidak akan membantu meningkatkan toleransi panas				
+NotColdEndure	Aku tidak akan membantu meningkatkan toleransi dingin				
+NotHelpPlay	Aku tidak akan bermain-main dengan murid-murid				
+NotPlayToy	Aku tidak bisa bermain dengan mainan				
+NotTrainQiGan	Aku tidak tahu cara melatih kemampuan Meditasi.				
+NotTrainNeiDan	Aku tidak tahu bagaimana melatih kemampuan mengendalikan ramuan itu				
+NotTrainHuTi	Aku tidak tahu bagaimana melatih kemampuan perlindungan tubuh				
+NotTrainLingZhi	Aku tidak tahu bagaimana melatih kemampuan mental				
+NotTrainShuFa	Aku tidak tahu cara melatih keterampilan sihir				
+WannaEatShit					Ini {0}, Eegk? Kesukaanku
 WannaEatEssence					Ini {0} membuat mulutku berair.
-WannaEatDrug					Saya ingin makan ramuan itu sebagai camilan
+WannaEatDrug					Aku ingin makan ramuan itu sebagai camilan
 WannaEatWheat					{0} ini kelihatannya enak
-WannaEatDryMeat					Saya tidak dapat menahan aroma {0} lagi
+WannaEatDryMeat					Aku tidak dapat menahan aroma {0} lagi
 WannaEatPear					Saya tidak tahan lagi, saya ingin makan{0}
-WannaEatMeat					{0}, saya akan mulai
-WannaEatCook					Saya sangat ingin makan{0}
-WannaBiteBuilding					{0}, saya sudah lama menoleransi Anda
+WannaEatMeat					{0}, Aku akan Makan
+WannaEatCook					Aku sangat ingin makan{0}
+WannaBiteBuilding					{0}, Aku sudah lama menoleransi Anda
 WannaBiteClothes					{0} ini pasti bagus untuk menggemeretakkan gigi Anda.
 WannaBiteOuter					Seperti apa rasanya murid luar {0}?
-WannaBiteInner					Saatnya menunjukkan kekuatan Anda kepada murid batiniah {0}
+WannaBiteInner					Saatnya menunjukkan kekuatan kepada murid dalam {0}
 WannaBiteVisitor					Pengunjung {0} sepertinya sangat cocok untuk melatih keterampilan.
 WannaBiteIncoming					Pengunjung {0} sepertinya sangat cocok untuk melatih keterampilan.
 WannaAtkEnemy					{0}, kematianmu telah tiba
-WannaShitAtShitPlace					Saya ingin buang air besar di titik ekskresi
-WannaShitAtPlants					Saya ingin buang air besar di samping tanaman
+WannaShitAtShitPlace					Aku ingin bab di titik ekskresi
+WannaShitAtPlants					Aku ingin bab di samping tanaman
 WannaShitAtDogHouse					Aku ingin buang air besar di sarangku
-WannaShitAtStorage					Kotoran saya sangat berharga, sebaiknya dibawa ke gudang
+WannaShitAtStorage					Kotoranku Kualitas Premium sangat berharga, sebaiknya dibawa ke gudang
 WannaShitOnBed					Buang air kecil di tempat tidur memang terlihat menyenangkan
 WannaShitInFarm					Buang air besar di lapangan harusnya membantu?
-WannaCarryOuterToBed					Saya harus membantu orang yang tidak sadarkan diri {0}
-WannaCarryVisitorToDest					Saya ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik transfer
-WannaCarryEnemyToDest					Saya ingin memindahkan musuh yang tidak sadarkan diri {0} ke titik transportasi
-WannaCarryIncomingToDest					Saya ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik transfer
-WannaCarryEnemyBodyToDest					Saya ingin memindahkan mayat musuh {0} ke titik transportasi
-WannaCarryVisitorBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik bergerak
-WannaCarryIncomingBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik bergerak
-WannaHelpCarry	Saya ingin membantu mengatur berbagai hal				
-WannaHelpTimber	Sepertinya pohon-pohon ini perlu ditebang, biar saya bantu				Sepertinya pohon-pohon ini perlu ditebang, biar saya bantu
+WannaCarryOuterToBed					aku harus membantu orang yang tidak sadarkan diri {0}
+WannaCarryVisitorToDest					aku ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik teleportasi 
+WannaCarryEnemyToDest					Saya ingin memindahkan musuh yang tidak sadarkan diri {0} ke titik teleportasi 
+WannaCarryIncomingToDest					Aku ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik teleportasi 
+WannaCarryEnemyBodyToDest					Aku ingin memindahkan mayat musuh {0} ke titik teleportasi 
+WannaCarryVisitorBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik teleportasi 
+WannaCarryIncomingBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik teleportasi 
+WannaHelpCarry	Aku ingin membantu mengatur berbagai hal				
+WannaHelpTimber	Sepertinya pohon-pohon ini perlu ditebang, biarku bantu				Sepertinya pohon-pohon ini perlu ditebang, biarku bantu
 WannaHelpMine	Batu-batu ini kelihatannya berharga, mari kita lihat				Batu-batu ini kelihatannya berharga, mari kita lihat
 WannaHelpFind	Biarkan saya melihat harta apa yang dimiliki orang-orang ini				Biarkan saya melihat harta apa yang dimiliki orang-orang ini
 WannaHelpKill	Kita tidak bisa membiarkan tubuh membusuk, biarkan aku membantu merawatnya.				Kita tidak bisa membiarkan tubuh membusuk, biarkan aku membantu merawatnya.
-WannaHelpPlant	Tanaman di ladang terlihat bermanfaat. Biarkan saya menyuburkan mereka.				Tanaman di ladang terlihat bermanfaat. Biarkan saya menyuburkan mereka.
-WannaCureFreeze	Radang dingin {0} sangat serius, biarkan saya mengobatinya				Radang dingin {0} sangat serius, biarkan saya mengobatinya
-WannaCureHot	Serangan panas {0} sangat serius, biar saya obati				Serangan panas {0} sangat serius, biar saya obati
-WannaHeatEndure	Saya ingin membantu meningkatkan toleransi panas				Saya ingin membantu meningkatkan toleransi panas
-WannaColdEndure	Saya ingin membantu meningkatkan toleransi dingin				Saya ingin membantu meningkatkan toleransi dingin
+WannaHelpPlant	Tanaman di ladang terlihat bermanfaat. Biarkan aku menyuburkan mereka.				Tanaman di ladang terlihat bermanfaat. Biarkan aku menyuburkan mereka.
+WannaCureFreeze	Radang dingin {0} sangat serius, biarkan aku mengobatinya				Radang dingin {0} sangat serius, biarkan aku mengobatinya
+WannaCureHot	Serangan panas {0} sangat serius, biar aku obati				Serangan panas {0} sangat serius, biar aku obati
+WannaHeatEndure	aku ingin membantu meningkatkan toleransi panas				aku ingin membantu meningkatkan toleransi panas
+WannaColdEndure	aku ingin membantu meningkatkan toleransi dingin				aku ingin membantu meningkatkan toleransi dingin
 WannaHelpPlay	{0}kelihatannya sedang tidak dalam suasana hati yang baik				{0}kelihatannya sedang tidak dalam suasana hati yang baik
-WannaPlayToy	Saya ingin bermain keras {0}				Saya ingin bermain keras{0}
-DoTalkEatShit					saya sedang makan{0}
-DoTalkEatEssence					saya sedang makan{0}
-DoTalkEatDrug					saya sedang makan{0}
-DoTalkEatWheat					saya sedang makan{0}
-DoTalkEatDryMeat					saya sedang makan{0}
-DoTalkEatPear					saya sedang makan{0}
-DoTalkEatMeat					saya sedang makan{0}
-DoTalkEatCook					saya sedang makan{0}
-DoTalkEat					Saya menikmati {0}
-DoTalkBiteBuilding					Saya menggunakan {0} untuk menggemeretakkan gigi
-DoTalkBiteClothes					saya menyerang {0}
-DoTalkBiteOuter					saya menyerang {0}
-DoTalkBiteInner					Saya menggigit pengunjung{0}
-DoTalkBiteVisitor					Saya menggigit pengunjung{0}
+WannaPlayToy	Aku ingin bermain keras {0}				Aku ingin bermain keras{0}
+DoTalkEatShit					aku sedang makan{0}
+DoTalkEatEssence					aku sedang makan{0}
+DoTalkEatDrug					aku sedang makan{0}
+DoTalkEatWheat					aku sedang makan{0}
+DoTalkEatDryMeat					aku sedang makan{0}
+DoTalkEatPear					aku sedang makan{0}
+DoTalkEatMeat					aku sedang makan{0}
+DoTalkEatCook					aku sedang makan{0}
+DoTalkEat					aku menikmati {0}
+DoTalkBiteBuilding					aku menggunakan {0} untuk menggemeretakkan gigi
+DoTalkBiteClothes					aku menyerang {0}
+DoTalkBiteOuter					aku menyerang {0}
+DoTalkBiteInner					aku menggigit pengunjung{0}
+DoTalkBiteVisitor					aku menggigit pengunjung{0}
 DoTalkBiteIncoming					aku menggigit {0}
 DoTalkBiteBuildingEx					Aku menggigit {0} dengan keras
-DoTalkBiteClothesEx					Saya mencoba mengunyah {0}
+DoTalkBiteClothesEx					aku mencoba mengunyah {0}
 DoTalkBiteOuterEx					Aku menggigit {0} dengan keras
 DoTalkBiteInnerEx					Aku menggigit {0} dengan keras
-DoTalkBiteVisitorEx					Saya menggigit pengunjung {0}
-DoTalkBiteIncomingEx					Saya menggigit pengunjung itu sekuat tenaga {0}
-DoTalkAtkEnemy					Saya menyerang {0}!
-DoTalkShitAtShitPlace					Aku sedang buang air besar di ruang kerjaku
-DoTalkShitAtPlants					Saya kencing di sebelah {0}
+DoTalkBiteVisitorEx					aku menggigit pengunjung {0}
+DoTalkBiteIncomingEx					aku menggigit pengunjung itu sekuat tenaga {0}
+DoTalkAtkEnemy					aku menyerang {0}!
+DoTalkShitAtShitPlace					aku sedang buang air besar di ruang kerjaku
+DoTalkShitAtPlants					aku kencing di sebelah {0}
 DoTalkShitAtDogHouse					Aku sedang buang air besar di sarangku
 DoTalkShitAtStorage					Aku sedang buang air besar di gudang
 DoTalkShitOnBed					Aku kencing di tempat tidur
-DoTalkShitInFarm					Saya buang air besar di lahan pertanian
-DoTalkCarryOuterToBed					Saya memindahkan ketidaksadaran {0} ke tempat tidur
-DoTalkCarryVisitorToDest					Saya memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
-DoTalkCarryEnemyToDest					Saya memindahkan musuh yang tidak sadarkan diri {0} ke titik transfer
-DoTalkCarryIncomingToDest					Saya memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
-DoTalkCarryEnemyBodyToDest					Saya menggerakkan tubuh {0} ke titik bergerak
-DoTalkCarryVisitorBodyToDest					Saya menggerakkan tubuh {0} ke titik bergerak
-DoTalkCarryIncomingBodyToDest					Saya menggerakkan tubuh {0} ke titik bergerak
-DoTalkHelpCarry					Saya membantu mengatur berbagai hal
+DoTalkShitInFarm					aku buang air besar di lahan pertanian
+DoTalkCarryOuterToBed					aku memindahkan ketidaksadaran {0} ke tempat tidur
+DoTalkCarryVisitorToDest					aku memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
+DoTalkCarryEnemyToDest					aku memindahkan musuh yang tidak sadarkan diri {0} ke titik transfer
+DoTalkCarryIncomingToDest					aku memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
+DoTalkCarryEnemyBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
+DoTalkCarryVisitorBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
+DoTalkCarryIncomingBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
+DoTalkHelpCarry					aku membantu mengatur berbagai hal
 DoTalkHelpTimber					Aku sedang membantu menebang pohon itu
 DoTalkHelpMine					Aku membantu milikku
-DoTalkHelpFind					Saya sedang mencari barang
-DoTalkHelpKill					Saya sedang menyembelih hewan
-DoTalkHelpPlant					Saya sedang memupuk tanaman
-DoTalkCureFreeze					Saya sedang mengobati radang dingin {0}
-DoTalkCureHot					Saya merawat {0} karena serangan panas
+DoTalkHelpFind					aku sedang mencari barang
+DoTalkHelpKill					aku sedang menyembelih hewan
+DoTalkHelpPlant					aku sedang memupuk tanaman
+DoTalkCureFreeze					Aku sedang mengobati radang dingin {0}
+DoTalkCureHot					Aku merawat {0} karena serangan panas
 DoTalkHelpCook					Aku sedang membantu memasak
-DoTalkHeatEndure					Saya membantu meningkatkan toleransi panas
-DoTalkColdEndure					Saya membantu meningkatkan toleransi dingin
-DoTalkHelpPlay					Saya sedang bermain dengan {0}
-DoTalkPlayToy					saya sedang bermain {0}
-DoTalkPlaySelf					Saya menghibur diri saya sendiri
-DoTalkTrainQiGan	Saya sedang melatih kemampuan reiki saya.				
-DoTalkTrainNeiDan	Saya melatih kemampuan saya dalam mengendalikan ramuan				
-DoTalkTrainHuTi	Saya melatih kemampuan saya dalam perlindungan tubuh				
-DoTalkTrainLingZhi	Saya sedang melatih kemampuan spiritual saya				
-DoTalkTrainShuFa	Saya sedang melatih keterampilan saya dalam sihir				
+DoTalkHeatEndure					Aku membantu meningkatkan toleransi panas
+DoTalkColdEndure					Aku membantu meningkatkan toleransi dingin
+DoTalkHelpPlay					Aku sedang bermain dengan {0}
+DoTalkPlayToy					Aku sedang bermain {0}
+DoTalkPlaySelf					Aku menghibur diri aku sendiri
+DoTalkTrainQiGan	aku sedang melatih kemampuan reiki aku.				
+DoTalkTrainNeiDan	aku melatih kemampuan saya dalam mengendalikan ramuan				
+DoTalkTrainHuTi	aku melatih kemampuan saya dalam perlindungan tubuh				
+DoTalkTrainLingZhi	aku sedang melatih kemampuan spiritual aku			
+DoTalkTrainShuFa	aku sedang melatih keterampilan aku dalam sihir				
 DoTalkFollow					
 DoTalkLay					
 DoTalkWander					
 CantEatShit	Aku tidak punya apa-apa untuk dimakan				
-CantEatEssence	Saya tidak punya harta jenius untuk dimakan				
-CantEatDrug	Saya tidak punya obat mujarab untuk diminum				
-CantEatWheat	Saya tidak punya gandum untuk dimakan				
-CantEatDryMeat	Saya tidak punya dendeng untuk dimakan				
+CantEatEssence	aku tidak punya harta jenius untuk dimakan				
+CantEatDrug	aku tidak punya obat mujarab untuk diminum				
+CantEatWheat	aku tidak punya gandum untuk dimakan				
+CantEatDryMeat	aku tidak punya dendeng untuk dimakan				
 CantEatPear	Saya tidak punya buah pir untuk dimakan				
 CantEatMeat	Saya tidak punya daging mentah untuk dimakan				
 CantEatCook	Saya tidak punya makanan matang untuk dimakan				
@@ -420,25 +420,25 @@ CantEat_Item_JinEssence	Saya tidak dapat menemukan buah Langya untuk dimakan
 CantEat_Item_MuEssence	Saya tidak dapat menemukan kayu mati atau tanaman anggur untuk dimakan				
 CantEat_Item_LifeStream	Saya tidak dapat menemukan sumber umur panjang untuk dimakan				
 CantEat_Item_LongEgg	Saya tidak dapat menemukan telur naga untuk dimakan				
-CantEat_Item_FengEgg	Saya tidak dapat menemukan telur phoenix untuk dimakan				
-CantEat_Item_DragonShit	Saya tidak dapat menemukan pasir Tianlong untuk dimakan				
-CantEat_Item_Jiaozi	Saya tidak dapat menemukan pangsit untuk dimakan				
-CantEat_Item_BossFeng_Meat	Saya tidak dapat menemukan daging dan darah burung phoenix yang ganas untuk dimakan				
-CantEat_Item_BossLong_Meat	Saya tidak dapat menemukan daging dan darah naga untuk dimakan				
-CantEat_Item_BossZhuLong_Meat	Saya tidak dapat menemukan daging dan darah aslinya untuk dimakan				
-CantEat_Item_Cake	Saya tidak dapat menemukan roti untuk dimakan				
-CantEat_Item_MonsterBlood	Saya tidak dapat menemukan darah iblis untuk dimakan				
-CantEat_Item_EarthEssence	Saya tidak dapat menemukan cairan roh ibu bumi untuk dimakan				
-CantEat_Item_SilverGrit	Saya tidak dapat menemukan pasir kristal dingin untuk dimakan				
-CantEat_Item_CopperGrit	Saya tidak dapat menemukan pasir tembaga api untuk dimakan				
-CantEat_Item_Cinnabar	Saya tidak dapat menemukan cinnabar untuk dimakan				
+CantEat_Item_FengEgg	Aku tidak dapat menemukan telur phoenix untuk dimakan				
+CantEat_Item_DragonShit	Aku tidak dapat menemukan pasir Tianlong untuk dimakan				
+CantEat_Item_Jiaozi	Aku tidak dapat menemukan pangsit untuk dimakan				
+CantEat_Item_BossFeng_Meat	Aku tidak dapat menemukan daging dan darah burung phoenix yang ganas untuk dimakan				
+CantEat_Item_BossLong_Meat	Aku tidak dapat menemukan daging dan darah naga untuk dimakan				
+CantEat_Item_BossZhuLong_Meat	Aku tidak dapat menemukan daging dan darah aslinya untuk dimakan				
+CantEat_Item_Cake	Aku tidak dapat menemukan roti untuk dimakan				
+CantEat_Item_MonsterBlood	Aku tidak dapat menemukan darah iblis untuk dimakan				
+CantEat_Item_EarthEssence	Aku tidak dapat menemukan cairan roh ibu bumi untuk dimakan				
+CantEat_Item_SilverGrit	Aku tidak dapat menemukan pasir kristal dingin untuk dimakan				
+CantEat_Item_CopperGrit	Aku tidak dapat menemukan pasir tembaga api untuk dimakan				
+CantEat_Item_Cinnabar	Aku tidak dapat menemukan cinnabar untuk dimakan				
 CantEat_Item_LingMuXueJie	Saya tidak dapat menemukan Lingmu Xuejie untuk dimakan				
-CantEat_Item_EarthEssence_1	Saya tidak dapat menemukan lemak sumsum untuk dimakan				
-CantEat_Item_EarthEssence1_1	Saya tidak dapat menemukan myeloid untuk dimakan				
-CantEat_Item_Healroot	Saya tidak dapat menemukan ramuan apa pun untuk dimakan				
-CantEat_Item_Mint	Saya tidak dapat menemukan rumput untuk dimakan				
-CantEat_Item_MagicHerb	Saya tidak dapat menemukan rumput ajaib untuk dimakan				
-CantEat_Item_Laxative	Saya tidak dapat menemukan apa pun untuk dimakan				
+CantEat_Item_EarthEssence_1	Aku tidak dapat menemukan lemak sumsum untuk dimakan				
+CantEat_Item_EarthEssence1_1	Aku tidak dapat menemukan myeloid untuk dimakan				
+CantEat_Item_Healroot	Aku tidak dapat menemukan ramuan apa pun untuk dimakan				
+CantEat_Item_Mint	Aku tidak dapat menemukan rumput untuk dimakan				
+CantEat_Item_MagicHerb	Aku tidak dapat menemukan rumput ajaib untuk dimakan				
+CantEat_Item_Laxative	Aku tidak dapat menemukan apa pun untuk dimakan				
 Leave1					"{0}, perhatikan keselamatan di jalan"
 Leave2					Segera kembali lagi, {0}
 Leave3					Selamat jalan, {0}
@@ -447,7 +447,7 @@ Back2					Selamat datang di rumah, {0}
 Back3					Aku sangat merindukanmu, {0}
 NotBack1					{0}Kenapa kamu belum kembali lagi?
 NotBack2					{0}Apa yang sedang kamu lakukan?
-NotBack3					Saya tidak tahu apa yang terjadi pada {0}
+NotBack3					Aku tidak tahu apa yang terjadi pada {0}
 BackComa1					{0}, ada apa denganmu?
 BackComa2					{0}Butuh bantuan
 BackComa3					{0}Tunggu
@@ -459,6 +459,6 @@ Lacrimosa2		...
 Lacrimosa3		...			
 QiGan_FullTalk	Auraku telah mencapai batas atas				
 NeiDan_FullTalk	Ramuan kekaisaranku telah mencapai batas atasnya				
-HuTi_FullTalk	Perlindungan tubuh saya telah mencapai batas atas				
-LingZhi_FullTalk	Kecerdasan saya telah mencapai batasnya				
+HuTi_FullTalk	Perlindungan tubuhku telah mencapai batas atas				
+LingZhi_FullTalk	Kecerdasanku telah mencapai batasnya				
 ShuFa_FullTalk	Sihirku telah mencapai batasnya				
