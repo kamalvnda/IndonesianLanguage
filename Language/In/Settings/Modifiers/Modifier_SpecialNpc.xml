@@ -1,50 +1,62 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Modifier_SpNpc_BasePropertie">
-      <DisplayName>Atribut terjamin</DisplayName>
-    </Text>
-    <Text Name="Modifier_SpNpc_BaseFightPropertie">
-      <DisplayName>Atribut tempur dasar</DisplayName>
-    </Text>
-    <Text Name="Modifier_SpNpc_Ling">
-      <DisplayName>roh</DisplayName>
-      <Desc>Orang ini memiliki akar yang dalam dan aura yang tak terduga.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_Shield">
-      <DisplayName>melindungi</DisplayName>
-      <Desc>Pria ini berbadan tembaga dan berbadan besi, serta sangat pandai dalam melindungi tubuh.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FabaoAtk">
-      <DisplayName>tajam</DisplayName>
-      <Desc>Senjata orang ini seperti guntur, dan kekuatannya luar biasa.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FabaoLing">
-      <DisplayName>Berat</DisplayName>
-      <Desc>Senjata orang ini sekuat gunung, dan kekuatannya sangat kuat.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FabaoSpeed">
-      <DisplayName>kecepatan</DisplayName>
-      <Desc>Senjata orang ini seperti kilat, dan kecepatannya secepat guntur.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FabaoDisp">
-      <DisplayName>menunjukkan</DisplayName>
-      <Desc>Keterampilan penanganan senjata orang ini tidak ada bandingannya.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FabaoNum">
-      <DisplayName>titik</DisplayName>
-      <Desc>Cahaya pedang orang ini dibedakan dan dapat mengendalikan senjata Liuhe.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FightSkillAtk">
-      <DisplayName>Hukum</DisplayName>
-      <Desc>Kekuatan sihir pria ini tidak ada bandingannya di dunia</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_FightSkillCD">
-      <DisplayName>cepat</DisplayName>
-      <Desc>Keterampilan pernapasan orang ini sangat cepat.</Desc>
-    </Text>
-    <Text Name="Modifier_SpNpc_Comeback">
-      <DisplayName>musuh lama</DisplayName>
-      <Desc>Musuh lama bertemu, dan kebencian mereka membuat mereka lebih kuat dari sebelumnya.</Desc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Statistik Awal</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Statistik Pertempuran Pangkalan</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Rohani</DisplayName>
+			<Desc>Orang ini mempunyai fondasi yang sangat kuat, dengan energi Qi yang tak berdasar.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Ulet</DisplayName>
+			<Desc>Orang ini memiliki tubuh besi, dan sangat ahli dalam skill Perlindungan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Suka</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti guntur, dengan kekuatan yang luar biasa menakjubkan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Kokoh</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti gunung, dengan kekuatan kekokohan yang tidak bisa dihancurkan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Gesit</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti kilat, dengan kecepatan secepat sambaran petir.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Hebat</DisplayName>
+			<Desc>Orang ini menggunakan Artefak dengan keanggunan dan keanggunan yang tak tertandingi.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Serbaguna</DisplayName>
+			<Desc>Orang ini dapat menguasai banyak artefak.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Mistik</DisplayName>
+			<Desc>Orang ini memiliki Kekuatan Mantra yang tak tertandingi.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Cepat</DisplayName>
+			<Desc>Orang ini memiliki Pemulihan Penundaan Pemeran Mantra yang sangat cepat.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>musuh bebuyutan</DisplayName>
+			<Desc>Ketika berhadapan dengan musuh bebuyutan, kekuatan seseorang menjadi lebih kuat dari sebelumnya karena kebencian.</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Minimum Pembentuk Qi</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Minimum Pembentuk Inti</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Minimum Inti Emas</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Minimum Roh Primordial</DisplayName>
+		</Text>
+	</List>
 </Texts>
