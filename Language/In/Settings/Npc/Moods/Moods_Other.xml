@@ -1,129 +1,129 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Happy1">
-			<DisplayName>Tiba-tiba aku merasa ceria.</DisplayName>
-			<Desc>Entah kenapa, tapi tiba-tiba aku merasa ceria.</Desc>
-			<StoryDesc>Aku merasa saat aku ceria seperti ini, hariku benar-benar menjadi lebih cerah.</StoryDesc>
+			<DisplayName>Keceriaan Mendadak</DisplayName>
+			<Desc>Aku tidak tahu kenapa, tapi tiba-tiba aku merasa ceria.</Desc>
+			<StoryDesc>Merasa bahwa ketika seseorang ceria, itu benar-benar mencerahkan hari seseorang</StoryDesc>
 		</Text>
 		<Text Name="Happy2">
-			<DisplayName>Tiba-tiba aku merasa senang.</DisplayName>
-			<Desc>Entah kenapa, tiba-tiba aku merasa senang.</Desc>
-			<StoryDesc>Merasa senang dengan kebahagiaan kecil seperti itu.</StoryDesc>
+			<DisplayName>Kebahagiaan Mendadak</DisplayName>
+			<Desc>Entah kenapa tiba-tiba aku merasa cukup bahagia.</Desc>
+			<StoryDesc>Merasa bahwa Tidak ada yang salah dengan sedikit kebahagiaan ekstra</StoryDesc>
 		</Text>
 		<Text Name="Happy3">
-			<DisplayName>Tiba-tiba saya merasa kewalahan.</DisplayName>
-			<Desc>Aku tidak tahu kenapa, tapi tiba-tiba aku merasakan perasaan malu.</Desc>
-			<StoryDesc>Saya terkejut karena semuanya tiba-tiba tampak begitu menyedihkan.</StoryDesc>
+			<DisplayName>Tiba-tiba Masa Sulit</DisplayName>
+			<Desc>Aku tidak tahu kenapa, tapi aku tiba-tiba merasa kesulitan dengan berbagai hal.</Desc>
+			<StoryDesc>Merasa entah kenapa, tapi tiba-tiba segalanya terasa agak menyedihkan</StoryDesc>
 		</Text>
 		<Text Name="Happy4">
-			<DisplayName>Tiba-tiba saya merasa putus asa.</DisplayName>
-			<Desc>Saya merasa putus asa. Sepertinya segalanya menjadi lebih buruk.</Desc>
-			<StoryDesc>Saya terkejut karena semuanya tiba-tiba menjadi gelap.</StoryDesc>
+			<DisplayName>Tiba-tiba Kekecewaan</DisplayName>
+			<Desc>Aku merasakan rasa cemas, sepertinya segalanya menjadi semakin buruk.</Desc>
+			<StoryDesc>Merasa entah kenapa, tapi keadaannya tampak cukup menyedihkan</StoryDesc>
 		</Text>
 		<Text Name="Happy5">
-			<DisplayName>Tiba-tiba saya merasa ketakutan.</DisplayName>
-			<Desc>Rasanya seperti ada sesuatu yang terjadi...</Desc>
-			<StoryDesc>Aku terkejut tiba-tiba aku merasakan jantungku berdebar kencang.</StoryDesc>
+			<DisplayName>Tiba-tiba merasa putus asa</DisplayName>
+			<Desc>Rasanya tidak ada yang berjalan baik...</Desc>
+			<StoryDesc>Merasa entah kenapa, tapi semuanya tampak cukup mengecewakan</StoryDesc>
 		</Text>
 		<Text Name="Happy6">
-			<DisplayName>Tiba-tiba saya merasa terdorong.</DisplayName>
-			<Desc>Saya merasa sangat kuat! Seolah aku bisa menguasai dunia!</Desc>
-			<StoryDesc>Saya merasakan tiba-tiba hati-Nya tiba-tiba terasa lebih ambisius.</StoryDesc>
+			<DisplayName>Peningkatan Dorongan yang Mendadak</DisplayName>
+			<Desc>Saya merasa bersemangat! Sepertinya aku bisa menghadapi dunia!</Desc>
+			<StoryDesc>Merasakan bahwa Roh sepertinya melonjak secara tiba-tiba</StoryDesc>
 		</Text>
 		<Text Name="Happen1">
-			<DisplayName>Emosi yang sulit digambarkan</DisplayName>
-			<Desc>Aku merasa dikelilingi oleh perasaan yang tidak bisa kujelaskan...</Desc>
-			<StoryDesc>Aku merasa rumit di dalam hatiku yang sulit untuk dijelaskan.</StoryDesc>
+			<DisplayName>Suasana hati yang tak terlukiskan</DisplayName>
+			<Desc>Aku merasa diselimuti perasaan yang tak terlukiskan...</Desc>
+			<StoryDesc>Perasaan bahwa Ekspresi wajah yang bengkok memberikan sedikit bukti mengenai pikiran apa yang ada di baliknya</StoryDesc>
 		</Text>
 		<Text Name="Happen2">
-			<DisplayName>suasana hati yang kesepian</DisplayName>
+			<DisplayName>Suasana hati yang tak terlukiskan</DisplayName>
 			<Desc>aku merasa sendirian...</Desc>
-			<StoryDesc>Merasa kesepian</StoryDesc>
+			<StoryDesc>Merasa bahwa ada perasaan sedih yang nyata</StoryDesc>
 		</Text>
 		<Text Name="Happen3">
-			<DisplayName>perasaan aneh</DisplayName>
-			<Desc>Aku merasa seperti sedang diawasi oleh seseorang...</Desc>
-			<StoryDesc>Perasaan diawasi oleh seseorang memang tidak nyaman.</StoryDesc>
+			<DisplayName>Perasaan Lucu</DisplayName>
+			<Desc>aku merasa seperti sedang diawasi...</Desc>
+			<StoryDesc>Merasa seperti sedang diawasi selalu tidak menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="Happen4">
-			<DisplayName>Aku merasakan telingaku berdenging.</DisplayName>
-			<Desc>Siapa yang berbicara dengan saya? Aku merasa seperti ada yang berbisik di telingaku. Suara gumaman itu membuatku kesal.</Desc>
-			<StoryDesc>Rasanya seperti mendengar gumaman di sebelahku. Telinga itu membuatku merasa jengkel.</StoryDesc>
+			<DisplayName>Mendengar Sesuatu</DisplayName>
+			<Desc>Apakah ada yang berbicara dengan saya? Rasanya seperti ada yang berbisik di udara, tapi kata-katanya tidak bisa diucapkan...ini menjengkelkan.</Desc>
+			<StoryDesc>Merasa bahwa Mendengar sesuatu benar-benar memangsa saraf</StoryDesc>
 		</Text>
 		<Text Name="Magic1">
-			<DisplayName>Saya tidak bisa mengatakan bahwa saya sedang dalam suasana hati yang baik.</DisplayName>
-			<Desc>Entah kenapa aku merasa sangat baik.</Desc>
-			<StoryDesc>Entah kenapa merasa dalam suasana hati yang baik?</StoryDesc>
+			<DisplayName>Suasana hati yang sangat baik</DisplayName>
+			<Desc>Saya merasa sangat baik karena suatu alasan.</Desc>
+			<StoryDesc>Merasa seperti itu Entah kenapa, tapi siapa yang akan mengeluh tentang senyuman di wajah seseorang?</StoryDesc>
 		</Text>
 		<Text Name="Magic2">
-			<DisplayName>sangat menyedihkan</DisplayName>
-			<Desc>Tiba-tiba saya merasa sedih tanpa alasan.</Desc>
-			<StoryDesc>Merasa sedih tanpa alasan dan perasaan ini semakin bertambah.</StoryDesc>
+			<DisplayName>Kesedihan yang Luar Biasa</DisplayName>
+			<Desc>Aku merasa tidak enak, tapi aku tidak tahu kenapa.</Desc>
+			<StoryDesc>Merasakan hal yang tak bisa dijelaskan, hal-hal sepertinya menyebabkan kesedihan yang luar biasa memuncak</StoryDesc>
 		</Text>
 		<Text Name="ZhenkongJie">
-			<DisplayName>Kutukan Anatta</DisplayName>
-			<Desc>Saya merasa kosong</Desc>
-			<StoryDesc>Perasaan bahwa hukuman surgawi ini membuat orang merasa hampa dan tidak nyaman.</StoryDesc>
+			<DisplayName>Kutukan Kekosongan</DisplayName>
+			<Desc>Saya merasa hampa.</Desc>
+			<StoryDesc>Merasa bahwa Kesengsaraan ini membuat seseorang merasa hampa dan tidak nyaman</StoryDesc>
 		</Text>
 		<Text Name="FengShui1">
-			<DisplayName>Feng Shui membawa keberuntungan</DisplayName>
-			<Desc>Feng shui di ruangan ini sangat menguntungkan.</Desc>
-			<StoryDesc>Saya merasa memiliki feng shui yang bagus. Ini membuat saya merasa sangat bahagia.</StoryDesc>
+			<DisplayName>Feng Shui yang bagus</DisplayName>
+			<Desc>Feng shui ruangan ini cukup bagus, seperti sebuah berkah.</Desc>
+			<StoryDesc>Merasa bahwa Feng shui yang begitu bagus membuat seseorang berseri-seri</StoryDesc>
 		</Text>
 		<Text Name="FengShui2">
-			<DisplayName>feng shui yang bagus</DisplayName>
-			<Desc>Feng shui di ruangan ini cukup bagus.</Desc>
-			<StoryDesc>Saya merasakan feng shui yang bagus. Jadikan aura Anda bersinar</StoryDesc>
+			<DisplayName>Feng Shui yang Menguntungkan</DisplayName>
+			<Desc>Menurut Feng shui, ruangan ini tidak buruk, dan hasilnya tampak berjalan baik.</Desc>
+			<StoryDesc>Merasa bahwa Feng shui yang baik memberikan pancaran pada aura seseorang</StoryDesc>
 		</Text>
 		<Text Name="FengShui3">
-			<DisplayName>Jenderal Feng Shui</DisplayName>
-			<Desc>Feng shui di ruangan ini tidak baik atau buruk. Namun, hal ini mungkin menimbulkan beberapa masalah kecil.</Desc>
-			<StoryDesc>Saya merasa Feng Shui saya yang kurang bersemangat membuat tindakan tertentu menjadi sedikit lebih sulit.</StoryDesc>
+			<DisplayName>Bukan Feng Shui Terbaik</DisplayName>
+			<Desc>Feng shui ruangan ini sebenarnya bukan yang terbaik dan menyebabkan banyak masalah.</Desc>
+			<StoryDesc>Merasa bahwa Feng shui yang kurang ideal membuat segalanya menjadi lebih sulit untuk yang satu ini</StoryDesc>
 		</Text>
 		<Text Name="FengShui4">
-			<DisplayName>Feng Shui membawa keberuntungan</DisplayName>
-			<Desc>Feng shui di ruangan ini sangat buruk dan saya merasa seluruh dunia menentang saya.</Desc>
-			<StoryDesc>Saya merasa Feng Shui yang buruk ini membuat orang merasa murung dan murung.</StoryDesc>
+			<DisplayName>Feng Shui yang buruk</DisplayName>
+			<Desc>Feng shui di ruangan ini sangat buruk sehingga rasanya seluruh dunia menentangnya akhir-akhir ini.</Desc>
+			<StoryDesc>Merasa bahwa Feng Shui seburuk ini membuat seseorang merasa gelap dan suram</StoryDesc>
 		</Text>
 		<Text Name="FengShui5">
 			<DisplayName>Feng Shui yang buruk</DisplayName>
-			<Desc>Saya rasa ada yang salah dengan Feng Shui ruangan ini dan saya merasa tidak nyaman melakukan sesuatu.</Desc>
-			<StoryDesc>Saya merasa Feng Shui yang buruk seperti ini membuat orang merasa tidak nyaman dan tidak nyaman.</StoryDesc>
+			<Desc>Saya rasa ada yang salah dengan Feng Shui di ruangan ini.</Desc>
+			<StoryDesc>Perasaan bahwa Feng Shui yang malang ini meninggalkan kerutan di wajah seseorang</StoryDesc>
 		</Text>
 		<Text Name="Tool_PerfectWorld">
-			<DisplayName>dunia yang indah</DisplayName>
-			<Desc>Dunia yang begitu indah membuat segalanya menjadi sangat menarik.</Desc>
-			<StoryDesc>Dunia yang begitu indah dirasa membuat orang merasa puas.</StoryDesc>
+			<DisplayName>Dunia yang Indah</DisplayName>
+			<Desc>Dunia ini begitu indah, semuanya tampak begitu menarik.</Desc>
+			<StoryDesc>Merasa bahwa Pemahaman bahwa dunia ini begitu indah membuat seseorang merasa sangat puas</StoryDesc>
 		</Text>
 		<Text Name="Mood_Tool_LunHui_QiYuan">
-			<DisplayName>inti doa</DisplayName>
-			<Desc>Saya bisa merasakan kekuatan doa hati saya!</Desc>
-			<StoryDesc>Kekuatan hati yang berdoa terasa meninggalkan sedikit kepuasan dalam pikiran.</StoryDesc>
+			<DisplayName>Hati Doa</DisplayName>
+			<Desc>Saya benar-benar bisa merasakan kekuatan Hati Berdoa!</Desc>
+			<StoryDesc>Merasakan kekuatan Hati Doa membuat seseorang cukup puas</StoryDesc>
 		</Text>
 		<Text Name="Dan_LunHui1">
-			<DisplayName>terkesan</DisplayName>
-			<Desc>Saya terkesan dengan kenangan ini. keduanya sedikit puas Tapi sedikit kecewa</Desc>
-			<StoryDesc>Rasanya kenangan itu telah meninggalkan banyak hal. Seseorang menyimpannya dalam keadaan trance yang dalam.</StoryDesc>
+			<DisplayName>Tersentuh</DisplayName>
+			<Desc>Saya merasa tergerak oleh kenangan ini dan sedikit puas sebagai hasilnya.</Desc>
+			<StoryDesc>Merasakan kenangan yang mengharukan seperti itu membuat seseorang berada dalam lamunan yang mendalam</StoryDesc>
 		</Text>
 		<Text Name="Mood_Item_Laxative">
-			<DisplayName>lelah</DisplayName>
-			<Desc>Merasa lelah dan sakit pada perut.</Desc>
-			<StoryDesc>Perut saya sangat sakit karena diare.</StoryDesc>
+			<DisplayName>Hancur berantakan</DisplayName>
+			<Desc>Aku merasa seperti hancur... Aku merasa tidak enak badan.</Desc>
+			<StoryDesc>Merasa Diare tidak pernah diterima, selalu menggelapkan hari seseorang</StoryDesc>
 		</Text>
 		<Text Name="Mood_LunHui_ShiYi">
-			<DisplayName>menikmati</DisplayName>
-			<Desc>Saya mencoba menikmati saat ini daripada memikirkan masa lalu.</Desc>
-			<StoryDesc>Rasanya ada sesuatu yang sudah ditakdirkan.</StoryDesc>
+			<DisplayName>Terperangkap dalam Momen</DisplayName>
+			<Desc>Saya mencoba menikmati momen ini, daripada terlalu memikirkan masa lalu.</Desc>
+			<StoryDesc>Merasa sepertinya ada sesuatu yang sedang dipersiapkan..</StoryDesc>
 		</Text>
 		<Text Name="Mood_LunHui_XinNian">
-			<DisplayName>meyakini</DisplayName>
-			<Desc>Saya memiliki keyakinan saya sendiri. dan imanku tidak mudah tergoyahkan.</Desc>
-			<StoryDesc>Saya merasa kepercayaan diri menciptakan kekuatan batin bagi diri saya sendiri.</StoryDesc>
+			<DisplayName>Pengakuan</DisplayName>
+			<Desc>Saya percaya pada Hukum dan tanpanya bukanlah sesuatu yang membuat saya kesulitan.</Desc>
+			<StoryDesc>Merasa bahwa Keyakinan memberikan dorongan</StoryDesc>
 		</Text>
 		<Text Name="Mood_GreenBrothel">
-			<DisplayName>Suasana hati yang baik</DisplayName>
-			<Desc>Ketika beberapa hal dilepaskan Itu akan membuat Anda merasa lebih baik.</Desc>
-			<StoryDesc>Saya merasa nyaman ketika saya pergi minum alkohol di aula hijau.</StoryDesc>
+			<DisplayName>Merasa Baik</DisplayName>
+			<Desc>Baru saja melepaskan diri dan rasanya menyenangkan.</Desc>
+			<StoryDesc>Merasa Pergi ke Pagoda Hijau dan rasanya sangat menyenangkan</StoryDesc>
 		</Text>
 	</List>
 </Texts>
