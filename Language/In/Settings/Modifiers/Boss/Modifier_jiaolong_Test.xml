@@ -4,10 +4,10 @@
       <DisplayName>Nilai-nilai tahap akhir standar karakter</DisplayName>
     </Text>
     <Text Name="Boss_Jiaolong_Test">
-      <DisplayName>naga</DisplayName>
+      <DisplayName>Naga</DisplayName>
     </Text>
     <Text Name="Boss_Jiaolong_LongNu_Test">
-      <DisplayName>kemarahan naga</DisplayName>
+      <DisplayName>Kemarahan naga</DisplayName>
       <Desc>Naga iblis memasuki keadaan marah, dan semua atribut meningkat.</Desc>
     </Text>
   </List>
