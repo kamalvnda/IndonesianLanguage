@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Forest">
-			<DisplayName>hutan</DisplayName>
+			<DisplayName>Hutan</DisplayName>
 		</Text>
 		<Text Name="Plain">
 			<DisplayName>Bidang biasa</DisplayName>
 		</Text>
 		<Text Name="Mountain">
-			<DisplayName>gunung</DisplayName>
+			<DisplayName>Hunung</DisplayName>
 		</Text>
 		<Text Name="Aqua">
-			<DisplayName>sungai</DisplayName>
+			<DisplayName>Sungai</DisplayName>
 		</Text>
 	</List>
 </Texts>
