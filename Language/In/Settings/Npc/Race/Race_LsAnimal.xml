@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsDog">
-			<DisplayName>Hua Jian</DisplayName>
-			<Desc>Anjing Surgawi Hua Jian adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>Guk guk</TalkBefore>
-			<TalkAfter>Pakan!</TalkAfter>
+			<DisplayName>Huajuan</DisplayName>
+			<Desc>Anjing Ilahi Huajuan adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>warisan warisan,</TalkBefore>
+			<TalkAfter>, ah!</TalkAfter>
 		</Text>
 		<Text Name="LsFox">
-			<DisplayName>Qing Muxue</DisplayName>
-			<Desc>Rubah roh Qing Mu Xue adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>Biru</TalkBefore>
-			<TalkAfter>Biru!</TalkAfter>
+			<DisplayName>Qin Muxue</DisplayName>
+			<Desc>Spirit Rubah Qinmuxue adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Melolong melolong,</TalkBefore>
+			<TalkAfter>, melolong!</TalkAfter>
 		</Text>
 		<Text Name="LsDragon">
 			<DisplayName>Changhai</DisplayName>
-			<Desc>Naga Langit Changhai adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>Wah!</TalkBefore>
-			<TalkAfter>Wah!</TalkAfter>
+			<Desc>Naga Terbang Changhai adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Baris baris,</TalkBefore>
+			<TalkAfter>, menggeram!</TalkAfter>
 		</Text>
 		<Text Name="LsPhoenix">
-			<DisplayName>Yi Ming</DisplayName>
-			<Desc>Yiming Swan adalah makhluk roh yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>Jip jip</TalkBefore>
-			<TalkAfter>Jib!</TalkAfter>
+			<DisplayName>Yiming</DisplayName>
+			<Desc>Phoenix Kegelapan Yiming adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Kicauan kicauan,</TalkBefore>
+			<TalkAfter>, kicauan!</TalkAfter>
 		</Text>
 	</List>
 </Texts>
