@@ -72,7 +72,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 晋升内门	Mendorong
 拆迁建筑时连续失误，差点弄伤自己，正感觉有点生气	Terus melakukan kesalahan saat menghancurkan bangunan dan hampir terluka; merasa marah karenanya
 凡俗之法	Hukum Duniawi
-修炼	Penanaman
+修炼	Kultivasi
 弟子遵命！	Ya, Guru!
 {0}正在发挥药效	{0}Obat mulai berlaku
 刚结束今天的筑基功课	Baru saja menyelesaikan pelatihan dasar hari ini
@@ -129,13 +129,13 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 新建选项节点	Buat Opsi Baru
 影响角色施展咒法的能力。	Mempengaruhi kemampuan karakter dalam merapal mantra.
 特效数据	Data Efek Khusus
-<font color=#D06508>[通灵]</font>\n	<warna font=#D06508>[Illuminate]</font>\n
+<font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Illuminate]</font>\n
 无法选择该物品	Tidak dapat memilih item ini.
 时年 {0:N0}岁	Usia {0:N0} tahun.
 [打开]\n防御及保护，开启后会自动反击发起攻击的敌人	[On]\nPertahanan dan perlindungan. Jika aktif maka akan membela musuh secara otomatis.
 入库	Toko
 请选择一具死去的身体	Pilih mayat.
-<font color=#D06508>[药物]</font>\n	<warna font=#D06508>[Medicine]</font>\n
+<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicine]</font>\n
 可生效{0}次	{0}\nKali
 参悟经验：{0}\n	XP Inspirasi:{0}\n
 编队	Antre
@@ -170,7 +170,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 救灾	Pemadam kebakaran
 满目凋敝	Dihancurkan
 不是内门弟子	Bukan murid batin.
-<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<warna font=#D06508>[Spiritual Artifact]</font>[color=#66FFFF]({0})[/color]\n
+<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Spiritual Artifact]</font>[color=#66FFFF]({0})[/color]\n
 解锁神国建筑:[{0}]\n	Bangunan Alam Ilahi yang Tidak Terkunci:[{0}]\n
 天气	Cuaca
 影响角色灵气最大值。	Mempengaruhi Max Qi karakter.
@@ -199,7 +199,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 身上已经携带了法宝胚胎{0},无法穿戴多个	Sudah diinkubasi{0}dan tidak bisa memakai barang yang sama.
 高	Tinggi
 【解锁隐秘·{0}】	[Unlock Mystery {0}]
-<font color=#D06508>[原材料]</font>\n{0}\n	<warna font=#D06508>[Raw Material]</font>\n{0}\n
+<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Raw Material]</font>\n{0}\n
 自身生长速度较慢，对周边环境产生较大的正面增益。	Tingkat pertumbuhan yang lambat; dampak positif sedang terhadap lingkungan sekitar.
 将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Bantu seorang kultivator mencapai kondisi Core Shaping. Pilih karakter dan alihkan ke[Train]melalui menu karakter. Saat pelatihan aktif, karakter akan fokus pada pengembangan diri untuk meningkatkan kondisinya.
 参悟经验：{0:F0}/{1:F0}	XP Inspirasi: {0:F0}/{1:F0}
@@ -319,7 +319,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 装备物品	Lengkapi Barang
 请教	Berkonsultasi
 查阅秘籍。	Lihat manual.
-<font color=#D06508>[激活进度]</font>\n	<warna font=#D06508>[Activation Progress]</font>\n
+<font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Activation Progress]</font>\n
 思绪：{0}/{1}	Pikiran:{0}/{1}
 \n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Kesetimbangan: {0:N0}\n(Seorang murid batin telah melatih Qi mereka sejauh mereka menyerap energi dari lingkungan sekitar dan tidak perlu lagi makan.)[/color]
 灵宠觉醒	Hewan Peliharaan Terbangun
@@ -632,7 +632,7 @@ ui状态异常，请关闭ui再次打开	Tidak dapat memuat UI. Silakan tutup da
 没有多余的个数	Tidak ada kelebihan.
 闻名遐迩	Terpandang
 加满一个神修的神民	Memaksimalkan Divine Resident milik seorang kultivator panteon.
-{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/秒）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<warna font=#D06508>[Item]</font>\nLingQi: {1:N0}（{5}{6:N2}/Detik）\nPengumpulan Qi:{4} {9}\nPemandangan:{0}\nTingkat:{3}\nKualitas:{2}{10}{8}{11}
+{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/秒）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Item]</font>\nLingQi: {1:N0}（{5}{6:N2}/Detik）\nPengumpulan Qi:{4} {9}\nPemandangan:{0}\nTingkat:{3}\nKualitas:{2}{10}{8}{11}
 地点	Lokasi
 位于炉灶之侧	dan Terletak di sebelah Kompor
 矿物	Mineral
@@ -706,7 +706,7 @@ RPG模式设置相关信息。	Pengaturan yang relevan dalam mode RPG.
 查看	Memeriksa
 季节变化	Pergantian Musim
 幽闭	Terbatas
-<font color=#D06508>[食用]</font>\n	<warna font=#D06508>[Eat]</font>\n
+<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Eat]</font>\n
 体修不能装备该物品	Pembudidaya fisik tidak dapat menggunakan item ini.
 自动选择:{0}	Pemilihan otomatis:{0}
 未开启金仙挑战	Tidak ada tantangan abadi
@@ -742,7 +742,7 @@ ApplyEffect! 激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTim
 收留	Menerima
 游戏中的资源采集，也通过命令下达的方式来完成。\n游戏中针对不同的资源拥有不同的命令。\n例如[开采]对应[矿石]，[砍伐]对应[树木]。	Pengumpulan sumber daya juga dilakukan dengan mengeluarkan perintah.\nSumber daya yang berbeda memiliki urutan yang berbeda.\nMisalnya,[Mine]adalah untuk[Ores], Dan[Chop]adalah untuk[Trees].
 {0}放下一本秘籍:《{1}》	{0}letakkan manual:{1}
-击败模式	Modus kekalahan
+击败模式	Modus Mengalahkan
 无法选择该秘籍	Tidak dapat memilih manual ini.
 更新用户存档	Perbarui Simpanan Pengguna
 我们完成了{0}的任务，他们的长老表示感谢，并欠了我们人情。\n获得了{0}的{1}点人情，以及{2}点好感度。	Kami menyelesaikan tugas untuk{0}. Orang yang lebih tua mengungkapkan rasa terima kasihnya dan menjadi lebih terhubung dengan kami.\nDiperoleh{1}koneksi dan{2}mendukung dengan{0}
@@ -801,7 +801,7 @@ ApplyEffect! 激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTim
 前置条件：{0}\n	Prasyarat:{0}\n
 丢下这个物品吗？	Apakah Anda ingin membuang item ini?
 请选择要吞噬的道具	Pilih item untuk dimakan.
-<font color=#D06508>[秘籍·{0}]</font>\n	<warna font=#D06508>[Secret Manual - {0}]</font>\n
+<font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Secret Manual - {0}]</font>\n
 未选择金仙挑战	Tantangan abadi tidak bisa dipilih
 秘宝	Harta karun
 难度配置已导出至{0}	Konfigurasi Kesulitan Diekspor ke{0}
@@ -959,7 +959,7 @@ CloudSave->压缩完成:{0}	CloudSave->Kompresi Selesai:{0}
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Kami sangat menyesal tetapi permainan Anda gagal disimpan.\nAnda mungkin ingin marah dan menyalahkan kami para pengembang saat ini, dan kami memahami Anda karena hal ini seharusnya tidak terjadi.\nMaaf! Silakan coba simpan lagi atau muat simpanan lama.\nJika Anda memerlukan bantuan atau ingin melaporkan masalah, silakan hubungi kami di QA@GSQStudio.com.
 蓝布	Kain Biru
 阵枢：	Pilar:
-消耗	Bahan habis pakai
+消耗	Konsumsi
 采取处世手段解决问题，某些时候可以收获吸引力或影响值。	Menggunakan keterampilan sosial untuk memecahkan masalah terkadang dapat memperoleh daya tarik atau pengaruh.
 无需	Tidak ada
 确认领取仓库所有储存？\n{0}	Apakah Anda ingin mengklaim semua item di penyimpanan?\n{0}
@@ -1000,7 +1000,7 @@ CloudSave->压缩完成:{0}	CloudSave->Kompresi Selesai:{0}
 [color=#008800](正常)[/color]	[color=#008800](Normal)[/color]
 当前存档有更新的进度，是否仍然选择当前进度进行游戏？	Penyimpanan saat ini memiliki kemajuan yang lebih baru. Apakah Anda masih ingin melanjutkan kemajuan saat ini?
 使用者目前并未登入 Steam	Pengguna tidak masuk ke Steam.
-<font color=#D06508>[法宝]</font>\n	<warna font=#D06508>[Artifact]</font>\n
+<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artifact]</font>\n
 [旁门心得]	[Unorthodox Manual]
 神秘	Misteri
 正在同步	Sinkronisasi
@@ -1078,7 +1078,7 @@ CloudSave->压缩完成:{0}	CloudSave->Kompresi Selesai:{0}
 [color=#FF0000]无阵枢[/color]	[color=#FF0000]Tidak ada Pilar[/color]
 在太极天道的影响下，本次随机的范围变得更广了	Di bawah pengaruh Tai Ji Heavenly Dao, jangkauan kejadian acak ini telah meluas
 文中含有特殊字符，请斟酌后重书。	Teks berisi karakter khusus, harap tulis ulang sesuai kebijaksanaan Anda.
-<font color=#D06508>[秘宝]</font>\n	<warna font=#D06508>[Legacy Artifact]</font>\n
+<font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Legacy Artifact]</font>\n
 正在复制第{0}个文件\n{1}	Salin berkas{1}TIDAK.{0}
 只有术法登峰造极之时才能凝练出术法元灵,指定元灵的术法会在战斗时自动释放	Jiwa Primordial hanya dapat tercipta ketika kekuatan mantra seseorang mencapai level tertinggi. Mantra pemilihan Jiwa Primordial akan dilepaskan secara otomatis selama pertempuran.
 [color=#FF0000]模组商店获取失败[/color]	[color=#FF0000]Gagal[/color]
@@ -1114,7 +1114,7 @@ CloudSave->开始拉取云存档:{0}	CloudSave->Mulai Mengambil Cloud Save:{0}
 获得成功{0}({1:N0})次（炼丹，炼器，突破，击败相同或更高境界的敌人）	Berhasil{0}({1:N0}) kali (Selama alkimia, pembuatan artefak, terobosan, dan pertempuran melawan musuh dalam kondisi yang sama atau lebih tinggi)
 最近	Terkini
 练习术法	Latihan Mantra
-<font color=#D06508>[地区属性]</font>\n	<warna font=#D06508>[Area Stats]</font>\n
+<font color=#D06508>[地区属性]</font>\n	<font color=#D06508>[Area Stats]</font>\n
 身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Kekuatan Fisik: kekuatan menyeluruh tubuh seorang kultivator fisik, yang menentukan kemampuan menahan kerusakan.
 秘闻	Rahasia
 讲道	Berikan Ceramah
@@ -1190,7 +1190,7 @@ CloudSave->开始拉取云存档:{0}	CloudSave->Mulai Mengambil Cloud Save:{0}
 异变消散	Mutasi menghilang
 观礼	Menghadiri Upacara
 地形	Medan
-装备	Gigi
+装备	Perlengkapan
 存档并进入	Simpan dan masuk
 [color=#880000](未激活)[/color]	[color=#880000](Tidak aktif)[/color]
 拆除这个建筑。	Hancurkan struktur ini.
@@ -1292,7 +1292,7 @@ PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak da
 {0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nDapat ditingkatkan melalui olahraga. Semakin tinggi nutrisinya{0}, semakin cepat dapat ditingkatkan.
 将这个物品给与一个角色，角色会自动前来食用。	Berikan item ini ke karakter. Karakter secara otomatis akan mengambil dan memakannya.
 装备或者拾取一个物品	Lengkapi atau ambil item.
-<font color=#D06508>[丹药]</font>\n	<warna font=#D06508>[Elixir]</font>\n
+<font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Elixir]</font>\n
 突破地点的五行属性与功法的匹配度对突破成功率的影响。	Kesesuaian unsur lokasi dengan Undang-undang mempengaruhi tingkat keberhasilan terobosan.
 数量	Nomor
 矿石植被	Bijih & Tanaman
@@ -1430,7 +1430,7 @@ CloudSave->开始压缩:{0}	CloudSave->Mulai Kompresi:{0}
 需拜山该门派，与之建立联系才可使用。	Anda perlu mengunjungi sekte ini terlebih dahulu sebelum berdagang.
 {1}习得秘籍：《{0}》	{1}Panduan yang dipelajari:{0}
 秋	Musim gugur
-奇物	Harta Karun yang Tak Disengaja
+奇物	Harta Keberuntungan
 请选择一个道具	Pilih sebuah item.
 一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Karena Feng Shui yang buruk, kejadian aneh sering terjadi di sebuah rumah besar yang jauh di dalam pegunungan. Coba tingkatkan Feng Shui keempat ruangan tersebut.\nKlik pada ruang kosong di sebuah ruangan untuk memilihnya.
 (等待建造材料)	(Menunggu Materi)
@@ -1516,7 +1516,7 @@ defName=>{0} 地图中随机受伤的npc名字=>{1} {2}	namadef=>{0}nama NPC yan
 取消材料更换	Batalkan penggantian material
 影响制药速度，治疗外门伤的疗效等	Mempengaruhi kecepatan pembuatan obat dan efektivitasnya dalam mengobati luka fisik.
 极热	Panas sekali
-\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<warna font=#D06508>[Policy Cost Each Day]</font>
+\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<font color=#D06508>[Policy Cost Each Day]</font>
 危机四伏	Berbahaya
 选择代理人	Pilih agen
 获取角色失败	Menerima Gagal
@@ -1638,7 +1638,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 {0}瓶颈突破成功	{0}Terobosan itu berhasil
 远离床第蒲团	dan Jauh dari Bantal atau Tempat Tidur
 前往其他地方进行历练	Pergi dan bertualang di tempat lain.
-<font color=#D06508>[法宝·信仰圣物]</font>\n	<warna font=#D06508>[Artifact: Sacred Relic]</font>\n
+<font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artifact: Sacred Relic]</font>\n
 走走走	Pergi pergi pergi
 蓝图中存在失落之物!	Item yang hilang dalam cetak biru!
 脚本名字不能为空	Nama Skrip tidak boleh kosong.
@@ -1756,7 +1756,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 确定要取消[{0}]吗？	Apakah Anda yakin ingin membatalkan[{0}]?
 灵物	Peninggalan Roh
 [人形态]\n变身成人形态	[Human]\nBeralih ke bentuk manusia
-披风	Mantel
+披风	Jubah
 长柄武器	Senjata Panjang
 出现了错误的数据:BMGetDataID={0},但没有找到对应的数据	Terjadi Kesalahan: Data dengan BMGetDataID={0}tidak ditemukan
 锻炼-{0}	Latihan -{0}
@@ -2068,9 +2068,9 @@ defName=>{0} {1}_effect.sParam1 配置为空,应该配置物品类型！	namadef
 未找到丹气常量配置	Tidak ditemukan konfigurasi konstan untuk qi alkimia
 打开右下角的门派面板，建立自己的门派。	Buka menu Sekte di pojok kanan bawah dan buat sekte Anda sendiri.
 该弟子已有研习任务\n	Murid ini sudah mempunyai tugas belajar.\n
-[{2}]\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	[{2}]\nNegara yang Diperlukan:{3}{4}\n<warna font=#CCFF66>{0}</font>\n{1}
+[{2}]\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	[{2}]\nNegara yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
 此人灵魂特殊，无法拷问。	Jiwa orang ini terlalu istimewa untuk diinterogasi.
-<font color=#80D5FF>[精品]</font>	<warna font=#80D5FF>[Exquisite]</font>
+<font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Exquisite]</font>
 请选择一个玄牝珠	Pilih Mutiara Jiwa.
 灭火失败	Gagal memadamkan api.
 存档时间	Hemat Waktu
@@ -2170,7 +2170,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 指定天气	Pilih Cuaca
 {0}\n从{1}前往{2}	{0}\nDari{1}ke{2}
 全扩展包首购福利将在购买任意扩展包后失效，是否继续购买？	Manfaat pembelian pertama untuk paket ekspansi penuh akan dibatalkan setelah membeli paket ekspansi apa pun. Apakah Anda ingin melanjutkan pembelian?
-<font color=#D06508>[装备]</font>\n	<warna font=#D06508>[Gear]</font>\n
+<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Gear]</font>\n
 解锁神通:[{0}]\n	Buka Keajaiban:[{0}]\n
 新效果	Efek Baru
 功法:{0}	Hukum:{0}
@@ -2200,7 +2200,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 最大灵气:{0}	Qi Maks:{0}
 教	Domain
 {0}无法使用{1}	{0}tidak dapat digunakan{1}.
-<font color=#D06508>[通灵镇物]{0}</font>\n	<warna font=#D06508>[Spirit Relic]{0}</font>\n
+<font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Spirit Relic]{0}</font>\n
 裤子	Celana
 分配100灵石	Berikan 100 Batu Roh
 组名	Nama Tim
@@ -2262,7 +2262,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 以1000倍于白元法的灵气绘制本命真符，符咒效果提高3倍。	Gunakan 1000x Qi yang digunakan dalam Teknik Asal Putih untuk menggambar Jimat Natal, meningkatkan efek jimat sebesar 300%.
 购买失败,如果您已经完成了支付,请稍等后再次点击购买尝试补发。	Pembelian gagal. Jika Anda sudah menyelesaikan pembayaran, harap tunggu sebentar dan coba klik lagi tombol beli untuk mencoba menerbitkan kembali pembelian.
 欲慧中求空，必须达圆满境后，在心斋之下保持心境500，且心绪低于10，持续{0:N1}天。	Untuk mencari pikiran yang 'kosong', pertahankan kondisi mental pada 500 dan tekanan lebih rendah dari 10 selama puasa pikiran setelah mencapai Kondisi Pencapaian selama {0:N1} hari.
-<font color=#D06508>[内丹]</font>\n	<warna font=#D06508>[Internal Core]</font>\n
+<font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Internal Core]</font>\n
 灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会将信仰转化为灵气\n当前信仰：{2:F0}	Qi: {0:N0}/{1:N0}\nQi adalah sumber daya dasar yang digunakan untuk tindakan budidaya.\nKarakter akan mengubah keyakinan menjadi Qi.\nKeyakinan Saat Ini: {2:F0}
 (等待被移动)	(Bergerak)
 种植区 ({0}格)	Luas Penanaman ({0}Ruang angkasa)
@@ -2392,7 +2392,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 可分配点数不足	Poin tidak cukup
 一个特性	Satu Sifat
 江湖秘闻	Rahasia Duniawi
-妖兽	raksasa
+妖兽	Raksasa
 未下载	Tidak mengunduh
 [align=center](淬体法)[	[align=center](Cetakan ulang)[
 \n前置条件：{0}	\nPrasyarat:{0}
@@ -2433,7 +2433,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 欲圣中求慧，必须保持心境400，持续{0:N1}天。角色悟性越高，需要持续的时间越短。	Untuk mencari pikiran yang 'bijaksana', pertahankan kondisi mental pada 400 selama {0:N1} hari. Semakin besar kecerdasan karakter maka semakin cepat pula mencapai kondisi mental tersebut.
 夏意	Musim panas
 传授	Mengajar
-{2}\n\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	{2}\n\nNegara yang Diperlukan:{3}{4}\n<warna font=#CCFF66>{0}</font>\n{1}
+{2}\n\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	{2}\n\nNegara yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
 符咒	Jimat
 检测到有商品未能成功发货,现已进行补发:{0}\n谢谢大爷!	Terdeteksi bahwa beberapa item gagal terkirim, kini telah dikirim ulang:{0}\nTerima kasih!
 {0}代理点	{0}Titik Proksi
@@ -2791,7 +2791,7 @@ CloudSave->开始删除云存档:{0}	CloudSave->Mulai Menghapus Cloud Save:{0}
 处在瓶颈状态不突破累积{0}({1:N0})秒	Tetap dalam kondisi terobosan tanpa melakukan terobosan{0}({1:N0}) detik
 {0} 搬运中\n	{0}sedang diangkut\n
 \n[color=#B65704]耗时较长[/color]	\n[color=#B65704]Lama banget[/color]
-<font color=#D06508>[仓库含有]</font>	<warna font=#D06508>[Storage]</font>
+<font color=#D06508>[仓库含有]</font>	<font color=#D06508>[Storage]</font>
 补丁版本提升	Versi Patch Diperbarui
 目标阵营	Fraksi Sasaran
 辩论，或是做坏事。	Debat atau lelucon.
@@ -2844,7 +2844,7 @@ CloudSave->拉取到的云存档信息:Filename:{0} Description:{1} TotalTimePla
 一窝孕育中的	Memelihara
 所有可见目标	Target yang Terlihat
 尚有未结束的战斗	Pertempuran yang belum selesai
-<font color=#00FF00>[仅{0}可装备]</font>\n	<warna font=#00FF00>[Only to be equipped by {0}]</font>\n
+<font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Only to be equipped by {0}]</font>\n
 路径为:{0}的save文件.无法解密,可能因为文件已损坏	Simpan file di jalur:{0}tidak dapat didekripsi, kemungkinan karena file rusak
 角色身体的强度，影响角色的寿命，抗寒抗热，以及与体力相关的效率等属性。	Konstitusi (CON): Kekuatan tubuh karakter. Mempengaruhi umur karakter, ketahanan terhadap dingin dan panas, serta efisiensi dalam pekerjaan fisik.
 静	Tenang
@@ -2912,7 +2912,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 正在发愁今天做什么东西吃	Merenungkan tentang apa yang harus dimasak hari ini
 跟随此目标	Ikuti taget ini
 练习护体许久，正累的气喘吁吁	Telah melatih perlindungan sejak lama; terengah-engah
-\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<warna font=#D06508>[Spiritual Plant]</font>\n{9}: {10:N2}%\nKecenderungan Memberkati:{8}{0:N2}/hari\nMembina:{1}\nCuaca:{2}\nMusim:{3}\nLima Elemen:{4}\nSimpati:{5}\n\nStatus:{6}\n　{7}\n
+\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Spiritual Plant]</font>\n{9}: {10:N2}%\nKecenderungan Memberkati:{8}{0:N2}/hari\nMembina:{1}\nCuaca:{2}\nMusim:{3}\nLima Elemen:{4}\nSimpati:{5}\n\nStatus:{6}\n　{7}\n
 已经领取过该奖励	Anda telah mengklaim hadiah ini
 影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Mempengaruhi kecepatan pembuatan Pecahan Pikiran. Semakin banyak kondisi terpenuhi, semakin cepat kondisi tersebut dihasilkan.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
 暂未发生任何行为。	Sejauh ini belum ada tindakan yang dilakukan.
@@ -3033,7 +3033,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 英	Tangan
 刚完成锻造，准备熄灭炉火收工	Selesai penempaan; akan mematikan tungku dan berhenti menempa
 无法选择该精华	Tidak dapat memilih esensi ini
-<font color=#D06508>[傀 儡]</font>\n	<warna font=#D06508>[Puppet]</font>\n
+<font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Puppet]</font>\n
 {0} 在虚空历练时，巧遇应天台凝结灵气，与 {1} 一番争斗以后，{0} 略胜一筹，夺得了灵石。	{0}sedang berlatih dalam kehampaan dan menemui Heaven Echo Altar yang mengkristal, bertarung dengannya{1} . {0}meraih kemenangan dan memenangkan batu roh.
 影响战斗能力。	Mempengaruhi kecakapan tempur.
 正专心工作	Berkonsentrasi pada pekerjaan
@@ -3074,7 +3074,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 将一个对象的品质降阶	Mengurangi kualitas target.
 只有上古大能才能挑战金仙模式。	Hanya para penggarap kuno yang dapat bertahan menghadapi tantangan dalam Mode Abadi.
 正在乐呵呵的制药中	Dengan senang hati membuat obat
-<font color=#D06508>[建 筑]</font>	<warna font=#D06508>[Buildings]</font>
+<font color=#D06508>[建 筑]</font>	<font color=#D06508>[Buildings]</font>
 {0}后开始腐朽	mulai membusuk{0}.
 账户名称:{0}	Nama Akun:{0}
 {0}加成：{1}\n	{0}: {1}\n
@@ -3151,7 +3151,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 风水:	Feng Shui:
 插入语第三人称物主代词（他的/她的）	Pilih kata ganti orang ketiga posesif (nya).
 我方价值高于对方，是否要继续交易？	Harga kami lebih tinggi. Apakah Anda ingin melanjutkan perdagangan?
-<font color=#B65704>主材料:\n</font>	<warna font=#B65704>Bahan Utama:\n</font>
+<font color=#B65704>主材料:\n</font>	<font color=#B65704>Bahan Utama:\n</font>
 全关	Semua mati
 绝学	Pengetahuan Rahasia
 存档中...	Penghematan...
@@ -3773,7 +3773,7 @@ PayMgr-> 购买ID为{0}的商品成功	PayMgr-> 购买ID为{0}的商品成功
 游戏 暂停/继续\n[keycode]GamePauseOrPlay[/keycode]	Jeda/Mainkan Game\n[keycode]GamePauseOrPlay[/keycode]
 {0:N0}阶]	{0:N0}
 中立角色	Karakter Netural
-<font color=#00FF00>[绑定：{0}]</font>\n	<warna font=#00FF00>[Soulbound: {0}]</font>\n
+<font color=#00FF00>[绑定：{0}]</font>\n	<font color=#00FF00>[Soulbound: {0}]</font>\n
 姓	Nama belakang
 吃东西呛了自己一口，正大声咳嗽	Tersedak sesuatu; batuk dengan keras
 CloudSave->开始打开存档:{0}	CloudSave->Mulai Membuka Simpan:{0}
@@ -3935,7 +3935,7 @@ defName=>{0} {1} 该物品未找到，请重新检查配置！	namadef=>{0} {1}i
 在练习护体间余，刚小憩片刻	Melakukan pelatihan perlindungan; sedang istirahat
 刚砍完柴，正在擦汗	Baru saja selesai membelah kayu bakar; menyeka keringat
 游戏存档	Penyimpanan permainan
-<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<warna font=#D06508>[Plant]</font>\nTingkat Pertumbuhan: {0:N1}%
+<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[Plant]</font>\nTingkat Pertumbuhan: {0:N1}%
 听说了一个秘闻，也不知真假	Mendengar rahasia baru, yang mungkin benar atau mungkin tidak.
 编辑地图及生成地图中的物品。	Edit peta dan hasilkan item di peta.
 参悟值：{0:N0}	Nilai Inspirasi: {0:N0}
@@ -4003,7 +4003,7 @@ Tag:{0} 程度{1} MinLevel:{2} MaxLevel:{3} 未找到任何满足条件的效果
 鉴定镇物	Identifikasi Relik
 突破时的天气对突破成功率的影响。	Cuaca mempengaruhi tingkat keberhasilan terobosan.
 食用12阶的物品累积{0}({1:N0})次	Makan{0}({1:N0}) Item tingkat 12
-木料	Kayu
+木料	Papan Kayu
 在这个建筑上撰写内容。	Tulis konten apa pun pada struktur ini.
 成功得到{0}的行踪：{1}。	Berhasil dilacak{0}: {1}.
 花布	Kain Bermotif
