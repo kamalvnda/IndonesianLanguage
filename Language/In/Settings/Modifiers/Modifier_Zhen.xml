@@ -1,50 +1,50 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Zhen_XianTianMuLing">
-			<DisplayName>Wilayah inti flora</DisplayName>
-			<Desc>Merangsang potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
+			<DisplayName>Domain Esensi Kayu</DisplayName>
+			<Desc>Mengaktifkan potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
 		</Text>
 		<Text Name="Zhen_ZTLYQLSJ">
-			<DisplayName>Wilayah surgawi yang teduh</DisplayName>
-			<Desc>Tingkatkan kondisi emosi, kondisi mental, dan kecepatan kultivasi Anda.</Desc>
+			<DisplayName>Domain Ketenangan Surgawi</DisplayName>
+			<Desc>Meningkatkan Suasana Hati, Keadaan Mental dan Kecepatan Kultivasi.</Desc>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower1">
-			<DisplayName>Beban kamp rendah.</DisplayName>
+			<DisplayName>Beban Formasi Kecil</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower2">
-			<DisplayName>Beban kampnya sedang.</DisplayName>
+			<DisplayName>Beban Formasi Sedang</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower3">
-			<DisplayName>Beban kamp mekanik tinggi.</DisplayName>
+			<DisplayName>Beban Formasi Besar</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower4">
-			<DisplayName>Kamp Mekanik Tingkat Lanjut</DisplayName>
+			<DisplayName>Formasi Tingkat Lanjut</DisplayName>
 		</Text>
 		<Text Name="Zhen_FashuhejiEffect">
-			<DisplayName>Serangan Mantra Gabungan</DisplayName>
-			<Desc>Pengecoran qi ajaib berikutnya akan mengumpulkan qi ajaib semua orang dalam formasi.</Desc>
+			<DisplayName>Serangan Mantra Bersama</DisplayName>
+			<Desc>Ucapkan mantra berikutnya dengan menggabungkan kekuatan semua orang dalam Formasi.</Desc>
 		</Text>
 		<Text Name="Zhen_LinkEffect">
-			<DisplayName>mendirikan kamp strategis</DisplayName>
+			<DisplayName>Formasi Bentuk</DisplayName>
 		</Text>
 		<Text Name="Zhen_LinkEffectCore">
-			<DisplayName>inti utama</DisplayName>
+			<DisplayName>pil</DisplayName>
 		</Text>
 		<Text Name="Zhen_RevealEffect">
-			<DisplayName>Mengungkap sub-inti</DisplayName>
-			<Desc>Saat ini, lokasi sub-inti terungkap. Serangan menghasilkan kerusakan tambahan. Namun, hal itu bisa disembunyikan dengan mengubah formasi formasi.</Desc>
+			<DisplayName>Pembantu Terbuka</DisplayName>
+			<Desc>Alat bantu tersebut kini telah terekspos, serangan terhadapnya akan menimbulkan kerusakan ekstra. Itu bisa disembunyikan dengan mengubah formasi.</Desc>
 		</Text>
 		<Text Name="Zhen_CancelZhenRecover">
-			<DisplayName>Kembalikan formasi</DisplayName>
-			<Desc>Kamp sudah mulai pulih.</Desc>
+			<DisplayName>Kembalikan Formasi</DisplayName>
+			<Desc>Formasi sedang dalam pemulihan.</Desc>
 		</Text>
 		<Text Name="Zhen_ChangeEffect">
-			<DisplayName>Ubah perusahaan</DisplayName>
-			<Desc>Inti telah diubah untuk sementara. Namun perubahan akan kembali ke aslinya setelah jangka waktu tertentu.</Desc>
+			<DisplayName>Ubah Formasi</DisplayName>
+			<Desc>Pilar tersebut telah diubah untuk sementara tetapi perubahan tersebut akan dikembalikan setelah beberapa saat.</Desc>
 		</Text>
 		<Text Name="BDPW_Lock">
-			<DisplayName>tujuan</DisplayName>
-			<Desc>Tanda itu dihancurkan oleh pertempuran.</Desc>
+			<DisplayName>Ditandai</DisplayName>
+			<Desc>Ditandai dengan Battle Aloofness.</Desc>
 		</Text>
 	</List>
 </Texts>
