@@ -1,70 +1,70 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Tower_Enemy_achai">
-			<DisplayName>Ah Chai berubah</DisplayName>
+			<DisplayName>Pergeseran Bentuk Shiba</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Cat">
-			<DisplayName>Posisi Wilar</DisplayName>
+			<DisplayName>Temukan kucing</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Xian">
-			<DisplayName>Qi yang kental</DisplayName>
+			<DisplayName>Gaya Kondensasi</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Ti">
-			<DisplayName>Qi yang kental</DisplayName>
+			<DisplayName>Kekuatan Kondensasi</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Yao">
-			<DisplayName>Qi yang kental</DisplayName>
+			<DisplayName>Kekuatan Kondensasi</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Root">
-			<DisplayName>Qi yang kental</DisplayName>
+			<DisplayName>Kekuatan Kondensasi</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Part">
-			<DisplayName>Qi yang kental</DisplayName>
+			<DisplayName>Kekuatan Kondensasi</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiQi">
-			<DisplayName>Air pasang naik</DisplayName>
+			<DisplayName>Gelombang Pasang</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXi0">
-			<DisplayName>arus tenang</DisplayName>
+			<DisplayName>Pasang Datar</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiLuo">
-			<DisplayName>air surut</DisplayName>
+			<DisplayName>Gelombang Jatuh</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongOur">
-			<DisplayName>bobrok</DisplayName>
+			<DisplayName>Kebobrokan</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongEnm">
-			<DisplayName>makmur</DisplayName>
+			<DisplayName>Kemakmuran</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_WuZhi">
-			<DisplayName>sangkar kebenaran</DisplayName>
+			<DisplayName>Sangkar Kebenaran</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian0">
-			<DisplayName>percaya iman</DisplayName>
+			<DisplayName>Keyakinan Iman</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian1">
-			<DisplayName>Perkuat iman</DisplayName>
+			<DisplayName>Meningkatkan Iman</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown1">
-			<DisplayName>Alam Segel Ilahi</DisplayName>
+			<DisplayName>Pengakuan Iman yang Perkasa</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown2">
-			<DisplayName>Alam Segel Setan</DisplayName>
+			<DisplayName>Ancaman Perkasa</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown3">
-			<DisplayName>Mohon Dan</DisplayName>
+			<DisplayName>Tanah Lembut</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown4">
 			<DisplayName>Larangan Raja</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown5">
-			<DisplayName>menahan pikiran</DisplayName>
+			<DisplayName>Teror Pikiran</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown6">
-			<DisplayName>nafas keserakahan</DisplayName>
+			<DisplayName>Nafas Keserakahan</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown7">
-			<DisplayName>Botol terlarang</DisplayName>
+			<DisplayName>Botol Dilarang</DisplayName>
 		</Text>
 	</List>
 </Texts>
