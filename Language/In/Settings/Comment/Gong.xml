@@ -2,19 +2,22 @@
 	<List>
 		<Text Name="GongDengXian">
 			<Title>Teknik Tingkat Surga</Title>
-			<Desc>Jenis teknik kultivasi ini akan membawa Anda langsung ke Jalan Suci. Ini memberi Anda kesempatan untuk menjadi seorang ahli.</Desc>
+			<Desc>Jenis teknik kultivasi ini akan membawa Anda langsung ke Jalan keabadian. Ini memberi Anda kesempatan untuk Mencapai Ranah Ilahi Abadi.</Desc>
 		</Text>
 		<Text Name="GongYuanShen">
-			<Title>Teknik Tingkat Roh Kejadian</Title>
-			<Desc>Jenis teknik budidaya ini akan memungkinkan Anda memasuki Alam Roh Primordial.</Desc>
+			<Title>Teknik Tingkat Roh Sejati</Title>
+			<Desc>Jenis teknik kultivasi ini akan memungkinkan Anda memasuki Ranah Roh Primordial.</Desc>
 		</Text>
 		<Text Name="GongJinDan">
-			<Title>Mata pelajaran tingkat inti emas</Title>
-			<Desc>Jenis teknik budidaya ini akan memberi Anda kesempatan untuk memasuki Alam Inti Emas.</Desc>
+			<Title>Teknik tingkat Golden Core</Title>
+			<Desc>teknik kultivasi ini akan memberi Anda kesempatan untuk memasuki Ranah Inti Emas.</Desc>
 		</Text>
 		<Text Name="GongFanSu">
-			<Title>Mata pelajaran tingkat bumi</Title>
-			<Desc>Teknik budidaya jenis ini hanyalah teknik umum. Itu bahkan tidak akan membantu Anda memasuki Alam Formasi Inti Yang Mendalam.</Desc>
+			<Title>Teknik Kultivasi Duniawi</Title>
+			<Desc>Teknik biasa yang hanya milik manusia. Itu bahkan tidak akan membantu Anda memasuki Ranah Formasi Inti.</Desc>
 		</Text>
+	</List>
+</Texts>
+Text>
 	</List>
 </Texts>
