@@ -56,7 +56,7 @@
 			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
 		</Text>
 		<Text Name="WaterTemple">
-			<DisplayName>Wat Phra Sumen</DisplayName>
+			<DisplayName>Kuil Sumeru</DisplayName>
 			<Desc>"Kuil ini ibarat sebuah kapal yang meskipun berguncang, namun terasa aman dan tenteram. Mau tak mau aku bertanya-tanya apakah kuil ini benar-benar sebuah kapal yang terapung di tengah lautan." Menurut 'Catatan Enam Jalan'</Desc>
 			<Effect>Stabilitas formasi meningkat sebesar 20%.</Effect>
 		</Text>
@@ -71,7 +71,7 @@
 			<Effect>Tingkat perolehan Iman atau Kebencian meningkat 2 kali lipat.</Effect>
 		</Text>
 		<Text Name="CityMansion">
-			<DisplayName>bangunan tempat tinggal</DisplayName>
+			<DisplayName>Bangunan tempat tinggal</DisplayName>
 			<Desc>Bangunan Tempat Tinggal: Tingkat pertumbuhan populasi di semua lokasi meningkat sebesar 100%. “Bangunan Penghuni Ini adalah jenis perumahan baru yang dapat dibangun hampir di mana saja dengan sumber daya yang minim. Namun dengan bertambahnya populasi, mungkin akan timbul masalah kelaparan juga.”</Desc>
 			<Effect>Laju pertumbuhan penduduk di seluruh lokasi meningkat sebesar 100%.</Effect>
 		</Text>
