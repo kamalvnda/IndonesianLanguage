@@ -1,68 +1,68 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="WorkPlace" sParam="Building">
-			<ThingName>Titik penemuan</ThingName>
-			<Desc>Tidak perlu menggunakan bahan apa pun. Gunakan saja sebagai ruang untuk membuat peralatan sederhana.</Desc>
+			<ThingName>Tempat Kerja</ThingName>
+			<Desc>Tidak memerlukan bahan apa pun, cukup sebidang tanah untuk membuat alat sederhana.</Desc>
 		</Text>
 		<Text Name="MaterialWorkPlace" sParam="Building">
-			<ThingName>Titik pemrosesan bahan baku</ThingName>
-			<Desc>Tidak perlu menggunakan bahan apa pun. Gunakan saja sebagai ruang untuk mengolah material sederhana.</Desc>
+			<ThingName>Tempat Kerja Bahan</ThingName>
+			<Desc>Tidak memerlukan bahan apapun, cukup area di tanah untuk mengolah bahan sederhana.</Desc>
 		</Text>
 		<Text Name="Bonfire" sParam="Building">
-			<ThingName>api unggun</ThingName>
-			<Desc>Sumber api sederhana yang terbuat dari kayu. Ini dapat membawa cahaya dan panas ke area sekitarnya. Dapat digunakan untuk membuat makanan sederhana juga.</Desc>
+			<ThingName>Api unggun</ThingName>
+			<Desc>Sumber api sederhana yang dibangun dari kayu bakar yang dapat membawa cahaya dan panas ke sekitarnya. Bisa juga digunakan untuk memasak sederhana.</Desc>
 		</Text>
 		<Text Name="Kitchen" sParam="Building">
-			<ThingName>perapian</ThingName>
-			<Desc>Digunakan dalam memasak</Desc>
+			<ThingName>Kompor</ThingName>
+			<Desc>Tempat memasak makanan.</Desc>
 		</Text>
 		<Text Name="StoneMaker" sParam="Building">
-			<ThingName>pabrik batu</ThingName>
-			<Desc>Platform kerja yang digunakan untuk memoles balok batu menjadi batu bata.</Desc>
+			<ThingName>Bangunan batu</ThingName>
+			<Desc>Sebuah stasiun kerja yang digunakan untuk memoles balok batu menjadi batu bata.</Desc>
 		</Text>
 		<Text Name="WeaponMaker" sParam="Building">
-			<ThingName>Tempat penempaan</ThingName>
-			<Desc>Sebuah stasiun kerja yang digunakan untuk melebur batangan menjadi berbagai senjata.</Desc>
+			<ThingName>Menempa</ThingName>
+			<Desc>Stasiun kerja yang digunakan untuk menempa batangan logam menjadi senjata yang berbeda.</Desc>
 		</Text>
 		<Text Name="Furnace" sParam="Building">
-			<ThingName>Tungku peleburan</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk melebur bijih menjadi batangan.</Desc>
+			<ThingName>Perapian</ThingName>
+			<Desc>Stasiun kerja yang digunakan untuk melebur bijih menjadi batangan logam.</Desc>
 		</Text>
 		<Text Name="TextileTable" sParam="Building">
-			<ThingName>mesin tenun</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk menenun</Desc>
+			<ThingName>Mesin tenun</ThingName>
+			<Desc>Tempat kerja yang digunakan untuk membuat kain dengan cara menenun benang atau benang.</Desc>
 		</Text>
 		<Text Name="TailorTable" sParam="Building">
-			<ThingName>meja jahit</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk menjahit pakaian</Desc>
+			<ThingName>Meja Jahit</ThingName>
+			<Desc>Tempat kerja yang digunakan untuk membuat pakaian.</Desc>
 		</Text>
 		<Text Name="WoodShed" sParam="Building">
-			<ThingName>tempat penebangan kayu</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk mengolah berbagai jenis kayu. Dapat memfasilitasi pengolahan kayu yang efisien.</Desc>
+			<ThingName>Stasiun Kayu</ThingName>
+			<Desc>Tempat kerja yang digunakan untuk mengolah kayu menjadi Kayu. Ini dapat sangat memudahkan penggunaan kayu secara efisien.</Desc>
 		</Text>
 		<Text Name="MillStone" sParam="Building">
-			<ThingName>pabrik</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk menggiling biji-bijian menjadi tepung untuk disimpan. Ini dapat memfasilitasi pemrosesan biji-bijian yang efisien.</Desc>
+			<ThingName>Pabrik</ThingName>
+			<Desc>Stasiun kerja yang digunakan untuk menggiling biji-bijian menjadi bubuk untuk disimpan. Ini dapat memfasilitasi efisiensi penggunaan biji-bijian.</Desc>
 		</Text>
 		<Text Name="HandWorkTable" sParam="Building">
-			<ThingName>meja kerajinan</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk membuat barang dan peralatan umum.</Desc>
+			<ThingName>Stasiun Kerajinan</ThingName>
+			<Desc>Sebuah stasiun kerja yang digunakan untuk membuat barang-barang sederhana dengan tangan.</Desc>
 		</Text>
 		<Text Name="Well" sParam="Building">
-			<ThingName>kolam</ThingName>
-			<Desc>sumber air bersih Air sumur lebih higienis dibandingkan air sungai atau danau. Mengurangi kemungkinan menjadi pembawa penyakit.</Desc>
+			<ThingName>Dengan baik</ThingName>
+			<Desc>Sumber air. Air sumur lebih sehat dibandingkan air dari hutan belantara, sehingga kecil kemungkinannya untuk membawa penyakit.</Desc>
 		</Text>
 		<Text Name="MedicineTable" sParam="Building">
-			<ThingName>meja apotek</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk meramu ramuan penyembuh.</Desc>
+			<ThingName>Meja Obat</ThingName>
+			<Desc>Tempat kerja yang digunakan untuk membuat obat.</Desc>
 		</Text>
 		<Text Name="Building_YiTui" sParam="Building">
-			<ThingName>Tubuh kasar seorang master</ThingName>
-			<Desc>Tubuh kasar yang pinggangnya ditinggalkan oleh seorang guru yang telah naik ke surga.</Desc>
+			<ThingName>Tubuh Fana Abadi</ThingName>
+			<Desc>Tubuh bagian yang ditinggalkan oleh Ascended Immortals.</Desc>
 		</Text>
 		<Text Name="Building_YiTui1" sParam="Building">
-			<ThingName>Tubuh kasar seorang dewa</ThingName>
-			<Desc>Tubuh kasar yang pinggangnya ditinggalkan oleh dewa yang naik ke surga.</Desc>
+			<ThingName>Tubuh Dewa</ThingName>
+			<Desc>Tubuh sebagian yang ditinggalkan oleh Dewa Yang Terangkat.</Desc>
 		</Text>
 	</List>
 </Texts>
