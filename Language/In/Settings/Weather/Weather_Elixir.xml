@@ -1,132 +1,132 @@
-<Texts Type="Lainnya">
+<Texts Type="Other">
 	<List>
 		<Text Name="Weather_Elixir_Base">
-			<DisplayName>Obat Qi melonjak</DisplayName>
-			<StoryDesc>Obat Qi menyebar ke seluruh udara. Mendorong Qi langit dan bumi melonjak seperti sungai yang mengalir.</StoryDesc>
+			<DisplayName>Qi Alkimia Meluap</DisplayName>
+			<StoryDesc>Alkimia Qi meresap ke udara, membuat Lingqi lebih aktif.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Wu">
-			<DisplayName>Qi Primordial</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh udara. Mendorong Qi Langit dan Bumi melonjak seperti sungai yang mengalir.</StoryDesc>
+			<DisplayName>Qi Purba</DisplayName>
+			<StoryDesc>Alkimia Qi meresap ke udara, membuat Lingqi lebih aktif.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Jin">
-			<DisplayName>Golden Qi</DisplayName>
-			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah.</StoryDesc>
+			<DisplayName>Qi Logam</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Mu">
-			<DisplayName>QI Buah</DisplayName>
-			<StoryDesc>QI Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Kayu Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Shui">
-			<DisplayName>Varie Qi</DisplayName>
-			<StoryDesc>Qi Pengobatan menyebar ke seluruh area</StoryDesc>
+			<DisplayName>Qi Air</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Huo">
-			<DisplayName>Qi Api</DisplayName>
-			<StoryDesc>Qi Kedokteran menyebar ke seluruh area</StoryDesc>
+			<DisplayName>Api Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Tu">
-			<DisplayName>Sky Qi</DisplayName>
-			<StoryDesc>Qi Pengobatan menyebar ke seluruh area</StoryDesc>
+			<DisplayName>Qi Bumi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMu">
-			<DisplayName>Qi dari Lahan Kering</DisplayName>
-			<StoryDesc>Qi Kedokteran menyebar ke seluruh area.</StoryDesc>
+			<DisplayName>Qi yang melelahkan</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShui">
-			<DisplayName>Qi Halus</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+			<DisplayName>Gelombang Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuo">
-			<DisplayName>Qi Pemurnian</DisplayName>
-			<StoryDesc>Qi Obat tersebar ke seluruh wilayah</StoryDesc>
+			<DisplayName>Mencairnya Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinTu">
-			<DisplayName>Q Qi yang terakumulasi</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh wilayah</StoryDesc>
+			<DisplayName>Mengumpulkan Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShui">
-			<DisplayName>Qi Berlimpah</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+			<DisplayName>Mengembangbiakkan Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
-		<Text Name="Ramuan_MuHuo">
-			<DisplayName>QI Terik</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>Api Penuh Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuTu">
-			<DisplayName>Qi Penyegelan</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Menstabilkan Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuo">
-			<DisplayName>Qi Pemadaman</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Api Qi yang Memudar</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiTu">
-			<DisplayName>Qi Menembus</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+			<DisplayName>Qi yang meluap</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_HuoTu">
-			<DisplayName>Ash Qi</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+			<DisplayName>Ashenqi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
-		<Text Name="Ramuan_JinMuShui">
-			<DisplayName>Qi Obat yang Baru Lahir</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Semua Ruang</StoryDesc>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>Jia Kayu Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuHuo">
-			<DisplayName>Qi Buah tumbuh</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh wilayah</StoryDesc>
+			<DisplayName>Yi Kayu Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuTu">
-			<DisplayName>Qi Langit Bumi</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Buka Keabadian.</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiHuo">
-			<DisplayName>Qi Emas Murni</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+			<DisplayName>Xin Logam Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiTu">
-			<DisplayName>Qi Air Dalam</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh area</StoryDesc>
+			<DisplayName>Jalankan Qi Air</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuoTu">
-			<DisplayName>Qi Logam Kuat</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh area.</StoryDesc>
+			<DisplayName>Kui Logam Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiHuo">
-			<DisplayName>Fire Spark Qi</DisplayName>
-			<StoryDesc>Obat Qi Menyebar ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Bing Api Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiTu">
-			<DisplayName>Qi Air yang Sejuk dan Tenang</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Qi Air Gui</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuHuoTu">
-			<DisplayName>Qi Langit Kuat</DisplayName>
-			<StoryDesc>Qi Obat Menyebar Ke Mana Saja</StoryDesc>
+			<DisplayName>Wu Bumi Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuoTu">
-			<DisplayName>Menghancurkan Qi Matahari</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+			<DisplayName>Ding Api Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
-		<Text Name="Ramuan_NoJin">
-			<DisplayName>Qi Pemotongan Emas</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Ruang</StoryDesc>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>Logam Sever Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoMu">
-			<DisplayName>Qi Pemotongan Buah</DisplayName>
-			<StoryDesc>Qi Obat Menyebar ke Seluruh Angkasa</StoryDesc>
+			<DisplayName>Kayu Sever Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoShui">
-			<DisplayName>Qi Pemotongan Wari</DisplayName>
-			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah</StoryDesc>
+			<DisplayName>Air Sever Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoHuo">
-			<DisplayName>Qi Pemotongan Api</DisplayName>
-			<StoryDesc>Qi Pengobatan menyebar ke seluruh wilayah</StoryDesc>
+			<DisplayName>Api Sever Qi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoTu">
-			<DisplayName>Qi Pemotong Bumi</DisplayName>
-			<StoryDesc>Qi Obat menyebar ke seluruh wilayah.</StoryDesc>
+			<DisplayName>Qi Utara Bumi</DisplayName>
+			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 	</List>
 </Texts>
