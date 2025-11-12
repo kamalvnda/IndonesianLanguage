@@ -4,17 +4,17 @@
   "Name": "IndonesianLanguage",
   "DisplayName": "IndonesianLanguage",
   "GameVersion": 0.0,
-  "Version": "1.5",
-  "Desc": "MOD by.KamalMlvnd (Sub : Kimi),Memberbaiki Teks Yang Error,Kosa Kata Dll.",
+  "Version": "1.6",
+  "Desc": "MOD by.KamalMlvnd (Sub : Kimi) \nDIPERBARUHI!\n-Memperbaiki Teks Yang Error,Kosa Kata Dll.\nCatatan:\nJika MOD Tiba-Tiba Menjadi Tidak Terpasang Berarti Ada Update!\nLink :\nhttps://github.com/kamalvnda/IndonesianLanguage.git",
   "Author": "KamalMlvnd",
   "UIPackage": null,
   "ID": "1109189997",
   "Flag": 0,
   "Tags": null,
-  "IncreasedDesc": "Diperbaruhi! Versi 1.5",
+  "IncreasedDesc": "",
   "IsInsideCreat": false,
   "Previews": null,
   "Dependencies": null,
   "Url": "https://github.com/kamalvnda/indonesianlanguage",
-  "VersionValue": 105.0
+  "VersionValue": 106.0
 }
