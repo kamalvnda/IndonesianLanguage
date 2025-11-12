@@ -1,64 +1,64 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BornComa">
-			<DisplayName>Pingsan</DisplayName>
-			<Desc>kehilangan kesadaran</Desc>
+			<DisplayName>Tidak sadar</DisplayName>
+			<Desc>Telah kehilangan kesadaran.</Desc>
 		</Text>
 		<Text Name="FightPowerUp">
-			<DisplayName>meningkatkan kekuatan</DisplayName>
-			<Desc>Serangan dan pertahanan akan ditingkatkan secara default.</Desc>
+			<DisplayName>Peningkatan Kekuatan</DisplayName>
+			<Desc>Serangan dan Pertahanan meningkat secara mendasar.</Desc>
 		</Text>
 		<Text Name="FightPowerUp_DiMu">
-			<DisplayName>Berkat Dewi Bumi</DisplayName>
-			<Desc>Kemampuannya meningkat pesat di bawah pengaruh berkah Dewi Bumi.</Desc>
+			<DisplayName>Kutukan Ibu Bumi</DisplayName>
+			<Desc>Sangat meningkatkan kemampuan di bawah pengaruh Kutukan Ibu Pertiwi.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp">
-			<DisplayName>kekuatan air</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+			<DisplayName>Kekuatan Air</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp">
-			<DisplayName>kekuatan api</DisplayName>
-			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+			<DisplayName>Kekuatan Api</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp">
-			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp2">
-			<DisplayName>kekuatan air</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+			<DisplayName>Kekuatan Air</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp3">
-			<DisplayName>kekuatan air</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+			<DisplayName>Kekuatan Air</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp4">
-			<DisplayName>kekuatan air</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Air meningkat.</Desc>
+			<DisplayName>Kekuatan Air</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp2">
-			<DisplayName>kekuatan api</DisplayName>
-			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+			<DisplayName>Kekuatan Api</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp3">
-			<DisplayName>kekuatan api</DisplayName>
-			<Desc>Qi dan kekuatan serangan Vermillion Bird meningkat.</Desc>
+			<DisplayName>Kekuatan Api</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp2">
-			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp3">
-			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp4">
-			<DisplayName>Kekuatan Yin dan Yang</DisplayName>
-			<Desc>Qi dan kekuatan serangan Naga Lilin meningkat.</Desc>
+			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="Dan_LingTree">
-			<DisplayName>Qi Resonansi Tingkat Lanjut</DisplayName>
-			<Desc>Resonansi Qi antar tanaman lentera dapat meningkatkan laju regenerasi Qi.</Desc>
+			<DisplayName>Resonansi Qi Tingkat Lanjut</DisplayName>
+			<Desc>Beresonansi dengan Qi di sekitar Illumitree, dapat meningkatkan kecepatan Pemulihan Qi.</Desc>
 		</Text>
 	</List>
 </Texts>
