@@ -1,174 +1,174 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong13_Esoterica_Dan">
-			<DisplayName>Formula Pengobatan Pertempuran</DisplayName>
-			<Desc>Resep pil yang mencatat formula rahasia untuk menyempurnakan pil rahasia Sekte Wu Tung.</Desc>
-			<EffectDesc>Memperoleh rumus pil:\nPil pengganti Qi\nTiga pil inti</EffectDesc>
+			<DisplayName>Resep Pertempuran Elixir</DisplayName>
+			<Desc>Sebuah buku resep untuk meramu ramuan yang dirahasiakan oleh Sekte Wudang Nimbus.</Desc>
+			<EffectDesc>Dapatkan resep obat mujarab berikut:\nPil Puasa Qi\nPil Esensi Trimerous</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_Fabao1">
-			<DisplayName>Buku Pedang Sang Penakluk</DisplayName>
-			<Desc>Sebuah gulungan berharga yang berisi rahasia metode penempaan senjata Kaisar Dewa Perang.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Dapatkan metode untuk menempa senjata ajaib kuno:\nPedang Dewa Perang[/color][/size]</EffectDesc>
+			<DisplayName>Panduan Penaklukan</DisplayName>
+			<Desc>Sebuah buku berharga untuk membuat pedang Kaisar Prajurit Sempurna, sebuah manual yang dirahasiakan oleh Wudang.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode pembuatan Artefak Warisan:\nPedang Prajurit yang Disempurnakan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_Fabao2">
-			<DisplayName>Kitab Suci Tao Awan Ungu</DisplayName>
-			<Desc>Sebuah gulungan berharga yang menjelaskan rahasia metode pemurnian senjata ajaib Sekte Wu Tung.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Memperoleh metode untuk menyempurnakan senjata ajaib kuno:\nPurple Cloud Aura Stave.[/color][/size]</EffectDesc>
+			<DisplayName>Gulungan Awan Taos</DisplayName>
+			<Desc>Sebuah buku berharga untuk membuat Artefak Warisan sekte tersebut, sebuah manual yang dirahasiakan oleh Wudang.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan metode pembuatan Artefak Warisan:\nUkuran Awan Ungu[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_1">
-			<DisplayName>Hati yang Murni</DisplayName>
-			<Desc>Sebuah teknik yang menggunakan Yang Qi untuk meningkatkan kondisi mental seseorang dan meningkatkan efisiensi penyerapan Qi. Namun, hal itu akan membuat basis budidaya tidak stabil. Oleh karena itu, hal ini menurunkan rasa Qi dan jumlah Qi maksimum pada saat yang bersamaan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Tingkatkan kondisi mental Anda\nTingkatkan efisiensi penyerapan Qi\nKurangi tingkat indera Qi\nKurangi jumlah Qi maksimum[/color][/size]</EffectDesc>
+			<DisplayName>Tampilan Revitalisasi</DisplayName>
+			<Desc>Visualisasikan pemandangan naiknya Qi jernih. Meningkatkan Kondisi Mental dan Efisiensi Penyerapan Qi, tetapi mengganggu stabilitas fondasi dan menurunkan Max Qi dan Qi Sense.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kondisi Mental.\nMeningkatkan efisiensi Penyerapan Qi.\nMenurunkan Indera Qi.\nMenurunkan Maks Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_2">
-			<DisplayName>Qi Pengotor</DisplayName>
-			<Desc>Sebuah teknik yang menggunakan Yin Qi untuk meningkatkan level basis seseorang. Membuat sentuhan Qi dan jumlah Qi maksimum meningkat. Namun, ia kembali menurunkan kondisi mental dan efisiensi penyerapan Qi pada saat yang bersamaan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Menaikkan tingkat indra Qi\nMeningkatkan jumlah maksimum Qi\nMengurangi tingkat kondisi mental\nMengurangi efisiensi penyerapan Qi[/color][/size]</EffectDesc>
+			<DisplayName>Mantra Pengotor</DisplayName>
+			<Desc>Visualisasikan adegan kondensasi Qi yang tidak bersih. Meningkatkan fondasi, meningkatkan Max Qi dan Qi Sense, tetapi mempengaruhi Kondisi Mental dan menurunkan Efisiensi Penyerapan Qi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Indera Qi.\nMeningkatkan Qi Maks.\nMenurunkan Kondisi Mental.\nMenurunkan Efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_3">
-			<DisplayName>Buka pikiran Anda dan lihat diri Anda sendiri</DisplayName>
-			<Desc>Mata pelajaran yang menggunakan keseimbangan yin dan yang untuk meningkatkan potensi seseorang. Hal ini menyebabkan lima statistik dasar meningkat secara signifikan dan memperluas lautan dalam kepemilikannya.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan masing-masing dari lima statistik dasar. 30%.\nMeningkatkan potensi secara signifikan\nMeningkatkan luas maksimum Laut Dalam secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Evolusi Lanskap</DisplayName>
+			<Desc>Visualisasikan pemandangan Qi yang jernih dan tidak bersih. Mengubah bakat, meningkatkan Potensi, Lima Atribut, dan Batas Kuali Batin secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Lima Atribut sebesar 30%.\nMeningkatkan Potensi secara signifikan.\nMeningkatkan Batas Kuali Dalam secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_4">
-			<DisplayName>Mantra cahaya matahari</DisplayName>
-			<Desc>Nafas awalnya menuju ke pusat Titik Konsentrasi Nadi Qi dan mengubahnya menjadi api murni yang dapat menghilangkan semua kotoran. Ini membantu para petani meningkatkan efisiensi budidaya mereka secara signifikan. Namun, hal itu berdampak negatif pada keterampilan senjata sihir dan keterampilan qi sihirnya pada saat yang bersamaan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan efisiensi budidaya secara signifikan\nMengurangi keterampilan senjata sihir sebanyak 5 level\nMengurangi keterampilan energi magis sebanyak 5 level.[/color][/size]</EffectDesc>
+			<DisplayName>Nyanyian Api Surya</DisplayName>
+			<Desc>Sesuaikan Qi purba di Dantian Tengah dan ubah menjadi api tak kasat mata untuk membakar kotoran di sekitarnya. Meningkatkan Kecepatan Budidaya secara signifikan, namun menurunkan Penguasaan Artefak dan Kemampuan Mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kecepatan Budidaya secara signifikan.\nMengurangi Keterampilan Penguasaan Artefak sebanyak 5 level.\nMengurangi Keterampilan Mantra sebanyak 5 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_5">
-			<DisplayName>Jimat bulan</DisplayName>
-			<Desc>Amati jalan ilahi dan berkah ilahi dari para dewa. Mempraktikkan teknik ini akan menekan niat membunuh dan mengubah menjadi kekuatan langit dan bumi. Membantu meningkatkan keterampilan penggunaan senjata ajaib dan energi magis ke beberapa level. Namun, pada saat yang sama, hal ini mengurangi efisiensi budidaya secara signifikan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan keterampilan senjata ajaib sebanyak 5 level\nMeningkatkan keterampilan energi sihir sebanyak 5 level\nMengurangi efisiensi budidaya secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Gulir Jimat Yin</DisplayName>
+			<Desc>Amati jalan surga dan laksanakan keinginan ilahi. Berlatihlah dengan buku ini untuk memanipulasi niat membunuh antara langit dan bumi untuk pertempuran. Meningkatkan Penguasaan Artefak dan Kemampuan Mantra, namun menurunkan Kecepatan Budidaya.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Keterampilan Penguasaan Artefak sebanyak 5 level.\nMeningkatkan Keterampilan Mantra sebanyak 5 level.\nMenurunkan Kecepatan Budidaya secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_6">
-			<DisplayName>Catatan yang tak ada habisnya</DisplayName>
-			<Desc>Menyerap Yang, mengedarkan Yin ke dalam tubuh. Gunakan tubuh Anda seperti tungku alam semesta. Dengan menggunakan kekuatan Yin dan Yang seperti ini, praktisi dapat meningkatkan potensinya dalam menggunakan keterampilan senjata sakti dan qi ajaib.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Pahami inti keterampilan kontrol senjata ajaib. Membantu meningkatkan kemampuan atas keterampilan senjata ajaib sebanyak 3 level\nDapatkan inti keterampilan energi magis. Membantu menaikkan batas maksimal skill energi sihir sebanyak 3 level.[/color][/size]</EffectDesc>
+			<DisplayName>Catatan Tak Terbatas</DisplayName>
+			<Desc>Menyerap api Yang dan mengeluarkan energi Yin, dengan tubuh sebagai alam semesta purba. Berlatihlah dengan buku ini untuk menyesuaikan Yin dan Yang dan sedikit menerobos batas keterampilan Penguasaan Artefak dan Mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Pahami arti sebenarnya dari Penguasaan Artefak, tembus batasnya sebanyak 3 level.\nPahami arti sebenarnya dari Mantra, dan tembus batasnya sebanyak 3 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_7">
-			<DisplayName>Enam Yang Tubuh Matahari Sejati</DisplayName>
-			<Desc>Tempa tubuh dengan Yang Qi murni menjadi tubuh Yang murni. Naikkan level keterampilan bertarung pelatih. Namun, hal itu akan menurunkan tingkat kondisi mental dan kehalusan keterampilan kerajinan secara signifikan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Naikkan level tempur sebanyak 20 level\nKurangi level kerajinan sebanyak 20 level\nMengurangi level kondisi mental secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Osmosis Api</DisplayName>
+			<Desc>Sempurnakan tubuh dengan kekuatan Yang murni menjadi tubuh Yang tertinggi. Meningkatkan Keterampilan Pertempuran hingga batasnya, tetapi juga menghilangkan persepsi seseorang terhadap seni, membuat seseorang jengkel dan menurunkan Kondisi Mental secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Keterampilan Bertempur sebanyak 20 level.\nMengurangi Keterampilan Artisanry sebanyak 20 level.\nMenurunkan Kondisi Mental secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_8">
-			<DisplayName>Sembilan Vena Mendalam Yin</DisplayName>
-			<Desc>Tempa tubuh dengan Yin Qi murni menjadi Tubuh Yin Murni. Secara signifikan meningkatkan tingkat keahlian dan kondisi mental. Namun, hal itu akan dengan mudah membuat para penggarap lelah dalam pertempuran.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Naikkan level keahlianmu sebanyak 20 level\nTingkatkan kondisi mentalmu secara signifikan\nKurangi level pertarunganmu sebanyak 20 level.[/color][/size]</EffectDesc>
+			<DisplayName>Meridian Yin yang Mendalam</DisplayName>
+			<Desc>Sempurnakan tubuh dengan kekuatan Yin murni menjadi tubuh Yin yang mendalam. Meningkatkan Keterampilan Artisanry hingga batasnya, meningkatkan Kondisi Mental secara signifikan, tetapi juga membuat seseorang sangat lelah dalam pertempuran.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Keterampilan Artisanry sebanyak 20 level.\nMeningkatkan Kondisi Mental secara signifikan.\nMengurangi Keterampilan Bertempur sebanyak 20 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_9">
-			<DisplayName>Enam Yang, Sembilan Yin, Dua Dewa</DisplayName>
-			<Desc>Sempurnakan kekuatan Yin dan Yang dan sempurnakan ke dalam tubuh. Ini secara signifikan meningkatkan rasa Qi dan tingkat armor Qi bertenaga.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Secara signifikan meningkatkan tingkat rasa Qi, mencapai inti keterampilan bertahan. Membantu meningkatkan batas atas Qi Armor sebanyak 3 level.</EffectDesc>
+			<DisplayName>Tubuh Abadi Dualitas</DisplayName>
+			<Desc>Cium kekuatan Yin dan Yang bersama-sama dan sempurnakan Tubuh Abadi Dualitas. Meningkatkan Qi Sense secara signifikan dan menembus batas skill Perlindungan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Qi Sense secara signifikan.\nPahami arti sebenarnya dari Perlindungan, tembus batas keterampilan Perlindungan sebanyak 3 level.</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_10">
-			<DisplayName>Roh Misterius Yin dan Yang</DisplayName>
-			<Desc>Mencampur Yin dan Yang bersama-sama dan menggunakannya sebagai pedang dan energi magis pada saat yang bersamaan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Dapatkan Roh Yin Yang[/color][/size]</EffectDesc>
+			<DisplayName>Roh Nimbus Purba</DisplayName>
+			<Desc>Bentuk dua Roh Nimbus Purba dengan Hukum Penaklukan Nimbus. Roh Nimbus Purba menggunakan pedang dan merapal mantra pada saat yang sama seperti yang dilakukan kultivator.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Dapatkan Roh Nimbus Primordial.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_11">
-			<DisplayName>Qi Surgawi</DisplayName>
-			<Desc>Suatu metode pernafasan yang menginduksi Qi surgawi ke dalam tubuh untuk meningkatkan jumlah Qi secara maksimal. Namun, dengan memasukkan energi ilahi ke dalam tubuh seperti ini, hal itu akan memperpendek umur yang dimiliki.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kuantitas Qi maksimum\nMengurangi masa pakai secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Pernapasan Surgawi</DisplayName>
+			<Desc>Hirup udara surga dengan metode pernapasan khusus. Berlatihlah untuk meningkatkan Max Qi, tetapi juga membuat Qi purba menghilang dan mengurangi Umur secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Maks Qi.\nMengurangi Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_12">
-			<DisplayName>Qi Purba</DisplayName>
-			<Desc>Ia mengontrol aliran Qi dan mengubah tubuh menjadi keadaan yang mirip dengan Fisik Primordial. Metode pelatihan ini akan membantu memperpanjang umur. Ini juga membantu memperpanjang umur panjang.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Mengurangi jumlah Qi maksimum\nMeningkatkan umur secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Pernapasan Purba</DisplayName>
+			<Desc>Kendalikan aliran Qi dan ubah tubuh menjadi kondisi purba. Latih metode ini untuk meningkatkan Umur secara signifikan, tetapi juga memadatkan Qi purba dan mengurangi Maks Qi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Mengurangi Maks Qi.\nMeningkatkan Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_13">
-			<DisplayName>Buku Misteri Lima Elemen</DisplayName>
-			<Desc>Mengedarkan kekuatan lima elemen ke seluruh tubuh. Dengan mengajarkan cara ini, praktisi akan mampu mengurangi kerusakan dari kelima elemen tersebut.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Mengurangi kerusakan yang diterima dari kelima elemen.[/color][/size]</EffectDesc>
+			<DisplayName>Panduan Optimus</DisplayName>
+			<Desc>Pahami rahasia di dalam dan di luar tubuh. Latih metode ini untuk mendapatkan perlindungan dan meningkatkan Pengurangan Kerusakan Lima Elemen.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Pengurangan Kerusakan Lima Elemen.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_14">
-			<DisplayName>sinar matahari yang sebenarnya</DisplayName>
-			<Desc>Mengondensasi Yang Qi murni ke dalam tubuh untuk meningkatkan jumlah Qi maksimum. Namun hal itu sangat mempengaruhi kondisi mental.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan jumlah Qi maksimum\nMengurangi tingkat kondisi mental secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Positif Yang Murni</DisplayName>
+			<Desc>Memadukan energi Yang murni di dalam tubuh untuk meningkatkan Max Qi secara mendasar, namun juga menurunkan Kondisi Mental secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Secara mendasar meningkatkan Max Qi.\nMenurunkan Kondisi Mental secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_15">
-			<DisplayName>Cahaya bulan yang murni berkilau</DisplayName>
-			<Desc>Bersihkan hati Anda dengan cahaya bulan untuk meningkatkan kondisi mental Anda secara signifikan. Namun, teknik ini berpengaruh pada jumlah Qi maksimum.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan tingkat kondisi mental secara signifikan.\nMengurangi jumlah Qi maksimum.[/color][/size]</EffectDesc>
+			<DisplayName>Aliran Yin Tertinggi</DisplayName>
+			<Desc>Bersihkan hati seseorang dengan Nafas Bulan untuk meningkatkan Kondisi Mental secara signifikan, namun secara mendasar menurunkan Max Qi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kondisi Mental secara signifikan.\nMenurunkan Max Qi secara mendasar.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_16">
-			<DisplayName>Teknik sirkulasi energi</DisplayName>
-			<Desc>Perubahan adalah sesuatu yang tidak berubah. Ketidakkekalan naik dan turun. Kekuatan dan kelembutan saling melengkapi. Kebenaran seperti ini mengungkapkan kebenaran jalan perubahan. Memahami kebenaran ini akan sangat mengurangi efek benih dao pada penggunanya.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Sangat mengurangi jumlah benih dadu.[/color][/size]</EffectDesc>
+			<DisplayName>Nyanyian Aliran Qi</DisplayName>
+			<Desc>Gerakan dan keheningan, kekuatan dan kelembutan, naik turun, semuanya dapat dipertukarkan. Nyanyian tersebut berbicara tentang sifat semua ciptaan yang dapat dipertukarkan. Latihlah untuk menurunkan Pencapaian secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Mengurangi Pencapaian secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_17">
-			<DisplayName>inti dari bakat</DisplayName>
-			<Desc>Semua hal bermula dari titik awal yang sama. Ketika Anda memahami asas ini, itu akan membantu peserta pelatihan memahami esensi mata pelajaran lainnya. mendapatkan lebih banyak lagi</Desc>
-			<EffectDesc>[size=10][color=#D06508]Peningkatan kompatibilitas dengan semua mata pelajaran di dunia[/color][/size]</EffectDesc>
+			<DisplayName>Esensi Kecerdasan</DisplayName>
+			<Desc>Padatkan semua yang cerdik menjadi satu. Latih metode ini untuk meningkatkan Kompatibilitas dengan semua Hukum.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kompatibilitas dengan semua Hukum.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_18">
 			<DisplayName>Pedang Kelupaan</DisplayName>
-			<Desc>Jalani nafas di jalan lelah dan ketenangan. Ini akan meningkatkan kekuatan senjata ajaib tetapi mempengaruhi Qi-nya.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan senjata sihir.\nMengurangi jumlah energi senjata sihir.[/color][/size]</EffectDesc>
+			<Desc>Renungkan kehampaan dan diamlah. Latih metode ini untuk meningkatkan Kekuatan Artefak secara signifikan, tetapi menurunkan Batas Qi Artefak.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kekuatan Artefak.\nMengurangi Batas Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_19">
-			<DisplayName>Pedang Kaisar</DisplayName>
-			<Desc>Proses memahami senjata ajaib Memahaminya akan meningkatkan konsistensi Qi pengguna. Hasilnya, jumlah Qi senjata ajaib meningkat. Tapi itu mengurangi kekuatan senjata ajaib itu.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan jumlah Qi senjata sihir.\nMengurangi kekuatan senjata sihir.[/color][/size]</EffectDesc>
+			<DisplayName>Pedang Yang Mulia</DisplayName>
+			<Desc>Sebuah metode penguasaan artefak yang mengandung kekuatan luar biasa. Latihlah untuk meningkatkan Artefak Qi secara signifikan, tetapi menurunkan Kekuatan Artefak.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Qi Artefak.\nMengurangi Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_20">
-			<DisplayName>Siklus Kelahiran Krabi</DisplayName>
-			<Desc>Pedang musik yang fokus pada akar tradisional Ketika fondasinya kokoh, akan memungkinkan praktisi dengan cepat memulihkan qi senjata ajaib. Ini juga membantu menembus batas keterampilan senjata ajaib.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Tingkatkan pengganda tingkat pemulihan Qi senjata ajaib.\nPahami inti keterampilan kontrol senjata ajaib. Membantu menaikkan batas atas skill senjata ajaib sebanyak 3 level.[/color][/size]</EffectDesc>
+			<DisplayName>Pedang Kelahiran Kembali</DisplayName>
+			<Desc>Gaya pedang yang berfokus pada aspek dasar. Meningkatkan Pengganda Pemulihan Qi Artefak dan membuat seseorang menembus batas keterampilan Penguasaan Artefak.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Pengganda Pemulihan Qi Artefak.\nPahami arti sebenarnya dari Penguasaan Artefak, dan tembus batasnya sebanyak 3 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_21">
 			<DisplayName>Pedang Kebenaran</DisplayName>
-			<Desc>Tangan kiri yin, tangan kanan Yang Ketika dibor hingga mahir, peserta pelatihan akan lebih mampu mengendalikan senjata sakti. Namun, hal ini harus dibayar dengan sedikit menurunkan Qi Sihir Jiwa Purba milik sang ahli.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Menambahkan 2 slot perlengkapan senjata ajaib\nMengurangi jumlah energi magis yang dapat digunakan Roh Primordial sebanyak 2 sihir.[/color][/size]</EffectDesc>
+			<Desc>Gunakan pedang dengan kekuatan Yin dan Yang untuk meningkatkan jumlah Artefak yang dapat dikendalikan, tetapi kurangi Mantra Jiwa Primordial karena pikiran sepenuhnya terfokus pada pedang.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Menambah jumlah Artefak sebanyak 2.\nMengurangi Mantra Jiwa Primordial sebanyak 2.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_22">
-			<DisplayName>Kebenaran Weda</DisplayName>
-			<Desc>Yin dan Yang berputar-putar di dalam aliran Qi di dalam tubuh. Bila dipraktikkan hingga mahir, maka akan meningkatkan jumlah Qi Veda dalam Jiwa Purba praktisi. Namun, hal itu mengurangi jumlah senjata magis yang bisa dikendalikan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan jumlah energi magis yang dapat digunakan oleh Roh Primordial sebanyak 2. Mengurangi slot perlengkapan senjata magis sebanyak 2.[/color][/size]</EffectDesc>
+			<DisplayName>Mantra Kebenaran</DisplayName>
+			<Desc>Gunakan mantra dengan kekuatan Yin dan Yang untuk meningkatkan jumlah Mantra Jiwa Primordial, tetapi kurangi jumlah Artefak yang dapat dikontrol karena pikiran sepenuhnya terfokus pada mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Mantra Jiwa Primordial sebanyak 2.\nMengurangi jumlah Artefak sebanyak 2.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_23">
 			<DisplayName>Jalan Kebenaran</DisplayName>
-			<Desc>Mengalir menurut hukum Yin dan Yang. Ketika Anda memahami prinsip ini, Penggarap dapat meningkatkan kecepatan belajar dan kecepatan memecahkan mereka secara signifikan.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan belajar secara signifikan.\nMeningkatkan kecepatan hambatan secara signifikan.[/color][/size]</EffectDesc>
+			<Desc>Ikuti aturan Yin dan Yang dalam latihan untuk meningkatkan Kecepatan Belajar dan Kecepatan Kultivasi secara signifikan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]tingkatkan kecepatan belajar secara besar-besaran\ntingkatkan kecepatan latihan secara besar-besaran[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_24">
-			<DisplayName>melodi mewakili diri sendiri</DisplayName>
-			<Desc>Amati dan memahami siklus hidup dan mati yang tiada akhir. Pelatihan semacam itu akan berdampak positif pada kekuatan Veda Qi. Namun, hal ini harus dibayar dengan peningkatan jumlah Qi yang diperlukan untuk mengeluarkan Magic Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan qi ajaib\nMeningkatkan jumlah qi yang diperlukan untuk mengeluarkan qi ajaib.[/color][/size]</EffectDesc>
+			<DisplayName>Menggemakan Nyanyian</DisplayName>
+			<Desc>Amati siklus hidup dan mati berulang kali. Latih metode ini untuk meningkatkan Kekuatan Mantra secara signifikan, namun juga meningkatkan Biaya Mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kekuatan Mantra.\nMeningkatkan Biaya Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_25">
-			<DisplayName>Asal Usul Kejadian</DisplayName>
-			<Desc>Gunakan gangguan di sekitar Anda dan fokuslah dengan kuat sampai pikiran Anda tenang. Pelatihan semacam itu akan mengurangi jumlah Qi yang dibutuhkan untuk mengeluarkan Qi Qi. Tapi di saat yang sama, itu juga akan mengurangi kekuatan energi magis.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Mengurangi kekuatan qi ajaib\nMengurangi jumlah qi yang diperlukan untuk mengeluarkan qi ajaib.[/color][/size]</EffectDesc>
+			<DisplayName>Mantra Kejadian</DisplayName>
+			<Desc>Hilangkan gangguan dan konsentrasi. Latih metode ini untuk mengurangi Biaya Mantra secara signifikan, namun juga mengurangi Kekuatan Mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Mengurangi Kekuatan Mantra.\nMengurangi Biaya Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_26">
-			<DisplayName>Gabungkan semua hal</DisplayName>
-			<Desc>Gabungkan tubuh dan menjadi jiwa satu. Penggarap dapat meningkatkan tingkat energi secara ajaib. Itu juga membantu menembus batas atas keterampilan energi magis.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kekuatan qi ajaib secara signifikan\nMendapatkan inti keterampilan dalam menggunakan qi ajaib Membantu meningkatkan batas maksimum keterampilan energi sihir sebanyak 3 level.[/color][/size]</EffectDesc>
+			<DisplayName>Mantra Integrasi</DisplayName>
+			<Desc>Pastikan untuk menggabungkan tubuh dan jiwa Anda. Latih metode ini untuk meningkatkan Kekuatan Mantra secara mendasar dan menembus batas keterampilan Mantra.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kekuatan Mantra secara signifikan.\nPahami arti sebenarnya dari Mantra, tembus batasnya sebanyak 3 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_27">
-			<DisplayName>Enam Langkah Menuju Surga</DisplayName>
-			<Desc>Dikatakan bahwa ini adalah teknik pembentukan gerakan yang ditinggalkan oleh Kaisar Dewa Perang sebelum kelahirannya kembali ke alam surga. Dia hanya membutuhkan enam langkah untuk bereinkarnasi ke alam surga. Ketika seseorang memahami teknik ini, kecepatan gerakannya akan meningkat secara signifikan. Namun dengan kecepatan yang sedemikian rupa sehingga akan mengeluarkan suara yang keras sehingga mudah diketahui oleh musuh.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan kecepatan berjalan secara signifikan\nMengurangi kemampuan sembunyi-sembunyi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Langkah Kenaikan</DisplayName>
+			<Desc>Dikatakan sebagai metode penghindaran yang ditinggalkan oleh Kaisar Prajurit Sempurna ketika dia naik, hanya enam langkah untuk pergi kemanapun kamu mau. Latihlah untuk meningkatkan Kecepatan Bergerak namun menarik perhatian orang karena mencolok dan gagah.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kecepatan Bergerak secara signifikan.\nMengurangi Siluman secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_28">
-			<DisplayName>Awan bersembunyi di langit</DisplayName>
-			<Desc>Sebuah teknik yang menggabungkan diri dengan kegelapan. Penggarap akan dapat secara efektif menyembunyikan dan menyembunyikan identitas mereka dari orang-orang di sekitar mereka. Namun, hal itu akan mempengaruhi kecepatan gerak pelatih.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Mengurangi kecepatan berjalan secara signifikan\nMeningkatkan kemampuan sembunyi-sembunyi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Awan Halus</DisplayName>
+			<Desc>Sebuah metode unik yang membuat bentuknya menyatu dengan udara. Latih metode ini untuk mengurangi Kecepatan Bergerak secara signifikan, namun menyembunyikan kehadiran seseorang dari orang lain.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Mengurangi Kecepatan Bergerak secara signifikan.\nMeningkatkan Siluman secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_29">
-			<DisplayName>Langkah-langkah yin dan yang para dewa yang tersembunyi</DisplayName>
-			<Desc>Teknik postur tubuh yang memungkinkan penggunanya mengendalikan yin dan yang langit dan bumi, memungkinkan mereka berpindah dengan cepat dari satu tempat ke tempat lain.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Secara signifikan meningkatkan kecepatan penerbangan petualangan.[/color][/size]</EffectDesc>
+			<DisplayName>Penghindaran Spiritual Kardinal</DisplayName>
+			<Desc>Sebuah metode penghindaran yang membuat seseorang mengendarai angin dengan energi Yin dan Yang dan mencapai tujuan dalam sekejap.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Meningkatkan Kecepatan Terbang secara signifikan dalam petualangan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_30">
-			<DisplayName>Tanah Yang Tak Berujung – Asli</DisplayName>
-			<Desc>Seorang praktisi jalur utama Teknik Yang Dan Tak Terbatas akan mampu meningkatkan Qi secara maksimal sendiri.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Meningkatkan daya Qi secara maksimal secara signifikan[/color][/size]</EffectDesc>
+			<DisplayName>Teknik Yang Tak Terbatas Yang Murni - Ortodoks</DisplayName>
+			<Desc>Berlatih Teknik Yang Tak Terbatas pada dasarnya meningkatkan Qi maksimum.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Secara mendasar meningkatkan Qi maksimum secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong13_Esoterica_31">
-			<DisplayName>Negeri Yang Tak Berujung - Berliku-liku</DisplayName>
-			<Desc>Seorang praktisi Alam Yang Tak Berujung akan mampu menurunkan Benih Dao miliknya sendiri. Tapi itu akan menyebabkan Dantian menjadi gelisah.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Mengurangi Benih Dao\nmenyebabkan Qi dalam Dantian berfluktuasi.[/color][/size]</EffectDesc>
+			<DisplayName>Teknik Yang Tak Terbatas Murni - Terbalik</DisplayName>
+			<Desc>Mempraktikkan Skill Reverse Pure Yang Infinite dapat menurunkan Pencapaian, namun akan menyebabkan kekacauan internal pada Dantian.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Menurunkan Tingkat Budidaya\nQi internal di Dantian kacau[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
