@@ -1,85 +1,85 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Point_FarmBase">
-			<DisplayName>bidang</DisplayName>
+			<DisplayName>Bidang</DisplayName>
 		</Text>
 		<Text Name="Point_MineBase">
-			<DisplayName>milikku</DisplayName>
+			<DisplayName>Milikku</DisplayName>
 		</Text>
 		<Text Name="Point_LumberBase">
-			<DisplayName>tempat penebangan kayu</DisplayName>
+			<DisplayName>Kamp Penebangan</DisplayName>
 		</Text>
 		<Text Name="Point_LingBase">
 			<DisplayName>Tambang Batu Roh</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains4">
-			<DisplayName>Bidang taburan bunga</DisplayName>
+			<DisplayName>Bunga mekar</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains2">
-			<DisplayName>Bukit Khao Soth</DisplayName>
+			<DisplayName>Puncak Alkemis</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains5">
-			<DisplayName>Ton Atau Desa</DisplayName>
+			<DisplayName>Desa Buluh</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains1">
-			<DisplayName>Gunung itu menyentuh langit</DisplayName>
+			<DisplayName>Gunung Cloudsreach</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains3">
-			<DisplayName>Gunung Pingting</DisplayName>
+			<DisplayName>Gunung Mesa</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace12">
-			<DisplayName>Gunung Chanpen</DisplayName>
+			<DisplayName>Gunung Bulan Purnama</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace14">
-			<DisplayName>Gunung Tongling</DisplayName>
+			<DisplayName>Gunung Coppertomb</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace15">
 			<DisplayName>Reruntuhan Taiyi</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace13">
-			<DisplayName>Gunung Lanka Kecil</DisplayName>
+			<DisplayName>Gunung Tandus</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace11">
 			<DisplayName>Desa Nanping</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField3">
-			<DisplayName>Desa Daxiang</DisplayName>
+			<DisplayName>Desa Ratoon</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField4">
-			<DisplayName>Gunung Kui</DisplayName>
+			<DisplayName>Gunung Cassia</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField5">
-			<DisplayName>jalur gunung</DisplayName>
+			<DisplayName>Gunung Rue</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField1">
-			<DisplayName>Kota Hanshan</DisplayName>
+			<DisplayName>Kota Galepeak</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField2">
-			<DisplayName>Mueang Yod Tawan</DisplayName>
+			<DisplayName>Kota Sunstop</DisplayName>
 		</Text>
 		<Text Name="Point_Desert2">
-			<DisplayName>gurun cermin</DisplayName>
+			<DisplayName>Tanah Terlantar Mirage</DisplayName>
 		</Text>
 		<Text Name="Point_Desert4">
 			<DisplayName>Desa Bukit Pasir</DisplayName>
 		</Text>
 		<Text Name="Point_Desert3">
-			<DisplayName>Gua Api</DisplayName>
+			<DisplayName>Paling mencolok</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield1">
-			<DisplayName>lembah salju</DisplayName>
+			<DisplayName>Lembah Keong Skye</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield3">
-			<DisplayName>lapangan badai salju</DisplayName>
+			<DisplayName>Dataran Badai Salju</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield2">
 			<DisplayName>Danau Batu Giok</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest1">
-			<DisplayName>Hutan bunga persik yang tidak layu</DisplayName>
+			<DisplayName>Racun Abadi</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest3">
-			<DisplayName>lembah cacing</DisplayName>
+			<DisplayName>Lembah Cacing</DisplayName>
 		</Text>
 	</List>
 </Texts>
