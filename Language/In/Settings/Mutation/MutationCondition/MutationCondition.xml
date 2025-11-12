@@ -1,448 +1,448 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MutationCondition_Debug">
-			<DisplayName>perasaan kehilangan</DisplayName>
-			<Desc>Maknanya tidak muncul ............</Desc>
+			<DisplayName>Rasa Kehilangan</DisplayName>
+			<Desc>Arti tidak diketahui............</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_1">
-			<DisplayName>menelan benda apa pun</DisplayName>
-			<Desc>Seorang siswa menelan suatu benda sebanyak 49 kali.</Desc>
+			<DisplayName>Makan Barang Apapun</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 49 item acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_2">
-			<Desc>Seorang siswa menelan suatu benda sebanyak 124 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 124 item acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_3">
-			<Desc>Seorang murid menelan benda Kelas 7 atau lebih tinggi sebanyak 99 kali.</Desc>
+			<Desc>Seorang Murid Mengkonsumsi 99 Item tingkat 7 atau Lebih Tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_4">
-			<DisplayName>Menelan benda dengan tanda tertentu</DisplayName>
-			<Desc>Seorang murid makan makanan apa saja sebanyak 36 kali.</Desc>
+			<DisplayName>Konsumsi Barang dengan Tag Tertentu</DisplayName>
+			<Desc>Seorang murid mengonsumsi 36 makanan secara acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_5">
-			<Desc>Seorang siswa makan makanan apa saja sebanyak 81 kali.</Desc>
+			<Desc>Seorang murid tunggal mengonsumsi makanan apa pun sebanyak 81 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_6">
-			<Desc>Seorang murid makan 10 makanan berbeda.</Desc>
+			<Desc>Seorang murid mengonsumsi 10 makanan berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_7">
-			<Desc>Seorang murid makan tiga makanan berelemen tanah yang berbeda sebanyak tiga kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 3 makanan atribut bumi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_8">
-			<Desc>Seorang murid memakan lima makanan berelemen tanah yang berbeda.</Desc>
+			<Desc>Seorang murid mengkonsumsi 5 makanan atribut bumi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_9">
-			<Desc>Seorang murid makan 8 makanan unsur tanah yang berbeda sebanyak 8 kali.</Desc>
+			<Desc>Seorang murid mengonsumsi 8 makanan atribut bumi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_10">
-			<DisplayName>Menelan benda emas</DisplayName>
-			<Desc>Seorang murid menelan unsur emas sebanyak 3 kali.</Desc>
+			<DisplayName>Mengkonsumsi Item Atribut Logam</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 3 item atribut logam</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_11">
-			<Desc>Seorang murid menelan unsur emas sebanyak 7 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi item atribut logam sebanyak 7 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_12">
-			<Desc>Seorang murid menelan lima benda berelemen emas berbeda sebanyak 5 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 5 item atribut Logam yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_13">
-			<DisplayName>Menelan benda kayu</DisplayName>
-			<Desc>Seorang murid menelan elemen kayu sebanyak 21 kali.</Desc>
+			<DisplayName>Konsumsi Item Atribut Kayu</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 21 item atribut kayu</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_14">
-			<Desc>Seorang murid menelan elemen kayu sebanyak 55 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 55 item atribut kayu</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_15">
-			<Desc>Seorang murid menelan 7 pil elemen kayu yang berbeda.</Desc>
+			<Desc>Seorang murid mengkonsumsi 7 obat atribut Kayu yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_16">
-			<DisplayName>Menelan unsur air</DisplayName>
-			<Desc>Seorang murid menelan lima atau lebih Elemental Air Level 2 atau lebih tinggi.</Desc>
+			<DisplayName>Konsumsi item atribut air</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 5 atau lebih item atribut Air tingkat 2 (atau lebih tinggi).</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_17">
-			<Desc>Seorang murid menelan benda berelemen air Kelas 3 atau lebih tinggi sebanyak 16 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 16 item atribut Air tingkat 3 atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_18">
-			<Desc>Seorang murid menelan 7 pil elemen air yang berbeda.</Desc>
+			<Desc>Seorang murid mengkonsumsi 7 Obat dengan atribut Air yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_19">
-			<DisplayName>Menelan benda berelemen api</DisplayName>
-			<Desc>Seorang murid menelan lima benda berelemen api.</Desc>
+			<DisplayName>Konsumsi Item Atribut Api</DisplayName>
+			<Desc>Seorang murid mengkonsumsi item atribut api sebanyak 5 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_20">
-			<Desc>Seorang murid menelan elemen api sebanyak 16 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 16 item elemen Api</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_21">
-			<Desc>Seorang murid menelan 7 benda berelemen api berbeda sebanyak 7 kali.</Desc>
+			<Desc>Seorang murid mengkonsumsi 7 item atribut Api yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_22">
-			<DisplayName>Menelan benda-benda bumi</DisplayName>
-			<Desc>Seorang murid menelan objek elemen tanah level 2 atau lebih tinggi sebanyak 10 kali.</Desc>
+			<DisplayName>Konsumsi Item Atribut Bumi</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 10 item atribut Bumi tingkat 2 atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_23">
-			<Desc>Seorang murid menelan 30 atau lebih item elemen Bumi Kelas 3 atau lebih tinggi.</Desc>
+			<Desc>Seorang murid mengonsumsi 30 atau lebih item atribut Bumi tingkat 3 (atau lebih tinggi).</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_24">
-			<Desc>Seorang murid menelan 7 pil elemen tanah yang berbeda.</Desc>
+			<Desc>Seorang murid mengonsumsi 7 obat atribut Bumi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_25">
-			<DisplayName>Menelan benda non-elemen</DisplayName>
-			<Desc>Seorang murid menelan benda non-elemen sebanyak 30 kali.</Desc>
+			<DisplayName>Tidak ada item atribut yang dikonsumsi</DisplayName>
+			<Desc>Seorang murid mengkonsumsi 30 item non-atribut</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_26">
-			<Desc>Seorang murid menelan benda non-elemen sebanyak 99 kali.</Desc>
+			<Desc>Seorang murid tidak mengkonsumsi 99 item atribut</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Eat_27">
-			<Desc>Seorang murid menelan benda yang tidak mempunyai unsur berbeda sebanyak 4 kali.</Desc>
+			<Desc>Seorang murid menggunakan 4 item atribut Tidak Terdefinisi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_1">
-			<DisplayName>Pada dasarnya Anda bisa makan apa saja.</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan benda apa pun sebanyak 500 kali.</Desc>
+			<DisplayName>Secara global Makan item apa pun</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 500 Item apa pun</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_2">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan benda apa pun sebanyak 1.000 kali.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 1000 Item apa pun</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_3">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan benda yang berbeda sebanyak 100 kali.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 100 Item unik</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_4">
-			<DisplayName>Menelan seluruh sekte objek</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif makan makanan apa pun sebanyak 400 kali.</Desc>
+			<DisplayName>Secara global Makan makanan apa saja</DisplayName>
+			<Desc>Murid sekte secara kolektif mengonsumsi 400 makanan apa saja</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_5">
-			<DisplayName>Makan makanan apa pun di seluruh sekolah</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif makan makanan apa pun sebanyak 800 kali.</Desc>
+			<DisplayName>Secara global Makan makanan apa saja</DisplayName>
+			<Desc>Murid sekte secara kolektif mengonsumsi 800 makanan apa saja</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_6">
-			<Desc>Seorang murid makan 12 makanan berbeda sebanyak 12 kali.</Desc>
+			<Desc>Seorang murid mengonsumsi 12 makanan berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_7">
-			<DisplayName>Menelan seluruh sekte peninggalan emas</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 30 relik emas.</Desc>
+			<DisplayName>Makan item atribut emas secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 30 item atribut Logam,</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_8">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 80 relik emas.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 80 item atribut Logam</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_9">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 10 peninggalan emas yang berbeda.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 10 item atribut Logam yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_10">
-			<DisplayName>Menelan obat elemen kayu seluruh sekte</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 30 pil elemen kayu.</Desc>
+			<DisplayName>Mengkonsumsi obat-obatan atribut Wood secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 30 obat atribut Kayu,</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_11">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 80 pil elemen kayu.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 80 obat atribut Kayu</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_12">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 10 pil elemen kayu yang berbeda.</Desc>
+			<Desc>Murid sekte secara kolektif mengonsumsi 10 obat atribut Kayu yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_13">
-			<DisplayName>Menelan seluruh pil elemen air</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 30 pil elemen air.</Desc>
+			<DisplayName>Mengkonsumsi obat-obatan atribut Air secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 30 Pil atribut Air</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_14">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 80 pil elemen air.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 80 Pil atribut Air</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_15">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 10 Pil Elemen Air yang berbeda.</Desc>
+			<Desc>Murid sekte secara kolektif mengonsumsi 10 obat atribut Air yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_16">
-			<DisplayName>Menelan seluruh sekte benda berelemen api</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 30 benda berelemen api.</Desc>
+			<DisplayName>Konsumsi item atribut Api secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 30 Item atribut Api</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_17">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan benda elemen api sebanyak 80 kali.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 80 item atribut Api</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_18">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 10 objek elemen api yang berbeda.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 10 item atribut Api yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_19">
-			<DisplayName>Menelan obat elemen tanah seluruh sekte</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 30 pil elemen tanah.</Desc>
+			<DisplayName>Mengkonsumsi obat-obatan atribut Bumi secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 30 Obat atribut Bumi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_20">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 80 pil elemen tanah.</Desc>
+			<Desc>Murid sekte secara kolektif mengonsumsi 80 obat atribut Bumi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_21">
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 10 objek elemen tanah yang berbeda.</Desc>
+			<Desc>Murid sekte secara kolektif mengonsumsi 10 item atribut Bumi yang berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_22">
-			<DisplayName>Menelan seluruh sekte objek non-elemen</DisplayName>
-			<Desc>Para murid di sekte tersebut secara kolektif menelan 300 benda non-elemen.</Desc>
+			<DisplayName>Tidak ada item atribut yang dikonsumsi secara global</DisplayName>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 300 item tanpa elemen</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_23">
-			<Desc>Para murid sekte tersebut secara kolektif menelan benda unik tersebut sebanyak 800 kali.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 800 Item Tidak Terdefinisi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Eat_24">
-			<Desc>Para murid sekte secara kolektif menelan benda yang tidak memiliki unsur berbeda sebanyak 7 kali.</Desc>
+			<Desc>Murid sekte secara kolektif mengkonsumsi 7 item berbeda tanpa elemen apa pun</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_BrokenNeck_1">
-			<DisplayName>melanggar batasan</DisplayName>
-			<Desc>Seorang murid menyelesaikan pelatihan dasar.</Desc>
+			<DisplayName>Terobosan</DisplayName>
+			<Desc>Seorang murid menyelesaikan Pelatihan Dasar</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_BrokenNeck_2">
-			<Desc>Seorang murid menciptakan inti emas.</Desc>
+			<Desc>Seorang murid membentuk Inti Emas</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_BrokenNeck_3">
-			<Desc>Seorang murid berhasil menembus Tahap Roh Primordial.</Desc>
+			<Desc>Seorang murid melakukan terobosan ke tahap Roh Primordial</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_BrokenNeck_1">
-			<DisplayName>Menembus Batas Total</DisplayName>
-			<Desc>Murid luar menyelesaikan pelatihan dasar dan menjadi murid dalam sebanyak 3 kali.</Desc>
+			<DisplayName>Terobosan Global</DisplayName>
+			<Desc>Murid sekte secara kolektif membangun fondasi sebanyak 3 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_BrokenNeck_2">
-			<Desc>Para murid di sekte bersama-sama berhasil menembus Tahap Inti Emas sebanyak tiga kali.</Desc>
+			<Desc>Murid sekte secara kumulatif menerobos ke Inti Emas sebanyak 3 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_BrokenNeck_3">
-			<Desc>Para murid di sekte tersebut secara kolektif memasuki Tahap Roh Primordial sebanyak tiga kali.</Desc>
+			<Desc>Murid sekte secara kumulatif mencapai Keadaan Roh Primordial sebanyak 3 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_JustTalkJH_1">
-			<DisplayName>berbicara</DisplayName>
-			<Desc>Sekte tersebut menjalankan misi untuk berbicara dengan 10 makhluk berbeda.</Desc>
+			<DisplayName>Bicara</DisplayName>
+			<Desc>Sekte ini menyelesaikan percakapan dengan 10 makhluk berbeda.</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_JustTalkJH_2">
-			<Desc>Sekte tersebut menjalankan misi untuk berbicara dengan 20 makhluk berbeda.</Desc>
+			<Desc>Sekte menyelesaikan percakapan dengan 20 makhluk berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_JustTalkJH_3">
-			<Desc>Biro tersebut menjalankan misi untuk berbicara dengan 30 makhluk berbeda.</Desc>
+			<Desc>Sekte ini menyelesaikan percakapan dengan 30 makhluk berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_UnlockJHHeart_1">
-			<DisplayName>berbicara</DisplayName>
-			<Desc>Sekte tersebut menjalankan misi untuk berkomunikasi dengan tiga makhluk berbeda dan menghancurkan pertahanan mental mereka.</Desc>
+			<DisplayName>Bicara</DisplayName>
+			<Desc>Sekte ini secara kumulatif telah berbicara dengan 3 makhluk unik, menghancurkan pertahanan mental mereka</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_UnlockJHHeart_2">
-			<Desc>Sekte tersebut menjalankan misi untuk berkomunikasi dengan 8 makhluk berbeda dan menghancurkan pertahanan mental mereka.</Desc>
+			<Desc>Sekte ini secara kolektif berkomunikasi dengan 8 makhluk berbeda dan menghancurkan pertahanan mental mereka</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_UnlockJHHeart_3">
-			<Desc>Sekte ini menjalankan misi untuk berkomunikasi dengan 24 makhluk berbeda dan menghancurkan pertahanan mental mereka.</Desc>
+			<Desc>Sekte ini secara kolektif berkomunikasi dengan 24 makhluk berbeda dan menghancurkan pertahanan mental mereka</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_InviteJH_1">
-			<DisplayName>mengundang</DisplayName>
-			<Desc>Sekte tersebut mengundang tiga orang biasa untuk mengunjungi sekte tersebut.</Desc>
+			<DisplayName>Mengundang</DisplayName>
+			<Desc>Sekte ini secara kumulatif mengundang 3 manusia untuk mengunjungi sekte tersebut</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_InviteJH_2">
-			<Desc>Sekte tersebut mengundang 12 orang biasa untuk berkunjung.</Desc>
+			<Desc>Sekte tersebut telah mengundang 12 orang biasa untuk berkunjung</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_InviteJH_3">
-			<Desc>Sekte tersebut telah mengundang tiga atau lebih Penggarap Inti Mendalam untuk datang berkunjung.</Desc>
+			<Desc>Sekte ini telah mengundang 3 atau lebih penggarap tahap Pembentuk Inti untuk berkunjung</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_InviteJH_4">
-			<Desc>Sekte tersebut telah mengundang 10 atau lebih kultivator Tahap Inti Emas untuk datang berkunjung.</Desc>
+			<Desc>Sekte ini telah mengundang 10 atau lebih penggarap tahap Inti Emas untuk berkunjung</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_InviteJH_5">
-			<Desc>Sekte tersebut telah mengundang salah satu Kultivator Dasar Qi atau lebih untuk datang berkunjung.</Desc>
+			<Desc>Sekte Telah Mengundang 1 Pembentuk Qi atau Kultivator Tinggi untuk Berkunjung</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SendGiftToJH_1">
-			<DisplayName>hadiah</DisplayName>
-			<Desc>Berikan objek apa pun kepada 3 Penggarap yang berbeda.</Desc>
+			<DisplayName>Hadiah</DisplayName>
+			<Desc>Sekte menghadiahkan barang apa pun kepada 3 petani berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SendGiftToJH_2">
-			<Desc>Berikan objek apa pun kepada 12 Penggarap yang berbeda.</Desc>
+			<Desc>Sekte telah menghadiahkan barang apa pun kepada 12 pembudidaya berbeda</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SendGiftToJH_3">
-			<Desc>Sekte tersebut memberikan hadiah kepada 36 petani berbeda.</Desc>
+			<Desc>Sekte ini telah memberikan hadiah kepada 36 penggarap unik</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_1">
-			<DisplayName>Jumlah sesi meditasi seorang murid</DisplayName>
-			<Desc>Seorang murid mengumpulkan 3 hari meditasi.</Desc>
+			<DisplayName>Meditasi Kumulatif Satu Murid</DisplayName>
+			<Desc>Seorang murid mengumpulkan 3 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_2">
-			<Desc>Seorang murid mengumpulkan 12 hari meditasi.</Desc>
+			<Desc>Seorang murid mengumpulkan 12 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_3">
-			<Desc>Seorang murid mengumpulkan 36 hari meditasi.</Desc>
+			<Desc>Seorang murid mengumpulkan 36 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_4">
-			<DisplayName>Jumlah waktu yang dihabiskan dalam meditasi penuh waktu oleh seorang murid</DisplayName>
-			<Desc>Seorang murid duduk bermeditasi terus menerus selama 12 jam.</Desc>
+			<DisplayName>Hitungan meditasi penuh waktu seorang murid</DisplayName>
+			<Desc>Seorang murid bermeditasi terus menerus selama 12 jam</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_5">
-			<Desc>Seorang murid duduk bermeditasi terus menerus selama 30 jam.</Desc>
+			<Desc>Seorang murid bermeditasi terus menerus selama 30 jam</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_DaZuo_6">
-			<Desc>Seorang murid duduk bermeditasi terus menerus selama 30 hari.</Desc>
+			<Desc>Seorang murid terus menerus bermeditasi selama 30 hari</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_DaZuo_1">
-			<DisplayName>Duduk dan berlatih kumpulan sekte</DisplayName>
-			<Desc>Sekte ini mengumpulkan meditasi gabungan selama 30 hari.</Desc>
+			<DisplayName>Meditasi Kumulatif Sekte</DisplayName>
+			<Desc>Sekte ini mengumpulkan 30 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_DaZuo_2">
-			<Desc>Sekte ini mengumpulkan total 120 hari meditasi.</Desc>
+			<Desc>Sekte ini mengumpulkan 120 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_DaZuo_3">
-			<Desc>Sekte ini mengumpulkan total 360 hari meditasi.</Desc>
+			<Desc>Sekte ini mengumpulkan 360 hari meditasi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_1">
-			<DisplayName>tidur pribadi</DisplayName>
-			<Desc>Seorang murid beristirahat penuh di tempat tidur sebanyak 5 kali.</Desc>
+			<DisplayName>Tidur Pribadi</DisplayName>
+			<Desc>Seorang murid menyelesaikan 5 tidur penuh di tempat tidur</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_2">
-			<Desc>Seorang murid beristirahat total di tempat tidur sebanyak 20 kali.</Desc>
+			<Desc>Seorang murid menyelesaikan 20 tidur penuh di tempat tidur</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_4">
-			<Desc>Seorang murid mengumpulkan 12 jam istirahat di lantai.</Desc>
+			<Desc>Seorang murid mengumpulkan 12 jam tidur di tanah</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_5">
-			<Desc>Seorang murid mengumpulkan 36 jam istirahat di lantai.</Desc>
+			<Desc>Seorang murid mengumpulkan 36 jam tidur di tanah</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Sleep_6">
-			<Desc>Seorang murid mengumpulkan 180 jam istirahat di lantai.</Desc>
+			<Desc>Seorang murid mengumpulkan 180 jam tidur di tanah</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Sleep_1">
-			<DisplayName>Akumulasi tidur biro</DisplayName>
-			<Desc>Biro mengumpulkan total 120 jam istirahat.</Desc>
+			<DisplayName>Tidur Kumulatif Sekte</DisplayName>
+			<Desc>Suatu ketika sekte mengumpulkan 120 jam tidur</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Sleep_2">
-			<Desc>Biro mengumpulkan total 360 jam istirahat.</Desc>
+			<Desc>Suatu ketika sekte mengumpulkan 360 jam tidur</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_1">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang murid pernah menyatakan cintanya.</Desc>
+			<Desc>Seorang murid mengaku dosa satu kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_2">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang siswa menyatakan cintanya sebanyak 3 kali.</Desc>
+			<Desc>Seorang murid mengaku sebanyak 3 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_3">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang siswa menyatakan cintanya sekali</Desc>
+			<Desc>Seorang murid mengaku satu kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_4">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang siswa menyatakan cintanya sebanyak 3 kali.</Desc>
+			<Desc>Seorang murid mengaku tiga kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_5">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang murid menyatakan cintanya satu kali dan berhasil.</Desc>
+			<Desc>Seorang murid mengaku satu kali dan berhasil</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Love_6">
 			<DisplayName>Cinta</DisplayName>
-			<Desc>Seorang murid menerima pengakuan dan menerima cintanya.</Desc>
+			<Desc>Seorang murid menerima pengakuan dan menerima</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Damage_1">
-			<DisplayName>terluka</DisplayName>
-			<Desc>Seorang siswa mengalami luka ringan sebanyak 5 kali.</Desc>
+			<DisplayName>Terluka</DisplayName>
+			<Desc>Seorang murid menderita luka ringan sebanyak 5 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Damage_2">
-			<Desc>Seorang murid menerima 10 luka ringan.</Desc>
+			<Desc>Seorang murid menderita 10 luka ringan</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Damage_3">
-			<Desc>Seorang murid mengalami cedera tulang ringan satu kali.</Desc>
+			<Desc>Seorang murid menderita cedera tulang ringan satu kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Damage_4">
-			<Desc>Seorang murid menerima 3 luka ringan pada tulang.</Desc>
+			<Desc>Seorang murid menderita luka tulang ringan sebanyak 3 kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Damage_5">
-			<Desc>Seorang murid pernah mengalami cedera tulang parah.</Desc>
+			<Desc>Seorang murid menderita cedera tulang yang parah satu kali</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_1">
-			<DisplayName>Reputasi biro</DisplayName>
-			<Desc>Skor reputasi Klan melebihi 5.000 poin.</Desc>
+			<DisplayName>Reputasi Sekte</DisplayName>
+			<Desc>Poin reputasi sekte ini melebihi 5000</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_2">
-			<Desc>Skor reputasi Klan melebihi 20.000 poin.</Desc>
+			<Desc>Poin reputasi sekte ini melebihi 20.000</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_3">
-			<Desc>Skor reputasi sekte tersebut melebihi 180.000 poin.</Desc>
+			<Desc>Poin reputasi sekte ini melebihi 180.000</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_4">
-			<Desc>Skor reputasi Klan meningkat 500 poin sekaligus.</Desc>
+			<Desc>Reputasi sekte ini memperoleh 500 poin dalam satu kejadian</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_5">
-			<Desc>Skor reputasi sekte tersebut meningkat 2.000 poin sekaligus.</Desc>
+			<Desc>Reputasi sekte ini mencapai 2000 poin dalam satu kejadian</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_SchoolScoreUp_6">
-			<Desc>Skor reputasi sekte tersebut meningkat 10.000 poin sekaligus.</Desc>
+			<Desc>Peningkatan reputasi sekte ini mencapai 10.000 poin dalam satu kejadian</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_1">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Seorang murid membunuh 10 target acak.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Seorang murid membunuh 10 target acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_2">
-			<Desc>Seorang murid membunuh 30 target acak.</Desc>
+			<Desc>Seorang murid membunuh 30 target acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_3">
-			<Desc>Seorang murid membunuh tiga Penggarap Inti Yang Sangat Besar.</Desc>
+			<Desc>Seorang murid membunuh 3 Kultivator Pembentuk Inti atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_4">
-			<Desc>Seorang murid membunuh lima kultivator Tahap Inti Emas.</Desc>
+			<Desc>Seorang murid membunuh 5 kultivator Inti Emas atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_5">
-			<Desc>Seorang murid membunuh 15 target Tahap Roh Primordial atau lebih tinggi.</Desc>
+			<Desc>Seorang murid membunuh 15 target tingkat Roh Primordial atau lebih tinggi.</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_6">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Seorang murid membunuh 3 setan.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Seorang murid membunuh 3 monster</Desc>
 		</Text>
 		<Text Name="MutationCondition_One_Kill_7">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Seorang murid membunuh lima atau lebih iblis Inti Emas.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Seorang murid membunuh 5 binatang atau lebih pada tahap Inti Emas</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_1">
-			<Desc>Sekte-sekte tersebut digabungkan untuk membunuh 100 target acak.</Desc>
+			<Desc>Sekte ini secara kumulatif membunuh 100 target acak</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_2">
-			<Desc>Klan secara kolektif membunuh 300 target mana pun.</Desc>
+			<Desc>Sekte ini mengumpulkan 300 pembunuhan dari target mana pun</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_3">
-			<Desc>Sekte ini membunuh 18 Penggarap Inti Yang Sangat Besar.</Desc>
+			<Desc>Sekte ini membunuh 18 kultivator Pembentuk Inti atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_4">
-			<Desc>Sekte ini membunuh 30 kultivator Tahap Inti Emas.</Desc>
+			<Desc>Sekte ini membunuh 30 pembudidaya Inti Emas atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_5">
-			<Desc>Sekte-sekte tersebut secara kolektif membunuh 81 target Tahap Roh Primordial atau lebih tinggi.</Desc>
+			<Desc>Sekte ini secara kolektif membunuh 81 target tahap Roh Primordial atau lebih tinggi</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_6">
-			<Desc>Sekte-sekte tersebut digabungkan untuk membunuh 18 setan.</Desc>
+			<Desc>Sekte secara kumulatif membunuh 18 monster</Desc>
 		</Text>
 		<Text Name="MutationCondition_All_Kill_7">
-			<Desc>Sebanyak 30 sekte pembunuh iblis Inti Emas atau lebih tinggi.</Desc>
+			<Desc>Sekte ini membunuh 30 monster pada atau di atas tahap Inti Emas</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_1">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 7 kelinci. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 7 kelinci, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_2">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 5 serigala. Kali berikutnya hasilnya dikalikan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 5 serigala, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_3">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 3 beruang. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 3 beruang, kali berikutnya gandakan</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_4">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 7 penyu. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 7 kura-kura, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_5">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 5 harimau. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 5 harimau, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_6">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 5 ekor sapi. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 5 ekor sapi, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_7">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh 7 ekor ayam. Kali berikutnya kalikan dengan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 7 ekor ayam, lain kali gandakan</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Kill_8">
-			<DisplayName>membunuh</DisplayName>
-			<Desc>Bunuh ular berkekuatan 5, kali berikutnya hasilnya dikalikan dua.</Desc>
+			<DisplayName>Membunuh</DisplayName>
+			<Desc>Bunuh 5 ular, kali berikutnya dua kali lipat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_Sacrific_1">
-			<DisplayName>Korbankan iblis</DisplayName>
-			<Desc>Mengorbankan iblis dianggap memicu kemarahan kuil iblis.</Desc>
+			<DisplayName>Pengorbanan Binatang</DisplayName>
+			<Desc>Pengorbanan kepada iblis memicu kemarahan Kuil Daemonia.</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_SchoolLevelUp_1">
-			<DisplayName>Reputasi biro</DisplayName>
-			<Desc>Tingkat reputasi sekte meningkat satu tingkat.</Desc>
+			<DisplayName>Reputasi Sekte</DisplayName>
+			<Desc>Tingkat reputasi sekte meningkat satu tingkat</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_All_BrokenNeck_1">
-			<DisplayName>Menembus Batas Total</DisplayName>
-			<Desc>Salah satu murid sekte tersebut telah berhasil bereinkarnasi ke surga.</Desc>
+			<DisplayName>Terobosan Global</DisplayName>
+			<Desc>Seorang murid sekte naik</Desc>
 		</Text>
 		<Text Name="MutationCondition_Constant_One_Kill_1">
-			<Desc>Seorang murid membunuh seorang kultivator Tahap Inti Emas atau lebih tinggi.</Desc>
+			<Desc>Seorang murid membunuh seorang kultivator Inti Emas atau tingkat yang lebih tinggi</Desc>
 		</Text>
 	</List>
 </Texts>
