@@ -1,44 +1,44 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Dandelion" sParam="Plant">
-			<ThingName>bunga ketumbar putih</ThingName>
-			<Desc>bunga kecil yang indah</Desc>
+			<ThingName>Tanaman liar berbunga kuning cerah</ThingName>
+			<Desc>Bunga kecil yang indah.</Desc>
 		</Text>
 		<Text Name="Flower1" sParam="Plant">
-			<ThingName>rumput musim semi</ThingName>
-			<Desc>Tanaman indah dengan sedikit jejak qi unsur kayu yang tersembunyi di dalamnya.</Desc>
+			<ThingName>harapan musim semi</ThingName>
+			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
-			<ThingName>bunga es</ThingName>
-			<Desc>Tanaman indah dengan sedikit jejak qi unsur kayu yang tersembunyi di dalamnya.</Desc>
+			<ThingName>Bunga es</ThingName>
+			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="Flower2" sParam="Plant">
-			<ThingName>Marigold</ThingName>
-			<Desc>Tanaman indah yang sedikit mengandung qi emas.</Desc>
+			<ThingName>Yg berlapis emas</ThingName>
+			<Desc>Tanaman indah dengan sedikit unsur Logam.</Desc>
 		</Text>
 		<Text Name="Flower3" sParam="Plant">
-			<ThingName>bunga lonceng api</ThingName>
-			<Desc>Tanaman indah dengan sedikit jejak api qi tersembunyi di dalamnya.</Desc>
+			<ThingName>Optimis</ThingName>
+			<Desc>Tanaman indah dengan sedikit elemen Api.</Desc>
 		</Text>
 		<Text Name="Flower4" sParam="Plant">
-			<ThingName>Bunga lonceng gudang</ThingName>
-			<Desc>Tanaman indah dengan sedikit unsur air.</Desc>
+			<ThingName>Triandrus</ThingName>
+			<Desc>Tanaman indah dengan sedikit unsur Air.</Desc>
 		</Text>
 		<Text Name="Flower5" sParam="Plant">
-			<ThingName>bunga bulan emas</ThingName>
-			<Desc>Tanaman indah dengan sedikit jejak Qi Bumi yang tersembunyi di dalamnya.</Desc>
+			<ThingName>Fraxinus</ThingName>
+			<Desc>Tanaman indah dengan sedikit elemen Tanah.</Desc>
 		</Text>
 		<Text Name="ShiChe" sParam="Plant">
-			<ThingName>Krisan</ThingName>
-			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+			<ThingName>Bunga jagung</ThingName>
+			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 		<Text Name="CongRong" sParam="Plant">
-			<ThingName>ginseng gurun</ThingName>
-			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+			<ThingName>Cistanche</ThingName>
+			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 		<Text Name="CamelSting" sParam="Plant">
-			<ThingName>Dok Khamtai</ThingName>
-			<Desc>Tanaman indah tumbuh di tengah gurun pasir</Desc>
+			<ThingName>Duri unta</ThingName>
+			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 	</List>
 </Texts>
