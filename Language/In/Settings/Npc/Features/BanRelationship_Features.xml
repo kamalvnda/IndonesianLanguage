@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BanSpouse">
-			<DisplayName>lajang</DisplayName>
+			<DisplayName>Tidak ada Pasangan</DisplayName>
 		</Text>
 		<Text Name="BanParents">
-			<DisplayName>yatim piatu</DisplayName>
+			<DisplayName>Tidak Ada Orang Tua</DisplayName>
 		</Text>
 		<Text Name="BanChild">
-			<DisplayName>Tidak ada cucu</DisplayName>
+			<DisplayName>Tidak Ada Anak-anak</DisplayName>
 		</Text>
 		<Text Name="BanLove">
-			<DisplayName>setia</DisplayName>
+			<DisplayName>Setia</DisplayName>
 		</Text>
 	</List>
 </Texts>
