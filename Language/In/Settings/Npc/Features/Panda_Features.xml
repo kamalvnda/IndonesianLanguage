@@ -1,12 +1,12 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Panda1">
-			<DisplayName>Malas dan nakal</DisplayName>
-			<Desc>Memiliki kebiasaan tidak serius dalam bekerja namun sangat nakal, mengerjakan berbagai tugas dengan lambat. Namun ia mempunyai daya tarik yang tak terbantahkan.</Desc>
+			<DisplayName>Malas &amp; Nakal</DisplayName>
+			<Desc>Malas tapi nakal. Lambat dan ceroboh saat bekerja. Sangat menawan.</Desc>
 		</Text>
 		<Text Name="Panda2">
-			<DisplayName>Sosok yin dan yang</DisplayName>
-			<Desc>Tubuh dengan arus yin dan yang berputar-putar secara seimbang. Ini membuat[IT]Dapat dengan cepat menghaluskan tubuh. Ini juga membantu[IT]dapat mempelajari banyak hal dengan mudah</Desc>
+			<DisplayName>Body of Yin and Yang</DisplayName>
+			<Desc>Tubuhnya merupakan kombinasi Yin dan Yang, dengan peningkatan kecepatan pembentukan ulang dan kecepatan belajar.</Desc>
 		</Text>
 	</List>
 </Texts>
