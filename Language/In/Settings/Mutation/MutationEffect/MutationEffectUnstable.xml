@@ -1,635 +1,635 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger">
-			<Desc>Menarik rusa Lu Su</Desc>
+			<Desc>Menarik seekor rusa Lushu.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger2">
-			<Desc>Menarik Shi Fei</Desc>
+			<Desc>Menarik Qifei</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger3">
-			<Desc>Menarik sekawanan peri kecil yang aneh</Desc>
+			<Desc>Menarik sekelompok peri kecil yang aneh</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger4">
-			<Desc>Harta ajaib muncul</Desc>
+			<Desc>Sebuah artefak muncul.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger5">
-			<Desc>Sebuah harta karun muncul</Desc>
+			<Desc>Sebuah harta karun muncul.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua">
-			<Desc>Langsung menarik Naga Air.</Desc>
-			<SpecialDesc>Naga Air tiba-tiba muncul[SCHOOL]!</SpecialDesc>
+			<Desc>Segera tarik Naga Banjir.</Desc>
+			<SpecialDesc>Naga Banjir tiba-tiba muncul[SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua2">
-			<Desc>Segera menarik angsa yang menyala-nyala.</Desc>
-			<SpecialDesc>Seekor burung api yang marah tiba-tiba muncul di dalam[SCHOOL]!</SpecialDesc>
+			<Desc>Segera menarik perhatian burung phoenix yang ganas.</Desc>
+			<SpecialDesc>Seekor burung phoenix yang ganas tiba-tiba muncul[SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Lua3">
-			<Desc>Ini segera menarik perhatian Zhu Long.</Desc>
-			<SpecialDesc>Naga Lilin tiba-tiba muncul di[SCHOOL]!</SpecialDesc>
+			<Desc>Segera tarik Zhulong.</Desc>
+			<SpecialDesc>Naga Obor tiba-tiba muncul[SCHOOL]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_DaNengChuShi">
-			<Desc>Ini segera menimbulkan tiga rumor tentang para penggarap kuno.</Desc>
-			<SpecialDesc>[SCHOOL]Menemukan rumor tentang seorang kultivator kuno...</SpecialDesc>
+			<Desc>Segera memicu 3 rumor kultivator kuno.</Desc>
+			<SpecialDesc>[SCHOOL]telah mengungkap rumor tentang pembudidaya kuno...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather">
-			<Desc>Ciptakan suasana cinta di dalam kantor.</Desc>
+			<DisplayName>Panggil Cuaca</DisplayName>
+			<Desc>Ciptakan suasana romantis dalam sekte</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
-			<DisplayName>Panggil cuacanya</DisplayName>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather2">
-			<Desc>Sebutkan cuacanya: musim hujan</Desc>
+			<Desc>Cuaca Pemanggilan: Musim Hujan</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather3">
-			<Desc>Sebutkan cuacanya: musim kemarau</Desc>
+			<Desc>Cuaca Pemanggilan: Kekeringan</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather4">
-			<Desc>Sebut cuacanya: Hujan Badai</Desc>
+			<Desc>Cuaca Pemanggilan: Hujan Badai</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather5">
-			<Desc>Panggilan Cuaca: Badai Tropis</Desc>
+			<Desc>Cuaca Pemanggilan: Angin Foehn</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather6">
-			<Desc>Sebutkan cuacanya: badai pasir</Desc>
+			<Desc>Cuaca Pemanggilan: Badai Debu</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather7">
-			<Desc>Panggil Cuaca: Malam Abadi</Desc>
+			<Desc>Cuaca pemanggilan: Malam Abadi.</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather8">
-			<Desc>Hubungi Cuaca: Kabut Beracun</Desc>
+			<Desc>Cuaca Pemanggilan: Udara Beracun</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_BeginWeather9">
-			<Desc>Panggilan Cuaca: Badai Petir</Desc>
+			<Desc>Cuaca pemanggilan: Badai petir.</Desc>
 			<SpecialDesc>[TARGET]muncul di[SCHOOL]...</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger19">
-			<Desc>Menarik orang yang lewat</Desc>
+			<Desc>Menarik orang yang lewat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger20">
-			<Desc>Menarik teman</Desc>
+			<Desc>Menarik teman abadi.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger21">
-			<Desc>menarik roh</Desc>
+			<Desc>Menarik semangat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger22">
-			<Desc>Menarik setan yang baru lahir</Desc>
+			<Desc>Memikat Yaoguai yang baru terbentuk.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger23">
-			<Desc>Menemukan invasi dari gerombolan setan.</Desc>
+			<Desc>Mengalami invasi binatang buas.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_EventTrigger24">
-			<Desc>Hadapi penyusup misterius itu</Desc>
+			<Desc>Menghadapi invasi oleh individu tak dikenal</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured">
-			<Desc>Makhluk acak di peta terluka ringan.</Desc>
-			<SpecialDesc>[TARGET]Merasa sedikit sakit!</SpecialDesc>
+			<Desc>Makhluk acak di peta menderita luka ringan.</Desc>
+			<SpecialDesc>[TARGET]terasa sedikit tidak enak badan!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomCreatureInjured2">
-			<Desc>Makhluk acak di peta terluka parah.</Desc>
-			<SpecialDesc>[TARGET]Tiba-tiba jatuh sakit!</SpecialDesc>
+			<Desc>Makhluk hidup acak di peta menderita luka parah</Desc>
+			<SpecialDesc>[TARGET]tiba-tiba jatuh sakit!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomEnemyDies">
-			<Desc>Karakter musuh acak di peta sangat mematikan.</Desc>
-			<SpecialDesc>[TARGET]Tiba-tiba tidak bisa berdiri!</SpecialDesc>
+			<Desc>Karakter acak yang tidak ramah mati di dalam peta.</Desc>
+			<SpecialDesc>[TARGET]tiba-tiba binasa!</SpecialDesc>
 			<Effects.0.sParam1>Kekacauan Surgawi</Effects.0.sParam1>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce">
-			<Desc>Memicu peristiwa rahasia secara instan</Desc>
-			<SpecialDesc>[SCHOOL]Mendengar rumornya:[TARGET]</SpecialDesc>
+			<Desc>Segera memicu peristiwa rahasia.</Desc>
+			<SpecialDesc>[SCHOOL]telah mempelajari rumor:[TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce1">
-			<Desc>Memicu peristiwa rahasia secara instan</Desc>
-			<SpecialDesc>[SCHOOL]Mendengar rumornya:[TARGET]</SpecialDesc>
+			<Desc>Segera memicu peristiwa rahasia.</Desc>
+			<SpecialDesc>[SCHOOL]telah mempelajari rumor:[TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_TriggerMapSecretAtOnce2">
-			<Desc>Memicu peristiwa rahasia secara instan</Desc>
-			<SpecialDesc>[SCHOOL]Mendengar rumornya:[TARGET]</SpecialDesc>
+			<Desc>Segera memicu peristiwa rahasia.</Desc>
+			<SpecialDesc>[SCHOOL]telah mempelajari rumor:[TARGET]</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation">
-			<Desc>Satu sekte merasa lebih kagum pada sekte kami.</Desc>
-			<SpecialDesc>[TARGET]Ada sedikit kekaguman di dalamnya[SCHOOL], rasa suka meningkat!</SpecialDesc>
+			<Desc>Sekte tertentu mendapat dukungan dari Sekte kami.</Desc>
+			<SpecialDesc>[TARGET]memiliki sedikit apresiasi[SCHOOL], Bantuan meningkat!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation2">
-			<Desc>Satu sekolah Dharma menjadi lebih dekat dengan sekolah kami.</Desc>
-			<SpecialDesc>[TARGET]cocok dengan[SCHOOL]Semakin Anda menjadi lebih baik, semakin Anda menyukainya!</SpecialDesc>
+			<Desc>Sebuah sekte lurus tertentu menjadi semakin dekat dengan sekte kami.</Desc>
+			<SpecialDesc>[TARGET]tumbuh lebih dekat dengan[SCHOOL], Bantuan meningkat pesat!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation3">
-			<Desc>Satu sekte jahat lebih dekat dengan sekte kita.</Desc>
-			<SpecialDesc>[TARGET]cocok dengan[SCHOOL]Semakin Anda menjadi lebih baik, semakin Anda menyukainya!</SpecialDesc>
+			<Desc>Sebuah sekte jahat tertentu menjadi semakin dekat dengan sekte kita.</Desc>
+			<SpecialDesc>[TARGET]tumbuh lebih dekat dengan[SCHOOL], Bantuan meningkat pesat!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation4">
-			<Desc>Sekte Dhamma di seluruh dunia lebih menghormati sekte kami.</Desc>
-			<SpecialDesc>[TARGET]Rasa hormat yang bulat untuk[SCHOOL], membuat rasa sukanya meningkat pesat!</SpecialDesc>
+			<Desc>Para kultivator yang adil di dunia lebih menghormati Sekte kami.</Desc>
+			<SpecialDesc>[TARGET]dengan suara bulat menunjukkan rasa hormat[SCHOOL], bantuan yang sangat meningkat!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolRelation5">
-			<Desc>Sekte jahat di seluruh dunia lebih menghormati sekte kami.</Desc>
-			<SpecialDesc>[TARGET]Rasa hormat yang bulat untuk[SCHOOL], membuat rasa sukanya meningkat pesat!</SpecialDesc>
-			<DisplayName>Kebaikan kantor</DisplayName>
+			<DisplayName>Bantuan Sekte</DisplayName>
+			<Desc>Para penggarap kejahatan duniawi menunjukkan rasa hormat yang lebih besar kepada Sekte kami.</Desc>
+			<SpecialDesc>[TARGET]dengan suara bulat menunjukkan rasa hormat[SCHOOL], bantuan yang sangat meningkat!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing">
-			<Desc>Menerima batu mineral secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan mineral secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing2">
-			<Desc>Menerima persediaan makanan secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan makanan secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing3">
-			<Desc>Menerima bahan konstruksi secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan bahan bangunan secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing4">
-			<Desc>Menerima obat secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan obat secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing5">
-			<Desc>Terima secara acak Akar Roh Lima Elemen</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan akar spiritual Lima Elemen secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing6">
-			<Desc>Menerima ramuan ajaib secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan obat secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing7">
-			<Desc>Menerima sejumlah besar batu roh secara acak.</Desc>
-			<SpecialDesc>[SCHOOL]Dapatkan banyak batu roh!</SpecialDesc>
+			<Desc>Dapatkan Batu Roh dalam jumlah besar secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]telah mendapatkan batu roh dalam jumlah besar!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing8">
-			<Desc>Menerima Permata Roh dalam jumlah besar secara acak.</Desc>
-			<SpecialDesc>[SCHOOL]Menerima banyak permata roh dendam!</SpecialDesc>
+			<Desc>Dapatkan Amber dalam jumlah besar secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]telah memperoleh Permata Jiwa Penderitaan dalam jumlah besar!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetItemThing9">
-			<Desc>Menerima barang berharga secara acak</Desc>
-			<SpecialDesc>[SCHOOL]menerima[TARGET]!</SpecialDesc>
+			<Desc>Dapatkan barang berharga secara acak.</Desc>
+			<SpecialDesc>[SCHOOL]memperoleh[TARGET]!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolScore">
-			<Desc>Mendapatkan ketenaran sekte.</Desc>
-			<SpecialDesc>[SCHOOL]Dapatkan sedikit ketenaran!</SpecialDesc>
-			<DisplayName>Reputasi biro</DisplayName>
+			<DisplayName>Reputasi Sekte</DisplayName>
+			<Desc>Dapatkan Sedikit Reputasi Sekte</Desc>
+			<SpecialDesc>[SCHOOL]telah mendapatkan sedikit reputasi!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolScore2">
-			<Desc>Hal ini menyebabkan reputasi Sekte Khajon tersebar luas.</Desc>
-			<SpecialDesc>[SCHOOL]Ketenaran menyebar jauh dan luas, mendapatkan ketenaran yang luar biasa!</SpecialDesc>
-			<DisplayName>Reputasi biro</DisplayName>
+			<DisplayName>Reputasi Sekte</DisplayName>
+			<Desc>Jadikan reputasi sekte itu tersebar luas.</Desc>
+			<SpecialDesc>[SCHOOL]Ketenarannya menyebar luas, menghasilkan Reputasi yang besar!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetSchoolScore3">
-			<Desc>menyebabkan nama sekte tersebut bergema di seluruh alam semesta</Desc>
-			<SpecialDesc>[SCHOOL]Terkenal di seluruh alam semesta, memperoleh ketenaran luar biasa!</SpecialDesc>
-			<DisplayName>Reputasi biro</DisplayName>
+			<DisplayName>Reputasi Sekte</DisplayName>
+			<Desc>Membuat nama sekte itu bergema ke seluruh alam semesta.</Desc>
+			<SpecialDesc>[SCHOOL]Nama 's bergema di seluruh alam semesta, mendapatkan reputasi besar!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_SexTransformation">
-			<Desc>mengubah jenis kelamin</Desc>
-			<SpecialDesc>[NPC]Beberapa perubahan misterius telah terjadi...</SpecialDesc>
+			<Desc>Transformasi Gender</Desc>
+			<SpecialDesc>[NPC]mengalami beberapa perubahan misterius..</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_HealthRecoverAtOnce">
-			<Desc>Segera sembuhkan semua luka.</Desc>
-			<SpecialDesc>[NPC]Merasakan kenyamanan yang belum pernah kurasakan sebelumnya, seolah-olah seluruh luka dan rasa sakit tersapu bersih.</SpecialDesc>
+			<Desc>Sembuhkan semua luka secara instan</Desc>
+			<SpecialDesc>[NPC]merasakan rasa nyaman yang belum pernah terjadi sebelumnya, seolah-olah semua cedera dan penyakit telah hilang</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_RandomDrugToleranceCleared">
-			<Desc>Menghapus resistensi pil acak.</Desc>
-			<SpecialDesc>[NPC]Perubahan pada tubuh terasa, resistensi terhadap obat tertentu hilang.</SpecialDesc>
+			<Desc>Menghapus Toleransi Obat secara acak.</Desc>
+			<SpecialDesc>[NPC]merasakan beberapa perubahan pada tubuh, dan resistensi terhadap obat tertentu menghilang</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_UnlockFabaoSlot">
-			<Desc>Membuka satu slot jimat tambahan.</Desc>
-			<SpecialDesc>[NPC]Miliki kontrol lebih besar atas senjata ajaib Anda.</SpecialDesc>
+			<Desc>Buka 1 slot jimat.</Desc>
+			<SpecialDesc>[NPC]dapat mengontrol lebih banyak artefak.</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_1">
-			<Desc>Sedikit meningkatkan kecepatan pemulihan Qi.</Desc>
-			<SpecialDesc>Kecepatan pemulihan Qi seseorang[NPC]sedikit meningkat</SpecialDesc>
+			<Desc>Sedikit meningkatkan kecepatan pemulihan Qi pribadi.</Desc>
+			<SpecialDesc>[NPC]Kecepatan pemulihan Qi telah sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_2">
-			<Desc>Meningkatkan kecepatan memulihkan Qi sendiri.</Desc>
-			<SpecialDesc>Kecepatan pemulihan Qi seseorang[NPC]peningkatan sedang</SpecialDesc>
+			<Desc>Tingkatkan kecepatan pemulihan Qi sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan pemulihan Qi meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_3">
-			<Desc>Sangat meningkatkan kecepatan pemulihan Qi.</Desc>
-			<SpecialDesc>Kecepatan pemulihan Qi seseorang[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Sangat meningkatkan kecepatan pemulihan Qi pribadi.</Desc>
+			<SpecialDesc>[NPC]Kecepatan pemulihan Qi telah meningkat secara signifikan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue">
-			<Desc>Dapatkan tunjangan kecil untuk pelatihan dasar.</Desc>
-			<SpecialDesc>Biaya pelatihan dasar[NPC]sedikit meningkat</SpecialDesc>
+			<Desc>Dapatkan sejumlah kecil nilai Yayasan</Desc>
+			<SpecialDesc>[NPC]Nilai Foundation sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetZhuJiValue2">
-			<Desc>Menerima sejumlah besar nilai yayasan</Desc>
-			<SpecialDesc>Biaya pelatihan dasar[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Dapatkan nilai Yayasan dalam jumlah besar</Desc>
+			<SpecialDesc>[NPC]Nilai Yayasan meningkat secara signifikan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetStageValue">
-			<Desc>Kekuatan kultivasinya sendiri sedikit meningkat.</Desc>
-			<SpecialDesc>praktek[NPC]meningkat, mendapatkan beberapa pertumbuhan</SpecialDesc>
+			<Desc>Budidaya sendiri sedikit meningkat.</Desc>
+			<SpecialDesc>[NPC]Budidayanya telah maju dan mengalami pertumbuhan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_GetStageValue2">
-			<Desc>Kekuatan kultivasinya sendiri meningkat pesat.</Desc>
-			<SpecialDesc>praktek[NPC]meroket pesat</SpecialDesc>
+			<Desc>Budidaya sendiri berkembang pesat.</Desc>
+			<SpecialDesc>[NPC]budidaya telah melonjak secara signifikan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_4">
-			<Desc>Tingkatkan energi maksimum Anda sendiri</Desc>
-			<SpecialDesc>Energi tertinggi dari[NPC]lagi</SpecialDesc>
+			<Desc>Tingkatkan batas Qi sendiri.</Desc>
+			<SpecialDesc>[NPC]Batas Qi meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_5">
-			<Desc>Tingkatkan basis Qi maksimum Anda sendiri</Desc>
-			<SpecialDesc>Basis Qi tertinggi[NPC]lagi</SpecialDesc>
+			<Desc>Tingkatkan batas Qi sendiri secara mendasar</Desc>
+			<SpecialDesc>[NPC]Batas Qi telah meningkat secara mendasar</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_6">
-			<Desc>Meningkatkan kecepatan kultivasi seseorang</Desc>
-			<SpecialDesc>[NPC]Kecepatan budidaya Qi meningkat.</SpecialDesc>
+			<Desc>Tingkatkan kecepatan budidaya sendiri.</Desc>
+			<SpecialDesc>[NPC]kecepatan budidaya meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_7">
-			<Desc>Kurangi kemungkinan Anda kelaparan.</Desc>
-			<SpecialDesc>[NPC]Telah menurunnya daya tahan terhadap kelaparan</SpecialDesc>
+			<Desc>Menjadi Kurang Rentan terhadap Kelaparan</Desc>
+			<SpecialDesc>[NPC]menjadi kurang rentan terhadap kelaparan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_8">
-			<Desc>Kurangi kemungkinan kelelahan Anda sendiri.</Desc>
-			<SpecialDesc>[NPC]mengalami penurunan ketahanan lelah</SpecialDesc>
+			<Desc>Menjadi Kurang Rentan terhadap Kelelahan</Desc>
+			<SpecialDesc>[NPC]menjadi kurang rentan terhadap kelelahan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_9">
-			<Desc>Kurangi kemungkinan Anda haus.</Desc>
-			<SpecialDesc>[NPC]Ada penurunan resistensi terhadap rasa haus.</SpecialDesc>
+			<Desc>Menjadi kurang rentan terhadap rasa haus.</Desc>
+			<SpecialDesc>[NPC]menjadi kurang rentan terhadap rasa haus</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_10">
-			<Desc>Tingkatkan kekuatan armormu sendiri.</Desc>
-			<SpecialDesc>Pelindung energi dari[NPC]lagi</SpecialDesc>
+			<Desc>Perkuat kekuatan penghalang Qi sendiri</Desc>
+			<SpecialDesc>[NPC]kekuatan penghalang Qi telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_11">
-			<Desc>Tingkatkan peluang Anda untuk menembus batasan Anda sendiri.</Desc>
-			<SpecialDesc>[NPC]Ada peluang lebih tinggi untuk mampu menembus batasan.</SpecialDesc>
+			<Desc>Meningkatkan peluang terobosan hambatan pribadi</Desc>
+			<SpecialDesc>[NPC]menjadi lebih mungkin untuk menembus kemacetan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_12">
-			<Desc>menunda datangnya azab surgawi bagi diri sendiri</Desc>
-			<SpecialDesc>[NPC]Menyembunyikan rahasia ke langit, menyebabkan datangnya hukuman surgawi ditunda.</SpecialDesc>
+			<Desc>Tunda semua Kesengsaraan sendiri.</Desc>
+			<SpecialDesc>[NPC]telah mengaburkan rahasia Surgawi, menunda datangnya semua kesengsaraan surgawi</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_13">
-			<Desc>Kurangi benih dadu Anda sendiri</Desc>
-			<SpecialDesc>Kurangi bijinya[NPC]sedikit ke bawah</SpecialDesc>
+			<Desc>Kurangi bonus Pencapaian sendiri.</Desc>
+			<SpecialDesc>[NPC]Pencapaiannya sedikit menurun</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_14">
-			<Desc>Sangat menurunkan benih dao miliknya sendiri</Desc>
-			<SpecialDesc>Kurangi bijinya[NPC]turun drastis</SpecialDesc>
+			<Desc>Mengurangi perolehan pencapaian secara signifikan</Desc>
+			<SpecialDesc>[NPC]Pencapaiannya sangat menurun</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_15">
-			<Desc>Tambahkan dadu benih Anda sendiri</Desc>
-			<SpecialDesc>Tambahkan biji dadu.[NPC]sedikit ke atas</SpecialDesc>
+			<Desc>Tingkatkan Bonus Pencapaian Sendiri</Desc>
+			<SpecialDesc>[NPC]Pencapaiannya sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_16">
-			<Desc>Meningkatkan dao benihnya sendiri secara signifikan</Desc>
-			<SpecialDesc>Tambahkan biji dadu.[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Meningkatkan bonus pencapaian sendiri secara signifikan.</Desc>
+			<SpecialDesc>[NPC]Pencapaiannya meningkat pesat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_17">
-			<Desc>Tingkatkan sedikit efisiensi berjalan napas Anda.</Desc>
-			<SpecialDesc>Kemampuan berjalan dengan nafas[NPC]sedikit lebih baik</SpecialDesc>
+			<Desc>Sedikit meningkatkan efisiensi pernapasannya sendiri.</Desc>
+			<SpecialDesc>[NPC]Efisiensi pernapasan sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_18">
-			<Desc>Meningkatkan efisiensi pernapasan Anda secara dramatis.</Desc>
-			<SpecialDesc>Kemampuan berjalan dengan nafas[NPC]sangat meningkat</SpecialDesc>
+			<Desc>Secara signifikan meningkatkan efisiensi pernapasan pribadi</Desc>
+			<SpecialDesc>[NPC]Efisiensi pernapasan meningkat pesat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_19">
-			<Desc>Memperkuat kekuatan alami tubuh</Desc>
-			<SpecialDesc>Ketahanan fisik alami dari[NPC]lebih kuat</SpecialDesc>
+			<Desc>Meningkatkan Ketahanan Alami tubuh.</Desc>
+			<SpecialDesc>[NPC]ketahanan tubuh alami menjadi lebih kuat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_20">
-			<Desc>Tingkatkan jangkauan kesadaran Anda</Desc>
-			<SpecialDesc>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.[NPC]memperluas</SpecialDesc>
+			<Desc>Meningkatkan rentang persepsi sendiri.</Desc>
+			<SpecialDesc>[NPC]rentang persepsi menjadi lebih luas</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_21">
-			<Desc>Meningkatkan batas umur seseorang secara signifikan.</Desc>
-			<SpecialDesc>Batasan usia sebesar[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Secara signifikan meningkatkan batas umurnya sendiri.</Desc>
+			<SpecialDesc>[NPC]batas umurnya meningkat pesat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_22">
-			<Desc>Sangat meningkatkan kecepatan gerakan Anda sendiri.</Desc>
-			<SpecialDesc>pergerakan dari[NPC]jauh lebih cepat</SpecialDesc>
+			<Desc>Meningkatkan kecepatan gerakan sendiri secara signifikan.</Desc>
+			<SpecialDesc>[NPC]bergerak dengan kecepatan yang meningkat secara signifikan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_23">
-			<Desc>Sedikit meningkatkan kecepatan membangun fondasi Anda.</Desc>
-			<SpecialDesc>Kecepatan pelatihan dasar[NPC]sedikit meningkat</SpecialDesc>
+			<Desc>Sedikit meningkatkan kecepatan pembangunan pondasi sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan Pelatihan Fondasi sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_24">
-			<Desc>Percepat latihan membangun fondasi Anda sendiri.</Desc>
-			<SpecialDesc>Kecepatan pelatihan dasar[NPC]lagi</SpecialDesc>
+			<Desc>Tingkatkan kecepatan Pelatihan Fondasi Anda sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan Pelatihan Fondasi sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_25">
-			<Desc>Secara dramatis meningkatkan kecepatan pelatihan untuk membangun fondasi seseorang.</Desc>
-			<SpecialDesc>Kecepatan pelatihan dasar[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Secara signifikan meningkatkan kecepatan Pelatihan Fondasi pribadi</Desc>
+			<SpecialDesc>[NPC]Kecepatan Pelatihan Fondasi meningkat pesat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_26">
-			<Desc>Tingkatkan sedikit kecepatan belajar Anda.</Desc>
-			<SpecialDesc>Kecepatan belajar[NPC]sedikit meningkat</SpecialDesc>
+			<Desc>Sedikit meningkatkan kecepatan belajarnya sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan Belajarnya sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_27">
-			<Desc>Tingkatkan kecepatan belajar Anda sendiri</Desc>
-			<SpecialDesc>Kecepatan belajar[NPC]lagi</SpecialDesc>
+			<Desc>Meningkatkan kecepatan belajar sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan Belajar sedikit meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_28">
-			<Desc>Tingkatkan kecepatan belajar Anda secara dramatis</Desc>
-			<SpecialDesc>Kecepatan belajar[NPC]meningkat pesat</SpecialDesc>
+			<Desc>Secara signifikan meningkatkan kecepatan belajar sendiri.</Desc>
+			<SpecialDesc>[NPC]Kecepatan Belajar meningkat pesat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_29">
-			<Desc>Tingkatkan peluang mendapatkan pencerahan Anda sendiri.</Desc>
-			<SpecialDesc>[NPC]Ada lebih banyak peluang untuk diwujudkan.</SpecialDesc>
+			<Desc>Mempermudah diri sendiri untuk mendapatkan pencerahan.</Desc>
+			<SpecialDesc>[NPC]menjadi lebih mungkin untuk mendapatkan pencerahan.</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_30">
-			<Desc>Tingkatkan efisiensi kerja Anda secara keseluruhan</Desc>
-			<SpecialDesc>Kemampuan keseluruhan untuk bekerja[NPC]telah sangat ditingkatkan</SpecialDesc>
+			<Desc>Meningkatkan efisiensi kerja secara keseluruhan.</Desc>
+			<SpecialDesc>[NPC]efisiensi kerja secara keseluruhan telah meningkat secara signifikan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_31">
-			<Desc>Meningkatkan kondisi mental dasar</Desc>
-			<SpecialDesc>Keadaan mental dasar[NPC]lebih baik</SpecialDesc>
+			<Desc>Meningkatkan nilai Keadaan Mental dasar</Desc>
+			<SpecialDesc>[NPC]kondisi mental dasar membaik</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_32">
-			<Desc>Tingkatkan kemampuan Anda untuk membawa sihir Anda sendiri.</Desc>
-			<SpecialDesc>Kemampuan untuk menggunakan mekanisme[NPC]lagi</SpecialDesc>
+			<Desc>Tingkatkan kapasitas beban array sendiri.</Desc>
+			<SpecialDesc>[NPC]Kapasitas beban Formasi meningkat</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_40">
-			<Desc>Meningkatkan level keterampilan bertarung seseorang +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan tempur level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan bertarungnya sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Keterampilan bertarung level +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_41">
-			<Desc>Meningkatkan level keterampilan bertarung seseorang +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan tempur level +2</SpecialDesc>
+			<Desc>Meningkatkan level keterampilan bertarungnya sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]Keterampilan bertarung level +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_42">
-			<Desc>Meningkatkan batas level keterampilan tempur seseorang +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan tempur level +1 (tingkatkan batas)</SpecialDesc>
+			<Desc>Keterampilan bertarungnya sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Keterampilan bertarung level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_43">
-			<Desc>Tingkatkan keterampilan sosial Anda level +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan Level Keterampilan Sosial +1</SpecialDesc>
+			<Desc>Tingkatkan tingkat keterampilan sosial sendiri sebesar +1.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan sosial +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_44">
-			<Desc>Meningkatkan level keterampilan sosial seseorang +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan Level Keterampilan Sosial +2</SpecialDesc>
+			<Desc>Meningkatkan tingkat keterampilan sosialnya sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan sosial +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_45">
-			<Desc>Meningkatkan batas level keterampilan sosial seseorang sebesar +1.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan Keterampilan Sosial Level +1 (Batas Kenaikan)</SpecialDesc>
+			<Desc>Keterampilan Sosial sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]'s Keterampilan sosial level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_46">
-			<Desc>Tingkatkan level keterampilan kerajinan Anda +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan kerajinan level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan artisanry sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Artisanry +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_47">
-			<Desc>Tingkatkan level keterampilan kerajinan Anda +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan level keterampilan kerajinan +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan artisanry sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Artisanry +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_48">
-			<Desc>Meningkatkan batas level keterampilan kerajinan tangan sebanyak +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan kerajinan +1 (peningkatan batas)</SpecialDesc>
+			<Desc>Keterampilan Seni sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill Artisanry level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_49">
-			<Desc>Tingkatkan level keterampilan Qi Sense Anda +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan level keterampilan Qi Sense +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Qi sense sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Qi Sensing +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_50">
-			<Desc>Tingkatkan level keterampilan Qi Sense Anda +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan level keterampilan Qi Sense +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Qi sense sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Qi Sensing +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_51">
-			<Desc>Meningkatkan batas level skill Qi Sensing miliknya sebanyak +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill Qi Sense +1 (menambah batas)</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Qi Sense Anda sebanyak 1 (menaikkan batasnya).</Desc>
+			<SpecialDesc>[NPC]level keterampilan Qi Sense +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_52">
-			<Desc>Meningkatkan level keterampilan menempa senjata ajaib +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan menempa senjata ajaib level +1</SpecialDesc>
+			<Desc>Keterampilan Membuat/Membuat Artefak Sendiri Level +1</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Kerajinan/Kerajinan Artefak +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_53">
-			<Desc>Meningkatkan level keterampilan menempa senjata ajaib +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan menempa senjata ajaib +2</SpecialDesc>
+			<Desc>Tingkat Keterampilan Kerajinan/Membuat Artefak +2</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Kerajinan/Kerajinan Artefak +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_54">
-			<Desc>Meningkatkan batas level keterampilan menempa senjata ajaib seseorang sebesar +1.</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan menempa senjata ajaib +1 (peningkatan batas)</SpecialDesc>
+			<Desc>Skill Self Crafting/Artifact Crafting level +1 (menaikkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill Crafting/Artifact Crafting level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_55">
-			<Desc>Meningkatkan level keterampilan meramu obat +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan membuat ramuan/pemurnian obat +1</SpecialDesc>
+			<Desc>Tingkat Keterampilan Pengobatan/Alkimia Sendiri +1</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Kedokteran/Alkimia +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_56">
-			<Desc>Meningkatkan level keterampilan meramu obat +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan membuat ramuan/pemurnian obat +2</SpecialDesc>
+			<Desc>Level Keterampilan Pengobatan/Alkimia Sendiri +2</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Kedokteran/Alkimia +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_57">
-			<Desc>Meningkatkan batas level keterampilan meramu obat sebanyak +1.</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill Alchemy/Medicine Refining +1 (Batas Peningkatan)</SpecialDesc>
+			<Desc>Level keterampilan Pengobatan Mandiri/Alkimia +1 (menaikkan batas).</Desc>
+			<SpecialDesc>[NPC]Level keahlian Kedokteran/Alkimia +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_58">
-			<Desc>Tingkatkan level keahlian Anda dalam menggunakan properti magis Anda +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan senjata ajaib +1</SpecialDesc>
+			<Desc>Keterampilan Artefak Pribadi +1</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Artefak +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_59">
-			<Desc>Tingkatkan level keahlian Anda dalam menggunakan properti magis Anda +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan senjata ajaib +2</SpecialDesc>
+			<Desc>Keterampilan Artefak Pribadi +2</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Artefak +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_60">
-			<Desc>Meningkatkan batas level keterampilan untuk menggunakan harta magis +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill senjata ajaib +1 (menambah batas)</SpecialDesc>
+			<Desc>Skill Artifact Mastery level +1 (menaikkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill Artifact level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_61">
-			<Desc>Tingkatkan level keterampilan sihir Anda +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan sihir level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Mantra sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan mantra +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_62">
-			<Desc>Tingkatkan level keterampilan sihir Anda +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan sihir +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Mantra sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Mantra +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_63">
-			<Desc>Meningkatkan batas level keterampilan sihir seseorang +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan sihir +1 (menambah batas)</SpecialDesc>
+			<Desc>Skill Spell miliknya level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill mantra level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_64">
-			<Desc>Meningkatkan level skill pertahanan seseorang +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan pertahanan level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan perlindungan diri sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Perlindungan +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_65">
-			<Desc>Meningkatkan level skill pertahanan sendiri +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill pertahanan +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan perlindungan diri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Perlindungan +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_66">
-			<Desc>Meningkatkan batas level skill pertahanan seseorang +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill pertahanan +1 (menambah batas)</SpecialDesc>
+			<Desc>Skill Perlindungan Sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill Perlindungan level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_67">
-			<Desc>Tingkatkan keterampilan formasi Anda sendiri level +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan formasi level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan susunannya sendiri sebesar +1.</Desc>
+			<SpecialDesc>[NPC]Keterampilan Formasi level +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_68">
-			<Desc>Tingkatkan keterampilan formasi Anda sendiri level +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan skill formasi level +2</SpecialDesc>
+			<Desc>Keterampilan Formasi Pribadi +2</Desc>
+			<SpecialDesc>[NPC]Keterampilan Formasi tingkat +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_69">
-			<Desc>Meningkatkan batas level keterampilan formasi sendiri +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill formasi +1 (menambah batas)</SpecialDesc>
+			<Desc>Skill Formasi sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Keterampilan Formasi level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_70">
-			<Desc>Tingkatkan level keterampilan penambangan Anda +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan penambangan level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan penambangan sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan menambang +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_71">
-			<Desc>Tingkatkan level keterampilan penambangan Anda +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan penambangan level +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan penambangan sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan Penambangan +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_72">
-			<Desc>Meningkatkan batas level keterampilan penambangan sendiri +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan penambangan level +1 (peningkatan batas)</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan Penambangan Anda sebanyak 1 (menaikkan batasnya).</Desc>
+			<SpecialDesc>[NPC]Level keterampilan penambangan +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_73">
-			<Desc>Meningkatkan level keterampilan budidaya seseorang +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan keterampilan pertanian level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan bertani sendiri sebanyak +1.</Desc>
+			<SpecialDesc>[NPC]Keterampilan bertani level +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_74">
-			<Desc>Meningkatkan level keterampilan budidaya seseorang +2</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level keterampilan pertanian +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan bertani sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan bertani +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_75">
-			<Desc>Meningkatkan batas level keterampilan budidaya seseorang +1</Desc>
-			<SpecialDesc>[NPC]Meningkatkan level skill pertanian +1 (batas peningkatan)</SpecialDesc>
+			<Desc>Keterampilan Bertani sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill Farming level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_76">
-			<Desc>Tingkatkan keterampilan konstruksi Anda ke level +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan konstruksi level +1</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan konstruksi sendiri sebesar +1.</Desc>
+			<SpecialDesc>[NPC]keterampilan konstruksi tingkat +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_77">
-			<Desc>Tingkatkan level keterampilan konstruksi Anda +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan konstruksi level +2</SpecialDesc>
+			<Desc>Tingkatkan level keterampilan konstruksi sendiri sebanyak +2.</Desc>
+			<SpecialDesc>[NPC]tingkat keterampilan konstruksi +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_78">
-			<Desc>Meningkatkan batas level keterampilan konstruksi seseorang +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan konstruksi level +1 (peningkatan batas)</SpecialDesc>
+			<Desc>Keterampilan Konstruksi sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Keterampilan Konstruksi level +1 (peningkatan batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_79">
-			<Desc>Tingkatkan keterampilan memasak Anda ke level +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan memasak level +1</SpecialDesc>
+			<Desc>Keterampilan Memasak Pribadi +1</Desc>
+			<SpecialDesc>[NPC]Keterampilan memasak level +1</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_80">
-			<Desc>Tingkatkan level keterampilan memasak Anda +2</Desc>
-			<SpecialDesc>[NPC]Tingkatkan level keterampilan memasak +2</SpecialDesc>
+			<Desc>Keterampilan memasak sendiri level +2</Desc>
+			<SpecialDesc>[NPC]Tingkat keterampilan Memasak +2</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_81">
-			<Desc>Meningkatkan batas level keterampilan memasak seseorang +1</Desc>
-			<SpecialDesc>[NPC]Tingkatkan Skill Memasak Level +1 (Batas Peningkatan)</SpecialDesc>
+			<Desc>Keterampilan Memasak sendiri level +1 (meningkatkan batas).</Desc>
+			<SpecialDesc>[NPC]Skill memasak level +1 (menambah batas)</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_82">
-			<Desc>Tingkatkan pesona Anda sebesar 10%</Desc>
-			<SpecialDesc>[NPC]Tingkatkan pesona Anda +10%</SpecialDesc>
+			<Desc>Tingkatkan Pesona sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]Karisma meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_83">
-			<Desc>Tingkatkan pesona Anda sebesar 20%</Desc>
-			<SpecialDesc>[NPC]Tingkatkan pesona Anda +20%</SpecialDesc>
+			<Desc>Tingkatkan Pesona sendiri sebesar 20%.</Desc>
+			<SpecialDesc>[NPC]Karisma meningkat sebesar 20%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_84">
-			<Desc>Tingkatkan pesona Anda sebesar 30%</Desc>
-			<SpecialDesc>[NPC]Tingkatkan pesona Anda +30%</SpecialDesc>
+			<Desc>Tingkatkan Pesona sendiri sebesar 30%.</Desc>
+			<SpecialDesc>[NPC]Karisma meningkat sebesar 30%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_85">
-			<Desc>Tingkatkan kecerdasan Anda sebesar 10%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan kecerdasan sendiri +10%</SpecialDesc>
+			<Desc>Tingkatkan Kecerdasan sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]Kecerdasan meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_86">
-			<Desc>Meningkatkan kecerdasan sendiri sebesar 20%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan kecerdasan sendiri +20%</SpecialDesc>
+			<Desc>Meningkatkan Kecerdasan sendiri sebesar 20%.</Desc>
+			<SpecialDesc>[NPC]Kecerdasan meningkat sebesar 20%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_87">
-			<Desc>Meningkatkan kecerdasan sendiri sebesar 30%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan kecerdasan sendiri +30%</SpecialDesc>
+			<Desc>Meningkatkan Kecerdasan sendiri sebesar 30%.</Desc>
+			<SpecialDesc>[NPC]Kecerdasan meningkat sebesar 30%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_88">
-			<Desc>Tingkatkan keberuntungan Anda sebesar 10%</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keberuntungan Anda +10%</SpecialDesc>
+			<Desc>Tingkatkan Keberuntungan sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]Keberuntungan meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_89">
-			<Desc>Tingkatkan keberuntungan Anda sebesar 20%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan keberuntungan sendiri +20%</SpecialDesc>
+			<Desc>Tingkatkan Keberuntungan sendiri sebesar 20%.</Desc>
+			<SpecialDesc>[NPC]Keberuntungan meningkat sebesar 20%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_90">
-			<Desc>Tingkatkan keberuntungan Anda sebesar 30%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan keberuntungan sendiri +30%</SpecialDesc>
+			<Desc>Tingkatkan Keberuntungan sendiri sebesar 30%.</Desc>
+			<SpecialDesc>[NPC]Keberuntungan meningkat sebesar 30%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_91">
-			<Desc>Tingkatkan nilai persepsi diri sebesar 10%</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kesadaran Anda sendiri +10%</SpecialDesc>
+			<Desc>Tingkatkan Persepsi sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]Persepsi meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_92">
-			<Desc>Meningkatkan nilai persepsi diri sebesar 20%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan kesadaran diri +20%</SpecialDesc>
+			<Desc>Tingkatkan Persepsi sendiri sebesar 20%.</Desc>
+			<SpecialDesc>[NPC]Persepsi meningkat sebesar 20%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_93">
-			<Desc>Tingkatkan nilai persepsi diri sebesar 30%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan kesadaran diri +30%</SpecialDesc>
+			<Desc>Tingkatkan Persepsi sendiri sebesar 30%.</Desc>
+			<SpecialDesc>[NPC]Persepsi meningkat sebesar 30%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_94">
-			<Desc>Meningkatkan stamina sendiri sebesar 10%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan stamina sendiri +10%</SpecialDesc>
+			<Desc>Meningkatkan Konstitusi sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]Konstitusi meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_95">
-			<Desc>Meningkatkan stamina sendiri sebesar 20%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan stamina sendiri +20%</SpecialDesc>
+			<Desc>Meningkatkan Konstitusi sendiri sebesar 20%.</Desc>
+			<SpecialDesc>[NPC]Konstitusi meningkat sebesar 20%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_96">
-			<Desc>Meningkatkan stamina sendiri sebesar 30%</Desc>
-			<SpecialDesc>[NPC]Meningkatkan stamina sendiri +30%</SpecialDesc>
+			<Desc>Meningkatkan Konstitusi sendiri sebesar 30%.</Desc>
+			<SpecialDesc>[NPC]Konstitusi meningkat sebesar 30%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_97">
-			<Desc>Meningkatkan lima atribut seseorang sebesar 10%.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan lima atribut miliknya +10%</SpecialDesc>
+			<Desc>Tingkatkan lima atribut milik sendiri sebesar 10%.</Desc>
+			<SpecialDesc>[NPC]lima atribut meningkat sebesar 10%</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_98">
-			<Desc>Kembangkan kemampuan untuk mengobati penyakit Anda sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan penyembuhan Anda sendiri</SpecialDesc>
+			<Desc>Meningkatkan kemampuan kerja sendiri yang berkaitan dengan menjadi seorang dokter</Desc>
+			<SpecialDesc>[NPC]kemampuan kerja yang berhubungan dengan penyembuhan telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_99">
-			<Desc>Meningkatkan keterampilan dalam menyembelih daging</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan Anda untuk menyembelih daging Anda sendiri.</SpecialDesc>
+			<Desc>Tingkatkan kemampuan Anda dalam pekerjaan jagal.</Desc>
+			<SpecialDesc>[NPC]Kemampuan kerja yang berhubungan dengan pemotongan daging telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_100">
-			<Desc>Kembangkan kemampuan memasak Anda sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan memasak Anda sendiri</SpecialDesc>
+			<Desc>Meningkatkan kemampuan kerja sendiri yang berhubungan dengan memasak</Desc>
+			<SpecialDesc>[NPC]Kemampuan kerja yang berhubungan dengan memasak telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_101">
-			<Desc>Kembangkan kemampuan konstruksi Anda sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan konstruksi Anda sendiri</SpecialDesc>
+			<Desc>Meningkatkan kemampuan kerja sendiri yang berhubungan dengan konstruksi</Desc>
+			<SpecialDesc>[NPC]kemampuan kerja yang berkaitan dengan konstruksi telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_102">
-			<Desc>Tingkatkan keterampilan penambangan Anda sendiri.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan penambangan Anda.</SpecialDesc>
+			<Desc>Tingkatkan kemampuan Anda dalam pekerjaan penambangan.</Desc>
+			<SpecialDesc>[NPC]kemampuan kerja yang berhubungan dengan pertambangan telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_103">
-			<Desc>Mengembangkan kemampuan bekerja dengan menggunakan kekuatan sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan Anda untuk melakukan tugas-tugas umum.</SpecialDesc>
+			<Desc>Meningkatkan kemampuan kerja sendiri terkait tugas prajurit infanteri</Desc>
+			<SpecialDesc>[NPC]Kemampuan kerja yang berhubungan dengan pekerjaan manual telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_104">
-			<Desc>Peningkatan ketahanan terhadap panas ekstrem</Desc>
-			<SpecialDesc>[NPC]meningkatkan ketahanan panasnya sendiri</SpecialDesc>
+			<Desc>Meningkatkan toleransi panas ekstrim.</Desc>
+			<SpecialDesc>[NPC]menjadi lebih tahan panas</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_105">
-			<Desc>Meningkatkan ketahanan terhadap suhu dingin yang ekstrem.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan ketahanan Anda terhadap dingin</SpecialDesc>
+			<Desc>Meningkatkan toleransi pribadi terhadap suhu dingin ekstrem.</Desc>
+			<SpecialDesc>[NPC]menjadi lebih tahan dingin</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_106">
-			<Desc>Meningkatkan kemampuan keseluruhan dalam pemurnian obat.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan keterampilan pengobatan/pengobatan herbal Anda sendiri.</SpecialDesc>
+			<Desc>Meningkatkan kemampuan Alkimia secara keseluruhan.</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang berhubungan dengan alkimia telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_108">
-			<Desc>Meningkatkan kemampuan keseluruhan dalam menempa senjata magis.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan Anda untuk membuat senjata ajaib Anda sendiri.</SpecialDesc>
+			<Desc>Meningkatkan kemampuan Artefak Kerajinan secara keseluruhan.</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang terkait dengan pembuatan artefak telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_110">
-			<Desc>Tingkatkan keterampilan dalam kerajinan Anda sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan Anda untuk membuat kerajinan Anda sendiri.</SpecialDesc>
+			<Desc>Tingkatkan kemampuan Anda dalam pekerjaan kerajinan tangan.</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang berhubungan dengan kerajinan tangan telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_111">
-			<Desc>Kembangkan kemampuan kultivasi Anda sendiri</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan pertanian Anda sendiri</SpecialDesc>
+			<Desc>Meningkatkan kemampuan kerja sendiri yang berhubungan dengan bertani</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang berhubungan dengan bertani telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_112">
-			<Desc>Tingkatkan kemampuan Anda secara keseluruhan dalam petualangan.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan petualangan Anda sendiri.</SpecialDesc>
+			<Desc>Meningkatkan kemampuan Petualangan secara keseluruhan.</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang berhubungan dengan petualangan telah ditingkatkan</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Unstable_Modifier_113">
-			<Desc>Meningkatkan kemampuan keseluruhan dalam membentuk.</Desc>
-			<SpecialDesc>[NPC]Tingkatkan kemampuan Anda untuk membentuk diri sendiri.</SpecialDesc>
+			<Desc>Meningkatkan kemampuan Remold secara keseluruhan.</Desc>
+			<SpecialDesc>[NPC]Kemampuan yang berhubungan dengan pembentukan kembali tubuh telah ditingkatkan</SpecialDesc>
 		</Text>
 	</List>
 </Texts>
