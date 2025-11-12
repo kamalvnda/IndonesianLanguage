@@ -1,25 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv4_2_1">
-			<DisplayName>keluasan yang luar biasa</DisplayName>
+			<DisplayName>Luasnya Luar Biasa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_1">
-			<DisplayName>Ciptakan alam semesta</DisplayName>
+			<DisplayName>Penciptaan Kosmos</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_2">
-			<DisplayName>permulaan waktu</DisplayName>
+			<DisplayName>Penurunan Waktu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_3">
-			<DisplayName>asal mula sesuatu</DisplayName>
+			<DisplayName>Berkembangnya Makhluk</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_4">
-			<DisplayName>Surga diam</DisplayName>
+			<DisplayName>Kehancuran Kosmos</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_5">
-			<DisplayName>Waktu segel</DisplayName>
+			<DisplayName>Pembatalan Waktu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv4_5_6">
-			<DisplayName>Hancurkan alam semesta</DisplayName>
+			<DisplayName>Pemusnahan Makhluk</DisplayName>
 		</Text>
 	</List>
 </Texts>
