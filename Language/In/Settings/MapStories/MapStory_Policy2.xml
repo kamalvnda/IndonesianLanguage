@@ -1,8 +1,8 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_TreeEXP">
-			<DisplayName>Pelajari Taoisme</DisplayName>
-			<Desc>Anda telah mempelajari Dao Surgawi cukup banyak dan sekarang Anda dapat menerapkannya pada pil pemurnian.</Desc>
+			<DisplayName>Pelajari Alam</DisplayName>
+			<Desc>Anda telah cukup belajar dari Pengakuan Iman Surga, dan perolehan Anda dapat dibekukan menjadi pil sekarang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 	</List>
