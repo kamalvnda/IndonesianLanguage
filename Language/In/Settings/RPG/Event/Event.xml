@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Initialize">
-			<DisplayName>awal</DisplayName>
+			<DisplayName>Awal</DisplayName>
 		</Text>
 		<Text Name="StayInTrap">
 			<DisplayName>Di tempat jebakan</DisplayName>
@@ -14,13 +14,13 @@
 			<DisplayName>Tinggalkan titik jebakan.</DisplayName>
 		</Text>
 		<Text Name="BeenAttack">
-			<DisplayName>terserang</DisplayName>
+			<DisplayName>Terserang</DisplayName>
 		</Text>
 		<Text Name="BeenDestroy">
-			<DisplayName>hancur</DisplayName>
+			<DisplayName>Hancur</DisplayName>
 		</Text>
 		<Text Name="Dead">
-			<DisplayName>aku sekarat.</DisplayName>
+			<DisplayName>Aku sekarat.</DisplayName>
 		</Text>
 		<Text Name="InSocial">
 			<DisplayName>Berinteraksi</DisplayName>
