@@ -1,10 +1,10 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Grass" sParam="Item">
-			<ThingName>rumput kering</ThingName>
-			<Desc>Bal jerami</Desc>
-			<Item.FabaoSuffix>tali, tali, rumput</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>rumput kering</Item.BeMaterial.NamePrefix>
+			<ThingName>Jerami</ThingName>
+			<Desc>Seikat jerami.</Desc>
+			<Item.FabaoSuffix>Tali, Tali, Rumput</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Jerami</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
