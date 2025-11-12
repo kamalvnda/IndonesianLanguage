@@ -13,7 +13,7 @@
 			<Desc>Hidangan sederhana buatan rumah, rasanya biasa saja tapi tulus.</Desc>
 		</Text>
 		<Text Name="Item_DeliciousFood" sParam="Item">
-			<ThingName>Makanan enak</ThingName>
+			<ThingName>Makanan Enak</ThingName>
 			<Desc>Kelezatannya, baik bahan maupun teknik pembuatannya cukup canggih. Rasanya sangat lezat.</Desc>
 		</Text>
 		<Text Name="Item_DelicacyFood" sParam="Item">
