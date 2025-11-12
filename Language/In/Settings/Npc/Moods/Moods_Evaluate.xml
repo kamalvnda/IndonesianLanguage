@@ -1,169 +1,169 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BaseExpect1">
-			<DisplayName>Tenang dari rasa takut</DisplayName>
-			<Desc>Berlari terus menerus selama berhari-hari sungguh melelahkan. Tapi itu masih lebih baik daripada kematian...</Desc>
-			<StoryDesc>Lolos dari bencana itu adalah sebuah keberuntungan.</StoryDesc>
+			<DisplayName>Menenangkan Diri dari Ketakutan</DisplayName>
+			<Desc>Berlari beberapa hari memang membuat seseorang kelelahan, tapi itu lebih baik daripada mati...</Desc>
+			<StoryDesc>Lolos dari bencana itu adalah suatu keberuntungan</StoryDesc>
 		</Text>
 		<Text Name="BaseExpect2">
-			<DisplayName>Jauh dari keramaian dan hiruk pikuk</DisplayName>
-			<Desc>Meski tak ada apa pun di sini Tapi itu adalah tempat yang lebih baik daripada dunia luar yang kacau balau.</Desc>
-			<StoryDesc>merasa aman Jauh dari hiruk pikuk</StoryDesc>
+			<DisplayName>Jauh dari Kekacauan</DisplayName>
+			<Desc>Meskipun tidak ada apa-apa di sini, tapi dunia ini jauh lebih baik daripada kekacauan di luar.</Desc>
+			<StoryDesc>Merasa aman karena jauh dari kekacauan itu</StoryDesc>
 		</Text>
 		<Text Name="BaseExpect3">
-			<DisplayName>kehidupan baru</DisplayName>
-			<Desc>Sepertinya kamu lebih suka berada di sini. Tidak ada perang atau pajak. Meski hidup agak sulit secara fisik, namun nyaman. Mungkinkah ini awal baru dimana semua orang penuh harapan?</Desc>
-			<StoryDesc>Saya merasa bersemangat dan diam-diam berharap untuk awal yang baru ini.</StoryDesc>
+			<DisplayName>Kehidupan Baru</DisplayName>
+			<Desc>Sepertinya Anda semua sudah menyukai tempat ini. Tidak ada perang atau pajak, dan meskipun keadaannya agak sulit, namun situasinya layak untuk ditinggali. Mungkinkah ini awal yang baru? Setiap orang penuh harapan.</Desc>
+			<StoryDesc>merasa tidak biasa diam-diam berharap untuk awal yang baru</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect1">
-			<DisplayName>rumah yang mengerikan</DisplayName>
-			<Desc>Apakah tempat ini bisa disebut sebagai tempat tinggal manusia?</Desc>
-			<StoryDesc>Rasanya tempat ini bisa dengan mudah membuat orang jadi gila.</StoryDesc>
+			<DisplayName>Perumahan yang Mengerikan</DisplayName>
+			<Desc>Apakah tempat ini cocok untuk ditinggali manusia?</Desc>
+			<StoryDesc>Merasa bahwa kondisi seperti ini membuat emosi mudah berkobar</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect2">
-			<DisplayName>rumah horor</DisplayName>
-			<Desc>Tempat ini benar-benar menakutkan. Mungkin tidur di luar di atas rumput akan lebih nyaman.</Desc>
-			<StoryDesc>Saya tidak bisa berkata-kata melihat kondisi kehidupan yang kejam.</StoryDesc>
+			<DisplayName>Perumahan yang Menakutkan</DisplayName>
+			<Desc>Lingkungan ini setidaknya menakutkan. Tidur di alam liar mungkin akan lebih nyaman.</Desc>
+			<StoryDesc>merasa tidak sulit untuk mengeluh dengan kondisi kehidupan yang seperti itu</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect3">
-			<DisplayName>rumah menakutkan</DisplayName>
-			<Desc>Tempat ini hanya cukup baik untuk perlindungan dari angin dan hujan.</Desc>
-			<StoryDesc>Rasanya tidak nyaman harus menanggung kondisi yang keras seperti itu.</StoryDesc>
+			<DisplayName>Perumahan yang Mengerikan</DisplayName>
+			<Desc>Kondisi ini pada dasarnya hanya baik untuk melindungi seseorang dari angin dan hujan.</Desc>
+			<StoryDesc>merasa mudah untuk tidak bahagia ketika harus menghadapi kondisi yang kasar seperti itu</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect4">
-			<DisplayName>Kamar biasa</DisplayName>
+			<DisplayName>Kamar Biasa</DisplayName>
 			<Desc>Ruangan ini cukup standar dalam segala hal.</Desc>
-			<StoryDesc>Menurut Anda bagaimana ruangan ini harus diperbaiki?</StoryDesc>
+			<StoryDesc>berpikir bagaimana ruangan ini bisa diperbaiki</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect5">
-			<DisplayName>Kamar yang lebih baik dari kamar rata-rata</DisplayName>
-			<Desc>Ruangan ini tidak buruk sama sekali.</Desc>
-			<StoryDesc>Saya merasa ruangan ini cukup nyaman.</StoryDesc>
+			<DisplayName>Kamar yang lebih baik dari rata-rata</DisplayName>
+			<Desc>Kamarnya lumayan.</Desc>
+			<StoryDesc>Dinilai bahwa ruangan ini cukup nyaman</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect6">
-			<DisplayName>Kamar yang elegan</DisplayName>
-			<Desc>Siapapun yang mendesain ruangan ini sangat mempedulikannya.</Desc>
-			<StoryDesc>Saya merasa ruangan ini sangat layak huni.</StoryDesc>
+			<DisplayName>Kamar Indah.</DisplayName>
+			<Desc>Siapa pun yang merancang dan mengatur ruangan ini benar-benar memikirkannya.</Desc>
+			<StoryDesc>Menilai bahwa ruangan ini sangat bagus</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect7">
-			<DisplayName>Kamar mewah</DisplayName>
-			<Desc>Sepertinya sang desainer mengerahkan segalanya untuk mendesain ruangan yang indah ini.</Desc>
-			<StoryDesc>Saya merasa ruangan ini sungguh luar biasa!</StoryDesc>
+			<DisplayName>Kamar Gemerlap</DisplayName>
+			<Desc>Mereka benar-benar habis-habisan dengan ruangan ini.</Desc>
+			<StoryDesc>Menilai bahwa ruangan ini luar biasa!</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect8">
-			<DisplayName>membutuhkan kamar tidur</DisplayName>
-			<Desc>Saya butuh kamar tidur!</Desc>
-			<StoryDesc>Mudah tersinggung ketika tidak ada ruang untuk bersantai</StoryDesc>
+			<DisplayName>Dibutuhkan Ruangan</DisplayName>
+			<Desc>Saya butuh kamar!</Desc>
+			<StoryDesc>merasa mudah marah ketika Anda bahkan tidak punya ruang untuk nama Anda</StoryDesc>
 		</Text>
 		<Text Name="IndependentRoomNeed">
-			<DisplayName>Tinggal bersama dengan siswa luar</DisplayName>
-			<Desc>Murid luar cukup kacau dan menyebalkan… Saya berharap untuk segera menjauh dari situasi kehidupan ini.</Desc>
-			<StoryDesc>Saya merasa hidup dengan murid luar itu menjengkelkan.</StoryDesc>
+			<DisplayName>Hidup dengan Murid Luar</DisplayName>
+			<Desc>Murid-murid luar terbukti lebih merupakan pengalih perhatian daripada apa pun... Saya berharap untuk segera keluar dari situasi kehidupan ini.</Desc>
+			<StoryDesc>Merasa bahwa Hidup dengan murid luar itu menjengkelkan</StoryDesc>
 		</Text>
 		<Text Name="LiveWithBadMan">
-			<DisplayName>hidup bersama dengan canggung</DisplayName>
-			<Desc>[TXT]Dan aku benar-benar tidak tahan berada di ruangan yang sama.</Desc>
-			<StoryDesc>Menoleransi berada di ruangan yang sama dengan seseorang yang tidak Anda kenal adalah hal yang canggung.</StoryDesc>
+			<DisplayName>Hidup Bersama yang Canggung</DisplayName>
+			<Desc>[TXT]dan saya bahkan tidak bisa melakukan latihan di ruangan yang sama.</Desc>
+			<StoryDesc>Terlibat dalam latihan di ruangan bersama seseorang yang tidak terlalu dikenalnya memang menjengkelkan</StoryDesc>
 		</Text>
 		<Text Name="BedroomFengShuiExpect1">
-			<DisplayName>Feng Shui yang Misterius</DisplayName>
-			<Desc>Feng Shui di tempat tinggal saya sangat buruk.</Desc>
-			<StoryDesc>Saya merasa Feng Shui yang buruk bisa membuat orang menjadi gila.</StoryDesc>
+			<DisplayName>Feng Shui yang Kurang</DisplayName>
+			<Desc>Feng shui tempat saya tinggal sama sekali tidak ideal.</Desc>
+			<StoryDesc>Menyadari Kekurangan Feng shui benar-benar dapat membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="BedroomFengShuiExpect2">
-			<DisplayName>Feng Shui yang tidak beruntung</DisplayName>
-			<Desc>Tempat saya tinggal mempunyai feng shui yang buruk. Haruskah aku tetap di sini?</Desc>
-			<StoryDesc>Rasanya ada yang salah dengan feng shui di sini dan memperburuk keadaan.</StoryDesc>
+			<DisplayName>Domisili yang kurang beruntung</DisplayName>
+			<Desc>Tempat dimana saya tinggal ini hanya kurang beruntung, apakah boleh-boleh saja tinggal di sini?</Desc>
+			<StoryDesc>Merasa ada yang salah dengan Feng shui di sini dan membuat segalanya menjadi kacau</StoryDesc>
 		</Text>
 		<Text Name="BedroomFengShuiExpect3">
-			<DisplayName>Feng Shui yang buruk</DisplayName>
-			<Desc>Feng shui di sini sangat buruk sehingga saya tidak bisa tinggal di kamar dengan nyaman.</Desc>
-			<StoryDesc>Saya merasa ada yang salah dengan Feng Shui di sini yang membuat saya kesal.</StoryDesc>
+			<DisplayName>Domisili Tidak Layak Huni</DisplayName>
+			<Desc>Feng shui di sini sangat buruk sehingga ruangan ini tidak bisa ditinggali.</Desc>
+			<StoryDesc>Merasa ada yang tidak beres dengan Feng shui di sini sehingga membuat ruangan menjadi kesal</StoryDesc>
 		</Text>
 		<Text Name="BedroomFengShuiExpect4">
-			<DisplayName>feng shui yang bagus</DisplayName>
-			<Desc>Feng shui di tempat saya tidak buruk sama sekali.</Desc>
-			<StoryDesc>Saya merasa Feng Shui yang baik membuat pikiran saya jernih.</StoryDesc>
+			<DisplayName>Feng Shui yang bagus</DisplayName>
+			<Desc>Feng shui di kamarku sebenarnya tidak terlalu buruk.</Desc>
+			<StoryDesc>Merasa bahwa Feng shui yang baik benar-benar membangkitkan semangat seseorang</StoryDesc>
 		</Text>
 		<Text Name="BedroomFengShuiExpect5">
-			<DisplayName>Feng Shui membawa keberuntungan</DisplayName>
-			<Desc>Feng shui di kamar saya sangat bagus. Siapa pun yang mengatur ruangan ini tahu bahwa semua pikiran jernih.</Desc>
-			<StoryDesc>Saya merasa seperti ruangan dengan feng shui yang bagus. Itu menyenangkan semua orang.</StoryDesc>
+			<DisplayName>Menguntungkan</DisplayName>
+			<Desc>Feng shui di kamar saya cukup bagus, siapa pun yang mengatur ruangan ini benar-benar tahu apa yang mereka lakukan.</Desc>
+			<StoryDesc>Menganggap bahwa ruangan dengan Feng shui yang bagus dapat dinikmati oleh semua orang</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect9">
-			<DisplayName>Kamar sempit</DisplayName>
-			<Desc>Sial, ruangan ini sangat sempit!</Desc>
-			<StoryDesc>Terasa ruangannya sempit. Hal ini dapat membuat orang merasa stres.</StoryDesc>
+			<DisplayName>Kamar Sempit</DisplayName>
+			<Desc>Astaga, ruangan ini sempit sekali!</Desc>
+			<StoryDesc>Menyadari bahwa ruangan yang sempit memang bisa membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="BedroomExpect10">
-			<DisplayName>Ruangannya terlalu terbuka.</DisplayName>
-			<Desc>Ruangan ini kosong.</Desc>
-			<StoryDesc>Saya merasa harus mendekorasi ruangan kosong ini.</StoryDesc>
+			<DisplayName>Kamar Tandus</DisplayName>
+			<Desc>Ruangan ini sunyi sekali.</Desc>
+			<StoryDesc>Menghargai ruangan yang tandus perlu diperbaiki</StoryDesc>
 		</Text>
 		<Text Name="ClosedRoom">
-			<DisplayName>Tidak bisa keluar.</DisplayName>
-			<Desc>Dimana pintunya!? Aku tidak bisa keluar!!!</Desc>
-			<StoryDesc>Mengetahui bahwa ruangan tersebut tidak memiliki pintu tentu membuat orang merasa marah.</StoryDesc>
+			<DisplayName>Tidak bisa keluar</DisplayName>
+			<Desc>Dimana pintunya!? aku terjebak!!!</Desc>
+			<StoryDesc>Menyadari bahwa sebuah ruangan tidak memiliki pintu menyebabkan seseorang menjadi marah</StoryDesc>
 		</Text>
 		<Text Name="ClothesExpect1">
-			<DisplayName>Pakaian jelek</DisplayName>
-			<Desc>Apakah benar-benar tidak ada pakaian yang lebih baik? (kualitas kurang dari 30)</Desc>
-			<StoryDesc>Rasanya luar biasa memakai pakaian jelek seperti itu.</StoryDesc>
+			<DisplayName>Pakaian Buruk</DisplayName>
+			<Desc>Apa aku benar-benar tidak punya pakaian yang lebih bagus dari ini? (Kualitas kurang dari 30)</Desc>
+			<StoryDesc>merasa sulit untuk puas dengan pakaian jelek seperti itu</StoryDesc>
 		</Text>
 		<Text Name="ClothesExpect2">
-			<DisplayName>pakaian yang cocok</DisplayName>
+			<DisplayName>Pakaian yang Cocok</DisplayName>
 			<Desc>Pakaian ini sangat cocok untukku.</Desc>
-			<StoryDesc>Mengenakan pakaian yang tepat dirasa dapat membuat pemakainya merasa bahagia.</StoryDesc>
+			<StoryDesc>Menilai bahwa pakaian yang cocok seperti itu benar-benar membuat pemakainya tersenyum</StoryDesc>
 		</Text>
 		<Text Name="ClothesExpect3">
-			<DisplayName>pakaian cantik</DisplayName>
-			<Desc>Pakaian ini tidak hanya nyaman. Tapi masih terlihat sangat bagus saat saya memakainya.</Desc>
-			<StoryDesc>Saya merasa ingin memakai pakaian yang bagus. Ini sangat membantu mencerahkan pemakainya.</StoryDesc>
+			<DisplayName>Pakaian Luar Biasa</DisplayName>
+			<Desc>Set pakaian ini tidak hanya nyaman, tetapi juga terlihat bagus untuk dibawa-bawa.</Desc>
+			<StoryDesc>Mengenakan pakaian bagus seperti itu benar-benar menambah kilau pada wajah pemakainya</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect1">
-			<DisplayName>lingkungan yang keras</DisplayName>
-			<Desc>Lingkungan ini menakutkan. Bahkan pengemis pun enggan tinggal di sini.</Desc>
-			<StoryDesc>Lingkungan yang keras ini dirasa membuat masyarakat resah dan paranoid.</StoryDesc>
+			<DisplayName>Lingkungan yang Mengerikan</DisplayName>
+			<Desc>Lingkungan ini mengerikan. Bahkan seorang pengemis pun tidak mau tinggal di sini.</Desc>
+			<StoryDesc>Menyadari bahwa lingkungan yang mengerikan seperti itu dengan mudah membuat siapa pun terlihat jijik</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect2">
-			<DisplayName>lingkungan yang kotor</DisplayName>
-			<Desc>Bagaimana tempat ini bisa begitu berantakan dan kotor?</Desc>
-			<StoryDesc>Saya merasa lingkungan kotor ini sungguh membuat stres.</StoryDesc>
+			<DisplayName>Lingkungan Kotor</DisplayName>
+			<Desc>Bagaimana tempat ini begitu berantakan dan kotor?</Desc>
+			<StoryDesc>Menyadari bahwa lingkungan yang kotor seperti itu benar-benar membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect3">
-			<DisplayName>Pemandangan biasa</DisplayName>
-			<Desc>Pemandangan di sini tidak buruk sama sekali.</Desc>
-			<StoryDesc>Merasa pemandangannya sangat biasa-biasa saja seperti ini, membuat Anda tahu cukup banyak.</StoryDesc>
+			<DisplayName>Pemandangan Biasa</DisplayName>
+			<Desc>Pemandangan di sini tidak terlalu buruk.</Desc>
+			<StoryDesc>Menilai pemandangan biasa seperti itu setidaknya tidak membuat tidak nyaman</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect4">
-			<DisplayName>Pemandangan yang menarik</DisplayName>
-			<Desc>Pemandangan yang nyaman sungguh mengesankan.</Desc>
-			<StoryDesc>Sangat mudah untuk terpesona oleh pemandangan unik seperti itu.</StoryDesc>
+			<DisplayName>Pemandangan Unik</DisplayName>
+			<Desc>Pemandangan yang begitu menenangkan benar-benar memanjakan mata.</Desc>
+			<StoryDesc>merasa mudah tersesat dalam pemandangan unik seperti itu</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect5">
-			<DisplayName>Pemandangan yang luar biasa</DisplayName>
-			<Desc>Pemandangan indah seperti itu sangat jarang terjadi di dunia ini.</Desc>
-			<StoryDesc>Saya merasa senang ketika melihat pemandangan yang begitu menakjubkan.</StoryDesc>
+			<DisplayName>Pemandangan Luar Biasa</DisplayName>
+			<Desc>Pemandangan seindah ini sulit ditemukan di dunia ini.</Desc>
+			<StoryDesc>merasa sulit untuk tidak menghargai pemandangan yang luar biasa tersebut</StoryDesc>
 		</Text>
 		<Text Name="BeautyExpect6">
 			<DisplayName>Surga di Bumi</DisplayName>
-			<Desc>Apakah ini surga?</Desc>
-			<StoryDesc>Saya merasa pemandangan ini seindah saya berada di surga.</StoryDesc>
+			<Desc>Apakah ini Surga?</Desc>
+			<StoryDesc>Merasa bahwa pemandangan surgawi ini memikat siapa pun yang kebetulan berada di atasnya</StoryDesc>
 		</Text>
 		<Text Name="NeedFabao">
-			<DisplayName>Ingin senjata ajaib?</DisplayName>
-			<Desc>Bagaimana saya bisa melindungi diri saya dari kultivator lain tanpa senjata ajaib saya?</Desc>
-			<StoryDesc>Merasa tidak aman tanpa senjata ajaib di tangan</StoryDesc>
+			<DisplayName>Artefak Dibutuhkan</DisplayName>
+			<Desc>Bagaimana cara melanjutkan Hukum menuju Keabadian tanpa artefak?</Desc>
+			<StoryDesc>Merasa tidak memiliki artefak membuat seseorang tidak puas</StoryDesc>
 		</Text>
 		<Text Name="NeedWeapon">
-			<DisplayName>membutuhkan senjata</DisplayName>
+			<DisplayName>Dibutuhkan Senjata</DisplayName>
 			<Desc>Saya membutuhkan senjata untuk melindungi diri saya sendiri.</Desc>
-			<StoryDesc>Merasa tidak aman tanpa senjata di tangan Anda</StoryDesc>
+			<StoryDesc>Merasa tidak memiliki senjata itu tidak aman</StoryDesc>
 		</Text>
 		<Text Name="Jingguai_HappyHuman">
-			<DisplayName>Berubah menjadi manusia</DisplayName>
-			<Desc>Jadi, aku sudah menjadi manusia sekarang? Akhirnya, aku menjadi manusia!!</Desc>
-			<StoryDesc>Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.</StoryDesc>
+			<DisplayName>Terwujud menjadi Manusia</DisplayName>
+			<Desc>Aku...aku menjadi manusia? Aku akhirnya menjadi manusia!!</Desc>
+			<StoryDesc>Merasa Senang karena telah berubah menjadi manusia</StoryDesc>
 		</Text>
 	</List>
 </Texts>
