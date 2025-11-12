@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Rpg_Tower_0_Talk1">
-			<Nodes.0.Text>pintu masuk</Nodes.0.Text>
+			<Nodes.0.Text>Pintu masuk</Nodes.0.Text>
 			<Nodes.1.Text>Anda pasti telah melakukan perjalanan yang cukup jauh. Apakah ada yang bisa saya bantu?</Nodes.1.Text>
 			<Nodes.2.Text>Tanah tak berujung? Jadi tempat apa ini?</Nodes.2.Text>
 			<Nodes.3.Text>Apa yang saya lakukan di sini?</Nodes.3.Text>
