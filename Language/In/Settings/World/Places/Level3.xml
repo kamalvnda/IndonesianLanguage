@@ -4,28 +4,28 @@
 			<Desc>Templat Lokasi Lv.3</Desc>
 		</Text>
 		<Text Name="Place_QingLianShan">
-			<DisplayName>Gunung Qinglian</DisplayName>
-			<Desc>Gunung ini adalah tempat peristirahatan Immortal Qinglian sebelum dia terlahir kembali ke alam surga. Seluruh gunung tersembunyi di Samudra Selatan. Tanpa metode panduan rahasia Tidak mungkin menemukan Gunung Abadi ini.</Desc>
+			<DisplayName>Gunung Biru</DisplayName>
+			<Desc>Gunung ini dulunya adalah tempat pertapaan Caerulea Abadi sebelum kenaikannya, yang keseluruhannya tersembunyi di dalam setetes Air Sejati di Laut Selatan. Tanpa bimbingan Hukum rahasia, tak seorang pun akan mampu menemukan gunung mistis ini.</Desc>
 		</Text>
 		<Text Name="Place_ChiLianYuan">
 			<DisplayName>Istana Zamrud</DisplayName>
-			<Desc>Kediaman pribadi peninggalan Nan Gong Hong. Seorang Suci yang dikenal sebagai Orang Suci pertama di alam ini yang mampu bereinkarnasi ke alam surgawi. Istana ini tersembunyi di antara langit dan lautan. Tanpa metode panduan rahasia Mustahil menemukan Gunung Suci ini.</Desc>
+			<Desc>Kediaman pribadi yang ditinggalkan oleh makhluk abadi pertama yang pernah naik ke alam ini bernama Nangong, tersembunyi di dalam tempat tinggal terberkati antara surga dan laut. Tanpa bimbingan Hukum rahasia, tak seorang pun akan bisa menemukan tempat ini.</Desc>
 		</Text>
 		<Text Name="Place_LongTai">
-			<DisplayName>Altar Naga</DisplayName>
-			<Desc>Ada rumor bahwa di masa lalu Klan Naga telah menyembunyikan ribuan harta karun di Altar Naga dan telah memasang banyak segel terlarang untuk melindungi harta karun tersebut. Selama bertahun-tahun, seiring dengan pengaruh perjalanan waktu, sebagian besar segel terlarang telah kehilangan kekuatannya di banyak bagian. Oleh karena itu, para pembudidaya sering mencari peruntungan di sini dengan harapan menemukan harta karun naga.</Desc>
+			<DisplayName>Platform Naga</DisplayName>
+			<Desc>Legenda menyatakan bahwa para naga telah mengumpulkan ribuan harta karun di Platform Naga, dan dengan sihir mereka, mereka menyegel dan menguburkannya untuk menyembunyikannya dari masyarakat. Namun hal ini sudah lama terjadi, dan seiring berjalannya waktu, sebagian besar segel ini mulai rusak. Tidak ada kekurangan calon yang berani memasuki Platform Naga untuk menguji keberuntungan mereka.</Desc>
 		</Text>
-		<Text Name="Tempat_XuanKongDong">
-			<DisplayName>Gua Anatta</DisplayName>
-			<Desc>Tempat dimana Xuan Yuan Luo Xiu Nai menggunakan pengasingan untuk berlatih. Legenda mengatakan bahwa Xian Yuan Luo Xiu menyimpan harta karun yang dia kumpulkan dari berbagai tempat. Dia telah menghabiskan seluruh hidupnya di sini, menunggu generasi kultivator masa depan yang memiliki kekayaan untuk menemukannya.</Desc>
+		<Text Name="Place_XuanKongDong">
+			<DisplayName>Gua Halus</DisplayName>
+			<Desc>Tempat dimana Yuan abadi kuno mundur ke pengasingan. Legenda mengatakan bahwa Yuan meninggalkan semua kekayaan yang dia kumpulkan di istana ini untuk ditemukan oleh generasi mendatang. Para pembudidaya muda dan tidak berpengalaman dari sekte adil akan datang ke sini untuk mencoba peruntungan mereka.</Desc>
 		</Text>
 		<Text Name="Place_GuZhanChang">
-			<DisplayName>Medan Pertempuran Reruntuhan Surgawi</DisplayName>
-			<Desc>Medan perang sisa-sisa perang besar pertama antara Orang Suci dan Iblis di zaman kuno. Tempat ini dipenuhi dengan banyak harta ajaib. Namun, itu penuh dengan bahaya besar dari perpecahan ruang dan waktu. Saat itu, pembagian yang jelas mulai terbentuk antara Dewa dan Penggarap Abadi. Dan perselisihan antara kedua belah pihak berangsur-angsur hilang. Hal ini semakin intensif hingga menjadi tidak dapat diubah lagi. Akhirnya, pertempuran yang menentukan terjadi di wilayah selatan. Pertempuran ini berlangsung selama lebih dari sebulan dan memakan banyak korban jiwa. Jalur Yin dan Yang terkena dampak yang sangat parah sehingga membangkitkan murka Naga Tian yang mewakili langit dan bumi. Karena itu, wujud asli Naga Lilin muncul di dunia manusia dan menggunakan amarahnya untuk menghancurkan hampir seluruh wilayah selatan. Ini adalah akhir dari Perang Besar Pertama antara Orang Suci dan Iblis. Dan Wilayah Selatan saat ini adalah sisa yang selamat dari kehancuran itu.</Desc>
+			<DisplayName>Medan Perang Surgawi</DisplayName>
+			<Desc>Reruntuhan medan perang dari Bentrokan pertama antara Dewa dan Iblis di akhir zaman kuno. Ia kaya akan harta karun, tetapi juga penuh dengan ruang-waktu yang retak dan sangat berbahaya. Saat itu, mulai terlihat perbedaan yang lebih jelas antara para kultivator yang baik dan yang jahat. Kesenjangan di antara para penggarap kuno semakin besar, menjadi tidak dapat diperbaiki; dan pertarungan terakhir terjadi di perbatasan selatan. Pertempuran tersebut berlangsung selama berbulan-bulan, mengancam seluruh kehidupan di dunia. Cara Yin dan Yang sangat terpengaruh sehingga mereka mengambil bentuk fisik Naga Obor di dunia fana. Naga Obor sangat marah, dan menyebabkan daratan tenggelam dan lautan naik. Perbatasan selatan runtuh, sehingga mengakhiri perang besar pertama antara makhluk abadi dan iblis. Ini juga merupakan asal muasal wilayah selatan yang liar saat ini.</Desc>
 		</Text>
 		<Text Name="Place_YiJieLieFeng">
-			<DisplayName>Dimensional Rift</DisplayName>
-			<Desc>Legenda mengatakan bahwa perpecahan ruang-waktu ini menyebabkan kelainan pada semua dimensi ruang dan waktu. Tempat ini adalah hasil perang primordial antara tuan dan iblis ribuan tahun yang lalu, dan telah menghilang selama ribuan tahun, namun siapa yang menyangka akan muncul kembali di era ini? Namun, celah dimensional ini sangat berbahaya. Mereka yang pergi menjelajah hanya bisa mengandalkan keberuntungannya. Karena jika tidak beruntung, bahkan ahli yang paling berpengalaman pun bisa terjebak dalam celah dimensi ini selamanya.</Desc>
+			<DisplayName>Keretakan Dunia Lain</DisplayName>
+			<Desc>Legenda mengatakan bahwa retakan ruang-waktu ini menyebabkan segala jenis ruang dan waktu yang tidak normal, dan ini adalah akibat dari bentrokan kedua antara makhluk abadi dan iblis di zaman kuno. Ia telah hilang selama ribuan tahun, namun tanpa diduga, ia muncul kembali di alam ini sekarang. Keretakan ini sangat berbahaya, dan tanpa Keberuntungan khusus, bahkan makhluk abadi yang paling berpengalaman pun bisa tersesat di sana.</Desc>
 		</Text>
 	</List>
 </Texts>
