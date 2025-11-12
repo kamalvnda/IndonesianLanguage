@@ -1,68 +1,68 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Rabbit">
-			<DisplayName>kelinci</DisplayName>
+			<DisplayName>Kelinci</DisplayName>
 			<Desc>Hewan umum: Kelinci</Desc>
 			<TalkBefore>Aduh Awok</TalkBefore>
 			<TalkAfter>Awww~!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Chicken">
-			<DisplayName>ayam</DisplayName>
+			<DisplayName>Ayam</DisplayName>
 			<Desc>Hewan umum: Ayam</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 			<TalkBefore>Masak, Masak, Masak.</TalkBefore>
 			<TalkAfter>Katak!</TalkAfter>
 		</Text>
 		<Text Name="Wolf">
-			<DisplayName>serigala</DisplayName>
+			<DisplayName>Serigala</DisplayName>
 			<Desc>Hewan biasa: Serigala</Desc>
 			<TalkBefore>Guk guk</TalkBefore>
 			<TalkAfter>Pakan!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Snake">
-			<DisplayName>ular</DisplayName>
+			<DisplayName>Ular</DisplayName>
 			<Desc>Hewan biasa: Ular</Desc>
 			<TalkBefore>mendesis</TalkBefore>
 			<TalkAfter>Mendesis!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Boar">
-			<DisplayName>babi hutan</DisplayName>
+			<DisplayName>Babi hutan</DisplayName>
 			<Desc>Hewan umum: Babi hutan</Desc>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 			<TalkBefore>Oink Oink</TalkBefore>
 			<TalkAfter>Oooh!</TalkAfter>
 		</Text>
 		<Text Name="Bear">
-			<DisplayName>beruang</DisplayName>
+			<DisplayName>Beruang</DisplayName>
 			<Desc>Hewan umum: Beruang</Desc>
 			<TalkBefore>Hok Hok</TalkBefore>
 			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Turtle">
-			<DisplayName>penyu</DisplayName>
+			<DisplayName>Penyu</DisplayName>
 			<Desc>Hewan umum: Penyu</Desc>
 			<TalkBefore>Hmmmm.</TalkBefore>
 			<TalkAfter>Hmm!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Frog">
-			<DisplayName>katak</DisplayName>
+			<DisplayName>Katak</DisplayName>
 			<Desc>Hewan biasa: Katak</Desc>
 			<TalkBefore>Ups Ups</TalkBefore>
 			<TalkAfter>Ups!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Fei">
 			<DisplayName>Fei!</DisplayName>
@@ -73,28 +73,28 @@
 			<Desc>Suhu di sini sangat berfluktuasi. Hal ini menarik Lu Su untuk datang dan tinggal di sini.</Desc>
 		</Text>
 		<Text Name="Cat">
-			<DisplayName>kucing</DisplayName>
+			<DisplayName>Kucing</DisplayName>
 			<Desc>Hewan umum: Kucing</Desc>
 			<TalkBefore>meong meong</TalkBefore>
 			<TalkAfter>mengeong!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Cattle">
-			<DisplayName>banteng</DisplayName>
+			<DisplayName>Banteng</DisplayName>
 			<Desc>Hewan biasa: Banteng</Desc>
 			<TalkBefore>Moo moo</TalkBefore>
 			<TalkAfter>Ya ampun!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 		<Text Name="Tiger">
-			<DisplayName>harimau</DisplayName>
+			<DisplayName>Harimau</DisplayName>
 			<Desc>Hewan biasa: Harimau</Desc>
 			<TalkBefore>Hok Hok</TalkBefore>
 			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>jantan</MaleName>
-			<FemaleName>betina</FemaleName>
+			<MaleName>Jantan</MaleName>
+			<FemaleName>Betina</FemaleName>
 		</Text>
 	</List>
 </Texts>
