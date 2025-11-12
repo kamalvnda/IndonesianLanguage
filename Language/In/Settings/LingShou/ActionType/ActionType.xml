@@ -1,40 +1,40 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Rest">
-			<Desc>istirahat</Desc>
-			<Tip>Tidur untuk memulihkan energi</Tip>
+			<Desc>Istirahat</Desc>
+			<Tip>Tidur memulihkan Energi.</Tip>
 		</Text>
 		<Text Name="Eat">
-			<Desc>makan</Desc>
-			<Tip>Makan makanan: saat memasuki usia belajar Anda bisa memilih makanan untuk itu.</Tip>
+			<Desc>Makan</Desc>
+			<Tip>Makan Makanan: setelah berada di Tahap Pembelajaran, Anda dapat memilih makanan di panel.</Tip>
 		</Text>
 		<Text Name="Fun">
-			<Desc>bermain</Desc>
-			<Tip>Menyenangkan untuk dimainkan: Berbagai perilaku akan meningkatkan konsentrasinya.</Tip>
+			<Desc>Santai</Desc>
+			<Tip>Tingkatkan waktu luang. Tingkat peningkatan perilaku yang berbeda akan bervariasi.</Tip>
 		</Text>
 		<Text Name="Shit">
-			<Desc>mengeluarkan</Desc>
-			<Tip>Ekskresi dapat terjadi di banyak titik.</Tip>
+			<Desc>Buang air besar</Desc>
+			<Tip>Buang air besar mungkin terjadi di tempat yang berbeda.</Tip>
 		</Text>
 		<Text Name="Attack">
-			<Desc>menyerang</Desc>
-			<Tip>Menyerang semua jenis karakter</Tip>
+			<Desc>Menyerang</Desc>
+			<Tip>Serang semua jenis karakter.</Tip>
 		</Text>
 		<Text Name="Help">
-			<Desc>membantu</Desc>
-			<Tip>Terkadang dia membantu murid batiniah. Terkadang dia membantu murid luar.</Tip>
+			<Desc>Membantu</Desc>
+			<Tip>Membantu Murid Batin atau Murid Luar.</Tip>
 		</Text>
 		<Text Name="HighHelp">
-			<Desc>Bantu latihan</Desc>
-			<Tip>Bantuan dengan pelatihan (Membutuhkan Intelijen 80 saat tidak terkunci)</Tip>
+			<Desc>Bantuan Tingkat Lanjut</Desc>
+			<Tip>Membantu Latihan. Membutuhkan 80 Intelijen untuk membuka kunci.</Tip>
 		</Text>
 		<Text Name="Carry">
-			<Desc>Pindahkan karakternya</Desc>
-			<Tip>Pindahkan karakter yang tidak sadarkan diri atau mati. (Memerlukan Intelijen 50 untuk membuka kunci)</Tip>
+			<Desc>Karakter Pengangkutan</Desc>
+			<Tip>Mengangkut karakter yang tidak sadarkan diri atau sudah meninggal. Membutuhkan 50 Intelijen untuk membuka kunci.</Tip>
 		</Text>
 		<Text Name="Train">
-			<Desc>praktik</Desc>
-			<Tip>Pelatihan meningkatkan semua statistik dan efeknya dapat ditingkatkan melalui makanan dan minuman. Semakin efektif makanan dan minumannya, semakin baik. Semakin besar efek pelatihannya. (Harus mencapai usia belajar untuk membuka kunci)</Tip>
+			<Desc>Latihan</Desc>
+			<Tip>Latihan meningkatkan semua Statistik dan efeknya dapat ditingkatkan dengan makanan dan minuman. Semakin besar pengaruh makanan dan minuman yang dikonsumsi maka semakin besar pula hasil latihannya. Harus mencapai Tahap Pembelajaran untuk membuka kunci.</Tip>
 		</Text>
 	</List>
 </Texts>
