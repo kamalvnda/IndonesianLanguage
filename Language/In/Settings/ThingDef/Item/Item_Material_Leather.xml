@@ -30,7 +30,7 @@
 			<Item.BeMaterial.NamePrefix>Fei Sembunyikan</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LuShuLeather" sParam="Item">
-			<ThingName>Lushu Sembunyikan</ThingName>
+			<ThingName>Sembunyikan Lushu</ThingName>
 			<Desc>Sembunyikan roh binatang Lushu, dengan kekuatan magis yang bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
 			<Item.BeMaterial.NamePrefix>Lushu Sembunyikan</Item.BeMaterial.NamePrefix>
 		</Text>
