@@ -1,58 +1,58 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Other_BingCanSi" sParam="Item">
-			<ThingName>sutra es</ThingName>
-			<Item.BeMaterial.NamePrefix>sutra es</Item.BeMaterial.NamePrefix>
+			<ThingName>Sutra Es</ThingName>
+			<Item.BeMaterial.NamePrefix>Sutra Es</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuZhiMing" sParam="Item">
-			<ThingName>materi yang tidak diketahui</ThingName>
+			<ThingName>Materi Tidak Diketahui</ThingName>
 		</Text>
 		<Text Name="Item_Other_JinJing" sParam="Item">
-			<ThingName>inti emas barat</ThingName>
-			<Item.BeMaterial.NamePrefix>inti emas</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Metal Barat</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Logam</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_MuJing" sParam="Item">
-			<ThingName>Inti kayu oriental</ThingName>
-			<Item.BeMaterial.NamePrefix>inti kayu</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Kayu Timur</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Kayu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_ShuiJing" sParam="Item">
-			<ThingName>poros air utara</ThingName>
-			<Item.BeMaterial.NamePrefix>inti air</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Air Utara</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Air</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_HuoJing" sParam="Item">
-			<ThingName>poros api selatan</ThingName>
-			<Item.BeMaterial.NamePrefix>inti api</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Api Selatan</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Api</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TuJing" sParam="Item">
-			<ThingName>inti tanah pusat</ThingName>
-			<Item.BeMaterial.NamePrefix>inti tanah</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Bumi Tengah</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Bumi</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_NoneJing" sParam="Item">
-			<ThingName>inti alami</ThingName>
-			<Item.BeMaterial.NamePrefix>inti alami</Item.BeMaterial.NamePrefix>
+			<ThingName>Esensi Alami</ThingName>
+			<Item.BeMaterial.NamePrefix>Esensi Alami</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LarkPerk" sParam="Item">
-			<ThingName>paruh</ThingName>
-			<Item.BeMaterial.NamePrefix>paruh</Item.BeMaterial.NamePrefix>
+			<ThingName>Paruh</ThingName>
+			<Item.BeMaterial.NamePrefix>Paruh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
-			<ThingName>Khao Krathing</ThingName>
-			<Item.BeMaterial.NamePrefix>Khao Krathing</Item.BeMaterial.NamePrefix>
+			<ThingName>Tanduk Banteng</ThingName>
+			<Item.BeMaterial.NamePrefix>Tanduk Banteng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LionFang" sParam="Item">
-			<ThingName>Taring macan tutul</ThingName>
-			<Item.BeMaterial.NamePrefix>Taring macan tutul</Item.BeMaterial.NamePrefix>
+			<ThingName>Taring Macan Tutul</ThingName>
+			<Item.BeMaterial.NamePrefix>Taring Macan Tutul</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TortoiseShell" sParam="Item">
-			<ThingName>angker</ThingName>
-			<Item.BeMaterial.NamePrefix>angker</Item.BeMaterial.NamePrefix>
+			<ThingName>Kerang</ThingName>
+			<Item.BeMaterial.NamePrefix>Kerang</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_DeerFeet" sParam="Item">
-			<ThingName>kuku rusa</ThingName>
-			<Item.BeMaterial.NamePrefix>kuku rusa</Item.BeMaterial.NamePrefix>
+			<ThingName>Kuku Rusa</ThingName>
+			<Item.BeMaterial.NamePrefix>Kuku Rusa</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SPStuffCategories_1" sParam="Item">
-			<ThingName>tidak tahu</ThingName>
+			<ThingName>Tidak dikenal</ThingName>
 		</Text>
 	</List>
 </Texts>
