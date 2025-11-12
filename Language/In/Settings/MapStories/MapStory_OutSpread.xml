@@ -1,48 +1,48 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_Start">
-			<DisplayName>Menyusun kembali kekuatan biro.</DisplayName>
-			<Desc>Semua orang di sini dulunya memuja Sekte Tai Yi. Namun, saat ini, Sekte Tai Yi telah runtuh. Oleh karena itu, mereka sekarang kekurangan jangkar.</Desc>
-			<Selections.0.Display>pertanyaan</Selections.0.Display>
+			<DisplayName>Membangun Kembali Kekuatan Badan.</DisplayName>
+			<Desc>Semua orang di sini dulunya memuja Sekte Taiyi, sekarang tidak ada yang menyembah.</Desc>
+			<Selections.0.Display>Tanyakan alasannya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Accelerate">
-			<DisplayName>menggunakan tenaga manusia</DisplayName>
-			<Desc>[NAME]Jaga pekerja</Desc>
+			<DisplayName>Kerja Manual</DisplayName>
+			<Desc>[NAME]tenaga kerja yang diawasi.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
-			<DisplayName>perburuan harta karun</DisplayName>
-			<Desc>[NAME]pergi berburu harta karun</Desc>
+			<DisplayName>Perburuan Harta Karun</DisplayName>
+			<Desc>[NAME]diburu harta karun.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
-			<DisplayName>Dalam perjalanan</DisplayName>
-			<Desc>[NAME]telah dirampok</Desc>
-			<Selections.0.Display>Beri mereka batu roh.</Selections.0.Display>
-			<Selections.1.Display>Berunding</Selections.1.Display>
+			<DisplayName>Dan rute</DisplayName>
+			<Desc>[NAME]dirampok.</Desc>
+			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
+			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
-			<DisplayName>Dalam perjalanan</DisplayName>
-			<Desc>Dalam perjalanan[NAME]Bertemu dengan beberapa pengungsi Sayangnya mereka tidak memiliki rumah untuk kembali.</Desc>
-			<Selections.0.Display>Beri mereka batu roh.</Selections.0.Display>
-			<Selections.1.Display>Berunding</Selections.1.Display>
+			<DisplayName>Dan rute</DisplayName>
+			<Desc>[NAME]menemui beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
+			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
+			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
-			<DisplayName>Dalam perjalanan</DisplayName>
-			<Desc>Dalam perjalanan[NAME]Menemukan sekelompok penduduk desa diintimidasi oleh beberapa Penggarap.</Desc>
-			<Selections.0.Display>Beri mereka batu roh.</Selections.0.Display>
-			<Selections.1.Display>Berunding</Selections.1.Display>
-			<Selections.2.Display>berpura-pura tidak terlihat</Selections.2.Display>
+			<DisplayName>Dan rute</DisplayName>
+			<Desc>[NAME]menemui beberapa petani yang diintimidasi oleh beberapa individu petani.</Desc>
+			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
+			<Selections.1.Display>Membujuk</Selections.1.Display>
+			<Selections.2.Display>Berpura-pura tidak melihat apa pun</Selections.2.Display>
 		</Text>
 		<Text Name="CollectFaith">
-			<DisplayName>mengumpulkan iman</DisplayName>
-			<Desc>Ada murid di sini. Kita bisa mengumpulkan iman dari mereka.</Desc>
-			<Selections.0.Display>diterima</Selections.0.Display>
+			<DisplayName>Kumpulkan Keyakinan</DisplayName>
+			<Desc>Ada orang percaya di sini, kita bisa mengumpulkan kepercayaan.</Desc>
+			<Selections.0.Display>Perolehan</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_GoodMood">
-			<DisplayName>Pagoda Zamrud</DisplayName>
-			<Desc>Para murid dapat menikmati relaksasi di Pagoda Zamrud.</Desc>
-			<Selections.0.Display>terserah kamu</Selections.0.Display>
+			<DisplayName>Pagoda Hijau</DisplayName>
+			<Desc>Para murid dapat bersenang-senang di Pagoda Hijau.</Desc>
+			<Selections.0.Display>Santai</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
