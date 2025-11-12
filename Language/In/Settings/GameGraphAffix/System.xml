@@ -7,7 +7,7 @@
 			<Display>Membuat harta ajaib: {0} kali</Display>
 		</Text>
 		<Text Name="3">
-			<Display>Gambar Yantra: {0} kali</Display>
+			<Display>Gambar Talisman: {0} kali</Display>
 		</Text>
 		<Text Name="4">
 			<Display>Makhluk yang dibunuh: {0} makhluk.</Display>
@@ -19,7 +19,7 @@
 			<Display>Waktu Penerbangan Surgawi Tercepat: Tanggal {0}</Display>
 		</Text>
 		<Text Name="7">
-			<Display>Menyeduh pil: {0} kali</Display>
+			<Display>Menyuling pil: {0} kali</Display>
 		</Text>
 		<Text Name="8">
 			<Display>Petualangan: {0} kali</Display>
