@@ -1,60 +1,60 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Animal2HumanThinkFull">
-			<DisplayName>merenungkan</DisplayName>
-			<Desc>Fokus pada pikiran Anda.</Desc>
+			<DisplayName>Pikiran Penuh</DisplayName>
+			<Desc>Penuh pemikiran.</Desc>
 		</Text>
 		<Text Name="Animal2HumanFeelLing">
-			<DisplayName>Ambil inisiatif</DisplayName>
-			<Desc>merasakan inisiatifnya</Desc>
+			<DisplayName>Kecerdasan Pemula</DisplayName>
+			<Desc>Terasa kecerdasan pemula.</Desc>
 		</Text>
 		<Text Name="AnimalToHuman">
-			<DisplayName>Berubah menjadi setengah iblis</DisplayName>
-			<Desc>Transformasi setengah iblis</Desc>
+			<DisplayName>Setengah Berubah Bentuk</DisplayName>
+			<Desc>Berubah bentuk.</Desc>
 		</Text>
 		<Text Name="LingShou_fanshi">
-			<DisplayName>Menyembah roh iblis</DisplayName>
-			<Desc>Makhluk spiritual akan menggigit tuannya dengan senjata magis setelah jangka waktu tertentu. Hal ini menyebabkan Qi senjata ajaib itu berkurang setengahnya. Efeknya menjadi dua kali lipat jika senjata ajaib tersebut memiliki elemen api. Namun, jumlahnya berkurang setengahnya jika berasal dari unsur tanah.</Desc>
+			<DisplayName>Biaya Balik Hewan Peliharaan</DisplayName>
+			<Desc>Hewan peliharaan akan membuat artefak menjadi bumerang bagi pemiliknya setelah jangka waktu tertentu, menyebabkan Artefak Qi berkurang setengahnya. Efeknya berlipat ganda untuk artefak elemen Api, dan dibelah dua untuk artefak elemen Tanah.</Desc>
 		</Text>
 		<Text Name="ToHumanThunderComing">
-			<DisplayName>Hukuman transfigurasi</DisplayName>
-			<Desc>Hukuman transformasi surgawi akan datang.</Desc>
+			<DisplayName>Kesengsaraan yang Berubah Bentuk</DisplayName>
+			<Desc>Kesengsaraan yang Berubah Bentuk sedang terjadi.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Heal">
-			<DisplayName>teman perjalanan</DisplayName>
-			<Desc>Ketika roh iblis menjadi temanmu, Cedera akan sembuh lebih cepat.</Desc>
+			<DisplayName>Pendamping</DisplayName>
+			<Desc>Dengan hewan peliharaan roh sebagai teman, cederanya pulih lebih cepat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Stay">
-			<DisplayName>teman perjalanan</DisplayName>
-			<Desc>Memiliki roh iblis sebagai pendamping saat berlatih Kondisi mentalmu akan lebih stabil.</Desc>
+			<DisplayName>Pendamping</DisplayName>
+			<Desc>Dengan hewan peliharaan roh sebagai teman selama pelatihan, kondisi mental menjadi lebih stabil.</Desc>
 		</Text>
 		<Text Name="Modifier_GlitterEyes">
-			<DisplayName>mata yang tercerahkan</DisplayName>
-			<Desc>Mata Angsa Vermilion Hitam yang Tercerahkan Memiliki kemampuan untuk melihat segala sesuatu. Sangat berguna saat melelang barang.</Desc>
+			<DisplayName>Pemandangan Menusuk</DisplayName>
+			<Desc>Memiliki Piercing Sight Dark Phoenix agar dapat melihat fitur asli suatu item saat berada di pelelangan.</Desc>
 		</Text>
 		<Text Name="Modifier_Shelter">
-			<DisplayName>Armor Ilahi</DisplayName>
-			<Desc>Ini sangat meningkatkan Qi Armor dan membuat Fisik Misterius lebih tahan lama untuk waktu singkat.</Desc>
+			<DisplayName>Perlindungan</DisplayName>
+			<Desc>Secara drastis meningkatkan penghalang Qi dan daya tahan tubuh rahasia dalam rentang waktu singkat.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealPower">
-			<DisplayName>Kekuatan Asal (Serangan)</DisplayName>
-			<Desc>Membakar qi kehidupan dengan cepat untuk merangsang qi dalam tubuh. Hasilnya, kekuatan serangan senjata sihir dan fisik rahasia meningkat pesat.</Desc>
+			<DisplayName>Kekuatan Asal (Kekuatan)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan kekuatan artefak dan badan rahasia secara drastis.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealRecover">
-			<DisplayName>Kekuatan Asal (Pertahanan)</DisplayName>
-			<Desc>Dengan cepat membakar qi kehidupan untuk merangsang qi dalam tubuh. Hasilnya, kekuatan pertahanan, tingkat pemulihan Qi senjata ajaib, dan tingkat pemulihan Qi Sejati dari Fisik Misterius meningkat pesat.</Desc>
+			<DisplayName>Kekuatan Asal (Pengasuhan)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk menstimulasi kekuatan Yaoguai asli guna meningkatkan ketahanan secara drastis, tingkat pemulihan Qi artefak, dan tingkat pemulihan Qi Sejati badan rahasia.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealWisdom">
-			<DisplayName>Kekuatan asal (kebijaksanaan)</DisplayName>
-			<Desc>Membakar qi kehidupan dengan cepat untuk merangsang qi dalam tubuh. Hasilnya, kekuatan qi ajaib, ketepatan serangan Fisik Tersembunyi, peluang menangkis, peluang menembus penghalang energi, dan peluang menekan senjata sihir meningkat pesat.</Desc>
+			<DisplayName>Kekuatan Asal (INT)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli untuk secara drastis meningkatkan kekuatan mantra, akurasi serangan tubuh rahasia, tingkat keberhasilan pertahanan, penetrasi penghalang Qi, dan peluang penindasan artefak.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealShield">
-			<DisplayName>Kekuatan Asal (Persepsi)</DisplayName>
-			<Desc>Membakar qi kehidupan dengan cepat untuk merangsang qi dalam tubuh. Hasilnya, skill senjata sihir, skill armor yang dalam, kekuatan serangan, dan daya tahan Fisik Misterius meningkat pesat.</Desc>
+			<DisplayName>Kekuatan Asal (PCT)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penguasaan artefak, penghalang Qi, serta kekuatan dan daya tahan tubuh rahasia secara drastis.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_NormalPower">
-			<DisplayName>Tubuh Iblis</DisplayName>
-			<Desc>Fisik Iblis memiliki efek meningkatkan kekuatan bertarung dan kecepatan pemurnian tubuh bagi mereka yang memiliki Fisik Iblis. Namun, ia dirangsang oleh naluri binatang buas, menyebabkan kecerdasan, kecepatan belajar, dan kondisi mentalnya menurun drastis.</Desc>
+			<DisplayName>Tubuh Setan</DisplayName>
+			<Desc>Tubuh iblis meningkatkan kekuatan tempur dan mempercepat proses pembentukan ulang. Namun didorong oleh alam liar, kecerdasan, kecepatan belajar, dan kondisi mental seorang kultivator semuanya akan sangat terpengaruh.</Desc>
 		</Text>
 	</List>
 </Texts>
