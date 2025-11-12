@@ -1,10 +1,10 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="TradeAuction">
-			<DisplayName>Rumah Lelang</DisplayName>
-			<Desc>Apakah kamu sudah sampai?[PLACE] [NAME]Menemukan rumah lelang</Desc>
-			<Selections.0.Display>Berpartisipasi dalam pelelangan</Selections.0.Display>
-			<Selections.1.Display>meninggalkan</Selections.1.Display>
+			<DisplayName>Lelang</DisplayName>
+			<Desc>Tiba di[PLACE], [NAME]menemukan Rumah Lelang.</Desc>
+			<Selections.0.Display>Ikut serta dalam pelelangan</Selections.0.Display>
+			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>
