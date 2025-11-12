@@ -1,12 +1,12 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NoHeavyWork">
-			<DisplayName>telur di dalam batu</DisplayName>
-			<Desc>Hidup nyaman membuat[IT]tidak bisa bekerja keras</Desc>
+			<DisplayName>Terlindung</DisplayName>
+			<Desc>Kehidupan istimewa telah tercipta[IT]tidak dapat melakukan pekerjaan manual yang berat.</Desc>
 		</Text>
 		<Text Name="NoMeticulousWork">
-			<DisplayName>kikuk</DisplayName>
-			<Desc>Orang ini terlalu kikuk untuk melakukan tugas yang membutuhkan ketelitian.</Desc>
+			<DisplayName>Kikuk</DisplayName>
+			<Desc>Orang ini terlalu kikuk untuk melakukan pekerjaan apa pun yang membutuhkan ketelitian.</Desc>
 		</Text>
 	</List>
 </Texts>
