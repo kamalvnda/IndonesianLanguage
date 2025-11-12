@@ -5,7 +5,7 @@
 			<Desc>Bunga kecil yang indah.</Desc>
 		</Text>
 		<Text Name="Flower1" sParam="Plant">
-			<ThingName>harapan musim semi</ThingName>
+			<ThingName>Harapan musim semi</ThingName>
 			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
