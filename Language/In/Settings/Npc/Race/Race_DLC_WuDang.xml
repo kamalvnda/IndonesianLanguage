@@ -1,14 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsXuanWu">
-			<DisplayName>Penyu hitam Myo</DisplayName>
-			<Desc>Penyu Hitam Miao adalah iblis kuno yang lahir dari kekuatan langit dan bumi. Ini mewakili beberapa hukum alam.</Desc>
-			<TalkBefore>Grr...</TalkBefore>
-			<TalkAfter>...Grr!</TalkAfter>
+			<DisplayName>Miao</DisplayName>
+			<Desc>Kura-kura Hitam Miao adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Meretih...</TalkBefore>
+			<TalkAfter>...Meretih!</TalkAfter>
 		</Text>
 		<Text Name="WuDang_WuDiYa">
-			<DisplayName>Bebek Wutung</DisplayName>
-			<Desc>Bebek Misterius yang Hidup di Gunung Boo Tung!</Desc>
+			<DisplayName>Bebek Wudang</DisplayName>
+			<Desc>Bebek mistis dari Gunung Wudang!</Desc>
 		</Text>
 	</List>
 </Texts>
