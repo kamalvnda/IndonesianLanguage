@@ -1,212 +1,237 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Magic_FengshuiItemOpen">
-      <DisplayName>Penilaian Feng Shui</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penilaian Feng Shui\nGunakan batu roh untuk mengidentifikasi karakteristik Feng Shui suatu benda.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_GanLingShu">
-      <DisplayName>Mantra Curah Hujan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Curah Hujan\nMemanggil hujan dapat memadamkan api dan merangsang pertumbuhan tanaman.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_KongZhi1">
-      <DisplayName>Mantra Mantra</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Mantra\nGunakan mantra ini untuk memengaruhi kehendak karakter lain, menjadikannya sekutu Anda. Semakin tinggi tingkat Dao dan kultivasi Anda dibandingkan dengan target, semakin mudah untuk berhasil. Jika jaraknya terlalu besar, mantranya mungkin akan menjadi bumerang, sehingga membalikkan efeknya. Jika target telah dikultivasikan, mereka harus berada dalam keadaan tidak sadar agar hal ini dapat diterapkan. Hanya dapat digunakan satu kali per target.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_KongZhi2">
-      <DisplayName>Segel Kekerabatan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Segel Kekerabatan\nGunakan segel ini untuk menghubungkan hatimu dengan orang lain dan membuat mereka menginginkan sekutumu. Semakin tinggi tingkat Dao dan kultivasi Anda dibandingkan dengan target, semakin mudah untuk berhasil. Jika jaraknya terlalu besar, mantranya mungkin akan menjadi bumerang, sehingga membalikkan efeknya. Jika targetnya memiliki kondisi kelahiran yang serupa atau merupakan saudara, peluangnya akan meningkat. Jika target telah dikultivasikan, mereka harus berada dalam keadaan tidak sadar agar hal ini dapat diterapkan. Cara ini sangat berbahaya. Jika perapal mantra gagal, target akan mati dan perapal mantra akan mengalami luka-luka.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_KongZhi3">
-      <DisplayName>Tarian Setan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Tarian Setan\nGunakan Tarian Setan untuk menjadikan target sebagai sekutu Anda. Semakin tinggi tingkat Dao, Mantra, dan kultivasi Anda dibandingkan dengan target, semakin mudah untuk berhasil. Jika jaraknya terlalu besar, mantranya mungkin akan menjadi bumerang, sehingga membalikkan efeknya. Jika target telah dikultivasikan, mereka harus berada dalam keadaan tidak sadar agar hal ini dapat diterapkan. Tarian tersebut akan merusak kesadaran target pada setiap penggunaan.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_KongZhi4">
-      <DisplayName>Lima Segel Ilahi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Lima Segel Ilahi\nIkat target dengan Lima Segel Ilahi, paksa mereka menjadi sekutu Anda selama beberapa waktu. Semakin tinggi ranah kultivasi dan pemahaman Anda dibandingkan target, semakin mudah untuk berhasil. Jika kesenjangannya terlalu besar, efeknya mungkin sebaliknya. Jika targetnya adalah seorang kultivator, mereka harus tidak sadarkan diri agar segelnya dapat bekerja. Mengucapkan mantra beberapa kali akan memperpanjang durasinya, tetapi sangat merusak kesadaran target.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_BuildMine">
-      <DisplayName>Hukum Asal Usul Bumi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Orogenesis\nGunakan Qi dalam jumlah besar untuk menarik mineral dari kedalaman bumi.\nMantra yang dipelajari: Formasi Danau\nMantra yang dapat digunakan untuk membuat danau yang dalam.\nMantra yang dipelajari: Formasi Tanah\nMantra yang dapat digunakan untuk menutupi area tersebut dengan tanah.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_RebornSelf">
-      <DisplayName>Hukum Kelahiran Kembali Jiwa</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Membuka resep：\Ramuan Kelahiran Kembali Jiwa\nMantra yang dipelajari: Kelahiran Kembali Jiwa\nHukum rahasia sekte Taiyi, yang menggunakan mutiara jiwa untuk membakar Inti Emas pengguna, menghancurkan fondasi Dao mereka dan mengubahnya kembali menjadi manusia fana.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_SoulCrystalYouPowerUp">
-      <DisplayName>Infus Esensi yang Tidak Menyenangkan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Infus Esensi yang Tidak Menyenangkan\nEkstrak esensi Kristal Jiwa yang Tidak Menyenangkan dan masukkan item ke dalamnya untuk kemungkinan meningkatkan nilainya sebanyak 1.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_SoulCrystalLingPowerUp">
-      <DisplayName>Infus Esensi Roh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Infus Esensi Roh\nEkstrak esensi Kristal Jiwa Roh dan masukkan item ke dalamnya untuk meningkatkan kapasitas Qi-nya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_MakeSoulCrystal">
-      <DisplayName>Penangkapan Jiwa</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penangkapan Jiwa\nGunakan mantra ini pada makhluk yang tidak membudidayakan untuk memurnikan jiwa mereka menjadi kristal jiwa. Hanya dapat digunakan satu kali pada setiap target.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_MakePuppet">
-      <DisplayName>Pengendalian roh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pengendalian roh\nImbuhi tubuh mati dengan spiritualitas untuk membuat boneka daging. Ia akan mampu melakukan pekerjaan manual. Efektivitasnya tergantung pada tingkat budidayanya saat masih hidup.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_BuidPuppet">
-      <DisplayName>Boneka Jiwa</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Boneka Jiwa\nImbuhi boneka dengan spiritualitas untuk menganimasikannya. Ia akan mampu melakukan pekerjaan manual. Efektivitasnya tergantung kualitasnya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="SeachSoul">
-      <DisplayName>Ekstraksi Memori</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Ekstraksi Memori\nMantra ini memungkinkan Anda membuka paksa lautan ingatan orang mati untuk mengekstrak informasi darinya. Merapal mantra ini di lingkungan yang tidak menguntungkan akan meningkatkan tingkat keberhasilan.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_ClosedDoor_1">
-      <DisplayName>Meditasi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Meditasi\nMasuk ke kondisi meditasi khusus dan bakar esensi serta umur panjang Anda. Ini akan memungkinkan Anda dengan cepat meningkatkan Qi[/color][/size] maksimum Anda</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbLing_Aoe_1">
-      <DisplayName>Pranayama</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pranayama\nMasuk ke kondisi meditasi dan serap Qi di sekitar Anda.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbLing_Live_1">
-      <DisplayName>Hukum Pengorbanan Roh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Hukum Pengorbanan Roh\nMengkonsumsi umur panjang makhluk yang tidak membudidayakan untuk mengisi kembali Qi Anda sendiri.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbLing_Body_1">
-      <DisplayName>Pemurnian Darah</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pemurnian Darah\nPerbaiki darah dalam tubuh manusia dan gunakan untuk mengisi kembali Qi Anda sendiri. Semakin tinggi tingkat kultivasi tubuh, semakin banyak Qi yang dapat diserap.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbLing_Thing_1">
-      <DisplayName>Satu Dengan Alam</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Menyatu dengan Alam\nGunakan Qi dari bangunan, tanaman, atau mineral untuk mengisi kembali Qi Anda sendiri. Semakin banyak Qi yang dimiliki entitas dan semakin maksimal Qi yang dimiliki, semakin cepat pula kecepatan pengurasannya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbLing_Item_1">
-      <DisplayName>Telapak Tangan Pemakan Bintang</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Star Devouring Palm\nMemungkinkan pengguna menyerap Qi yang terkandung dalam objek.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Healing_Damage_1">
-      <DisplayName>Penyembuhan Batin</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penyembuhan Internal\nMantra ini memungkinkan Anda mengobati luka dalam.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_BuildBody_1">
-      <DisplayName>Rekonstruksi Tubuh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Rekonstruksi Tubuh\nMeregenerasi anggota tubuh target yang hilang.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_RobBodyLow_1">
-      <DisplayName>Penangkapan Tubuh Lebih Rendah</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penangkapan Tubuh Kecil\nMantra penangkap tubuh tingkat rendah. Meskipun memungkinkan Anda menangkap tubuh manusia, Anda akan kehilangan beberapa poin atribut karena ketidakcocokan antara jiwa dan tubuh.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_RobBodyHigh_1">
-      <DisplayName>Penangkapan Tubuh Lebih Besar</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penangkapan Tubuh Lebih Besar\nMantra penangkap tubuh tingkat tinggi. Meskipun memungkinkan Anda menangkap tubuh seorang kultivator, Anda akan kehilangan beberapa poin atribut karena ketidaksesuaian antara jiwa dan tubuh.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_1_1">
-      <DisplayName>Pemurnian Esensi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pemurnian Esensi\nPerbaiki esensi makhluk non-pembudidayaan untuk meningkatkan budidaya Anda sendiri dan mendapatkan poin pemahaman. Semakin kuat targetnya, semakin besar efeknya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_2_1">
-      <DisplayName>Ilusi Merayu</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Ilusi Merayu\nMenjebak seorang non-pembudidaya lawan jenis dalam ilusi yang membangkitkan gairah, menguras umur panjang mereka untuk meningkatkan kultivasi Anda sendiri dan mendapatkan poin pemahaman. Semakin tinggi Charm target, semakin besar pula efeknya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_3_1">
-      <DisplayName>Hukum Penyerap Jiwa</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Hukum Penyerap Jiwa\nTangkap dan sempurnakan jiwa seorang non-pembudidaya untuk meningkatkan kultivasi Anda sendiri dan mendapatkan poin pemahaman. Semakin tinggi Pemahaman target, semakin besar efeknya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_4_1">
-      <DisplayName>Hukum Tubuh Iblis Surgawi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Demonisasi\nHubungkan kesadaran Anda dengan Dunia Bawah, raih kecepatan kultivasi yang tak tertandingi. Hal ini juga akan menyebabkan jiwa Anda ditelan secara permanen oleh api bawah tanah, sehingga tidak memungkinkan Anda untuk beristirahat. Hanya dengan menyiksa makhluk hidup maka kekuatan api akan berkurang untuk sementara.\nMantra yang dipelajari: Pemurnian Jiwa\nDapatkan jiwa orang yang bukan seorang kultivator dan siksa mereka, sehingga menimbulkan rasa sakit yang menyiksa. Ini akan membuat Anda sangat gembira.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_5_1">
-      <DisplayName>Karuna</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Karuna\nSaat target mengalami emosi ekstrem (nilai suasana hatinya di bawah 40 atau di atas 160), Anda akan memperoleh pengalaman kultivasi dan poin pemahaman. Semakin kuat suasana hatinya, semakin baik efeknya.\nUntuk membatalkan mantra, gunakan lagi mantra tersebut pada target yang sama. Saat mantra aktif, suasana hati dan kondisi pikiran pengguna akan berkurang.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_6_1">
-      <DisplayName>Parasitisme Jiwa</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Parasitisme Jiwa\nGunakan mantra ini untuk menyuntikkan seutas jiwa Anda ke dalam makhluk fana. Di awal setiap hari, untaian tersebut akan menyedot sebagian dari fondasi Dao target dan menyempurnakannya untuk memperkuat kultivasi Anda. Ini juga akan memberimu pengalaman pemahaman./nSaat berada di bawah pengaruh mantra ini, target akan melemah. Untuk membatalkan mantra, ucapkan mantra pada target yang sama lagi.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_7_1">
-      <DisplayName>Pengorbanan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pengorbanan\nKorbankan non-pembudidaya kepada roh jahat. Mereka akan mengambil beberapa organ dan menghadiahi Anda pengalaman kultivasi dan poin pemahaman. Semakin tinggi atribut yang dimiliki target, semakin besar pula hadiahnya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_8_1">
-      <DisplayName>Mantra ketenangan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra ketenangan\nMemungkinkan Anda menenangkan pikiran orang yang ramah.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PlantGrowUp_1">
-      <DisplayName>Kehamilan Tanaman</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Kehamilan Tanaman\nPadatkan Qi yang disimpan dalam tubuh Anda dan masukkan ke dalam tanaman untuk meningkatkan laju pertumbuhannya selama satu hari. Semakin tinggi kualitas tanaman, semakin kurang efektif teknik ini. Ini sangat membebani tubuh penggunanya.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_9_1">
-      <DisplayName>Hukum Sejati Kehendak Surga</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Hukum Sejati Kehendak Surga\nBakar umur panjang Anda untuk meningkatkan kekuatan alami tubuh Anda dalam waktu singkat dan mengisi kembali Qi.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_9_2">
-      <DisplayName>Disintegrasi Iblis</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Disintegrasi Iblis\nBakar umur panjang Anda untuk meningkatkan kekuatan alami tubuh Anda dalam waktu singkat dan mengisi kembali Qi.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_AbsorbGong_10_1">
-      <DisplayName>Pedang Gemilang yang Memutuskan Emosi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pedang Gemilang yang Memutuskan Emosi\nMenghilangkan semua efek suasana hati jangka pendek dari target.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_LingStoneMake_1">
-      <DisplayName>Sihir batu roh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra batu roh\nPadatkan Qi Anda menjadi batu roh.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_LingCrystalMake_1">
-      <DisplayName>Sihir kristal roh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Sihir kristal roh\nPadatkan Qi Anda menjadi kristal roh.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Prophesy_1">
-      <DisplayName>Perhitungan Ilahi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Perhitungan Ilahi\nHitung perubahan yang akan terjadi pada sekte selama beberapa hari ke depan.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Prophesy_MapStory_1">
-      <DisplayName>Mengukur Tanah</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mengukur Tanah\nHitung perubahan yang akan terjadi pada suatu lokasi selama beberapa hari ke depan.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForRain_1">
-      <DisplayName>Mantra hujan</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra hujan\nSalurkan Qi di sekitar Anda untuk memanggil hujan, tetapi ini akan menyebabkan hari-hari kering lebih banyak lagi di kemudian hari. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForSun_1">
-      <DisplayName>Mantra matahari</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra matahari\nSalurkan Qi di sekitar Anda untuk memanggil cuaca cerah, namun ini akan menyebabkan lebih banyak hari kering di kemudian hari. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForRainstorm">
-      <DisplayName>Mantra hujan deras</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Rainstrom\nMantra yang dapat diucapkan di musim dingin dan musim semi untuk memanggil hujan badai. Hal ini akan menyebabkan lebih banyak hari kering yang akan datang kemudian. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForFohn">
-      <DisplayName>Mantra Angin Panas</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Angin Panas\nMantra yang dapat diucapkan di musim panas dan musim gugur untuk memanggil angin panas. Hal ini akan menyebabkan lebih banyak hari kering yang akan datang kemudian. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForDustStorm">
-      <DisplayName>Mantra Badai Debu</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Badai Debu\nMantra yang dapat diucapkan di musim dingin dan musim semi untuk memanggil badai debu. Hal ini akan menyebabkan lebih banyak hari kering yang akan datang kemudian. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForMiasma">
-      <DisplayName>Mantra racun</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra racun\nMantra yang dapat diucapkan di musim semi dan musim panas untuk memanggil awan racun. Hal ini akan menyebabkan lebih banyak hari kering yang akan datang kemudian. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForLightningStorm">
-      <DisplayName>Mantra badai petir</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra badai petir\nMantra yang dapat diucapkan di musim gugur dan musim panas untuk memanggil badai petir. Hal ini akan menyebabkan lebih banyak hari kering yang akan datang kemudian. Itu akan menguras umurmu.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_PrayForWeather">
-      <DisplayName>Mantra cuaca</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Mantra Matahari\nMantra yang dipelajari: Mantra Rainstrom\nMantra yang dipelajari: Mantra Angin Panas\nMantra yang dipelajari: Mantra Badai Debu\nMantra yang dipelajari: Mantra racun\nMantra yang dipelajari: Mantra badai petir[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Healing_Physique_1">
-      <DisplayName>Temperatur Sumsum</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Marrow Tempering\nMemperkuat tulang orang yang bukan kultivator, meningkatkan Fisik mereka. Semakin rendah nilai awalnya, semakin baik efeknya. Hanya dapat digunakan satu kali pada target yang sama.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Healing_Intelligence_1">
-      <DisplayName>Penyelarasan Pikiran</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penyelarasan Pikiran\nMenyelaraskan pikiran orang yang bukan seorang kultivator, meningkatkan Pemahaman mereka. Semakin rendah nilai awalnya, semakin baik efeknya. Hanya dapat digunakan satu kali pada target yang sama.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Healing_Charisma_1">
-      <DisplayName>Patung Tubuh</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Pemahat Tubuh\nMemahat tubuh non-pembudidaya, meningkatkan Pesona mereka. Semakin rendah nilai awalnya, semakin baik efeknya. Hanya dapat digunakan satu kali pada target yang sama.[/color][/size]</EffectDesc>
-    </Text>
-    <Text Name="Magic_Healing_Perception_1">
-      <DisplayName>Pemandangan Ilahi</DisplayName>
-      <EffectDesc>[size=10][color=#D06508]Mantra yang dipelajari: Penglihatan Ilahi\nKembangkan penglihatan ilahi bagi non-pembudidaya, dan tingkatkan Indra mereka. Semakin rendah nilai awalnya, semakin baik efeknya. Hanya dapat digunakan satu kali pada target yang sama.[/color][/size]</EffectDesc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Magic_FenShenZhiShu">
+			<DisplayName>Pemisahan Roh</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemisahan Roh\nManipulasi Roh Primordial Anda, memaksanya untuk terbelah guna mendapatkan sub-roh tambahan. Anda akan kehilangan Max Qi dalam proses ini dan menua dengan cepat. Semakin sering Anda melakukan pemisahan, semakin tinggi harga yang Anda bayar.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FengshuiItemOpen">
+			<DisplayName>Identifikasi Feng Shui</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mengidentifikasi Feng Shui\nKonsumsi batu roh untuk mengaktifkan relik dan mengidentifikasi sifatnya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_GanLingShu">
+			<DisplayName>Hujan Tepat Waktu</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Hujan Tepat Waktu\n Memanggil hujan di area tertentu, memadamkan api dan sedikit meningkatkan laju pertumbuhan tanaman.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi1">
+			<DisplayName>Mantra Konsonan</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mantra Kesesuaian\n Cobalah membujuk lawan untuk bergabung dengan Anda dengan berkomunikasi kepada mereka menggunakan spiritualitas. Semakin tinggi Pencapaian Anda, dan semakin besar perbedaan antara Keadaan dan Persepsi Anda dan lawan, semakin mudah untuk berhasil. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Hanya dapat digunakan sekali pada setiap target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi2">
+			<DisplayName>Nyanyian Resonansi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Resonansi\n Hubungkan dan resonansi dengan pikiran satu sama lain dalam upaya membujuk lawan untuk bergabung dengan Anda. Semakin tinggi Pencapaian Anda, dan semakin besar perbedaan antara Status Anda dan lawan, semakin mudah untuk berhasil. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Tingkat keberhasilannya jauh lebih tinggi jika kedua belah pihak memiliki ciri-ciri dewasa atau saudara sedarah yang serupa. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Ini adalah sihir yang sangat berisiko. Jika gagal, targetnya akan mati dan Anda akan terluka.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi3">
+			<DisplayName>Tarian Setan Surgawi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Setan Langit\n Lakukan tarian setan langit dan ubah target ke sisi Anda. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Seiring berjalannya waktu, kemungkinan target terbangun meningkat. Semakin besar perbedaan antara Keadaan dan Karisma Anda dan lawan, semakin rendah kemungkinan untuk terbangun. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Pikiran target rusak setiap kali sihir ini dilakukan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi4">
+			<DisplayName>Lima Jejak Spiritual</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Lima Jejak Spiritual\n Cuci otak target dengan sihir yang luar biasa, ubah ke sisi Anda selama jangka waktu tertentu. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Semakin besar perbedaan antara Negara dan Intelijen Anda dan lawan, semakin lama hal itu akan bertahan. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Durasi sihir menjadi lebih lama setiap kali dilakukan, namun akan menyebabkan kerusakan yang tidak dapat diperbaiki pada Persepsi target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine">
+			<DisplayName>Keajaiban Bumi Purba</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pembentukan Gunung\n Gunakan kekuatan psikis dalam jumlah besar untuk mengeluarkan mineral dari bawah tanah. \nPelajari Keajaiban: Pembentukan Danau\n Lakukan keajaiban dan ubah suatu area menjadi perairan dangkal. \nPelajari Keajaiban: Pembentukan Tanah\n Lakukan keajaiban dan ubah suatu area menjadi daratan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_KaiHu">
+			<DisplayName>Pembentukan Danau</DisplayName>
+			<EffectDesc>[size=16][color=#D06508]Pelajari Keajaiban: Pembentukan Danau\n Lakukan keajaiban dan ubah suatu area menjadi perairan dangkal.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_ZaoLu">
+			<DisplayName>Pembentukan Tanah</DisplayName>
+			<EffectDesc>[size=16][color=#D06508]Pelajari Keajaiban: Pembentukan Tanah\n Lakukan keajaiban dan ubah suatu area menjadi daratan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RebornSelf">
+			<DisplayName>Lamunan Kelahiran Kembali</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPil Kelahiran Kembali\nPelajari Keajaiban: Lamunan Kelahiran Kembali\nTeknik rahasia unik dari Sekte Taiyi. Menggunakan Mutiara Jiwa sebagai katalisnya, teknik ini menghancurkan kultivasi seseorang dan membakar Inti Emas seseorang. Dengan demikian cara penciptaan dibalik dan seseorang akan bereinkarnasi sebagai manusia fana.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_JieHuiDaoPowerUp">
+			<DisplayName>Penyempurnaan Tao</DisplayName>
+			<EffectDesc>[size=16][color=#D06508]Keajaiban yang Dipelajari: Penyempurnaan Tao\nKonsumsi satu Kesengsaraan Ashe dan gunakan pada sebuah item, memberikan peluang untuk meningkatkan tingkatan item sebanyak 1.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalYouPowerUp">
+			<DisplayName>Penyempurnaan Spectre</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Hantu\nKonsumsilah satu Permata Jiwa Penderitaan dan gunakan pada sebuah item, sehingga memberikan peluang untuk meningkatkan tingkatan item sebanyak 1.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalLingPowerUp">
+			<DisplayName>Pemurnian Rohani</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Spiritual\nKonsumsi satu Amber Spiritual dan gunakan pada sebuah item, memberikan peluang untuk meningkatkan Tingkat Penahanan Qi item (jika item tersebut adalah artefak, Kapasitas Qi akan ditingkatkan).[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakeSoulCrystal">
+			<DisplayName>Nyanyian Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Jiwa\nGunakan pada karakter yang belum digarap, karakter sekarat, atau Roh Hidup untuk mengumpulkan Permata Jiwa mereka. Hanya dapat digunakan sekali pada setiap target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakePuppet">
+			<DisplayName>Penguasaan Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penguasaan Jiwa\nGunakan pada tubuh mati untuk membangunkannya. Tubuh yang terbangun dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang terkait dengan kondisi budidayanya saat masih hidup.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuidPuppet">
+			<DisplayName>Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Ensoul\nLepaskan sebuah wadah untuk memberinya jiwa. Kapal yang dijiwai dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang bergantung pada tingkatannya saat dibuat.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Penyelidikan Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyelidikan Jiwa\nGunakan pada karakter yang sekarat dan Anda memiliki peluang tertentu untuk mendapatkan panduan rahasia atau pengetahuan lainnya. Melakukannya di lokasi dengan Feng Shui yang jahat dapat meningkatkan peluang memperoleh informasi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ClosedDoor_1">
+			<DisplayName>Meditasi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Meditasi\nMasuk ke kondisi meditasi untuk mengembangkan diri. Dengan cepat menghabiskan umur dan stamina seseorang. Dapatkan Budidaya dengan cepat dan tingkatkan Qi maksimal.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Aoe_1">
+			<DisplayName>Nyanyian Nafas Rohani</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Nafas Spiritual\nPergi ke lokasi yang ditentukan untuk menyerap Qi dari lingkungan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Live_1">
+			<DisplayName>Jalan Penuai</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Cara Penuai\nGunakan pada makhluk hidup yang tidak memiliki pengalaman berkultivasi, habiskan umurnya untuk meningkatkan Qi Anda.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Body_1">
+			<DisplayName>Penyerapan Sanguinis</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyerapan Optimis\nPerbaiki tubuh dan ubah menjadi Qi Anda. Semakin tinggi keadaan tubuh saat masih hidup, semakin banyak Qi yang diperoleh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Thing_1">
+			<DisplayName>Satu dengan Gunung</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Yang Bergunung\nGunakan pada bangunan, tanaman, dan mineral di peta untuk menyerap Qi-nya. Semakin banyak Qi yang dimiliki target dan semakin tinggi maksimum Qi Anda, semakin cepat kecepatan penyerapan Anda.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Item_1">
+			<DisplayName>Telapak Penyerapan</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Telapak Penyerapan\nMenyerap Qi yang berada di dalam suatu benda.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Damage_1">
+			<DisplayName>Obat mujarab</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Obat mujarab\nGerakkan kekuatanmu untuk menyembuhkan Cedera Batin target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildBody_1">
+			<DisplayName>Rekonstruksi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Rekonstruksi\nRegenerasi anggota tubuh target, perbaiki semua bagian tubuh mereka yang hilang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyLow_1">
+			<DisplayName>Kepemilikan Lebih Kecil</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kepemilikan Lebih Kecil\nTeknik kepemilikan tingkat rendah. Rebut tubuh makhluk hidup yang tidak memiliki pengalaman berkultivasi. Namun, sebagian besar pengalaman kultivasi pengguna akan hilang, akibatnya menyebabkan ketidakcocokan jiwa.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyHigh_1">
+			<DisplayName>Kepemilikan Lebih Besar</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kepemilikan Lebih Besar\nTeknik kepemilikan tingkat lanjut. Rebut sepenuhnya tubuh makhluk hidup yang tidak memiliki pengalaman budidaya, tetapi sebagian besar pengalaman budidaya pengguna akan hilang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_1_1">
+			<DisplayName>Kuali Penyerapan Qi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kuali Penyerapan Qi\nMenyerap umur makhluk hidup yang tidak memiliki pengalaman kultivasi, meningkatkan pengalaman dan inspirasi kultivasi seseorang. Lebih efektif pada target dengan Fisik yang lebih baik.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_2_1">
+			<DisplayName>Ilusi yang Memikat</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Ilusi Memikat\nCiptakan alam ilusi untuk merayu makhluk hidup dari ras yang sama dengan pengguna yang tidak memiliki pengalaman kultivasi lawan jenis, menyerap masa hidup mereka untuk meningkatkan pengalaman sendiri dan mendapatkan inspirasi. Lebih efektif pada target dengan Karisma lebih tinggi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_3_1">
+			<DisplayName>Penjambret Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penjambret Jiwa\nRaih tubuh makhluk hidup yang tidak memiliki pengalaman kultivasi, transmutasi dan manfaatkan kekuatannya untuk meningkatkan pengalaman kultivasi Anda sendiri sambil mendapatkan inspirasi. Lebih efektif dengan target Intelegensi yang lebih tinggi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_4_1">
+			<DisplayName>Inkarnasi Setan Surgawi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Demonisasi\nBerkomunikasi dengan alam iblis dari kesadaran Anda sendiri untuk memperoleh kecepatan kultivasi yang lebih cepat dari rata-rata. Namun pada saat yang sama, jiwa Anda akan terus-menerus dibakar oleh api iblis, dan satu-satunya cara untuk menghilangkannya adalah dengan menyiksa makhluk hidup lain, sehingga menenangkan pikiran iblis. \nPelajari Keajaiban: Peleburan Jiwa\nLakukan penyiksaan peleburan jiwa pada makhluk hidup yang tidak memiliki pengalaman kultivasi dari ras yang sama dengan penggunanya, sehingga menimbulkan rasa sakit yang luar biasa pada mereka. dan sangat menikmatinya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_5_1">
+			<DisplayName>Eksploitasi Kenikmatan Eksternal</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Eksploitasi Kenikmatan Eksternal\nTargetkan makhluk hidup yang tidak memiliki pengalaman budidaya dari ras yang sama dengan pengguna. Jika target sedang dalam mood yang ekstrim (mood bar di atas 160 atau di bawah 40), dapatkan inspirasi dan pengalaman kultivasi darinya. Begitu mukjizat terjadi, pengaruhnya akan bertahan tanpa batas waktu. Semakin ekstrem Mood targetnya, semakin kuat pula efek keajaibannya. \nUntuk setiap target yang Anda gunakan, nilai dasar Kondisi Mental dan Suasana Hati Anda berkurang, dan target Anda menjadi lebih rentan terhadap kemarahan. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_6_1">
+			<DisplayName>Infeksi Jiwa</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Infeksi Jiwa\nLepaskan makhluk tak terkultivasi yang sejenis dengan milik Anda, tempelkan secercah roh primordial Anda ke dalamnya dan ubah Fondasi dari target yang terinfeksi menjadi Budidaya dan Inspirasi Anda dalam jumlah yang setara setiap hari pada pukul 0:00. \nUntuk setiap unit yang Anda infeksi, pikiran Anda akan rusak dan jiwa Anda terbelah, dan target akan melemah karena parasit. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_7_1">
+			<DisplayName>Persembahan Kurban</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Persembahan Pengorbanan\nTawarkan makhluk hidup tanpa pengalaman kultivasi dari ras yang sama dengan pengguna sebagai pengorbanan kepada jiwa iblis, yang akan mengambil beberapa organ acak, dan sebagai imbalannya berikan pengguna sejumlah besar pengalaman dan inspirasi. Semakin kuat Lima Atribut target, semakin besar efek pengorbanannya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_8_1">
+			<DisplayName>Mantra Pembersihan Pikiran</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mantra Pembersih Pikiran\nUcapkan mantra dan berikan makhluk hidup yang tidak memiliki pengalaman kultivasi dari ras yang sama dengan pengguna dengan status suasana hati yang positif.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PlantGrowUp_1">
+			<DisplayName>Nyanyian Penguasaan Kayu</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Penguasaan Kayu\nPusatkan Qi purba Anda dan masukkan ke dalam tanaman target, sehingga meningkatkan laju pertumbuhannya secara signifikan. Berlangsung 1 hari. Kurang efektif pada tanaman tingkat tinggi. Metode ini sangat merusak Qi purba Anda, gunakan dengan hati-hati.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_1">
+			<DisplayName>Jalan Hati Surgawi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Jalan Hati Surgawi\nMengkonsumsi 10 tahun umur pengguna untuk meningkatkan kemampuan mereka dalam waktu singkat dan memulihkan Qi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_2">
+			<DisplayName>Setan Batin Tidak Dirantai</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Iblis Batin Tidak Dirantai\nKonsumsi Umur untuk meningkatkan kemampuan Anda dan memulihkan Qi dalam jangka waktu singkat.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_10_1">
+			<DisplayName>Detasemen Bijaksana</DisplayName>
+			<Desc>Hati yang terlatih dalam cara Ketidaksadaran dapat melenyapkan semua pikiran yang mengganggu. Dengan mengembangkan metode ini, Anda memperoleh Detasemen Keajaiban yang Bijaksana, yang juga memungkinkan Anda memanfaatkan pikiran-pikiran ini dan mengarahkannya ke dalam sub-roh baru.</Desc>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Detasemen Bijaksana\nUcapkan mantra pada makhluk hidup yang tidak memiliki pengalaman kultivasi, hilangkan semua status suasana hati sementaranya. \n\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingStoneMake_1">
+			<DisplayName>Penyempurnaan Batu Roh</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Batu Roh\nPadatkan Qi menjadi batu roh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingCrystalMake_1">
+			<DisplayName>Penyempurnaan Kristal Roh</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Kristal Roh\nPadatkan Qi menjadi Kristal Roh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_1">
+			<DisplayName>Pandangan ke Depan Universal</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Perhitungan Siklus\nMencoba memprediksi apa yang mungkin terjadi di lokasi sekte dalam beberapa hari ke depan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_MapStory_1">
+			<DisplayName>Perhitungan Derivatif</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Perhitungan Derivatif\nMencoba memprediksi apa yang mungkin terjadi di lokasi tertentu di masa depan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LiuRenShensuan">
+			<DisplayName>Pandangan ke Depan Astrologi</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pandangan ke Depan Astrologi\nPilih karakter untuk mencoba mengetahui keberadaannya. Semakin tinggi Pencapaian Anda dan semakin banyak informasi yang Anda miliki, semakin tinggi pula tingkat keberhasilan keberadaan target pembelajaran.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRain_1">
+			<DisplayName>Membuat hujan</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Hujan\nMenciptakan hujan melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForSun_1">
+			<DisplayName>Nyanyian Pengusir Awan</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Pengusir Awan\nMewujudkan cuaca cerah melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRainstorm">
+			<DisplayName>Hujan badai</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Badai\nMenimbulkan hujan badai melalui keajaiban selama musim dingin dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForFohn">
+			<DisplayName>Angin Foehn</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Angin Foehn\nPanggil hembusan angin foehn melalui keajaiban selama musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForDustStorm">
+			<DisplayName>Setan Debu</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Setan Debu\nMenimbulkan badai debu melalui keajaiban selama musim dingin dan musim semi. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForMiasma">
+			<DisplayName>racun beracun</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Miasma Beracun\nMenimbulkan awan racun melalui keajaiban selama musim semi dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForLightningStorm">
+			<DisplayName>Hujan badai</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Badai Petir\nMenimbulkan badai petir melalui keajaiban selama musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForWeather">
+			<DisplayName>Doa Kitab Suci Surga</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Penghilang Awan\nPelajari Keajaiban: Tarian Badai Hujan\nPelajari Keajaiban: Angin Foehn\nPelajari Keajaiban: Setan Debu\nPelajari Keajaiban: Miasma Beracun\nPelajari Keajaiban: Badai Petir[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Physique_1">
+			<DisplayName>Sanitasi Sumsum</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Sanitasi Sumsum\nLakukan pembersihan menyeluruh terhadap makhluk hidup yang tidak memiliki pengalaman budidaya, meningkatkan Konstitusi mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Intelligence_1">
+			<DisplayName>Kebangkitan yang Tercerahkan</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kebangkitan yang Tercerahkan\nMencerahkan secara menyeluruh makhluk hidup yang tidak memiliki pengalaman berkultivasi, meningkatkan Kecerdasan mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Charisma_1">
+			<DisplayName>Karismatik</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Karismatik\nRekonstruksi tubuh dan jiwa makhluk hidup tanpa pengalaman kultivasi, meningkatkan Karisma mereka setidaknya 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Perception_1">
+			<DisplayName>Mata Ketiga</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mata Ketiga\nAktifkan Mata Ketiga pada makhluk hidup yang tidak memiliki pengalaman kultivasi, meningkatkan Persepsi mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FenShenZhiShu_1">
+			<DisplayName>Pemisahan Roh</DisplayName>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemisahan Roh\nMemungkinkan Anda memperoleh sub-roh.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
 </Texts>
