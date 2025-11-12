@@ -1,34 +1,34 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="SpellEsoterica_1">
-      <DisplayName>Tiga simbol batu giok</DisplayName>
-      <Desc>Seperangkat simbol yang diturunkan pada suatu sekte tertentu. Sangat bermanfaat bagi para pembudidaya.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nPesona kekosongan\nPesona yang mengungkap\nPesona yang mengoyak roh</EffectDesc>
-    </Text>
-    <Text Name="SpellEsoterica_2">
-      <DisplayName>Lima pesona ilahi kanon</DisplayName>
-      <Desc>Kanon ini memuat lima simbol jimat bagi para penggarap.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nPesona yang merobek ruang\nPesona lima roh harta karun\nPesona pil segudang\nPesona Kehendak Surga\nPesona ketenangan</EffectDesc>
-    </Text>
-    <Text Name="SpellEsoterica_3">
-      <DisplayName>Panduan tujuh berkah</DisplayName>
-      <Desc>Panduan ini berisi tujuh simbol pesona umum. Sangat bermanfaat bagi manusia.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nPesona tubuh ringan\nPesona peremajaan\nPesona penglihatan ilahi\nPesona semangat\nPesona Bigu\nPesona penghirupan Qi\nPesona kebahagiaan</EffectDesc>
-    </Text>
-    <Text Name="SpellEsoterica_4">
-      <DisplayName>Panduan pengadilan kerajaan</DisplayName>
-      <Desc>Sebuah manual simbol jimat yang telah diwariskan di istana kerajaan.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nPesona Yang Lebih Besar\nPesona Parutan Yin\nPesona Kecerdasan\nPesona Prajurit\nPesona Pekerja Ilahi\nPesona Pengrajin\nPesona Kelimpahan\nPesona Tabib</EffectDesc>
-    </Text>
-    <Text Name="SpellEsoterica_5">
-      <DisplayName>Panduan pesona Harmoni Hebat</DisplayName>
-      <Desc>Kumpulan simbol yang relatif lengkap untuk jimat yang paling umum.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nPesona Semangat\nPesona Bigu\nPesona Kebahagiaan\nPesona Yang Lebih Besar\nPesona Yin Yang Lebih Besar\nPesona Pekerja Ilahi\nPesona Pengrajin\nPesona Kelimpahan\nPesona Tabib</EffectDesc>
-    </Text>
-    <Text Name="SpellEsoterica_6">
-      <DisplayName>Atlas Melati Musim Dingin</DisplayName>
-      <Desc>Sebuah buku misterius dari dunia lain. Berisi catatan tentang adat istiadat dan budaya suatu bangsa besar tertentu.</Desc>
-      <EffectDesc>Membuka simbol untuk:\nSimbol keberuntungan\nSimbol hadiah\nSimbol umur panjang\n\nMembuka konstruksi：\Lentera Kemakmuran\nLentera Harmoni\nAtap (Pegas)\nAtap (Festival)\nKembang Api (Naga)</EffectDesc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="SpellEsoterica_1">
+			<DisplayName>Surat Giok dari Tiga Gua</DisplayName>
+			<Desc>Rahasia Tao, tercatat tiga jenis jimat yang sangat bermanfaat untuk pengembangan diri.</Desc>
+			<EffectDesc>Buka Jimat: \nPemahaman Ilahi\nPemahaman Terlupakan\nPemahaman Kebenaran</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_2">
+			<DisplayName>Jimat Ilahi dari Lima Elemen Qi</DisplayName>
+			<Desc>Manual rahasia yang mencatat lima jimat sekte dalam.</Desc>
+			<EffectDesc>Buka Jimat: \nJimat Bayangan yang Berangkat\nJimat Ajaib\nJimat Ketidakkekalan\nJimat Hati Surgawi\nJimat Hati Tenang</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_3">
+			<DisplayName>Buku Emas Enam Dekrit dan Lima Arah</DisplayName>
+			<Desc>Ini mencatat enam jimat umum dan praktis yang sangat berguna bagi manusia.</Desc>
+			<EffectDesc>Jimat Buka Kunci: \nJimat Perjalanan Rohani\nJimat Penyembuh\nJimat Peramal\nJimat Pemurnian Rohani\nJimat Puasa\nJimat Penyerapan Qi\nJimat Kegembiraan Abadi</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_4">
+			<DisplayName>Buku Jimat Kaisar</DisplayName>
+			<Desc>Koleksi jimat rahasia yang diturunkan oleh keluarga kerajaan. Mereka berasal dari makhluk abadi yang diberi gelar oleh Kaisar di dinasti masa lalu.</Desc>
+			<EffectDesc>Buka Jimat: \nJimat Yang Tertinggi\nJimat Yin Tertinggi\nJimat Kemakmuran Sipil\nJimat Kemakmuran Militer\nJimat Ketekunan\nJimat Keahlian\nJimat Kesuburan\nJimat Penguasaan Obat</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_5">
+			<DisplayName>Koleksi Jimat Dasar</DisplayName>
+			<Desc>Koleksi yang cukup lengkap, berisi sebagian besar jimat umum.</Desc>
+			<EffectDesc>Jimat Buka Kunci: \nJimat Pembersihan Spiritual\nJimat Puasa\nJimat Kegembiraan Abadi\nJimat Yang Tertinggi\nJimat Yin Tertinggi\nJimat Ketekunan\nJimat Keahlian\nJimat Kesuburan\nJimat Penguasaan Obat</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_6">
+			<DisplayName>Buku Bergambar Musim Semi yang Akan Datang</DisplayName>
+			<Desc>Ilustrasi misterius dari alam lain, banyak mendokumentasikan budaya dan adat istiadat suatu bangsa besar.</Desc>
+			<EffectDesc>Buka Jimat: \nIlustrasi Kemakmuran Abadi\nIlustrasi Status Abadi\nIlustrasi Umur Panjang Abadi\n\nBuka Kunci Bangunan: \nLentera Kemakmuran\nLentera Harmoni\nAtap (Musim Semi)\nAtap (Festival)\nKembang Api (Naga)</EffectDesc>
+		</Text>
+	</List>
 </Texts>
