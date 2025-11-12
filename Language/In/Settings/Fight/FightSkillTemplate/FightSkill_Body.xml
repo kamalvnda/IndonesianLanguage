@@ -1,8 +1,8 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_FightSkill_Body_AngerFire">
-			<DisplayName>Pengamuk yang Marah</DisplayName>
-			<Desc>Ingat kembali [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b] kenangan paling menyakitkan dalam hidup Anda, dan ubah emosi negatif ini menjadi kemarahan yang mengamuk. Berlangsung [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] detik. Semakin kuat emosi negatifnya, semakin kuat pula efeknya.</Desc>
+			<DisplayName>Berserkers yang Marah</DisplayName>
+			<Desc>Ingat kembali [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b] kenangan paling menyakitkan dalam hidup Anda, dan ubah emosi negatif ini menjadi kemarahan Berserk. Berlangsung [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] detik. Semakin kuat emosi negatifnya, semakin kuat pula efeknya.</Desc>
 		</Text>
 	</List>
 </Texts>
