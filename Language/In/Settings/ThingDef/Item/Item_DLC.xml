@@ -1,25 +1,25 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_BambooShoot" sParam="Item">
-			<ThingName>rebung</ThingName>
-			<Desc>Rebung: Rebung muda yang dapat digunakan dalam masakan karena rasanya yang renyah dan menyegarkan.</Desc>
-			<Item.FabaoSuffix>kabel, gulungan benang</Item.FabaoSuffix>
+			<ThingName>Rebung</ThingName>
+			<Desc>Beberapa rebung. Akar bambu yang bisa digunakan untuk memasak, renyah dan menyegarkan.</Desc>
+			<Item.FabaoSuffix>Kabel, Benang</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Bamboo" sParam="Item">
-			<ThingName>bambu</ThingName>
-			<Desc>Kumpulan bambu yang dapat digunakan untuk membuat alat pancing dan bangunan tertentu. Hanya panda yang bisa dimakan.</Desc>
-			<Item.FabaoSuffix>tongkat</Item.FabaoSuffix>
+			<ThingName>Tangkai Bambu</ThingName>
+			<Desc>Seikat bambu yang dapat digunakan untuk membuat pancing dan beberapa bangunan. Hanya bisa dimakan oleh panda.</Desc>
+			<Item.FabaoSuffix>Tongkat</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FishStick" sParam="Item">
-			<ThingName>pancing</ThingName>
-			<Desc>Pancing: Beberapa ikan tertarik pada elemen tertentu dan hanya muncul pada waktu yang berbeda. Apalagi semakin tinggi level jorannya, semakin baik. Semakin tinggi tingkat tangkapan ikan langka.</Desc>
-			<Item.FabaoSuffix>kait, garis, tendon</Item.FabaoSuffix>
+			<ThingName>Pancing</ThingName>
+			<Desc>Sebuah pancing. Beberapa ikan tertarik pada elemen tertentu dan hanya muncul pada waktu berbeda. Selain itu, semakin tinggi tingkatan joran, semakin tinggi pula tingkat penangkapan ikan langka.</Desc>
+			<Item.FabaoSuffix>Batang, Garis, Kawat</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PandaJade" sParam="Item">
-			<ThingName>Panda Giok</ThingName>
-			<Desc>Giok yang ditemukan di hutan bambu kuno Sepertinya itu adalah salah satu dari satu set peralatan.</Desc>
-			<StoryBnts.0.Name>meneliti</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Lihatlah Panda Giok.</StoryBnts.0.Desc>
+			<ThingName>Panda Jade</ThingName>
+			<Desc>Sebuah batu giok ditemukan di hutan bambu. Tampaknya itu adalah salah satu dari sekumpulan item.</Desc>
+			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Periksa Panda Giok.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
 			<ThingName>Kontrak Roh: Panda</ThingName>
