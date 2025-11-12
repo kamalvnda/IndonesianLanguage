@@ -1,64 +1,64 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Spouse">
-			<DisplayNameF>istri</DisplayNameF>
-			<DisplayNameM>suami</DisplayNameM>
+			<DisplayNameF>Istri</DisplayNameF>
+			<DisplayNameM>Suami</DisplayNameM>
 		</Text>
 		<Text Name="Child">
-			<DisplayNameF>anak perempuan</DisplayNameF>
-			<DisplayNameM>putra</DisplayNameM>
+			<DisplayNameF>Anak perempuan</DisplayNameF>
+			<DisplayNameM>Putra</DisplayNameM>
 		</Text>
 		<Text Name="Brother">
-			<DisplayNameF>saudara perempuan</DisplayNameF>
-			<DisplayNameM>saudara saudara</DisplayNameM>
+			<DisplayNameF>Kakak Perempuan, Adik Perempuan</DisplayNameF>
+			<DisplayNameM>Kakak Laki-Laki, Adik Laki-Laki</DisplayNameM>
 		</Text>
 		<Text Name="Parent">
-			<DisplayNameF>ibu</DisplayNameF>
-			<DisplayNameM>ayah</DisplayNameM>
+			<DisplayNameF>Ibu</DisplayNameF>
+			<DisplayNameM>Ayah</DisplayNameM>
 		</Text>
 		<Text Name="GodChild">
-			<DisplayNameF>putri angkat</DisplayNameF>
-			<DisplayNameM>Mengadopsi kartu pria</DisplayNameM>
+			<DisplayNameF>Anak angkat perempuan</DisplayNameF>
+			<DisplayNameM>Anak Asuh</DisplayNameM>
 		</Text>
 		<Text Name="GodParent">
-			<DisplayNameF>ibu angkat</DisplayNameF>
-			<DisplayNameM>ayah angkat</DisplayNameM>
+			<DisplayNameF>Ibu angkat</DisplayNameF>
+			<DisplayNameM>Bapak angkat</DisplayNameM>
 		</Text>
 		<Text Name="BiaoBrother">
-			<DisplayNameF>sepupu</DisplayNameF>
-			<DisplayNameM>sepupu</DisplayNameM>
+			<DisplayNameF>Sepupu, Sepupu</DisplayNameF>
+			<DisplayNameM>Sepupu, Sepupu</DisplayNameM>
 		</Text>
 		<Text Name="Friend">
-			<DisplayNameF>teman</DisplayNameF>
-			<DisplayNameM>teman</DisplayNameM>
+			<DisplayNameF>Teman</DisplayNameF>
+			<DisplayNameM>Teman</DisplayNameM>
 		</Text>
 		<Text Name="Fancy">
-			<DisplayNameF>orang impian</DisplayNameF>
-			<DisplayNameM>orang impian</DisplayNameM>
+			<DisplayNameF>Menghancurkan</DisplayNameF>
+			<DisplayNameM>Menghancurkan</DisplayNameM>
 		</Text>
 		<Text Name="FancyFlag">
-			<DisplayNameF>Orang yang diam-diam mencintai dirinya sendiri</DisplayNameF>
-			<DisplayNameM>Orang yang diam-diam mencintai dirinya sendiri</DisplayNameM>
+			<DisplayNameF>Pengagum</DisplayNameF>
+			<DisplayNameM>Pengagum</DisplayNameM>
 		</Text>
 		<Text Name="Lover">
-			<DisplayNameF>orang yang dicintai</DisplayNameF>
-			<DisplayNameM>orang yang dicintai</DisplayNameM>
+			<DisplayNameF>Kekasih</DisplayNameF>
+			<DisplayNameM>Kekasih</DisplayNameM>
 		</Text>
 		<Text Name="RivalInlove">
-			<DisplayNameF>saingan cinta</DisplayNameF>
-			<DisplayNameM>saingan cinta</DisplayNameM>
+			<DisplayNameF>Saingan Cinta</DisplayNameF>
+			<DisplayNameM>Saingan Cinta</DisplayNameM>
 		</Text>
 		<Text Name="PersonalEnemy">
-			<DisplayNameF>musuh</DisplayNameF>
-			<DisplayNameM>musuh</DisplayNameM>
+			<DisplayNameF>Musuh</DisplayNameF>
+			<DisplayNameM>Musuh</DisplayNameM>
 		</Text>
 		<Text Name="Reincarnation">
-			<DisplayNameF>kehidupan sebelumnya</DisplayNameF>
-			<DisplayNameM>kehidupan sebelumnya</DisplayNameM>
+			<DisplayNameF>Kehidupan Masa Lalu</DisplayNameF>
+			<DisplayNameM>Kehidupan Masa Lalu</DisplayNameM>
 		</Text>
 		<Text Name="SYS_LOST">
-			<DisplayNameF>Tidak tahu (kosong)</DisplayNameF>
-			<DisplayNameM>Tidak tahu (kosong)</DisplayNameM>
+			<DisplayNameF>Tidak Diketahui (Kosong)</DisplayNameF>
+			<DisplayNameM>Tidak Diketahui (Kosong)</DisplayNameM>
 		</Text>
 	</List>
 </Texts>
