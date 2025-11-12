@@ -1,15 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Farm">
-			<DisplayName>bidang</DisplayName>
+			<DisplayName>Bidang</DisplayName>
 			<Desc>Tempat yang digunakan untuk bertani untuk menghasilkan gandum.</Desc>
 		</Text>
 		<Text Name="Mine">
-			<DisplayName>milikku</DisplayName>
+			<DisplayName>Milikku</DisplayName>
 			<Desc>[color=#0000FF]pertambangan[/color]([keycode]Mine[/keycode])\nGali bijih dari tambang untuk mendapatkan batu dan bijih.\nJenis pekerjaan: Pekerjaan penambangan</Desc>
 		</Text>
 		<Text Name="Lumber">
-			<DisplayName>tempat penebangan kayu</DisplayName>
+			<DisplayName>Tempat penebangan kayu</DisplayName>
 			<Desc>Tempat yang digunakan untuk pengadaan kayu</Desc>
 		</Text>
 		<Text Name="LingMine">
@@ -17,11 +17,11 @@
 			<Desc>Tempat yang digunakan untuk menambang untuk mengekstraksi batu roh.</Desc>
 		</Text>
 		<Text Name="Statue">
-			<DisplayName>patung dewa</DisplayName>
+			<DisplayName>Patung dewa</DisplayName>
 			<Desc>patung dewa Ketika selesai Jika seorang murid yang mengembangkan Metode Budidaya Ilahi berhasil membangun kuil keajaiban di Alam Ilahi, Anda akan dapat menugaskan seorang murid untuk menempati tempat ini.</Desc>
 		</Text>
 		<Text Name="Arena">
-			<DisplayName>dojo</DisplayName>
+			<DisplayName>Dojo</DisplayName>
 			<Desc>Ketika fasilitas pelatihan selesai. Tempat ini dapat digunakan untuk melatih murid.</Desc>
 		</Text>
 	</List>
