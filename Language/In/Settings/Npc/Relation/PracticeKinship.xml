@@ -1,44 +1,44 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="PracticeMaster">
-			<DisplayNameF>pengajar</DisplayNameF>
-			<DisplayNameM>pengajar</DisplayNameM>
+			<DisplayNameF>Menguasai</DisplayNameF>
+			<DisplayNameM>Menguasai</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChild">
-			<DisplayNameF>murid</DisplayNameF>
-			<DisplayNameM>murid</DisplayNameM>
+			<DisplayNameF>Murid</DisplayNameF>
+			<DisplayNameM>Murid</DisplayNameM>
 		</Text>
 		<Text Name="PracticeMasterMaster">
-			<DisplayNameF>Tuan Paman</DisplayNameF>
-			<DisplayNameM>Tuan Paman</DisplayNameM>
+			<DisplayNameF>Tuan yang Hebat</DisplayNameF>
+			<DisplayNameM>Tuan yang Hebat</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChildChild">
-			<DisplayNameF>Cucu</DisplayNameF>
-			<DisplayNameM>Cucu</DisplayNameM>
+			<DisplayNameF>Murid dari Murid</DisplayNameF>
+			<DisplayNameM>Murid dari Murid</DisplayNameM>
 		</Text>
 		<Text Name="PracticeBrother">
-			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
-			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+			<DisplayNameF>Rekan Murid, Rekan Murid</DisplayNameF>
+			<DisplayNameM>Rekan Murid, Rekan Murid</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherBrother">
-			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
-			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+			<DisplayNameF>Rekan Murid, Rekan Murid</DisplayNameF>
+			<DisplayNameM>Rekan Murid, Rekan Murid</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMaster">
-			<DisplayNameF>Kakak perempuan, adik perempuan</DisplayNameF>
-			<DisplayNameM>Kakak laki-laki, adik laki-laki</DisplayNameM>
+			<DisplayNameF>Rekan Murid Guru, Rekan Murid Guru</DisplayNameF>
+			<DisplayNameM>Rekan Murid Guru, Rekan Murid Guru</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChild">
-			<DisplayNameF>Cucu</DisplayNameF>
-			<DisplayNameM>Cucu</DisplayNameM>
+			<DisplayNameF>Murid Sesama Murid</DisplayNameF>
+			<DisplayNameM>Murid Sesama Murid</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMasterMaster">
-			<DisplayNameF>Tuan Pu</DisplayNameF>
-			<DisplayNameM>Tuan Pu</DisplayNameM>
+			<DisplayNameF>Tuan Besar</DisplayNameF>
+			<DisplayNameM>Tuan Besar</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChildChild">
-			<DisplayNameF>Cucu</DisplayNameF>
-			<DisplayNameM>Cucu</DisplayNameM>
+			<DisplayNameF>Murid dari Murid</DisplayNameF>
+			<DisplayNameM>Murid dari Murid</DisplayNameM>
 		</Text>
 	</List>
 </Texts>
