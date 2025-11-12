@@ -1,29 +1,33 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Flour" sParam="Item">
-			<ThingName>tepung</ThingName>
-			<Desc>Kantong tepung, bahan masakan</Desc>
-			<Item.FabaoSuffix>molekul, bubuk, tas</Item.FabaoSuffix>
+			<ThingName>Tepung</ThingName>
+			<Desc>Sekantong tepung. Bahan masakan.</Desc>
+			<Item.FabaoSuffix>Partikel, Bubuk, Tas</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Pear" sParam="Item">
-			<ThingName>pir</ThingName>
-			<Desc>pir manis</Desc>
-			<Item.FabaoSuffix>buah, manik, bolus, bola, kubah</Item.FabaoSuffix>
+			<ThingName>Pir</ThingName>
+			<Desc>Sekotak buah pir.</Desc>
+			<Item.FabaoSuffix>Buah, Manik, Bolus, Bola, Kubah</Item.FabaoSuffix>
+			<From>Tanaman</From>
 		</Text>
 		<Text Name="Item_Wheat" sParam="Item">
-			<ThingName>gandum</ThingName>
-			<Desc>seikat gandum</Desc>
-			<Item.FabaoSuffix>kabel, gulungan benang</Item.FabaoSuffix>
+			<ThingName>Gandum</ThingName>
+			<Desc>Setumpuk gandum.</Desc>
+			<Item.FabaoSuffix>Kabel, Benang</Item.FabaoSuffix>
+			<From>Lapangan atau Petualangan</From>
 		</Text>
 		<Text Name="Item_Mushroom" sParam="Item">
-			<ThingName>jamur</ThingName>
-			<Desc>keranjang jamur</Desc>
-			<Item.FabaoSuffix>keranjang, jamur</Item.FabaoSuffix>
+			<ThingName>Jamur</ThingName>
+			<Desc>Sekeranjang jamur.</Desc>
+			<Item.FabaoSuffix>Keranjang, Jamur</Item.FabaoSuffix>
+			<From>Bidang</From>
 		</Text>
 		<Text Name="Item_Lotusroot" sParam="Item">
-			<ThingName>akar teratai</ThingName>
-			<Desc>Bagian akar teratai</Desc>
-			<Item.FabaoSuffix>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</Item.FabaoSuffix>
+			<ThingName>Akar Teratai</ThingName>
+			<Desc>Bagian dari akar teratai.</Desc>
+			<Item.FabaoSuffix>Akar Teratai</Item.FabaoSuffix>
+			<From>Bidang</From>
 		</Text>
 	</List>
 </Texts>
