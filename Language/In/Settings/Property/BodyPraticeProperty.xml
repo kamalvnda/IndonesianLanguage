@@ -7,7 +7,7 @@
 			<FunctionKind>Statistik dasar</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_MaxZhenQi">
-			<DisplayName>qi sejati tertinggi</DisplayName>
+			<DisplayName>Qi sejati tertinggi</DisplayName>
 			<Desc>Jumlah Qi Sejati tertinggi dari seorang Penggarap Fisik Abadi</Desc>
 			<FunctionKind>Statistik Kultivator</FunctionKind>
 		</Text>
@@ -27,7 +27,7 @@
 			<FunctionKind>Statistik dalam pertempuran</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_BodyStrong">
-			<DisplayName>ketahanan fisik</DisplayName>
+			<DisplayName>Ketahanan fisik</DisplayName>
 			<Desc>Kemampuan untuk menyerap kerusakan dari Immortal Physique Cultivators. Semakin kuat tubuhnya, semakin baik. Semakin kecil kemungkinan Anda meninggal karena cedera Anda.</Desc>
 			<FunctionKind>Statistik dasar</FunctionKind>
 		</Text>
