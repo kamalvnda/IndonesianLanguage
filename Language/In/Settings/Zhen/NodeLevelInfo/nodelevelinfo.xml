@@ -1,19 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="0">
-			<DisplayName>Sub-sumbu level 0</DisplayName>
+			<DisplayName>Lv.0 Pendukung</DisplayName>
 		</Text>
 		<Text Name="1">
-			<DisplayName>Sub-inti level 1</DisplayName>
+			<DisplayName>Lv.1 Pendukung</DisplayName>
 		</Text>
 		<Text Name="2">
-			<DisplayName>Sub-inti level 2</DisplayName>
+			<DisplayName>Lv.2 Pendukung</DisplayName>
 		</Text>
 		<Text Name="3">
-			<DisplayName>Sub-inti level 3</DisplayName>
+			<DisplayName>Lv.3 Pendukung</DisplayName>
 		</Text>
 		<Text Name="4">
-			<DisplayName>Sub-inti level 4</DisplayName>
+			<DisplayName>Lv.4 Pendukung</DisplayName>
 		</Text>
 	</List>
 </Texts>
