@@ -1,36 +1,36 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Grass" sParam="Plant">
-			<ThingName>rumput</ThingName>
-			<Desc>rumput liar pada umumnya</Desc>
+			<ThingName>Rumput</ThingName>
+			<Desc>Rumput liar.</Desc>
 		</Text>
 		<Text Name="IceGrass" sParam="Plant">
-			<ThingName>rumput es</ThingName>
-			<Desc>Rumput liar tumbuh di lapangan es</Desc>
+			<ThingName>Rumput es</ThingName>
+			<Desc>Rerumputan liar yang tumbuh di dataran es.</Desc>
 		</Text>
 		<Text Name="Reed" sParam="Plant">
-			<ThingName>Rumput Vetiver</ThingName>
-			<Desc>Rumput yang tumbuh di sepanjang tepi danau atau sungai. Ini memiliki nilai estetika.</Desc>
+			<ThingName>Buluh</ThingName>
+			<Desc>Tanaman yang tumbuh di tepi danau atau sungai, mempunyai nilai estetika.</Desc>
 		</Text>
 		<Text Name="LongGrass" sParam="Plant">
-			<ThingName>rumput</ThingName>
-			<Desc>rumput liar pada umumnya</Desc>
+			<ThingName>Rumput Panjang</ThingName>
+			<Desc>Rumput liar.</Desc>
 		</Text>
 		<Text Name="Raspberry" sParam="Plant">
-			<ThingName>Buah kuning</ThingName>
-			<Desc>Buah liar disiram air liur naga. Ia memiliki sifat spiritual yang cukup istimewa. Itu membantu Anda tidak merasa lapar atau lelah selama setengah hari setelah memakannya. Namun buahnya cepat busuk setelah dipanen.</Desc>
+			<ThingName>Buah Kuning</ThingName>
+			<Desc>Buah liar disiram air liur naga. Ini memiliki efek spiritual khusus, mencegah Anda merasa lapar atau lelah selama setengah hari setelah memakannya. Namun buahnya cepat busuk setelah dipanen.</Desc>
 		</Text>
 		<Text Name="Lotus" sParam="Plant">
-			<ThingName>teratai</ThingName>
-			<Desc>tanaman yang tumbuh di atas air Memiliki nilai estetika dan akarnya dapat dimakan.</Desc>
+			<ThingName>Teratai</ThingName>
+			<Desc>Tanaman yang tumbuh di air, mempunyai nilai estetika. Akarnya bisa dimakan.</Desc>
 		</Text>
 		<Text Name="LittleRock" sParam="Plant">
-			<ThingName>batu kecil</ThingName>
-			<Desc>pecahan batu kecil berserakan di lantai</Desc>
+			<ThingName>Batu Kecil</ThingName>
+			<Desc>Batu-batu kecil berserakan di tanah.</Desc>
 		</Text>
 		<Text Name="IceLittleRock" sParam="Plant">
-			<ThingName>batu es kecil</ThingName>
-			<Desc>pecahan batu kecil berserakan di lantai</Desc>
+			<ThingName>Batuan Es Kecil</ThingName>
+			<Desc>Batu-batu kecil berserakan di tanah.</Desc>
 		</Text>
 	</List>
 </Texts>
