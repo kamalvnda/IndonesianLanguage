@@ -64,7 +64,7 @@
       <DisplayName>Bergerak</DisplayName>
     </Text>
     <Text Name="JobMoveThingTo">
-      <DisplayName>mengangkut</DisplayName>
+      <DisplayName>Mengangkut</DisplayName>
     </Text>
     <Text Name="JobYSSleep">
       <DisplayName>Sedang tidur</DisplayName>
