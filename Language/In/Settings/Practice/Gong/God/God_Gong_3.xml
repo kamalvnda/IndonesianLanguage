@@ -1,21 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God_Gong_3">
-			<DisplayName>Sepuluh dewa neraka</DisplayName>
-			<Desc>Sebuah metode untuk mengembangkan kekuatan para dewa yang telah lama menghilang sejak zaman kuno. Ini adalah metode penanaman dengan mengambil keyakinan makhluk hidup untuk mengubahnya menjadi kekuatan ilahi. Berbagai sekte yang mempraktikkan penanaman dewa semuanya memiliki metode penanaman yang serupa. Perbedaannya hanya pada metode mengubah kekuatan iman menjadi mentransformasikan energi ilahi dan menggunakan energi ilahi tersebut sebagai media untuk memanggil dewa penjaga yang berbeda. Sepuluh Teknik Ilahi Neraka Besar diwarisi dari Dewa Besar yang menguasai Dunia Bawah. Dengan mempraktikkan teknik ini, praktisi akan dapat menggunakan kekuatan Alam Kematian sebagai media untuk memanggil malaikat pelindung dari Alam Kematian. Teknik ini unik karena menciptakan armor Qi yang kuat.</Desc>
-			<SelectDesc>Penggarap Jalan Ilahi berbeda dari Penggarap Jalan Suci karena mereka mengandalkan keyakinan makhluk hidup untuk berlatih. Dan meskipun tidak ada persyaratan bakat untuk mengembangkan Jalan Ilahi, Namun Anda tetap harus memiliki tingkat kecerdasan yang sangat tinggi jika ingin mencapai puncak. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Kultivasi Ilahi?</SelectDesc>
-			<Stages.0.DisplayName>pertapa</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Pengorbanan</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Sempurnakan pikiran Anda</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>penciptaan</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Alam para dewa</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Perintah: Malaikat Roh</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Perintah: Roh Jenderal</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Perintah: Ketidakkekalan</Stages.2.Necks.2.DisplayName>
-			<Stages.2.Necks.3.DisplayName>Perintah: Penghakiman</Stages.2.Necks.3.DisplayName>
-			<Stages.2.Necks.4.DisplayName>Alam para dewa</Stages.2.Necks.4.DisplayName>
-			<Stages.3.DisplayName>nirwana</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Di atas dunia</Stages.3.Necks.0.DisplayName>
+			<DisplayName>Nether Salvation Sutra</DisplayName>
+			<Desc>Metode budidaya Hukum Shendao yang telah hilang sejak zaman kuno, merupakan cara mengumpulkan keyakinan makhluk hidup untuk mencapai ketuhanan. Sebagian besar aliran Hukum Shendao memiliki banyak kesamaan, mereka hanya berbeda dalam jenis katalis spiritual yang digunakan, yang memanggil makhluk surgawi yang berbeda untuk perlindungan. Sutra Keselamatan Nether adalah warisan dari Spectre Master. Dengan mengolah metode ini, seseorang akan mampu memanfaatkan katalis spiritual dari sembilan Dunia Bawah untuk memanggil roh Nether sebagai penjaga. Ini menekankan pada cara-cara Perlindungan.</Desc>
+			<SelectDesc>Budidaya Iman berbeda dengan cara tradisional dalam memanfaatkan Inti Emas. Itu sepenuhnya bergantung pada keyakinan makhluk hidup. Meskipun tidak ada persyaratan bakat untuk Pengembangan Iman, Anda tetap harus memiliki tingkat Kecerdasan yang sangat tinggi jika ingin mencapai puncak. Apakah anda ingin memilih untuk mengembangkan Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Ascetic</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Devotion</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Preaching</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Creation</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Divine Realm</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Edict: Ghost Messenger</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Edict: Ghost Sergeant</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Edict: Impermanence</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Edict: Judge</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.4.DisplayName>Transcendence</Stages.2.Necks.4.DisplayName>
+			<Stages.3.DisplayName>Attainment</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Supreme</Stages.3.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
