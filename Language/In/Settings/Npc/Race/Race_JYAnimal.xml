@@ -3,68 +3,68 @@
 		<Text Name="JYRabbit">
 			<DisplayName>Kelinci Monster</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Kelinci</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYChicken">
 			<DisplayName>Ayam Monster</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Chicken</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYWolf">
 			<DisplayName>Rakasa Serigala</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Wolf</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYSnake">
 			<DisplayName>Monster Ular</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Ular</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Perempuan</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYBoar">
 			<DisplayName>Monster Babi Hutan</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Boar</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYBear">
 			<DisplayName>Monster Beruang</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bear</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYFrog">
 			<DisplayName>Katak Raksasa</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Katak Monster</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYTurtle">
 			<DisplayName>Monster Penyu</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Turtle</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYCat">
 			<DisplayName>Monster Kucing</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Cat</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYCattle">
 			<DisplayName>Monster Banteng</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bull</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYTiger">
 			<DisplayName>Monster Harimau</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Tiger</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYLongpuNight">
 			<DisplayName>Hamba Naga (Malam)</DisplayName>
