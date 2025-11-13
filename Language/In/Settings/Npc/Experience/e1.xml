@@ -125,11 +125,11 @@
 			<Desc>Pada malam hari Sekte Tai Yi diserang. Dia kebetulan memberi tugas kepada murid luar untuk pergi ke ruang penyimpanan jimat ajaib. Ketika Anda mengetahui bahwa sekte tersebut tidak dapat lagi melawan musuh dan Anda tidak ingin melihat harta sekte tersebut jatuh ke tangan musuh. Oleh karena itu, dia mempertaruhkan nyawanya dan diam-diam memasuki ruang penyimpanan jimat ajaib untuk mengambil beberapa di antaranya. \n\n\n[size=10]Tambahkan sumber daya default:[color=#D06508]Jimat ajaib tingkat lanjut[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences31">
-			<DisplayName>kesepian</DisplayName>
+			<DisplayName>Kesepian</DisplayName>
 			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Dia telah mengabdikan seluruh waktunya untuk berkultivasi dan tidak pernah berinteraksi dengan siapa pun di sekte tersebut. Dan pada malam ketika Sekte Tai Yi diserang Tidak ada seorang pun yang mau repot-repot mengikuti dan melarikan diri bersamamu.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Berkurang 2[/size]</Desc>
 		</Text>
 		<Text Name="Experiences27">
-			<DisplayName>tidak mabuk</DisplayName>
+			<DisplayName>Tidak mabuk</DisplayName>
 			<Desc>Ketika Anda bergabung dan menjadi murid dari Sekte Tai Yi Dia berbicara dengan siswa lain. Hanya sedikit di kantor Bagi Anda, latihan lebih penting daripada membuang waktu berbicara omong kosong dengan orang lain. Dan pada malam ketika Sekte Tai Yi diserang. Anda melarikan diri hanya dengan satu teman.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Berkurang 1[/size]</Desc>
 		</Text>
 		<Text Name="Experiences29">
@@ -137,11 +137,11 @@
 			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Dia selalu berteman dengan murid Sekte Luar lainnya. Karena itu, pada malam Sekte Tai Yi diserang, banyak murid yang melarikan diri bersamanya. \n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]bertambah 1[/size]</Desc>
 		</Text>
 		<Text Name="Experiences30">
-			<DisplayName>pemimpin</DisplayName>
+			<DisplayName>Pemimpin</DisplayName>
 			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi, Anda menghabiskan banyak waktu bersenang-senang dengan teman-teman Sekte Luar Anda, dan mereka menerima Anda sebagai pemimpin mereka. Karena itu, pada malam Sekte Tai Yi diserang, banyak murid yang melarikan diri bersamanya. \n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]bertambah 2[/size]</Desc>
 		</Text>
 		<Text Name="Experiences7">
-			<DisplayName>pencari sensasi</DisplayName>
+			<DisplayName>Pencari sensasi</DisplayName>
 			<Desc>Ia melihat praktik asketisme membawa kegembiraan dalam hidup. Sejak Anda bergabung dengan Sekte Tai Yi Anda menggunakan status Anda sebagai murid untuk bersenang-senang, mengaku mendapat dukungan dari sekte tersebut.\n\n\n[size=10][color=#D06508]Nilai pesona[/color]meningkat\n[color=#D06508]keterampilan sosial[/color]Tingkatkan\nDapatkan perangkat default:[color=#D06508]Pakaian dan aksesoris[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences8">
@@ -149,7 +149,7 @@
 			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Suatu saat Anda dikurung di kamp sihir selama sebulan saat melakukan petualangan. Saat aku merasakan kelaparan yang luar biasa di masa lalu. Kamu telah belajar untuk selalu membawa makanan.\n\n\n[size=10][color=#D06508]Nilai stamina[/color]meningkat\ngtambah[color=#D06508]Makanan dan air minum[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]Kedokteran Imthip[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences9">
-			<DisplayName>pekerja konstruksi</DisplayName>
+			<DisplayName>Pekerja konstruksi</DisplayName>
 			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi Anda diberi tanggung jawab membangun gedung di area murid luar sekte tersebut. Pekerjaan Anda mengharuskan Anda membawa semua jenis sumber daya dan bekerja di tempat yang berbeda. Selalu di sekitar sekte\n\n\n[size=10][color=#D06508]Nilai persepsi[/color]meningkat\ngtambah[color=#D06508]sumber daya konstruksi[/color]Tingkatkan di awal\nTingkatkan sumber daya awal:[color=#D06508]bahan langka[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences10">
@@ -157,7 +157,7 @@
 			<Desc>Ketika Anda bergabung dan menjadi murid Sekte Tai Yi, Anda diberi tanggung jawab atas keamanan aula kitab suci. Anda telah mengambil kesempatan ini untuk menyalin dan menyimpan beberapa Kitab Suci Pemula untuk dipelajari di masa mendatang.\n\n\n[size=10][color=#D06508]Intelijen[/color]Tingkatkan\nTingkatkan sumber daya default:[color=#D06508]Kitab Suci: Yantra Dasar dan Pengantar Pengobatan Ajaib[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences11">
-			<DisplayName>tangan pedang</DisplayName>
+			<DisplayName>Tangan pedang</DisplayName>
 			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi, Anda pernah menerima pedang indah saat bertualang. Dia menyimpannya sepanjang waktu, berharap suatu hari nanti dia bisa memalsukannya menjadi senjata ajaib. Oleh karena itu, dia sering menanyakan pertanyaan kepada murid senior tentang berbagai keterampilan. Dalam menempa senjata ajaib\n\n\n[size=10][color=#D06508]Keterampilan Senjata Ajaib[/color]Tingkatkan\nTingkatkan sumber daya default:[color=#D06508]Pedang[/color][/size]</Desc>
 		</Text>
 		<Text Name="Experiences12">
@@ -165,7 +165,7 @@
 			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Dia selalu meminjam buku tentang mantra dari aula kitab suci. Suatu kali saat membaca buku seperti itu, seberkas cahaya memancar dari halaman-halamannya dan langsung masuk ke dalam pikirannya. Sejak hari itu Anda telah menunjukkan kemampuan khusus dalam energi magis.\n\n\n[size=10][color=#D06508]Keterampilan Qi Ajaib[/color]Tingkatkan\nDaya[color=#D06508]Energi ajaib[/color]lagi[/size]</Desc>
 		</Text>
 		<Text Name="Experiences13">
-			<DisplayName>tubuh besi</DisplayName>
+			<DisplayName>Tubuh besi</DisplayName>
 			<Desc>Saat Anda bergabung dan menjadi murid Sekte Tai Yi Suatu saat ketika Anda sedang bertualang, Anda makan buah yang aneh. Guru Senior memeriksanya dan menyimpulkan bahwa itu telah meningkatkan Qi dan meridian Anda. Hasilnya, Anda memiliki pelindung Qi yang lebih padat dibandingkan orang kebanyakan.\n\n\n[size=10][color=#D06508]Keterampilan Armor Qi[/color]Tingkatkan\nDaya[color=#D06508]Armor Qi[/color]lagi[/size]</Desc>
 		</Text>
 		<Text Name="Experiences14">
