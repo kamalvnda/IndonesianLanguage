@@ -5,7 +5,7 @@
 			<Desc>Tempat yang digunakan untuk bertani untuk menghasilkan gandum.</Desc>
 		</Text>
 		<Text Name="Mine">
-			<DisplayName>Milikku</DisplayName>
+			<DisplayName>Tambang</DisplayName>
 			<Desc>[color=#0000FF]pertambangan[/color]([keycode]Mine[/keycode])\nGali bijih dari tambang untuk mendapatkan batu dan bijih.\nJenis pekerjaan: Pekerjaan penambangan</Desc>
 		</Text>
 		<Text Name="Lumber">
