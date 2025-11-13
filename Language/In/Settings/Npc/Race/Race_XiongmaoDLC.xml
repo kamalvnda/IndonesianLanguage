@@ -3,22 +3,22 @@
 		<Text Name="YGPanda">
 			<DisplayName>Panda Yaoguai</DisplayName>
 			<Desc>Hewan Berubah Menjadi Yaogua Karena Kecerdasan yang Bangkit: Panda Yaoguai</Desc>
-			<MaleName>Pria</MaleName>
-			<FemaleName>Perempuan</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Panda">
 			<DisplayName>Panda</DisplayName>
 			<Desc>Hewan Biasa: Panda</Desc>
 			<TalkBefore>*merengek*</TalkBefore>
 			<TalkAfter>*merengek*</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="JYPanda">
 			<DisplayName>Monster Panda</DisplayName>
 			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Panda</Desc>
-			<MaleName>Pria</MaleName>
-			<FemaleName>Perempuan</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="LsPandaXian">
 			<DisplayName>Xianxian</DisplayName>
