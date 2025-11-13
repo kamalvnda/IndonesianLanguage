@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="NoHeavyWork">
 			<DisplayName>Terlindung</DisplayName>
-			<Desc>Kehidupan istimewa telah tercipta[IT]tidak dapat melakukan pekerjaan manual yang berat.</Desc>
+			<Desc>Kehidupan istimewa telah tercipta [IT] tidak dapat melakukan pekerjaan manual yang berat.</Desc>
 		</Text>
 		<Text Name="NoMeticulousWork">
 			<DisplayName>Kikuk</DisplayName>
