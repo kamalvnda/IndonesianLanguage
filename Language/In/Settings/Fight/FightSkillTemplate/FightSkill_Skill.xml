@@ -1,10 +1,10 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="TSkillSkill">
-			<DisplayName>Peningkatan Mantra</DisplayName>
+			<DisplayName>Spell Enhancement</DisplayName>
 		</Text>
 		<Text Name="SkillSkill_Gong10_1">
 			<DisplayName>Astroflare</DisplayName>
