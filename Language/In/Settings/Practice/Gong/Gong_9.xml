@@ -1,42 +1,42 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_9_Mu">
-			<DisplayName>Teknik Budidaya Enam Jalur Kelahiran Kembali</DisplayName>
-			<Desc>Salah satu dari lima teknik budidaya hukum unsur sejati dari Sekte Tai Yi. Dalam mengolah seni bela diri ini, praktisi akan sekuat ketika memasuki tahap pertama dari setiap alam. Namun seiring kemajuan budidaya, kekuatan mereka secara bertahap meningkat. Menurun selangkah demi selangkah Pada akhirnya, mereka akan menjadi lemah seperti manusia biasa hingga mampu menembus siklus kelahiran dan menerobos ke alam yang lebih tinggi. Oleh karena itu, meskipun teknik budidaya ini cukup populer di kalangan murid Sekte Tai Yi, namun tidak banyak orang yang dapat mempraktikkannya hingga mencapai inti dari teknik tersebut.</Desc>
-			<SelectDesc>Teknik ini sangat kuat dan luar biasa dalam pertarungan. Namun, itu lemah di bidang pemurnian senjata sihir dan pemurnian obat-obatan. Namun, mereka yang mengembangkan teknik ini harus mengalami reinkarnasi berulang kali dan bertahap. semakin kehilangan kekuatannya Hingga ia mencapai puncak ilmunya dan terlahir kembali di alam surga. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
-			<Stages.0.DisplayName>cara manusia</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>baru lahir</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>menolak</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.2.DisplayName>reinkarnasi</Stages.0.Necks.2.DisplayName>
-			<Stages.0.Necks.2.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.0.Necks.2.Desc>
-			<Stages.1.DisplayName>Cara makhluk</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>baru lahir</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>menolak</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.2.DisplayName>reinkarnasi</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Jalan Hantu</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>baru lahir</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>menolak</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>reinkarnasi</Stages.2.Necks.2.DisplayName>
-			<Stages.2.Necks.2.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.2.Necks.2.Desc>
-			<Stages.3.DisplayName>Jalan Setan</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>baru lahir</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>[color=#D06508]\nMenembus batasan pada tahap ini akan sulit bagi mereka yang memiliki kecerdasan rendah.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>menolak</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.2.DisplayName>reinkarnasi</Stages.3.Necks.2.DisplayName>
-			<Stages.4.DisplayName>Jalan Neraka</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>baru lahir</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.0.Desc>[color=#D06508]\nPelanggaran batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nPelanggaran batas pada tahap ini akan sulit dilakukan oleh mereka yang memiliki kecerdasan rendah.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>menolak</Stages.4.Necks.1.DisplayName>
-			<Stages.4.Necks.2.DisplayName>reinkarnasi</Stages.4.Necks.2.DisplayName>
-			<Stages.5.DisplayName>Jalan Surga</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>baru lahir</Stages.5.Necks.0.DisplayName>
-			<Stages.5.Necks.0.Desc>[color=#D06508]\nPelanggaran batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nPelanggaran batas pada tahap ini akan sulit dilakukan oleh mereka yang memiliki kecerdasan rendah.[/color]</Stages.5.Necks.0.Desc>
-			<Stages.5.Necks.1.DisplayName>menolak</Stages.5.Necks.1.DisplayName>
-			<Stages.5.Necks.2.DisplayName>reinkarnasi</Stages.5.Necks.2.DisplayName>
-			<Stages.5.Necks.2.Desc>Setelah reinkarnasi ini, Penggarap akan meninggalkan Enam Jalan dan bereinkarnasi ke surga di atas.</Stages.5.Necks.2.Desc>
+			<DisplayName>Six Paths Reincarnation Law</DisplayName>
+			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Kultivator akan menjadi yang paling kuat di awal setiap keadaan, namun seiring dengan kemajuan budidaya, kekuatan mereka akan menurun selangkah demi selangkah hingga kultivator menjadi sama lemahnya dengan manusia lainnya. Seseorang hanya dapat terlahir kembali dan maju dalam kultivasi setelah melakukan terobosan. Oleh karena itu, Undang-undang ini populer di kalangan penggarap, namun hanya sedikit yang berhasil.</Desc>
+			<SelectDesc>Seseorang akan menjadi kuat dalam pertempuran ketika berkultivasi mengikuti Hukum ini, tetapi tidak terampil dalam alkimia atau pembuatan artefak. Namun, seseorang harus mengalami reinkarnasi dan secara bertahap kehilangan kekuatannya hingga kenaikan terakhir. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Pengakuan Iman Manusia</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Terlahir kembali</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Tenggelamnya</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Reinkarnasi</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Pengakuan Iman Hewan</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Terlahir kembali</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Tenggelamnya</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Reinkarnasi</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Pengakuan Hantu</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Terlahir kembali</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Tenggelamnya</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Reinkarnasi</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Pengakuan Neraka</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Terlahir kembali</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Tenggelamnya</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Reinkarnasi</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Pengakuan Iman Asura</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Terlahir kembali</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Tenggelamnya</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Reinkarnasi</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Pengakuan Iman Surga</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Terlahir kembali</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Tenggelamnya</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Reinkarnasi</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>Setelah reinkarnasi ini, seseorang akan meninggalkan keenam keyakinan tersebut dan mencapai keabadian.</Stages.5.Necks.2.Desc>
 		</Text>
 	</List>
 </Texts>
