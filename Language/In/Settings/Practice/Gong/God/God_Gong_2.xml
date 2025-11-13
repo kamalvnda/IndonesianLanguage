@@ -1,27 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God_Gong_2">
-			<DisplayName>Kebijaksanaan Ilahi dari Delapan Surga</DisplayName>
-			<Desc>Sebuah metode untuk mengembangkan kekuatan para dewa yang telah lama menghilang sejak zaman kuno. Ini adalah metode penanaman dengan mengambil keyakinan makhluk hidup untuk mengubahnya menjadi kekuatan ilahi. Berbagai sekte yang mempraktikkan penanaman dewa semuanya memiliki metode penanaman yang serupa. Perbedaannya hanya pada metode mengubah kekuatan iman menjadi mentransformasikan energi ilahi dan menggunakan energi ilahi tersebut sebagai media untuk memanggil dewa penjaga yang berbeda. Delapan Teknik Ilahi Jalan Surgawi adalah warisan Dewa Surgawi di Hari Akhir. Dengan mempraktikkan teknik ini, praktisi akan dapat menggunakan Qi Ilahi sebagai media untuk memanggil delapan Dewa Penjaga Surgawi. Teknik ini luar biasa dalam menggunakan energi magis untuk menyerang musuh.</Desc>
-			<SelectDesc>Penggarap Jalan Ilahi berbeda dari Penggarap Jalan Suci karena mereka mengandalkan keyakinan makhluk hidup untuk berlatih. Dan meskipun tidak ada persyaratan bakat untuk mengembangkan Jalan Ilahi, Namun Anda tetap harus memiliki tingkat kecerdasan yang sangat tinggi jika ingin mencapai puncak. Mengetahui hal ini, apakah Anda masih ingin melangkah ke Jalur Kultivasi Ilahi?</SelectDesc>
-			<Stages.0.DisplayName>pertapa</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Pengorbanan</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Sempurnakan pikiran Anda</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>penciptaan</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Maharaja Keempat</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Perintah: Kanda Bo</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Perintah: Qin Na Luo</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Perintah: Jia Luo Luo</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Daowadung</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Perintah: Mo Hu Luo Jie</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.1.DisplayName>Perintah: Yesha</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.2.DisplayName>Perintah: A Qiu Luo</Stages.3.Necks.2.DisplayName>
-			<Stages.4.DisplayName>Nimmanoradee</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Perintah: Kehilangan Harapan</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>Perintah: Tianren</Stages.4.Necks.1.DisplayName>
-			<Stages.4.Necks.2.DisplayName>Alam para dewa</Stages.4.Necks.2.DisplayName>
-			<Stages.5.DisplayName>nirwana</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Jalan Utara</Stages.5.Necks.0.DisplayName>
+			<DisplayName>Eight Heavens Sadhana</DisplayName>
+			<Desc>Sebuah metode budidaya Hukum Shendao yang telah hilang sejak zaman kuno, merupakan cara mengumpulkan Keyakinan makhluk hidup untuk mencapai ketuhanan. Sebagian besar aliran Hukum Shendao memiliki banyak kesamaan, mereka hanya berbeda dalam jenis katalis spiritual yang digunakan, yang memanggil makhluk surgawi yang berbeda untuk perlindungan. Warisan Sadhana Delapan Surga datang dari surga melampaui langit ke arah barat. Dengan mengolah metode ini, seseorang akan mampu memanfaatkan katalis spiritual dari banyak surga untuk memanggil roh Delapan Legiun sebagai penjaga. Ini menekankan keahlian mantra.</Desc>
+			<SelectDesc>Budidaya Iman berbeda dengan cara tradisional dalam memanfaatkan Inti Emas. Itu sepenuhnya bergantung pada keyakinan makhluk hidup. Meskipun tidak ada persyaratan bakat untuk Pengembangan Iman, Anda tetap harus memiliki tingkat Kecerdasan yang sangat tinggi jika ingin mencapai puncak. Apakah anda ingin memilih untuk mengembangkan Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Ascetic</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Devotion</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Preaching</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Creation</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Sushruta</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Edict: Gandharva</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Edict: Kinnara</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Edict: Garuda</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Ferocious</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Edict: Mahoraga</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Edict: Yaksha</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Edict: Asura</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Supreme</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Edict: Naga</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Edict: Deva</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Transcendence</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Attainment</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Supreme</Stages.5.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
