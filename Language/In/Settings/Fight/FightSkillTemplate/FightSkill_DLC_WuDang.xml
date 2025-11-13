@@ -1,25 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Ls_XuanWuShield">
-			<DisplayName>Perisai Darkarmor</DisplayName>
+			<DisplayName>Darkarmor Shield</DisplayName>
 			<Desc>Sangat meningkatkan kekuatan Penghalang Qi dan Ketangguhan Tubuh Rahasianya.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuBreak">
-			<DisplayName>Pelanggaran Penaklukan</DisplayName>
+			<DisplayName>Conquest Breach</DisplayName>
 			<Desc>Secara signifikan mengurangi Qi Barrier dan daya tahan tubuh rahasia musuh.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuWater">
-			<DisplayName>Gelombang Gelap</DisplayName>
+			<DisplayName>Dark Wave</DisplayName>
 		</Text>
 		<Text Name="LsXuanWuFire">
-			<DisplayName>Api Surgawi</DisplayName>
+			<DisplayName>Celestial Flame</DisplayName>
 		</Text>
 		<Text Name="Ls_XuanWuForm">
-			<DisplayName>Bentuk Penyu</DisplayName>
+			<DisplayName>Turtle Form</DisplayName>
 			<Desc>Meningkatkan Stabilitas Formasi sekutu dan memberikan satu Energi Formasi. Hanya dapat digunakan pada Formasi dalam pertempuran.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuDefac">
-			<DisplayName>Bentuk Kebebasan</DisplayName>
+			<DisplayName>Liberty Form</DisplayName>
 			<Desc>Mengekspos Formasi Tambahan musuh.</Desc>
 		</Text>
 	</List>
