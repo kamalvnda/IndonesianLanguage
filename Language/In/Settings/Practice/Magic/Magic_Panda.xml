@@ -6,7 +6,7 @@
 			<sParam2>panda</sParam2>
 		</Text>
 		<Text Name="PandaLingXi">
-			<DisplayName>teman alam</DisplayName>
+			<DisplayName>Teman alam</DisplayName>
 			<Desc>binatang liar yang jinak</Desc>
 			<TargetDesc>Pilih monster non-sekutu.</TargetDesc>
 		</Text>
