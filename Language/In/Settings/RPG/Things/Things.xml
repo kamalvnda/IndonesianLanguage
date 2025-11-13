@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Camp">
-			<DisplayName>kapas</DisplayName>
+			<DisplayName>fraksi</DisplayName>
 			<ValuesDesc.0>ramah</ValuesDesc.0>
 			<ValuesDesc.1>netral</ValuesDesc.1>
 			<ValuesDesc.2>musuh</ValuesDesc.2>
