@@ -37,8 +37,8 @@
 			<Desc>Tempat kerja yang digunakan untuk membuat pakaian.</Desc>
 		</Text>
 		<Text Name="WoodShed" sParam="Building">
-			<ThingName>Stasiun Kayu</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk mengolah kayu menjadi Kayu. Ini dapat sangat memudahkan penggunaan kayu secara efisien.</Desc>
+			<ThingName>Stasiun Papan</ThingName>
+			<Desc>Tempat kerja yang digunakan untuk mengolah kayu menjadi Papan. Ini dapat sangat memudahkan penggunaan kayu secara efisien.</Desc>
 		</Text>
 		<Text Name="MillStone" sParam="Building">
 			<ThingName>Pabrik</ThingName>
@@ -49,7 +49,7 @@
 			<Desc>Sebuah stasiun kerja yang digunakan untuk membuat barang-barang sederhana dengan tangan.</Desc>
 		</Text>
 		<Text Name="Well" sParam="Building">
-			<ThingName>Dengan baik</ThingName>
+			<ThingName>Sumur</ThingName>
 			<Desc>Sumber air. Air sumur lebih sehat dibandingkan air dari hutan belantara, sehingga kecil kemungkinannya untuk membawa penyakit.</Desc>
 		</Text>
 		<Text Name="MedicineTable" sParam="Building">
