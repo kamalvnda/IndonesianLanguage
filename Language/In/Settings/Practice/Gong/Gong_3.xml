@@ -1,30 +1,30 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_3_Jin">
-			<DisplayName>Tujuh Jalur Teknik Budidaya Pedang Pembunuh</DisplayName>
-			<Desc>Legenda mengatakan bahwa ini adalah teknik budidaya yang lahir di alam setan dan diciptakan dengan tujuan mempelajari segala sesuatu tentang ilmu pedang. Teknik ini dibagi menjadi tujuh pedang. Itu adalah teknik budidaya tingkat lanjut yang sangat sulit untuk dikembangkan. Itu sangat kuat dalam pengetahuan pertempuran dan memiliki niat membunuh yang tersembunyi di setiap bagiannya. Prosedur kursus Ini akan membawa Hukuman Surgawi yang tiga kali lebih kuat dari biasanya kepada kultivator. Oleh karena itu, mata pelajaran ini mempunyai nama lain: "Teknik Budidaya Membunuh dan Membunuh"</Desc>
-			<SelectDesc>Teknik ini luar biasa dalam penggunaan senjata magis dalam pertempuran. Ia sangat kuat dalam pertempuran. Namun, sang kultivator harus menghadapi hukuman surgawi yang lebih berat dari biasanya karena niat membunuh yang kuat dari sang kultivator. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
-			<Stages.0.DisplayName>Jantung Krabi</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Jantung Krabi</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Temukan hati pedang Anda sendiri dengan tekad dan tekad. Jika terjadi kesalahan, Praktisi harus mulai mencari hati pedang mereka sendiri dari awal lagi.[color=#D06508]\nPelanggaran batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nPelanggaran batas pada tahap ini sulit dilakukan oleh mereka yang memiliki persepsi rendah.\nKegagalan untuk menembus batas dapat mengakibatkan cedera.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.1.DisplayName>Jari-jari Pedang</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Jari-jari Pedang</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Ciptakan aura pedang untuk membuka pintu pikiran Anda dengan pemikiran yang teguh, menggunakan daging dan jiwa Anda sendiri sebagai pertaruhan.[color=#D06508]\nPelanggaran batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nPelanggaran batas pada tahap ini sulit dilakukan oleh mereka yang memiliki persepsi rendah.\nKegagalan untuk menembus batas dapat mengakibatkan cedera.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.2.DisplayName>Pengobatan Roh Pedang</Stages.2.DisplayName>
-			<Stages.2.Desc>Gabungkan aura pedang menjadi obat roh pedang. Untuk menggunakannya sebagai inti dalam mewujudkan esensi emas.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Pengobatan Roh Pedang</Stages.2.Necks.0.DisplayName>
+			<DisplayName>Seven-Slaughtering Sword</DisplayName>
+			<Desc>Legenda mengatakan bahwa ini adalah Hukum rahasia dari alam iblis untuk mewujudkan penguasaan pedang. Ia memimpin pengikutnya melewati tujuh negara bagian. Baik permulaan maupun kemajuan dalam budidaya relatif sulit. Seseorang akan menjadi sangat kuat dalam pertempuran dan memiliki niat yang kuat untuk membunuh, yang mengarah pada tiga guntur kesengsaraan yang sangat berbahaya. Ini adalah Hukum yang benar-benar mematikan.</Desc>
+			<SelectDesc>Seseorang akan unggul dalam penguasaan artefak dan menjadi kuat dalam pertempuran, namun harus melalui beberapa Kesengsaraan Surgawi karena semua pembunuhan tersebut. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Jantung Pedang</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hati Pedang</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Temukan Pedang Tujuh Pembantaian milik sendiri dengan tekad sepenuh hati. Jika terjadi kesalahan, mulai lagi dari awal.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat mengakibatkan cedera.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Aura Pedang</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Aura Pedang</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Bentuk aura pedang untuk membelah gerbang pikiran dengan tekad, menghabiskan energi halus, darah, dan energi kehidupan.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat mengakibatkan cedera.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Pil Pisau</Stages.2.DisplayName>
+			<Stages.2.Desc>Padatkan aura pedang menjadi inti bilahnya, seperti Inti Emas yang dikombinasikan dengan elemen campuran.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Pil Pisau</Stages.2.Necks.0.DisplayName>
 			<Stages.3.DisplayName>Kehendak Pedang</Stages.3.DisplayName>
-			<Stages.3.Desc>Menghadapi Hukuman Surgawi yang akan datang, dia menggunakannya untuk memurnikan pikirannya sendiri untuk membuka pintu kehendak pedang.</Stages.3.Desc>
+			<Stages.3.Desc>Guntur kesengsaraan turun saat inti pedang mulai terbentuk. Gunakan itu untuk membentuk keinginan pedang.</Stages.3.Desc>
 			<Stages.3.Necks.0.DisplayName>Kehendak Pedang</Stages.3.Necks.0.DisplayName>
-			<Stages.4.DisplayName>Larva Pedang</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Larva Pedang</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.0.Desc>Setelah mengatasi hukuman surgawi, Seorang kultivator harus memurnikan keinginan pedangnya hingga tingkat kemurnian tertinggi untuk menggunakannya sebagai landasan untuk melahirkan embrio pedang.</Stages.4.Necks.0.Desc>
-			<Stages.5.DisplayName>Roh Pedang</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Roh Pedang</Stages.5.Necks.0.DisplayName>
-			<Stages.5.Necks.0.Desc>Gunakan kemauan pedangmu untuk mencuri jalan kehancuran dari Hukuman Surga. Jika Penggarap berhasil harus menghadapi murka surga dan bahkan mungkin menghadapi hukuman pembunuhan iblis surgawi.</Stages.5.Necks.0.Desc>
+			<Stages.4.DisplayName>Embrio Pedang</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Embrio Pedang</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Setelah kesengsaraan surgawi, kembalilah ke bentuk paling murni dan ciptakan embrio pedang dari inti pedang.</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Jiwa Pedang</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Jiwa Pedang</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Gunakan kemauan pedang untuk mencuri Hukum surgawi menuju kehancuran dari kesengsaraan untuk mencapai kondisi pendekar pedang surgawi. Jika berhasil, seseorang akan menghadapi kemarahan dari surga—kesengsaraan surgawi yang paling dahsyat.</Stages.5.Necks.0.Desc>
 			<Stages.6.DisplayName>Roh Pedang</Stages.6.DisplayName>
 			<Stages.6.Necks.0.DisplayName>Roh Pedang</Stages.6.Necks.0.DisplayName>
-			<Stages.6.Necks.0.Desc>Gunakan petir surgawi untuk membentuk roh pedang menjadi roh pedang dan ketika dilatih hingga mencapai puncak, Pelatih dapat terlahir kembali ke surga di atas.</Stages.6.Necks.0.Desc>
+			<Stages.6.Necks.0.Desc>Gunakan guntur surgawi untuk menempa jiwa pedang sebagai bukti Yang murni untuk naik menuju keabadian.</Stages.6.Necks.0.Desc>
 		</Text>
 	</List>
 </Texts>
