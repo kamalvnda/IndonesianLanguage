@@ -1,46 +1,46 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Ls_SheildSkill">
-			<DisplayName>Perisai Roh</DisplayName>
+			<DisplayName>Spirit Shield</DisplayName>
 		</Text>
 		<Text Name="Ls_TransferQi">
-			<DisplayName>Nyanyian Pengabdian</DisplayName>
+			<DisplayName>Chant of Devotion</DisplayName>
 		</Text>
 		<Text Name="Ls_FabaoSkill">
-			<DisplayName>Pedang Ilahi</DisplayName>
+			<DisplayName>Divine Sword</DisplayName>
 		</Text>
 		<Text Name="Ls_FoxSkillAmp">
-			<DisplayName>Terik</DisplayName>
+			<DisplayName>Blazing</DisplayName>
 		</Text>
 		<Text Name="Ls_SkillWater">
-			<DisplayName>Banjir Guntur</DisplayName>
+			<DisplayName>Flood Thunder</DisplayName>
 		</Text>
 		<Text Name="Ls_SkillWater5">
-			<DisplayName>Guntur Banjir Besar</DisplayName>
+			<DisplayName>Greater Flood Thunder</DisplayName>
 		</Text>
 		<Text Name="Ls_Fanshi">
-			<DisplayName>Menyerang balasan</DisplayName>
+			<DisplayName>Countercharge</DisplayName>
 			<Desc>Menimbulkan sejumlah kerusakan yang berhubungan dengan Max Qi artefak musuh, serta menonaktifkan kemampuannya untuk menggunakan artefak tersebut selama jangka waktu tertentu.</Desc>
 		</Text>
 		<Text Name="Ls_Penhuo">
-			<DisplayName>Letusan Api</DisplayName>
+			<DisplayName>Flame Eruption</DisplayName>
 		</Text>
 		<Text Name="Ls_Ci">
-			<DisplayName>Sinar Metamagnetik</DisplayName>
+			<DisplayName>Metamagnetic Beam</DisplayName>
 		</Text>
 		<Text Name="Ls_JinThunder">
-			<DisplayName>Petir Ilahi</DisplayName>
+			<DisplayName>Divine Bolt</DisplayName>
 		</Text>
 		<Text Name="Ls_AddModifier">
-			<DisplayName>Perlindungan</DisplayName>
+			<DisplayName>Aegis</DisplayName>
 			<Desc>Sangat meningkatkan kekuatan Penghalang Qi dan Ketangguhan Tubuh Rahasianya.</Desc>
 		</Text>
 		<Text Name="Ls_Confuse">
-			<DisplayName>Bingung</DisplayName>
+			<DisplayName>Confuse</DisplayName>
 			<Desc>Membuat bingung musuh sehingga tidak bisa menyerang atau bergerak, namun akan terbangun jika diserang.</Desc>
 		</Text>
 		<Text Name="Ls_Rongduan">
-			<DisplayName>Sekering</DisplayName>
+			<DisplayName>Fuse</DisplayName>
 			<Desc>Gunakan kekuatan inferno untuk menimbulkan kerusakan yang dapat didistribusikan pada musuh, serta menonaktifkan kemampuannya untuk mengeluarkan mantra selama jangka waktu tertentu.</Desc>
 		</Text>
 	</List>
