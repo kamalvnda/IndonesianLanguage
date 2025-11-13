@@ -1,26 +1,26 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_7_Huo">
-			<DisplayName>Subyek menumbuhkan pikiran yang hancur</DisplayName>
-			<Desc>Teknik Budidaya Rahasia Nuea Sky Palace Mereka yang ingin mempraktikkan teknik ini pasti sangat menawan. Penggarap harus melalui petualangan di alam fana untuk mempelajari semua perasaan manusia sebelum meninggalkannya. Sadarilah jati diri Anda di tengah segala penderitaan Anda dan lepaskan semua itu untuk naik ke alam surga. Kultivator sering kali memiliki hubungan yang kompleks dengan orang lain dan mengalami cinta dan benci yang kompleks karena metode kultivasi khusus mereka.</Desc>
-			<SelectDesc>Teknik ini luar biasa dalam pengendalian dan penggunaan keterampilan senjata magis. Namun, para kultivator sering melakukan perjalanan untuk mengamati kehidupan manusia yang melintasi berbagai alam. Apakah Anda yakin ingin mempraktikkan teknik ini?</SelectDesc>
-			<Stages.0.DisplayName>Latihlah diri sendiri</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Penggabungan</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Pengasingan</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Kekejaman</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.1.DisplayName>pengilangan</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>gairah yang besar</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Ketamakan</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki statistik Karisma rendah.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>kelahiran kembali</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Pencerahan</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>mencerahkan diri sendiri</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>[color=#D06508]\nMenembus batas pada tahap ini hanya dapat dilakukan melalui upaya berulang-ulang.\nMenembus batas pada tahap ini akan sulit bagi mereka yang memiliki statistik Karisma rendah.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>potong jiwa</Stages.3.Necks.1.DisplayName>
-			<Stages.4.DisplayName>tanpa jiwa</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Letakkan harga dirimu</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.0.Desc>[color=#D06508]Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>Tempatkan diri Anda di luar sana</Stages.4.Necks.1.DisplayName>
+			<DisplayName>Emotion Severing Law</DisplayName>
+			<Desc>Hukum rahasia Istana Skydome. Seseorang harus memiliki daya tarik yang memukau untuk mulai berkultivasi dalam Hukum ini. Kultivator harus menjalani petualangan di alam fana, mempelajari semua perasaan manusia sebelum meninggalkannya, menyadari jati diri di tengah semua kesengsaraan dan naik menuju keabadian. Seseorang sering kali memiliki hubungan yang rumit dengan orang lain dan mengalami cinta dan benci yang rumit karena metode kultivasi yang khusus.</Desc>
+			<SelectDesc>Seseorang akan unggul dalam penguasaan dan manipulasi pedang, namun harus berulang kali melalui petualangan untuk menerobos. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Nutrisi diri</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Harmoni</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Sikap acuh tak acuh</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tanpa belas kasihan</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Perbaikan</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Emosi Ekstrim</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Menginginkan</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit bagi karakter dengan karisma rendah.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Terlahir kembali</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Pengartian</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Jeroan</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit bagi karakter dengan karisma rendah.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Menuju surga</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Agung Agung</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Detasemen</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Keadaan terlupa</Stages.4.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
