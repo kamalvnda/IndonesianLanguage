@@ -14,51 +14,51 @@
 		</Text>
 		<Text Name="Sensitive">
 			<DisplayName>Peka</DisplayName>
-			<Desc>[IT]sangat ingin tahu tentang dunia luar, dan tidak tahan menjalani kehidupan yang membosankan.</Desc>
+			<Desc>[IT] sangat ingin tahu tentang dunia luar, dan tidak tahan menjalani kehidupan yang membosankan.</Desc>
 		</Text>
 		<Text Name="Enthusiasm">
 			<DisplayName>Ramah</DisplayName>
-			<Desc>[IT]sangat ramah terhadap semua orang.</Desc>
+			<Desc>[IT] sangat ramah terhadap semua orang.</Desc>
 		</Text>
 		<Text Name="Distrust">
 			<DisplayName>Ditarik</DisplayName>
-			<Desc>[IT]tidak percaya pada cinta sejati, atau menaruh kepercayaan mereka pada siapa pun.</Desc>
+			<Desc>[IT] tidak percaya pada cinta sejati, atau menaruh kepercayaan mereka pada siapa pun.</Desc>
 		</Text>
 		<Text Name="Strong">
 			<DisplayName>Kuat</DisplayName>
-			<Desc>[IT]berkemauan keras dan dapat menanggung penderitaan yang lebih besar daripada yang lain.</Desc>
+			<Desc>[IT] berkemauan keras dan dapat menanggung penderitaan yang lebih besar daripada yang lain.</Desc>
 		</Text>
 		<Text Name="Weak">
 			<DisplayName>Lemah</DisplayName>
-			<Desc>[IT]selalu terlindung dan tidak dapat menahan rasa sakit sedikit pun.</Desc>
+			<Desc>[IT] selalu terlindung dan tidak dapat menahan rasa sakit sedikit pun.</Desc>
 		</Text>
 		<Text Name="BadMentality">
 			<DisplayName>pemarah</DisplayName>
-			<Desc>[IT]selalu terlalu jengkel untuk menyelesaikan pekerjaan apa pun.</Desc>
+			<Desc>[IT] selalu terlalu jengkel untuk menyelesaikan pekerjaan apa pun.</Desc>
 		</Text>
 		<Text Name="GoodMentality">
 			<DisplayName>Baik hati</DisplayName>
-			<Desc>[IT]mempunyai sifat baik hati, dan tidak mudah kesal atau sedih.</Desc>
+			<Desc>[IT] mempunyai sifat baik hati, dan tidak mudah kesal atau sedih.</Desc>
 		</Text>
 		<Text Name="Rugged">
 			<DisplayName>Ceroboh</DisplayName>
-			<Desc>[IT]ceroboh dalam pekerjaannya, selalu menyelesaikan pekerjaan dengan cepat dan kurang memperhatikan detail.</Desc>
+			<Desc>[IT] ceroboh dalam pekerjaannya, selalu menyelesaikan pekerjaan dengan cepat dan kurang memperhatikan detail.</Desc>
 		</Text>
 		<Text Name="Careful">
 			<DisplayName>Teliti</DisplayName>
-			<Desc>[IT]sangat teliti dalam pekerjaannya, selalu meluangkan waktu untuk memperbaiki detailnya.</Desc>
+			<Desc>[IT] sangat teliti dalam pekerjaannya, selalu meluangkan waktu untuk memperbaiki detailnya.</Desc>
 		</Text>
 		<Text Name="Lazy">
 			<DisplayName>Malas</DisplayName>
-			<Desc>[IT]tidak mau bekerja.</Desc>
+			<Desc>[IT] tidak mau bekerja.</Desc>
 		</Text>
 		<Text Name="Industrious">
 			<DisplayName>Pekerja keras</DisplayName>
-			<Desc>[IT]adalah pekerja keras dan efisien.</Desc>
+			<Desc>[IT] adalah pekerja keras dan efisien.</Desc>
 		</Text>
 		<Text Name="Feminization">
 			<DisplayName>Banci</DisplayName>
-			<Desc>Meskipun seorang laki-laki,[IT]memiliki sikap dan kepribadian yang agak feminin.</Desc>
+			<Desc>Meskipun seorang laki-laki, [IT] memiliki sikap dan kepribadian yang agak feminin.</Desc>
 		</Text>
 		<Text Name="Masculinity">
 			<DisplayName>Maskulin</DisplayName>
