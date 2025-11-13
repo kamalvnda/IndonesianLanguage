@@ -1074,7 +1074,7 @@
 			<Desc>[color=#0000FF]Berburu binatang liar[/color]([keycode]Hunting[/keycode])\nBerburu dan menyembelih hewan liar\nJenis pekerjaan: Berburu</Desc>
 		</Text>
 		<Text Name="Melting">
-			<Display>halus</Display>
+			<Display>pemurnian</Display>
 			<Desc>[color=#0000FF]Menyempurnakan objek[/color] ([keycode]Melting[/keycode])\nMurid batin akan memurnikan objek yang ditunjuk menjadi batu roh.\nSetiap 5.000 unit qi yang terkandung dalam objek tersebut akan diubah menjadi 1 batu roh.\nJika objek tersebut adalah senjata ajaib, Semakin tinggi levelnya, semakin banyak pula jumlah batu roh yang diperoleh.</Desc>
 		</Text>
 		<Text Name="CancelCMD">
