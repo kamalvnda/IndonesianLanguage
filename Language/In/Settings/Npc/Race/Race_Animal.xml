@@ -5,14 +5,14 @@
 			<Desc>Hewan umum: Kelinci</Desc>
 			<TalkBefore>Aduh Awok</TalkBefore>
 			<TalkAfter>Awww~!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Chicken">
 			<DisplayName>Ayam</DisplayName>
 			<Desc>Hewan umum: Ayam</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 			<TalkBefore>Masak, Masak, Masak.</TalkBefore>
 			<TalkAfter>Katak!</TalkAfter>
 		</Text>
@@ -21,22 +21,22 @@
 			<Desc>Hewan biasa: Serigala</Desc>
 			<TalkBefore>Guk guk</TalkBefore>
 			<TalkAfter>Pakan!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Snake">
 			<DisplayName>Ular</DisplayName>
 			<Desc>Hewan biasa: Ular</Desc>
 			<TalkBefore>mendesis</TalkBefore>
 			<TalkAfter>Mendesis!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Boar">
 			<DisplayName>Babi hutan</DisplayName>
 			<Desc>Hewan umum: Babi hutan</Desc>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 			<TalkBefore>Oink Oink</TalkBefore>
 			<TalkAfter>Oooh!</TalkAfter>
 		</Text>
@@ -45,24 +45,24 @@
 			<Desc>Hewan umum: Beruang</Desc>
 			<TalkBefore>Hok Hok</TalkBefore>
 			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Turtle">
 			<DisplayName>Penyu</DisplayName>
 			<Desc>Hewan umum: Penyu</Desc>
 			<TalkBefore>Hmmmm.</TalkBefore>
 			<TalkAfter>Hmm!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Frog">
 			<DisplayName>Katak</DisplayName>
 			<Desc>Hewan biasa: Katak</Desc>
 			<TalkBefore>Ups Ups</TalkBefore>
 			<TalkAfter>Ups!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Fei">
 			<DisplayName>Fei!</DisplayName>
@@ -77,24 +77,24 @@
 			<Desc>Hewan umum: Kucing</Desc>
 			<TalkBefore>meong meong</TalkBefore>
 			<TalkAfter>mengeong!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Cattle">
 			<DisplayName>Banteng</DisplayName>
 			<Desc>Hewan biasa: Banteng</Desc>
 			<TalkBefore>Moo moo</TalkBefore>
 			<TalkAfter>Ya ampun!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 		<Text Name="Tiger">
 			<DisplayName>Harimau</DisplayName>
 			<Desc>Hewan biasa: Harimau</Desc>
 			<TalkBefore>Hok Hok</TalkBefore>
 			<TalkAfter>Wah!</TalkAfter>
-			<MaleName>Jantan</MaleName>
-			<FemaleName>Betina</FemaleName>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
 		</Text>
 	</List>
 </Texts>
