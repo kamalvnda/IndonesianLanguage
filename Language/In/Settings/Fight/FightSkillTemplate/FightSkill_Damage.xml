@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="TDamageSkill">
-			<DisplayName>Keterampilan Kerusakan</DisplayName>
+			<DisplayName>Damage Skill</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_1">
-			<DisplayName>Qi bawaan</DisplayName>
+			<DisplayName>Innate Qi</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_2">
-			<DisplayName>Badai api</DisplayName>
+			<DisplayName>Firestorm</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_3">
-			<DisplayName>Baut Ilahi</DisplayName>
+			<DisplayName>Divine Bolt</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_4">
-			<DisplayName>Pukulan jiwa</DisplayName>
+			<DisplayName>Soulsmite</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Gong4_1">
-			<DisplayName>Kekacauan Batal</DisplayName>
+			<DisplayName>Chaos Void</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Gong7_1">
-			<DisplayName>Pedang Auraforce</DisplayName>
+			<DisplayName>Auraforce Blade</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Teach">
-			<DisplayName>Keterampilan Tutorial</DisplayName>
+			<DisplayName>Tutorial Skill</DisplayName>
 		</Text>
 	</List>
 </Texts>
