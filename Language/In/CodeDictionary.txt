@@ -47,7 +47,7 @@ Key	Value
 关闭	Menutup
 影响角色灵气抵挡伤害的能力。	(Perlindungan) Mempengaruhi kemampuan karakter untuk mempertahankan diri dari kerusakan menggunakan Qi.
 取消放置	Batalkan Penempatan
-修行	Praktik
+修行	Martial
 聆听	Mendengarkan
 （需要激活{0}才能挑战）	(Tersedia setelahnya{0}diaktifkan)
 其他	Lain-lain
@@ -157,7 +157,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 任务	Tugas
 区域数据	Data Wilayah
 【新线索·{0}】	[New Clue {0}]
-术法	Mengeja
+术法	Spell
 请选择秘籍	Silakan pilih manual.
 蕴养这株灵植，调整灵植的养成趋势，并借此收获一些珍稀材料。	Peliharalah tanaman spiritual ini dan atur pertumbuhannya untuk mendapatkan material langka.
 生长度:{0:P0} 成熟度:{1:P0}	Pertumbuhan: {0:P0}, Kedewasaan:{1:P0}
@@ -660,7 +660,7 @@ ui状态异常，请关闭ui再次打开	Tidak dapat memuat UI. Silakan tutup da
 在照顾别人之时，突然心烦意乱	Peduli pada seseorang; tiba-tiba merasa kesal
 模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Data mod tidak kompatibel. Kami tidak dapat memastikan penyimpanan akan berfungsi dengan baik. Silakan kembali ke menu utama dan muat data mod.
 让代理人落实政策。政策期间会发生对应事件，不同手段处理会有不同结果，直接影响此地的信众、总人口、我方代理的吸引力，以及其他门派的势力。不采取政策，信众则会认为代理人不作为，每日损失信众。	Minta agen untuk menerapkan kebijakan tersebut. Peristiwa serupa akan terjadi selama implementasi kebijakan. Metode yang berbeda akan memberikan hasil yang berbeda, secara langsung mempengaruhi pengikut, populasi, daya tarik lembaga kami, dan kekuatan sekte lain. Jika tidak ada kebijakan yang diterapkan, pengikut akan menganggap agen tersebut tidak bertanggung jawab, dan Anda akan kehilangan pengikut setiap hari.
-需求境界：{0}\n	Negara yang Diperlukan:{0}\n
+需求境界：{0}\n	Keadaan yang Diperlukan:{0}\n
 建筑是发展门派的核心内容。使用主材料的不同，建筑也会拥有不同的属性，并以此来影响周围的环境。\n例如：寒晶锭建造的建筑，会使周围的水属性增多。	Struktur adalah inti dari pengembangan sebuah sekte. Atribut suatu bangunan bergantung pada bahan utama yang digunakan dalam konstruksinya, dan atributnya juga mempengaruhi lingkungan sekitarnya.\nMisalnya, struktur yang terbuat dari Batangan Kristal Es akan meningkatkan atribut Air di sekitarnya.
 启用	Memungkinkan
 (永久)	(Secara permanen)
@@ -1644,7 +1644,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 脚本名字不能为空	Nama Skrip tidak boleh kosong.
 晴天	Hari yang cerah
 \n情绪影响:\n {0:N0}%	\nSuasana hati:\n{0:N0}%
-所需境界：{0}\n{1}	Negara yang Diperlukan:{0}\n{1}
+所需境界：{0}\n{1}	Keadaan yang Diperlukan:{0}\n{1}
 似乎有个沉甸甸的东西上钩了！！它竟然是--	Sesuatu yang berat mengambil umpannya! Dan itu…
 水劫	Kesengsaraan Air
 自己	Anda
@@ -2068,7 +2068,7 @@ defName=>{0} {1}_effect.sParam1 配置为空,应该配置物品类型！	namadef
 未找到丹气常量配置	Tidak ditemukan konfigurasi konstan untuk qi alkimia
 打开右下角的门派面板，建立自己的门派。	Buka menu Sekte di pojok kanan bawah dan buat sekte Anda sendiri.
 该弟子已有研习任务\n	Murid ini sudah mempunyai tugas belajar.\n
-[{2}]\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	[{2}]\nNegara yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
+[{2}]\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	[{2}]\nKeadaan yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
 此人灵魂特殊，无法拷问。	Jiwa orang ini terlalu istimewa untuk diinterogasi.
 <font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Exquisite]</font>
 请选择一个玄牝珠	Pilih Mutiara Jiwa.
@@ -2433,7 +2433,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 欲圣中求慧，必须保持心境400，持续{0:N1}天。角色悟性越高，需要持续的时间越短。	Untuk mencari pikiran yang 'bijaksana', pertahankan kondisi mental pada 400 selama {0:N1} hari. Semakin besar kecerdasan karakter maka semakin cepat pula mencapai kondisi mental tersebut.
 夏意	Musim panas
 传授	Mengajar
-{2}\n\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	{2}\n\nNegara yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
+{2}\n\n所需境界:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}	{2}\n\nKeadaan yang Diperlukan:{3}{4}\n<font color=#CCFF66>{0}</font>\n{1}
 符咒	Jimat
 检测到有商品未能成功发货,现已进行补发:{0}\n谢谢大爷!	Terdeteksi bahwa beberapa item gagal terkirim, kini telah dikirim ulang:{0}\nTerima kasih!
 {0}代理点	{0}Titik Proksi
@@ -4157,7 +4157,7 @@ CloudSave->记录云存档信息:{0}	CloudSave->Rekam Info Penyimpanan Cloud:{0}
 正咬牙坚持练习护体	Terus-menerus melakukan pelatihan perlindungan
 祭妖失败,请稍后再试!	Pengorbanan Binatang gagal, coba lagi nanti!
 攻击威力\n此秘体发动攻击时造成伤害的强度。	Kekuatan Serangan\nBesarnya damage yang ditimbulkan oleh Badan Rahasia ini ketika menyerang.
-需求境界：{0}({1})\n	Negara yang Diperlukan:{0} ({1})\n
+需求境界：{0}({1})\n	Keadaan yang Diperlukan:{0} ({1})\n
 在切石作业时，正感觉有点无聊	Memotong batu; terasa sedikit bosan
 在锻造时，正累的气喘吁吁	Penempaan; terengah-engah
 是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Apakah Anda ingin mengubah jenis jimat? Ini akan menyegarkan panel gambar jimat dan tidak akan mengembalikan Qi.
