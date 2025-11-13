@@ -1,11 +1,11 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Dandelion" sParam="Plant">
-			<ThingName>Tanaman liar berbunga kuning cerah</ThingName>
+			<ThingName>Dandelion</ThingName>
 			<Desc>Bunga kecil yang indah.</Desc>
 		</Text>
 		<Text Name="Flower1" sParam="Plant">
-			<ThingName>Harapan musim semi</ThingName>
+			<ThingName>Springhope</ThingName>
 			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
@@ -13,11 +13,11 @@
 			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="Flower2" sParam="Plant">
-			<ThingName>Yg berlapis emas</ThingName>
+			<ThingName>Aureate</ThingName>
 			<Desc>Tanaman indah dengan sedikit unsur Logam.</Desc>
 		</Text>
 		<Text Name="Flower3" sParam="Plant">
-			<ThingName>Optimis</ThingName>
+			<ThingName>Sanguinea</ThingName>
 			<Desc>Tanaman indah dengan sedikit elemen Api.</Desc>
 		</Text>
 		<Text Name="Flower4" sParam="Plant">
