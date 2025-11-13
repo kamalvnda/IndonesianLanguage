@@ -26,7 +26,7 @@
 			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponHalbert" sParam="Item">
-			<ThingName>Bunga pala</ThingName>
+			<ThingName>Gada</ThingName>
 			<Desc>Senjata tumpul yang berat, dampaknya cukup besar hingga mematahkan tulang dan tendon musuh.</Desc>
 			<Item.FabaoSuffix>Bunga pala</Item.FabaoSuffix>
 		</Text>
