@@ -1,25 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkill_God_Damage1">
-			<DisplayName>Raungan Naga</DisplayName>
+			<DisplayName>Dragon's Roar</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Damage2">
-			<DisplayName>Tujuh Pembantaian Guntur</DisplayName>
+			<DisplayName>Seven Slaughters Thunder</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FaBao1">
-			<DisplayName>Pedang Asura</DisplayName>
+			<DisplayName>Sword of Asura</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FightSkill1">
-			<DisplayName>Kutukan Yaksha</DisplayName>
+			<DisplayName>Curse of Yaksha</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Sheild1">
-			<DisplayName>Penjaga Ketidakkekalan</DisplayName>
+			<DisplayName>Guard of Impermanence</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health1">
-			<DisplayName>Nyanyian Kemewahan</DisplayName>
+			<DisplayName>Chant of Luxuriance</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health2">
-			<DisplayName>Ketenangan</DisplayName>
+			<DisplayName>Tranquility</DisplayName>
 		</Text>
 	</List>
 </Texts>
