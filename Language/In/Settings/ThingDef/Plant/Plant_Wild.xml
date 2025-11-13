@@ -17,7 +17,7 @@
 			<Desc>Rumput liar.</Desc>
 		</Text>
 		<Text Name="Raspberry" sParam="Plant">
-			<ThingName>Buah Kuning</ThingName>
+			<ThingName>Buah Amber</ThingName>
 			<Desc>Buah liar disiram air liur naga. Ini memiliki efek spiritual khusus, mencegah Anda merasa lapar atau lelah selama setengah hari setelah memakannya. Namun buahnya cepat busuk setelah dipanen.</Desc>
 		</Text>
 		<Text Name="Lotus" sParam="Plant">
@@ -25,7 +25,7 @@
 			<Desc>Tanaman yang tumbuh di air, mempunyai nilai estetika. Akarnya bisa dimakan.</Desc>
 		</Text>
 		<Text Name="LittleRock" sParam="Plant">
-			<ThingName>Batu Kecil</ThingName>
+			<ThingName>Batuan Kecil</ThingName>
 			<Desc>Batu-batu kecil berserakan di tanah.</Desc>
 		</Text>
 		<Text Name="IceLittleRock" sParam="Plant">
