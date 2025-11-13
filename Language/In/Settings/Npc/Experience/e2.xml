@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YaoGuai_Experiences0">
-			<DisplayName>binatang yang cerdas</DisplayName>
+			<DisplayName>Binatang yang cerdas</DisplayName>
 			<Desc>Anda dulunya hanyalah binatang iblis yang hidup di pegunungan Sekte Tai Yi. Selama siang dan malam menyerap Qi Langit dan Bumi, dia perlahan-lahan sadar kembali. Pada malam kehancuran Sekte Tai Yi, Ancaman kematian yang akan segera terjadi memaksa Anda untuk melampaui batasan Anda dan berubah menjadi iblis.\n Sebagai rasa terima kasih kepada Sekte Tai Yi yang telah merawat Anda dan memberi Anda perlindungan. Dia masuk dan membantai para penyerbu itu. Tapi karena takdir misterius, usahamu untuk menerobos masuk dan bunuh diri terlihat oleh sesepuh Sekte Tai Yi yang sedang sekarat.\n dengan keinginan yang kuat Tetua ini mengerahkan kekuatan terakhirnya untuk menyampaikan kepadamu banyak kenangan dan sumber daya yang awalnya ingin dia berikan kepada para murid sekte untuk digunakan dalam melarikan diri. dan untuk sementara menanamkan pemikiran untuk memaksa melarikan diri ke dalam otak Anda. Didorong oleh ide ini Jadi dia lari menyelamatkan nyawanya dan mencoba melarikan diri dari kehancuran Sekte Tai Yi.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences1">
@@ -45,15 +45,15 @@
 			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Saat melarikan diri, dia secara tidak sengaja berlari melalui ruangan yang menyimpan jimat ajaib. Dengan ingatan yang diterimanya, secara naluriah dia merasa ada sesuatu yang penting di sana. Jadi, kamu mempertaruhkan nyawamu untuk menyusup ke dalam dan membawa beberapa jimat ajaib yang berharga bersamamu.\n\n\n[size=10]Dapatkan sumber daya default:[color=#D06508]Jimat ajaib tingkat tinggi[/color][/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences31">
-			<DisplayName>lolos dari kematian</DisplayName>
+			<DisplayName>Lolos dari kematian</DisplayName>
 			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan, Anda fokus untuk melarikan diri dan berusaha keras menghindari makhluk apa pun. Pada akhirnya, dia melarikan diri dari Sekte Tai Yi sendirian.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Turun 2![/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences27">
-			<DisplayName>sedikit hati nurani</DisplayName>
+			<DisplayName>Sedikit hati nurani</DisplayName>
 			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia lolos dari bahaya dan bertemu dengan seorang murid yang terbaring tak sadarkan diri di tanah. Jadi dia memutuskan untuk membawa murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Turun menjadi 1![/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences29">
-			<DisplayName>mencoba membantu</DisplayName>
+			<DisplayName>Mencoba membantu</DisplayName>
 			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia selamat dari bahaya dan bertemu dengan beberapa muridnya yang terbaring tak sadarkan diri di tanah. Oleh karena itu, dia memutuskan untuk membawa murid-murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Meningkat 1![/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences30">
@@ -61,7 +61,7 @@
 			<Desc>Pada malam ketika Sekte Tai Yi dihancurkan Dia mewarisi kenangan para tetua Sekte Tai Yi dan melihat dirinya sebagai salah satu murid Sekte Tai Yi. Dia selamat dari bahaya dan menemukan beberapa murid terbaring tak sadarkan diri di tanah. Oleh karena itu, dia memutuskan untuk membawa semua murid ini bersamanya.\n\n\n[size=10]kuantitas[color=#D06508]murid pemula[/color]Meningkat 2![/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences8">
-			<DisplayName>cadangan makanan</DisplayName>
+			<DisplayName>Cadangan makanan</DisplayName>
 			<Desc>selama melarikan diri Dengan naluri binatang buas Dia mengumpulkan makanan dalam jumlah besar di jalan sebagai cadangan makanan. Bahkan membunuh beberapa ular dan beruang untuk dikumpulkan sebagai cadangan makanan.\n\n\nPada awalnya[color=#D06508]\nDiterima[color=#D06508]Makanan dan air minum[/color]meningkat di awal[/size]</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences9">
