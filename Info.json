@@ -4,7 +4,7 @@
   "Name": "IndonesianLanguage",
   "DisplayName": "IndonesianLanguage",
   "GameVersion": 0.0,
-  "Version": "1.8",
+  "Version": "1.9",
   "Desc": "[Creator]\r\nMOD by.KamalMlvnd (Sub : Kimi) \nDIPERBARUHI!\n-Memperbaiki Teks Yang Error\n-Memperbaiki KosaKata\n-Sekarang Nama Law dan Skill Menggunakan Bahasa Inggris saja (Agar lebih Familiar)\nCatatan:\nJika MOD Tiba-Tiba Menjadi Tidak Terpasang Berarti Ada Update!\nLink :\nhttps://github.com/kamalvnda/IndonesianLanguage.git\nMasukan Link diatas ke Github di ModStore/TokoMod,Nanti akan Otomatis Ke Download",
   "Author": "KamalMlvnd",
   "UIPackage": null,
@@ -16,5 +16,5 @@
   "Previews": null,
   "Dependencies": null,
   "Url": "https://github.com/kamalvnda/indonesianlanguage",
-  "VersionValue": 108.0
+  "VersionValue": 109.0
 }
