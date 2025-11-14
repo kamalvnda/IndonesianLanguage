@@ -5,26 +5,26 @@
 		</Text>
 		<Text Name="BambooLight">
 			<Type>Dekorasi</Type>
-			<Label>mebel</Label>
+			<Label>Penerangan</Label>
 		</Text>
 		<Text Name="Building_BambooScreen1">
 			<Type>Dekorasi</Type>
-			<Label>mebel</Label>
+			<Label>Mebel</Label>
 		</Text>
 		<Text Name="Building_BambooScreen2">
 			<Type>Dekorasi</Type>
-			<Label>mebel</Label>
+			<Label>Mebel</Label>
 		</Text>
 		<Text Name="Building_WaterWheel">
 			<Type>Dekorasi</Type>
-			<Label>dekorasi taman</Label>
+			<Label>Lanskap</Label>
 		</Text>
 		<Text Name="Building_BambooPavilion">
 			<Type>Dekorasi</Type>
-			<Label>dekorasi taman</Label>
+			<Label>Lanskap</Label>
 		</Text>
 		<Text Name="LsPanda_Carve">
-			<Type>Hewan peliharaan</Type>
+			<Type>Peliharaan</Type>
 		</Text>
 	</List>
 </Texts>
