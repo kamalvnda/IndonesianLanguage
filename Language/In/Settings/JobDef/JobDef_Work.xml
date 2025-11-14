@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobMine">
-			<DisplayName>Milikku</DisplayName>
+			<DisplayName>Menambang</DisplayName>
 		</Text>
 		<Text Name="JobCarry">
 			<DisplayName>Mengangkut</DisplayName>
@@ -16,7 +16,7 @@
 			<DisplayName>Pindahkan Gedung</DisplayName>
 		</Text>
 		<Text Name="JobSetupBuilding">
-			<DisplayName>Gedung Tegak</DisplayName>
+			<DisplayName>Membangun Gedung</DisplayName>
 		</Text>
 		<Text Name="JobPlant">
 			<DisplayName>Penanaman</DisplayName>
@@ -52,7 +52,7 @@
 			<DisplayName>Hapus Papan Lantai</DisplayName>
 		</Text>
 		<Text Name="JobTreatHim">
-			<DisplayName>Sembuh</DisplayName>
+			<DisplayName>Menyembuhkan</DisplayName>
 		</Text>
 		<Text Name="JobCarryToBed">
 			<DisplayName>Bawa ke Tempat Tidur</DisplayName>
@@ -73,7 +73,7 @@
 			<DisplayName>Berburu</DisplayName>
 		</Text>
 		<Text Name="JobSlaughter">
-			<DisplayName>Tukang daging</DisplayName>
+			<DisplayName>Menjagal</DisplayName>
 		</Text>
 		<Text Name="JobKill">
 			<DisplayName>Membunuh</DisplayName>
@@ -85,7 +85,7 @@
 			<DisplayName>Membersihkan</DisplayName>
 		</Text>
 		<Text Name="JobSacrifice">
-			<DisplayName>Persembahan Kurban</DisplayName>
+			<DisplayName>Mempersembahkan Kurban</DisplayName>
 		</Text>
 	</List>
 </Texts>
