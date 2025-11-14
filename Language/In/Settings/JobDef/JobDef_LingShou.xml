@@ -13,19 +13,19 @@
 			<DisplayName>Pergi buang air besar</DisplayName>
 		</Text>
 		<Text Name="JobLsCarry">
-			<DisplayName>mengangkut</DisplayName>
+			<DisplayName>Mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobLsCutoff">
 			<DisplayName>Memotong</DisplayName>
 		</Text>
 		<Text Name="JobLsMine">
-			<DisplayName>Pertambangan</DisplayName>
+			<DisplayName>Menambang</DisplayName>
 		</Text>
 		<Text Name="JobLsCarryToBed">
-			<DisplayName>mengangkut</DisplayName>
+			<DisplayName>Mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobLsCarryToDest">
-			<DisplayName>mengangkut</DisplayName>
+			<DisplayName>Mengangkut</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithSelf">
 			<DisplayName>Bersenang senang</DisplayName>
@@ -46,7 +46,7 @@
 			<DisplayName>Pengairan</DisplayName>
 		</Text>
 		<Text Name="JobLsCure">
-			<DisplayName>Penyembuhan</DisplayName>
+			<DisplayName>Menyembuhkan</DisplayName>
 		</Text>
 		<Text Name="JobLsFollow">
 			<DisplayName>Mengikuti</DisplayName>
