@@ -2,12 +2,12 @@
 	<List>
 		<Text Name="System_FightMap_RedWall">
 			<DisplayName>Mengamati</DisplayName>
-			<Desc>[NAME]mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
+			<Desc>[NAME] mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
 			<Selections.0.Display>Mengamati</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">
 			<DisplayName>Buatlah Permintaan</DisplayName>
-			<Desc>[NAME]mencoba membuat permintaan dengan Dragon Incense.</Desc>
+			<Desc>[NAME] mencoba membuat permintaan dengan Dragon Incense.</Desc>
 			<Selections.0.Display>Harapan untuk Pikiran Jernih</Selections.0.Display>
 			<Selections.1.Display>Keinginan untuk Tingkat yang Lebih Tinggi</Selections.1.Display>
 			<Selections.2.Display>Harapan untuk Keberuntungan</Selections.2.Display>
@@ -17,19 +17,19 @@
 		</Text>
 		<Text Name="Story_Building_TaiZiDian">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di meja dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan meja dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoJianZhen">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di samping perisai pedang dan mencoba menggunakan persepsi untuk berkomunikasi.</Desc>
+			<Desc>[NAME] duduk di samping perisai pedang dan mencoba menggunakan persepsi untuk berkomunikasi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoDanLu">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di dekat Tungku Alkimia dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di dekat Tungku Alkimia dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
@@ -40,7 +40,7 @@
 		</Text>
 		<Text Name="Story_Building_ZiXiaoShiBei">
 			<DisplayName>Menyentuh</DisplayName>
-			<Desc>[NAME]menyentuh kata-kata yang terukir pada prasasti itu.</Desc>
+			<Desc>[NAME] menyentuh kata-kata yang terukir pada prasasti itu.</Desc>
 			<Selections.0.Display>Menyentuh</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
