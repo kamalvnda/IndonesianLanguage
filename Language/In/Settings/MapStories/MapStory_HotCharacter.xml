@@ -2,113 +2,113 @@
 	<List>
 		<Text Name="HotStory_Fun_LingWu">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 			<Selections.1.Display>Memperoleh Pemahaman</Selections.1.Display>
 		</Text>
 		<Text Name="HotStory_Fun_LingWu_DuShu">
 			<DisplayName>Mencari</DisplayName>
-			<Desc>Saat membaca buku-buku tebal kuno,[NAME]menemukan sesuatu yang tidak biasa.</Desc>
+			<Desc>Saat membaca buku-buku tebal kuno, [NAME] menemukan sesuatu yang tidak biasa.</Desc>
 			<Selections.0.Display>Membuat terobosan baru</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingGan">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu_Feed">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingFailed">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingSucceed">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_LingWu">
 			<DisplayName>Pemahaman</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Brokening">
 			<DisplayName>Terobosan Epiphany</DisplayName>
-			<Desc>[NAME]menjadi memahami Pengakuan Iman yang lebih besar berkat terobosan tersebut.</Desc>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan tersebut.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenSucceed">
 			<DisplayName>pencerahan</DisplayName>
-			<Desc>[NAME]menjadi memahami Pengakuan Iman yang lebih besar berkat terobosan tersebut.</Desc>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan tersebut.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenFailed">
 			<DisplayName>pencerahan</DisplayName>
-			<Desc>[NAME]mulai memahami Pengakuan Iman yang lebih besar meskipun gagal melakukan terobosan.</Desc>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar meskipun gagal melakukan terobosan.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Golding">
 			<DisplayName>Epiphany Pembentuk Inti</DisplayName>
-			<Desc>[NAME]memasuki Negara Terbebaskan sambil membentuk inti.</Desc>
+			<Desc>[NAME] memasuki Negara Terbebaskan saat membentuk inti.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_GoldSucceed">
 			<DisplayName>pencerahan</DisplayName>
-			<Desc>[NAME]memahami beberapa pemahaman setelah menyelesaikan pembentukan inti.</Desc>
+			<Desc>[NAME] memahami beberapa pemahaman setelah menyelesaikan pembentukan inti.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_ThunderSucceed">
 			<DisplayName>Epifani Kesengsaraan</DisplayName>
-			<Desc>[NAME]selamat dari kesengsaraan dan memperoleh wawasan tentang misteri alam.</Desc>
+			<Desc>[NAME] selamat dari kesengsaraan dan memperoleh wawasan tentang misteri alam.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDan">
 			<DisplayName>Epifani Alkimia</DisplayName>
-			<Desc>[NAME]mendapat pencerahan saat menggunakan alkimia.</Desc>
+			<Desc>[NAME] mendapat pencerahan saat menggunakan alkimia.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDanFailed">
 			<DisplayName>Epifani Alkimia</DisplayName>
-			<Desc>[NAME]memperoleh pemahaman meskipun gagal menggunakan Alkimia.</Desc>
+			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Alkimia.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Refining">
 			<DisplayName>Epiphany Pembuatan Artefak</DisplayName>
-			<Desc>[NAME]mendapat pencerahan saat menggunakan Artifact Crafting.</Desc>
+			<Desc>[NAME] mendapat pencerahan saat menggunakan Artifact Crafting.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningGod">
 			<DisplayName>Epiphany Pembuatan Artefak</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningFailed">
 			<DisplayName>Epiphany Pembuatan Artefak</DisplayName>
-			<Desc>[NAME]memperoleh pemahaman meskipun gagal menggunakan Artifact Crafting.</Desc>
+			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Artifact Crafting.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Fei_LingWu">
 			<DisplayName>Inspirasi Mendadak</DisplayName>
-			<Desc>[NAME]tiba-tiba mendapat pencerahan saat bermain dengan Fei.</Desc>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Fei.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_LuShu_LingWu">
 			<DisplayName>Inspirasi Mendadak</DisplayName>
-			<Desc>[NAME]tiba-tiba mendapat pencerahan saat bermain dengan Lushu.</Desc>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Lushu.</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 	</List>
