@@ -1,12 +1,12 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="AgentConstructionHeYin">
-			<Title>Tunjuk perwakilan kantor - Muang Sai Nam Huan</Title>
-			<Desc>Tunjuk perwakilan kantor - Muang Sai Nam Huan</Desc>
+			<Title>Tunjuk perwakilan Sekte - Muang Sai Nam Huan</Title>
+			<Desc>Tunjuk perwakilan Sekte - Muang Sai Nam Huan</Desc>
 		</Text>
 		<Text Name="AgentManagementHeYin">
-			<Title>Kelola perwakilan kantor - Muang Sai Nam Huan</Title>
-			<Desc>Kelola perwakilan kantor - Muang Sai Nam Huan</Desc>
+			<Title>Kelola perwakilan Sekte - Muang Sai Nam Huan</Title>
+			<Desc>Kelola perwakilan Sekte - Muang Sai Nam Huan</Desc>
 		</Text>
 		<Text Name="BeliefManagementHeYin">
 			<Title>Mengelola Iman - Kota Sai Nam Huan</Title>
@@ -17,8 +17,8 @@
 			<Desc>Tunjuk perwakilan Biro – Kota Pemandangan Laut</Desc>
 		</Text>
 		<Text Name="AgentManagementGuanHai">
-			<Title>Kelola perwakilan kantor - Pemandangan Kota Laut</Title>
-			<Desc>Kelola perwakilan kantor - Pemandangan Kota Laut</Desc>
+			<Title>Kelola perwakilan Sekte - Pemandangan Kota Laut</Title>
+			<Desc>Kelola perwakilan Sekte - Pemandangan Kota Laut</Desc>
 		</Text>
 		<Text Name="BeliefManagementGuanhai">
 			<Title>Mengelola Iman - Ocean View City</Title>
@@ -37,24 +37,24 @@
 			<Desc>Mengelola Iman - Desa Ekor Ular</Desc>
 		</Text>
 		<Text Name="AgentConstructionFeng">
-			<Title>Tunjuk perwakilan kantor - Muang Mahasap</Title>
-			<Desc>Tunjuk perwakilan kantor - Muang Mahasap</Desc>
+			<Title>Tunjuk perwakilan Sekte - Muang Mahasap</Title>
+			<Desc>Tunjuk perwakilan Sekte - Muang Mahasap</Desc>
 		</Text>
 		<Text Name="AgentManagementFeng">
-			<Title>Kelola perwakilan kantor - Muang Mahasap</Title>
-			<Desc>Kelola perwakilan kantor - Muang Mahasap</Desc>
+			<Title>Kelola perwakilan Sekte - Muang Mahasap</Title>
+			<Desc>Kelola perwakilan Sekte - Muang Mahasap</Desc>
 		</Text>
 		<Text Name="BeliefManagementFeng">
 			<Title>Manajemen Iman - Muang Mahasap</Title>
 			<Desc>Manajemen Iman - Muang Mahasap</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaLiang">
-			<Title>Penunjukan perwakilan kantor - Kota Daliang</Title>
-			<Desc>Penunjukan perwakilan kantor - Kota Daliang</Desc>
+			<Title>Penunjukan perwakilan Sekte - Kota Daliang</Title>
+			<Desc>Penunjukan perwakilan Sekte - Kota Daliang</Desc>
 		</Text>
 		<Text Name="AgentManagementDaLiang">
-			<Title>Manajemen perwakilan kantor - Kota Daliang</Title>
-			<Desc>Manajemen perwakilan kantor - Kota Daliang</Desc>
+			<Title>Manajemen perwakilan Sekte - Kota Daliang</Title>
+			<Desc>Manajemen perwakilan Sekte - Kota Daliang</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaLiang">
 			<Title>Manajemen Iman - Kota Daliang</Title>
@@ -73,12 +73,12 @@
 			<Desc>Manajemen Iman - Dataran Tengah</Desc>
 		</Text>
 		<Text Name="AgentConstructionJiangAnWoYe">
-			<Title>Tunjuk perwakilan kantor - Thung Praip Sai Nam Huan</Title>
-			<Desc>Tunjuk perwakilan kantor - Thung Praip Sai Nam Huan</Desc>
+			<Title>Tunjuk perwakilan Sekte - Thung Praip Sai Nam Huan</Title>
+			<Desc>Tunjuk perwakilan Sekte - Thung Praip Sai Nam Huan</Desc>
 		</Text>
 		<Text Name="AgentManagementJiangAnWoYe">
-			<Title>Kelola perwakilan kantor - Thung Praip Sai Nam Huan</Title>
-			<Desc>Kelola perwakilan kantor - Thung Praip Sai Nam Huan</Desc>
+			<Title>Kelola perwakilan Sekte - Thung Praip Sai Nam Huan</Title>
+			<Desc>Kelola perwakilan Sekte - Thung Praip Sai Nam Huan</Desc>
 		</Text>
 		<Text Name="BeliefManagementJiangAnWoYe">
 			<Title>Mengelola Iman - Dataran Thung Sai Nam Huan</Title>
@@ -113,8 +113,8 @@
 			<Desc>Tunjuk perwakilan Biro - Hutan Selatan</Desc>
 		</Text>
 		<Text Name="AgentManagementNanHuang">
-			<Title>Kelola perwakilan kantor - Hutan Selatan</Title>
-			<Desc>Kelola perwakilan kantor - Hutan Selatan</Desc>
+			<Title>Kelola perwakilan Sekte - Hutan Selatan</Title>
+			<Desc>Kelola perwakilan Sekte - Hutan Selatan</Desc>
 		</Text>
 		<Text Name="BeliefManagementNanHuang">
 			<Title>Mengelola Iman - Hutan Selatan</Title>
