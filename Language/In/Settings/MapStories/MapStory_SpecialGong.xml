@@ -2,59 +2,59 @@
 	<List>
 		<Text Name="Secrets_Gong2">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Artefak Segudang". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Artefak Segudang". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Gong3">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Pedang Tujuh Pembantaian". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Pedang Tujuh Pembantaian". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Gong4">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Abadi Kemurnian Giok". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Abadi Kemurnian Giok". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Gong5">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Pencurian Surga". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Pencurian Surga". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Gong6">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran “Hukum Alkimia Primordial.” Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran “Hukum Alkimia Primordial.” Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Gong7">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Pemutusan Emosi". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan bahwa ini adalah tempat yang mewarisi ajaran "Hukum Pemutusan Emosi". Warisan tersebut dikelilingi oleh lingkaran Dewa kuno. Tampaknya ini adalah segel yang dipasang oleh Dewa kuno untuk memilih kandidat yang cocok untuk mewarisi ajaran mereka. Ada kilatan petir yang keluar dari susunannya, sepertinya ia memiliki kekuatan magis yang besar.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GongRandom">
 			<DisplayName>Mewujudkan Amanat</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan menemukan Hukum misterius, meski tidak tahu dari mana datangnya.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan menemukan Hukum misterius, meski tidak tahu dari mana datangnya.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Semangat dan Keberuntungan Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Terima Ajaran</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 	</List>
