@@ -370,7 +370,7 @@ _结局	_Akhir
 红尘记	Manusia
 男人	Pria
 \n来自：{0}	\nSumber:{0}
-境界加成：{0}\n	Bonus Negara:{0}\n
+境界加成：{0}\n	Bonus Status:{0}\n
 [{0}]证据不足\n	[{0}]Bukti Tidak Cukup\n
 随着时间推移，化妖天灾的影响越来越深了……	Seiring berjalannya waktu, pengaruh bencana pengubah Binatang semakin dalam...
 被迫服役	Dipaksa untuk melayani.
@@ -490,7 +490,7 @@ yyyy年MM月dd日HH:mm:ss	yyyy-MM-dd JJ:mm:ss
 数十天前	Beberapa minggu yang lalu
 CloudSave->解压完成	CloudSave->Dekompresi Selesai
 [align=center](姿态)[	[align=center](Pendirian)[
-再以境界突破为例：\n[color=#ff0000]木属性[/color]的功法在[color=#ff0000]金属性[/color]的环境中突破时，因[color=#ff0000]金克木[/color]的原因而倍加艰难。\n如果在[color=#ff0000]水属性[/color]的环境中突破，则会因[color=#ff0000]水生木[/color]之故，而提高突破成功率。	Dan ketika melakukan Terobosan untuk suatu Negara:\nMempraktikkan Hukum[color=#ff0000]Kayu[/color]di lingkungan[color=#ff0000]Logam[/color]akan sulit karena[color=#ff0000]Logam memotong Kayu[/color].\nJika seseorang melakukannya, lingkungannya[color=#ff0000]Air[/color], tingkat keberhasilan suatu Terobosan akan meningkat karena[color=#ff0000]Air memberi nutrisi pada Kayu[/color].
+再以境界突破为例：\n[color=#ff0000]木属性[/color]的功法在[color=#ff0000]金属性[/color]的环境中突破时，因[color=#ff0000]金克木[/color]的原因而倍加艰难。\n如果在[color=#ff0000]水属性[/color]的环境中突破，则会因[color=#ff0000]水生木[/color]之故，而提高突破成功率。	Dan ketika melakukan Terobosan untuk suatu Status:\nMempraktikkan Hukum[color=#ff0000]Kayu[/color]di lingkungan[color=#ff0000]Logam[/color]akan sulit karena[color=#ff0000]Logam memotong Kayu[/color].\nJika seseorang melakukannya, lingkungannya[color=#ff0000]Air[/color], tingkat keberhasilan suatu Terobosan akan meningkat karena[color=#ff0000]Air memberi nutrisi pada Kayu[/color].
 [color=#bf642f]已归属：{0}[/color]	[color=#bf642f]Milik:{0}[/color]
 坐标点	Koordinat
 用力拉杆	Masuk
@@ -544,7 +544,7 @@ CloudSave->解压完成	CloudSave->Dekompresi Selesai
 等待建造完成。	Tunggu sampai pembangunannya selesai.
 正派	Hanya Sekte
 选择阵法人选	Pilih karakter untuk formasi.
-境界进阶	Negara Maju
+境界进阶	Status Maju
 等待	Tunggu
 [玄门秘籍]	[Orthodox Manual]
 请检查网络是否正常连接Steam社区	Periksa apakah Anda terhubung ke Steam.
@@ -817,7 +817,7 @@ ApplyEffect! 激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTim
 在练习护体之时，正觉得十分痛苦	Melakukan pelatihan perlindungan; menganggapnya sangat suram
 尚未解锁!	Terkunci!
 被替换	telah diganti.
-苦行境	Negara Pertapa
+苦行境	Status Pertapa
 来自:[{0}]	Dari:[{0}]
 \n等待激活	\nMenunggu aktivasi
 影响种植作物速度，收获作物产量等。	Mempengaruhi laju pertumbuhan tanaman dan hasil panennya.
@@ -891,7 +891,7 @@ ApplyEffect! 激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTim
 竞拍品:[{0}]	Barang Lelang:[{0}]
 开启	Memungkinkan
 在掌门附近，发布一个寒晶鼎的建造命令。	Perintahkan pembangunan Kuali Kristal Es di sebelah pemimpin sekte.
-[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Kemampuan Manajemen:{3}[/color]\nBonus Karisma:{0}\nBonus Sosial:{1}\nBonus Negara:{2}\n
+[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Kemampuan Manajemen:{3}[/color]\nBonus Karisma:{0}\nBonus Sosial:{1}\nBonus Status:{2}\n
 金丹	Inti Emas
 竹子	Bambu
 不合	tidak kompatibel
@@ -1319,7 +1319,7 @@ PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak da
 打架	Berkelahi
 地点不可达	Lokasi yang tidak terjangkau.
 鼎炉潜力几尽枯竭，炼精化气效率较慢。	Potensi Kuali Bagian Dalam hampir habis; efisiensi konversi Stamina yang rendah.
-\n境界影响:\n {0:N0}%	\nNegara:\n{0:N0}%
+\n境界影响:\n {0:N0}%	\nStatus:\n{0:N0}%
 询问	Menanyakan
 已存在对应控件:{0}，不需要复制	Kontrol{0}sudah ada. Tidak perlu menyalin.
 一般	Umum
@@ -1870,7 +1870,7 @@ npc无丹药耐必信息，没有条目可以删除!	npc tidak memiliki info res
 (练功)	(Pelatihan)
 <font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>Panduan ini telah ditempatkan di Paviliun Manual.</font>\n
 我方角色	Karakter Kita
-{0}境	{0}Negara
+{0}境	{0}Status
 幽冥	akhirat
 长老	Lebih tua
 位于祖师牌位之侧	dan Terletak di sebelah Kuil Grandmaster
@@ -2136,7 +2136,7 @@ defName=>{0} {1}_effect.sParam1 配置为空,应该配置物品类型！	namadef
 中庸	Biasa-biasa saja
 获得{0}关于{1}的消息	{1}infonya didapat dari{0}.
 东西	Hal-hal
-被杀戮之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时专注杀戮而战法激进，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Dihantui oleh niat membunuh. Efisiensi latihan, kecepatan belajar, dan kondisi mental berkurang drastis. Di negara bagian tersebut, karakter akan fokus pada pembunuhan, sehingga meningkatkan keterampilan bertarungnya. Menembus 2 level Penguasaan Artefak dan Mantra, serta menurunkan 5 level Perlindungan.
+被杀戮之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时专注杀戮而战法激进，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Dihantui oleh niat membunuh. Efisiensi latihan, kecepatan belajar, dan kondisi mental berkurang drastis. Di Status bagian tersebut, karakter akan fokus pada pembunuhan, sehingga meningkatkan keterampilan bertarungnya. Menembus 2 level Penguasaan Artefak dan Mantra, serta menurunkan 5 level Perlindungan.
 {0:F0}米/秒	{0:F0}m/detik
 {0}\n[color=#FF0033]未激活[/color]	{0}\n[color=#FF0033]tidak diaktifkan[/color]
 夜观星象	Menonton Langit Malam
@@ -2185,7 +2185,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 返回主菜单将会丢失所有未保存的进度，确定要返回吗？	Anda akan kehilangan semua kemajuan yang belum disimpan. Apakah Anda yakin ingin kembali ke menu?
 法宝飞行速度:	Kecepatan Terbang Artefak:
 {0}\n来源：{1}\n{2}	{0}\nSumber:{1}\n{2}
-丹器	Kerajinan Ajaib
+丹器	Kerajinan Sihir
 巨型	Raksasa
 \n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404]Kerusakan Batin hanya dapat disembuhkan dengan meminum ramuan yang benar.[/color]
 冒险	Petualangan
@@ -2367,7 +2367,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 正常	Biasa
 你的信仰圣物已经遗失。	Peninggalan sucimu hilang.
 已复制结束{0}个文件	{0}penyalinan file selesai
-境界:{0} 或 {1}	Negara:{0}atau{1}
+境界:{0} 或 {1}	Status:{0}atau{1}
 归属感：{0:0}	Loyalitas: {0:0}
 真炁消耗\n在启用该秘体时，会持续的消耗真炁。	Konsumsi Qi Sejati\nJumlah True Qi yang terus Anda konsumsi saat Badan Rahasia ini diaktifkan.
 护法[color=#{3}][{0}·{1}][/color]降临并答应为{2}提供庇护！\n{4}	Penjaga[color=#{3}][{0} {1}][/color]turun dan berjanji untuk berlindung{2}!\n{4}
@@ -2502,7 +2502,7 @@ CloudSave->存档压缩文件上传失败:{0}	CloudSave->Simpan Unggahan File Ko
 选择要炼制的秘宝	Pilih Artefak Warisan untuk dibuat.
 无法结阵	Tidak dapat membentuk formasi
 勉强	Amatir
-未知境界	Negara Tidak Diketahui
+未知境界	Status Tidak Diketahui
 感谢道友的耐心等待与不离不弃。\n在此为你送上【红尘乱世】与【上古巨兽】扩展包。\n欢迎来到修仙世界。	Terima kasih atas kesabaran dan dukungan setia Anda.\nKami dengan senang hati menawarkan kepada Anda[Immortals and Mortals]Dan[Ancient Beasts]DLC.\nSelamat datang di Dunia Budidaya.
 CloudSave->找到旧存档:{0}	CloudSave->Ditemukan Simpanan lama:{0}
 经脉	Meridian
@@ -2760,7 +2760,7 @@ CloudSave->开始删除云存档:{0}	CloudSave->Mulai Menghapus Cloud Save:{0}
 {0}执行 选项{1} 的 {2} 结果时报错\n	Kesalahan hasil saat dijalankan{0}pilihan{1}'S{2}.\n
 你可以通过屏幕左上角的太极图来进入风水视图，在风水试图下，屏幕中央的五边形即为鼠标所在位置的五行分布。	Anda dapat memasuki Tampilan Feng Shui melalui ikon Taiji di pojok kiri atas. Saat menggunakan Tampilan Feng Shui, mengarahkan kursor ke apa pun akan menampilkan lima elemen tata letak area tersebut.
 在修理建筑间余，刚小憩片刻	Memperbaiki bangunan; sedang istirahat
-传道境	Negara Peziarah
+传道境	Status Peziarah
 微乎其微	Tidak signifikan
 在收获之时，正感觉有点无聊	Pemanenan; terasa sedikit bosan
 未使用配置	Konfigurasi Tidak Digunakan
@@ -3018,7 +3018,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 本局生效	Simpanan ini
 请设定标签！	Tetapkan label.
 秘籍:\n[color=#483721]{0}[/color]\n	Petunjuk:\n[color=#483721]{0}[/color]\n
-被贪婪之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时不舍珍宝而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Didorong oleh keserakahan. Efisiensi latihan, kecepatan belajar, dan kondisi mental berkurang drastis. Di negara bagian, karakter akan terlalu menghargai hartanya sehingga berisiko mati. Menurunkan 2 level Penguasaan Artefak dan Mantra, serta menembus 3 level Perlindungan.
+被贪婪之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时不舍珍宝而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Didorong oleh keserakahan. Efisiensi latihan, kecepatan belajar, dan kondisi mental berkurang drastis. Di Status bagian, karakter akan terlalu menghargai hartanya sehingga berisiko mati. Menurunkan 2 level Penguasaan Artefak dan Mantra, serta menembus 3 level Perlindungan.
 选择一个单位,对其发起攻击。	Pilih unit untuk menyerangnya.
 名震千古	Terkenal
 影响炼丹时的速度，炼丹时的产量，炼丹时的成功率。	Mempengaruhi kecepatan, keluaran, dan tingkat keberhasilan alkimia.
@@ -3591,7 +3591,7 @@ CloudSave->开始拉取云存档信息	CloudSave->Mulai Mengambil Info Penyimpan
 正心无旁骛的缝纫作业中	Berkonsentrasi pada menjahit
 神修在心境为“慧”时，心境只有在悟性大于8的情况下才会增加，悟性越高，增加速度越快。反之则会减少。	Keadaan mental yang 'bijaksana' hanya akan meningkat jika kecerdasannya lebih besar dari 8, karena kecerdasan yang lebih besar berarti peningkatan yang lebih cepat. Jika tidak maka akan berkurang.
 今天的修行结束，正感觉神完气足	Meditasi selesai; merasa sangat energik
-心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Kesusahan: {0:N0}\nNilai absolut total dari semua suasana hati. Jumlah dan tingkat suasana hati akan memperumit penderitaan tersebut. Hal ini juga dipengaruhi oleh pengganda suasana hati.\nTotal lima negara bagian:\n[color=#FFFFFF]■[/color]Kemarahan yang Mengamuk\n[color=#00c400]■[/color]Pikiran Absen\n[color=#0099cc]■[/color]Jiwa Bermasalah\n[color=#F700FF]■[/color]Ketenangan\n[color=#FF8B00]■[/color]Pemarah
+心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Kesusahan: {0:N0}\nNilai absolut total dari semua suasana hati. Jumlah dan tingkat suasana hati akan memperumit penderitaan tersebut. Hal ini juga dipengaruhi oleh pengganda suasana hati.\nTotal lima Status bagian:\n[color=#FFFFFF]■[/color]Kemarahan yang Mengamuk\n[color=#00c400]■[/color]Pikiran Absen\n[color=#0099cc]■[/color]Jiwa Bermasalah\n[color=#F700FF]■[/color]Ketenangan\n[color=#FF8B00]■[/color]Pemarah
 妖族变换形态。	Ubah formulir Yaoguai.
 靛蓝布	Kain Nila
 在锻造间余，刚小憩片刻	Penempaan; sedang istirahat
@@ -4406,7 +4406,7 @@ XiaWorld -> Wnd_NpcGentrate:生成角色失败，原因为：{0}	XiaWorld -> Wnd
 {0}→[color=#990000]{1}(相克)[/color]	{0}→[color=#990000]{1}(Yg menetralkan)[/color]
 生长程度	Pertumbuhan
 {0}[color=#9e6404][赛季][/color]	{0}[color=#9e6404][Season][/color]
-功法:{0}\n境界:{1}	Hukum:{0}\nNegara:{1}
+功法:{0}\n境界:{1}	Hukum:{0}\nStatus:{1}
 确定	Mengonfirmasi
 偷埋宝藏	Menyembunyikan harta rahasia
 是否要使用[color=#FF0000]{0}[/color]\n当前可使用次数为:{1}	Apakah Anda yakin Anda menggunakan[color=#FF0000]{0}[/color]?\nSekarang{1}kali tersisa.
