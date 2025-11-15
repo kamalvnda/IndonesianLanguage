@@ -10,35 +10,35 @@
 		</Text>
 		<Text Name="sys_brokenneck">
 			<DisplayName>Eureka</DisplayName>
-			<Desc>[NAME]mendapat pencerahan tiba-tiba, dan tampaknya telah menemukan cara untuk membuat terobosan yang berkepanjangan[ITS]Hukum budidaya.[IT]duduk dengan tergesa-gesa dan segera memasuki kondisi meditasi.</Desc>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan, dan tampaknya telah menemukan cara untuk membuat terobosan jangka panjang tersebut [ITS] Hukum budidaya. [IT] duduk dengan tergesa-gesa dan segera memasuki kondisi meditasi.</Desc>
 		</Text>
 		<Text Name="sys_openplacelink">
 			<DisplayName>Kedatangan Pertama</DisplayName>
-			<Desc>Setelah tiba[PLACE]untuk pertama kalinya,[NAME]bertanya kepada penduduk setempat tentang tempat itu.</Desc>
+			<Desc>Setelah tiba [PLACE] untuk pertama kalinya, [NAME] bertanya kepada penduduk setempat tentang tempat tersebut.</Desc>
 		</Text>
 		<Text Name="sys_openplace">
 			<DisplayName>Lokasi Baru Tidak Terkunci</DisplayName>
-			<Desc>Telah berkunjung ke[PLACE]beberapa kali,[NAME]menjadi akrab dengan tempat ini dan menemukan tujuan baru yang menarik di dekatnya.</Desc>
+			<Desc>Telah berkunjung ke [PLACE] beberapa kali, [NAME] menjadi akrab dengan tempat ini dan menemukan destinasi baru yang menarik di dekatnya.</Desc>
 		</Text>
 		<Text Name="sys_test">
 			<DisplayName>Eureka</DisplayName>
-			<Desc>[NAME]mendapat pencerahan tiba-tiba, dan tampaknya telah menemukan cara untuk membuat terobosan yang berkepanjangan[ITS]Hukum budidaya.[IT]duduk dengan tergesa-gesa dan segera memasuki kondisi meditasi.</Desc>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan, dan tampaknya telah menemukan cara untuk membuat terobosan jangka panjang tersebut [ITS] Hukum budidaya. [IT] duduk dengan tergesa-gesa dan segera memasuki kondisi meditasi.</Desc>
 		</Text>
 		<Text Name="Story_SoulSeach">
 			<DisplayName>Penyelidikan Jiwa</DisplayName>
-			<Desc>[NAME]melakukan Penyelidikan Jiwa pada penggarap yang sekarat, mencoba menyelamatkan beberapa informasi berguna.</Desc>
+			<Desc>[NAME] melakukan Penyelidikan Jiwa pada penggarap yang sekarat, mencoba menyelamatkan beberapa informasi berguna.</Desc>
 		</Text>
 		<Text Name="Story_JiangDao">
 			<DisplayName>Pencerahan Mendadak</DisplayName>
-			<Desc>[NAME]tenggelam dalam kedalaman Tao.</Desc>
+			<Desc>[NAME] tenggelam dalam kedalaman Tao.</Desc>
 		</Text>
 		<Text Name="Story_TitleGold">
 			<DisplayName>Inti Emas</DisplayName>
-			<Desc>Setelah mencapai kondisi budidaya inti emas,[NAME]diberi gelar oleh sesama kultivator.</Desc>
+			<Desc>Setelah mencapai tingkat budidaya inti emas, [NAME] diberi gelar oleh sesama kultivator.</Desc>
 		</Text>
 		<Text Name="Story_TitleRandom">
 			<DisplayName>Tumbuhnya Reputasi</DisplayName>
-			<Desc>Setelah pergi ke luar[ITS]sekte untuk petualangan,[NAME]menikmati reputasi yang berkembang di antara sesama kultivator.</Desc>
+			<Desc>Setelah pergi ke luar [ITS] sekte untuk petualangan, [NAME] menikmati reputasi yang berkembang di antara sesama kultivator.</Desc>
 		</Text>
 		<Text Name="Story_sys_BossLong_Wish">
 			<DisplayName>Buatlah Permintaan</DisplayName>
@@ -50,26 +50,26 @@
 		</Text>
 		<Text Name="Story_sys_BossLong_WishSuccess">
 			<DisplayName>Harapan Terkabul</DisplayName>
-			<Desc>Gua misterius itu senang dengan persembahan tersebut dan dengan demikian dipenuhi[NAME]keinginan itu.</Desc>
+			<Desc>Gua misterius itu senang dengan persembahan tersebut dan dengan demikian memenuhi keinginan [NAME] .</Desc>
 		</Text>
 		<Text Name="System_RobGreateBuilding">
 			<DisplayName>Tangkap Keajaiban</DisplayName>
-			<Desc>[NAME]mencoba menangkap esensi keajaiban itu.</Desc>
+			<Desc>[NAME] mencoba menangkap esensi keajaiban tersebut.</Desc>
 			<Selections.0.Display>Tangkap Esensi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="System_LearnGreateBuilding">
 			<DisplayName>Merenungkan</DisplayName>
-			<Desc>Dikatakan bahwa ada rahasia formasi misterius di dalam keajaiban ini, dan[NAME]mencoba merenungkannya.</Desc>
+			<Desc>Dikatakan bahwa ada rahasia formasi misterius di dalam keajaiban ini, dan [NAME] mencoba merenungkannya.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Keterampilan Negara/Intelijen/Keberuntungan/Formasi</Selections.0.Tip>
+			<Selections.0.Tip>State/Intelligence/Luck/Formation Skill</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="System_LearnGreateBuilding_WuDang">
 			<DisplayName>Merenungkan</DisplayName>
 			<Desc>Aula Emas Wudang memancarkan suasana ketuhanan yang tenang dan misterius, seolah menyampaikan pesan kepada para pengikutnya.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Negara / Intelijen / Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>State / Intelligence / Luck</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="System_FightMap_ZhenWuShenXiang">
@@ -86,7 +86,7 @@
 		</Text>
 		<Text Name="System_EnterQianKunJie1">
 			<DisplayName>Alam Semesta Mini</DisplayName>
-			<Desc>[NAME]cukup periksa pintu masuknya. Sisi lain dari segel itu tampak seperti ruang tanpa makhluk bergerak atau tanda-tanda bahaya.</Desc>
+			<Desc>[NAME] cukup memeriksa pintu masuk. Sisi lain dari segel itu tampak seperti ruang tanpa makhluk bergerak atau tanda-tanda bahaya.</Desc>
 			<Selections.0.Display>Memasuki</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
@@ -94,30 +94,30 @@
 			<DisplayName>Bicara</DisplayName>
 			<Desc>Kehidupan rakyat jelata membosankan tapi menyenangkan.</Desc>
 			<Selections.0.Display>Mengobrol</Selections.0.Display>
-			<Selections.0.Say>Apa yang baru?</Selections.0.Say>
+			<Selections.0.Say>What's new?</Selections.0.Say>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="System_FightMap_DiscipleTalk">
 			<DisplayName>Bicara</DisplayName>
 			<Desc>Mengenai Hukum menuju keabadian, seseorang harus terus bergerak maju...</Desc>
 			<Selections.0.Display>Menanyakan</Selections.0.Display>
-			<Selections.0.Say>Ada yang baru akhir-akhir ini?</Selections.0.Say>
+			<Selections.0.Say>Anything new as of late?</Selections.0.Say>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="System_Tribute">
 			<DisplayName>Upeti</DisplayName>
-			<Desc>[NAME]tiba di[PLACE], dan bersiap menerima upeti tahunan.</Desc>
+			<Desc>[NAME] tiba di [PLACE] , dan bersiap menerima upeti tahunan.</Desc>
 			<Selections.0.Display>Kumpulkan upeti</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="System_FightMap_UnlockPlant">
 			<DisplayName>Kumpulkan sampel</DisplayName>
-			<Desc>[NAME]mencoba mengumpulkan sampel dari objek tersebut.</Desc>
+			<Desc>[NAME] mencoba mengumpulkan sampel dari objek tersebut.</Desc>
 			<Selections.0.Display>Mengumpulkan</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_UnlockBuilding">
 			<DisplayName>Mengamati</DisplayName>
-			<Desc>[NAME]mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
+			<Desc>[NAME] mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
 			<Selections.0.Display>Mengamati</Selections.0.Display>
 		</Text>
 		<Text Name="Story_SuperPartItem">
