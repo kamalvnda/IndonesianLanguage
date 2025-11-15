@@ -2,162 +2,162 @@
 	<List>
 		<Text Name="OutSpread_Give1">
 			<DisplayName>Amal</DisplayName>
-			<Desc>Itu adalah hari yang baik.[NAME]memimpin para murid ke jalan dan membagikan makanan kepada orang yang lewat.</Desc>
+			<Desc>Itu adalah hari yang baik. [NAME] memimpin para murid ke jalan dan membagikan makanan kepada orang yang lewat.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give2">
 			<DisplayName>Amal</DisplayName>
-			<Desc>Itu adalah hari yang baik.[NAME]memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Banyak pengemis yang meminta uang di pinggir jalan.</Desc>
+			<Desc>Itu adalah hari yang baik. [NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Banyak pengemis yang meminta uang di pinggir jalan.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give3">
 			<DisplayName>Amal</DisplayName>
-			<Desc>Itu adalah hari yang baik.[NAME]memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat jembatan batu telah runtuh, dan orang-orang tidak lagi bisa lewat sini.</Desc>
+			<Desc>Itu adalah hari yang baik. [NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat jembatan batu telah runtuh, dan orang-orang tidak lagi bisa lewat sini.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give4">
 			<DisplayName>Amal</DisplayName>
-			<Desc>Itu adalah hari yang baik.[NAME]memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
+			<Desc>Itu adalah hari yang baik. [NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give5">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria muda sedang berebut seorang wanita.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria muda sedang berebut seorang wanita.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give6">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria besar berkelahi satu sama lain. Seorang pejalan kaki menjelaskan bahwa hal itu terjadi karena salah satu orang menanam pohon, namun buahnya jatuh ke rumah orang lain dan dia tidak bersedia memberikannya.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria besar berkelahi satu sama lain. Seorang pejalan kaki menjelaskan bahwa hal itu terjadi karena salah satu orang menanam pohon, namun buahnya jatuh ke rumah orang lain dan dia tidak bersedia memberikannya.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give7">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]sedang bersiap untuk melakukan pekerjaan amal, ketika seorang wanita berpakaian indah mendekat[NAME]Tempatnya menangis, dan mengatakan anaknya hilang.</Desc>
+			<Desc>[NAME] sedang bersiap untuk melakukan kegiatan amal, ketika seorang wanita berpakaian indah mendekati tempat [NAME] sambil menangis, dan mengatakan bahwa anaknya hilang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give8">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]sedang bersiap untuk melakukan pekerjaan amal, ketika seorang pria bergegas ke aula mengemis[NAME]untuk menyelamatkan istrinya yang sekarat.</Desc>
+			<Desc>[NAME] sedang bersiap untuk melakukan kegiatan amal, ketika seorang pria bergegas ke aula memohon [NAME] untuk menyelamatkan istrinya yang sekarat.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give9">
 			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>[NAME]telah mengembara ke tempat yang agak jauh. Sekelompok bandit kebetulan lewat.</Desc>
+			<Desc>[NAME] telah mengembara ke tempat yang agak jauh. Sekelompok bandit kebetulan lewat.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give10">
 			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>[NAME]menemukan kekuatan[SCHOOL0], dan melihat bahwa mereka sedang memberikan sedekah kepada orang yang lewat.</Desc>
+			<Desc>[NAME] menemukan kekuatan [SCHOOL0] , dan melihat bahwa mereka sedang memberikan sedekah kepada orang yang lewat.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give11">
 			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>[NAME]menemukan kekuatan[SCHOOL0], dan melihat bahwa mereka sedang berkhotbah.</Desc>
+			<Desc>[NAME] menemukan kekuatan [SCHOOL0] , dan melihat bahwa mereka sedang berkhotbah.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give12">
 			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>[NAME]menemukan kekuatan[SCHOOL0], dan melihat mereka sedang mengadakan upacara puasa.</Desc>
+			<Desc>[NAME] menemukan kekuatan [SCHOOL0] , dan melihat mereka sedang mengadakan upacara puasa.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give13">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka menemukan sebuah rumah kayu rusak, pemiliknya cacat dan tidak mampu memperbaikinya.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka menemukan sebuah rumah kayu rusak, pemiliknya cacat dan tidak mampu memperbaikinya.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give14">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria berkostum asing menipu orang yang lewat.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria berkostum asing menipu orang yang lewat.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give15">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melewati dua kedai minuman yang saling berhadapan di seberang jalan, di mana para pelayannya sedang berdebat tentang masalah bisnis.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melewati dua kedai minuman yang saling berhadapan di seberang jalan, di mana para pelayannya sedang berdebat tentang masalah bisnis.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give16">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka bertemu dengan sekelompok pengungsi.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka bertemu dengan sekelompok pengungsi.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give17">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria sekarat yang sakit parah di pinggir jalan, dan memohon[NAME]untuk melepaskannya dari kesengsaraannya.</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang laki-laki sekarat yang sakit parah di pinggir jalan, yang memohon kepada [NAME] agar dia keluar dari penderitaannya.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Give18">
 			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka secara tidak sengaja menyentuh seorang lelaki tua di tengah kerumunan, yang langsung terjatuh ke tanah dan mulai berteriak, "Aduh! Kakiku patah! Ini dia!".</Desc>
+			<Desc>[NAME] memimpin murid-muridnya ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka secara tidak sengaja menyentuh seorang lelaki tua di tengah kerumunan, yang langsung terjatuh ke tanah dan mulai berteriak, "Aduh! Kakiku patah! Ini dia!".</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Sermon1">
 			<DisplayName>Acara dakwah</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]sedang berdiri di pintu masuk jalan, bersiap untuk berkhotbah.</Desc>
+			<Desc>Saat itu hari cerah, dan [NAME] sedang berdiri di pintu masuk jalan, bersiap untuk mengabar.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Sermon2">
 			<DisplayName>Acara dakwah</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]sedang berkhotbah. Tiba-tiba seorang lelaki besar datang dan berseru: "Omong kosong!"</Desc>
+			<Desc>Hari itu cerah dan [NAME] sedang berkhotbah. Tiba-tiba seorang lelaki besar datang dan berseru: "Omong kosong!"</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Sermon3">
 			<DisplayName>Acara dakwah</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]sedang berkhotbah. Seorang sarjana datang dan berkata apa[NAME]yang kukatakan salah... Itu tidak berjalan dengan baik.</Desc>
+			<Desc>Hari itu cerah dan [NAME] sedang berkhotbah. Seorang sarjana datang dan mengatakan bahwa apa yang [NAME] katakan salah... Itu tidak berjalan dengan baik.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Sermon4">
 			<DisplayName>Acara dakwah</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]sedang berkhotbah. Seorang wanita paruh baya terus bertepuk tangan dengan cara yang menjengkelkan, tapi dia bukanlah pengikutnya.</Desc>
+			<Desc>Hari itu cerah dan [NAME] sedang berkhotbah. Seorang wanita paruh baya terus bertepuk tangan dengan cara yang menjengkelkan, tapi dia bukanlah pengikutnya.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Secret1">
 			<DisplayName>Merencanakan</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]berjalan ke paviliun rahasia untuk membuat plot.</Desc>
+			<Desc>Saat itu hari yang cerah, dan [NAME] berjalan ke paviliun rahasia untuk membuat plot.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Secret2">
 			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]menemukan itu[SCHOOL0]sedang memberi sedekah dan memutuskan untuk ikut campur.</Desc>
+			<Desc>[NAME] menemukan hal itu [SCHOOL0] sedang memberi sedekah dan memutuskan untuk ikut campur.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Secret3">
 			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]menemukan itu[SCHOOL0]sedang bersiap untuk berkhotbah...sebuah ide muncul di benakku seperti sambaran petir.</Desc>
+			<Desc>[NAME] menemukan hal itu [SCHOOL0] sedang bersiap untuk berkhotbah...sebuah ide muncul di benakku seperti sambaran petir.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Secret4">
 			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]menemukan itu[SCHOOL0]sedang mengadakan upacara puasa dan memutuskan untuk ikut campur.</Desc>
+			<Desc>[NAME] menemukan hal itu [SCHOOL0] sedang mengadakan upacara puasa dan memutuskan untuk ikut campur.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Disp1">
 			<DisplayName>Upacara Pantang</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]berada di Kuil Disiplin mempersiapkan Upacara Pantang.</Desc>
+			<Desc>Saat itu hari yang cerah, dan [NAME] berada di Kuil Disiplin mempersiapkan Upacara Pantang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Disp2">
 			<DisplayName>Upacara Pantang</DisplayName>
-			<Desc>[NAME]melihat bahwa semua orang menjalani gaya hidup mewah dan memutuskan untuk melakukan Upacara Pantang.</Desc>
+			<Desc>[NAME] melihat bahwa semua orang menjalani gaya hidup mewah dan memutuskan untuk melakukan Upacara Pantang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Disp3">
 			<DisplayName>Upacara Pantang</DisplayName>
-			<Desc>[NAME]melihat orang kaya hidup mewah sementara orang miskin mati di pinggir jalan, dan memutuskan untuk melakukan Upacara Pantang.</Desc>
+			<Desc>[NAME] melihat orang-orang kaya hidup mewah sementara orang-orang miskin mati di pinggir jalan, dan memutuskan untuk mengadakan Upacara Pantang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Disp4">
 			<DisplayName>Upacara Pantang</DisplayName>
-			<Desc>[NAME]melihat bahwa penjahat sedang menjalankan kota dan kebencian memenuhi kota, dan memutuskan untuk melakukan Upacara Pantang.</Desc>
+			<Desc>[NAME] melihat penjahat menguasai kota dan kebencian memenuhi kota, dan memutuskan untuk melakukan Upacara Pantang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Disp5">
 			<DisplayName>Upacara Pantang</DisplayName>
-			<Desc>[NAME]melihat pedagang dan perampok yang tidak jujur ​​menguasai kota, dan memutuskan untuk melakukan Upacara Pantang.</Desc>
+			<Desc>[NAME] melihat para pedagang dan perampok yang tidak jujur ​​menguasai kota, dan memutuskan untuk mengadakan Upacara Pantang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_God1">
 			<DisplayName>Keajaiban</DisplayName>
-			<Desc>Agen[NAME]memutuskan bahwa hari ini adalah hari yang baik untuk membiarkan murid Shendao melakukan keajaiban di sini.</Desc>
+			<Desc>Agen [NAME] memutuskan bahwa hari ini adalah hari yang baik untuk membiarkan murid Shendao melakukan keajaiban di sini.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 	</List>
