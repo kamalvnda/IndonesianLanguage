@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Story_LingZhiGet">
 			<DisplayName>Petualangan di sini</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan mengingat bahwa seharusnya ada Akar Roh yang tumbuh di sini. Setelah mencari-cari ternyata daerah tersebut penuh dengan Qi Bumi, ada sesuatu yang tidak biasa disini.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan mengingat bahwa seharusnya ada Akar Roh yang tumbuh di sini. Setelah mencari-cari ternyata daerah tersebut penuh dengan Qi Bumi, ada sesuatu yang tidak biasa disini.</Desc>
 			<Selections.0.Display>Cari Akar Roh</Selections.0.Display>
 			<Selections.1.Display>Siapkan Formasi</Selections.1.Display>
 			<Selections.2.Display>Panen Akar Roh</Selections.2.Display>
@@ -11,14 +11,14 @@
 		</Text>
 		<Text Name="Story_LingZhiBeg">
 			<DisplayName>Petualangan di sini</DisplayName>
-			<Desc>[NAME]tiba di[PLACE]dan mengingat bahwa di sinilah Spirit Root tumbuh.</Desc>
+			<Desc>[NAME] tiba di [PLACE] dan mengingat bahwa di sinilah Spirit Root tumbuh.</Desc>
 			<Selections.0.Display>Cari Akar Roh</Selections.0.Display>
 			<Selections.1.Display>Berkeliaran</Selections.1.Display>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Jin">
 			<DisplayName>Berkultivasi di sini</DisplayName>
-			<Desc>[NAME]menemukan bahwa area tersebut penuh dengan Metal Qi dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
+			<Desc>[NAME] menemukan bahwa area tersebut penuh dengan Metal Qi dan orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Merenungkan</Selections.2.Display>
@@ -28,7 +28,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Mu">
 			<DisplayName>Berkultivasi di sini</DisplayName>
-			<Desc>[NAME]menemukan bahwa area tersebut penuh dengan Qi Kayu dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
+			<Desc>[NAME] menemukan bahwa area tersebut penuh dengan Qi Kayu dan orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Merenungkan</Selections.2.Display>
@@ -38,7 +38,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Shui">
 			<DisplayName>Berkultivasi di sini</DisplayName>
-			<Desc>[NAME]menemukan bahwa area tersebut penuh dengan Qi Air dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Berlatih.</Desc>
+			<Desc>[NAME] menemukan bahwa area tersebut penuh dengan Qi Air dan orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Merenungkan</Selections.2.Display>
@@ -48,7 +48,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Huo">
 			<DisplayName>Berkultivasi di sini</DisplayName>
-			<Desc>[NAME]menemukan bahwa area tersebut penuh dengan Qi Api dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
+			<Desc>[NAME] menemukan bahwa area tersebut penuh dengan Qi Api dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Merenungkan</Selections.2.Display>
@@ -58,7 +58,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Tu">
 			<DisplayName>Berkultivasi di sini</DisplayName>
-			<Desc>[NAME]menemukan bahwa area tersebut penuh dengan Qi Bumi dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
+			<Desc>[NAME] menemukan bahwa area tersebut penuh dengan Qi Bumi dan orang-orang jarang datang ke sini, sehingga menjadikannya tempat yang sangat baik untuk Latihan.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Merenungkan</Selections.2.Display>
@@ -68,72 +68,72 @@
 		</Text>
 		<Text Name="HighFind_Jin">
 			<DisplayName>Cari Harta Karun</DisplayName>
-			<Desc>[NAME]mendengar bahwa tempat ini diliputi kekuatan gaib dan menduga tempat ini pasti menyembunyikan semacam harta karun.</Desc>
+			<Desc>[NAME] mendengar bahwa tempat ini diliputi kekuatan gaib dan curiga bahwa tempat ini pasti menyembunyikan semacam harta karun.</Desc>
 			<Selections.0.Display>Cari Harta Karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari Harta Karun</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Cari Harta Karun</Selections.2.Display>
 			<Selections.3.Display>Cari Harta Karun</Selections.3.Display>
 			<Selections.4.Display>Cari Harta Karun</Selections.4.Display>
 			<Selections.5.Display>Cari Harta Karun</Selections.5.Display>
-			<Selections.5.Tip>Keberuntungan</Selections.5.Tip>
+			<Selections.5.Tip>Luck</Selections.5.Tip>
 			<Selections.6.Display>Berangkat</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Mu">
 			<DisplayName>Cari Harta Karun</DisplayName>
-			<Desc>[NAME]mendengar bahwa tempat ini diliputi kekuatan gaib dan menduga tempat ini pasti menyembunyikan semacam harta karun.</Desc>
+			<Desc>[NAME] mendengar bahwa tempat ini diliputi kekuatan gaib dan curiga bahwa tempat ini pasti menyembunyikan semacam harta karun.</Desc>
 			<Selections.0.Display>Cari Harta Karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari Harta Karun</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Cari Harta Karun</Selections.2.Display>
 			<Selections.3.Display>Cari Harta Karun</Selections.3.Display>
 			<Selections.4.Display>Cari Harta Karun</Selections.4.Display>
 			<Selections.5.Display>Cari Harta Karun</Selections.5.Display>
-			<Selections.5.Tip>Keberuntungan</Selections.5.Tip>
+			<Selections.5.Tip>Luck</Selections.5.Tip>
 			<Selections.6.Display>Berangkat</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Shui">
 			<DisplayName>Cari Harta Karun</DisplayName>
-			<Desc>[NAME]mendengar bahwa tempat ini diliputi kekuatan gaib dan menduga tempat ini pasti menyembunyikan semacam harta karun.</Desc>
+			<Desc>[NAME] mendengar bahwa tempat ini diliputi kekuatan gaib dan curiga bahwa tempat ini pasti menyembunyikan semacam harta karun.</Desc>
 			<Selections.0.Display>Cari Harta Karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari Harta Karun</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Cari Harta Karun</Selections.2.Display>
 			<Selections.3.Display>Cari Harta Karun</Selections.3.Display>
 			<Selections.4.Display>Cari Harta Karun</Selections.4.Display>
 			<Selections.5.Display>Cari Harta Karun</Selections.5.Display>
-			<Selections.5.Tip>Keberuntungan</Selections.5.Tip>
+			<Selections.5.Tip>Luck</Selections.5.Tip>
 			<Selections.6.Display>Berangkat</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Huo">
 			<DisplayName>Cari Harta Karun</DisplayName>
-			<Desc>[NAME]mendengar bahwa tempat ini diliputi kekuatan gaib dan menduga tempat ini pasti menyembunyikan semacam harta karun.</Desc>
+			<Desc>[NAME] mendengar bahwa tempat ini diliputi kekuatan gaib dan curiga bahwa tempat ini pasti menyembunyikan semacam harta karun.</Desc>
 			<Selections.0.Display>Cari Harta Karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari Harta Karun</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Cari Harta Karun</Selections.2.Display>
 			<Selections.3.Display>Cari Harta Karun</Selections.3.Display>
 			<Selections.4.Display>Cari Harta Karun</Selections.4.Display>
 			<Selections.5.Display>Cari Harta Karun</Selections.5.Display>
-			<Selections.5.Tip>Keberuntungan</Selections.5.Tip>
+			<Selections.5.Tip>Luck</Selections.5.Tip>
 			<Selections.6.Display>Berangkat</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Tu">
 			<DisplayName>Cari Harta Karun</DisplayName>
-			<Desc>[NAME]mendengar bahwa tempat ini diliputi kekuatan gaib dan menduga tempat ini pasti menyembunyikan semacam harta karun.</Desc>
+			<Desc>[NAME] mendengar bahwa tempat ini diliputi kekuatan gaib dan curiga bahwa tempat ini pasti menyembunyikan semacam harta karun.</Desc>
 			<Selections.0.Display>Cari Harta Karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari Harta Karun</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Cari Harta Karun</Selections.2.Display>
 			<Selections.3.Display>Cari Harta Karun</Selections.3.Display>
 			<Selections.4.Display>Cari Harta Karun</Selections.4.Display>
 			<Selections.5.Display>Cari Harta Karun</Selections.5.Display>
-			<Selections.5.Tip>Keberuntungan</Selections.5.Tip>
+			<Selections.5.Tip>Luck</Selections.5.Tip>
 			<Selections.6.Display>Berangkat</Selections.6.Display>
 		</Text>
 		<Text Name="Story_MuBai">
@@ -152,7 +152,7 @@
 			<DisplayName>Makam Tukang Pedang</DisplayName>
 			<Desc>Meski dijaga ketat, tempat ini menyimpan pedang kuno Kuil Teratai Biru. Jika seseorang bisa masuk, maka, dengan Keberuntungan, ada peluang untuk pergi dengan pedang.</Desc>
 			<Selections.0.Display>Cari pedang di Makam Bladesmith</Selections.0.Display>
-			<Selections.0.Tip>Bantuan Gunung Shu</Selections.0.Tip>
+			<Selections.0.Tip>Mt. Shu Favor</Selections.0.Tip>
 			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_YuJingTan">
@@ -187,7 +187,7 @@
 		</Text>
 		<Text Name="BaoZang_ChiLianYuan">
 			<DisplayName>Jelajahi Rahasia Istana Zamrud</DisplayName>
-			<Desc>[NAME]memasuki Gua Mansion menurut Hukum Rahasia. Menurut "Catatan Para Dewa", apa yang tersisa disembunyikan di tiga lokasi: Yang pertama adalah di Paviliun Takdir di Tempat Tinggal Abadi Istana Zamrud, yang kedua adalah di area Pembuatan Artefak di Aula Sepuluh Ribu Harta Karun, dan yang ketiga adalah di area meditasi terpencil di Scriptorium.</Desc>
+			<Desc>[NAME] memasuki Rumah Gua sesuai dengan Hukum Rahasia. Menurut "Catatan Para Dewa", apa yang tersisa disembunyikan di tiga lokasi: Yang pertama adalah di Paviliun Takdir di Tempat Tinggal Abadi Istana Zamrud, yang kedua adalah di area Pembuatan Artefak di Aula Sepuluh Ribu Harta Karun, dan yang ketiga adalah di area meditasi terpencil di Scriptorium.</Desc>
 			<Selections.0.Display>Masuki Paviliun Takdir</Selections.0.Display>
 			<Selections.1.Display>Masuki Aula Sepuluh Ribu Harta Karun</Selections.1.Display>
 			<Selections.2.Display>Masuk ke Skriptorium</Selections.2.Display>
@@ -195,13 +195,13 @@
 		</Text>
 		<Text Name="BaoZang_XuanKong">
 			<DisplayName>Tempat Tinggal Abadi Giok</DisplayName>
-			<Desc>[NAME]memasuki Jade Immortal Abode menggunakan panduan "Record of the Immortals" untuk melewati jebakan.</Desc>
+			<Desc>[NAME] memasuki Jade Immortal Abode menggunakan panduan "Record of the Immortals" untuk melewati jebakan.</Desc>
 			<Selections.0.Display>Cari Tempat Tinggal Abadi</Selections.0.Display>
 			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan">
 			<DisplayName>Gunung Biru</DisplayName>
-			<Desc>[NAME]datang ke Laut Selatan menurut panduan rahasia. Setelah mencari di area tersebut berkali-kali, setetes air akhirnya ditemukan di ombak yang tak terbatas.[NAME]menyentuhnya dan bisa masuk ke dalam air. Gunung abadi berwarna biru yang menjulang tinggi muncul di depan. Mengintip ke kejauhan, tampak seperti ada gubuk bambu di lereng gunung. Puncaknya diselimuti oleh awan hitam legam yang aneh, tempat petir menyambar.</Desc>
+			<Desc>[NAME] datang ke Laut Selatan sesuai dengan panduan rahasia. Setelah mencari di area tersebut berkali-kali, setetes air akhirnya ditemukan di ombak yang tak terbatas. [NAME] menyentuhnya dan bisa masuk ke dalam air. Gunung abadi berwarna biru yang menjulang tinggi muncul di depan. Mengintip ke kejauhan, tampak seperti ada gubuk bambu di lereng gunung. Puncaknya diselimuti oleh awan hitam legam yang aneh, tempat petir menyambar.</Desc>
 			<Selections.0.Display>Cari di Gunung</Selections.0.Display>
 			<Selections.1.Display>Lanjutkan ke pondok bambu di lereng gunung</Selections.1.Display>
 			<Selections.2.Display>Periksa puncaknya</Selections.2.Display>
@@ -209,13 +209,13 @@
 		</Text>
 		<Text Name="BaoZang_QingLianShan1">
 			<DisplayName>Array Aneh di Puncak Gunung</DisplayName>
-			<Desc>[NAME]baru saja mendekati puncak ketika ada gelombang tekanan yang menghanyutkan. Terjadi Kesengsaraan Surgawi di sekitar puncak Gunung Caerulea![NAME]melangkah dengan gagah berani ke puncak gunung dan menemukan bahwa suatu kekuatan telah meratakannya dan meninggalkan susunan di atasnya.</Desc>
+			<Desc>[NAME] baru saja mendekati puncak ketika ada gelombang tekanan yang melanda. Terjadi Kesengsaraan Surgawi di sekitar puncak Gunung Caerulea! [NAME] melangkah dengan gagah berani ke puncak gunung dan menemukan bahwa suatu kekuatan telah meratakannya dan meninggalkan susunan di atasnya.</Desc>
 			<Selections.0.Display>Periksa Arraynya</Selections.0.Display>
 			<Selections.1.Display>Kembali ke Pintu Masuk</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan2">
 			<DisplayName>Pondok di Tepi Gunung</DisplayName>
-			<Desc>[NAME]terkejut saat mengetahui bahwa gubuk itu ternyata sangat sederhana dengan hanya tempat tidur dan meja di dalamnya. Sepertinya tidak ada sesuatu yang luar biasa.[NAME]setelah pencarian cepat, sepertinya ada sesuatu yang bersinar di meja.</Desc>
+			<Desc>[NAME] terkejut saat mengetahui bahwa gubuk itu ternyata sangat sederhana dengan hanya sebuah tempat tidur dan sebuah meja di dalamnya. Sepertinya tidak ada sesuatu yang luar biasa. [NAME] setelah pencarian cepat, sepertinya ada sesuatu yang bersinar di meja.</Desc>
 			<Selections.0.Display>Periksa meja</Selections.0.Display>
 			<Selections.1.Display>Kembali ke Pintu Masuk</Selections.1.Display>
 		</Text>
@@ -226,26 +226,26 @@
 		</Text>
 		<Text Name="BaoZang_QingLianShan21">
 			<DisplayName>Diagram Array Misterius</DisplayName>
-			<Desc>[NAME]menemukan bahwa ada empat alur pada diagram yang tampaknya menjadi kunci di tengahnya. Hanya satu alur yang bersinar, tiga lainnya tidak aktif.</Desc>
+			<Desc>[NAME] menemukan bahwa ada empat alur pada diagram yang tampaknya menjadi kunci di tengahnya. Hanya satu alur yang bersinar, tiga lainnya tidak aktif.</Desc>
 			<Selections.0.Display>Suntikkan Sihir</Selections.0.Display>
 			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan3">
 			<DisplayName>Pemandangan Gunung</DisplayName>
-			<Desc>Mengikuti jalan menuju gunung,[NAME]menemukan bahwa Qi di sini lebih kaya daripada di tempat lain. Sungguh tak terbayangkan bahwa Surga Duniawi seperti ini bisa tersembunyi hanya dalam setetes air.</Desc>
+			<Desc>Mengikuti jalan menuju gunung, [NAME] menemukan bahwa Qi di sini lebih kaya dibandingkan di tempat lain. Sungguh tak terbayangkan bahwa Surga Duniawi seperti ini bisa tersembunyi hanya dalam setetes air.</Desc>
 			<Selections.0.Display>Tamasya</Selections.0.Display>
 			<Selections.1.Display>Kembali ke Pintu Masuk</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_DengXian">
 			<DisplayName>Jelajahi Reruntuhan</DisplayName>
-			<Desc>[NAME]telah mendengar bahwa Immortal Summit memiliki ajaran yang ditinggalkan oleh Kaisar Donghua sejak dahulu kala.[NAME]mencoba melihat apa yang bisa ditemukan.</Desc>
+			<Desc>[NAME] telah mendengar bahwa Immortal Summit memiliki ajaran yang ditinggalkan oleh Kaisar Donghua sejak lama. [NAME] mencoba melihat apa yang dapat ditemukan.</Desc>
 			<Selections.0.Display>Cari dengan Hati-hati</Selections.0.Display>
-			<Selections.0.Tip>Persepsi dan Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Perception and Luck</Selections.0.Tip>
 			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei">
 			<DisplayName>Gua Petir</DisplayName>
-			<Desc>Dikatakan bahwa Caerulea Abadi naik ke sini dan meninggalkan rahasia yang luar biasa.[NAME]mau tidak mau menjadi penasaran untuk melihat apa yang bisa terjadi.</Desc>
+			<Desc>Dikatakan bahwa Caerulea Abadi naik ke sini dan meninggalkan rahasia yang luar biasa. [NAME] mau tidak mau merasa penasaran untuk melihat apa yang mungkin terjadi.</Desc>
 			<Selections.0.Display>Lihatlah sekeliling</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei1">
@@ -256,34 +256,34 @@
 		</Text>
 		<Text Name="LingWu_DanXia">
 			<DisplayName>Matahari Terbenam Kerai</DisplayName>
-			<Desc>[NAME]terkejut dengan pemandangan megah di Sunshade Precipice.</Desc>
+			<Desc>[NAME] dikejutkan oleh pemandangan megah di Sunshade Precipice.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Kecerdasan dan Ideal</Selections.0.Tip>
+			<Selections.0.Tip>Intelligence and Ideal</Selections.0.Tip>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
-			<Selections.1.Tip>Kecerdasan dan Ideal</Selections.1.Tip>
+			<Selections.1.Tip>Intelligence and Ideal</Selections.1.Tip>
 			<Selections.2.Display>Nikmati Pemandangannya</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua1">
 			<DisplayName>Negeri Naga Tersembunyi</DisplayName>
-			<Desc>[NAME]berdiri di depan Kolam Wyvern dan mengingat bagaimana di zaman kuno kekuatan besar telah dikumpulkan di sini ketika naga dilepaskan di sini, dan tidak bisa hanya berdiam diri saja.</Desc>
+			<Desc>[NAME] berdiri di depan Kolam Wyvern dan mengingat bagaimana di zaman kuno kekuatan besar telah dikumpulkan di sini ketika naga dilepaskan di sini, dan tidak bisa hanya berdiam diri saja.</Desc>
 			<Selections.0.Display>Mendapatkan sesuatu</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Nikmati Pemandangannya</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
 			<DisplayName>Negeri Phoenix</DisplayName>
-			<Desc>[NAME]berdiri di depan Phoenixwood yang menjadi fosil di Phoenix Cliff, mendesah dengan emosi, dan sepertinya mendengar apa yang terdengar seperti panggilan burung phoenix.</Desc>
+			<Desc>[NAME] berdiri di depan Phoenixwood yang menjadi fosil di Phoenix Cliff, menghela napas penuh emosi, dan sepertinya mendengar apa yang terdengar seperti panggilan burung phoenix.</Desc>
 			<Selections.0.Display>Mendapatkan sesuatu</Selections.0.Display>
 			<Selections.1.Display>Merenungkan</Selections.1.Display>
 			<Selections.2.Display>Nikmati Pemandangannya</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
 			<DisplayName>Air Terjun Skypass</DisplayName>
-			<Desc>[NAME]tidak bisa berkata-kata oleh air putih yang mengalir di Air Terjun Skypass, kekuatannya bahkan melebihi kekuatan seorang kultivator yang memiliki inti emas.</Desc>
+			<Desc>[NAME] tidak bisa berkata-kata oleh air putih yang mengalir di Air Terjun Skypass, kekuatannya bahkan melebihi kekuatan seorang kultivator yang memiliki inti emas.</Desc>
 			<Selections.0.Display>Mendapatkan sesuatu</Selections.0.Display>
-			<Selections.0.Tip>Penguasaan Artefak</Selections.0.Tip>
+			<Selections.0.Tip>Artifact Mastery</Selections.0.Tip>
 			<Selections.1.Display>Mendapatkan sesuatu</Selections.1.Display>
-			<Selections.1.Tip>Rasa Qi</Selections.1.Tip>
+			<Selections.1.Tip>Qi Sense</Selections.1.Tip>
 			<Selections.2.Display>Nikmati Pemandangannya</Selections.2.Display>
 		</Text>
 		<Text Name="Story_TianJi">
@@ -291,13 +291,13 @@
 			<Desc>Sebuah gua biasa di dalam Gua Drake. Kelihatannya biasa saja, namun memancarkan aura aneh dan mistis, yang tidak dapat dirasakan kecuali seseorang yang mengetahui Gua Drake luar dan dalam. Tampaknya ada beberapa pola alami yang aneh di pintu masuk gua.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 			<Selections.1.Display>Renungkan di Dinding Batu</Selections.1.Display>
-			<Selections.1.Tip>Negara / Seniman / Intelijen</Selections.1.Tip>
+			<Selections.1.Tip>State / Artisanry / Intelligence</Selections.1.Tip>
 			<Selections.2.Display>Periksa Benih Keberuntungan</Selections.2.Display>
 			<Selections.3.Display>Berangkat</Selections.3.Display>
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
 			<DisplayName>Cari Keberuntungan</DisplayName>
-			<Desc>[NAME]pergi ke Medan Perang Clash of Immortals and Demons untuk mencari peluang keberuntungan.</Desc>
+			<Desc>[NAME] pergi ke Medan Perang Clash of Immortals and Demons untuk mencari peluang keberuntungan.</Desc>
 			<Selections.0.Display>Cari Keberuntungan</Selections.0.Display>
 			<Selections.1.Display>Berangkat</Selections.1.Display>
 		</Text>
