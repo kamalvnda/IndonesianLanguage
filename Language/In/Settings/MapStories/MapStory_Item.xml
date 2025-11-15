@@ -2,19 +2,19 @@
 	<List>
 		<Text Name="Story_BoxFind1">
 			<DisplayName>Cari di Kotak</DisplayName>
-			<Desc>[NAME]menemukan sebuah kotak tua yang berisi beberapa barang berguna di dalamnya.</Desc>
+			<Desc>[NAME] menemukan sebuah kotak tua yang berisi beberapa barang berguna.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind2">
 			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>[NAME]dengan hati-hati mencari mayatnya dan menemukan bahwa tidak ada apa pun selain senjata yang dapat digunakan.</Desc>
+			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan tidak menemukan apa pun selain senjata yang dapat digunakan.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind3">
 			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>    [NAME] carefully searched the corpse, a beam of light shot out of it and went straight into [NAME]'s brain. [NAME] was surprised to find that many more methods of cultivation have now appeared in memory. \n\n[color=#000000]"What on earth happened here? Where did these Laws come from? What exactly happened to this person before they died? " While pleasantly surprised, [/color]\n[NAME] couldn't help but ask questions. \n\nUnfortunately, these past events could not be cleared up...</Desc>
+			<Desc>[NAME] dengan hati-hati mencari mayat itu, seberkas cahaya keluar darinya dan langsung masuk ke otak [NAME] . [NAME] terkejut saat mengetahui bahwa lebih banyak lagi metode kultivasi kini muncul dalam ingatan. \n\n [color=#000000] "Apa yang sebenarnya terjadi di sini? Dari mana hukum ini berasal? Apa sebenarnya yang terjadi pada orang ini sebelum mereka meninggal?" Sambil terkejut, [/color] \n [NAME] mau tak mau bertanya. \n\nSayangnya, peristiwa masa lalu ini tidak dapat diselesaikan...</Desc>
 		</Text>
 		<Text Name="Story_BoxFind4">
 			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>[NAME]dengan hati-hati mencari mayatnya dan menemukan bahwa tidak ada apa pun selain senjata yang dapat digunakan.</Desc>
+			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan tidak menemukan apa pun selain senjata yang dapat digunakan.</Desc>
 		</Text>
 		<Text Name="Story_Item_StoneBox">
 			<DisplayName>Peti Batu</DisplayName>
@@ -23,7 +23,7 @@
 		</Text>
 		<Text Name="Story_Item_StoneBox1">
 			<DisplayName>Peti Batu</DisplayName>
-			<Desc>Ini adalah peti yang diturunkan oleh pemburu Zhang Erwa dari Desa Nanping dari mayat di kaki Gunung Bulan Purnama. Ada pedang panjang yang disilangkan dengan labu minuman keras di bagian luarnya, ini adalah tanda dari sesama murid di Sekte Taiyi.[NAME]ingat sesama murid dan bagaimana dia sebagai pribadi.</Desc>
+			<Desc>Ini adalah peti yang diturunkan oleh pemburu Zhang Erwa dari Desa Nanping dari mayat di kaki Gunung Bulan Purnama. Ada pedang panjang yang disilangkan dengan labu minuman keras di bagian luarnya, ini adalah tanda dari sesama murid di Sekte Taiyi. [NAME] mengingat rekan muridnya dan bagaimana dia sebagai pribadi.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox2">
@@ -79,7 +79,7 @@
 		</Text>
 		<Text Name="Story_Item_BossSoulItem">
 			<DisplayName>Inspirasi</DisplayName>
-			<Desc>[NAME]berusaha mendapatkan beberapa informasi berguna darinya.</Desc>
+			<Desc>[NAME] berusaha memperoleh beberapa informasi berguna darinya.</Desc>
 			<Selections.0.Display>Gunakan Roh Primordial</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
@@ -96,36 +96,36 @@
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin1">
 			<DisplayName>Menghancurkan</DisplayName>
-			<Desc>Meskipun[NAME]tidak punya cara untuk membedakan apa yang begitu berbahaya dari benda ini, tapi ketika mencoba untuk menghancurkannya tiba-tiba, rasa teror yang tak terkatakan muncul di lubuk perut...apa yang akan terjadi jika benda ini dihancurkan? Apakah Anda yakin ingin menghancurkannya? (Jika Anda mengonfirmasi, binatang purba akan dipanggil. Sekte Anda mungkin hancur total jika Anda tidak cukup siap. Harap pertimbangkan pilihan Anda dengan bijak)</Desc>
+			<Desc>Meskipun [NAME] tidak bisa membedakan apa yang berbahaya dari benda ini, namun ketika mencoba menghancurkannya tiba-tiba, perasaan teror yang tak terkatakan muncul di lubuk perutnya... apa yang akan terjadi jika benda ini dihancurkan? Apakah Anda yakin ingin menghancurkannya? (Jika Anda mengonfirmasi, binatang purba akan dipanggil. Sekte Anda mungkin hancur total jika Anda tidak cukup siap. Harap pertimbangkan pilihan Anda dengan bijak)</Desc>
 			<Selections.0.Display>Menghancurkan</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
 			<DisplayName>Menghancurkan</DisplayName>
-			<Desc>[NAME]menghancurkan item tersebut, tetapi tidak terjadi apa-apa.</Desc>
+			<Desc>[NAME] menghancurkan benda tersebut, namun tidak terjadi apa-apa.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Eat_StrangeMush">
 			<DisplayName>Selamat mencoba</DisplayName>
-			<Desc>[NAME]mencicipi jamur aneh itu dengan rasa ingin tahu.</Desc>
+			<Desc>[NAME] mencicipi jamur aneh itu dengan rasa ingin tahu.</Desc>
 			<Selections.0.Display>Makanlah meskipun ada risikonya</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
 			<DisplayName>Inspirasi</DisplayName>
-			<Desc>[NAME]mencoba bermeditasi pada Diagram Formasi.</Desc>
+			<Desc>[NAME] mencoba bermeditasi pada Diagram Formasi.</Desc>
 			<Selections.0.Display>Renungkan Diagram Formasi</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu">
 			<DisplayName>Periksa item ini</DisplayName>
-			<Desc>[NAME]mencoba memeriksa item ini.</Desc>
+			<Desc>[NAME] mencoba memeriksa item ini.</Desc>
 			<Selections.0.Display>Periksa item ini</Selections.0.Display>
 			<Selections.1.Display>Membuka segel</Selections.1.Display>
 			<Selections.2.Display>Menyerah</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
 			<DisplayName>Periksa item ini</DisplayName>
-			<Desc>[NAME]Merasa segel benda ini sangat familiar, sepertinya pernah melihatnya sebelumnya.</Desc>
+			<Desc>[NAME] merasa segel dari benda ini sangat familiar, sepertinya dia pernah menemukannya sebelumnya.</Desc>
 			<Selections.0.Display>Periksa dengan cermat</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu2">
@@ -145,32 +145,32 @@
 		</Text>
 		<Text Name="Story_Item_God_Guard">
 			<DisplayName>Menyaring</DisplayName>
-			<Desc>[NAME]mencoba menyempurnakan item ini.</Desc>
+			<Desc>[NAME] berusaha menyempurnakan item ini.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_2">
 			<DisplayName>Membuka segel</DisplayName>
-			<Desc>[NAME]mencoba membuka segel item ini.</Desc>
+			<Desc>[NAME] mencoba membuka segel item ini.</Desc>
 			<Selections.0.Display>Membuka segel</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Gong12">
 			<DisplayName>Periksa gulir</DisplayName>
-			<Desc>[NAME]mempelajari gulungan itu dengan cermat.</Desc>
+			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_2">
 			<DisplayName>Periksa gulir</DisplayName>
-			<Desc>[NAME]mempelajari gulungan itu dengan cermat.</Desc>
+			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_5">
 			<DisplayName>Periksa gulir</DisplayName>
-			<Desc>[NAME]mempelajari gulungan itu dengan cermat.</Desc>
+			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_GongAll">
 			<DisplayName>Periksa Koleksi</DisplayName>
-			<Desc>[NAME]mempelajari Koleksi.</Desc>
+			<Desc>[NAME] mempelajari Koleksi tersebut.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_SpringBox">
