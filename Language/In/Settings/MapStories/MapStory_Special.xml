@@ -2,171 +2,171 @@
 	<List>
 		<Text Name="Secrets_BadFight1">
 			<DisplayName>Jejak Sekte Jahat</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte jahat di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte jahat di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
-			<Selections.0.Tip>Pembentukan Qi</Selections.0.Tip>
+			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
 			<Selections.1.Display>Hentikan mereka</Selections.1.Display>
-			<Selections.1.Tip>Pembentukan Qi</Selections.1.Tip>
+			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_BadFight2">
 			<DisplayName>Jejak Sekte Jahat</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte jahat di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte jahat di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
-			<Selections.0.Tip>Pembentukan Inti</Selections.0.Tip>
+			<Selections.0.Tip>Core Shaping</Selections.0.Tip>
 			<Selections.1.Display>Hentikan mereka</Selections.1.Display>
-			<Selections.1.Tip>Pembentukan Inti</Selections.1.Tip>
+			<Selections.1.Tip>Core Shaping</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_BadFight3">
 			<DisplayName>Jejak Sekte Jahat</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa tetua dari sekte jahat di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa tetua dari sekte jahat di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Hentikan mereka</Selections.1.Display>
-			<Selections.1.Tip>Inti Emas</Selections.1.Tip>
+			<Selections.1.Tip>Golden Core</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight1">
 			<DisplayName>Jejak Sekte Adil</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte adil di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte adil di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
 			<Selections.1.Display>Serangan Menyelinap</Selections.1.Display>
-			<Selections.1.Tip>Pembentukan Qi</Selections.1.Tip>
+			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight2">
 			<DisplayName>Jejak Sekte Adil</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte adil di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa murid dari sekte adil di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
 			<Selections.1.Display>Serangan Menyelinap</Selections.1.Display>
-			<Selections.1.Tip>Pembentukan Inti</Selections.1.Tip>
+			<Selections.1.Tip>Core Shaping</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight3">
 			<DisplayName>Jejak Sekte Adil</DisplayName>
-			<Desc>[NAME]menemukan jejak aktivitas yang ditinggalkan oleh beberapa tetua dari sekte adil di dekatnya[PLACE].</Desc>
+			<Desc>[NAME] menemukan jejak aktivitas yang ditinggalkan oleh beberapa tetua dari sekte adil di dekatnya [PLACE] .</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
 			<Selections.1.Display>Serangan Menyelinap</Selections.1.Display>
-			<Selections.1.Tip>Inti Emas</Selections.1.Tip>
+			<Selections.1.Tip>Golden Core</Selections.1.Tip>
 			<Selections.2.Display>Mengabaikan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear1">
 			<DisplayName>Harta Karun Digali</DisplayName>
-			<Desc>[NAME]menemukan harta karun yang akan digali[PLACE].</Desc>
+			<Desc>[NAME] menemukan harta karun yang akan digali [PLACE] .</Desc>
 			<Selections.0.Display>Berjuang untuk itu</Selections.0.Display>
-			<Selections.0.Tip>Pembentukan Qi</Selections.0.Tip>
+			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear2">
 			<DisplayName>Harta Karun Digali</DisplayName>
-			<Desc>[NAME]menemukan harta karun yang akan digali[PLACE].</Desc>
+			<Desc>[NAME] menemukan harta karun yang akan digali [PLACE] .</Desc>
 			<Selections.0.Display>Berjuang untuk itu</Selections.0.Display>
-			<Selections.0.Tip>Pembentukan Inti</Selections.0.Tip>
+			<Selections.0.Tip>Core Shaping</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3">
 			<DisplayName>Harta Karun Digali</DisplayName>
-			<Desc>[NAME]menemukan harta karun yang akan digali[PLACE].</Desc>
+			<Desc>[NAME] menemukan harta karun yang akan digali [PLACE] .</Desc>
 			<Selections.0.Display>Berjuang untuk itu</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3_Cold">
 			<DisplayName>Harta Karun Digali</DisplayName>
-			<Desc>[NAME]menemukan harta karun yang akan digali[PLACE]. Karena segelnya rusak, tanah di sekitar lokasi tersebut diselimuti es. Seseorang bahkan tidak bisa mendekatinya tanpa Budidaya yang mendalam.</Desc>
+			<Desc>[NAME] menemukan harta karun yang akan digali [PLACE] . Karena segelnya rusak, tanah di sekitar lokasi tersebut diselimuti es. Seseorang bahkan tidak bisa mendekatinya tanpa Budidaya yang mendalam.</Desc>
 			<Selections.0.Display>Berjuang untuk itu</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3_Hot">
 			<DisplayName>Harta Karun Digali</DisplayName>
-			<Desc>[NAME]menemukan harta karun yang akan digali[PLACE]. Karena segelnya rusak, tanah di sekitar situs tersebut dikelilingi oleh api neraka. Seseorang bahkan tidak bisa mendekatinya tanpa Budidaya yang mendalam.</Desc>
+			<Desc>[NAME] menemukan harta karun yang akan digali [PLACE] . Karena segelnya rusak, tanah di sekitar situs tersebut dikelilingi oleh api neraka. Seseorang bahkan tidak bisa mendekatinya tanpa Budidaya yang mendalam.</Desc>
 			<Selections.0.Display>Berjuang untuk itu</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear">
 			<DisplayName>Tempat Tinggal Abadi</DisplayName>
-			<Desc>[NAME]menemukan tempat tinggal kuno yang abadi di dalamnya[PLACE], dengan segudang harta terpendam di dalamnya.</Desc>
+			<Desc>[NAME] menemukan tempat tinggal kuno yang abadi di dalamnya [PLACE] , dengan segudang harta terpendam di dalamnya.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Cold">
 			<DisplayName>Tempat Tinggal Abadi</DisplayName>
-			<Desc>[NAME]menemukan tempat tinggal kuno yang abadi di dalamnya[PLACE], dengan segudang harta terpendam di dalamnya. Namun, gua tersebut dilindungi oleh mantra penangkal dan bagian dalamnya diselimuti rasa dingin, membunuh siapa pun yang tidak memiliki perlawanan terhadapnya.</Desc>
+			<Desc>[NAME] menemukan tempat tinggal kuno yang abadi di dalamnya [PLACE] , dengan segudang harta terpendam di dalamnya. Namun, gua tersebut dilindungi oleh mantra penangkal dan bagian dalamnya diselimuti rasa dingin, membunuh siapa pun yang tidak memiliki perlawanan terhadapnya.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Hot">
 			<DisplayName>Tempat Tinggal Abadi</DisplayName>
-			<Desc>[NAME]menemukan tempat tinggal kuno yang abadi di dalamnya[PLACE], dengan segudang harta terpendam di dalamnya. Namun, gua tersebut dilindungi oleh mantra penangkal dan bagian dalamnya terbakar dengan api, membunuh siapa saja yang tidak memiliki perlawanan terhadapnya.</Desc>
+			<Desc>[NAME] menemukan tempat tinggal kuno yang abadi di dalamnya [PLACE] , dengan segudang harta terpendam di dalamnya. Namun, gua tersebut dilindungi oleh mantra penangkal dan bagian dalamnya terbakar dengan api, membunuh siapa saja yang tidak memiliki perlawanan terhadapnya.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Manual">
 			<DisplayName>Tempat Tinggal Abadi</DisplayName>
-			<Desc>[NAME]menemukan tempat tinggal kuno yang abadi di dalamnya[PLACE], dengan segudang harta terpendam di dalamnya. Pemilik gua adalah ahli Pembuatan Artefak, yang memasang jebakan dan mantra penangkal yang tak terhitung jumlahnya dengan keterampilan ini. Seseorang tidak dapat bertahan hidup dan menjelajahi gua tanpa mahir dalam Pembuatan Artefak.</Desc>
+			<Desc>[NAME] menemukan tempat tinggal kuno yang abadi di dalamnya [PLACE] , dengan segudang harta terpendam di dalamnya. Pemilik gua adalah ahli Pembuatan Artefak, yang memasang jebakan dan mantra penangkal yang tak terhitung jumlahnya dengan keterampilan ini. Seseorang tidak dapat bertahan hidup dan menjelajahi gua tanpa mahir dalam Pembuatan Artefak.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Kerajinan Artefak</Selections.0.Tip>
+			<Selections.0.Tip>Artifact Crafting</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Medicine">
 			<DisplayName>Tempat Tinggal Abadi</DisplayName>
-			<Desc>[NAME]menemukan tempat tinggal kuno yang abadi di dalamnya[PLACE], dengan segudang harta terpendam di dalamnya. Pemilik gua adalah seorang ahli Alkemis, yang memasang jebakan dan mantra penangkal yang tak terhitung jumlahnya dengan keterampilan ini. Seseorang tidak dapat bertahan hidup dan menjelajahi gua tanpa mahir dalam Alkimia.</Desc>
+			<Desc>[NAME] menemukan tempat tinggal kuno yang abadi di dalamnya [PLACE] , dengan segudang harta terpendam di dalamnya. Pemilik gua adalah seorang ahli Alkemis, yang memasang jebakan dan mantra penangkal yang tak terhitung jumlahnya dengan keterampilan ini. Seseorang tidak dapat bertahan hidup dan menjelajahi gua tanpa mahir dalam Alkimia.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Alkimia</Selections.0.Tip>
+			<Selections.0.Tip>Alchemy</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Esoterica1">
 			<DisplayName>Jejak Buku Kuno</DisplayName>
-			<Desc>Setelah tiba di[PLACE], [NAME]menemukan bahwa sejumlah besar penggarap telah datang ke sini untuk mencari buku kuno.</Desc>
+			<Desc>Setelah tiba di [PLACE] , [NAME] menemukan bahwa sejumlah besar petani telah datang ke sini untuk mencari buku kuno tersebut.</Desc>
 			<Selections.0.Display>Temukan lokasi buku itu</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Cari di sekitar</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Esoterica2">
 			<DisplayName>Panduan Penggalian</DisplayName>
-			<Desc>Setelah tiba di[PLACE], [NAME]menemukan bahwa penggarap lain yang mencari manual telah terlibat dalam pertarungan yang rumit.</Desc>
+			<Desc>Setelah tiba di [PLACE] , [NAME] menemukan bahwa kultivator lain yang mencari manual tersebut telah terlibat dalam perkelahian yang rumit.</Desc>
 			<Selections.0.Display>Ambillah dengan paksa</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Tunggu waktumu</Selections.1.Display>
-			<Selections.1.Tip>Keberuntungan</Selections.1.Tip>
+			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_Magic">
 			<DisplayName>Mewujudkan Keajaiban</DisplayName>
-			<Desc>Setelah tiba di[PLACE], [NAME]menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali.</Desc>
+			<Desc>Setelah tiba di [PLACE] , [NAME] menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Intelijen</Selections.0.Tip>
+			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Magic_Cold">
 			<DisplayName>Mewujudkan Keajaiban</DisplayName>
-			<Desc>Setelah tiba di[PLACE], [NAME]menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali. Namun, karena campur tangan mekanisme energi Qi antara langit dan bumi, tanah di sekitar lokasi yang digali telah diselimuti oleh embun beku.</Desc>
+			<Desc>Setelah tiba di [PLACE] , [NAME] menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali. Namun, karena campur tangan mekanisme energi Qi antara langit dan bumi, tanah di sekitar lokasi yang digali telah diselimuti oleh embun beku.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Intelijen</Selections.0.Tip>
+			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Magic_Hot">
 			<DisplayName>Mewujudkan Keajaiban</DisplayName>
-			<Desc>Setelah tiba di[PLACE], [NAME]menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali. Namun, karena adanya campur tangan mekanisme energi Qi antara langit dan bumi, tanah di sekitar lokasi yang digali telah dikelilingi oleh api neraka.</Desc>
+			<Desc>Setelah tiba di [PLACE] , [NAME] menemukan bahwa sejumlah besar pembudidaya telah berkumpul di sekitar Ukiran Batu Tebing Naga yang baru digali. Namun, karena adanya campur tangan mekanisme energi Qi antara langit dan bumi, tanah di sekitar lokasi yang digali telah dikelilingi oleh api neraka.</Desc>
 			<Selections.0.Display>Merenungkan</Selections.0.Display>
-			<Selections.0.Tip>Intelijen</Selections.0.Tip>
+			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Pergi dengan frustrasi</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Baozang_EX1">
 			<DisplayName>Lembah Cacing</DisplayName>
-			<Desc>Menurut The Windtamer's Travels: Volume VI, Hukum Perselisihan menuju keabadian ditemukan oleh Master Leluhur Hunyuan, dan menginspirasi kekaguman di seluruh dunia. Kultivator diserang oleh enam sekte jahat di Wormwrought Valley of Wild South pada tahun-tahun berikutnya, dan harta paling berharga yang dia bawa hilang di lembah. Menindaklanjuti petunjuk ini,[NAME]tiba di Wormwrought Valley dengan harapan menemukan sesuatu.</Desc>
+			<Desc>Menurut The Windtamer's Travels: Volume VI, Hukum Perselisihan menuju keabadian ditemukan oleh Master Leluhur Hunyuan, dan menginspirasi kekaguman di seluruh dunia. Kultivator diserang oleh enam sekte jahat di Wormwrought Valley of Wild South pada tahun-tahun berikutnya, dan harta paling berharga yang dia bawa hilang di lembah. Menindaklanjuti petunjuk ini, [NAME] tiba di Wormwrought Valley dengan harapan menemukan sesuatu.</Desc>
 			<Selections.0.Display>Mencari</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
@@ -178,21 +178,21 @@
 		</Text>
 		<Text Name="Secrets_Baozang_EX3">
 			<DisplayName>Istana Surgawi</DisplayName>
-			<Desc>[NAME]ingat bahwa, menurut The Windtamer's Travels: Volume I, ada satu lagi gua dalam misterius di bawah Remains of Immortal Doctor's Cave di Alchemist's Peak. Mereka memutuskan untuk menyelidiki misterinya.</Desc>
+			<Desc>[NAME] ingat bahwa, menurut The Windtamer's Travels: Volume I, ada satu lagi gua dalam misterius di bawah Remains of Immortal Doctor's Cave di Alchemist's Peak. Mereka memutuskan untuk menyelidiki misterinya.</Desc>
 			<Selections.0.Display>Mengeksplorasi</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Baozang_EX4">
 			<DisplayName>Gua Api</DisplayName>
-			<Desc>[NAME]mengingat bahwa, menurut Catatan Rahasia Tao: The Great Desert Chronicles, gurun terbentuk karena meteorit yang jatuh dari langit pada periode Archaean kuno. Lokasi pendaratan Aerolite dikenal sebagai Blazenest di generasi selanjutnya. Mungkin sesuatu yang aneh bisa ditemukan di kedalaman gua neraka. Tempat ini layak untuk dilihat lebih dekat.</Desc>
+			<Desc>[NAME] mengingat bahwa, menurut Catatan Rahasia Tao: The Great Desert Chronicles, gurun terbentuk karena meteorit yang jatuh dari langit pada periode Archaean kuno. Lokasi pendaratan Aerolite dikenal sebagai Blazenest di generasi selanjutnya. Mungkin sesuatu yang aneh bisa ditemukan di kedalaman gua neraka. Tempat ini layak untuk dilihat lebih dekat.</Desc>
 			<Selections.0.Display>Mengeksplorasi</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Baozang_EX5">
 			<DisplayName>Harta Karun Malaikat</DisplayName>
-			<Desc>Menurut Catatan Tambahan: Buku I III, di bawah Kolam Surgawi Gunung Nelumbo terdapat sebuah bangunan yang dulunya digunakan oleh Petani Ilahi sebagai tempat pengasingan.[NAME]memutuskan untuk menyelidiki misteri itu.</Desc>
+			<Desc>Menurut Catatan Tambahan: Buku I III, di bawah Kolam Surgawi Gunung Nelumbo terdapat sebuah bangunan yang dulunya digunakan oleh Petani Ilahi sebagai tempat pengasingan. [NAME] memutuskan untuk menyelidiki misteri tersebut.</Desc>
 			<Selections.0.Display>Mengeksplorasi</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan dan Kecerdasan</Selections.0.Tip>
+			<Selections.0.Tip>Luck and Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Baozang_EX6">
@@ -203,7 +203,7 @@
 		</Text>
 		<Text Name="Secrets_DongFuAppearEX">
 			<DisplayName>Reruntuhan Taiyi</DisplayName>
-			<Desc>Tidak ada jejak musuh, jadi[NAME]dengan hati-hati memasuki reruntuhan Sekte Taiyi.</Desc>
+			<Desc>Tidak ada jejak musuh, jadi [NAME] dengan hati-hati memasuki reruntuhan Sekte Taiyi.</Desc>
 			<Selections.0.Display>Paviliun Manual</Selections.0.Display>
 			<Selections.1.Display>Perasaan</Selections.1.Display>
 			<Selections.2.Display>Cari di mana-mana</Selections.2.Display>
@@ -211,18 +211,18 @@
 		</Text>
 		<Text Name="Secrets_DongFuAppearEX_FIX">
 			<DisplayName>Sebelumnya di Kembali ke Taiyi</DisplayName>
-			<Desc>    As the DLC Mortals and Immortals is added, there is a new plot system. Here is a brief of this system. \nSeveral months after the fall of the sect, you learned the teachings of theFive Peaks of the Taiyi Sect while returning the now ruined sect. However, while investigating, a mysterious figure dropped out of the sky. At first glance, it looks like Elder Yue Qingchou of Evenfall Abode! It's unusual for her to be here, she must know something. \nDue to the quest time limit, old save files of more than 700 days of in-game time will inevitably miss important clues, thus not being able to experience all of the main quests. We're sorry about this.</Desc>
+			<Desc>Saat DLC Mortals and Immortals ditambahkan, ada sistem plot baru. Berikut adalah penjelasan singkat tentang sistem ini. \nBeberapa bulan setelah jatuhnya sekte tersebut, Anda mempelajari ajaran Lima Puncak Sekte Taiyi sambil mengembalikan sekte yang sekarang hancur. Namun, saat menyelidiki, sesosok misterius jatuh dari langit. Pada pandangan pertama, sepertinya Penatua Yue Qingchou dari Evenfall Abode! Tidak biasa dia ada di sini, dia pasti tahu sesuatu. \nKarena batas waktu misi, file simpanan lama yang lebih dari 700 hari waktu dalam game pasti akan kehilangan petunjuk penting, sehingga tidak dapat menjalani semua misi utama. Kami mohon maaf mengenai hal ini.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_NanPing1">
 			<DisplayName>Peti Batu</DisplayName>
-			<Desc>[NAME]tiba di Desa Nanping dan mengetahui tentang tempat tinggal Zhang Erwa dari beberapa penduduk desa.</Desc>
+			<Desc>[NAME] tiba di Desa Nanping dan mengetahui tentang tempat tinggal Zhang Erwa dari beberapa penduduk desa.</Desc>
 			<Selections.0.Display>Minta Peti Matinya</Selections.0.Display>
-			<Selections.0.Tip>Karisma</Selections.0.Tip>
+			<Selections.0.Tip>Charisma</Selections.0.Tip>
 		</Text>
 		<Text Name="Secrets_XianJianLing1">
 			<DisplayName>Ordo Paladin</DisplayName>
-			<Desc>[NAME]datang ke Gunung Shu untuk penerbitan Ordo Paladin.</Desc>
+			<Desc>[NAME] datang ke Gunung Shu untuk penerbitan Ordo Paladin.</Desc>
 			<Selections.0.Display>Tanyakan detailnya</Selections.0.Display>
 			<Selections.1.Display>Beritahu Gunung Shu</Selections.1.Display>
 			<Selections.2.Display>Sembunyikan kebenarannya</Selections.2.Display>
@@ -231,13 +231,13 @@
 		</Text>
 		<Text Name="Secrets_XianJianLing2">
 			<DisplayName>Jejak Kultus Setan</DisplayName>
-			<Desc>Setelah mengejar kultus Seribu Jiwa sampai ke perbatasan,[NAME]akhirnya berhasil menyusul buronan yang sudah kelelahan karena pelarian ribuan mil. Mereka memohon untuk hidup mereka, dan menawarkan untuk membiarkannya[NAME]mempelajari rahasia Hukum Budidaya Sekte Seribu Jiwa.</Desc>
+			<Desc>Setelah mengejar pemuja Seribu Jiwa sampai ke perbatasan, [NAME] akhirnya berhasil menyusul buronan tersebut, yang sudah kelelahan karena melarikan diri sejauh ribuan mil. Mereka memohon agar mereka tetap hidup, dan menawarkan agar [NAME] mengetahui rahasia Hukum Budidaya Sekte Seribu Jiwa.</Desc>
 			<Selections.0.Display>Biarkan mereka pergi</Selections.0.Display>
 			<Selections.1.Display>Bunuh mereka demi keadilan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_KunLunFaHui">
 			<DisplayName>Kompetisi Kunlun</DisplayName>
-			<Desc>[NAME]tiba di Pegunungan Kunlun, dan menemukan bahwa Kompetisi Kunlun telah dimulai. Penggarap dan makhluk abadi berkumpul bersama, menunjukkan keagungan dalam segala keragamannya. Hanya mereka yang telah mencapai kondisi budidaya inti emas atau lebih tinggi yang dapat berpartisipasi dalam salah satu dari lima kompetisi, dan pemenangnya dapat mengikuti salah satu Hukum budidaya Istana Jade Void.[NAME]bertanya-tanya kompetisi mana yang akan diadakan[ENHIM]mengambil bagian dalam.</Desc>
+			<Desc>[NAME] tiba di Pegunungan Kunlun dan menemukan bahwa Kompetisi Kunlun telah dimulai. Penggarap dan makhluk abadi berkumpul bersama, menunjukkan keagungan dalam segala keragamannya. Hanya mereka yang telah mencapai kondisi budidaya inti emas atau lebih tinggi yang dapat berpartisipasi dalam salah satu dari lima kompetisi, dan pemenangnya dapat mengikuti salah satu Hukum budidaya Istana Jade Void. [NAME] bertanya-tanya kompetisi mana yang akan diikuti [ENHIM] mengambil bagian dalam.</Desc>
 			<Selections.0.Display>Debat Kunlun</Selections.0.Display>
 			<Selections.1.Display>Lomba Kerajinan</Selections.1.Display>
 			<Selections.2.Display>Kontes Alkimia</Selections.2.Display>
@@ -247,166 +247,166 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui1">
 			<DisplayName>Debat Kunlun</DisplayName>
-			<Desc>[NAME]tiba di puncak utama Pegunungan Kunlun. Di sinilah tempat utama berada, dan para penggarap terkenal akan mengadakan debat panas di sini. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Keabadian Kemurnian Giok yang asli.</Desc>
+			<Desc>[NAME] tiba di puncak utama Pegunungan Kunlun. Di sinilah tempat utama berada, dan para penggarap terkenal akan mengadakan debat panas di sini. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Keabadian Kemurnian Giok yang asli.</Desc>
 			<Selections.0.Display>Bergabunglah dalam debat</Selections.0.Display>
-			<Selections.0.Tip>Intelijen / Keberuntungan / Negara</Selections.0.Tip>
+			<Selections.0.Tip>Intelligence / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Bergabunglah dalam debat</Selections.1.Display>
-			<Selections.1.Tip>Intelijen / Keberuntungan / Negara</Selections.1.Tip>
+			<Selections.1.Tip>Intelligence / Luck / State</Selections.1.Tip>
 			<Selections.2.Display>Perhatikan dan pelajari</Selections.2.Display>
-			<Selections.2.Tip>Kecerdasan / Keberuntungan</Selections.2.Tip>
+			<Selections.2.Tip>Intelligence / Luck</Selections.2.Tip>
 			<Selections.3.Display>Kembali ke Pintu Masuk</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_KunLunFaHui2">
 			<DisplayName>Lomba Kerajinan</DisplayName>
-			<Desc>[NAME]tiba di Gua Drakonik di pegunungan Kunlun. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk membuat Artefak terbaik. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Artefak Segudang yang asli.</Desc>
+			<Desc>[NAME] tiba di Gua Drakonik di pegunungan Kunlun. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk membuat Artefak terbaik. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Artefak Segudang yang asli.</Desc>
 			<Selections.0.Display>Berpartisipasilah dalam kontes</Selections.0.Display>
-			<Selections.0.Tip>Kerajinan Artefak / Keberuntungan / Keadaan</Selections.0.Tip>
+			<Selections.0.Tip>Artifact Crafting / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Berpartisipasilah dalam kontes</Selections.1.Display>
-			<Selections.1.Tip>Kerajinan Artefak / Keberuntungan / Keadaan</Selections.1.Tip>
+			<Selections.1.Tip>Artifact Crafting / Luck / State</Selections.1.Tip>
 			<Selections.2.Display>Perhatikan dan pelajari</Selections.2.Display>
-			<Selections.2.Tip>Kecerdasan / Keberuntungan</Selections.2.Tip>
+			<Selections.2.Tip>Intelligence / Luck</Selections.2.Tip>
 			<Selections.3.Display>Tinggalkan perdebatan</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_KunLunFaHui3">
 			<DisplayName>Kontes Alkimia</DisplayName>
-			<Desc>[NAME]tiba di Kolam Giok di pegunungan Kunlun. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk mengumpulkan bahan mistik dan membuat Ramuan terbaik dari semuanya. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Alkimia Primordial yang asli.</Desc>
+			<Desc>[NAME] tiba di Kolam Giok di pegunungan Kunlun. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk mengumpulkan bahan mistik dan membuat Ramuan terbaik dari semuanya. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Alkimia Primordial yang asli.</Desc>
 			<Selections.0.Display>Berpartisipasilah dalam kontes</Selections.0.Display>
-			<Selections.0.Tip>Alkimia / Keberuntungan / Keadaan</Selections.0.Tip>
+			<Selections.0.Tip>Alchemy / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Berpartisipasilah dalam kontes</Selections.1.Display>
-			<Selections.1.Tip>Alkimia / Keberuntungan / Keadaan</Selections.1.Tip>
+			<Selections.1.Tip>Alchemy / Luck / State</Selections.1.Tip>
 			<Selections.2.Display>Perhatikan dan pelajari</Selections.2.Display>
-			<Selections.2.Tip>Kecerdasan / Keberuntungan</Selections.2.Tip>
+			<Selections.2.Tip>Intelligence / Luck</Selections.2.Tip>
 			<Selections.3.Display>Kembali ke Pintu Masuk</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_KunLunFaHui4">
 			<DisplayName>Duel Pedang</DisplayName>
-			<Desc>[NAME]tiba di puncak Pagoda Ruby. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk muncul sebagai pemenang sebagai pendekar pedang terkuat dari semuanya. Sesuai dengan latihan sebelumnya, pemenang dapat diberikan Pedang Tujuh Pembantaian yang asli.</Desc>
+			<Desc>[NAME] tiba di puncak Pagoda Ruby. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk muncul sebagai pemenang sebagai pendekar pedang terkuat dari semuanya. Sesuai dengan latihan sebelumnya, pemenang dapat diberikan Pedang Tujuh Pembantaian yang asli.</Desc>
 			<Selections.0.Display>Berpartisipasi dalam duel</Selections.0.Display>
-			<Selections.0.Tip>Penguasaan Artefak / Keberuntungan / Keadaan</Selections.0.Tip>
+			<Selections.0.Tip>Artifact Mastery / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Berpartisipasi dalam duel</Selections.1.Display>
-			<Selections.1.Tip>Penguasaan Artefak / Keberuntungan / Keadaan</Selections.1.Tip>
+			<Selections.1.Tip>Artifact Mastery / Luck / State</Selections.1.Tip>
 			<Selections.2.Display>Perhatikan dan pelajari</Selections.2.Display>
-			<Selections.2.Tip>Kecerdasan / Keberuntungan</Selections.2.Tip>
+			<Selections.2.Tip>Intelligence / Luck</Selections.2.Tip>
 			<Selections.3.Display>Kembali ke Pintu Masuk</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_KunLunFaHui5">
 			<DisplayName>Duel Ajaib</DisplayName>
-			<Desc>[NAME]tiba di Reruntuhan Kekosongan. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk muncul sebagai pemenang sebagai pengguna sihir terkuat. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Pemutusan Emosi yang asli.</Desc>
+			<Desc>[NAME] tiba di Reruntuhan Kekosongan. Para pembudidaya terkenal masing-masing akan menunjukkan kehebatan khusus mereka untuk muncul sebagai pemenang sebagai pengguna sihir terkuat. Sesuai dengan praktik sebelumnya, pemenang dapat mengikuti Hukum Pemutusan Emosi yang asli.</Desc>
 			<Selections.0.Display>Berpartisipasi dalam duel</Selections.0.Display>
-			<Selections.0.Tip>Mantra / Keberuntungan / Keadaan</Selections.0.Tip>
+			<Selections.0.Tip>Spell / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Berpartisipasi dalam duel</Selections.1.Display>
-			<Selections.1.Tip>Mantra / Keberuntungan / Keadaan</Selections.1.Tip>
+			<Selections.1.Tip>Spell / Luck / State</Selections.1.Tip>
 			<Selections.2.Display>Perhatikan dan pelajari</Selections.2.Display>
-			<Selections.2.Tip>Kecerdasan / Keberuntungan</Selections.2.Tip>
+			<Selections.2.Tip>Intelligence / Luck</Selections.2.Tip>
 			<Selections.3.Display>Kembali ke Pintu Masuk</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_GuangShouMenTu">
 			<DisplayName>Pameran Takdir Abadi</DisplayName>
-			<Desc>Pameran Besar Takdir Abadi yang diadakan setiap tahun di dunia budidaya kini telah dimulai. Semua sekte besar telah bergabung dalam acara tersebut di[PLACE]untuk merekrut murid baru yang berpotensi. Untuk sementara waktu, semua orang berbakat di dunia yang bercita-cita mencari jalan keabadian telah berkumpul di sini. Atas perintah sekte mereka,[NAME]datang ke pertemuan tersebut untuk merekrut murid baru dengan takdir abadi.</Desc>
+			<Desc>Pameran Besar Takdir Abadi yang diadakan setiap tahun di dunia budidaya kini telah dimulai. Semua sekte besar telah bergabung dalam acara tersebut di [PLACE] untuk merekrut murid baru yang berpotensi. Untuk sementara waktu, semua orang berbakat di dunia yang bercita-cita mencari jalan keabadian telah berkumpul di sini. Atas perintah sekte mereka, [NAME] datang ke pertemuan tersebut untuk merekrut murid baru dengan takdir abadi.</Desc>
 			<Selections.0.Display>Rekrut murid</Selections.0.Display>
-			<Selections.0.Tip>Reputasi Sekte / Budidaya / Karisma / Sosial</Selections.0.Tip>
+			<Selections.0.Tip>Sect Reputation / Cultivation / Charisma / Social</Selections.0.Tip>
 			<Selections.1.Display>Tinggalkan Pameran Takdir Abadi</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_XieDiLing">
 			<DisplayName>Makam Kaisar Iblis</DisplayName>
 			<Desc>Makam Kaisar Iblis telah dibuka. Banyak petani telah berkumpul di sana.</Desc>
 			<Selections.0.Display>Cari harta karun</Selections.0.Display>
-			<Selections.0.Tip>Keberuntungan</Selections.0.Tip>
+			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Tinggalkan Makam</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YuJingTan">
 			<DisplayName>Peti Emas Dibuka</DisplayName>
-			<Desc>Kapan[NAME]Sesampainya di Danau Jadestone, sepertinya air di dalam danau itu mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
+			<Desc>Ketika [NAME] tiba di Danau Jadestone, tampak seperti air di dalam danau mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
 			<Selections.0.Display>Kejar kotak buku yang disegel dengan jimat</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
 			<Selections.1.Display>Kejar lima artefak dengan jalur heliks yang menyala-nyala</Selections.1.Display>
-			<Selections.1.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.1.Tip>
+			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
 			<Selections.2.Display>Mengejar cincin hitam-putih yang berkedip</Selections.2.Display>
-			<Selections.2.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
 			<Selections.3.Display>Kejar enam pil yang memancarkan aura ungu</Selections.3.Display>
-			<Selections.3.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.3.Tip>
+			<Selections.3.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.3.Tip>
 			<Selections.4.Display>Mengejar awan hitam yang terbuat dari hantu orang yang dianiaya</Selections.4.Display>
-			<Selections.4.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.4.Tip>
+			<Selections.4.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.4.Tip>
 			<Selections.5.Display>Meninggalkan</Selections.5.Display>
 		</Text>
 		<Text Name="Secrets_YuJingTan1">
 			<DisplayName>Peti Emas Dibuka</DisplayName>
-			<Desc>Kapan[NAME]Sesampainya di Danau Jadestone, sepertinya air di dalam danau itu mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
+			<Desc>Ketika [NAME] tiba di Danau Jadestone, tampak seperti air di dalam danau mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
 			<Selections.0.Display>Kejar peti batu giok dengan simbol Bagua</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
 			<Selections.1.Display>Kejar Elixir yang penuh dengan Roh Primordial</Selections.1.Display>
-			<Selections.1.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.1.Tip>
+			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
 			<Selections.2.Display>Kejar beberapa Manual dengan aura jahat</Selections.2.Display>
-			<Selections.2.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
 			<Selections.3.Display>Meninggalkan</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_YuJingTan2">
 			<DisplayName>Peti Emas Dibuka</DisplayName>
-			<Desc>Kapan[NAME]Sesampainya di Danau Jadestone, sepertinya air di dalam danau itu mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
+			<Desc>Ketika [NAME] tiba di Danau Jadestone, tampak seperti air di dalam danau mendidih dengan memancarkan cahaya keemasan. Berjam-jam berlalu, dan air di danau menyebar ke segala arah dengan suara dentuman yang memekakkan telinga. Garis-garis cahaya yang tak terhitung jumlahnya muncul dari air dan meledak. Beberapa di antaranya sangat menarik perhatian.</Desc>
 			<Selections.0.Display>Carilah buku dengan aura suci</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.0.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
 			<Selections.1.Display>Kejar 3 bongkahan Logam dengan aura terkutuk</Selections.1.Display>
-			<Selections.1.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.1.Tip>
+			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
 			<Selections.2.Display>Kejar gulungan kuno</Selections.2.Display>
-			<Selections.2.Tip>Kecepatan Terbang \ Keberuntungan \ Semangat Primordial</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
 			<Selections.3.Display>Kejar pecahan gulungan dengan segel yang aneh</Selections.3.Display>
-			<Selections.3.Tip>Kecepatan Terbang</Selections.3.Tip>
+			<Selections.3.Tip>Flying Speed</Selections.3.Tip>
 			<Selections.4.Display>Meninggalkan</Selections.4.Display>
 		</Text>
 		<Text Name="Secrets_WuHeYouZhiXiang">
 			<DisplayName>Kisah Dunia Lain</DisplayName>
-			<Desc>[NAME]datang ke Otherworld Rift dalam upaya menyelidiki jalan misterius yang mengarah ke negeri berbahaya.</Desc>
+			<Desc>[NAME] datang ke Otherworld Rift dalam upaya menyelidiki jalan misterius yang menuju ke negeri berbahaya.</Desc>
 			<Selections.0.Display>Mengeksplorasi</Selections.0.Display>
-			<Selections.0.Tip>Pencapaian</Selections.0.Tip>
+			<Selections.0.Tip>Attainment</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YingTianTai">
 			<DisplayName>Pendatang Dunia Lain</DisplayName>
-			<Desc>[NAME]tiba di Otherworld Rift, coba temukan Otherworld Comer dalam dongeng.</Desc>
+			<Desc>[NAME] tiba di Otherworld Rift，coba temukan Pendatang Dunia Lain dalam dongeng。</Desc>
 			<Selections.0.Display>Mengunjungi</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YiJieChuanWen">
 			<DisplayName>Rumor Dunia Lain</DisplayName>
-			<Desc>Rumor terbaru yang datang dari Bentang Laut menyebutkan bahwa terdapat wilayah laut yang diselimuti awan dan kabut muncul di Laut Dalam di sebelah utara. Ini sangat berbahaya, karena tidak ada seorang pun yang pernah masuk ke dalam dan terlihat keluar. Untuk mencari informasi lebih lanjut,[NAME]datang ke kota Seascape.</Desc>
+			<Desc>Rumor terbaru yang datang dari Bentang Laut menyebutkan bahwa terdapat wilayah laut yang diselimuti awan dan kabut muncul di Laut Dalam di sebelah utara. Ini sangat berbahaya, karena tidak ada seorang pun yang pernah masuk ke dalam dan terlihat keluar. Untuk mencari informasi lebih lanjut, [NAME] datang ke kota Seascape.</Desc>
 			<Selections.0.Display>Bertanya-tanya</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi1">
 			<DisplayName>Dunia Lain Muncul Kembali</DisplayName>
-			<Desc>[NAME]datang ke tempat di laut seperti yang diceritakan, dan menemukan hamparan ruang yang hancur seperti yang diharapkan, terus-menerus bergeser dan berkedip. Yang mengejutkan mereka, Otherworld Rift yang diduga penuh kekerasan sebenarnya tampak cukup tenang; seseorang bahkan dapat merasakan suasana gembira dari seberang celah. Tampaknya tidak menimbulkan ancaman.</Desc>
+			<Desc>[NAME] datang ke tempat di laut seperti yang diceritakan, dan menemukan hamparan ruang yang hancur seperti yang diharapkan, terus-menerus bergeser dan berkedip. Yang mengejutkan mereka, Otherworld Rift yang diduga penuh kekerasan sebenarnya tampak cukup tenang; seseorang bahkan dapat merasakan suasana gembira dari seberang celah. Tampaknya tidak menimbulkan ancaman.</Desc>
 			<Selections.0.Display>Cobalah untuk memeriksa</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi11">
 			<DisplayName>Pemandangan Dunia Lain</DisplayName>
-			<Desc>Setelah guncangan awal,[NAME]menemukan bahwa Roh Primordial mereka untuk sementara telah meninggalkan tubuh mereka dan memasuki Dunia Lain. Meskipun kehilangan kekuatan sihir mereka di alam aneh ini, mereka dapat kembali ke tubuh fisik mereka kapan saja. Merasa lega,[NAME]memutuskan untuk melihat-lihat alam aneh.</Desc>
+			<Desc>Setelah kejutan awal, [NAME] menemukan bahwa Roh Primordial mereka telah meninggalkan tubuh mereka untuk sementara dan memasuki Dunia Lain. Meskipun kehilangan kekuatan sihir mereka di alam aneh ini, mereka dapat kembali ke tubuh fisik mereka kapan saja. Merasa lega, [NAME] memutuskan untuk melihat-lihat alam aneh tersebut.</Desc>
 			<Selections.0.Display>Lihatlah sekeliling</Selections.0.Display>
 			<Selections.1.Display>Pergi bertualang</Selections.1.Display>
 			<Selections.2.Display>Menghasilkan keuntungan besar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi21">
 			<DisplayName>Pemandangan Dunia Lain</DisplayName>
-			<Desc>Setelah guncangan awal,[NAME]menemukan bahwa Roh Primordial mereka untuk sementara telah meninggalkan tubuh mereka dan memasuki Dunia Lain. Meskipun kehilangan kekuatan sihir mereka di alam aneh ini, mereka dapat kembali ke tubuh fisik mereka kapan saja. Merasa lega,[NAME]memutuskan untuk melihat-lihat alam aneh.</Desc>
+			<Desc>Setelah kejutan awal, [NAME] menemukan bahwa Roh Primordial mereka telah meninggalkan tubuh mereka untuk sementara dan memasuki Dunia Lain. Meskipun kehilangan kekuatan sihir mereka di alam aneh ini, mereka dapat kembali ke tubuh fisik mereka kapan saja. Merasa lega, [NAME] memutuskan untuk melihat-lihat alam aneh tersebut.</Desc>
 			<Selections.0.Display>Lihatlah sekeliling</Selections.0.Display>
 			<Selections.1.Display>Menyelidiki</Selections.1.Display>
 			<Selections.2.Display>Carilah sejarah</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DuGuiXingZong">
 			<DisplayName>Jejak Penjudi</DisplayName>
-			<Desc>Setelah bertanya-tanya,[NAME]akhirnya menemukan Ye Xuan di rumah judi.</Desc>
+			<Desc>Setelah bertanya-tanya, [NAME] akhirnya menemukan Ye Xuan di rumah judi.</Desc>
 			<Selections.0.Display>Tawarkan untuk bermain dengannya</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DuGuiXingZong1">
 			<DisplayName>Permainan Hidup dan Mati</DisplayName>
-			<Desc>Ye Xuan setuju untuk bermain dengannya[NAME]. Aturannya sederhana: setiap pemain bergiliran mengambil dua sedotan dari lima sedotan dengan panjang berbeda-beda, masing-masing mewakili angka 1~5. Para pemain kemudian menjumlahkan angka-angka di tangannya dan menebak selisih antara kedua tangan pemain tersebut, dengan menggunakan panjang sedotan sebagai petunjuknya. Siapa pun yang memiliki tebakan paling dekat, dialah pemenangnya. Jika[NAME]menang,[ENHIM]bisa pergi dengan membawa harta karun; jika kalah,[ENHIM]harus memberi kamu 50 tahun hidup.</Desc>
+			<Desc>Ye Xuan setuju untuk bermain dengan [NAME] . Aturannya sederhana: setiap pemain bergiliran mengambil dua sedotan dari lima sedotan dengan panjang berbeda-beda, masing-masing mewakili angka 1~5. Para pemain kemudian menjumlahkan angka-angka di tangannya dan menebak selisih antara kedua tangan pemain tersebut, dengan menggunakan panjang sedotan sebagai petunjuknya. Siapa pun yang memiliki tebakan paling dekat, dialah pemenangnya. Jika [NAME] menang, [ENHIM] bisa pergi dengan membawa harta karun; jika kalah, [ENHIM] harus memberi kamu 50 tahun hidup.</Desc>
 			<Selections.0.Display>Ambil taruhannya</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DuGuiXingZong2">
 			<DisplayName>Permainan Hidup dan Mati</DisplayName>
-			<Desc>Ye Xuan setuju untuk bermain dengannya[NAME]. Aturannya sederhana: setiap pemain bergiliran mengambil dua sedotan dari lima sedotan dengan panjang berbeda-beda, masing-masing mewakili angka 1~5. Para pemain kemudian menjumlahkan angka-angka di tangannya dan menebak selisih antara kedua tangan pemain tersebut, dengan menggunakan panjang sedotan sebagai petunjuknya. Siapa pun yang memiliki tebakan paling dekat, dialah pemenangnya. Jika[NAME]menang,[ENHIM]bisa pergi dengan membawa harta karun; jika kalah,[ENHIM]harus memberi kamu 50 tahun hidup.</Desc>
+			<Desc>Ye Xuan setuju untuk bermain dengan [NAME] . Aturannya sederhana: setiap pemain bergiliran mengambil dua sedotan dari lima sedotan dengan panjang berbeda-beda, masing-masing mewakili angka 1~5. Para pemain kemudian menjumlahkan angka-angka di tangannya dan menebak selisih antara kedua tangan pemain tersebut, dengan menggunakan panjang sedotan sebagai petunjuknya. Siapa pun yang memiliki tebakan paling dekat, dialah pemenangnya. Jika [NAME] menang, [ENHIM] bisa pergi dengan membawa harta karun; jika kalah, [ENHIM] harus memberi kamu 50 tahun hidup.</Desc>
 			<Selections.0.Display>Nol</Selections.0.Display>
 			<Selections.1.Display>Satu</Selections.1.Display>
 			<Selections.2.Display>Dua</Selections.2.Display>
@@ -417,15 +417,15 @@
 		</Text>
 		<Text Name="Secrets_TianJi">
 			<DisplayName>Jimat Celeste Kuno</DisplayName>
-			<Desc>Ke[NAME]keheranan, meskipun sebagian hilang, pola aneh di pintu masuk gua hampir identik dengan lambang Patriark Surgawi seperti yang ditunjukkan dalam Catatan Para Dewa. Mungkinkah tempat ini ada hubungannya dengan Celestial Patriark, yang keberadaannya sekarang tidak pasti?</Desc>
+			<Desc>Yang mengejutkan [NAME] , meskipun sebagian hilang, pola aneh di pintu masuk gua hampir identik dengan lambang Patriark Surgawi seperti yang ditunjukkan dalam Catatan Para Dewa. Mungkinkah tempat ini ada hubungannya dengan Celestial Patriark, yang keberadaannya sekarang tidak pasti?</Desc>
 			<Selections.0.Display>Cobalah untuk menguraikan</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_TianJi1">
 			<DisplayName>Gua Drake yang Misterius</DisplayName>
-			<Desc>Dengan kabut yang menyebar,[NAME]menemukan diri mereka di sebuah gua dengan simbol-simbol besar yang aneh terukir di dindingnya. Seorang lelaki tua sedang duduk di tengah-tengah gua dengan kaki bersilang, ciri-cirinya seperti patung. Di depan pria ini terdapat alas batu alam dengan batu permata giok yang tidak diketahui asalnya. Setelah diperiksa dengan cermat,[NAME]menemukan bahwa pria itu sudah kedaluwarsa. Ternyata itu adalah Tubuh Fana yang Abadi! Ada sebuah buku di tangannya, dengan tulisan "Nyanyian Gunung dan Sungai" tertulis di sampulnya.</Desc>
+			<Desc>Saat kabut menghilang, [NAME] mendapati diri mereka berada di sebuah gua dengan simbol-simbol besar yang diukir di dindingnya. Seorang lelaki tua sedang duduk di tengah-tengah gua dengan kaki bersilang, ciri-cirinya seperti patung. Di depan pria ini terdapat alas batu alam dengan batu permata giok yang tidak diketahui asalnya. Setelah diperiksa dengan cermat, [NAME] menemukan bahwa pria tersebut telah kedaluwarsa. Ternyata itu adalah Tubuh Fana yang Abadi! Ada sebuah buku di tangannya, dengan tulisan "Nyanyian Gunung dan Sungai" tertulis di sampulnya.</Desc>
 			<Selections.0.Display>Selidiki temboknya</Selections.0.Display>
-			<Selections.0.Tip>Negara / Seniman / Intelijen</Selections.0.Tip>
+			<Selections.0.Tip>State / Artisanry / Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Selidiki tubuh fana</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_TianJi2">
@@ -437,12 +437,12 @@
 		</Text>
 		<Text Name="Secrets_TianJi3">
 			<DisplayName>Kepulangan</DisplayName>
-			<Desc>[NAME]mengembalikan Tubuh Fana Patriark Surgawi ke Istana Skydome. Sekte itu heboh dan para murid dipenuhi dengan kegembiraan dan kekaguman.</Desc>
+			<Desc>[NAME] mengembalikan Tubuh Fana Patriark Surgawi ke Istana Skydome. Sekte itu heboh dan para murid dipenuhi dengan kegembiraan dan kekaguman.</Desc>
 			<Selections.0.Display>Kembalikan Tubuh Fana</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_SuoYingTuJuan">
 			<DisplayName>Atlas Makhluk</DisplayName>
-			<Desc>Setelah tiba di Mt.Mesa,[NAME]menemukan bahwa sudah ada banyak orang yang mencari Numinous Treasure.</Desc>
+			<Desc>Sesampainya di Gunung Mesa, [NAME] menemukan bahwa sudah ada banyak orang yang mencari Harta Karun Numinous.</Desc>
 			<Selections.0.Display>Harta Karun yang Sangat Besar</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_BanBenKaiQi3">
@@ -452,23 +452,23 @@
 		</Text>
 		<Text Name="Secrets_BossLong">
 			<DisplayName>Jejak Naga Banjir</DisplayName>
-			<Desc>[NAME]tiba di[PLACE], dan merasakan kehadiran Naga Banjir di bawah tanah seperti yang diduga.</Desc>
+			<Desc>[NAME] tiba di [PLACE] , dan merasakan kehadiran Naga Banjir di bawah tanah seperti yang diharapkan.</Desc>
 			<Selections.0.Display>Pancing Naga Banjir</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang Berpetualang</Selections.0.Tip>
+			<Selections.0.Tip>Adventuring Flying Speed</Selections.0.Tip>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_BossFeng">
 			<DisplayName>Jejak Phoenix</DisplayName>
-			<Desc>[NAME]tiba di[PLACE], dan merasakan kehadiran Phoenix seperti yang diharapkan.</Desc>
+			<Desc>[NAME] tiba di [PLACE] , dan merasakan kehadiran Phoenix seperti yang diharapkan.</Desc>
 			<Selections.0.Display>Pancing Phoenix</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang Berpetualang</Selections.0.Tip>
+			<Selections.0.Tip>Adventuring Flying Speed</Selections.0.Tip>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_BossZhuLong">
 			<DisplayName>Yin-Yang Breath</DisplayName>
-			<Desc>[NAME]tiba di[PLACE], dan merasakan terganggunya keseimbangan Yin dan Yang seperti yang diharapkan.</Desc>
+			<Desc>[NAME] tiba di [PLACE] , dan merasakan terganggunya keseimbangan Yin dan Yang seperti yang diharapkan.</Desc>
 			<Selections.0.Display>Salurkan Nafas Yin-Yang</Selections.0.Display>
-			<Selections.0.Tip>Kecepatan Terbang Berpetualang</Selections.0.Tip>
+			<Selections.0.Tip>Adventuring Flying Speed</Selections.0.Tip>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_danengtest">
@@ -478,175 +478,175 @@
 		</Text>
 		<Text Name="Secrets_DaNengChuShi">
 			<DisplayName>Jejak Penggarap Kuno</DisplayName>
-			<Desc>[NAME]datang ke[PLACE]untuk mencari petunjuk keberadaan kultivator kuno tersebut.</Desc>
+			<Desc>__NAMA__ sadar [PLACE] untuk mencari petunjuk keberadaan kultivator kuno itu.</Desc>
 			<Selections.0.Display>Cari kultivator kuno</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DaNengChuShi1">
 			<DisplayName>Jejak Penggarap Kuno</DisplayName>
-			<Desc>Setelah bertanya-tanya,[NAME]akhirnya menemukan penggarap kuno.</Desc>
+			<Desc>Setelah bertanya-tanya, [NAME] akhirnya menemukan kultivator kuno tersebut.</Desc>
 			<Selections.0.Display>Mengamati</Selections.0.Display>
 			<Selections.1.Display>Berunding</Selections.1.Display>
-			<Selections.1.Tip>Karisma / Negara</Selections.1.Tip>
+			<Selections.1.Tip>Charisma / State</Selections.1.Tip>
 			<Selections.2.Display>Gua Misterius</Selections.2.Display>
 			<Selections.3.Display>Memprovokasi</Selections.3.Display>
-			<Selections.3.Tip>Kecepatan Terbang Berpetualang</Selections.3.Tip>
+			<Selections.3.Tip>Adventuring Flying Speed</Selections.3.Tip>
 			<Selections.4.Display>Meninggalkan</Selections.4.Display>
 		</Text>
 		<Text Name="Story_Building_SwordTower">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan Pagoda dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan Pagoda dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_HenZhiBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_LongZhiBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_TongLing">
 			<DisplayName>Jejak Teman Lama</DisplayName>
-			<Desc>[NAME]tiba di Mt. Coppertomb dan menggunakan persepsi untuk menemukan orang aneh itu berada di tambang yang ditinggalkan... Itu adalah saudara bela diri Ketujuh!</Desc>
+			<Desc>[NAME] tiba di Mt. Coppertomb dan menggunakan persepsi untuk menemukan orang aneh itu berada di tambang yang ditinggalkan... Itu adalah saudara bela diri Ketujuh!</Desc>
 			<Selections.0.Display>Sambut dia</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Building_ShouZhiBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_ShouZhiBeiQian">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]menggunakan Persepsi untuk mencoba berkomunikasi dengan Mayat.</Desc>
+			<Desc>[NAME] menggunakan Persepsi untuk mencoba berkomunikasi dengan Mayat.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_WinterSummer">
 			<DisplayName>Memanen</DisplayName>
-			<Desc>[NAME]dengan lembut mengambil beberapa Jamur Ulat.</Desc>
+			<Desc>[NAME] dengan hati-hati mengambil beberapa Jamur Ulat.</Desc>
 			<Selections.0.Display>Memanen</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_JiZhiBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_HuanZhiBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Jin">
 			<DisplayName>Meneliti</DisplayName>
-			<Desc>[NAME]duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
+			<Desc>[NAME] duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Mu">
 			<DisplayName>Meneliti</DisplayName>
-			<Desc>[NAME]duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
+			<Desc>[NAME] duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Shui">
 			<DisplayName>Meneliti</DisplayName>
-			<Desc>[NAME]duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
+			<Desc>[NAME] duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Huo">
 			<DisplayName>Meneliti</DisplayName>
-			<Desc>[NAME]duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
+			<Desc>[NAME] duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Tu">
 			<DisplayName>Meneliti</DisplayName>
-			<Desc>[NAME]duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
+			<Desc>[NAME] duduk dan mencoba menggunakan Persepsi untuk memeriksa.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_ShiXiong">
 			<DisplayName>Mencari</DisplayName>
-			<Desc>Jadi ini adalah Guru Ketujuh. Sepertinya dia sangat kesakitan saat melewatinya.[NAME]membungkuk dan mencari mayat itu.</Desc>
+			<Desc>Jadi ini adalah Guru Ketujuh. Sepertinya dia sangat kesakitan saat melewatinya. [NAME] membungkuk dan mencari mayat itu.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZhongBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_XingBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_LingBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_MuBei">
 			<DisplayName>Berinteraksi</DisplayName>
-			<Desc>[NAME]duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
+			<Desc>[NAME] duduk di depan monumen dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_TaiYi">
 			<DisplayName>Kunjungi Sekte</DisplayName>
-			<Desc>[NAME]berlutut di depan Gerbang Gunung Taiyi dan kenangan akan peristiwa masa lalu melayang di benak.</Desc>
+			<Desc>[NAME] berlutut di depan Gerbang Gunung Taiyi dan kenangan akan peristiwa masa lalu melayang di benak.</Desc>
 		</Text>
 		<Text Name="Story_Building_NoLight">
 			<DisplayName>Memeriksa</DisplayName>
-			<Desc>[NAME]merasa aneh karena lenteranya tidak menyala. Mereka berjongkok untuk memeriksa dan menemukan sesuatu yang aneh tentang pemandangan itu.</Desc>
+			<Desc>[NAME] merasa aneh karena lenteranya tidak menyala. Mereka berjongkok untuk memeriksa dan menemukan sesuatu yang aneh tentang pemandangan itu.</Desc>
 		</Text>
 		<Text Name="Story_Building_FireLantern">
 			<DisplayName>Memeriksa</DisplayName>
-			<Desc>[NAME]menganggapnya aneh. Mengapa lentera dibuat dengan Fire Essence Bar? Menatap dengan hati-hati, lingkungan sekitar tidak lagi tampak seperti asrama penambang.</Desc>
+			<Desc>[NAME] menganggapnya aneh. Mengapa lentera dibuat dengan Fire Essence Bar? Menatap dengan hati-hati, lingkungan sekitar tidak lagi tampak seperti asrama penambang.</Desc>
 		</Text>
 		<Text Name="Story_Building_GolemLantern">
 			<DisplayName>Memeriksa</DisplayName>
-			<Desc>[NAME]terasa aneh, apakah sebelumnya ada Tiang Lampu yang terbuat dari Batu Suci di sini? Setelah masuk, ada flash, dan tidak terasa panas lagi.</Desc>
+			<Desc>[NAME] merasa aneh, apakah sebelumnya ada Tiang Lampu yang terbuat dari Batu Suci di sini? Setelah masuk, ada flash, dan tidak terasa panas lagi.</Desc>
 		</Text>
 		<Text Name="Story_Building_OddLantern">
 			<DisplayName>Memeriksa</DisplayName>
-			<Desc>[NAME]terasa aneh, apakah ini posisi yang tepat untuk Lantern ini? Mereka mencoba menempatkannya pada posisinya. Tiba-tiba, terdengar seperti lentera berteriak, dan kemudian lingkungan sekitar tampak berbeda.</Desc>
+			<Desc>[NAME] merasa aneh, apakah ini posisi yang tepat untuk Lentera ini? Mereka mencoba menempatkannya pada posisinya. Tiba-tiba, terdengar seperti lentera berteriak, dan kemudian lingkungan sekitar tampak berbeda.</Desc>
 		</Text>
 		<Text Name="Story_Item_OpenAuction">
 			<DisplayName>Memeriksa</DisplayName>
-			<Desc>[NAME]membuka surat undangan: \nSalam Yang Abadi, saya menerima harta karun dari seluruh dunia, dan Anda diundang untuk melakukan pembelian dari koleksi saya, jika Anda menginginkannya. Aturannya sederhana: Siapa pun yang membayar Batu Roh paling banyak dapat memperoleh harta saya. Semakin banyak semakin meriah! \nTanda tangan: Ye Xuan.</Desc>
+			<Desc>[NAME] membuka surat undangan: \nSalam Yang Abadi, saya menerima harta karun dari seluruh dunia, dan Anda diundang untuk melakukan pembelian dari koleksi saya, jika Anda menginginkannya. Aturannya sederhana: Siapa pun yang membayar Batu Roh paling banyak dapat memperoleh harta saya. Semakin banyak semakin meriah! \nTanda tangan: Ye Xuan.</Desc>
 		</Text>
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>Upacara Peringatan</DisplayName>
-			<Desc>[NAME]mengadakan upacara di kaki Pagoda. Tampaknya ada sesuatu yang berinteraksi secara lemah dengan Qi mereka, yang pernah dipupuk oleh ajaran Sekte Taiyi.</Desc>
+			<Desc>[NAME] mengadakan upacara di kaki Pagoda. Tampaknya ada sesuatu yang berinteraksi secara lemah dengan Qi mereka, yang pernah dipupuk oleh ajaran Sekte Taiyi.</Desc>
 			<Selections.0.Display>Mencari</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_UnlockTiXiu">
 			<DisplayName>Prasasti Tebing Naga</DisplayName>
-			<Desc>[NAME]tiba di sini dan melihat batu gunung yang sangat besar berdiri jauh di dalam gurun. Batunya berwarna merah, salah satu sisinya curam seperti ditusuk pisau. Diukir di atasnya terdapat teks-teks canggih yang tak terhitung jumlahnya yang terus bergerak dan berubah. Itu adalah prasasti Tebing Naga yang legendaris, situs suci Yaoguai kuno.</Desc>
+			<Desc>[NAME] tiba di sini dan melihat batu gunung yang sangat besar berdiri jauh di dalam gurun. Batunya berwarna merah, salah satu sisinya curam seperti ditusuk pisau. Diukir di atasnya terdapat teks-teks canggih yang tak terhitung jumlahnya yang terus bergerak dan berubah. Itu adalah prasasti Tebing Naga yang legendaris, situs suci Yaoguai kuno.</Desc>
 			<Selections.0.Display>Renungkan prasasti tersebut</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Esoterica_QuQiJue">
 			<DisplayName>Jejak Seorang Alkemis</DisplayName>
-			<Desc>Pada[NAME]tiba di lokasi yang dikabarkan di Gunung Roda Bulan, pencarian menyeluruh mengungkapkan sebuah gundukan kecil yang disembunyikan oleh tumpukan tumbuhan</Desc>
+			<Desc>Saat [NAME] tiba di lokasi yang dikabarkan di Gunung Roda Bulan, pencarian menyeluruh menunjukkan adanya gundukan kecil yang tersembunyi di balik tumpukan tumbuhan.</Desc>
 			<Selections.0.Display>Mencari</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 	</List>
