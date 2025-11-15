@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Ls_School_Panda">
 			<DisplayName>Duta Besar Keabadian</DisplayName>
-			<Desc>Panda Xianxian telah mencoba dan meningkatkan hubungan kami[SCHOOL].</Desc>
+			<Desc>Panda Xianxian telah mencoba dan meningkatkan hubungan kami [SCHOOL] .</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_FindPanda">
@@ -17,7 +17,7 @@
 		</Text>
 		<Text Name="HotStory_Practice_Fish">
 			<DisplayName>Ikan Eureka</DisplayName>
-			<Desc>[NAME]memiliki percikan inspirasi!</Desc>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="Little_Panda">
