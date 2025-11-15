@@ -7,29 +7,29 @@
 		</Text>
 		<Text Name="OutSpread_Accelerate">
 			<DisplayName>Kerja Manual</DisplayName>
-			<Desc>[NAME]tenaga kerja yang diawasi.</Desc>
+			<Desc>[NAME] mengawasi tenaga kerja.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
 			<DisplayName>Perburuan Harta Karun</DisplayName>
-			<Desc>[NAME]diburu harta karun.</Desc>
+			<Desc>[NAME] berburu harta karun.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
 			<DisplayName>Dan rute</DisplayName>
-			<Desc>[NAME]dirampok.</Desc>
+			<Desc>[NAME] dirampok.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
 			<DisplayName>Dan rute</DisplayName>
-			<Desc>[NAME]menemui beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
+			<Desc>[NAME] bertemu dengan beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
 			<DisplayName>Dan rute</DisplayName>
-			<Desc>[NAME]menemui beberapa petani yang diintimidasi oleh beberapa individu petani.</Desc>
+			<Desc>[NAME] menemui beberapa petani yang diintimidasi oleh beberapa individu petani.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 			<Selections.2.Display>Berpura-pura tidak melihat apa pun</Selections.2.Display>
