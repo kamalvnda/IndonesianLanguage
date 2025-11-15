@@ -14,8 +14,7 @@
 		</Text>
 		<Text Name="FeelQi">
 			<DisplayName>Rasakan Qi</DisplayName>
-			<Desc>Ada beberapa Qi luar biasa yang mengelilingi Pohon Illumi, yang dapat beresonansi
- dengan para penggarap.</Desc>
+			<Desc>Ada beberapa Qi luar biasa yang mengelilingi Pohon Illumi, yang dapat beresonansi dengan para penggarap.</Desc>
 			<Selections.0.Display>Rasakan Qi</Selections.0.Display>
 			<Selections.1.Display>Tidak terjadi apa-apa...</Selections.1.Display>
 		</Text>
