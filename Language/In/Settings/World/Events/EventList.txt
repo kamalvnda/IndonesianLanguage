@@ -1,301 +1,301 @@
 ID	Name	Desc	sParam1	sParam2
 
-1	Clear	Ini adalah hari yang sangat cerah dan cerah, tetapi Anda tidak tahu berapa lama hari itu akan berlangsung.		
-2	Cloudy	Ini adalah hari yang sangat suram dan berawan, namun Anda tidak tahu berapa lama hari itu akan berlangsung.		
-3	Light Rain	Hujan sudah mulai turun dengan ringan.		
-4	Heavy Rain	Hujan mulai turun dengan deras.		
-5	Thick Fog	Kabut tebal tiba-tiba mulai terbentuk.		
-6	Gloomy Mood	Suasana suram yang aneh mulai merasuki sekte tersebut.		
-7	Romance	Suasana romantis mulai merasuki sekte tersebut.		
-8	Irritation	Orang-orang di seluruh sekte tiba-tiba mulai mudah tersinggung.		
-9	Hail	Hujan es sudah mulai turun. (Tidak diterapkan)		
-10	Rainy Season	Musim hujan telah dimulai.		
-11	Drought	Musim kemarau sudah dimulai.		
-12	Rainstorm	Hujan badai lebat telah dimulai, dan Elemen Air di seluruh langit dan bumi sangat aktif.		
-13	Foehn Wind	Angin foehn yang kering dan hangat telah mulai, dan Elemen Api di seluruh langit dan bumi sangat aktif.		
-14	Dust Storm	Badai debu menyapu seluruh daratan, dan Elemen Tanah di seluruh langit dan bumi sangat aktif.		
-15	Qi Drought	Untuk alasan yang tidak diketahui, ini adalah musim kekeringan Qi di seluruh dunia.		
-16	Heat	Musim panas akan datang, jadi cuaca akan sangat hangat. Pastikan untuk mencegah sengatan panas.		
-17	Cold Winter	Musim dingin akan datang, sehingga cuaca akan sangat dingin. Pastikan untuk tetap hangat.		
-18	Polar Night	Awan aneh menutupi matahari. Butuh beberapa waktu hingga Anda dapat melihat sinar matahari lagi.		
-19	Miasma	Udara berbahaya meningkat di seluruh area, dan Elemen Kayu di seluruh langit dan bumi sangat aktif.		
-20	Thunderstorm	Badai petir akan datang, dan Elemen Logam di seluruh langit dan bumi sangat aktif.		
-21	Beast	A Fei telah muncul di dekat daerah tersebut, dan hujan terus menerus turun serta penyakit.		
-22	Beast	Lushu telah muncul di dekat area tersebut, dan membawa cuaca cerah serta suasana yang menguntungkan.		
-23	Strange Little Elf	Sekelompok binatang kecil dari Dunia Lain berkeliaran dengan harta karun ketika mereka melewati sekte Anda. Binatang buas ini sangat pemalu, tetapi kedua alam memiliki aturan yang berbeda, sehingga metode umum yang digunakan oleh para pembudidaya tidak dapat mempengaruhi mereka, dan makhluk kecil ini sering membuat kerusuhan di seluruh dunia. Untuk mendapatkan harta karun dari mereka, Anda perlu memikirkan hal lain.		
-24	Beast	Binatang buas telah muncul di dekat area tersebut.		
-25	Treasure	Seberkas cahaya telah jatuh dari langit. Tampaknya itu adalah sesuatu yang berharga.		
-26	Treasure	Pertarungan magis yang sengit terjadi di langit tidak jauh dari sini. Sesuatu yang berharga telah jatuh di dekat area tersebut.		
-27	Treasure	Seberkas cahaya tiba-tiba melonjak ke langit. Tampaknya ada harta karun yang menghiasi area ini.		
-28	Passer-by Refugee	Seorang pengungsi yang melarikan diri dari perang sedang lewat, dan[IT]ingin bergabung denganmu.		
-29	Secret			
-30	Secret			
-31	Secret			
-32	Secret			
-33	Secret			
-34	Attack	Sekelompok pria buas dari Hutan Selatan telah menyerang Anda.		
-35	Attack	Sekelompok bandit yang mencari nafkah dengan merampok orang di seluruh kota telah menyerang Anda.		
-36	Attack	Sekelompok pembudidaya nakal dari Laut Timur telah menyerang Anda demi uang dan sumber daya Anda.		
-37	Assault	Anda sedang diserang oleh sekelompok penggarap jahat dari barat.		
-38	Assault	Sekte Anda sedang diserang oleh sekelompok murid nakal dari sekte jahat.		
-39	Assault	Sekte Anda sedang diserang oleh sekelompok pembudidaya yang kuat.		
-40	Assault	Sekte Anda sedang diserang oleh sekelompok pembudidaya jahat yang terkenal.		
-41	A Different Time	Gempa bumi terjadi di Wild South baru-baru ini, dan sejumlah besar orang biadab dan bandit dari selatan melarikan diri ke sini.		
-42	Immortal Visitor	Seorang teman abadi Anda sedang mengunjungi sekte Anda, dan dia mungkin ingin tinggal selama beberapa hari.	Immortal Visitor	
-43	Confused Stranger	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
-44	Curious Stranger	Orang asing yang penasaran menemukan tempat ini secara tidak sengaja, dan[IT]ingin tahu apa sebenarnya yang sedang kami lakukan.	Curious Stranger	
-45	Injured Stranger	Orang asing terluka, dan[IT]ingin tinggal di sini sebentar dan meminta bantuan kami.	Injured Stranger	
-46	Light Snow	Salju sudah mulai turun.		
-47	Heavy Snow	Salju sudah mulai turun dengan lebat.		
-48	Observer	Seorang kultivator sedang mengamati Anda, tetapi sepertinya mereka tidak bermaksud jahat.	Observer	
-49	Beast Attack	Sekelompok serigala lapar muncul di dekat sini, dan mereka sangat bermusuhan.		
-50	Beast Attack	Sekelompok kelinci gila muncul di dekat sini, dan mereka sangat bermusuhan.		
-51	Beast Attack	Sekelompok ular agresif muncul di dekat sini, dan mereka sangat bermusuhan.		
-52	Beast Attack	Sekelompok babi hutan yang panik muncul di dekat sini, dan mereka sangat bermusuhan.		
-53	Secret			
-54	Secret			
-55	Secret			
-56	Secret			
-57	Secret			
-58	Secret			
-59	Secret			
-61	Secret			
-62	Secret			
-63	Secret			
-64	Secret			
-65	Secret			
-66	Secret			
-67	Secret			
-68	Secret			
-69	Secret			
-70	Secret			
-71	Secret			
-72	Secret			
-73	Secret			
-74	Secret			
-75	Secret			
-80	Warm Wind	Hembusan angin hangat melewati area ini pada hari-hari terdingin, dan musim dingin kali ini akan jauh lebih hangat.		
-81	Chilly Wind	Hembusan angin dingin melewati area ini selama hari-hari terpanas, dan musim panas ini akan jauh lebih dingin.		
-82	Spirit of Harvest	Semangat panen yang baik mulai merasuki daerah tersebut.		
-83	Burst of Qi	Untuk alasan yang tidak diketahui, Qi di langit dan bumi tiba-tiba mulai meledak. Beberapa tanaman terpengaruh dan menjadi Spiritwood.		
-84	Secret			
-85	Spring's Coming	Kehangatan musim semi meresap ke udara.		
-86	Invasion of Beasts	Beberapa monster kelinci muncul di dekat sini, dan mereka sangat bermusuhan.		
-87	Invasion of Beasts	Beberapa monster serigala muncul di dekat sini, dan mereka sangat bermusuhan.		
-88	Invasion of Beasts	Beberapa monster ular muncul di dekat sini, dan mereka sangat bermusuhan.		
-89	Invasion of Beasts	Beberapa monster babi hutan telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-90	Invasion of Beasts	Beberapa monster beruang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-91	Invasion of Beasts	Beberapa katak raksasa muncul di dekat sini, dan mereka sangat bermusuhan.		
-92	Invasion of Beasts	Beberapa kura-kura raksasa muncul di dekat sini, dan mereka sangat bermusuhan.		
-93	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-94	Flood Dragon Tracks			
-95	Phoenix Tracks			
-96	Torch Dragon Tracks			
-97	Ancient Cultivator			
-98	Secret			
-99	Secret			
-100	Secret			
-101	Secret			
-102	Immortal Visitor	Seorang teman abadi Anda diundang untuk mengunjungi sekte Anda, dan dia akan tinggal selama beberapa hari.	Immortal Visitor	
-103	Traces Found			
-104	Secret			
-105	Sentient Spirits Passing By	Seorang yang hidup[NAME]telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
-106	Sentient Spirits Passing By	Seorang yang hidup[NAME]telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
-107	Invasion of Beasts	Beberapa monster ayam muncul di dekat sini, dan mereka sangat bermusuhan.		
-108	Invasion of Beasts	Beberapa monster ayam muncul di dekat sini, dan mereka sangat bermusuhan.		
-109	Invasion of Beasts	Beberapa monster banteng muncul di dekat sini, dan mereka sangat bermusuhan.		
-110	Invasion of Beasts	Beberapa monster harimau muncul di dekat sini, dan mereka sangat bermusuhan.		
-111	Beast Attack	Sekelompok ayam gila muncul di dekat sini, dan mereka sangat bermusuhan.		
-112	Beast Attack	Seekor beruang agresif muncul di dekat sini, dan ia sangat bermusuhan.		
-113	Beast Attack	Sekelompok penyu yang panik muncul di dekat sini, dan mereka sangat bermusuhan.		
-114	Beast Attack	Sekelompok katak gila muncul di dekat sini, dan mereka sangat bermusuhan.		
-115	Beast Attack	Seekor kucing agresif muncul di dekat sini, dan ia sangat bermusuhan.		
-116	Beast Attack	Sekelompok banteng gila telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-117	Beast Attack	Seekor harimau agresif muncul di dekat sini, dan ia sangat bermusuhan.		
-118	Attack	Sekelompok pembudidaya Yaoguai menaruh perhatian serakah pada properti sekte Anda. Mereka muncul di dekatnya dengan penuh permusuhan.		
-119	Attack	Sekelompok pembudidaya Yaoguai bermaksud menumbangkan sekte Anda. Mereka berkeliaran di sekitar dengan mata haus darah.		
-120	Attack	Sekelompok pembudidaya Yaoguai menyimpan kebencian yang besar terhadap sekte Anda karena alasan tertentu, dan mereka akan melancarkan serangan.		
-121	Assault	Sekelompok pembudidaya Yaoguai yang kuat bermaksud merampok kekayaan sekte Anda untuk memperkaya diri mereka sendiri.		
-122	Assault	Sekelompok pembudidaya Yaoguai yang kuat mencoba memecat dan membantai sekte Anda.		
-123	Assault	Sekelompok pembudidaya Yaoguai gila mencoba menyerang sekte Anda.		
-124	Plea for Protection	Yaoguai yang baru saja berubah bentuk mencari perlindunganmu, berharap bisa selamat dari Kesengsaraan Surgawi Perubahan Bentuk dengan bantuanmu.		
-125	Animal Joined	Seekor kucing telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
-126	Animal Joined	Seekor ayam telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
-127	Animal Joined	Seekor banteng telah datang ke sekte Anda, sepertinya senang berada di sini.		
-128	Animal Joined	Seekor kura-kura telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
-129	Animal Joined	Seekor kelinci telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
-130	Animal Joined	Seekor katak telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
-1000	Dragon Passing By			
-1001	Burst of Qi			
-1002	Phoenix Passing By			
-10000	Establishment	Kami hidup dalam pengasingan di sini, mencoba memulai kembali kultivasi kami. Kami juga mendirikan sekte kecil kami sendiri. Akankah ini menjadi awal dari sebuah legenda baru?\n\n[color=#D06508]Dekorasi tidak terkunci.\nMembuka lebih banyak bangunan.[/color]		
-10001	Famous	Sekte kami secara bertahap mendapatkan ketenarannya, dan ini bukanlah tugas yang mudah. Mari kita terus membangunnya menjadi sekte yang lebih besar.\n\n[color=#D06508]Populasi maksimum sekte ini telah ditingkatkan.[/color]		
-10002	Eminent	Sekte kami telah mendapatkan keunggulannya di dunia kultivator. Ini telah menjadi tempat praktik yang diimpikan semua orang untuk bergabung.\n\n[color=#D06508]Populasi maksimum sekte telah ditingkatkan.\nAnda dapat mendirikan cabang baru melalui Struktur Sekte.		
-10003	A New Leader	    [NAME]telah menjadi pemimpin sekte kami. Yang satu ini pasti akan membawa kita semua menuju keabadian.		
-10004	Lack of Leader	Kami membutuhkan seseorang untuk menjadi pemimpin sekte kami.\n[color=#D06508]Anda dapat memilih pemimpin sekte melalui[Sect Structure]di menu Sekte.[/color]		
-10005	Recommended Disciple	Murid yang direkomendasikan hampir tiba.		
-10006	Escape the Unrest	Karena Anda melarikan diri dengan tergesa-gesa, Anda tidak membawa banyak sumber daya. Anda telah melarikan diri selama beberapa hari, dan hal ini menghabiskan hampir seluruh energi Anda.\nTanpa pilihan lain, Anda harus tetap di sini dan memulihkan diri untuk saat ini.		
-10007	Settled	Api unggun yang hangat membantu meredakan ketegangan dan kegelisahan Anda. Setelah berdiskusi singkat, Anda memutuskan bahwa Anda cukup jauh dari bahaya, jadi Anda harus mendirikan perkemahan sementara di sini.\n\n[color=#D06508]Bangunan Struktural Tidak Terkunci\nPerabotan Dasar Tidak Terkunci\nStasiun Kerja Dasar Tidak Terkunci\nPapan Lantai dan Atap Tidak Terkunci[/color]		
-10008	Contented	Meskipun Anda masih menderita karena kehilangan murid dan guru senior Anda, Anda perlahan-lahan mulai tenang. Menyadari bahwa ini adalah tempat yang sangat terpencil dan orang-orang yang mengejarmu sepertinya sudah menyerah, kamu memutuskan untuk tinggal di sini setelah berdiskusi kecil.\n\n[color=#D06508][/color]		
-10009	A New Home	Anda sepertinya sudah terbiasa dengan kehidupan di sekitar sini. Meski tidak senyaman saat masih di sekte lama, namun kehidupan di sini masih cukup mandiri. Mengapa ini tidak bisa juga menjadi bentuk budidaya?\nIni adalah rumah baru di tengah segala kekacauan dan kerusuhan. Akankah ini menjadi awal yang baik juga? Semua orang penuh harapan.\n\n[color=#D06508]Perabotan Tingkat Lanjut Tidak Terkunci\nStasiun Kerja Tingkat Lanjut Tidak Terkunci[/color]		
-10010	Escaped Outer Disciple	Murid luarmu[NAME]telah melarikan diri di malam hari karena[IT]tidak tahan lagi tinggal di sini.		
-10011	Cultivator Again	Seseorang di antara kita telah menerobos!\nOrang ini tiba-tiba dapat merasakan energi kuat antara langit dan bumi: \nQi.\nGerbang kultivasi akhirnya terbuka untuk kita.\n\n[color=#D06508]Qi telah terlihat.\nAnda dapat mendirikan sekte sekarang.[/color]		
-10012	Departure	Saya tidak tahu kesalahan apa yang saya lakukan, tetapi karena Anda telah memintanya, saya akan melanjutkan perjalanan. Terima kasih semuanya atas kebaikan Anda beberapa hari terakhir ini.\n[TXT]Saya senang bisa tinggal dan bekerja bersama Anda.		
-10013	Prediction	    [NAME]Prediksi masa depan adalah:\n[TXT]		
-10014	Glowing Stone Casket	Malam ini bulan purnama. Peti batu yang diberikan oleh pendeta Tao itu tiba-tiba bersinar di tengah malam, dan kemudian sebuah celah muncul. Tampaknya Anda bisa dengan mudah membukanya.		
-10015	Cultivation Law Obtained	Anda telah memperoleh Hukum budidaya baru:[TXT]		
-10016	Cultivation System Unlocked	Anda telah memperoleh Hukum budidaya pertama Anda. Anda sekarang memenuhi syarat untuk melanjutkan kultivasi Anda. Hukum kultivasi akan penuh dengan kesulitan, namun hidup di masa sulit dapat menjadi sumber kesengsaraan yang tak ada habisnya, dan anda selalu hanyut. Mungkin menemukan Hukum kenaikan adalah satu-satunya cara untuk melepaskan diri dari semua masalah duniawi. \n\n[color=#D06508]Membuka kunci sistem budidaya.\nMembuka kunci bangunan untuk budidaya.\n(Lihat semua Hukum di menu Sekte)[/color]		
-10017	Invasion of Enemies	Sekelompok orang yang penuh permusuhan muncul di dekat sini.		
-10018	Ascension	    [NAME]telah melewati semua kesulitan dan akhirnya naik ke atas alam ini, hanya menyisakan tubuh fana yang abadi untuk disembah oleh generasi mendatang.\nSebuah puisi sebagai bukti:\n[color=#D06508]Dari kekacauan yang terjadi di alam semesta, manusia pertama lahir. Kesatuan muncul sebelum dualitas, dan Empat Simbol menjaga bumi.\nSang dewi memberi kehidupan pada semua ciptaan dari tanah liat, sementara Yang Maha Cerah melukiskan gambaran yang memisahkan Yin dan Yang.\nSeratus tahun penanaman berlalu sementara para prajurit bertempur dalam pertempuran yang tak terhitung jumlahnya. Seribu tahun lagi hanyalah sekejap mata dalam meditasi.\nSaya tidak akan berkata apa-apa lagi karena Kesengsaraan Surgawi datang untuk membawa saya pergi. Semua masalah duniawi akan hilang bersama angin setelah saya meninggalkan alam eksistensi ini.[/color]		
-10019	Assault	    [TXT]telah mengirim sekelompok murid elit untuk membalas dendam.		
-10020	Assault	    [TXT]telah mengirim murid senior untuk membalas dendam.		
-10021	Assault	    [TXT]telah mengirim tetua sekte yang berpengalaman untuk membalas dendam.		
-10022	Fire of Anger	Perilaku Anda membuat marah[TXT], dan mereka akan segera mengambil tindakan.		
-10023	Tribulation Day	    [NAME]Budidaya telah mencapai batasnya. Kesengsaraan Surgawi akan segera terjadi!		
-10024	Mysterious Immortal	Selama beberapa hari, Anda bersembunyi di siang hari dan melakukan perjalanan di malam hari, akhirnya sampai di jurang terpencil. Saat Anda hendak bersantai, cahaya teleportasi tiba-tiba muncul, menunjukkan kontur seorang kultivator.		
-10025	Mysterious Immortal	Kultivator misterius itu melihat sekeliling sambil berpikir keras, dan kemudian menghilang ke dalam cahaya teleportasi lainnya.		
-10026	Tutorial	Selamat! Anda telah menguasai fitur dasar Simulator Budidaya Luar Biasa.\nSelanjutnya, Anda dapat membuat karakter Anda sendiri di Klasik dan memulai perjalanan kultivasi yang sebenarnya.\nNikmati permainannya!		
-10027	Perished	Ini saat yang buruk. Hukum anda dalam berkultivasi belum dimulai dan belum berakhir. Yang tersisa hanyalah daratan dan lautan luas yang akan menghapus kesedihanmu.		
-10028	Destroyed	    [TXT]Yang tersisa hanyalah daratan dan lautan luas yang akan menghapus kesedihanmu.		
-10029	A New Beginning	Seorang pengelana yang bersembunyi di pegunungan menemukan reruntuhan tersebut. Tanpa ada tempat lain untuk pergi,[IT]memutuskan untuk tinggal di sini sekarang.		
-10030	Mysterious Immortal	Kamu merasakan kehadiran yang lembut dan hangat yang berhenti di sisimu untuk beberapa saat, sebelum perlahan menjadi lemah dan akhirnya menghilang, seolah-olah tidak pernah ada di sini...		
-10031	Blessed	    [TXT]menjadi diberkati, dan tiba-tiba mendapat banyak ketenaran dan berubah drastis.		
-10032	Absent-minded	    [NAME]harus segera kembali untuk meditasi karena terlalu lama dikirim ke luar sekte.		
-10033	Injured	    [NAME]harus kembali ke sekte untuk pulih dari cedera mereka selama penempatan.		
-10034	Blending In	Setelah beberapa waktu dihabiskan untuk hidup bersama,[NAME]telah sepenuhnya menyatu dengan sekte lainnya.		
-10035	Restless	Merasakan kehadiran seorang kultivator dengan Inti Emas,[NAME]tinggal di sini sepertinya sedikit gelisah...		
-10036	Attack	Untuk mencegahmu berkembang,[NAME]tinggal di sini telah menyerang.		
-10037	Restless	Merasa bahwa sekte Anda mungkin bukan ancaman potensial,[NAME]tinggal di sini berkonspirasi melawanmu...		
-10038	Attack	Tak mampu lagi menahan godaan darah dan daging,[NAME]tinggal di sini telah menyerang.		
-10039	Evolved	Dipengaruhi oleh cuaca dan Qi, a[NAME]telah diberkati dan berubah menjadi binatang.		
-10040	Sinister	    [NAME]datang ke tempat ini dan tiba-tiba merasakan sesuatu yang menyeramkan, seolah-olah ada makhluk jahat yang tinggal di dekatnya.		
-10041	Mysterious Cavern	Gempa bumi yang semakin sering terjadi di sekte Anda tiba-tiba berhenti baru-baru ini, dan pada saat yang sama, sebuah gua misterius muncul di tanah.\nPara pembudidaya kuno mulai lebih sering muncul di alam ini. Mungkin Anda bisa menanyakan informasi kepada mereka.		
-10042	Threatening	Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda berkorban[TXT].		
-10043	Sacrificed	Anda menyelesaikan ritual di depan gua, dan makhluk misterius itu sangat puas.		
-10044	Rainstorm	Makhluk misterius di dalam gua itu sangat marah, dan hujan badai datang dengan raungannya yang sangat marah.		
-10045	Qi Drought	Makhluk misterius di dalam gua itu sangat marah, dan tarikan kuat dari gua menyedot semua Qi di sekitar tempat itu.		
-10046	Polar Night	Makhluk misterius di dalam gua itu sangat marah, dan malam kutub dimulai sebagai akibat dari kemarahannya.		
-10047	Invasion of Beasts	Makhluk misterius di dalam gua sangat marah, dan menarik beberapa binatang untuk menyerang sekte Anda.		
-10048	Dawn of Anger	Makhluk misterius di dalam gua itu sangat marah, dan menyemburkan semburan air yang merusak permukaan tanah.		
-10049	Dragon Born	Makhluk misterius di dalam gua tidak dapat menahan amarahnya lagi. Dengan suara keras yang bisa menyebar ribuan mil, seekor binatang raksasa muncul dari tanah.		
-10050	Extreme Heat	Untuk alasan yang tidak diketahui, suhu rata-rata di alam ini tiba-tiba meningkat cukup tinggi. Kenaikan suhu ini jauh melampaui perubahan cuaca normal. Ini mungkin mengindikasikan sesuatu yang tidak biasa.		
-10051	Unhinged Monster	Kekeringan ekstrim telah membuat monster menjadi gila, dan beberapa monster yang tidak berdaya telah muncul di dekat sekte tersebut.		
-10052	Blazing Wing Falling	Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.		
-10053	Prolonged Drought	Panas yang terus berlanjut telah menyebabkan kekeringan. Anda merasakan suhu meningkat semakin tinggi. Jika Anda tidak mengambil tindakan sekarang, situasinya mungkin akan bertambah buruk.		
-10054	Unhinged Beast	Beberapa binatang menjadi gila karena ketakutan, dan mereka bahkan meninggalkan wilayah mereka sendiri untuk membuat kekacauan di mana-mana.		
-10055	Blazing Wing Falling	Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.		
-10056	Shrilling Sound	Setelah mengucapkan mantra untuk mengusir kekeringan yang berkepanjangan, Anda mendapati bahwa dunia tampak menjadi sangat menakutkan selama satu jam. Beberapa saat kemudian, sekawanan besar burung tiba-tiba terbang dari pegunungan terpencil. Suara melengking dan seram memecah kesunyian.		
+1	Jernih	Ini adalah hari yang sangat cerah dan cerah, tetapi Anda tidak tahu berapa lama hari itu akan berlangsung.		
+2	Berawan	Ini adalah hari yang sangat suram dan berawan, namun Anda tidak tahu berapa lama hari itu akan berlangsung.		
+3	Hujan ringan	Hujan sudah mulai turun dengan ringan.		
+4	Hujan lebat	Hujan mulai turun dengan deras.		
+5	Kabut Tebal	Kabut tebal tiba-tiba mulai terbentuk.		
+6	Suasana hati yang suram	Suasana suram yang aneh mulai merasuki sekte tersebut.		
+7	Roman	Suasana romantis mulai merasuki sekte tersebut.		
+8	Gangguan	Orang-orang di seluruh sekte tiba-tiba mulai mudah tersinggung.		
+9	Memanggil	Hujan es sudah mulai turun. (Tidak diterapkan)		
+10	Musim hujan	Musim hujan telah dimulai.		
+11	Kekeringan	Musim kemarau sudah dimulai.		
+12	Hujan badai	Hujan badai lebat telah dimulai, dan Elemen Air di seluruh langit dan bumi sangat aktif.		
+13	Angin Foehn	Angin foehn yang kering dan hangat telah mulai, dan Elemen Api di seluruh langit dan bumi sangat aktif.		
+14	Badai Debu	Badai debu menyapu seluruh daratan, dan Elemen Tanah di seluruh langit dan bumi sangat aktif.		
+15	Kekeringan Qi	Untuk alasan yang tidak diketahui, ini adalah musim kekeringan Qi di seluruh dunia.		
+16	Panas	Musim panas akan datang, jadi cuaca akan sangat hangat. Pastikan untuk mencegah sengatan panas.		
+17	Musim Dingin yang Dingin	Musim dingin akan datang, sehingga cuaca akan sangat dingin. Pastikan untuk tetap hangat.		
+18	Malam Kutub	Awan aneh menutupi matahari. Butuh beberapa waktu hingga Anda dapat melihat sinar matahari lagi.		
+19	Racun	Udara berbahaya meningkat di seluruh area, dan Elemen Kayu di seluruh langit dan bumi sangat aktif.		
+20	Hujan badai	Badai petir akan datang, dan Elemen Logam di seluruh langit dan bumi sangat aktif.		
+21	Binatang buas	A Fei telah muncul di dekat daerah tersebut, dan hujan terus menerus turun serta penyakit.		
+22	Binatang buas	Lushu telah muncul di dekat area tersebut, dan membawa cuaca cerah serta suasana yang menguntungkan.		
+23	Peri Kecil yang Aneh	Sekelompok binatang kecil dari Dunia Lain berkeliaran dengan harta karun ketika mereka melewati sekte Anda. Binatang buas ini sangat pemalu, tetapi kedua alam memiliki aturan yang berbeda, sehingga metode umum yang digunakan oleh para pembudidaya tidak dapat mempengaruhi mereka, dan makhluk kecil ini sering membuat kerusuhan di seluruh dunia. Untuk mendapatkan harta karun dari mereka, Anda perlu memikirkan hal lain.		
+24	Binatang buas	Binatang buas telah muncul di dekat area tersebut.		
+25	Harta karun	Seberkas cahaya telah jatuh dari langit. Tampaknya itu adalah sesuatu yang berharga.		
+26	Harta karun	Pertarungan magis yang sengit terjadi di langit tidak jauh dari sini. Sesuatu yang berharga telah jatuh di dekat area tersebut.		
+27	Harta karun	Seberkas cahaya tiba-tiba melonjak ke langit. Tampaknya ada harta karun yang menghiasi area ini.		
+28	Pengungsi yang lewat	Seorang pengungsi yang melarikan diri dari perang sedang lewat, dan [IT] ingin bergabung dengan Anda.		
+29	Rahasia			
+30	Rahasia			
+31	Rahasia			
+32	Rahasia			
+33	Rahasia			
+34	Menyerang	Sekelompok pria buas dari Hutan Selatan telah menyerang Anda.		
+35	Menyerang	Sekelompok bandit yang mencari nafkah dengan merampok orang di seluruh kota telah menyerang Anda.		
+36	Menyerang	Sekelompok pembudidaya nakal dari Laut Timur telah menyerang Anda demi uang dan sumber daya Anda.		
+37	Menyerang	Anda sedang diserang oleh sekelompok penggarap jahat dari barat.		
+38	Menyerang	Sekte Anda sedang diserang oleh sekelompok murid nakal dari sekte jahat.		
+39	Menyerang	Sekte Anda sedang diserang oleh sekelompok pembudidaya yang kuat.		
+40	Menyerang	Sekte Anda sedang diserang oleh sekelompok pembudidaya jahat yang terkenal.		
+41	Waktu yang Berbeda	Gempa bumi terjadi di Wild South baru-baru ini, dan sejumlah besar orang biadab dan bandit dari selatan melarikan diri ke sini.		
+42	Pengunjung Abadi	Seorang teman abadi Anda sedang mengunjungi sekte Anda, dan dia mungkin ingin tinggal selama beberapa hari.	Immortal Visitor	
+43	Orang Asing yang Bingung	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
+44	Orang Asing yang Penasaran	Orang asing yang penasaran menemukan tempat ini secara tidak sengaja, dan [IT] ingin tahu apa sebenarnya yang kami lakukan.	Curious Stranger	
+45	Orang Asing yang Terluka	Ada orang asing yang terluka, dan [IT] ingin tinggal di sini sebentar dan meminta bantuan kami.	Injured Stranger	
+46	Salju Ringan	Salju sudah mulai turun.		
+47	Salju Lebat	Salju sudah mulai turun dengan lebat.		
+48	Pengamat	Seorang kultivator sedang mengamati Anda, tetapi sepertinya mereka tidak bermaksud jahat.	Observer	
+49	Serangan Binatang	Sekelompok serigala lapar muncul di dekat sini, dan mereka sangat bermusuhan.		
+50	Serangan Binatang	Sekelompok kelinci gila muncul di dekat sini, dan mereka sangat bermusuhan.		
+51	Serangan Binatang	Sekelompok ular agresif muncul di dekat sini, dan mereka sangat bermusuhan.		
+52	Serangan Binatang	Sekelompok babi hutan yang panik muncul di dekat sini, dan mereka sangat bermusuhan.		
+53	Rahasia			
+54	Rahasia			
+55	Rahasia			
+56	Rahasia			
+57	Rahasia			
+58	Rahasia			
+59	Rahasia			
+61	Rahasia			
+62	Rahasia			
+63	Rahasia			
+64	Rahasia			
+65	Rahasia			
+66	Rahasia			
+67	Rahasia			
+68	Rahasia			
+69	Rahasia			
+70	Rahasia			
+71	Rahasia			
+72	Rahasia			
+73	Rahasia			
+74	Rahasia			
+75	Rahasia			
+80	Angin Hangat	Hembusan angin hangat melewati area ini pada hari-hari terdingin, dan musim dingin kali ini akan jauh lebih hangat.		
+81	Angin Dingin	Hembusan angin dingin melewati area ini selama hari-hari terpanas, dan musim panas ini akan jauh lebih dingin.		
+82	Semangat Panen	Semangat panen yang baik mulai merasuki daerah tersebut.		
+83	Semburan Qi	Untuk alasan yang tidak diketahui, Qi di langit dan bumi tiba-tiba mulai meledak. Beberapa tanaman terpengaruh dan menjadi Spiritwood.		
+84	Rahasia			
+85	Musim semi akan datang	Kehangatan musim semi meresap ke udara.		
+86	Invasi Binatang Buas	Beberapa monster kelinci muncul di dekat sini, dan mereka sangat bermusuhan.		
+87	Invasi Binatang Buas	Beberapa monster serigala muncul di dekat sini, dan mereka sangat bermusuhan.		
+88	Invasi Binatang Buas	Beberapa monster ular muncul di dekat sini, dan mereka sangat bermusuhan.		
+89	Invasi Binatang Buas	Beberapa monster babi hutan telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+90	Invasi Binatang Buas	Beberapa monster beruang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+91	Invasi Binatang Buas	Beberapa katak raksasa muncul di dekat sini, dan mereka sangat bermusuhan.		
+92	Invasi Binatang Buas	Beberapa kura-kura raksasa muncul di dekat sini, dan mereka sangat bermusuhan.		
+93	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+94	Jejak Naga Banjir			
+95	Jejak Phoenix			
+96	Jejak Naga Obor			
+97	Penggarap Kuno			
+98	Rahasia			
+99	Rahasia			
+100	Rahasia			
+101	Rahasia			
+102	Pengunjung Abadi	Seorang teman abadi Anda diundang untuk mengunjungi sekte Anda, dan dia akan tinggal selama beberapa hari.	Immortal Visitor	
+103	Jejak Ditemukan			
+104	Rahasia			
+105	Roh Hidup Lewat	[NAME] makhluk hidup telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
+106	Roh Hidup Lewat	[NAME] makhluk hidup telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
+107	Invasi Binatang Buas	Beberapa monster ayam muncul di dekat sini, dan mereka sangat bermusuhan.		
+108	Invasi Binatang Buas	Beberapa monster ayam muncul di dekat sini, dan mereka sangat bermusuhan.		
+109	Invasi Binatang Buas	Beberapa monster banteng muncul di dekat sini, dan mereka sangat bermusuhan.		
+110	Invasi Binatang Buas	Beberapa monster harimau muncul di dekat sini, dan mereka sangat bermusuhan.		
+111	Serangan Binatang	Sekelompok ayam gila muncul di dekat sini, dan mereka sangat bermusuhan.		
+112	Serangan Binatang	Seekor beruang agresif muncul di dekat sini, dan ia sangat bermusuhan.		
+113	Serangan Binatang	Sekelompok penyu yang panik muncul di dekat sini, dan mereka sangat bermusuhan.		
+114	Serangan Binatang	Sekelompok katak gila muncul di dekat sini, dan mereka sangat bermusuhan.		
+115	Serangan Binatang	Seekor kucing agresif muncul di dekat sini, dan ia sangat bermusuhan.		
+116	Serangan Binatang	Sekelompok banteng gila telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+117	Serangan Binatang	Seekor harimau agresif muncul di dekat sini, dan ia sangat bermusuhan.		
+118	Menyerang	Sekelompok pembudidaya Yaoguai menaruh perhatian serakah pada properti sekte Anda. Mereka muncul di dekatnya dengan penuh permusuhan.		
+119	Menyerang	Sekelompok pembudidaya Yaoguai bermaksud menumbangkan sekte Anda. Mereka berkeliaran di sekitar dengan mata haus darah.		
+120	Menyerang	Sekelompok pembudidaya Yaoguai menyimpan kebencian yang besar terhadap sekte Anda karena alasan tertentu, dan mereka akan melancarkan serangan.		
+121	Menyerang	Sekelompok pembudidaya Yaoguai yang kuat bermaksud merampok kekayaan sekte Anda untuk memperkaya diri mereka sendiri.		
+122	Menyerang	Sekelompok pembudidaya Yaoguai yang kuat mencoba memecat dan membantai sekte Anda.		
+123	Menyerang	Sekelompok pembudidaya Yaoguai gila mencoba menyerang sekte Anda.		
+124	Permohonan Perlindungan	Yaoguai yang baru saja berubah bentuk mencari perlindunganmu, berharap bisa selamat dari Kesengsaraan Surgawi Perubahan Bentuk dengan bantuanmu.		
+125	Hewan Bergabung	Seekor kucing telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
+126	Hewan Bergabung	Seekor ayam telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
+127	Hewan Bergabung	Seekor banteng telah datang ke sekte Anda, sepertinya senang berada di sini.		
+128	Hewan Bergabung	Seekor kura-kura telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
+129	Hewan Bergabung	Seekor kelinci telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
+130	Hewan Bergabung	Seekor katak telah datang ke sekte Anda, sepertinya dia senang berada di sini.		
+1000	Naga Melewati			
+1001	Semburan Qi			
+1002	Phoenix Melewati			
+10000	Pembentukan	Kami hidup dalam pengasingan di sini, mencoba memulai kembali kultivasi kami. Kami juga mendirikan sekte kecil kami sendiri. Akankah ini menjadi awal dari legenda baru?\n\n[color=#D06508]Membuka dekorasi.\nMembuka lebih banyak bangunan.[/color]		
+10001	Terkenal	Sekte kami secara bertahap mendapatkan ketenarannya, dan ini bukanlah tugas yang mudah. Mari kita lanjutkan membangunnya menjadi sekte yang lebih besar.\n\n[color=#D06508]Populasi maksimum sekte ini telah ditingkatkan.[/color]		
+10002	Terkenal	Sekte kami telah mendapatkan keunggulannya di dunia kultivator. Ini telah menjadi tempat praktik yang diimpikan semua orang untuk bergabung.\n\n[color=#D06508]Populasi maksimum sekte ini telah ditingkatkan.\nAnda dapat mendirikan cabang baru melalui Struktur Sekte.		
+10003	Pemimpin Baru	[NAME] telah menjadi pemimpin sekte kami. Yang satu ini pasti akan membawa kita semua menuju keabadian.		
+10004	Kurangnya Pemimpin	Kami membutuhkan seseorang untuk menjadi pemimpin sekte kami.\n[color=#D06508]Anda dapat memilih pemimpin sekte melalui [Struktur Sekte] di menu Sekte.[/color]		
+10005	Murid yang Direkomendasikan	Murid yang direkomendasikan hampir tiba.		
+10006	Hindari Kerusuhan	Karena Anda melarikan diri dengan tergesa-gesa, Anda tidak membawa banyak sumber daya. Anda telah melarikan diri selama beberapa hari, dan hal ini menghabiskan hampir seluruh energi Anda.\nTanpa pilihan lain, Anda harus tetap di sini dan memulihkan diri untuk saat ini.		
+10007	Mapan	Api unggun yang hangat membantu meredakan ketegangan dan kegelisahan Anda. Setelah diskusi singkat, Anda memutuskan bahwa Anda cukup jauh dari bahaya, jadi Anda harus mendirikan perkemahan sementara di sini.\n\n[color=#D06508]Bangunan Struktural Tidak Terkunci\nPerabotan Dasar Tidak Terkunci\nStasiun Kerja Dasar Tidak Terkunci\nPapan Lantai dan Atap Tidak Terkunci[/color]		
+10008	Puas	Meskipun Anda masih menderita karena kehilangan murid dan guru senior Anda, Anda perlahan-lahan mulai tenang. Menyadari bahwa ini adalah tempat yang sangat terpencil dan orang-orang yang mengejar Anda sepertinya sudah menyerah, Anda memutuskan untuk tinggal di sini setelah berdiskusi kecil.\n\n[color=#D06508][/color]		
+10009	Rumah Baru	Anda sepertinya sudah terbiasa dengan kehidupan di sekitar sini. Meski tidak senyaman saat masih di sekte lama, namun kehidupan di sini masih cukup mandiri. Mengapa ini tidak bisa juga menjadi bentuk budidaya?\nIni adalah rumah baru di tengah segala kekacauan dan kerusuhan. Akankah ini menjadi awal yang baik juga? Semua orang penuh harapan.\n\n[color=#D06508]Perabotan Tingkat Lanjut Tidak Terkunci\nStasiun Kerja Tingkat Lanjut Tidak Terkunci[/color]		
+10010	Murid Luar yang Lolos	Murid luar Anda [NAME] telah melarikan diri pada malam hari karena [IT] tidak tahan lagi tinggal di sini.		
+10011	Kultivator Lagi	Seseorang di antara kita telah menerobos!\nOrang ini tiba-tiba dapat merasakan energi yang kuat antara langit dan bumi: \nQi.\nGerbang kultivasi akhirnya terbuka untuk kita.\n\n[color=#D06508]Qi telah terlihat.\nAnda dapat mendirikan sekte sekarang.[/color]		
+10012	Keberangkatan	Saya tidak tahu kesalahan apa yang saya lakukan, tetapi karena Anda telah memintanya, saya akan melanjutkan perjalanan. Terima kasih semuanya atas kebaikan Anda beberapa hari terakhir ini.\n[TXT] Saya senang bisa tinggal dan bekerja bersama Anda.		
+10013	Ramalan	Prediksi [NAME] untuk masa depan adalah:\n[TXT]		
+10014	Peti Mati Batu Bersinar	Malam ini bulan purnama. Peti batu yang diberikan oleh pendeta Tao itu tiba-tiba bersinar di tengah malam, dan kemudian sebuah celah muncul. Tampaknya Anda bisa dengan mudah membukanya.		
+10015	Hukum Budidaya Diperoleh	Anda telah memperoleh Hukum budidaya baru: [TXT]		
+10016	Sistem Budidaya Tidak Terkunci	Anda telah memperoleh Hukum budidaya pertama Anda. Anda sekarang memenuhi syarat untuk melanjutkan kultivasi Anda. Hukum kultivasi akan penuh dengan kesulitan, namun hidup di masa sulit dapat menjadi sumber kesengsaraan yang tak ada habisnya, dan anda selalu hanyut. Mungkin menemukan Hukum kenaikan adalah satu-satunya cara untuk melepaskan diri dari semua masalah duniawi. \n\n[color=#D06508]Membuka kunci sistem budidaya.\nMembuka kunci bangunan untuk budidaya.\n(Lihat semua Hukum di menu Sekte)[/color]		
+10017	Invasi Musuh	Sekelompok orang yang penuh permusuhan muncul di dekat sini.		
+10018	Kenaikan	[NAME] telah melewati semua kesulitan dan akhirnya naik ke atas alam ini, hanya menyisakan tubuh fana yang abadi untuk disembah oleh generasi mendatang.\nSebuah puisi sebagai bukti:\n[color=#D06508]Dari kekacauan yang terpilah di alam semesta, manusia pertama lahir. Kesatuan muncul sebelum dualitas, dan Empat Simbol menjaga bumi.\nSang dewi memberi kehidupan pada semua ciptaan dari tanah liat, sementara Yang Maha Cerah melukiskan gambaran yang memisahkan Yin dan Yang.\nSeratus tahun penanaman berlalu sementara para prajurit bertempur dalam pertempuran yang tak terhitung jumlahnya. Seribu tahun lagi hanyalah sekejap mata dalam meditasi.\nSaya tidak akan berkata apa-apa lagi karena Kesengsaraan Surgawi datang untuk membawa saya pergi. Semua masalah duniawi akan hilang bersama angin setelah saya meninggalkan alam eksistensi ini.[/color]		
+10019	Menyerang	[TXT] telah mengirimkan sekelompok murid elit untuk membalas dendam.		
+10020	Menyerang	[TXT] telah mengirim murid senior untuk membalas dendam.		
+10021	Menyerang	[TXT] telah mengirimkan tetua sekte yang berpengalaman untuk membalas dendam.		
+10022	Api Kemarahan	Perilaku Anda telah membuat marah [TXT], dan mereka akan segera mengambil tindakan.		
+10023	Hari Kesengsaraan	Budidaya [NAME] telah mencapai batasnya. Kesengsaraan Surgawi akan segera terjadi!		
+10024	Abadi yang Misterius	Selama beberapa hari, Anda bersembunyi di siang hari dan melakukan perjalanan di malam hari, akhirnya sampai di jurang terpencil. Saat Anda hendak bersantai, cahaya teleportasi tiba-tiba muncul, menunjukkan kontur seorang kultivator.		
+10025	Abadi yang Misterius	Kultivator misterius itu melihat sekeliling sambil berpikir keras, dan kemudian menghilang ke dalam cahaya teleportasi lainnya.		
+10026	tutorial	Selamat! Anda telah menguasai fitur dasar Simulator Budidaya Luar Biasa.\nSelanjutnya, Anda dapat membuat karakter Anda sendiri di Klasik dan memulai perjalanan kultivasi yang sebenarnya.\nNikmati permainannya!		
+10027	Binasa	Ini saat yang buruk. Hukum anda dalam berkultivasi belum dimulai dan belum berakhir. Yang tersisa hanyalah daratan dan lautan luas yang akan menghapus kesedihanmu.		
+10028	Hancur	[TXT] Yang tersisa hanyalah daratan dan lautan luas yang akan menghapus kesedihanmu.		
+10029	Awal yang Baru	Seorang pengelana yang bersembunyi di pegunungan menemukan reruntuhan tersebut. Karena tidak punya tempat lain untuk dituju, [IT] memutuskan untuk tinggal di sini sekarang.		
+10030	Abadi yang Misterius	Kamu merasakan kehadiran yang lembut dan hangat yang berhenti di sisimu untuk beberapa saat, sebelum perlahan menjadi lemah dan akhirnya menghilang, seolah-olah tidak pernah ada di sini...		
+10031	Diberkati	[TXT] menjadi diberkati, dan tiba-tiba mendapat banyak ketenaran dan berubah drastis.		
+10032	Linglung	[NAME] harus segera kembali untuk meditasi karena terlalu lama dikirim ke luar sekte.		
+10033	Terluka	[NAME] harus kembali ke sekte untuk memulihkan cedera mereka selama ditempatkan.		
+10034	Memadukan	Setelah menghabiskan sedikit waktu untuk hidup bersama, [NAME] telah sepenuhnya berbaur dengan anggota sekte lainnya.		
+10035	Gelisah	Merasakan kehadiran seorang kultivator dengan Inti Emas, [NAME] yang tinggal di sini sepertinya sedikit gelisah...		
+10036	Menyerang	Untuk mencegah Anda berkembang, [NAME] yang tinggal di sini telah menyerang.		
+10037	Gelisah	Merasa bahwa sekte Anda mungkin bukan ancaman potensial, [NAME] yang tinggal di sini berkonspirasi melawan Anda...		
+10038	Menyerang	Tak mampu lagi menahan godaan darah dan daging, [NAME] yang tinggal disini telah menyerang.		
+10039	Berkembang	Dipengaruhi oleh cuaca dan Qi, [NAME] telah diberkati dan diubah menjadi binatang buas.		
+10040	Jahat	[NAME] datang ke tempat ini dan tiba-tiba merasakan sesuatu yang menyeramkan, seolah-olah ada makhluk jahat yang tinggal di dekatnya.		
+10041	Gua Misterius	Gempa bumi yang semakin sering terjadi di sekte Anda tiba-tiba berhenti baru-baru ini, dan pada saat yang sama, sebuah gua misterius muncul di tanah.\nPara pembudidaya kuno mulai lebih sering muncul di alam ini. Mungkin Anda bisa menanyakan informasi kepada mereka.		
+10042	Mengancam	Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda mengorbankan [TXT].		
+10043	Dikorbankan	Anda menyelesaikan ritual di depan gua, dan makhluk misterius itu sangat puas.		
+10044	Hujan badai	Makhluk misterius di dalam gua itu sangat marah, dan hujan badai datang dengan raungannya yang sangat marah.		
+10045	Kekeringan Qi	Makhluk misterius di dalam gua itu sangat marah, dan tarikan kuat dari gua menyedot semua Qi di sekitar tempat itu.		
+10046	Malam Kutub	Makhluk misterius di dalam gua itu sangat marah, dan malam kutub dimulai sebagai akibat dari kemarahannya.		
+10047	Invasi Binatang Buas	Makhluk misterius di dalam gua sangat marah, dan menarik beberapa binatang untuk menyerang sekte Anda.		
+10048	Fajar Kemarahan	Makhluk misterius di dalam gua itu sangat marah, dan menyemburkan semburan air yang merusak permukaan tanah.		
+10049	Lahirnya Naga	Makhluk misterius di dalam gua tidak dapat menahan amarahnya lagi. Dengan suara keras yang bisa menyebar ribuan mil, seekor binatang raksasa muncul dari tanah.		
+10050	Panas Ekstrim	Untuk alasan yang tidak diketahui, suhu rata-rata di alam ini tiba-tiba meningkat cukup tinggi. Kenaikan suhu ini jauh melampaui perubahan cuaca normal. Ini mungkin mengindikasikan sesuatu yang tidak biasa.		
+10051	Monster yang Tidak Tertekuk	Kekeringan ekstrim telah membuat monster menjadi gila, dan beberapa monster yang tidak berdaya telah muncul di dekat sekte tersebut.		
+10052	Sayap Berkobar Jatuh	Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.		
+10053	Kekeringan yang Berkepanjangan	Panas yang terus berlanjut telah menyebabkan kekeringan. Anda merasakan suhu meningkat semakin tinggi. Jika Anda tidak mengambil tindakan sekarang, situasinya mungkin akan bertambah buruk.		
+10054	Binatang yang Tidak Tertekuk	Beberapa binatang menjadi gila karena ketakutan, dan mereka bahkan meninggalkan wilayah mereka sendiri untuk membuat kekacauan di mana-mana.		
+10055	Sayap Berkobar Jatuh	Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.		
+10056	Suara Melengking	Setelah mengucapkan mantra untuk mengusir kekeringan yang berkepanjangan, Anda mendapati bahwa dunia tampak menjadi sangat menakutkan selama satu jam. Beberapa saat kemudian, sekawanan besar burung tiba-tiba terbang dari pegunungan terpencil. Suara melengking dan seram memecah kesunyian.		
 10057	Phoenix	Phoenix ada di sini.		
-10058	Polar Night Begins	Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Malam yang gelap menyelimuti area sekitar sekte Anda.		
-10059	Eggs of Yin	Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah malam. Ada sesuatu yang menetas di dalam diri mereka...		
-10060	Polar Day Begins	Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Saat itu tengah hari di daerah sekitar sekte Anda... Anda tidak tahu berapa lama kekacauan ini akan berlanjut.		
-10061	Eggs of Yang	Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah hari. Ada sesuatu yang menetas di dalam diri mereka...		
-10062	Torch Dragon Born	Kekacauan Yin dan Yang yang terus berlanjut akhirnya mencapai batasnya. Sambil menghela nafas panjang, makhluk raksasa mulai muncul di dunia nyata.		
-10063	Torch Dragon's Chaos	Saat telur aneh mulai menetas, Yin dan Yang dari alam ini perlahan kehilangan keseimbangan.		
-10064	Torch Dragon's Chaos	Saat telur-telur aneh itu dihancurkan, Yin dan Yang dari alam ini perlahan-lahan kehilangan keseimbangan.		
-10065	Drastic Change	Tiba-tiba terjadi ledakan Qi di Dataran Tengah. Seiring berjalannya waktu, masyarakat mulai menyadari bahwa skala dan intensitas ledakan tersebut melampaui ekspektasi. Ini telah menyebar dari titik ledakan pusat selama lebih dari sebulan, membuktikan bahwa itu sebenarnya adalah perubahan drastis yang akan mempengaruhi semua kultivator.\nSekarang, pengaruh ledakan telah mencapai sekte Anda. Saat semua orang menikmati Qi yang melimpah, Anda bertanya-tanya apa arti perubahan drastis ini bagi Anda semua...		
-10066	Thousand-year Tide	Sudah berhari-hari sejak ledakan Qi selesai menyebar ke seluruh dunia. Dari membaca dokumen-dokumen lama, sekte-sekte terkenal akhirnya memutuskan bahwa gelombang Qi-lah yang melonjak setiap 3.000 tahun. Para penggarap kuno yang tertidur karena berbagai alasan mulai dihidupkan kembali satu per satu oleh Gelombang Seribu Tahun.\nTanpa tatanan dan aturan saat ini, para penggarap di zaman dahulu percaya pada hukum rimba. Para kultivator dengan kepercayaan kuno dan pengalaman panjang dalam berkultivasi ini telah menyebabkan kekacauan di dunia kultivator hanya dalam beberapa hari...		
-10067	Disaster in the Wild South	Sebuah bencana misterius terjadi baru-baru ini di pegunungan di perbatasan utara. Dikatakan bahwa tanah dan gunung berguncang selama satu menit, dan suaranya sangat keras hingga menyebar ribuan mil. Ketika para penggarap terdekat tiba, mereka hanya menemukan semua gunung tenggelam dalam air, dengan Qi yang kuat dan tidak menyenangkan merembes ke area tersebut.\nTampaknya beberapa binatang purba langka dan sulit ditangkap yang bersembunyi di pegunungan dan danau terpengaruh oleh Gelombang Seribu Tahun dan menjadi aktif kembali.		
-10068	Underground Noise	Gelombang Seribu Tahun telah berlalu. Dalam waktu kurang dari sebulan, para pembudidaya kuno dihidupkan kembali, dan binatang buas kuno mulai aktif kembali... Dunia para pembudidaya dihadapkan pada perubahan drastis. Seiring berjalannya waktu, dunia kultivator secara bertahap mendapatkan kembali kedamaian dan keseimbangannya. Segalanya tampak kembali ke jalurnya.\nNamun, guncangan bawah tanah mulai sering terjadi di sekte Anda. Anda tidak tahu apa yang sedang terjadi...		
-10069	Invasion of an Ancient Cultivator	Kultivator kuno ini telah berhasil menemukan sekte Anda setelah penyelidikan yang cermat.		
-10070	Beast Awakens	Binatang buas yang menempati tanah ini telah bangkit.		
-10071	Tribulation of Dragons	Kekuatan Kesengsaraan Surgawi telah membunuh semua Naga Banjir yang belum lahir...		
-10072	Disturbance of the Otherworld	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
-10073	Disturbance of the Otherworld	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
-10074	Disturbance of the Otherworld	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
-10075	Disturbance of the Otherworld	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
-10076	Departure	Mengapa Anda mengirim saya sebagai hadiah[TXT]?		
-10077	Ascension	    [NAME]telah mencapai keilahian mereka dan kehilangan semua perasaan dan emosi. Dengan setiap hubungan dan koneksi antarmanusia terputus,[IT]telah sepenuhnya berubah menjadi dewa di alam ini.		
-10078	Condemnation from the Merchant Union	Karena perilaku kasar Anda, Merchant Union telah memutuskan untuk melarang Anda dari daftar perdagangan mereka selamanya.		
-10079	Revenge	    [TXT]Teman dan sesepuh datang ke sekte Anda dengan ekspresi marah dan agresif, meminta penjelasan dan permintaan maaf Anda.		
-10080	Revenge	    [TXT]telah mengkhianati sekte mereka sendiri karena kamu. Teman lama dan orang tua mereka sangat marah dan akan datang meminta penjelasan dan permintaan maaf Anda.		
-10081	Connection	    [TXT]Murid telah mengkhianati sekte mereka karena Anda, tetapi karena Anda memiliki hubungan yang baik satu sama lain, tetua senior mereka telah memerintahkan untuk tidak melanjutkan masalah ini.\n(Koneksi dikurangi)		
-10082	Connection	    [TXT]Murid telah mengkhianati sekte mereka karena Anda, tetapi karena Anda memiliki hubungan yang baik satu sama lain, mereka berusaha untuk tidak melanjutkan masalah ini. Namun bantuan yang mereka berikan kepada Anda mungkin tidak cukup untuk menghentikan mereka untuk tetap diam.\n(Koneksi dikurangi)		
-10083	Visit from the Merchant Union	    [NAME]dari Merchant Union datang berkunjung, dan dia akan tinggal di sini selama satu hari.		
-10084	Return from the Otherworld	Beberapa hari yang lalu, sekelompok pedagang di serikat pekerja menghilang saat menjelajahi Otherworld Rift. Ketika semua orang mengira mereka akan pergi untuk selamanya, Celah Dunia Lain terbuka lagi dan semua pedagang kembali dengan selamat, bahkan membawa banyak barang aneh dari Dunia Lain.\nNamun, sejumlah besar benda Dunia Lain telah membawa Pengakuan Iman Surga dari Dunia Lain. Di bawah pengaruh cara surga di Dunia Lain, beberapa perubahan sementara telah terjadi pada cara surgawi di dunia ini juga. Bahkan Naga Obor, perwujudan Aturan Yin dan Yang, menjadi sedikit aneh...		
-10085	Awakened Bear			At [TXT], a bear came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10086	Awakened Rabbit			At [TXT], a rabbit came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10087	Awakened Chicken			At [TXT], a chicken came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10088	Awakened Wolf			At [TXT], a wolf came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10089	Awakened Snake			At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10090	Awakened Boar			At [TXT], a boar came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10091	Awakened Frog			At [TXT], a frog came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10092	Awakened Turtle			At [TXT], a turtle came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10093	Awakened Cat			At [TXT], a cat came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10094	Awakened Tiger			At [TXT], a tiger came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10095	Awakened Bull			At [TXT], a bull came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10096	Master's Enlightenment	Diberkati oleh keberuntungan,[NAME]mendapat pencerahan dari[TNAME]pada[TIME], dan dengan demikian telah menjadi Roh yang Hidup.		
-10097	Sentient World	Diberkati oleh keberuntungan,[NAME]memperoleh energi langit dan bumi di[WEATHER], membangkitkan kesadaran diri dan menjadi Roh yang Hidup.		
-10098	Awakening Energy	Diberkati oleh keberuntungan, setelah menghabiskan waktu bertahun-tahun di[TNAME]sisi,[NAME]secara tidak sengaja membangkitkan kesadaran diri dan menjadi Makhluk Roh, karena energi yang terkumpul dari mendengarkan kata-kata bijak.		
-10099	Awakened Bear			At [TXT], for some reason, a bear accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10100	Awakened Rabbit			At [TXT], for some reason, a rabbit accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10101	Awakened Chicken			At [TXT], for some reason, a chicken accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10102	Awakened Wolf			At [TXT], for some reason, a wolf accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10103	Awakened Snake			At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10104	Awakened Boar			At [TXT], for some reason, a boar accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10105	Awakened Frog			At [TXT], for some reason, a frog accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10106	Awakened Turtle			At [TXT], for some reason, a turtle accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10107	Awakened Cat			At [TXT], for some reason, a cat accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10108	Awakened Tiger			At [TXT], for some reason, a tiger accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10109	Awakened Bull			At [TXT], for some reason, a bull accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10110	Awakened Bear			A bear "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10111	Awakened Rabbit			A rabbit "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10112	Awakened Chicken			A chicken "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10113	Awakened Wolf			After "[FRAG]" multiple times, a wolf had a sudden Enlightment and became awakened at [TXT].
-10114	Awakened Snake			After "[FRAG]" multiple times, a snake had a sudden Enlightment and became awakened at [TXT].
-10115	Awakened Boar			After "[FRAG]" multiple times, a boar had a sudden Enlightment and became awakened at [TXT].
-10116	Awakened Frog			After "[FRAG]" multiple times, a frog had a sudden Enlightment and became awakened at [TXT].
-10117	Awakened Turtle			After "[FRAG]" multiple times, a turtle had a sudden Enlightment and became awakened at [TXT].
-10118	Awakened Cat			After "[FRAG]" multiple times, a cat had a sudden Enlightment and became awakened at [TXT].
-10119	Awakened Tiger			After "[FRAG]" multiple times, a tiger had a sudden Enlightment and became awakened at [TXT].
-10120	Awakened Bull			After "[FRAG]" multiple times, a bull had a sudden Enlightment and became awakened at [TXT].
-10121	Retreating Enemy	Gelombang makhluk bermusuhan bermaksud menyerang Anda. Namun setelah mempertimbangkan dengan cermat reputasi sekte Anda di dunia kultivasi, mereka akhirnya memutuskan untuk menyerah.		
-10122	Ascension	    [NAME]telah melewati semua kesulitan dan akhirnya terlupakan dengan tubuh fana, melampaui alam ini dan tidak meninggalkan apa pun kecuali legenda untuk diceritakan kepada generasi mendatang.\nSebuah puisi sebagai bukti:\n[color=#D06508]Dari kekacauan yang terjadi di alam semesta, manusia pertama lahir. Kesatuan muncul sebelum dualitas, dan Empat Simbol menjaga bumi.\nSang dewi memberi kehidupan pada semua ciptaan dari tanah liat, sementara Yang Maha Cerah melukiskan gambaran yang memisahkan Yin dan Yang.\nSeratus tahun penanaman berlalu sementara para prajurit bertempur dalam pertempuran yang tak terhitung jumlahnya. Seribu tahun lagi hanyalah sekejap mata dalam meditasi.\nSaya tidak akan berkata apa-apa lagi karena Kesengsaraan Surgawi datang untuk membawa saya pergi. Semua masalah duniawi akan hilang bersama angin setelah saya meninggalkan alam eksistensi ini.[/color]		
-10127	Converged Fortune	Setelah menaklukkan semua sekte dengan kekuatan tak tertandingi, sekte Anda telah mengumpulkan semua kekayaan dari alam penggarap, dan Mini Universe Anda mulai memancarkan cahaya aneh dan redup.		
-10128	Converged Fortune	Hanya dalam beberapa tahun, sudah ada 50 murid yang naik keabadian di sekte Anda. Oleh karena itu, keberuntungan ilahi yang besar telah berkumpul di sini, dan Mini Universe Anda mulai memancarkan cahaya redup yang aneh.		
-10129	Converged Fortune	Setelah banyak kesulitan, seorang kultivator Inti Emas di sekte Anda telah selamat dari sembilan Kesengsaraan Surgawi, menarik keberuntungan ilahi untuk berkumpul di sini, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya aneh dan redup.		
-10130	Converged Fortune	Seiring berjalannya waktu, sekte Anda telah didirikan di sini selama beberapa dekade, secara bertahap menyatu dengan lingkungan dan menyerap kekayaan, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya yang aneh dan redup.		
-10131	Converged Fortune	Untuk mengungkap kebenaran kehancuran Sekte Taiyi, Anda secara tak terduga telah mengungkap rahasia paling kuno di dunia setelah penyelidikan yang cermat, di mana keberuntungan ilahi yang besar telah berkumpul di sini, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya yang aneh dan redup.		
-10132	Converged Fortune	Kepercayaan surga telah berubah drastis, dan Mini Universe Anda mulai memancarkan cahaya redup yang aneh.		
-10133	The time has come	Mini Universe tiba-tiba bergetar aneh. Anda mengingatkan pengaturannya dengan Fu Bikong dan inilah waktunya.		
-10123	Otherworld Merchant	    [NAME]dari Traveling Merchant Guild diteleportasi ke sini melalui Otherworld Rift.		
-10124	Otherworld Rift	Segerombolan binatang buas diteleportasi ke sini melalui Otherworld Rift.		
-10125	Otherworld Rift	Beberapa monster diteleportasi ke sini melalui Otherworld Rift.		
-10126	Otherworld Rift	Sekelompok musuh diteleportasi ke sini melalui Otherworld Rift.		
-30001	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30002	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30003	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30004	Assault	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
-30005	Assault	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
-30006	Assault	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
-30008	Polar Night	Gangguan pada Stela Yin Yang menyebabkan energi Yin meluap. Akibatnya, matahari menolak terbit.		
-30009	Heat Wave	Fiery Chasm menjadi tidak stabil, mengakibatkan suhu tinggi yang tidak normal.		
-30010	Chilling Air	Tungku Beku menjadi tidak stabil, mengakibatkan suhu rendah secara tidak normal.		
-30012	Rainstorm	Hujan badai lebat telah dimulai, dan Elemen Air di seluruh langit dan bumi sangat aktif.		
-30013	Foehn Wind	Angin foehn yang kering dan hangat telah mulai, dan Elemen Api di seluruh langit dan bumi sangat aktif.		
-30014	Dust Storm	Badai debu menyapu seluruh daratan, dan Elemen Tanah di seluruh langit dan bumi sangat aktif.		
-30015	Qi Drought	Untuk alasan yang tidak diketahui, ini adalah musim kekeringan Qi di seluruh dunia.		
-30018	Polar Night	Awan aneh menutupi matahari. Butuh beberapa waktu hingga Anda dapat melihat sinar matahari lagi.		
-30019	Miasma	Udara berbahaya meningkat di seluruh area, dan Elemen Kayu di seluruh langit dan bumi sangat aktif.		
-30020	Thunderstorm	Badai petir akan datang, dan Elemen Logam di seluruh langit dan bumi sangat aktif.		
-30021	Assault	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
-30022	Thunderstorm	Menjawab keresahan Gua Misterius, badai petir melanda.		
-30028	Passer-by Refugee	Seorang pengungsi yang melarikan diri dari perang sedang lewat, dan[IT]ingin bergabung denganmu.		
-30043	Confused Stranger	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
-30044	Curious Stranger	Orang asing yang penasaran menemukan tempat ini secara tidak sengaja, dan[IT]ingin tahu apa sebenarnya yang sedang kami lakukan.	Curious Stranger	
-30045	Injured Stranger	Orang asing terluka, dan[IT]ingin tinggal di sini sebentar dan meminta bantuan kami.	Injured Stranger	
-30083	Burst of Qi	Untuk alasan yang tidak diketahui, Qi di langit dan bumi tiba-tiba mulai meledak. Beberapa tanaman terpengaruh dan menjadi Spiritwood.		
-30111	Dust Storm	Karena pengaruh Kuil Ibu Pertiwi, badai debu telah terjadi.		
-30112	Invasion of Beasts	Kuil Ibu Pertiwi telah menyerap sebagian nutrisi dari tanah, membuat marah sekelompok monster. Mereka menjadi bermusuhan!		
-30113	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30114	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30115	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30116	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-30117	Heaven Echo Altar	Kristalisasi Batu Roh Selesai!		
-50001	Apocalyptic Remnants	Tiba-tiba terdengar suara keras, beberapa berkas cahaya terbang dari cakrawala dan mendarat di dekatnya, tidak yakin dengan sifatnya.		
-50002	Invasion of Beasts	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
-50003	Assault	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
-50004	Confused Stranger	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
-50005	Immortal Visitor	Seorang teman abadi Anda sedang mengunjungi sekte Anda, dan dia mungkin ingin tinggal selama beberapa hari.	Immortal Visitor	
-50006	Sentient Spirits Passing By	Seorang yang hidup[NAME]telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
-50007	Plea for Protection	Yaoguai yang baru saja berubah bentuk mencari perlindunganmu, berharap bisa selamat dari Kesengsaraan Surgawi Perubahan Bentuk dengan bantuanmu.		
+10058	Malam Kutub Dimulai	Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Malam yang gelap menyelimuti area sekitar sekte Anda.		
+10059	Telur Yin	Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah malam. Ada sesuatu yang menetas di dalam diri mereka...		
+10060	Hari Kutub Dimulai	Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Saat itu tengah hari di daerah sekitar sekte Anda... Anda tidak tahu berapa lama kekacauan ini akan berlanjut.		
+10061	Telur Yang	Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah hari. Ada sesuatu yang menetas di dalam diri mereka...		
+10062	Lahirnya Naga Obor	Kekacauan Yin dan Yang yang terus berlanjut akhirnya mencapai batasnya. Sambil menghela nafas panjang, makhluk raksasa mulai muncul di dunia nyata.		
+10063	Kekacauan Obor Naga	Saat telur aneh mulai menetas, Yin dan Yang dari alam ini perlahan kehilangan keseimbangan.		
+10064	Kekacauan Obor Naga	Saat telur-telur aneh itu dihancurkan, Yin dan Yang dari alam ini perlahan-lahan kehilangan keseimbangan.		
+10065	Perubahan Drastis	Tiba-tiba terjadi ledakan Qi di Dataran Tengah. Seiring berjalannya waktu, masyarakat mulai menyadari bahwa skala dan intensitas ledakan tersebut melampaui ekspektasi. Ini telah menyebar dari titik ledakan pusat selama lebih dari sebulan, membuktikan bahwa itu sebenarnya adalah perubahan drastis yang akan mempengaruhi semua kultivator.\nSekarang, pengaruh ledakan telah mencapai sekte Anda. Saat semua orang menikmati Qi yang melimpah, Anda bertanya-tanya apa arti perubahan drastis ini bagi Anda semua...		
+10066	Gelombang Seribu Tahun	Sudah berhari-hari sejak ledakan Qi selesai menyebar ke seluruh dunia. Dari membaca dokumen-dokumen lama, sekte-sekte terkenal akhirnya memutuskan bahwa gelombang Qi-lah yang melonjak setiap 3.000 tahun. Para penggarap kuno yang tertidur karena berbagai alasan mulai dihidupkan kembali satu per satu oleh Gelombang Seribu Tahun.\nTanpa tatanan dan aturan saat ini, para penggarap di zaman dahulu percaya pada hukum rimba. Para kultivator dengan kepercayaan kuno dan pengalaman panjang dalam berkultivasi ini telah menyebabkan kekacauan di dunia kultivator hanya dalam beberapa hari...		
+10067	Bencana di Wild South	Sebuah bencana misterius terjadi baru-baru ini di pegunungan di perbatasan utara. Dikatakan bahwa tanah dan gunung berguncang selama satu menit, dan suaranya sangat keras hingga menyebar ribuan mil. Ketika para penggarap terdekat tiba, mereka hanya menemukan semua gunung tenggelam dalam air, dengan Qi yang kuat dan tidak menyenangkan merembes ke area tersebut.\nTampaknya beberapa binatang purba langka dan sulit ditangkap yang bersembunyi di pegunungan dan danau terpengaruh oleh Gelombang Seribu Tahun dan menjadi aktif kembali.		
+10068	Kebisingan Bawah Tanah	Gelombang Seribu Tahun telah berlalu. Dalam waktu kurang dari sebulan, para pembudidaya kuno dihidupkan kembali, dan binatang buas kuno mulai aktif kembali... Dunia para pembudidaya dihadapkan pada perubahan drastis. Seiring berjalannya waktu, dunia kultivator secara bertahap mendapatkan kembali kedamaian dan keseimbangannya. Segalanya tampak kembali ke jalurnya.\nNamun, guncangan bawah tanah mulai sering terjadi di sekte Anda. Anda tidak tahu apa yang sedang terjadi...		
+10069	Invasi terhadap Penggarap Kuno	Kultivator kuno ini telah berhasil menemukan sekte Anda setelah penyelidikan yang cermat.		
+10070	Binatang Bangkit	Binatang buas yang menempati tanah ini telah bangkit.		
+10071	Kesengsaraan Naga	Kekuatan Kesengsaraan Surgawi telah membunuh semua Naga Banjir yang belum lahir...		
+10072	Gangguan Dunia Lain	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
+10073	Gangguan Dunia Lain	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
+10074	Gangguan Dunia Lain	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
+10075	Gangguan Dunia Lain	Ada pembicaraan bahwa Otherworld Rift tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun terbang keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.		
+10076	Keberangkatan	Mengapa Anda mengirimkan saya sebagai hadiah ke [TXT]?		
+10077	Kenaikan	[NAME] telah mencapai keilahiannya dan kehilangan semua perasaan dan emosi. Dengan terputusnya setiap hubungan dan koneksi manusia, [IT] telah sepenuhnya berubah menjadi dewa di alam ini.		
+10078	Kecaman dari Merchant Union	Karena perilaku kasar Anda, Merchant Union telah memutuskan untuk melarang Anda dari daftar perdagangan mereka selamanya.		
+10079	Pembalasan dendam	Teman dan tetua [TXT] datang ke sekte Anda dengan ekspresi marah dan agresif, meminta penjelasan dan permintaan maaf Anda.		
+10080	Pembalasan dendam	[TXT] telah mengkhianati sekte mereka sendiri karena Anda. Teman lama dan orang tua mereka sangat marah dan akan datang meminta penjelasan dan permintaan maaf Anda.		
+10081	Koneksi	Murid [TXT] telah mengkhianati sekte mereka karena Anda, tetapi karena Anda memiliki hubungan yang baik satu sama lain, tetua senior mereka telah memerintahkan untuk tidak melanjutkan masalah ini.\n(Koneksi dikurangi)		
+10082	Koneksi	Murid [TXT] telah mengkhianati sekte mereka karena Anda, tetapi karena Anda memiliki hubungan yang baik satu sama lain, mereka berusaha untuk tidak melanjutkan masalah ini. Namun bantuan yang mereka berikan kepada Anda mungkin tidak cukup untuk menghentikan mereka untuk tetap diam.\n(Koneksi dikurangi)		
+10083	Kunjungan dari Merchant Union	[NAME] dari Merchant Union datang berkunjung, dan dia akan tinggal di sini selama satu hari.		
+10084	Kembali dari Dunia Lain	Beberapa hari yang lalu, sekelompok pedagang di serikat pekerja menghilang saat menjelajahi Otherworld Rift. Ketika semua orang mengira mereka akan pergi untuk selamanya, Celah Dunia Lain terbuka lagi dan semua pedagang kembali dengan selamat, bahkan membawa banyak barang aneh dari Dunia Lain.\nNamun, sejumlah besar benda Dunia Lain telah membawa Pengakuan Iman Surga dari Dunia Lain. Di bawah pengaruh cara surga di Dunia Lain, beberapa perubahan sementara telah terjadi pada cara surgawi di dunia ini juga. Bahkan Naga Obor, perwujudan Aturan Yin dan Yang, menjadi sedikit aneh...		
+10085	Beruang yang Terbangun			"Di [TXT], seekor beruang menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10086	Kelinci yang Terbangun			"Di [TXT], seekor kelinci menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10087	Ayam yang Bangkit			"Di [TXT], seekor ayam menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10088	Serigala yang Terbangun			"Di [TXT], seekor serigala menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10089	Ular yang Terbangun			"Di [TXT], seekor ular menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10090	Babi Hutan yang Terbangun			"Di [TXT], seekor babi hutan menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10091	Katak yang Terbangun			"Di [TXT], seekor katak menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10092	Penyu yang Terbangun			"Di [TXT], seekor kura-kura menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10093	Kucing yang Terbangun			"Di [TXT], seekor kucing menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10094	Harimau yang Bangkit			"Di [TXT], seekor harimau menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10095	Banteng yang Terbangun			"Di [TXT], seekor banteng menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10096	Pencerahan Guru	Diberkati oleh keberuntungan, [NAME] menerima pencerahan dari [TNAME] di [TIME], dan dengan demikian telah menjadi Roh Hidup.		
+10097	Dunia Hidup	Diberkati oleh keberuntungan, [NAME] memperoleh energi langit dan bumi di [WEATHER], membangkitkan kesadaran diri dan menjadi Roh yang Hidup.		
+10098	Energi Kebangkitan	Diberkati oleh keberuntungan, setelah menghabiskan waktu bertahun-tahun di sisi [TNAME], [NAME] secara tidak sengaja membangkitkan kesadaran diri dan menjadi Roh yang Hidup, karena energi yang terkumpul dari mendengarkan kata-kata bijak.		
+10099	Beruang yang Terbangun			"Di [TXT], karena suatu alasan, seekor beruang secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10100	Kelinci yang Terbangun			"Di [TXT], entah kenapa, seekor kelinci secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10101	Ayam yang Bangkit			"Di [TXT], entah kenapa, seekor ayam secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10102	Serigala yang Terbangun			"Di [TXT], entah kenapa, seekor serigala secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, dan sebagai hasilnya ia terbangun."
+10103	Ular yang Terbangun			"Di [TXT], seekor ular menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."
+10104	Babi Hutan yang Terbangun			"Di [TXT], entah kenapa, seekor babi hutan secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10105	Katak yang Terbangun			"Di [TXT], entah kenapa, seekor katak secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10106	Penyu yang Terbangun			"Di [TXT], karena suatu alasan, seekor kura-kura secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, dan akibatnya ia terbangun."
+10107	Kucing yang Terbangun			"Di [TXT], entah kenapa, seekor kucing secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, sehingga terbangun."
+10108	Harimau yang Bangkit			"Di [TXT], entah kenapa, seekor harimau secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, dan akibatnya ia terbangun."
+10109	Banteng yang Terbangun			"Di [TXT], entah kenapa, seekor banteng secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, dan akibatnya terbangun."
+10110	Beruang yang Terbangun			"Seekor beruang ""[FRAG]"" beberapa kali di [TXT], lalu tiba-tiba mendapat Pencerahan dan terbangun."
+10111	Kelinci yang Terbangun			"Seekor kelinci ""[FRAG]"" beberapa kali di [TXT], lalu tiba-tiba mendapat Pencerahan dan terbangun."
+10112	Ayam yang Bangkit			"Seekor ayam ""[FRAG]"" beberapa kali di [TXT], lalu tiba-tiba mendapat Pencerahan dan terbangun."
+10113	Serigala yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor serigala tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10114	Ular yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor ular tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10115	Babi Hutan yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor babi hutan tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10116	Katak yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor katak tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10117	Penyu yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor kura-kura tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10118	Kucing yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor kucing tiba-tiba mendapatkan Pencerahan dan terbangun di [TXT]."
+10119	Harimau yang Bangkit			"Setelah ""[FRAG]"" beberapa kali, seekor harimau tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10120	Banteng yang Terbangun			"Setelah ""[FRAG]"" beberapa kali, seekor banteng tiba-tiba mendapat Pencerahan dan terbangun di [TXT]."
+10121	Mundurnya Musuh	Gelombang makhluk bermusuhan bermaksud menyerang Anda. Namun setelah mempertimbangkan dengan cermat reputasi sekte Anda di dunia kultivasi, mereka akhirnya memutuskan untuk menyerah.		
+10122	Kenaikan	[NAME] telah melewati semua kesulitan dan akhirnya terlupakan dengan tubuh fana, naik melampaui alam ini dan tidak meninggalkan apa pun kecuali legenda untuk diceritakan kepada generasi mendatang.\nSebuah puisi sebagai bukti:\n[color=#D06508]Dari kekacauan yang terurut di alam semesta, manusia pertama lahir. Kesatuan muncul sebelum dualitas, dan Empat Simbol menjaga bumi.\nSang dewi memberi kehidupan pada semua ciptaan dari tanah liat, sementara Yang Maha Cerah melukiskan gambaran yang memisahkan Yin dan Yang.\nSeratus tahun penanaman berlalu sementara para prajurit bertempur dalam pertempuran yang tak terhitung jumlahnya. Seribu tahun lagi hanyalah sekejap mata dalam meditasi.\nSaya tidak akan berkata apa-apa lagi karena Kesengsaraan Surgawi datang untuk membawa saya pergi. Semua masalah duniawi akan hilang bersama angin setelah saya meninggalkan alam eksistensi ini.[/color]		
+10127	Keberuntungan yang Terkonvergensi	Setelah menaklukkan semua sekte dengan kekuatan tak tertandingi, sekte Anda telah mengumpulkan semua kekayaan dari alam penggarap, dan Mini Universe Anda mulai memancarkan cahaya aneh dan redup.		
+10128	Keberuntungan yang Terkonvergensi	Hanya dalam beberapa tahun, sudah ada 50 murid yang naik keabadian di sekte Anda. Oleh karena itu, keberuntungan ilahi yang besar telah berkumpul di sini, dan Mini Universe Anda mulai memancarkan cahaya redup yang aneh.		
+10129	Keberuntungan yang Terkonvergensi	Setelah banyak kesulitan, seorang kultivator Inti Emas di sekte Anda telah selamat dari sembilan Kesengsaraan Surgawi, menarik keberuntungan ilahi untuk berkumpul di sini, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya aneh dan redup.		
+10130	Keberuntungan yang Terkonvergensi	Seiring berjalannya waktu, sekte Anda telah didirikan di sini selama beberapa dekade, secara bertahap menyatu dengan lingkungan dan menyerap kekayaan, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya yang aneh dan redup.		
+10131	Keberuntungan yang Terkonvergensi	Untuk mengungkap kebenaran kehancuran Sekte Taiyi, Anda secara tak terduga telah mengungkap rahasia paling kuno di dunia setelah penyelidikan yang cermat, di mana keberuntungan ilahi yang besar telah berkumpul di sini, dan dengan demikian Mini Universe Anda mulai memancarkan cahaya yang aneh dan redup.		
+10132	Keberuntungan yang Terkonvergensi	Kepercayaan surga telah berubah drastis, dan Mini Universe Anda mulai memancarkan cahaya redup yang aneh.		
+10133	Waktunya telah tiba	Mini Universe tiba-tiba bergetar aneh. Anda mengingatkan pengaturannya dengan Fu Bikong dan inilah waktunya.		
+10123	Pedagang Dunia Lain	[NAME] dari Traveling Merchant Guild diteleportasi ke sini melalui Otherworld Rift.		
+10124	Keretakan Dunia Lain	Segerombolan binatang buas diteleportasi ke sini melalui Otherworld Rift.		
+10125	Keretakan Dunia Lain	Beberapa monster diteleportasi ke sini melalui Otherworld Rift.		
+10126	Keretakan Dunia Lain	Sekelompok musuh diteleportasi ke sini melalui Otherworld Rift.		
+30001	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30002	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30003	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30004	Menyerang	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
+30005	Menyerang	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
+30006	Menyerang	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
+30008	Malam Kutub	Gangguan pada Stela Yin Yang menyebabkan energi Yin meluap. Akibatnya, matahari menolak terbit.		
+30009	Gelombang Panas	Fiery Chasm menjadi tidak stabil, mengakibatkan suhu tinggi yang tidak normal.		
+30010	Udara Dingin	Tungku Beku menjadi tidak stabil, mengakibatkan suhu rendah secara tidak normal.		
+30012	Hujan badai	Hujan badai lebat telah dimulai, dan Elemen Air di seluruh langit dan bumi sangat aktif.		
+30013	Angin Foehn	Angin foehn yang kering dan hangat telah mulai, dan Elemen Api di seluruh langit dan bumi sangat aktif.		
+30014	Badai Debu	Badai debu menyapu seluruh daratan, dan Elemen Tanah di seluruh langit dan bumi sangat aktif.		
+30015	Kekeringan Qi	Untuk alasan yang tidak diketahui, ini adalah musim kekeringan Qi di seluruh dunia.		
+30018	Malam Kutub	Awan aneh menutupi matahari. Butuh beberapa waktu hingga Anda dapat melihat sinar matahari lagi.		
+30019	Racun	Udara berbahaya meningkat di seluruh area, dan Elemen Kayu di seluruh langit dan bumi sangat aktif.		
+30020	Hujan badai	Badai petir akan datang, dan Elemen Logam di seluruh langit dan bumi sangat aktif.		
+30021	Menyerang	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
+30022	Hujan badai	Menjawab keresahan Gua Misterius, badai petir melanda.		
+30028	Pengungsi yang lewat	Seorang pengungsi yang melarikan diri dari perang sedang lewat, dan [IT] ingin bergabung dengan Anda.		
+30043	Orang Asing yang Bingung	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
+30044	Orang Asing yang Penasaran	Orang asing yang penasaran menemukan tempat ini secara tidak sengaja, dan [IT] ingin tahu apa sebenarnya yang kami lakukan.	Curious Stranger	
+30045	Orang Asing yang Terluka	Ada orang asing yang terluka, dan [IT] ingin tinggal di sini sebentar dan meminta bantuan kami.	Injured Stranger	
+30083	Semburan Qi	Untuk alasan yang tidak diketahui, Qi di langit dan bumi tiba-tiba mulai meledak. Beberapa tanaman terpengaruh dan menjadi Spiritwood.		
+30111	Badai Debu	Karena pengaruh Kuil Ibu Pertiwi, badai debu telah terjadi.		
+30112	Invasi Binatang Buas	Kuil Ibu Pertiwi telah menyerap sebagian nutrisi dari tanah, membuat marah sekelompok monster. Mereka menjadi bermusuhan!		
+30113	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30114	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30115	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30116	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+30117	Altar Gema Surga	Kristalisasi Batu Roh Selesai!		
+50001	Sisa-sisa Apokaliptik	Tiba-tiba terdengar suara keras, beberapa berkas cahaya terbang dari cakrawala dan mendarat di dekatnya, tidak yakin dengan sifatnya.		
+50002	Invasi Binatang Buas	Beberapa binatang telah muncul di dekat sini, dan mereka sangat bermusuhan.		
+50003	Menyerang	Beberapa pembunuh misterius diperintahkan untuk menyerang sekte Anda.		
+50004	Orang Asing yang Bingung	Ada orang asing yang tersesat di sekitar sini, dan berharap kami dapat membantu mereka.	Confused Stranger	
+50005	Pengunjung Abadi	Seorang teman abadi Anda sedang mengunjungi sekte Anda, dan dia mungkin ingin tinggal selama beberapa hari.	Immortal Visitor	
+50006	Roh Hidup Lewat	[NAME] makhluk hidup telah muncul di dekat sini, dan dipenuhi dengan rasa ingin tahu.		
+50007	Permohonan Perlindungan	Yaoguai yang baru saja berubah bentuk mencari perlindunganmu, berharap bisa selamat dari Kesengsaraan Surgawi Perubahan Bentuk dengan bantuanmu.		
