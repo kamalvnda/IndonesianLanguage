@@ -2,47 +2,47 @@
 	<List>
 		<Text Name="GodStory_1">
 			<DisplayName>Khotbah</DisplayName>
-			<Desc>Saat bepergian,[NAME]terus berkhotbah dan membantu manusia yang membutuhkan sepanjang perjalanan.</Desc>
+			<Desc>Selagi melakukan perjalanan, [NAME] terus mengabar dan membantu manusia yang membutuhkan di sepanjang perjalanan.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="GodStory_2">
 			<DisplayName>Khotbah</DisplayName>
-			<Desc>Saat bepergian,[NAME]menemukan beberapa manusia yang membutuhkan dan membantu mereka keluar dari masalah.</Desc>
+			<Desc>Saat bepergian, [NAME] bertemu dengan beberapa manusia yang membutuhkan dan membantu mereka keluar dari masalah.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_1">
 			<DisplayName>Perang Manusia</DisplayName>
-			<Desc>[NAME]bergegas ke[PLACE], dan mendapati bahwa negara itu dilanda perang dengan banyak penderitaan.</Desc>
+			<Desc>[NAME] bergegas ke [PLACE] , dan mendapati bahwa negara itu dilanda perang dengan banyak penderitaan.</Desc>
 			<Selections.0.Display>Mendesak penghentian perang</Selections.0.Display>
 			<Selections.1.Display>Menekan perang dengan kekerasan</Selections.1.Display>
-			<Selections.1.Tip>Inti Emas</Selections.1.Tip>
+			<Selections.1.Tip>Golden Core</Selections.1.Tip>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_2">
 			<DisplayName>Wabah mendatangkan malapetaka</DisplayName>
-			<Desc>[NAME]bergegas ke[PLACE]hanya untuk mengetahui bahwa wabah sudah mencapai puncaknya, beberapa desa telah musnah.</Desc>
+			<Desc>[NAME] bergegas ke [PLACE] hanya untuk mengetahui bahwa wabah sudah mencapai puncaknya, beberapa desa telah musnah.</Desc>
 			<Selections.0.Display>Sembuhkan pasiennya</Selections.0.Display>
-			<Selections.0.Tip>Inti Emas</Selections.0.Tip>
+			<Selections.0.Tip>Golden Core</Selections.0.Tip>
 			<Selections.1.Display>Karantina dan lockdown</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_3">
 			<DisplayName>Kejahatan di Dunia</DisplayName>
-			<Desc>[NAME]bergegas ke[PLACE]hanya untuk menemukan daerah itu penuh dengan qi jahat, orang-orang menjadi panik.</Desc>
+			<Desc>[NAME] bergegas ke [PLACE] hanya untuk menemukan daerah itu penuh dengan qi jahat, orang-orang menjadi panik.</Desc>
 			<Selections.0.Display>Gunakan strategi</Selections.0.Display>
 			<Selections.1.Display>Gunakan kekerasan</Selections.1.Display>
-			<Selections.1.Tip>Inti Emas</Selections.1.Tip>
+			<Selections.1.Tip>Golden Core</Selections.1.Tip>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_4">
 			<DisplayName>Bencana Mendadak</DisplayName>
-			<Desc>Ketika[NAME]bergegas ke[PLACE]hanya untuk menyadari bahwa situasinya sangat buruk, dan banyak orang yang berusaha menyelamatkan diri dari bencana tersebut.</Desc>
+			<Desc>Sementara [NAME] bergegas menuju [PLACE] hanya untuk menyadari bahwa situasinya sangat buruk, dan banyak orang yang berusaha menyelamatkan diri dari bencana tersebut.</Desc>
 			<Selections.0.Display>Bantu orang-orang</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_Gong_God_1">
 			<DisplayName>Hukum yang Hilang</DisplayName>
-			<Desc>Setibanya di jurang itu disebutkan,[NAME]menemukan bahwa petir di sini redup, namun tidak biasa.</Desc>
+			<Desc>Setibanya di jurang yang disebutkan, [NAME] menemukan bahwa petir di sini redup, namun tidak biasa.</Desc>
 			<Selections.0.Display>Periksa jurang</Selections.0.Display>
 			<Selections.1.Display>Meninggalkan</Selections.1.Display>
 		</Text>
