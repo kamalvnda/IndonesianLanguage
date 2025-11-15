@@ -2,17 +2,17 @@
 	<List>
 		<Text Name="Story_LingZhi_YunYangBegin">
 			<DisplayName>Membina</DisplayName>
-			<Desc>Sebagai[NAME]diasuh oleh[HENAME]sesuatu yang istimewa terjadi.</Desc>
+			<Desc>Sebagaimana [NAME] diasuh oleh [HENAME] sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_YunYangEnd">
 			<DisplayName>Selesaikan Pemeliharaan</DisplayName>
-			<Desc>Sebagai[NAME]selesai mengasuh[HENAME]sesuatu yang istimewa terjadi.</Desc>
+			<Desc>Saat [NAME] selesai mengasuh [HENAME] sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Chance">
 			<DisplayName>Berkah yang Tak Disengaja</DisplayName>
-			<Desc>Ada sedikit perubahan pada kecerdasannya[NAME]sedang berkembang.</Desc>
+			<Desc>Ada sedikit perubahan pada kecerdasan saat [NAME] tumbuh.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Grow">
@@ -27,7 +27,7 @@
 		</Text>
 		<Text Name="Story_LingZhi_LingSha">
 			<DisplayName>Ekstremitas</DisplayName>
-			<Desc>[NAME]roh jahat mencapai tahap ekstrim dan kemudian sesuatu terjadi.</Desc>
+			<Desc>Roh jahat [NAME] mencapai tahap ekstrim dan kemudian sesuatu terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Attack">
