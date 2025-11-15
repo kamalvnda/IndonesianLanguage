@@ -2231,7 +2231,7 @@ Dalam status non-tempur, ia akan menunggu hingga tugas saat ini selesai. Dalam s
 	<string name="0xrxw6g7do0z39-n75_9dyc" mz="n75">Perlindungan</string>
 	<string name="0xrxw6g7qkn8ovp3-n187_azpm-texts_1" mz="n187">Sedang</string>
 	<string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">Tulis deskripsi untuk reinkarnator Anda.</string>
-	<string name="0xrxw6g7rd8g52ow4q-n135_rd8g" mz="n135">Kekhawatiran</string>
+	<string name="0xrxw6g7rd8g52ow4q-n135_rd8g" mz="n135">Perhatikan</string>
 	<string name="0xrxw6g7t452ogftb2-n6_t452" mz="n6">Memahami</string>
 	<string name="0xrxw6g7v4kf32-n182_rd8g-tips" mz="n182">Atur mode tampilan untuk berbagai pesan sekte.</string>
 	<string name="0xrxw6g7j83c2ovua-n167_oizv" mz="n167">Penyimpanan</string>
@@ -2260,7 +2260,7 @@ Dalam status non-tempur, ia akan menunggu hingga tugas saat ini selesai. Dalam s
 	<string name="0xrxw6g7t3s5ovot-n87_t3s5-0" mz="n87">PER</string>
 	<string name="0xrxw6g7tifuvnr-n166_igxw" mz="cancel">Membatalkan</string>
 	<string name="0xrxw6g7cgxb52ow65-n13_cgxb-texts_1" mz="n13">Awal</string>
-	<string name="0xrxw6g7rd8g52ow4q-n136_rd8g" mz="n136">Menelantarkan</string>
+	<string name="0xrxw6g7rd8g52ow4q-n136_rd8g" mz="n136">Mengabaikan</string>
 	<string name="0xrxw6g7shy138-n304_dn46" mz="xinyangzhinian">Melepaskan</string>
 	<string name="0xrxw6g7qkn8ovp3-n171_pt5j-tips" mz="curlv">Keadaan karakter roh primordial.</string>
 	<string name="0xrxw6g7ualw52ow6o-n36_mon0" mz="WeaponItem">Senjata</string>
@@ -2577,7 +2577,7 @@ Bila hasil Remold kurang penting atau hanya berisi label tidak penting, maka Tem
 	<string name="0xrxw6g7s29t2x-n80_l6xy-tips" mz="nq2">Antara 30% dan 60%</string>
 	<string name="0xrxw6g7ripw52ow2k-n1_ripw" mz="frame">Deskripsi Konten</string>
 	<string name="0xrxw6g7rex4ljrypw-n239_ltta" mz="n239">Mantra Cetakan Ulang:</string>
-	<string name="0xrxw6g7rd8g52ow4u-n136_rd8g" mz="n136">Menelantarkan</string>
+	<string name="0xrxw6g7rd8g52ow4u-n136_rd8g" mz="n136">Mengabaikan</string>
 	<string name="0xrxw6g7v4q7ljryxx-n14_cbqu-4" mz="n14">Jauh di dalam Hutan Bambu</string>
 	<string name="0xrxw6g7gyliovp9-n7_fewy" mz="n7">Mengatur ulang</string>
 	<string name="0xrxw6g7oh9kljryw2-n80_dync-texts_1" mz="n80">Membutuhkan Aktivasi: Berkah Tai Xuan</string>
@@ -3121,7 +3121,7 @@ Bila hasil Remold kurang penting atau hanya berisi label tidak penting, maka Tem
 	<string name="0xrxw6g7mu3752ow80-n191_juzk-tips" mz="Counttxt">Klik untuk mengedit</string>
 	<string name="0xrxw6g7o2ea52ow62-n113_hffg-tips" mz="n113">Menghapus</string>
 	<string name="0xrxw6g79nebljrz0o-n77_9neb" mz="n77">Membangun</string>
-	<string name="0xrxw6g7rd8g52ow4u-n135_rd8g" mz="n135">Kekhawatiran</string>
+	<string name="0xrxw6g7rd8g52ow4u-n135_rd8g" mz="n135">Perhatikan</string>
 	<string name="0xrxw6g7qt1w52ow4k-n12_qt1w-tips" mz="removecountdownbg">Berapa kali Berpikir sebelum dilupakan.</string>
 	<string name="0xrxw6g7q9xpn4-n13_izp4" mz="n13">Masa kecil:</string>
 	<string name="0xrxw6g7mf2o2ovw3-n297_i8mv" mz="n297">Manusia Laki-Laki berusia 12 tahun</string>
