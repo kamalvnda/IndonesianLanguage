@@ -1,7 +1,7 @@
 ID	Name	sParam2	Desc
 
-40001	Enlightened Panda	At [TXT], Seekor panda menyadari "[FRAG]" secara kebetulan, dan dengan demikian menjadi terbangun.	
-40002	Enlightened Panda	At [TXT], Entah kenapa, seekor panda tidak sengaja merasakan "[FRAG]" beberapa kali, sebagai hasilnya menjadi terbangun.	
-40003	Enlightened Panda	A panda "[FRAG]" Beberapa kali pada[TXT], lalu tiba-tiba mendapat Pencerahan dan terbangun.	
-40004	Animal Joined		    Seekor panda telah datang ke sekte Anda. Tampaknya menikmati berada di sini.
-40005	Invasion of Beasts		    Beberapa monster panda muncul di dekatnya, dan mereka tampak sangat bermusuhan.
+40001	Panda yang Tercerahkan	"Di [TXT], seekor panda menyadari ""[FRAG]"" secara kebetulan, dan kemudian terbangun."	
+40002	Panda yang Tercerahkan	"Di [TXT], karena suatu alasan, seekor panda secara tidak sengaja merasakan ""[FRAG]"" beberapa kali, dan akibatnya ia terbangun."	
+40003	Panda yang Tercerahkan	"Seekor panda ""[FRAG]"" beberapa kali di [TXT], lalu tiba-tiba mendapat Pencerahan dan terbangun."	
+40004	Hewan Bergabung		Seekor panda telah datang ke sekte Anda. Tampaknya menikmati berada di sini.
+40005	Invasi Binatang Buas		Beberapa monster panda muncul di dekatnya, dan mereka tampak sangat bermusuhan.
