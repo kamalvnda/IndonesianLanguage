@@ -2,19 +2,19 @@
 	<List>
 		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
 			<DisplayName>Periksa gulir</DisplayName>
-			<Desc>[NAME]mempelajari gulungan itu dengan cermat.</Desc>
+			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 			<Selections.1.Display>Gunakan Segel Kuno untuk menguraikannya</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
 			<DisplayName>Periksa Buku</DisplayName>
-			<Desc>[NAME]memeriksa buku itu.</Desc>
+			<Desc>[NAME] memeriksa buku itu.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 			<Selections.1.Display>Gunakan Segel Alam Semesta untuk menguraikannya</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
 			<DisplayName>Periksa pecahannya</DisplayName>
-			<Desc>[NAME]mencoba memeriksa Fragmen Gulungan Peti Emas.</Desc>
+			<Desc>[NAME] mencoba memeriksa Fragmen Gulungan Peti Emas.</Desc>
 			<Selections.0.Display>Meneliti</Selections.0.Display>
 			<Selections.1.Display>Gunakan Segel Primitif untuk menguraikan</Selections.1.Display>
 		</Text>
