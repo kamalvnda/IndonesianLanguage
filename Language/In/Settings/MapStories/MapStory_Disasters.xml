@@ -30,22 +30,22 @@
 		</Text>
 		<Text Name="Place_Drought">
 			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk mengatasi kekeringan.</Desc>
+			<Desc>[NAME] memutuskan untuk mengatasi kekeringan.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Place_Flood">
 			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menangani banjir.</Desc>
+			<Desc>[NAME] memutuskan untuk menangani banjir.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Place_Siberia">
 			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menghadapi gelombang dingin.</Desc>
+			<Desc>[NAME] memutuskan untuk menghadapi gelombang dingin.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Place_EarthQuake">
 			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menangani gempa tersebut.</Desc>
+			<Desc>[NAME] memutuskan untuk menangani gempa tersebut.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="MapStory_DroughtFinish">
