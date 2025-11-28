@@ -1,25 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Chicken_1">
-			<Prefix>jarum</Prefix>
-			<Suffix>berkilau</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. Menggabungkan kekuatan Yang dengan paruh menghasilkan kekuatan kehancuran yang melampaui imajinasi. Memiliki kemampuan menyerang dan menembus armor energi yang dalam dengan sangat baik.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.\n Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Prefix>Solar</Prefix>
+			<Suffix>Needles</Suffix>
+			<Desc>Sebuah badan rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang menyatukan kekuatan Yang ke paruhnya dan memberinya Kekuatan Penghancur. Menggunakannya untuk menyerang dengan paruh dan unggul dalam menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.\n Secara drastis meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Chicken_2">
-			<Prefix>mahkota</Prefix>
-			<Suffix>Api Surgawi</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. Ditempa dalam bentuk lambang oleh kekuatan matahari. Ketika latihan berhasil, efisiensi pemurnian tubuh akan sangat meningkat.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan tingkat pemurnian tubuh dari Penggarap Fisik Abadi.</Levels.0.Desc>
+			<Prefix>Skyfire</Prefix>
+			<Suffix>Crown</Suffix>
+			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang membentuk kembali mahkotanya dengan Kekuatan Matahari. Setelah tercapai, pencetakan ulang akan menjadi sangat efisien.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan tingkat pencetakan ulang kultivator fisik dalam jumlah besar.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Chicken_3">
-			<Prefix>burung</Prefix>
-			<Suffix>tujuh warna</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Setan Ayam Purba. yang aslinya berasal dari bulu ekor yang dibentuk oleh burung tujuh warna yang secara bawaan memahami lima unsur. Ketika pelatihan berhasil, tidak ada senjata ajaib yang dapat melukai tubuh ini.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan kemungkinan menekan senjata ajaib Fisik Misterius.</Levels.0.Desc>
+			<Prefix>Prismatic</Prefix>
+			<Suffix>Aura</Suffix>
+			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai, yang aslinya berasal dari bulu ekor yang dibentuk ulang oleh Peacock Sage mengikuti keyakinan kuno Lima Elemen. Setelah tercapai, tidak ada yang bisa lepas dari genggamannya.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
