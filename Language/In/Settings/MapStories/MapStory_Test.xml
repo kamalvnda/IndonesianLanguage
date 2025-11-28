@@ -1,7 +1,7 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="TestABC">
-			<DisplayName>Lelang</DisplayName>
+			<DisplayName>Auction</DisplayName>
 			<Selections.0.Display>manual</Selections.0.Display>
 			<Selections.1.Display>Eliksir</Selections.1.Display>
 		</Text>
