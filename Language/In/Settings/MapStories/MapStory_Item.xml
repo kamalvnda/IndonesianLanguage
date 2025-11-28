@@ -1,185 +1,185 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Story_BoxFind1">
-			<DisplayName>Cari di Kotak</DisplayName>
+			<DisplayName>Search the Box</DisplayName>
 			<Desc>[NAME] menemukan sebuah kotak tua yang berisi beberapa barang berguna.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind2">
-			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan tidak menemukan apa pun selain senjata yang dapat digunakan.</Desc>
+			<DisplayName>Search the corpse.</DisplayName>
+			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan menemukan bahwa tidak ada apa pun selain senjata yang dapat digunakan.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind3">
-			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>[NAME] dengan hati-hati mencari mayat itu, seberkas cahaya keluar darinya dan langsung masuk ke otak [NAME] . [NAME] terkejut saat mengetahui bahwa lebih banyak lagi metode kultivasi kini muncul dalam ingatan. \n\n [color=#000000] "Apa yang sebenarnya terjadi di sini? Dari mana hukum ini berasal? Apa sebenarnya yang terjadi pada orang ini sebelum mereka meninggal?" Sambil terkejut, [/color] \n [NAME] mau tak mau bertanya. \n\nSayangnya, peristiwa masa lalu ini tidak dapat diselesaikan...</Desc>
+			<DisplayName>Search the corpse.</DisplayName>
+			<Desc>[NAME] dengan hati-hati mencari mayat itu, seberkas cahaya keluar darinya dan langsung menuju ke otak [NAME] . [NAME] terkejut saat mengetahui bahwa lebih banyak metode budidaya kini muncul dalam ingatan. \n\n[color=#000000]"Apa yang sebenarnya terjadi di sini? Dari mana Hukum ini berasal? Apa sebenarnya yang terjadi pada orang ini sebelum mereka meninggal?" Sambil terkejut, [/color]\n [NAME] mau tidak mau mengajukan pertanyaan. \n\nSayangnya, peristiwa masa lalu ini tidak dapat diselesaikan...</Desc>
 		</Text>
 		<Text Name="Story_BoxFind4">
-			<DisplayName>Cari mayatnya.</DisplayName>
-			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan tidak menemukan apa pun selain senjata yang dapat digunakan.</Desc>
+			<DisplayName>Search the corpse.</DisplayName>
+			<Desc>[NAME] dengan hati-hati menggeledah mayat tersebut dan menemukan bahwa tidak ada apa pun selain senjata yang dapat digunakan.</Desc>
 		</Text>
 		<Text Name="Story_Item_StoneBox">
-			<DisplayName>Peti Batu</DisplayName>
+			<DisplayName>Stone Casket</DisplayName>
 			<Desc>Seorang Pendeta Tao yang misterius memberi Anda semua Peti Batu, berukuran sekitar satu kaki persegi. Baik air maupun api tidak bisa masuk ke dalam. Itu benar-benar seperti dunia lain. Bagian luarnya bersinar dengan cahaya dari waktu ke waktu, ini bukan barang biasa.</Desc>
 			<Selections.0.Display>Gunakan tangan untuk membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox1">
-			<DisplayName>Peti Batu</DisplayName>
-			<Desc>Ini adalah peti yang diturunkan oleh pemburu Zhang Erwa dari Desa Nanping dari mayat di kaki Gunung Bulan Purnama. Ada pedang panjang yang disilangkan dengan labu minuman keras di bagian luarnya, ini adalah tanda dari sesama murid di Sekte Taiyi. [NAME] mengingat rekan muridnya dan bagaimana dia sebagai pribadi.</Desc>
+			<DisplayName>Stone Casket</DisplayName>
+			<Desc>Ini adalah peti yang diturunkan oleh pemburu Zhang Erwa dari Desa Nanping dari mayat di kaki Gunung FullMoon. Ada pedang panjang yang disilangkan dengan labu minuman keras di bagian luarnya, ini adalah tanda dari sesama murid di Sekte Taiyi. [NAME] mengingat sesama murid dan bagaimana dia sebagai pribadi.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox2">
-			<DisplayName>Peti Mati Kuno</DisplayName>
+			<DisplayName>Ancient Casket</DisplayName>
 			<Desc>Sebuah peti mati batu digali dari batu besar yang sepertinya sudah ada di sana selama beberapa dekade. Entah apa isinya.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FaBaoBox">
-			<DisplayName>Dada Polaris</DisplayName>
+			<DisplayName>Polaris Chest</DisplayName>
 			<Desc>Pada malam penyerangan, ruang artefak dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_DanBox">
-			<DisplayName>Dada Polaris</DisplayName>
+			<DisplayName>Polaris Chest</DisplayName>
 			<Desc>Pada malam penyerangan, ruang ramuan dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_MiJiBox">
-			<DisplayName>Dada Polaris</DisplayName>
+			<DisplayName>Polaris Chest</DisplayName>
 			<Desc>Pada malam penyerangan, Skriptorium dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FuBox">
-			<DisplayName>Dada Polaris</DisplayName>
+			<DisplayName>Polaris Chest</DisplayName>
 			<Desc>Pada malam penyerangan, ruang jimat dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box1">
-			<DisplayName>Kotak Jimat Ajaib</DisplayName>
+			<DisplayName>Magical Talisman Box</DisplayName>
 			<Desc>Nyonya Lu membawa kotak jimat ajaib dengan tiga jimat misterius di dalamnya.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box2">
-			<DisplayName>Peti Jimat Ajaib</DisplayName>
+			<DisplayName>Magic Talisman Casket</DisplayName>
 			<Desc>Yang Shu membawa kotak jimat ajaib dengan satu jimat yang sangat langka di dalamnya.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_ZuShiZhiCi">
-			<DisplayName>Hadiah dari Guru</DisplayName>
+			<DisplayName>Gift of the Master</DisplayName>
 			<Desc>Ada harta berharga di dalam Karunia Sang Guru.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BenYuan">
-			<DisplayName>Sempurnakan Font Surgawi</DisplayName>
+			<DisplayName>Refine the Heavenly Font</DisplayName>
 			<Desc>Untuk menyempurnakan Font Surgawi, kelas Hukum yang sama harus digunakan di Tingkat tertinggi, jika tidak, tidak ada harapan untuk berhasil. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Jika Anda gagal, Anda akan mengalami cedera dan itu akan meningkatkan Penghukuman. Apakah Anda yakin ingin menyempurnakan Font Surgawi?</Desc>
 			<Selections.0.Display>Menyaring</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_SuoYingZhiJuan">
-			<DisplayName>Gulir Miniatur</DisplayName>
+			<DisplayName>Miniature Scroll</DisplayName>
 			<Desc>Ini adalah catatan mini dari semua yang terjadi sejak lahirnya langit dan bumi. Jika Anda mengetahui nama sebenarnya dari makhluk yang dimaksud, Anda dapat memanggilnya dari gulungan. Ini adalah salah satu dari 12 Harta Karun Chaotic Numinous yang tersisa dari penciptaan dunia.</Desc>
 			<Selections.0.Display>Menyerah</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BossSoulItem">
-			<DisplayName>Inspirasi</DisplayName>
-			<Desc>[NAME] berusaha memperoleh beberapa informasi berguna darinya.</Desc>
+			<DisplayName>Inspiration</DisplayName>
+			<Desc>[NAME] berusaha mendapatkan beberapa informasi berguna darinya.</Desc>
 			<Selections.0.Display>Gunakan Roh Primordial</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
-			<DisplayName>Surat Misterius</DisplayName>
+			<DisplayName>Mysterious Letter</DisplayName>
 			<Desc>Ini adalah surat yang ditinggalkan oleh orang yang menyelamatkan kalian semua dari bahaya saat kalian semua melarikan diri setelah kehancuran Sekte.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin">
-			<DisplayName>Memeriksa</DisplayName>
+			<DisplayName>Inspect</DisplayName>
 			<Desc>Sepertinya tidak ada sesuatu yang luar biasa. Entah misteri apa yang dikandungnya.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 			<Selections.1.Display>Menghancurkan</Selections.1.Display>
 			<Selections.2.Display>Menyerah</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin1">
-			<DisplayName>Menghancurkan</DisplayName>
-			<Desc>Meskipun [NAME] tidak bisa membedakan apa yang berbahaya dari benda ini, namun ketika mencoba menghancurkannya tiba-tiba, perasaan teror yang tak terkatakan muncul di lubuk perutnya... apa yang akan terjadi jika benda ini dihancurkan? Apakah Anda yakin ingin menghancurkannya? (Jika Anda mengonfirmasi, binatang purba akan dipanggil. Sekte Anda mungkin hancur total jika Anda tidak cukup siap. Harap pertimbangkan pilihan Anda dengan bijak)</Desc>
+			<DisplayName>Destroy</DisplayName>
+			<Desc>Meskipun [NAME] tidak bisa membedakan apa yang berbahaya dari benda ini, namun ketika mencoba menghancurkannya tiba-tiba, rasa teror yang tak terkatakan muncul di perutnya...apa yang akan terjadi jika benda ini dihancurkan? Apakah Anda yakin ingin menghancurkannya? (Jika Anda mengonfirmasi, binatang purba akan dipanggil. Sekte Anda mungkin hancur total jika Anda tidak cukup siap. Harap pertimbangkan pilihan Anda dengan bijak)</Desc>
 			<Selections.0.Display>Menghancurkan</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
-			<DisplayName>Menghancurkan</DisplayName>
-			<Desc>[NAME] menghancurkan benda tersebut, namun tidak terjadi apa-apa.</Desc>
+			<DisplayName>Destroy</DisplayName>
+			<Desc>[NAME] menghancurkan item tersebut, tetapi tidak terjadi apa-apa.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Eat_StrangeMush">
-			<DisplayName>Selamat mencoba</DisplayName>
+			<DisplayName>Have a Taste</DisplayName>
 			<Desc>[NAME] mencicipi jamur aneh itu dengan rasa ingin tahu.</Desc>
 			<Selections.0.Display>Makanlah meskipun ada risikonya</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
-			<DisplayName>Inspirasi</DisplayName>
+			<DisplayName>Inspiration</DisplayName>
 			<Desc>[NAME] mencoba bermeditasi pada Diagram Formasi.</Desc>
 			<Selections.0.Display>Renungkan Diagram Formasi</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu">
-			<DisplayName>Periksa item ini</DisplayName>
+			<DisplayName>Inspect this item</DisplayName>
 			<Desc>[NAME] mencoba memeriksa item ini.</Desc>
 			<Selections.0.Display>Periksa item ini</Selections.0.Display>
 			<Selections.1.Display>Membuka segel</Selections.1.Display>
 			<Selections.2.Display>Menyerah</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
-			<DisplayName>Periksa item ini</DisplayName>
-			<Desc>[NAME] merasa segel dari benda ini sangat familiar, sepertinya dia pernah menemukannya sebelumnya.</Desc>
+			<DisplayName>Inspect this item</DisplayName>
+			<Desc>[NAME] merasa segel dari objek ini sangat familiar, sepertinya dia pernah menemukannya sebelumnya.</Desc>
 			<Selections.0.Display>Periksa dengan cermat</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu2">
-			<DisplayName>Tersebar dan menghilang</DisplayName>
+			<DisplayName>Scattered and disappeared</DisplayName>
 			<Desc>Setelah informasi spiritual selesai diputar, objek dari Dunia Lain mulai ditolak oleh Surga dunia ini, dan secara bertahap menjadi abu.</Desc>
 			<Selections.0.Display>Periksa dengan cermat</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan">
-			<DisplayName>Gulir Kuno</DisplayName>
+			<DisplayName>Ancient Scroll</DisplayName>
 			<Desc>Sebuah gulungan rahasia yang diturunkan dari zaman kuno, isinya tidak diketahui.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_1">
-			<DisplayName>Mempelajari</DisplayName>
+			<DisplayName>Learn</DisplayName>
 			<Desc>Halaman buku yang mencatat bagaimana para penggarap Shendao kuno membekukan semacam keajaiban khusus.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_Guard">
-			<DisplayName>Menyaring</DisplayName>
-			<Desc>[NAME] berusaha menyempurnakan item ini.</Desc>
+			<DisplayName>Refine</DisplayName>
+			<Desc>[NAME] mencoba menyempurnakan item ini.</Desc>
 			<Selections.0.Display>Membaca</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_2">
-			<DisplayName>Membuka segel</DisplayName>
+			<DisplayName>Unseal</DisplayName>
 			<Desc>[NAME] mencoba membuka segel item ini.</Desc>
 			<Selections.0.Display>Membuka segel</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Gong12">
-			<DisplayName>Periksa gulir</DisplayName>
+			<DisplayName>Examine scroll</DisplayName>
 			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_2">
-			<DisplayName>Periksa gulir</DisplayName>
+			<DisplayName>Examine scroll</DisplayName>
 			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_5">
-			<DisplayName>Periksa gulir</DisplayName>
+			<DisplayName>Examine scroll</DisplayName>
 			<Desc>[NAME] mempelajari gulungan itu dengan cermat.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_GongAll">
-			<DisplayName>Periksa Koleksi</DisplayName>
-			<Desc>[NAME] mempelajari Koleksi tersebut.</Desc>
+			<DisplayName>Examine Collection</DisplayName>
+			<Desc>[NAME] mempelajari Koleksi.</Desc>
 			<Selections.0.Display>Hukum yang Diperoleh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_SpringBox">
-			<DisplayName>Barang Hari Raya</DisplayName>
+			<DisplayName>Festive Goods</DisplayName>
 			<Desc>Cobalah untuk membuka item ini.</Desc>
 			<Selections.0.Display>Membuka</Selections.0.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_1">
-			<DisplayName>Berharap untuk mendapatkan keberuntungan yang besar</DisplayName>
+			<DisplayName>Wish for great fortune</DisplayName>
 			<Desc>Di bawah pengaruh cara surga di Dunia Lain, beberapa perubahan sementara telah terjadi pada cara surgawi di dunia ini juga. Bahkan Naga Obor, perwujudan Aturan Yin dan Yang, tidak terlalu panik dibandingkan sebelumnya, karena ia tertarik pada sejenis cakram logam yang disebut "koin" dari Dunia Lain. Karena koin ini menyimpan banyak harapan akan kekayaan, Naga Obor dapat memanfaatkan kekuatan harapan di dalamnya untuk memberi Anda perwujudan keberuntungan.</Desc>
 			<Selections.0.Display>Batu Roh dalam jumlah besar</Selections.0.Display>
 			<Selections.1.Display>Bahan dalam jumlah besar</Selections.1.Display>
@@ -189,7 +189,7 @@
 			<Selections.5.Display>Lupakan saja, saya mendedikasikan iman saya pada Pengakuan Iman Surga dan tidak mencari imbalan apa pun!</Selections.5.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_2">
-			<DisplayName>Berharap untuk obat-obatan yang bagus</DisplayName>
+			<DisplayName>Wish for fine medicines</DisplayName>
 			<Desc>Di bawah pengaruh cara surga di Dunia Lain, beberapa perubahan sementara telah terjadi pada cara surgawi di dunia ini juga. Bahkan Naga Obor, perwujudan Aturan Yin dan Yang, tidak terlalu panik dibandingkan sebelumnya, karena ia tertarik pada sejenis cakram logam yang disebut "koin" dari Dunia Lain. Karena koin ini menyimpan banyak harapan akan kesehatan, Naga Obor dapat memanfaatkan kekuatan harapan di dalamnya untuk memberi Anda perwujudan dari beberapa obat ajaib.</Desc>
 			<Selections.0.Display>1 Obat Unsur Logam</Selections.0.Display>
 			<Selections.1.Display>1 Obat Elemental Kayu</Selections.1.Display>
@@ -204,7 +204,7 @@
 			<Selections.10.Display>Lupakan saja, saya mendedikasikan iman saya pada Pengakuan Iman Surga dan tidak mencari imbalan apa pun!</Selections.10.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_3">
-			<DisplayName>Berharap untuk peralatan yang sangat bagus</DisplayName>
+			<DisplayName>Wish for exquisite equipments</DisplayName>
 			<Desc>Di bawah pengaruh cara surga di Dunia Lain, beberapa perubahan sementara telah terjadi pada cara surgawi di dunia ini juga. Bahkan Naga Obor, perwujudan Aturan Yin dan Yang, tidak terlalu panik dibandingkan sebelumnya, karena ia tertarik pada sejenis cakram logam yang disebut "koin" dari Dunia Lain. Karena koin ini menyimpan banyak permintaan akan pakaian baru, Naga Obor dapat memanfaatkan kekuatan harapan di dalamnya untuk memberi Anda perwujudan seperangkat alat pelindung.</Desc>
 			<Selections.0.Display>Kain yang dapat membantu Anda dalam pertahanan</Selections.0.Display>
 			<Selections.1.Display>Kain yang dapat membantu Anda dengan mantra</Selections.1.Display>
@@ -219,14 +219,14 @@
 			<Selections.10.Display>Lupakan saja, saya mendedikasikan iman saya pada Pengakuan Iman Surga dan tidak mencari imbalan apa pun!</Selections.10.Display>
 		</Text>
 		<Text Name="Story_Item_ChunYangWuJiGong">
-			<DisplayName>Panduan Belajar</DisplayName>
+			<DisplayName>Study Manual</DisplayName>
 			<Desc>Cobalah untuk memahami manual rahasia ini.</Desc>
 			<Selections.0.Display>Budidaya Ortodoks</Selections.0.Display>
 			<Selections.1.Display>Budidaya Terbalik</Selections.1.Display>
 			<Selections.2.Display>Sudahlah</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_SupplyBox">
-			<DisplayName>Kotak Persediaan</DisplayName>
+			<DisplayName>Supply Box</DisplayName>
 			<Desc>Ini adalah kotak yang bercahaya dan luar biasa.</Desc>
 			<Selections.0.Display>Buka dengan Hati-hati</Selections.0.Display>
 			<Selections.1.Display>Buka Langsung</Selections.1.Display>
