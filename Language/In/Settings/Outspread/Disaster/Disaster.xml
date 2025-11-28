@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Drought">
-			<DisplayName>Kekeringan</DisplayName>
+			<DisplayName>Drought</DisplayName>
 		</Text>
 		<Text Name="Flood">
-			<DisplayName>Banjir</DisplayName>
+			<DisplayName>Flood</DisplayName>
 		</Text>
 		<Text Name="Siberia">
-			<DisplayName>Bahaya musim dingin</DisplayName>
+			<DisplayName>Cold Wave</DisplayName>
 		</Text>
 		<Text Name="EarthQuake">
-			<DisplayName>Gempa bumi</DisplayName>
+			<DisplayName>Earthquake</DisplayName>
 		</Text>
 	</List>
 </Texts>
