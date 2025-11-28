@@ -7,11 +7,11 @@
 			<Desc>Pengubah dihasilkan oleh latar belakang. Hanya penggunaan sistem. Jangan memodifikasi.</Desc>
 		</Text>
 		<Text Name="FeatureModifier_DongShiZhang1">
-			<DisplayName>Motivasi Ketua</DisplayName>
+			<DisplayName>Chairman's Motivation</DisplayName>
 			<Desc>Di bawah pengawasan Ketua Dewan, kami akan melipatgandakan upaya kami!</Desc>
 		</Text>
 		<Text Name="FeatureModifier_DongShiZhang2">
-			<DisplayName>Motivasi Ketua</DisplayName>
+			<DisplayName>Chairman's Motivation</DisplayName>
 			<Desc>Di bawah pengawasan Ketua Dewan, kami akan melipatgandakan upaya kami!</Desc>
 		</Text>
 	</List>
