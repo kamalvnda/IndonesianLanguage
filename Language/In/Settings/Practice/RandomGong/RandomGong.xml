@@ -1,72 +1,72 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="r0">
-			<StageInfo.0.0.DisplayName>Memperkuat</StageInfo.0.0.DisplayName>
-			<StageInfo.0.1.DisplayName>padat</StageInfo.0.1.DisplayName>
-			<StageInfo.0.2.DisplayName>runcing</StageInfo.0.2.DisplayName>
-			<StageInfo.1.0.DisplayName>pintu mental</StageInfo.1.0.DisplayName>
-			<StageInfo.1.1.DisplayName>Tungku peleburan</StageInfo.1.1.DisplayName>
-			<StageInfo.1.2.DisplayName>tajam</StageInfo.1.2.DisplayName>
-			<StageInfo.2.0.DisplayName>inti emas</StageInfo.2.0.DisplayName>
-			<StageInfo.2.1.DisplayName>obat</StageInfo.2.1.DisplayName>
-			<StageInfo.2.2.DisplayName>Larva</StageInfo.2.2.DisplayName>
-			<StageInfo.3.0.DisplayName>asal embrionik</StageInfo.3.0.DisplayName>
-			<StageInfo.3.1.DisplayName>semangat melonjak</StageInfo.3.1.DisplayName>
-			<StageInfo.3.2.DisplayName>Roh Kejadian</StageInfo.3.2.DisplayName>
-			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>Senjata ajaib</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
-			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>Prana Weda</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
-			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>Armor Qi</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
-			<SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>rentan</SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>sedikit</SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>rentan</SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>penting</SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>penting</SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>sedikit</SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>penting</SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>Besar</SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>sangat besar</SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>sedikit</SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>penting</SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>Besar</SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>
-			<SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>sangat besar</SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>rentan</SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>sedikit</SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>rentan</SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>penting</SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>penting</SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>sedikit</SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>penting</SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>Besar</SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>sangat besar</SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>sedikit</SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>penting</SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>Besar</SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
-			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>sangat besar</SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
-			<SkillTree.FixNodes.0.DisplayName>Pengobatan Langit Ilahi</SkillTree.FixNodes.0.DisplayName>
-			<SkillTree.FixNodes.1.DisplayName>Senjata Ajaib Tao</SkillTree.FixNodes.1.DisplayName>
-			<Desc.Format.0.Format>Teknik budidaya yang berkualitas sangat rendah. Itu adalah kreasi dangkal dari {0}. Teknik ini mewarisi esensi {1} dan mengembangkan teknik budidaya baru yang menekankan banyak kreativitas pada {2}. Meskipun ini adalah teknik budidaya yang relatif dangkal, Tapi mungkin ada permata yang tersembunyi di balik kotoran.</Desc.Format.0.Format>
-			<Desc.Format.1.Format>Subjek budidaya dengan kualitas yang biasa-biasa saja. Ini merupakan prestasi umum {0}. Teknik ini mewarisi esensi {1} dan mengembangkan teknik budidaya baru yang menekankan banyak kreativitas pada {2}. Meskipun teknik ini hanya bisa mencapai tahap Inti Mendalam, namun mungkin mengandung beberapa ide menarik.</Desc.Format.1.Format>
-			<Desc.Format.2.Format>Sebuah teknik budidaya dengan ilmu yang cukup tajam. Ini merupakan prestasi luar biasa mengenai {0}. Teknik ini mewarisi esensi {1} dan mengembangkan teknik budidaya baru yang menekankan banyak kreativitas pada {2}. Meski tidak ada yang bisa mencapai keabadian dengan teknik budidaya seperti itu. Tapi itu juga mencakup banyak aturan budidaya cerdas yang sangat berharga.</Desc.Format.2.Format>
-			<Desc.Format.3.Format>Teknik budidaya dengan pengetahuan mendalam Ini adalah pekerjaan puncak pada {0}. Teknik ini mewarisi esensi {1} dan mengembangkan teknik budidaya baru yang menekankan banyak kreativitas pada {2}. Teknik budidaya ini berhubungan langsung dengan jalur keabadian. Jadi ada sesuatu yang mendalam dan misterius yang patut dipelajari.</Desc.Format.3.Format>
-			<Desc.ElementKind.0.Desc>emas</Desc.ElementKind.0.Desc>
-			<Desc.ElementKind.1.Desc>kayu</Desc.ElementKind.1.Desc>
-			<Desc.ElementKind.2.Desc>air</Desc.ElementKind.2.Desc>
-			<Desc.ElementKind.3.Desc>listrik</Desc.ElementKind.3.Desc>
-			<Desc.ElementKind.4.Desc>bumi</Desc.ElementKind.4.Desc>
-			<Desc.ElementKind.5.Desc>Tanpa batas</Desc.ElementKind.5.Desc>
-			<Desc.School.0.Name>Banyak kehilangan warisan yang populer di kalangan penggarap.</Desc.School.0.Name>
-			<Desc.School.1.Name>Warisan Sekte Tirai Langit</Desc.School.1.Name>
-			<Desc.School.2.Name>Warisan Istana Kunlun</Desc.School.2.Name>
-			<Desc.School.3.Name>Warisan Istana Nuea Napa</Desc.School.3.Name>
-			<Desc.School.4.Name>Warisan Biara Awan Ungu</Desc.School.4.Name>
-			<Desc.School.5.Name>Warisan Sekte Rahasia</Desc.School.5.Name>
-			<Desc.School.6.Name>Warisan Biara Teratai Indigo</Desc.School.6.Name>
-			<Desc.School.7.Name>Warisan Sekte Cahaya Malam</Desc.School.7.Name>
-			<Desc.School.8.Name>Warisan Gunung Ratusan Serangga</Desc.School.8.Name>
-			<Desc.School.9.Name>Warisan Sekte Lubang Jurang</Desc.School.9.Name>
-			<Desc.School.10.Name>Warisan Tujuh Jalan Sekte Pembunuhan</Desc.School.10.Name>
-			<Desc.School.11.Name>Warisan Kantor Saranrom</Desc.School.11.Name>
-			<Desc.School.12.Name>Warisan Biara Sepuluh Ribu Setan</Desc.School.12.Name>
+			<StageInfo.0.0.DisplayName>Tempered</StageInfo.0.0.DisplayName>
+			<StageInfo.0.1.DisplayName>Concentrated</StageInfo.0.1.DisplayName>
+			<StageInfo.0.2.DisplayName>Shaper</StageInfo.0.2.DisplayName>
+			<StageInfo.1.0.DisplayName>Mind Gate</StageInfo.1.0.DisplayName>
+			<StageInfo.1.1.DisplayName>Cauldron</StageInfo.1.1.DisplayName>
+			<StageInfo.1.2.DisplayName>Essence Shaper</StageInfo.1.2.DisplayName>
+			<StageInfo.2.0.DisplayName>Golden Core</StageInfo.2.0.DisplayName>
+			<StageInfo.2.1.DisplayName>Alchemy</StageInfo.2.1.DisplayName>
+			<StageInfo.2.2.DisplayName>Embryonic</StageInfo.2.2.DisplayName>
+			<StageInfo.3.0.DisplayName>Origin Incubation</StageInfo.3.0.DisplayName>
+			<StageInfo.3.1.DisplayName>Spirit Soaring</StageInfo.3.1.DisplayName>
+			<StageInfo.3.2.DisplayName>Primordial Spirit</StageInfo.3.2.DisplayName>
+			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>Artifact Mastery</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>Spell</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>Protect</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>Subtly</SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>Slightly</SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>Subtly</SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>Considerably</SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>Considerably</SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>Subtly</SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>Considerably</SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>Greatly</SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>Massively</SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>Subtly</SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>Considerably</SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>Greatly</SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>Massively</SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>Subtly</SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>Subtly</SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>Subtly</SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>Considerably</SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>Considerably</SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>Subtly</SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>Considerably</SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>Greatly</SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>Massively</SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>Subtly</SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>Considerably</SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>Greatly</SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>Massively</SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.FixNodes.0.DisplayName>Eureka Pill</SkillTree.FixNodes.0.DisplayName>
+			<SkillTree.FixNodes.1.DisplayName>Taoist Artifact</SkillTree.FixNodes.1.DisplayName>
+			<Desc.Format.0.Format>Hukum dengan kualitas yang sangat di bawah standar, ini adalah karya dangkal {0}. Metode ini mewarisi esensi {1} dan mengembangkan Undang-undang baru yang berfokus pada banyak ide inovatif tentang {2}. Meskipun ini adalah Hukum yang agak dangkal, mungkin masih ada beberapa permata tersembunyi.</Desc.Format.0.Format>
+			<Desc.Format.1.Format>Hukum dengan kualitas yang agak biasa-biasa saja, merupakan karya rata-rata {0}. Metode ini mewarisi esensi {1} dan mengembangkan Undang-undang baru yang berfokus pada banyak ide inovatif tentang {2}. Meskipun Pembentukan Inti hanya dapat dicapai dengan Hukum ini, beberapa teorinya dapat menjadi inspirasi.</Desc.Format.1.Format>
+			<Desc.Format.2.Format>Hukum dengan pengetahuan yang cukup mendalam, ini adalah karya klasik tentang {0}. Metode ini mewarisi esensi {1} dan mengembangkan Undang-undang baru yang berfokus pada banyak ide inovatif tentang {2}. Meskipun seseorang tidak dapat mencapai keabadian melalui Hukum ini, ini adalah kumpulan dari banyak Hukum penanaman yang berwawasan luas yang sangat berharga dan langka.</Desc.Format.2.Format>
+			<Desc.Format.3.Format>Hukum dengan pengetahuan yang sangat mendalam, merupakan karya klasik tentang {0}. Metode ini mewarisi esensi {1} dan mengembangkan Undang-undang baru yang berfokus pada banyak ide inovatif tentang {2}. Hukum ini berhubungan langsung dengan jalan keabadian, oleh karena itu pasti ada sesuatu yang mendalam dan misterius yang patut dipelajari.</Desc.Format.3.Format>
+			<Desc.ElementKind.0.Desc>Metal</Desc.ElementKind.0.Desc>
+			<Desc.ElementKind.1.Desc>Wood</Desc.ElementKind.1.Desc>
+			<Desc.ElementKind.2.Desc>Water</Desc.ElementKind.2.Desc>
+			<Desc.ElementKind.3.Desc>Fire</Desc.ElementKind.3.Desc>
+			<Desc.ElementKind.4.Desc>Earth</Desc.ElementKind.4.Desc>
+			<Desc.ElementKind.5.Desc>Infinite</Desc.ElementKind.5.Desc>
+			<Desc.School.0.Name>many lost legacies that are popular in the cultivators' realm</Desc.School.0.Name>
+			<Desc.School.1.Name>Sunshade Abode heritage</Desc.School.1.Name>
+			<Desc.School.2.Name>Kunlun Palace heritage</Desc.School.2.Name>
+			<Desc.School.3.Name>Skydome Palace heritage</Desc.School.3.Name>
+			<Desc.School.4.Name>Purple Cloud Temple heritage</Desc.School.4.Name>
+			<Desc.School.5.Name>Mystic Unity Sect heritage</Desc.School.5.Name>
+			<Desc.School.6.Name>Blue Lotus Temple heritage</Desc.School.6.Name>
+			<Desc.School.7.Name>Evenfall Abode heritage</Desc.School.7.Name>
+			<Desc.School.8.Name>Mt. Hundred Insects heritage</Desc.School.8.Name>
+			<Desc.School.9.Name>Pit of Doom heritage</Desc.School.9.Name>
+			<Desc.School.10.Name>Seven-Slaughtering Sect heritage</Desc.School.10.Name>
+			<Desc.School.11.Name>Exultant Sect heritage</Desc.School.11.Name>
+			<Desc.School.12.Name>Daemonia Temple heritage</Desc.School.12.Name>
 		</Text>
 	</List>
 </Texts>
