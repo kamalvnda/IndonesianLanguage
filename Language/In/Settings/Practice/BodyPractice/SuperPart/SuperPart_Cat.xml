@@ -1,18 +1,18 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Cat_1">
-			<Prefix>tubuh</Prefix>
-			<Suffix>Sembilan Misterius</Suffix>
-			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kucing Primordial. yang menggunakan cahaya bulan untuk menempa kekuatan di jantung dan otak. Bila berhasil dipraktikkan, akan menghasilkan peningkatan kekuatan dan daya tahan tubuh yang sangat besar. Inilah asal usul kata kucing dengan sembilan nyawa.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Ini sangat meningkatkan kekuatan fisik dari Penggarap Fisik Abadi.</Levels.0.Desc>
+			<Prefix>Supreme Incarnation</Prefix>
+			<Suffix>Body</Suffix>
+			<Desc>Tubuh rahasia yang secara alami dimiliki oleh kucing Yaoguai yang membentuk kembali hati dan otak dengan Kekuatan Bulan. Setelah tercapai dapat meningkatkan kekuatan fisik secara drastis sehingga sulit mengalami cedera yang fatal. Beginilah kucing punya sembilan nyawa.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan kekuatan fisik kultivator.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Cat_2">
-			<Prefix>mata</Prefix>
-			<Suffix>Kaca segel ajaib</Suffix>
-			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Kucing Primordial. Membentuk mata dengan esensi langit dan bintang Jika berhasil dilatih, Anda akan bisa melihat dengan jelas kelemahan musuh Anda.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan Fisik Tersembunyi secara signifikan.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.</Levels.0.Desc>
+			<Prefix>Spellbinding Crystal</Prefix>
+			<Suffix>Eyes</Suffix>
+			<Desc>Tubuh rahasia yang secara alami dimiliki oleh kucing Yaoguai yang membentuk kembali matanya dengan Nimbus Essence. Setelah tercapai, ia dapat melihat semua kelemahan dan meningkatkan peluang penetrasi penghalang Qi di setiap aspek.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan akurasi serangan semua tubuh rahasia kultivator fisik.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan semua tubuh rahasia kultivator fisik.</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
