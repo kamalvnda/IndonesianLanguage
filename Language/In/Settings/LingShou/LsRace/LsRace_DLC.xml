@@ -1,15 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsPandaXian">
-			<PossibleMagic.0.DisplayName>teman alam</PossibleMagic.0.DisplayName>
-			<PossibleMagic.0.Desc>Gunakan pertumbuhan dan kebijaksanaan Anda sendiri untuk mengundang makhluk-makhluk bergabung dengan sekte Anda.\n[color=#FF0000]Membutuhkan setidaknya 50 Intelijen untuk digunakan.[/color]</PossibleMagic.0.Desc>
-			<PossibleMagic.1.DisplayName>Duta Besar Guru</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Gunakan pertumbuhan dan nutrisi Anda sendiri untuk pergi ke sekte lain dan meningkatkan hubungan sekte Anda.\n[color=#FF0000]Harus tumbuh sempurna dulu[/color]</PossibleMagic.1.Desc>
-			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.0.Desc>
-			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan 100 energi magis[/color]</PossibleSkill.1.Desc>
+			<PossibleMagic.0.DisplayName>Good-natured</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Menggunakan Pertumbuhan dan Kecerdasan sendiri untuk mengundang hewan bergabung dengan sekte Anda.\n[color=#FF0000]Membutuhkan setidaknya 50 Intelijen.[/color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Ambassador of Immortals</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Mengkonsumsi Pertumbuhan dan Nutrisinya sendiri untuk berpindah ke sekte lain dan meningkatkan hubungannya dengan sekte Anda.\n[color=#FF0000]Memerlukannya untuk menjadi dewasa. __TEMPAT PEMEGANG_1__</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan 50 Mantra[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Membutuhkan 100 Mantra[/color]</PossibleSkill.1.Desc>
 		</Text>
 		<Text Name="LsPandaXiu">
-			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan energi sihir 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Membutuhkan 50 Mantra[/color]</PossibleSkill.0.Desc>
 		</Text>
 	</List>
 </Texts>
