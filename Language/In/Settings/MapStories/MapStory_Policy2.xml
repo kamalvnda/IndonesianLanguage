@@ -1,7 +1,7 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_TreeEXP">
-			<DisplayName>Pelajari Alam</DisplayName>
+			<DisplayName>Study Nature</DisplayName>
 			<Desc>Anda telah cukup belajar dari Pengakuan Iman Surga, dan perolehan Anda dapat dibekukan menjadi pil sekarang.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
