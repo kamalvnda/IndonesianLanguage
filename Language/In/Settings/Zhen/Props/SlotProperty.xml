@@ -1,116 +1,116 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<Descript>Kosong</Descript>
-			<Tip>Kosong</Tip>
+			<Descript>Empty</Descript>
+			<Tip>Empty</Tip>
 		</Text>
 		<Text Name="StabilityBasev">
-			<Descript>Stabilitas Formasi Dasar {1}{0}</Descript>
+			<Descript>Base Formation Stability {1}{0}</Descript>
 		</Text>
 		<Text Name="StabilityBasep">
-			<Descript>Stabilitas Formasi Dasar {1}{0:P2}</Descript>
+			<Descript>Base Formation Stability {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="StabilityAddv">
-			<Descript>Stabilitas Formasi {1}{0}</Descript>
+			<Descript>Formation Stability {1}{0}</Descript>
 		</Text>
 		<Text Name="StabilityAddp">
-			<Descript>Stabilitas Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Stability {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="FabaoAtkPowerBasev">
-			<Descript>Penguasaan Artefak Dasar {1}{0}</Descript>
+			<Descript>Base Artifact Mastery {1}{0}</Descript>
 		</Text>
 		<Text Name="FabaoAtkPowerBasep">
-			<Descript>Penguasaan Artefak Dasar {1}{0:P2}</Descript>
+			<Descript>Base Artifact Mastery {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="FabaoAtkPowerAddv">
-			<Descript>Penguasaan Artefak {1}{0}</Descript>
+			<Descript>Artifact Mastery {1}{0}</Descript>
 		</Text>
 		<Text Name="FabaoAtkPowerAddp">
-			<Descript>Penguasaan Artefak {1}{0:P2}</Descript>
+			<Descript>Artifact Mastery {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="MagicPowerBasev">
-			<Descript>Kemampuan Mantra Dasar {1}{0}</Descript>
+			<Descript>Base Spell Ability {1}{0}</Descript>
 		</Text>
 		<Text Name="MagicPowerBasep">
-			<Descript>Kemampuan Mantra Dasar {1}{0:P2}</Descript>
+			<Descript>Base Spell Ability {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="MagicPowerAddv">
-			<Descript>Eja {1}{0}</Descript>
+			<Descript>Spell {1}{0}</Descript>
 		</Text>
 		<Text Name="MagicPowerAddp">
-			<Descript>Ejaan {1}{0:P2}</Descript>
+			<Descript>Spell {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SheildBasev">
-			<Descript>Perlindungan Dasar {1}{0}</Descript>
+			<Descript>Base Protection {1}{0}</Descript>
 		</Text>
 		<Text Name="SheildBasep">
-			<Descript>Perlindungan Dasar {1}{0:P2}</Descript>
+			<Descript>Base Protection {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SheildAddv">
-			<Descript>Perlindungan {1}{0}</Descript>
+			<Descript>Protection {1}{0}</Descript>
 		</Text>
 		<Text Name="SheildAddp">
-			<Descript>Perlindungan {1}{0:P2}</Descript>
+			<Descript>Protection {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SkillCooldownBasev">
-			<Descript>Kemampuan Operasi Dasar {1}{0}</Descript>
+			<Descript>Base Operation Ability {1}{0}</Descript>
 		</Text>
 		<Text Name="SkillCooldownBasep">
-			<Descript>Kemampuan Operasi Dasar {1}{0:P2}</Descript>
+			<Descript>Base Operation Ability {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SkillCooldownAddv">
-			<Descript>Kemampuan Operasi {1}{0}</Descript>
+			<Descript>Operation Ability {1}{0}</Descript>
 		</Text>
 		<Text Name="SkillCooldownAddp">
-			<Descript>Kemampuan Operasi {1}{0:P2}</Descript>
+			<Descript>Operation Ability {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="ReduceCostBasev">
-			<Descript>Efisiensi Pembentukan Basis {1}{0}</Descript>
+			<Descript>Base Formation Efficiency {1}{0}</Descript>
 		</Text>
 		<Text Name="ReduceCostBasep">
-			<Descript>Efisiensi Pembentukan Basis {1}{0:P2}</Descript>
+			<Descript>Base Formation Efficiency {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="ReduceCostAddv">
-			<Descript>Efisiensi Formasi {1}{0}</Descript>
+			<Descript>Formation Efficiency {1}{0}</Descript>
 		</Text>
 		<Text Name="ReduceCostAddp">
-			<Descript>Efisiensi Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Efficiency {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupBasev">
-			<Descript>Ukuran Formasi {1}{0}</Descript>
+			<Descript>Formation Size {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupBasep">
-			<Descript>Ukuran Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Size {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupAddv">
-			<Descript>Ukuran Formasi {1}{0}</Descript>
+			<Descript>Formation Size {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupAddp">
-			<Descript>Ukuran Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Size {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupBasev">
-			<Descript>Beban Formasi {1}{0}</Descript>
+			<Descript>Formation Load {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupBasep">
-			<Descript>Beban Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Load {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupAddv">
-			<Descript>Beban Formasi {1}{0}</Descript>
+			<Descript>Formation Load {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupAddp">
-			<Descript>Beban Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Load {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointBasev">
-			<Descript>Batas Energi Formasi Dasar {1}{0}</Descript>
+			<Descript>Base Formation Energy Cap {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointBasep">
-			<Descript>Batas Energi Formasi Basa {1}{0:P2}</Descript>
+			<Descript>Base Formation Energy Cap {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointAddv">
-			<Descript>Batas Energi Formasi {1}{0}</Descript>
+			<Descript>Formation Energy Cap {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointAddp">
-			<Descript>Batas Energi Formasi {1}{0:P2}</Descript>
+			<Descript>Formation Energy Cap {1}{0:P2}</Descript>
 		</Text>
 	</List>
 </Texts>
