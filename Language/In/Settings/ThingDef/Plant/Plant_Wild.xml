@@ -1,35 +1,35 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Grass" sParam="Plant">
-			<ThingName>Rumput</ThingName>
+			<ThingName>Grass</ThingName>
 			<Desc>Rumput liar.</Desc>
 		</Text>
 		<Text Name="IceGrass" sParam="Plant">
-			<ThingName>Rumput es</ThingName>
+			<ThingName>Icegrass</ThingName>
 			<Desc>Rerumputan liar yang tumbuh di dataran es.</Desc>
 		</Text>
 		<Text Name="Reed" sParam="Plant">
-			<ThingName>Buluh</ThingName>
+			<ThingName>Reed</ThingName>
 			<Desc>Tanaman yang tumbuh di tepi danau atau sungai, mempunyai nilai estetika.</Desc>
 		</Text>
 		<Text Name="LongGrass" sParam="Plant">
-			<ThingName>Rumput Panjang</ThingName>
+			<ThingName>Long Grass</ThingName>
 			<Desc>Rumput liar.</Desc>
 		</Text>
 		<Text Name="Raspberry" sParam="Plant">
-			<ThingName>Buah Amber</ThingName>
+			<ThingName>Amber Fruit</ThingName>
 			<Desc>Buah liar disiram air liur naga. Ini memiliki efek spiritual khusus, mencegah Anda merasa lapar atau lelah selama setengah hari setelah memakannya. Namun buahnya cepat busuk setelah dipanen.</Desc>
 		</Text>
 		<Text Name="Lotus" sParam="Plant">
-			<ThingName>Teratai</ThingName>
+			<ThingName>Lotus</ThingName>
 			<Desc>Tanaman yang tumbuh di air, mempunyai nilai estetika. Akarnya bisa dimakan.</Desc>
 		</Text>
 		<Text Name="LittleRock" sParam="Plant">
-			<ThingName>Batuan Kecil</ThingName>
+			<ThingName>Little Rock</ThingName>
 			<Desc>Batu-batu kecil berserakan di tanah.</Desc>
 		</Text>
 		<Text Name="IceLittleRock" sParam="Plant">
-			<ThingName>Batuan Es Kecil</ThingName>
+			<ThingName>Small Icerock</ThingName>
 			<Desc>Batu-batu kecil berserakan di tanah.</Desc>
 		</Text>
 	</List>
