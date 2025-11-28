@@ -1,75 +1,75 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LingShouShitPlace" sParam="Building">
-			<ThingName>Tempat Buang Air Besar Hewan Peliharaan</ThingName>
+			<ThingName>Pet Defecation Spot</ThingName>
 			<Desc>Pilih tempat untuk hewan peliharaan Anda buang air besar.</Desc>
 		</Text>
 		<Text Name="LSEnemyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Musuh</ThingName>
+			<ThingName>Enemy Staging Area</ThingName>
 			<Desc>Pet dapat memindahkan musuh yang tidak sadarkan diri ke area ini dengan cara Mengangkut tubuhnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSWaiCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Murid Luar</ThingName>
+			<ThingName>Outer Disciple Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan Murid Luar yang tidak sadarkan diri ke area ini dengan Mengangkut tubuh mereka. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSNeiCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Murid Batin</ThingName>
+			<ThingName>Inner Disciple Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan Murid Batin yang tidak sadarkan diri ke area ini dengan Mengangkut tubuh mereka. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSVistorCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Pengunjung</ThingName>
+			<ThingName>Visitor Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat menggerakkan pengunjung secara tidak sadar ke area ini dengan cara menyeret tubuhnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSIncomingCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Tamu</ThingName>
+			<ThingName>Guest Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan Tamu yang tidak sadarkan diri ke area ini dengan cara Mengangkut tubuhnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Musuh</ThingName>
+			<ThingName>Enemy Corpse Staging Area</ThingName>
 			<Desc>Pet dapat memindahkan mayat musuh ke area ini dengan cara Hauling. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Murid Luar</ThingName>
+			<ThingName>Outer Disciple Corpse Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan mayat Murid Luar ke area ini dengan Mengangkutnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Murid Dalam</ThingName>
+			<ThingName>Inner Disciple Corpse Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan mayat Murid Dalam ke area ini dengan cara Mengangkutnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Pengunjung</ThingName>
+			<ThingName>Visitor Corpse Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan mayat Pengunjung ke area ini dengan cara Mengangkutnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Tamu</ThingName>
+			<ThingName>Guest Corpse Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan mayat Tamu ke area ini dengan cara Mengangkutnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Mayat Orang Asing</ThingName>
+			<ThingName>Mortal Stranger Corpse Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan mayat manusia ke area ini dengan cara Mengangkutnya. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LSMortalCarryPlace" sParam="Building">
-			<ThingName>Area Pementasan Orang Asing Fana</ThingName>
+			<ThingName>Mortal Stranger Staging Area</ThingName>
 			<Desc>Hewan peliharaan dapat memindahkan manusia yang tidak sadarkan diri ke area ini dengan Mengangkut tubuh mereka. Mayat yang diangkut tidak ditumpuk, dan area pementasan yang paling dekat dengan hewan peliharaan akan dipilih.</Desc>
 		</Text>
 		<Text Name="LsDogHouse" sParam="Building">
-			<ThingName>Tempat Tidur Hewan Peliharaan</ThingName>
+			<ThingName>Pet's Bed</ThingName>
 			<Desc>Tempat tidur hewan peliharaan.</Desc>
 		</Text>
 		<Text Name="LsDog_Carve" sParam="Building">
-			<ThingName>Patung Anjing Ilahi</ThingName>
+			<ThingName>Divine Dog Statue</ThingName>
 			<Desc>Patung Anjing Ilahi. Dapat digunakan untuk menghidupkan kembali atau memanggil Anjing Ilahi.</Desc>
 		</Text>
 		<Text Name="LsFox_Carve" sParam="Building">
-			<ThingName>Patung Rubah Roh</ThingName>
+			<ThingName>Spirit Fox Statue</ThingName>
 			<Desc>Patung Rubah Roh. Dapat digunakan untuk menghidupkan kembali atau memanggil Spirit Fox.</Desc>
 		</Text>
 		<Text Name="LsDragon_Carve" sParam="Building">
-			<ThingName>Patung Naga Apung</ThingName>
+			<ThingName>Float Dragon Statue</ThingName>
 			<Desc>Patung Naga Apung. Dapat digunakan untuk menghidupkan kembali atau memanggil Float Dragon.</Desc>
 		</Text>
 		<Text Name="LsPhoenix_Carve" sParam="Building">
-			<ThingName>Patung Phoenix Gelap</ThingName>
+			<ThingName>Dark Phoenix Statue</ThingName>
 			<Desc>Patung Phoenix Gelap. Dapat digunakan untuk menghidupkan kembali atau memanggil Dark Phoenix.</Desc>
 		</Text>
 	</List>
