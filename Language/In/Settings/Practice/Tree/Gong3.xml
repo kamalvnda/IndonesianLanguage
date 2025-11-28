@@ -1,109 +1,109 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong3_a2">
-			<DisplayName>Niat membunuh</DisplayName>
+			<DisplayName>Killing Intent</DisplayName>
 		</Text>
 		<Text Name="Gong3_a2_1">
-			<DisplayName>Niat membunuh</DisplayName>
+			<DisplayName>Killing Intent</DisplayName>
 		</Text>
 		<Text Name="Gong3_a2_2">
-			<DisplayName>Niat membunuh</DisplayName>
+			<DisplayName>Killing Intent</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5">
-			<DisplayName>Menunjukkan pedang</DisplayName>
+			<DisplayName>Sword Control</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5_1">
-			<DisplayName>Menunjukkan pedang</DisplayName>
+			<DisplayName>Sword Control</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5_2">
-			<DisplayName>Menunjukkan pedang</DisplayName>
+			<DisplayName>Sword Control</DisplayName>
 		</Text>
 		<Text Name="Gong3_b0">
-			<DisplayName>menelan darah</DisplayName>
+			<DisplayName>Sanguine Absorption</DisplayName>
 		</Text>
 		<Text Name="Gong3_b1">
-			<DisplayName>Lepaskan belenggu setan</DisplayName>
+			<DisplayName>Celestial Demon Unchained</DisplayName>
 		</Text>
 		<Text Name="Gong3_b3">
-			<DisplayName>Tujuh Jalan Pembunuhan</DisplayName>
+			<DisplayName>Seven-Slaughtering Form</DisplayName>
 		</Text>
 		<Text Name="Gong3_b4">
-			<DisplayName>Perintah Pedang</DisplayName>
+			<DisplayName>Blade Oath</DisplayName>
 		</Text>
 		<Text Name="Gong3_b6">
-			<DisplayName>Pedang Hati</DisplayName>
+			<DisplayName>Blade Cohesion</DisplayName>
 		</Text>
 		<Text Name="Gong3_b8">
-			<DisplayName>gigi</DisplayName>
+			<DisplayName>Strike Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_c8">
-			<DisplayName>menghancurkan</DisplayName>
+			<DisplayName>Crush Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_d8">
-			<DisplayName>kontrol</DisplayName>
+			<DisplayName>Control Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_b9">
-			<DisplayName>dorongan</DisplayName>
+			<DisplayName>Stab Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_c9">
-			<DisplayName>dorongan</DisplayName>
+			<DisplayName>Thrust Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_d9">
-			<DisplayName>manuver</DisplayName>
+			<DisplayName>Transformation Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_b10">
-			<DisplayName>menangkis</DisplayName>
+			<DisplayName>Cleanse Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_c10">
-			<DisplayName>terjang</DisplayName>
+			<DisplayName>Slash Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_d10">
-			<DisplayName>pembedahan</DisplayName>
+			<DisplayName>Severance Chant</DisplayName>
 		</Text>
 		<Text Name="Gong3_c0">
-			<DisplayName>Rebut jiwa</DisplayName>
+			<DisplayName>Soul Snatcher</DisplayName>
 		</Text>
 		<Text Name="Gong3_c1">
-			<DisplayName>Lima Roh yang Diinisiasi</DisplayName>
+			<DisplayName>Five Spiritual Imprints</DisplayName>
 		</Text>
 		<Text Name="Gong3_c4">
-			<DisplayName>Keterampilan Pedang Ilahi</DisplayName>
+			<DisplayName>Divine Mastery</DisplayName>
 		</Text>
 		<Text Name="Gong3_c6">
-			<DisplayName>Roh Pedang</DisplayName>
+			<DisplayName>Swordmind</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2">
-			<DisplayName>Roh Pedang Iblis</DisplayName>
+			<DisplayName>Demonic Aura</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2_1">
-			<DisplayName>Roh Pedang</DisplayName>
+			<DisplayName>Swordsprite</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2_2">
-			<DisplayName>Harta Karun Ajaib Kuno: Pedang Pemutus Jiwa Suci</DisplayName>
+			<DisplayName>Legacy Artifact: Immortal Slayer</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4">
-			<DisplayName>Masyarakat Krabi bersatu</DisplayName>
+			<DisplayName>Sword Ultima</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4_1">
-			<DisplayName>Masyarakat Krabi bersatu</DisplayName>
+			<DisplayName>Sword Ultima</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4_2">
-			<DisplayName>Masyarakat Krabi bersatu</DisplayName>
+			<DisplayName>Sword Ultima</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6">
-			<DisplayName>Satu Roh Pedang</DisplayName>
+			<DisplayName>Selfsword</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6_1">
-			<DisplayName>Satu Roh Pedang</DisplayName>
+			<DisplayName>Selfsword</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6_2">
-			<DisplayName>Satu Roh Pedang</DisplayName>
+			<DisplayName>Selfsword</DisplayName>
 		</Text>
 		<Text Name="Gong3_e4">
-			<DisplayName>Pengobatan Langit Ilahi</DisplayName>
+			<DisplayName>Eureka Pill</DisplayName>
 		</Text>
 		<Text Name="Gong3_e8">
-			<DisplayName>Keterampilan Penempaan Surgawi</DisplayName>
+			<DisplayName>Taoist Artifact</DisplayName>
 		</Text>
 	</List>
 </Texts>
