@@ -1,39 +1,39 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Wall" sParam="Building">
-			<ThingName>Dinding</ThingName>
+			<ThingName>Wall</ThingName>
 			<Desc>Struktur dasar yang dapat digunakan untuk membuat ruangan tertutup. Ruangan harus berada dalam jarak 3-400 grid.</Desc>
 		</Text>
 		<Text Name="Barrier2" sParam="Building">
-			<ThingName>Pagar</ThingName>
+			<ThingName>Fence</ThingName>
 			<Desc>Pagar batu atau logam sederhana yang digunakan untuk memisahkan area yang berbeda. Tidak dapat membentuk ruangan.</Desc>
 		</Text>
 		<Text Name="Barrier" sParam="Building">
-			<ThingName>Pagar</ThingName>
+			<ThingName>Fence</ThingName>
 			<Desc>Railing kayu sederhana digunakan untuk memisahkan area yang berbeda. Tidak dapat membentuk ruangan.</Desc>
 		</Text>
 		<Text Name="Door" sParam="Building">
-			<ThingName>Pintu</ThingName>
+			<ThingName>Door</ThingName>
 			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan. \n(Pintu penghubung yang menghadap ke arah yang sama akan dianggap sebagai satu pintu.)</Desc>
 		</Text>
 		<Text Name="Door_SpringFestival" sParam="Building">
-			<ThingName>Pintu</ThingName>
+			<ThingName>Door</ThingName>
 			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan. Karakter keberuntungan telah ditambahkan ke pintu keberuntungan. \n(Pintu penghubung yang menghadap ke arah yang sama akan dianggap sebagai satu pintu.)</Desc>
 		</Text>
 		<Text Name="Door_WanYao" sParam="Building">
-			<ThingName>Pintu</ThingName>
+			<ThingName>Door</ThingName>
 			<Desc>Struktur dasar yang digunakan untuk masuk atau keluar ruangan. Itu diukir dengan kepala binatang, menambahkan kesan tidak menyenangkan padanya. \n(Pintu penghubung yang menghadap ke arah yang sama akan dianggap sebagai satu pintu.)</Desc>
 		</Text>
 		<Text Name="Firecracker" sParam="Building">
-			<ThingName>Kembang Api (Naga)</ThingName>
+			<ThingName>Firework (Dragon)</ThingName>
 			<Desc>Itu bisa membawa kebahagiaan bagi orang-orang. Setelah dinyalakan, semua kembang api lainnya dalam tiga kotak akan menyala. Dikatakan bahwa sesuatu yang ajaib akan terjadi ketika 9 kembang api dinyalakan secara bersamaan di bawah langit berbintang.</Desc>
 		</Text>
 		<Text Name="HideDoor" sParam="Building">
-			<ThingName>Pintu masuk</ThingName>
+			<ThingName>Entrance</ThingName>
 			<Desc>Hanya terlihat di Edit.</Desc>
 		</Text>
 		<Text Name="AirWall" sParam="Building">
-			<ThingName>Tembok Udara</ThingName>
+			<ThingName>Air Wall</ThingName>
 			<Desc>Hanya terlihat di Edit.</Desc>
 		</Text>
 	</List>
