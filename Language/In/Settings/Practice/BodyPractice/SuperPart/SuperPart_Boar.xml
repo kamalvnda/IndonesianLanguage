@@ -1,18 +1,18 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Boar_1">
-			<Prefix>darah</Prefix>
-			<Suffix>Setan Kuno</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Babi Hutan Primordial. Gunakan teknik rahasia untuk membuat rambut di sekitar leher lebih kuat dan tajam. Setelah berhasil dilatih, Anda bisa menggunakannya untuk menembus semua jenis pertahanan musuh.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Prefix>Blood</Prefix>
+			<Suffix>Bristles</Suffix>
+			<Desc>Tubuh rahasia yang secara alami dimiliki oleh babi hutan Yaoguai yang membentuk kembali bulu di lehernya dengan teknik. Setelah tercapai, itu dapat dilampirkan ke serangan apa pun untuk meningkatkan peluang penetrasi penghalang Qi dari semua badan rahasia.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan penetrasi penghalang Qi pada semua tubuh rahasia kultivator fisik.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Boar_2">
-			<Prefix>anjing</Prefix>
-			<Suffix>menghancurkan sesuatu</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Babi Hutan Primordial. Masukkan kekuatan penghancur ke dalam taringnya dan buat mereka lebih kuat dan tajam. Hanya satu serangan saja yang bisa menghancurkan segalanya.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan kemungkinan menyerang melalui energi mendalam dari Fisik Misterius.</Levels.0.Desc>
+			<Prefix>Obliteration</Prefix>
+			<Suffix>Tusk</Suffix>
+			<Desc>Sebuah tubuh rahasia yang secara alami dimiliki oleh babi hutan Yaoguai yang menempelkan Kekuatan Penghancur pada gadingnya yang tajam, satu serangan akan cukup kuat untuk melenyapkan apa pun.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
