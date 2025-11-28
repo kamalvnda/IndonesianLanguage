@@ -1,172 +1,172 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Star">
-			<DisplayName>Bintang</DisplayName>
+			<DisplayName>Stars</DisplayName>
 			<SingleFormat.0>Teringat {0} cerah di malam hari.</SingleFormat.0>
 			<SingleFormat.1>Teringat {0} penglihatan jelas di bawah ngarai.</SingleFormat.1>
 		</Text>
 		<Text Name="Cloud">
-			<DisplayName>Harta Karun</DisplayName>
+			<DisplayName>Treasures</DisplayName>
 			<SingleFormat.0>Mengingat beberapa {0} yang mudah rusak.</SingleFormat.0>
 			<SingleFormat.1>Mengingat beberapa {0} yang bersinar.</SingleFormat.1>
 		</Text>
 		<Text Name="Sun">
-			<DisplayName>Matahari</DisplayName>
+			<DisplayName>Sun</DisplayName>
 			<SingleFormat.0>Teringat suatu hari {0} menyala-nyala.</SingleFormat.0>
 			<SingleFormat.1>Mengingat bahwa {0} terlalu terang untuk dilihat.</SingleFormat.1>
 		</Text>
 		<Text Name="Moon">
-			<DisplayName>Bulan</DisplayName>
+			<DisplayName>Moon</DisplayName>
 			<SingleFormat.0>Mengingatkan {0} yang sangat terang.</SingleFormat.0>
 			<SingleFormat.1>Teringat {0} yang kesepian mengawasiku.</SingleFormat.1>
 		</Text>
 		<Text Name="Meteriod">
-			<DisplayName>Bintang Jatuh</DisplayName>
+			<DisplayName>Falling Stars</DisplayName>
 			<SingleFormat.0>Ingat, saya belum melihat banyak {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Jade">
-			<DisplayName>Permata</DisplayName>
+			<DisplayName>Gems</DisplayName>
 			<SingleFormat.0>Ingat, saya belum melihat banyak {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Sculpture">
-			<DisplayName>Patung</DisplayName>
+			<DisplayName>Sculptures</DisplayName>
 			<SingleFormat.0>Ingat bahwa beberapa {0} mirip dengan saya.</SingleFormat.0>
 		</Text>
 		<Text Name="Spring">
-			<DisplayName>Musim semi</DisplayName>
+			<DisplayName>Spring</DisplayName>
 			<SingleFormat.0>Ahh, wanginya {0}.</SingleFormat.0>
 			<SingleFormat.1>Hujan selama {0} membawa kembali kenangan.</SingleFormat.1>
 		</Text>
 		<Text Name="Summer">
-			<DisplayName>Musim panas</DisplayName>
+			<DisplayName>Summer</DisplayName>
 			<SingleFormat.0>Teringat panas teriknya {0}.</SingleFormat.0>
 			<SingleFormat.1>Teringat serangga berdengung di {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Autumn">
-			<DisplayName>Musim gugur</DisplayName>
+			<DisplayName>Autumn</DisplayName>
 			<SingleFormat.0>Teringat daun-daun berguguran di {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat daun maple di {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Winter">
-			<DisplayName>Musim dingin</DisplayName>
+			<DisplayName>Winter</DisplayName>
 			<SingleFormat.0>Teringat dinginnya suhu {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingatkan angin sedingin es di daratan di {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Earth">
-			<DisplayName>Tanah</DisplayName>
+			<DisplayName>Ground</DisplayName>
 			<SingleFormat.0>Mengingat tumbuhan dan bunga di {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat {0} yang terkadang retak.</SingleFormat.1>
 		</Text>
 		<Text Name="Rain">
-			<DisplayName>Hujan</DisplayName>
+			<DisplayName>Rain</DisplayName>
 			<SingleFormat.0>Teringat menonton {0} di dalam lubang.</SingleFormat.0>
 			<SingleFormat.1>Teringat daun hijau gelap di {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Snow">
-			<DisplayName>Salju</DisplayName>
+			<DisplayName>Snow</DisplayName>
 			<SingleFormat.0>Teringat betapa damainya {0} itu.</SingleFormat.0>
 			<SingleFormat.1>Teringat {0} di Pohon Pinus selama musim dingin.</SingleFormat.1>
 		</Text>
 		<Text Name="Lake">
-			<DisplayName>Danau</DisplayName>
+			<DisplayName>Lake</DisplayName>
 			<SingleFormat.0>Mengingat air enak dalam jumlah besar {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat ikan di {0} besar.</SingleFormat.1>
 		</Text>
 		<Text Name="Wind">
-			<DisplayName>Angin</DisplayName>
+			<DisplayName>Wind</DisplayName>
 			<SingleFormat.0>Mengingat kembali perasaan nyaman {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat betapa kuatnya {0} terkadang.</SingleFormat.1>
 		</Text>
 		<Text Name="Thunder">
-			<DisplayName>Guruh</DisplayName>
+			<DisplayName>Thunder</DisplayName>
 			<SingleFormat.0>Teringat betapa gelapnya saat {0} muncul.</SingleFormat.0>
 			<SingleFormat.1>Mengingat bagaimana {0} bisa membuat orang berlari.</SingleFormat.1>
 		</Text>
 		<Text Name="Tree">
-			<DisplayName>Pohon</DisplayName>
+			<DisplayName>Trees</DisplayName>
 			<SingleFormat.0>Teringat {0} penuh dengan burung.</SingleFormat.0>
 			<SingleFormat.1>Teringat memetik buah dari {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Flower">
-			<DisplayName>Bunga</DisplayName>
+			<DisplayName>Flowers</DisplayName>
 			<SingleFormat.0>Mengingat semua warna yang mungkin dimiliki {0}.</SingleFormat.0>
 			<SingleFormat.1>Teringat betapa harumnya {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Human">
-			<DisplayName>Laki-laki</DisplayName>
+			<DisplayName>Men</DisplayName>
 			<SingleFormat.0>Mengingat {0} bisa melakukan apa saja jika mau.</SingleFormat.0>
 			<SingleFormat.1>Mengingat bagaimana {0} saling memberi makan.</SingleFormat.1>
 		</Text>
 		<Text Name="Self">
-			<DisplayName>Saya sendiri</DisplayName>
+			<DisplayName>Myself</DisplayName>
 			<SingleFormat.0>Teringat melihat {0} di dalam air.</SingleFormat.0>
 		</Text>
 		<Text Name="Food">
-			<DisplayName>Makanan</DisplayName>
+			<DisplayName>Food</DisplayName>
 			<SingleFormat.0>Mengingat favorit saya {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat bagaimana orang bahkan bisa berperan sebagai {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Barrier">
-			<DisplayName>Pagar</DisplayName>
+			<DisplayName>Fence</DisplayName>
 			<SingleFormat.0>Mengingat kembali bagaimana {0} dapat menghalangi.</SingleFormat.0>
 		</Text>
 		<Text Name="Weed">
-			<DisplayName>Gulma</DisplayName>
+			<DisplayName>Weeds</DisplayName>
 			<SingleFormat.0>Teringat kembali membuat salad dari semua jenis {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Wall">
-			<DisplayName>Dinding</DisplayName>
+			<DisplayName>Wall</DisplayName>
 			<SingleFormat.0>Mengingat betapa sulitnya {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Coat">
-			<DisplayName>Pakaian</DisplayName>
+			<DisplayName>Clothing</DisplayName>
 			<SingleFormat.0>Teringat beberapa {0} yang dibuat menggunakan kulit binatang.</SingleFormat.0>
 			<SingleFormat.1>Mengingat betapa mencoloknya beberapa {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Pants">
-			<DisplayName>Celana</DisplayName>
+			<DisplayName>Pants</DisplayName>
 			<SingleFormat.0>Teringat beberapa {0} yang dibuat menggunakan kulit binatang.</SingleFormat.0>
 			<SingleFormat.1>Mengingat betapa mencoloknya beberapa {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Fellows">
-			<DisplayName>Sahabat</DisplayName>
+			<DisplayName>Companions</DisplayName>
 			<SingleFormat.0>Mengingat begitu banyak orang mati saya {0}.</SingleFormat.0>
 			<SingleFormat.1>Diingat kembali sepanjang waktu dengan {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Mines">
-			<DisplayName>Bijih</DisplayName>
+			<DisplayName>Ore</DisplayName>
 			<SingleFormat.0>Mengingat bagaimana beberapa {0} akan bersinar.</SingleFormat.0>
 			<SingleFormat.1>Mengingat bau aneh dari beberapa {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Weapon">
-			<DisplayName>Senjata</DisplayName>
+			<DisplayName>Weapons</DisplayName>
 			<SingleFormat.0>Teringat {0} yang dibunuh oleh rekan-rekan saya.</SingleFormat.0>
 		</Text>
 		<Text Name="Nature">
-			<DisplayName>Qi dari Kejadian</DisplayName>
+			<DisplayName>Qi of Genesis</DisplayName>
 			<SingleFormat.0>Mengingat {0} di antara alam semesta.</SingleFormat.0>
 		</Text>
 		<Text Name="Fog">
-			<DisplayName>Kabut</DisplayName>
+			<DisplayName>Fog</DisplayName>
 			<SingleFormat.0>Mengingat betapa redupnya cuaca di {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="House">
-			<DisplayName>Pintu</DisplayName>
+			<DisplayName>Doors</DisplayName>
 			<SingleFormat.0>Teringat melihat orang melalui {0}.</SingleFormat.0>
 			<SingleFormat.1>Mengingat tidak mudah melalui {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Farm">
-			<DisplayName>Bidang</DisplayName>
+			<DisplayName>Field</DisplayName>
 			<SingleFormat.0>Teringat bau mengerikan dari {0}.</SingleFormat.0>
 			<SingleFormat.1>Teringat kembali buang air di {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Sharp">
-			<DisplayName>Jarum</DisplayName>
+			<DisplayName>Needles</DisplayName>
 			<SingleFormat.0>Mengingat betapa tajamnya {0}.</SingleFormat.0>
 			<SingleFormat.1>Diingat bahwa terasa sakit saat menyentuh {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="Ring">
-			<DisplayName>Cincin</DisplayName>
+			<DisplayName>Ring</DisplayName>
 			<SingleFormat.0>Teringat pernah terjerat oleh {0}.</SingleFormat.0>
 			<SingleFormat.1>Ditarik kembali {0} pada beast neck.</SingleFormat.1>
 		</Text>
