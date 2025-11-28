@@ -1,11 +1,11 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NoHeavyWork">
-			<DisplayName>Terlindung</DisplayName>
-			<Desc>Kehidupan istimewa telah tercipta [IT] tidak dapat melakukan pekerjaan manual yang berat.</Desc>
+			<DisplayName>Sheltered</DisplayName>
+			<Desc>Kehidupan yang istimewa telah membuat [IT] tidak dapat melakukan pekerjaan kasar apa pun.</Desc>
 		</Text>
 		<Text Name="NoMeticulousWork">
-			<DisplayName>Kikuk</DisplayName>
+			<DisplayName>Clumsy</DisplayName>
 			<Desc>Orang ini terlalu kikuk untuk melakukan pekerjaan apa pun yang membutuhkan ketelitian.</Desc>
 		</Text>
 	</List>
