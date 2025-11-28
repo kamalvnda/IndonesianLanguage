@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="RpgTower">
-			<Title>Keretakan Dimensi Antar Dunia: Tanah yang Hilang</Title>
-			<Desc>Sebuah portal misterius yang tersembunyi jauh di celah-celah dunia lain. Tempat dimana kenyataan dan mimpi bertemu. Tempat di mana ratusan ribu dan jutaan tahun sejarah dikumpulkan.</Desc>
+			<Title>Rift Between Worlds: Village of nowhere</Title>
+			<Desc>Gerbang misterius tersembunyi jauh di dalam Otherworld Rift. Tempat antara mimpi dan kenyataan yang melekat pada dunia ini, tempat sejarah ribuan tahun telah dipadatkan.</Desc>
 		</Text>
 		<Text Name="RpgQianKun">
-			<Title>Perpecahan Antar Dunia: Tempat Kesendirian</Title>
-			<Desc>Sebuah gua misterius di dalam miniatur alam semesta. Itu diblokir oleh segel yang kuat. Tapi pintunya terbuka karena "Buku Harian Rahasia Tai Yi" menyembunyikan sesuatu di dalamnya.</Desc>
+			<Title>Rift of the Universe: Place of Desolation</Title>
+			<Desc>Tempat Tinggal Surgawi yang Misterius di Mini Universe, disegel oleh kekuatan yang kuat. Akhirnya terbuka karena Kodeks Rahasia Taiyi. Sesuatu yang tidak diketahui tersembunyi di dalam.</Desc>
 		</Text>
 		<Text Name="RpgArena">
 			<Title>Dojo</Title>
-			<Desc>Tempat dimana para siswa datang untuk berlatih dan melakukan pertandingan persahabatan.</Desc>
+			<Desc>Tempat dimana para murid datang untuk berlatih dan mengadakan kompetisi persahabatan.</Desc>
 		</Text>
 		<Text Name="RpgArena_YingTian">
-			<Title>Altar surgawi bergema.</Title>
-			<Desc>Retakan di antara pikiran menghubungkan dunia.</Desc>
+			<Title>Heaven Echo Altar</Title>
+			<Desc>Perpecahan antar pikiran menghubungkan dunia.</Desc>
 		</Text>
 	</List>
 </Texts>
