@@ -4,20 +4,20 @@
 			<DisplayName>Phoenix</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Huofeng_Test">
-			<DisplayName>Formulir Neraka</DisplayName>
+			<DisplayName>Inferno Form</DisplayName>
 			<Desc>Phoenix terus mengkonsumsi Roh Api saat berada dalam Bentuk Inferno. Ketika itu berakhir, pulihkan sisa bulu api dan pulihkan Qi.</Desc>
 		</Text>
 		<Text Name="Boss_TestJueSe1">
-			<DisplayName>Tes Karakter</DisplayName>
+			<DisplayName>Character Test</DisplayName>
 		</Text>
 		<Text Name="Boss_JinGong1">
-			<DisplayName>Serangan Tes Karakter</DisplayName>
+			<DisplayName>Character Test Attack</DisplayName>
 		</Text>
 		<Text Name="Boss_JinGong2">
-			<DisplayName>Pengembalian Serangan Uji Karakter</DisplayName>
+			<DisplayName>Character Test Attack Rollback</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong1">
-			<DisplayName>Data permainan akhir standar karakter</DisplayName>
+			<DisplayName>Character's standard late-game data</DisplayName>
 		</Text>
 	</List>
 </Texts>
