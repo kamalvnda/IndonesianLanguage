@@ -1,130 +1,130 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_QuenchingLabel_ChiYi">
-			<DisplayName>menolak</DisplayName>
+			<DisplayName>Rejected</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
-			<DisplayName>Organ Dasar yang Ditingkatkan</DisplayName>
+			<DisplayName>Basic Tempered Organ</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
-			<DisplayName>Tulang dasar yang diperkuat</DisplayName>
+			<DisplayName>Basic Tempered Bone</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
-			<DisplayName>Penguatan Fisik Dasar</DisplayName>
+			<DisplayName>Basic Tempered Flesh</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
-			<DisplayName>Organ yang dilapisi Qi</DisplayName>
+			<DisplayName>Vitalized Function</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
-			<DisplayName>Potensi eksplosif</DisplayName>
+			<DisplayName>Dire Potential</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
-			<DisplayName>regenerasi alami</DisplayName>
+			<DisplayName>Innate Restoration</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
-			<DisplayName>Menelusuri garis keturunan (organ)</DisplayName>
+			<DisplayName>Ancestral Throwback (Organ)</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
-			<DisplayName>merangsang kerja</DisplayName>
+			<DisplayName>Activated Function</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
-			<DisplayName>Organ setan</DisplayName>
+			<DisplayName>Bestial Organ</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
-			<DisplayName>napas mayat</DisplayName>
+			<DisplayName>Void Breath</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
-			<DisplayName>Karakter setan</DisplayName>
+			<DisplayName>Demonic Pattern</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
-			<DisplayName>deformasi internal</DisplayName>
+			<DisplayName>Internal Deformity</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
-			<DisplayName>Energi Ilusi</DisplayName>
+			<DisplayName>Elusive Energy</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
-			<DisplayName>Siklus Yin Yang</DisplayName>
+			<DisplayName>Yin-Yang Rotation</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
-			<DisplayName>Pola bunga matahari</DisplayName>
+			<DisplayName>Solar Essence Series</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
-			<DisplayName>pola esensi bulan</DisplayName>
+			<DisplayName>Lunar Essence Series</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
-			<DisplayName>Satu Surga</DisplayName>
+			<DisplayName>Heavenly Unison</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
-			<DisplayName>kekuatan Anatta</DisplayName>
+			<DisplayName>Void Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
-			<DisplayName>Delapan Pulsa</DisplayName>
+			<DisplayName>Acupoint Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
-			<DisplayName>kekuatan tak berbentuk</DisplayName>
+			<DisplayName>Impermanence Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
-			<DisplayName>Kekuatan bintang</DisplayName>
+			<DisplayName>Astral Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
-			<DisplayName>Membatasi kekuasaan</DisplayName>
+			<DisplayName>Enclosure Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
-			<DisplayName>kekuatan resistensi</DisplayName>
+			<DisplayName>Insulation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
-			<DisplayName>garis keturunan tersembunyi</DisplayName>
+			<DisplayName>Resting Blood</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
-			<DisplayName>tulang yang tersegel</DisplayName>
+			<DisplayName>Receding Bone</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
-			<DisplayName>sirkuit terbalik</DisplayName>
+			<DisplayName>Reverted Function</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
-			<DisplayName>Pranathawan</DisplayName>
+			<DisplayName>Solar Breath</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
-			<DisplayName>Penguatan otak</DisplayName>
+			<DisplayName>Tempered Brain</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
-			<DisplayName>Mata yang Diperkuat</DisplayName>
+			<DisplayName>Tempered Eyes</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
-			<DisplayName>Telinga yang Ditingkatkan</DisplayName>
+			<DisplayName>Tempered Ears</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
-			<DisplayName>hidung yang diperkuat</DisplayName>
+			<DisplayName>Tempered Nose</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
-			<DisplayName>memperkuat mulut</DisplayName>
+			<DisplayName>Tempered Mouth</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
-			<DisplayName>leher yang diperkuat</DisplayName>
+			<DisplayName>Tempered Neck</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
-			<DisplayName>Memperkuat Hati</DisplayName>
+			<DisplayName>Tempered Heart</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
-			<DisplayName>Memperkuat hati</DisplayName>
+			<DisplayName>Tempered Liver</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
-			<DisplayName>memperkuat limpa</DisplayName>
+			<DisplayName>Tempered Spleen</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
-			<DisplayName>paru-paru yang diperkuat</DisplayName>
+			<DisplayName>Tempered Lungs</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
-			<DisplayName>Penguatan ginjal</DisplayName>
+			<DisplayName>Tempered Kidneys</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
-			<DisplayName>Penguatan perut</DisplayName>
+			<DisplayName>Tempered Stomach</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
-			<DisplayName>memperkuat usus</DisplayName>
+			<DisplayName>Tempered Intestines</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
-			<DisplayName>penguatan penis</DisplayName>
+			<DisplayName>Tempered Phallus</DisplayName>
 		</Text>
 	</List>
 </Texts>
