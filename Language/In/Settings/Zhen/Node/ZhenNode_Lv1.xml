@@ -1,178 +1,178 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv1_3_1">
-			<DisplayName>Bilah Positif yang Tersembunyi</DisplayName>
+			<DisplayName>Hidden Blade of Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_2">
-			<DisplayName>Kutukan Verifikasi yang Tersembunyi</DisplayName>
+			<DisplayName>Hidden Curse of Verification</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_3">
-			<DisplayName>Ekor Kalajengking Lapis Baja</DisplayName>
+			<DisplayName>Armored Scorpion Tail</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_4">
-			<DisplayName>Nafas Ular Bersisik</DisplayName>
+			<DisplayName>Scaled Snake Breath</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_5">
-			<DisplayName>Ekor Penyu Berpedang</DisplayName>
+			<DisplayName>Sworded Turtle Tail</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_6">
-			<DisplayName>Bentuk Penyu Terkutuklah</DisplayName>
+			<DisplayName>Cursed Turtle Form</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_7">
-			<DisplayName>Cangkang Penyu yang Membatu</DisplayName>
+			<DisplayName>Petrified Turtle Shell</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_8">
-			<DisplayName>Hujan Paku Pinus</DisplayName>
+			<DisplayName>Rain of Pine Spikes</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_9">
-			<DisplayName>Angin Pinus Terkutuklah</DisplayName>
+			<DisplayName>Wind of Cursed Pine</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_10">
-			<DisplayName>Duri Tua yang Tersembunyi</DisplayName>
+			<DisplayName>Old Hidden Thorn</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_11">
-			<DisplayName>Roh Kayu Mati</DisplayName>
+			<DisplayName>Deadwood Spirit</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_12">
-			<DisplayName>Batuan yang dijepit pinus</DisplayName>
+			<DisplayName>Pine-clamped Rock</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_13">
-			<DisplayName>Aura Pedang Terkonsentrasi</DisplayName>
+			<DisplayName>Concentrated Sword Aura</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_14">
-			<DisplayName>Segel Pengakuan Iman yang Tersembunyi</DisplayName>
+			<DisplayName>Hidden Seal of Creed</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_15">
-			<DisplayName>Kepositifan yang Benar-Benar Membeku</DisplayName>
+			<DisplayName>True Congealed Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_3_16">
-			<DisplayName>Kelenturan Transformasi Tertinggi</DisplayName>
+			<DisplayName>Supreme Transformed Pliability</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_1">
-			<DisplayName>Keseimbangan Alam</DisplayName>
+			<DisplayName>Balance of the Realms</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_2">
-			<DisplayName>Tangisan Bangau</DisplayName>
+			<DisplayName>Cry of the Crane</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_3">
-			<DisplayName>Naga Petir</DisplayName>
+			<DisplayName>Thundercloud Dragon</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_4">
-			<DisplayName>Naga Banjir yang Melonjak</DisplayName>
+			<DisplayName>Soaring Flood Dragon</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_5">
-			<DisplayName>Bilah Pasang Surut</DisplayName>
+			<DisplayName>Blade of Tide</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_6">
-			<DisplayName>Konstanta Badai</DisplayName>
+			<DisplayName>Constant of Storm</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_7">
-			<DisplayName>Pedang yang Menusuk Bumi</DisplayName>
+			<DisplayName>Earth-piercing Blade</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_8">
-			<DisplayName>Pasir Kutukan Ilahi</DisplayName>
+			<DisplayName>Sand of Divine Curse</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_9">
-			<DisplayName>Kardinal Pedang</DisplayName>
+			<DisplayName>Cardinal of Swords</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_10">
-			<DisplayName>Kardinal Pengakuan Iman</DisplayName>
+			<DisplayName>Cardinal of Creeds</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_11">
-			<DisplayName>Kardinal Kepositifan Sejati</DisplayName>
+			<DisplayName>Cardinal of True Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv1_4_12">
-			<DisplayName>Kardinal Kelenturan Mendalam</DisplayName>
+			<DisplayName>Cardinal of Profound Pliability</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_1_1">
-			<DisplayName>Pedang</DisplayName>
+			<DisplayName>Sword</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_1_2">
-			<DisplayName>Mengeja</DisplayName>
+			<DisplayName>Spell</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_1_3">
-			<DisplayName>Positif</DisplayName>
+			<DisplayName>Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_1_4">
-			<DisplayName>Sifat lembut</DisplayName>
+			<DisplayName>Pliability</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_1">
-			<DisplayName>Relativitas</DisplayName>
+			<DisplayName>Relativity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_2">
-			<DisplayName>Reaksi</DisplayName>
+			<DisplayName>Reaction</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_3">
-			<DisplayName>Pedang Positif</DisplayName>
+			<DisplayName>Positive Sword</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_4">
-			<DisplayName>Pedang Lentur</DisplayName>
+			<DisplayName>Pliable Sword</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_5">
-			<DisplayName>Kredo Positif</DisplayName>
+			<DisplayName>Positive Creed</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_6">
-			<DisplayName>Pengakuan Iman yang Lentur</DisplayName>
+			<DisplayName>Pliable Creed</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_7">
-			<DisplayName>Pedang yang Diasah</DisplayName>
+			<DisplayName>Sharpened Sword</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_8">
-			<DisplayName>Pengakuan Iman Terkonsentrasi</DisplayName>
+			<DisplayName>Concentrated Creed</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_9">
-			<DisplayName>Kepositifan Berganda</DisplayName>
+			<DisplayName>Doubled Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_2_10">
-			<DisplayName>Kelenturan Gabungan</DisplayName>
+			<DisplayName>Combined Pliability</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_1">
-			<DisplayName>Pisau Tersembunyi</DisplayName>
+			<DisplayName>Hidden Blade</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_2">
-			<DisplayName>Kutukan Tersembunyi</DisplayName>
+			<DisplayName>Hidden Curse</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_3">
-			<DisplayName>Ekor Kalajengking</DisplayName>
+			<DisplayName>Scorpion Tail</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_4">
-			<DisplayName>Nafas Ular</DisplayName>
+			<DisplayName>Snake Breath</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_5">
-			<DisplayName>Buaya Maw</DisplayName>
+			<DisplayName>Alligator Maw</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_6">
-			<DisplayName>Lagu Naga</DisplayName>
+			<DisplayName>Dragon Song</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_7">
-			<DisplayName>Bentuk Penyu</DisplayName>
+			<DisplayName>Turtle Form</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_8">
-			<DisplayName>Pedang Derek</DisplayName>
+			<DisplayName>Crane Sword</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_9">
-			<DisplayName>fatamorgana</DisplayName>
+			<DisplayName>Mirage</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_10">
-			<DisplayName>Paku Pinus</DisplayName>
+			<DisplayName>Pine Spike</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_11">
-			<DisplayName>Tekstur Kuno</DisplayName>
+			<DisplayName>Ancient Texture</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_12">
-			<DisplayName>Baju Besi Rotan</DisplayName>
+			<DisplayName>Rattan Armor</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_13">
-			<DisplayName>Kehendak Pedang</DisplayName>
+			<DisplayName>Sword Will</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_14">
-			<DisplayName>Segel Pengakuan Iman</DisplayName>
+			<DisplayName>Creed Seal</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_15">
-			<DisplayName>Positif Sejati</DisplayName>
+			<DisplayName>True Positivity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv1_3_16">
-			<DisplayName>Kelenturan yang Mendalam</DisplayName>
+			<DisplayName>Profound Pliability</DisplayName>
 		</Text>
 	</List>
 </Texts>
