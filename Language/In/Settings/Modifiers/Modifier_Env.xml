@@ -1,63 +1,63 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BornComa">
-			<DisplayName>Tidak sadar</DisplayName>
+			<DisplayName>Unconscious</DisplayName>
 			<Desc>Telah kehilangan kesadaran.</Desc>
 		</Text>
 		<Text Name="FightPowerUp">
-			<DisplayName>Peningkatan Kekuatan</DisplayName>
+			<DisplayName>Increased Strength</DisplayName>
 			<Desc>Serangan dan Pertahanan meningkat secara mendasar.</Desc>
 		</Text>
 		<Text Name="FightPowerUp_DiMu">
-			<DisplayName>Kutukan Ibu Bumi</DisplayName>
+			<DisplayName>Earthmother Curse</DisplayName>
 			<Desc>Sangat meningkatkan kemampuan di bawah pengaruh Kutukan Ibu Pertiwi.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp">
-			<DisplayName>Kekuatan Air</DisplayName>
+			<DisplayName>Force of Water</DisplayName>
 			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp">
-			<DisplayName>Kekuatan Api</DisplayName>
+			<DisplayName>Force of Fire</DisplayName>
 			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp">
-			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<DisplayName>Might of Yin Yang</DisplayName>
 			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp2">
-			<DisplayName>Kekuatan Air</DisplayName>
+			<DisplayName>Force of Water</DisplayName>
 			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp3">
-			<DisplayName>Kekuatan Air</DisplayName>
+			<DisplayName>Force of Water</DisplayName>
 			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp4">
-			<DisplayName>Kekuatan Air</DisplayName>
+			<DisplayName>Force of Water</DisplayName>
 			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp2">
-			<DisplayName>Kekuatan Api</DisplayName>
+			<DisplayName>Force of Fire</DisplayName>
 			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp3">
-			<DisplayName>Kekuatan Api</DisplayName>
+			<DisplayName>Force of Fire</DisplayName>
 			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp2">
-			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<DisplayName>Might of Yin Yang</DisplayName>
 			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp3">
-			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<DisplayName>Might of Yin Yang</DisplayName>
 			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp4">
-			<DisplayName>Kekuatan Yan Yang</DisplayName>
+			<DisplayName>Might of Yin Yang</DisplayName>
 			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
 		</Text>
 		<Text Name="Dan_LingTree">
-			<DisplayName>Resonansi Qi Tingkat Lanjut</DisplayName>
+			<DisplayName>Advanced Qi Resonance</DisplayName>
 			<Desc>Beresonansi dengan Qi di sekitar Illumitree, dapat meningkatkan kecepatan Pemulihan Qi.</Desc>
 		</Text>
 	</List>
