@@ -1,29 +1,29 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_SpellPaper" sParam="Item">
-			<ThingName>Kertas Jimat</ThingName>
+			<ThingName>Talisman Paper</ThingName>
 			<Desc>Kertas yang dibuat khusus yang dapat diubah menjadi Jimat dengan menggambar simbol tertentu dengan Cinnabar di permukaannya melalui kekuatan pikiran seseorang.</Desc>
-			<Item.FabaoSuffix>Jimat, Mantra, Terlarang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SpellPaperLv2" sParam="Item">
-			<ThingName>Jimat Darah</ThingName>
+			<ThingName>Blood Talisman</ThingName>
 			<Desc>Kertas yang terbuat dari darah Binatang yang dapat diubah menjadi Jimat dengan menggambar simbol tertentu dengan Cinnabar di permukaannya melalui kekuatan pikiran seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SpellPaperLv3" sParam="Item">
-			<ThingName>Jimat Suci</ThingName>
+			<ThingName>Sacred Talisman</ThingName>
 			<Desc>Jimat dibuat dengan Permata Jiwa Serenity. Itu diubah menjadi Jimat dengan menggambar simbol tertentu dengan Cinnabar di permukaannya melalui kekuatan pikiran seseorang.</Desc>
 		</Text>
 		<Text Name="Item_Spell" sParam="Item">
-			<ThingName>Jimat</ThingName>
+			<ThingName>Talisman</ThingName>
 			<Desc>Jimat yang berhasil dibuat, memakainya akan memberikan bonus kemampuan tertentu.</Desc>
-			<Item.FabaoSuffix>Jimat, Mantra, Terlarang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SpellLv2" sParam="Item">
-			<ThingName>Jimat</ThingName>
+			<ThingName>Talisman</ThingName>
 			<Desc>Jimat yang berhasil dibuat, memakainya akan memberikan bonus kemampuan tertentu.</Desc>
 		</Text>
 		<Text Name="Item_SpellLv3" sParam="Item">
-			<ThingName>Jimat</ThingName>
+			<ThingName>Talisman</ThingName>
 			<Desc>Jimat yang berhasil dibuat, memakainya akan memberikan bonus kemampuan tertentu.</Desc>
 		</Text>
 	</List>
