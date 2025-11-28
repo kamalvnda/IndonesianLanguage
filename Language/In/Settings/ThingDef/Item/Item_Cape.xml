@@ -1,38 +1,38 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_CapeBase" sParam="Item">
-			<Item.FabaoSuffix>Sutra, Benang, Satin</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Silk,Yarn,Satin</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cape_Nomal1" sParam="Item">
-			<ThingName>Mantel Api</ThingName>
+			<ThingName>Fire Mantle</ThingName>
 			<Desc>Mantel untuk dekorasi, gaya terkenal di dunia budidaya.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal2" sParam="Item">
-			<ThingName>Mantel Awan</ThingName>
+			<ThingName>Cloud Mantle</ThingName>
 			<Desc>Mantel untuk dekorasi, gaya terkenal di dunia budidaya.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal3" sParam="Item">
-			<ThingName>Mantel Gelap</ThingName>
+			<ThingName>Dark Mantle</ThingName>
 			<Desc>Mantel untuk dekorasi, gaya terkenal di dunia budidaya.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal4" sParam="Item">
-			<ThingName>Mantel Cerah</ThingName>
+			<ThingName>Bright Mantle</ThingName>
 			<Desc>Mantel untuk dekorasi, gaya terkenal di dunia budidaya.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp1" sParam="Item">
-			<ThingName>Aliran Zhou</ThingName>
+			<ThingName>Zhou Flow</ThingName>
 			<Desc>Mantel dengan pola yang sangat indah, merupakan simbol pemenang KunLun Fair Spell.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp2" sParam="Item">
-			<ThingName>Api Langit Punah</ThingName>
+			<ThingName>Sky Fire Extinct</ThingName>
 			<Desc>Simbol mengalahkan Phoenix. Pola pada mantelnya merupakan penampakan alami dari esensi di dalam tubuhnya dan terlihat cukup misterius.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp3" sParam="Item">
-			<ThingName>Bekukan Badai Salju Awan</ThingName>
+			<ThingName>Freeze Cloud Blizzard</ThingName>
 			<Desc>Simbol mengalahkan Naga Banjir. Pola pada mantelnya merupakan penampakan alami dari esensi di dalam tubuhnya dan terlihat cukup misterius.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp4" sParam="Item">
-			<ThingName>Harta benda</ThingName>
+			<ThingName>Fortune</ThingName>
 			<Desc>Mantel dengan pola indah yang merupakan simbol pemenang KunLun Fair Arifact Craft.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp5" sParam="Item">
@@ -44,19 +44,19 @@
 			<Desc>Mantel dengan pola yang sangat indah, merupakan simbol pemenang Artefak KunLun Fair.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp7" sParam="Item">
-			<ThingName>Makhluk Hidup</ThingName>
+			<ThingName>Living Beings</ThingName>
 			<Desc>Mantel datang dari dunia lain. Polanya berarti musim dingin telah berakhir dan musim semi akan datang dan segalanya akan segera terjadi.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp8" sParam="Item">
-			<ThingName>Bayangan Tubuh Gelap</ThingName>
+			<ThingName>Dark Body's Shadow</ThingName>
 			<Desc>Simbol mengalahkan Naga Obor. Pola pada mantelnya merupakan penampakan alami dari esensi Yin di dalam tubuhnya dan terlihat cukup misterius.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp9" sParam="Item">
-			<ThingName>Cahaya Bulu Terang</ThingName>
+			<ThingName>Bright Feather's Light</ThingName>
 			<Desc>Simbol mengalahkan Naga Obor. Pola pada mantelnya merupakan penampakan alami dari esensi Yang di dalam tubuhnya dan terlihat cukup misterius.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp10" sParam="Item">
-			<ThingName>Prinsip Tao</ThingName>
+			<ThingName>Tao Principles</ThingName>
 			<Desc>Mantel dengan pola yang sangat indah, merupakan simbol pemenang Debat KunLun Fair. Dikatakan bahwa Ikuti jalan kuno dan taklukkan masa kini, mengetahui yang kuno berarti mengetahui Prinsip Tao.</Desc>
 		</Text>
 	</List>
