@@ -1,18 +1,18 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Trade_NoItem">
-			<DisplayName>Terjual habis</DisplayName>
+			<DisplayName>Sold Out</DisplayName>
 			<Desc>Aku tidak punya apa-apa lagi untuk dijual.</Desc>
 			<Selections.0.Display>Saya ingin menanyakan beberapa pertanyaan.</Selections.0.Display>
 			<Selections.1.Display>Sudahlah</Selections.1.Display>
 		</Text>
 		<Text Name="Trade_WalkTrader">
-			<DisplayName>Info dari Pedagang</DisplayName>
+			<DisplayName>Info from the Merchant</DisplayName>
 			<Desc>Apakah Anda ingin tahu tentang barang yang akan dilelang?</Desc>
 			<Selections.0.Display>Siapa yang akan ambil bagian?</Selections.0.Display>
 		</Text>
 		<Text Name="Trade_WalkTrader_2">
-			<DisplayName>Info dari Pedagang</DisplayName>
+			<DisplayName>Info from the Merchant</DisplayName>
 			<Desc>Saya khawatir Anda tidak memiliki kualifikasi yang diperlukan untuk memasuki rumah lelang.</Desc>
 		</Text>
 	</List>
