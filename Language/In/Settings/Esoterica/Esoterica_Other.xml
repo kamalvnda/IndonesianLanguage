@@ -1,129 +1,129 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_SYS_LOST">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
 			<EffectDesc>Tidak ada</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui1">
-			<DisplayName>Pukulan Liar</DisplayName>
+			<DisplayName>Wild Punch</DisplayName>
 			<Desc>Panduan rahasia ajaib dari zaman modern, memungkinkan seseorang mencapai peremajaan fisik.</Desc>
 			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Keberuntungan sebesar 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui2">
-			<DisplayName>Hati yang Terbangun</DisplayName>
+			<DisplayName>Awakened Heart</DisplayName>
 			<Desc>Panduan rahasia ajaib dari zaman modern, memungkinkan seseorang memusatkan Qi di kepalanya, menstimulasi proses berpikir dan meningkatkan Kecerdasan. Dan...</Desc>
 			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui3">
-			<DisplayName>Kekuatan Luar Biasa</DisplayName>
+			<DisplayName>Incredible Force</DisplayName>
 			<Desc>Teknik pamungkas yang unik untuk Dugu Xing, memungkinkan seseorang tiba-tiba meledak dengan kekuatan luar biasa.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kekuatan Luar Biasa\nTeknik pamungkas yang unik untuk Dugu Xing, memungkinkan seseorang tiba-tiba meledak dengan kekuatan luar biasa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui4">
-			<DisplayName>Hukum Abadi Kunlun</DisplayName>
+			<DisplayName>Kunlun Immortal's Law</DisplayName>
 			<Desc>Teknik rahasia yang diwariskan dari makhluk abadi yang tidak diketahui di Gunung Kunlun, teknik ini meningkatkan Kecerdasan dan Konstitusi seseorang.</Desc>
 			<EffectDesc>Meningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Konstitusi sebesar 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui5">
-			<DisplayName>Jimat Doa</DisplayName>
+			<DisplayName>Prayer Talisman</DisplayName>
 			<Desc>Mantra yang membuat orang merasa aman dan bahagia.</Desc>
 			<EffectDesc>Buka Kunci Jimat: \nJimat Doa</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia1">
-			<DisplayName>Cahaya Malam Pohon Pinus</DisplayName>
+			<DisplayName>Evening Glow of Pines</DisplayName>
 			<Desc>Skill ajaib yang terinspirasi dari pemandangan tebing hijau di Mt. Sunshade, meningkatkan Spell damage seseorang.</Desc>
 			<EffectDesc>Meningkatkan kerusakan Mantra</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia2">
-			<DisplayName>Awan Ungu</DisplayName>
+			<DisplayName>Violet Clouds</DisplayName>
 			<Desc>Teknik ajaib yang terinspirasi oleh pemandangan tebing hijau di Gunung Sunshade, latihan jangka panjang akan menyesuaikan Keadaan Mental seseorang dan menstabilkan Qi purba seseorang.</Desc>
 			<EffectDesc>Meningkatkan Kondisi Mental.\nMemperpanjang Umur.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
-			<DisplayName>Kodeks Rahasia Timur (Pedang Bintang Ungu)</DisplayName>
+			<DisplayName>Secret Eastern Codex (Purple Star Sword)</DisplayName>
 			<Desc>Keterampilan pedang terhebat yang ditemukan oleh Kaisar Abadi dari Timur. Manfaatkan kekuatan kekaisaran yang berdiam di Bintang Ungu dengan roh primordial Anda dan integrasikan ke dalam aura pedang, sehingga benar-benar tak terbendung. Volume ini juga mencatat resep kerajinan Borealis, Artefak Warisan yang ditemukan oleh Kaisar Abadi dari Timur.</Desc>
 			<EffectDesc>Meningkatkan Kekuatan Artefak secara signifikan.\n Memperoleh Artefak Lama: \nBorealis</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
-			<DisplayName>Kodeks Naga dan Phoenix</DisplayName>
+			<DisplayName>Codex of Dragon and Phoenix</DisplayName>
 			<Desc>Teknik rahasia ditemukan oleh orang bijak kuno, yang terinspirasi dengan menganalisis cara Qi batin beredar di dalam naga dan burung phoenix. Menguasai teknik ini memungkinkan seseorang untuk mengubah tubuh fana menjadi naga dan phoenix, meningkatkan kualitas fisik.</Desc>
 			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Konstitusi sebesar 10%.\nMeningkatkan Karisma sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.\nMemperpanjang Umur.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
-			<DisplayName>Kehendak Pedang yang Mengalir</DisplayName>
+			<DisplayName>Flowing Sword Will</DisplayName>
 			<Desc>Sword Will terinspirasi dari mengamati pemandangan pelangi putih yang membelah bebatuan di Air Terjun Skypass di Gunung Tiger Paw. Mengintegrasikannya ke dalam keterampilan pedang Anda akan meningkatkan kekuatan dampak Artefak secara besar-besaran.</Desc>
 			<EffectDesc>Meningkatkan Dampak Artefak</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu2">
-			<DisplayName>Sungai Terbang</DisplayName>
+			<DisplayName>Flying Creek</DisplayName>
 			<Desc>Teknik pernapasan yang terinspirasi dari mengamati pemandangan di Air Terjun Skypass di Gunung Tiger Paw, akan meningkatkan Tingkat Pemulihan Qi Anda.</Desc>
 			<EffectDesc>Meningkatkan tingkat pemulihan Qi</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
-			<DisplayName>Keahlian Api Bumi</DisplayName>
-			<Desc>Metode kerajinan rahasia yang diturunkan dari abadi kuno Nangong Hong, menggunakannya sangat meningkatkan Tingkat Keberhasilan saat membuat artefak. \N[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Bertahan dari Kesengsaraan: Istana Zamrud[/color]</Desc>
+			<DisplayName>Craftsmanship of Earthly Fire</DisplayName>
+			<Desc>Metode kerajinan rahasia yang diturunkan dari abadi kuno Nangong Hong, menggunakannya sangat meningkatkan Tingkat Keberhasilan saat membuat artefak. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Selamat dari Kesengsaraan: Istana Zamrud[/color]</Desc>
 			<EffectDesc>Meningkatkan Tingkat Keberhasilan secara signifikan saat membuat artefak.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan1">
-			<DisplayName>Catatan Rahasia Kelangsungan Hidup Kesengsaraan Nangong</DisplayName>
-			<Desc>Serangkaian metode yang dirangkum oleh abadi kuno Nangong Hong sebelum dia naik. Mempraktikkannya memungkinkan seseorang untuk mengelabui jalan surga, meningkatkan landasan kultivator. \N[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Bertahan dari Kesengsaraan: Istana Zamrud[/color]</Desc>
+			<DisplayName>Secret Record of Nangong's Tribulation Survival</DisplayName>
+			<Desc>Serangkaian metode yang dirangkum oleh abadi kuno Nangong Hong sebelum dia naik. Mempraktikkannya memungkinkan seseorang untuk mengelabui jalan surga, meningkatkan landasan kultivator. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Selamat dari Kesengsaraan: Istana Zamrud[/color]</Desc>
 			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_XuanKong">
-			<DisplayName>Jalan Keberuntungan Surgawi</DisplayName>
-			<Desc>Teknik menentang surga dan membalikkan nasib yang ditemukan oleh Yuan Ruoxue abadi kuno yang mendapatkan inspirasinya dari Kesengsaraan Surgawi itu sendiri. Sangat meningkatkan Keberuntungan. \N[color=#CCFF66]Hal ini sebagai apresiasi kepada pemain pertama yang berhasil menantang takdir dengan karakter dengan talenta paling rendah, yang akhirnya membentuk Inti Tier I dan naik: Sebenarnya bukan saya[/color]</Desc>
+			<DisplayName>Way of Heavenly Fortune</DisplayName>
+			<Desc>Teknik menentang surga dan membalikkan nasib yang ditemukan oleh Yuan Ruoxue abadi kuno yang mendapatkan inspirasinya dari Kesengsaraan Surgawi itu sendiri. Sangat meningkatkan Keberuntungan. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil menantang takdir dengan karakter dengan talenta paling rendah, yang akhirnya membentuk Inti Tingkat I dan naik: Sebenarnya bukan saya[/color]</Desc>
 			<EffectDesc>Meningkatkan Keberuntungan sebesar 20%.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ShanHeJue">
-			<DisplayName>Nyanyian Gunung dan Sungai</DisplayName>
+			<DisplayName>Chant of Mountains and Rivers</DisplayName>
 			<Desc>Teknik rahasia yang ditemukan oleh Celestial Patriark yang terinspirasi oleh peredaran Dragon's Vein, mencakup beberapa cara untuk membangun kembali medan dengan memanfaatkan Fortune Seed.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: \nPembentukan Danau\nPembentukan Tanah\nTanah Spiritual Pencipta\nKolam Spiritual Pencipta\nTanah Subur\nDapatkan Resep Ramuan: \nBenih Roh\nPasir Keberuntungan\nBuka Kunci Bangunan: \nKolam Giok Sang Pencipta[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: \nPembentukan Danau\nPembentukan Tanah\nTanah Spiritual Pencipta\nKolam Spiritual Pencipta\nTanah Subur\nDapatkan Resep Ramuan: \nBenih Roh\nPasir Keberuntungan\nBuka Kunci Bangunan: \nKolam Giok Pencipta[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongDan">
-			<DisplayName>Jiwa Roh Naga</DisplayName>
+			<DisplayName>Dragon Spirit Soul</DisplayName>
 			<Desc>Teknik rahasia yang mengambil inspirasi dari pecahan ingatan Naga Banjir.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nRamuan Naga\nMeningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nDragon Elixir\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FengDan">
-			<DisplayName>Jiwa Roh Phoenix</DisplayName>
+			<DisplayName>Phoenix Spirit Soul</DisplayName>
 			<Desc>Teknik rahasia yang mengambil inspirasi dari fragmen memori Phoenix.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPhoenix Elixir\nMeningkatkan Kekuatan Mantra secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPhoenix Elixir\nSangat meningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ZhuLongDan">
 			<DisplayName>Yin &amp; Yang Spirit</DisplayName>
 			<Desc>Teknik rahasia yang mengambil inspirasi dari pecahan memori Torch Dragon.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nBalance Spirit Pill\n Dapatkan metode pembuatan Artefak Warisan: \nDraconic Tablet\nMeningkatkan Kekuatan Penghalang secara mendasar dengan margin yang signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nBalance Spirit Pill\n Dapatkan metode pembuatan Artefak Warisan: \nDraconic Tablet\nSecara mendasar meningkatkan Kekuatan Penghalang dengan margin yang signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
-			<DisplayName>Qi Kemurnian Tiga Kali Lipat</DisplayName>
+			<DisplayName>Qi of Triple Purity</DisplayName>
 			<Desc>Hukum Rahasia Roh Ditempa dari aliran kepercayaan kuno, dianggap sudah lama hilang. Budidaya metode ini akan memecah Roh Primordial seseorang, menciptakan tiga sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan tiga sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan tiga sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen2">
-			<DisplayName>Penampakan Tiga Mayat: Pembunuhan Diri yang Baik</DisplayName>
+			<DisplayName>Apparition of Three Corpses: Good Self Slaying</DisplayName>
 			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran baik diri sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen3">
-			<DisplayName>Penampakan Tiga Mayat: Pembunuhan Diri yang Jahat</DisplayName>
+			<DisplayName>Apparition of Three Corpses: Evil Self Slaying</DisplayName>
 			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran jahatnya sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen4">
-			<DisplayName>Penampakan Tiga Mayat: Pembunuhan Diri Sejati</DisplayName>
+			<DisplayName>Apparition of Three Corpses: True Self Slaying</DisplayName>
 			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran endogennya sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_YanHuangTongShi">
-			<DisplayName>Sejarah Komprehensif Serica</DisplayName>
+			<DisplayName>A Comprehensive History of Serica</DisplayName>
 			<Desc>Buku yang mencakup lima ribu tahun sejarah negara Serica. Tercatat berbagai macam konten yang luas, di dalamnya terdapat banyak aliran pemikiran yang sangat inspiratif untuk dikembangkan.</Desc>
 			<EffectDesc>Meningkatkan Kecerdasan sebesar 20%.\nMeningkatkan Qi Sense sebesar 5.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_QuQiJue">
-			<DisplayName>Lima Qi Menghilangkan</DisplayName>
+			<DisplayName>Five Qi Dispel</DisplayName>
 			<Desc>Dikatakan sebagai teknik rahasia alkemis kuno yang tidak lengkap, mencatat beberapa spekulasi tentang Alkimia Qi. Energi ini tidak berwarna, tidak berasa, dan tidak berbentuk, sehingga sangat sulit untuk diamati. Selain itu, karena kelebihan dan kekurangan Alkimia Qi tidak sepenuhnya dipahami, prinsip lima elemen yang saling mengalahkan digunakan untuk menciptakan kemampuan ilahi yang sepenuhnya membubarkan Alkimia Qi di tempat kejadian.</Desc>
-			<EffectDesc>[size=18][color=#CCFF66]Pelajari Keajaiban: \n Menghilangkan Lima Qi[/color][/size]</EffectDesc>
+			<EffectDesc>[size=18][color=#CCFF66]Pelajari Keajaiban: \nPenghilangan Lima Qi[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
