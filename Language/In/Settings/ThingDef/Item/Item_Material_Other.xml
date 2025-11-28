@@ -1,58 +1,58 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Other_BingCanSi" sParam="Item">
-			<ThingName>Sutra Es</ThingName>
-			<Item.BeMaterial.NamePrefix>Sutra Es</Item.BeMaterial.NamePrefix>
+			<ThingName>Ice Silk</ThingName>
+			<Item.BeMaterial.NamePrefix>Ice Silk</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuZhiMing" sParam="Item">
-			<ThingName>Materi Tidak Diketahui</ThingName>
+			<ThingName>Unknown Material</ThingName>
 		</Text>
 		<Text Name="Item_Other_JinJing" sParam="Item">
-			<ThingName>Esensi Metal Barat</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Logam</Item.BeMaterial.NamePrefix>
+			<ThingName>Western Metal Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Metal Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_MuJing" sParam="Item">
-			<ThingName>Esensi Kayu Timur</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Kayu</Item.BeMaterial.NamePrefix>
+			<ThingName>Eastern Wood Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Wood Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_ShuiJing" sParam="Item">
-			<ThingName>Esensi Air Utara</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Air</Item.BeMaterial.NamePrefix>
+			<ThingName>Northern Water Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Water Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_HuoJing" sParam="Item">
-			<ThingName>Esensi Api Selatan</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Api</Item.BeMaterial.NamePrefix>
+			<ThingName>Southern Fire Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TuJing" sParam="Item">
-			<ThingName>Esensi Bumi Tengah</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Bumi</Item.BeMaterial.NamePrefix>
+			<ThingName>Central Earth Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Earth Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_NoneJing" sParam="Item">
-			<ThingName>Esensi Alami</ThingName>
-			<Item.BeMaterial.NamePrefix>Esensi Alami</Item.BeMaterial.NamePrefix>
+			<ThingName>Natural Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Natural Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LarkPerk" sParam="Item">
-			<ThingName>Paruh</ThingName>
-			<Item.BeMaterial.NamePrefix>Paruh</Item.BeMaterial.NamePrefix>
+			<ThingName>Beak</ThingName>
+			<Item.BeMaterial.NamePrefix>Beak</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
-			<ThingName>Tanduk Banteng</ThingName>
-			<Item.BeMaterial.NamePrefix>Tanduk Banteng</Item.BeMaterial.NamePrefix>
+			<ThingName>Bull Horn</ThingName>
+			<Item.BeMaterial.NamePrefix>Bull Horn</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LionFang" sParam="Item">
-			<ThingName>Taring Macan Tutul</ThingName>
-			<Item.BeMaterial.NamePrefix>Taring Macan Tutul</Item.BeMaterial.NamePrefix>
+			<ThingName>Leopard Fang</ThingName>
+			<Item.BeMaterial.NamePrefix>Leopard Fang</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TortoiseShell" sParam="Item">
-			<ThingName>Kerang</ThingName>
-			<Item.BeMaterial.NamePrefix>Kerang</Item.BeMaterial.NamePrefix>
+			<ThingName>Shell</ThingName>
+			<Item.BeMaterial.NamePrefix>Shell</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_DeerFeet" sParam="Item">
-			<ThingName>Kuku Rusa</ThingName>
-			<Item.BeMaterial.NamePrefix>Kuku Rusa</Item.BeMaterial.NamePrefix>
+			<ThingName>Deer Hoof</ThingName>
+			<Item.BeMaterial.NamePrefix>Deer Hoof</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SPStuffCategories_1" sParam="Item">
-			<ThingName>Tidak dikenal</ThingName>
+			<ThingName>Unknown</ThingName>
 		</Text>
 	</List>
 </Texts>
