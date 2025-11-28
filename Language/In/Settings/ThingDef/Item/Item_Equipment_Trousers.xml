@@ -1,66 +1,66 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="TrousersBase" sParam="Item">
-			<Item.FabaoSuffix>Pakaian, Armor, Jubah, Kemeja</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerTrousers" sParam="Item">
-			<ThingName>Celana Tipis</ThingName>
+			<ThingName>Thin Pants</ThingName>
 			<Desc>Pakaian yang sangat menyerap keringat, tetapi juga sedikit melindungi seseorang dari hawa dingin.</Desc>
 		</Text>
 		<Text Name="Item_SilkTrousers" sParam="Item">
-			<ThingName>Celana Musim Panas</ThingName>
+			<ThingName>Summer Pants</ThingName>
 			<Desc>Pakaian yang menyegarkan dan menenangkan, memakainya terasa sejuk dan menyenangkan.</Desc>
 		</Text>
 		<Text Name="Item_PracticeTrousers" sParam="Item">
-			<ThingName>Celana Kultivator</ThingName>
+			<ThingName>Cultivator Pants</ThingName>
 			<Desc>Seragam standar suatu sekte, memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu bernapas.</Desc>
 		</Text>
 		<Text Name="Item_FormalTrousers" sParam="Item">
-			<ThingName>Celana Kasual</ThingName>
+			<ThingName>Casual Pants</ThingName>
 			<Desc>Pakaian sehari-hari yang kasual memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu menyerap keringat.</Desc>
 		</Text>
 		<Text Name="Item_WinterTrousers" sParam="Item">
-			<ThingName>Celana Musim Dingin</ThingName>
+			<ThingName>Winter Pants</ThingName>
 			<Desc>Pakaian yang tebal dan kokoh membuat seseorang tetap hangat.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers1" sParam="Item">
-			<ThingName>Celana Skala</ThingName>
+			<ThingName>Scale Pants</ThingName>
 			<Desc>Kain ajaib yang ditenun dengan sisik naga. Memakainya meningkatkan tingkat keterampilan Perlindungan seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers2" sParam="Item">
-			<ThingName>Celana Gelap</ThingName>
+			<ThingName>Dark Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers3" sParam="Item">
-			<ThingName>Celana Cinder</ThingName>
+			<ThingName>Cinder Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Penguasaan Artefak seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers4" sParam="Item">
-			<ThingName>Celana Kafan</ThingName>
+			<ThingName>Shroud Pants</ThingName>
 			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers5" sParam="Item">
-			<ThingName>Celana Bulu</ThingName>
+			<ThingName>Feather Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang, dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers6" sParam="Item">
-			<ThingName>Celana Emas</ThingName>
+			<ThingName>Golden Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Penguasaan Artefak seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers7" sParam="Item">
-			<ThingName>Celana Pemadam Kebakaran</ThingName>
+			<ThingName>Firebath Pants</ThingName>
 			<Desc>Kain ajaib yang dijahit dengan kulit Tikus Api. Memakainya dapat meningkatkan tingkat keterampilan Perlindungan seseorang dan secara efektif mengurangi Kerusakan Akibat Kebakaran, serta memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers8" sParam="Item">
-			<ThingName>Celana Aliran</ThingName>
+			<ThingName>Pants of Flow</ThingName>
 			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers9" sParam="Item">
-			<ThingName>Celana Hantu</ThingName>
+			<ThingName>Specter Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers10" sParam="Item">
-			<ThingName>Celana Derek</ThingName>
+			<ThingName>Crane Pants</ThingName>
 			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang, dan memungkinkan perjalanan dengan mengendarai angin. Sangat ajaib.</Desc>
 		</Text>
 	</List>
