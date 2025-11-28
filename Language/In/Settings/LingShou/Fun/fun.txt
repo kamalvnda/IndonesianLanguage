@@ -1,10 +1,10 @@
 FunType	Ani	Duration	Desc	JobType
-Lay	Lay	20	Istirahat istirahat
-Wonder	Run	20	Berjalan-jalan	RandomMove
-BiuBiu	ShiFaLoop	20	Berlatih bertarung
-Chop	Atk3	20	Berlatih bertarung
-PlayBB	Free	20	bBermain dengan bambu
-Roll	Free2	20	bBerkubang
-Happy	kaixin01	20	Bermain
-Stretch	Free2	20	Latih Kepala Anda
-Spin	kaixin01	20	Berputar dalam lingkaran
+Lay	Lay	20	Take a rest	
+Wonder	Run	20	Have a walk around	RandomMove
+BiuBiu	ShiFaLoop	20	Practice Fighting	
+Chop	Atk3	20	Practice Fighting	
+PlayBB	Free	20	Play with Bamboo	
+Roll	Free2	20	Roll Around	
+Happy	kaixin01	20	Play	
+Stretch	Free2	20	Stretch (Head)	
+Spin	kaixin01	20	Spin Around	
