@@ -1,59 +1,59 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Animal2HumanThinkFull">
-			<DisplayName>Pikiran Penuh</DisplayName>
+			<DisplayName>Full Thought</DisplayName>
 			<Desc>Penuh pemikiran.</Desc>
 		</Text>
 		<Text Name="Animal2HumanFeelLing">
-			<DisplayName>Kecerdasan Pemula</DisplayName>
+			<DisplayName>Budding Intelligence</DisplayName>
 			<Desc>Terasa kecerdasan pemula.</Desc>
 		</Text>
 		<Text Name="AnimalToHuman">
-			<DisplayName>Setengah Berubah Bentuk</DisplayName>
+			<DisplayName>Halfway Shapeshifted</DisplayName>
 			<Desc>Berubah bentuk.</Desc>
 		</Text>
 		<Text Name="LingShou_fanshi">
-			<DisplayName>Biaya Balik Hewan Peliharaan</DisplayName>
+			<DisplayName>Pet Countercharge</DisplayName>
 			<Desc>Hewan peliharaan akan membuat artefak menjadi bumerang bagi pemiliknya setelah jangka waktu tertentu, menyebabkan Artefak Qi berkurang setengahnya. Efeknya berlipat ganda untuk artefak elemen Api, dan dibelah dua untuk artefak elemen Tanah.</Desc>
 		</Text>
 		<Text Name="ToHumanThunderComing">
-			<DisplayName>Kesengsaraan yang Berubah Bentuk</DisplayName>
+			<DisplayName>Shapeshifting Tribulation</DisplayName>
 			<Desc>Kesengsaraan yang Berubah Bentuk sedang terjadi.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Heal">
-			<DisplayName>Pendamping</DisplayName>
+			<DisplayName>Companion</DisplayName>
 			<Desc>Dengan hewan peliharaan roh sebagai teman, cederanya pulih lebih cepat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Stay">
-			<DisplayName>Pendamping</DisplayName>
+			<DisplayName>Companion</DisplayName>
 			<Desc>Dengan hewan peliharaan roh sebagai teman selama pelatihan, kondisi mental menjadi lebih stabil.</Desc>
 		</Text>
 		<Text Name="Modifier_GlitterEyes">
-			<DisplayName>Pemandangan Menusuk</DisplayName>
+			<DisplayName>Piercing Sight</DisplayName>
 			<Desc>Memiliki Piercing Sight Dark Phoenix agar dapat melihat fitur asli suatu item saat berada di pelelangan.</Desc>
 		</Text>
 		<Text Name="Modifier_Shelter">
-			<DisplayName>Perlindungan</DisplayName>
+			<DisplayName>Aegis</DisplayName>
 			<Desc>Secara drastis meningkatkan penghalang Qi dan daya tahan tubuh rahasia dalam rentang waktu singkat.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealPower">
-			<DisplayName>Kekuatan Asal (Kekuatan)</DisplayName>
+			<DisplayName>Origin Force (Power)</DisplayName>
 			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan kekuatan artefak dan badan rahasia secara drastis.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealRecover">
-			<DisplayName>Kekuatan Asal (Pengasuhan)</DisplayName>
+			<DisplayName>Origin Force (Nurture)</DisplayName>
 			<Desc>Membakar sumber kehidupan dengan cepat untuk menstimulasi kekuatan Yaoguai asli guna meningkatkan ketahanan secara drastis, tingkat pemulihan Qi artefak, dan tingkat pemulihan Qi Sejati badan rahasia.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealWisdom">
-			<DisplayName>Kekuatan Asal (INT)</DisplayName>
+			<DisplayName>Origin Force (INT)</DisplayName>
 			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli untuk secara drastis meningkatkan kekuatan mantra, akurasi serangan tubuh rahasia, tingkat keberhasilan pertahanan, penetrasi penghalang Qi, dan peluang penindasan artefak.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealShield">
-			<DisplayName>Kekuatan Asal (PCT)</DisplayName>
+			<DisplayName>Origin Force (PCT)</DisplayName>
 			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penguasaan artefak, penghalang Qi, serta kekuatan dan daya tahan tubuh rahasia secara drastis.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_NormalPower">
-			<DisplayName>Tubuh Setan</DisplayName>
+			<DisplayName>Demon Body</DisplayName>
 			<Desc>Tubuh iblis meningkatkan kekuatan tempur dan mempercepat proses pembentukan ulang. Namun didorong oleh alam liar, kecerdasan, kecepatan belajar, dan kondisi mental seorang kultivator semuanya akan sangat terpengaruh.</Desc>
 		</Text>
 	</List>
