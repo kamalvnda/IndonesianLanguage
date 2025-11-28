@@ -1,9 +1,9 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FristTeach">
-			<Type>Perkenalan</Type>
-			<DisplayName>Perkenalan</DisplayName>
-			<Desc>Di Sekolah Tai Yi, Waktu Phupha Chantem Duang telah berlalu hingga akhir tahun. Master sekte memasuki gerbang pertapa. bertujuan untuk menerobos ke tahap Jintan Tapi murid yang tersisa di sekte Sebaliknya, mereka merayakannya dengan gembira.\n[color=#BC1717](Mode asli dibuka dengan menyelesaikan bab pertama)[/color]</Desc>
+			<Type>Prologue</Type>
+			<DisplayName>Prologue</DisplayName>
+			<Desc>Sekte Taiyi, Gunung Bulan Purnama. Tahun ini akan segera berakhir dan pemimpin sekte telah mundur ke dalam isolasi total untuk berlatih dan mencapai kondisi Inti Emas. Namun untuk sekte lainnya, mereka sudah merayakannya dengan penuh.\n[color=#BC1717](Buka kunci Klasik dengan menyelesaikan tutorial prolog.)[/color]</Desc>
 		</Text>
 	</List>
 </Texts>
