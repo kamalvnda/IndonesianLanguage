@@ -1,107 +1,107 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SonOfDestiny">
-			<DisplayName>Disukai oleh Takdir</DisplayName>
+			<DisplayName>Favored by Destiny</DisplayName>
 			<Desc>Orang ini dilahirkan dengan segala nikmat dari langit dan bumi, seorang yang terpilih secara mutlak.</Desc>
 		</Text>
 		<Text Name="YinBody">
-			<DisplayName>Tubuh Yin</DisplayName>
+			<DisplayName>Body of Yin</DisplayName>
 			<Desc>Orang ini memiliki energi Yin murni dan berumur pendek, namun sangat menawan dan menarik, terutama berbakat dalam kultivasi.</Desc>
 		</Text>
 		<Text Name="YangBody">
-			<DisplayName>Tubuh Yang</DisplayName>
+			<DisplayName>Body of Yang</DisplayName>
 			<Desc>Orang ini berasal dari Yang murni dan berumur panjang, dilahirkan untuk menjadi kompetitif dan menawan. Namun, dia kesulitan menyesuaikan kondisi mentalnya sendiri.</Desc>
 		</Text>
 		<Text Name="Cleanliness">
-			<DisplayName>Membersihkan</DisplayName>
+			<DisplayName>Clean</DisplayName>
 			<Desc>Orang ini suka menjaga kebersihan.</Desc>
 		</Text>
 		<Text Name="Slovenly">
-			<DisplayName>Berantakan</DisplayName>
+			<DisplayName>Untidy</DisplayName>
 			<Desc>Orang ini sangat tidak rapi.</Desc>
 		</Text>
 		<Text Name="DragonBlood">
-			<DisplayName>Darah Naga</DisplayName>
-			<Desc>Orang ini memiliki darah naga kecil yang mengalir melalui pembuluh darahnya, menghasilkan[ENHIM]lebih kuat dan lebih sensitif dibandingkan yang lain. Namun, kebiadaban yang diwarisi nenek moyang memudahkannya[ENHIM]kehilangan kendali.</Desc>
+			<DisplayName>Dragon Blood</DisplayName>
+			<Desc>Orang ini memiliki sedikit darah naga yang mengalir melalui pembuluh darahnya, membuat [ENHIM] lebih kuat dan lebih sensitif dibandingkan yang lain. Namun kebiadaban yang diwarisi nenek moyang membuat [ENHIM] lebih mudah lepas kendali.</Desc>
 		</Text>
 		<Text Name="DemonBlood">
-			<DisplayName>Darah Setan</DisplayName>
-			<Desc>Orang ini memiliki sedikit darah iblis yang mengalir melalui pembuluh darahnya, membuatnya[ENHIM]lebih sensitif terhadap Qi batin. Namun, hal itu juga membuat kondisi mental seseorang menjadi lebih rentan terhadap perubahan.</Desc>
+			<DisplayName>Demon Blood</DisplayName>
+			<Desc>Orang ini memiliki sedikit darah iblis yang mengalir melalui pembuluh darahnya, membuat [ENHIM] lebih sensitif terhadap Qi batin. Namun, hal itu juga membuat kondisi mental seseorang menjadi lebih rentan terhadap perubahan.</Desc>
 		</Text>
 		<Text Name="Realization">
-			<DisplayName>Kesadaran</DisplayName>
-			<Desc>Meskipun orang ini tidak mengetahui bahwa dirinya telah bereinkarnasi, namun orang ini tetap dilahirkan dengan kesadaran alami yang membuat[ENHIM]lebih baik fokus pada kehidupan saat ini.</Desc>
+			<DisplayName>Awareness</DisplayName>
+			<Desc>Meskipun orang ini tidak mengetahui bahwa dirinya telah bereinkarnasi, namun orang ini tetap terlahir dengan kesadaran alami yang membuat [ENHIM] lebih fokus pada kehidupan saat ini.</Desc>
 		</Text>
 		<Text Name="Retarded">
-			<DisplayName>Tertantang Mental</DisplayName>
+			<DisplayName>Mentally Challenged</DisplayName>
 			<Desc>Ciri-ciri orang yang mengalami gangguan mental.</Desc>
 		</Text>
 		<Text Name="LunHui_1">
-			<DisplayName>Taat</DisplayName>
+			<DisplayName>Observant</DisplayName>
 			<Desc>Orang ini cepat memperhatikan sesuatu, sangat jeli.</Desc>
 		</Text>
 		<Text Name="LunHui_2">
-			<DisplayName>Diberkati</DisplayName>
+			<DisplayName>Blessed</DisplayName>
 			<Desc>Orang ini diberkati dan memiliki Kecerdasan yang lebih baik dari rata-rata.</Desc>
 		</Text>
 		<Text Name="LunHui_3">
-			<DisplayName>Ambisius</DisplayName>
+			<DisplayName>Ambitious</DisplayName>
 			<Desc>Orang ini bertekad untuk mempraktikkan Taoisme dan dapat menanggung lebih banyak kesulitan daripada orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_4">
-			<DisplayName>Energik</DisplayName>
+			<DisplayName>Energetic</DisplayName>
 			<Desc>Orang ini diberkahi dengan energi yang tiada habisnya sehingga begadang bukanlah masalah besar bagi mereka.</Desc>
 		</Text>
 		<Text Name="LunHui_5">
-			<DisplayName>Lambat</DisplayName>
+			<DisplayName>Slow</DisplayName>
 			<Desc>Orang ini berjalan sangat lambat, lebih lambat dari yang Anda duga.</Desc>
 		</Text>
 		<Text Name="LunHui_6">
-			<DisplayName>Penjelajah waktu</DisplayName>
+			<DisplayName>Time-traveler</DisplayName>
 			<Desc>Penjelajahan waktu telah memberi orang ini umur panjang dan tubuh yang tahan terhadap cuaca buruk seperti dingin atau panas ekstrem.</Desc>
 		</Text>
 		<Text Name="LunHui_7">
-			<DisplayName>Darah Phoenix</DisplayName>
+			<DisplayName>Phoenix Blood</DisplayName>
 			<Desc>Orang ini terlahir dengan darah burung phoenix, namun hal itu tidak ada artinya di masyarakat modern dimana Hukum kultivasi sudah tidak ada lagi.</Desc>
 		</Text>
 		<Text Name="LunHui_8">
 			<DisplayName>Modern</DisplayName>
-			<Desc>Pengetahuan dan pola pikir modern telah berhasil[ENHIM]sangat istimewa dalam bidang ini, tetapi itu juga berarti bahwa bidang ini tidak dapat menangani banyak jenis pekerjaan di masa lalu. Sedangkan pikiran modern berarti tidak bisa jatuh cinta pada siapapun di alam ini.</Desc>
+			<Desc>Pengetahuan dan pola pikir modern telah membuat [ENHIM] menjadi sangat istimewa di bidang ini, namun hal ini juga berarti bahwa bidang ini tidak dapat menangani banyak jenis pekerjaan di masa lalu. Sedangkan pikiran modern berarti tidak bisa jatuh cinta pada siapapun di alam ini.</Desc>
 		</Text>
 		<Text Name="LunHui_9">
-			<DisplayName>Berbudi luhur</DisplayName>
+			<DisplayName>Virtuous</DisplayName>
 			<Desc>Orang ini dilahirkan dengan kebajikan yang baik, dan para dewa sangat murah hati terhadap mereka.</Desc>
 		</Text>
 		<Text Name="LunHui_10">
 			<DisplayName>Modern</DisplayName>
-			<Desc>Pengetahuan dan pola pikir modern menjadikan[ENHIM]lebih pintar dari yang lain, tapi keengganan orang ini terhadap takhayul feodal berarti hal itu sangat sulit dilakukan[ENHIM]untuk mengolah.</Desc>
+			<Desc>Pengetahuan dan pola pikir modern membuat [ENHIM] lebih cerdas daripada yang lain, tetapi keengganan terhadap takhayul feodal membuat [ENHIM] sangat sulit untuk dikembangkan.</Desc>
 		</Text>
 		<Text Name="LunHui_11">
 			<DisplayName>Modern</DisplayName>
 			<Desc>Yang ini terbiasa menyembunyikan keberadaannya karena kehidupan modern, dan kehadirannya yang kecil bahkan diabaikan oleh surga di alam ini, sehingga yang ini terlahir dengan pencapaian yang kurang. Masyarakat yang satu ini terbiasa dengan gaya hidup modern yang membuat mereka tidak mampu menangani berbagai jenis pekerjaan di masa lalu. Yang ini bertekad untuk kembali ke alamnya sendiri melalui kenaikan, tidak memiliki niat untuk memiliki hubungan apa pun di sini.</Desc>
 		</Text>
 		<Text Name="LunHui_12">
-			<DisplayName>Gigih</DisplayName>
+			<DisplayName>Persistent</DisplayName>
 			<Desc>Orang ini menjalani pelatihan ekstrem selama beberapa dekade untuk menutupi kekurangan pencapaian alaminya, dan meletakkan dasar yang kuat untuk berlatih. Pengalaman ini berarti bahwa orang tersebut dapat menanggung lebih banyak kesulitan daripada orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_13">
-			<DisplayName>Malas</DisplayName>
+			<DisplayName>Lazy</DisplayName>
 			<Desc>Yang satu ini tidak terburu-buru menyelesaikan tugas, seringkali berkeliaran di jalanan.</Desc>
 		</Text>
 		<Text Name="LunHui_14">
-			<DisplayName>Perencana</DisplayName>
+			<DisplayName>Planner</DisplayName>
 			<Desc>Gaya hidup pekerjaan kantoran membuatnya tidak cocok untuk pekerjaan fisik. Namun, imajinasinya yang kaya membuat ia dapat dengan cepat berbaur dengan dunia luar.</Desc>
 		</Text>
 		<Text Name="LunHui_15">
-			<DisplayName>Potensi Jahat</DisplayName>
+			<DisplayName>Evil Potential</DisplayName>
 			<Desc>Orang ini diberkahi dengan tubuh istimewa karena pengalamannya berkultivasi dalam Hukum jahat, membuatnya lebih sulit untuk melatih fondasinya, namun potensinya jauh melebihi orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_16">
-			<DisplayName>Intervensi Ilahi</DisplayName>
+			<DisplayName>Divine Intervention</DisplayName>
 			<Desc>Orang ini pernah mendapat penglihatan dari para dewa, mengubah sifat mereka dan memperpanjang umurnya.</Desc>
 		</Text>
 		<Text Name="LunHui_17">
-			<DisplayName>Lahirnya pedang</DisplayName>
+			<DisplayName>Swordborn</DisplayName>
 			<Desc>Orang ini sangat terobsesi dengan pedang dan sepertinya terlahir untuk pedang.</Desc>
 		</Text>
 		<Text Name="LunHui_18">
@@ -109,79 +109,79 @@
 			<Desc>Gaya hidup modern yang lama telah membuatnya lemah secara fisik, namun ia memiliki pandangan terbuka terhadap dunia dan pikiran progresif.</Desc>
 		</Text>
 		<Text Name="LunHui_19">
-			<DisplayName>Cepat</DisplayName>
+			<DisplayName>Swift</DisplayName>
 			<Desc>Orang ini telah mempelajari gerakan cepat dari cerpelai terbang, yang membuatnya bergerak lebih cepat dari biasanya.</Desc>
 		</Text>
 		<Text Name="LunHui_20">
-			<DisplayName>Gagah</DisplayName>
+			<DisplayName>Gallant</DisplayName>
 			<Desc>Orang ini sangat gagah sehingga mudah mendapatkan bantuan dari orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_21">
-			<DisplayName>Ceroboh</DisplayName>
+			<DisplayName>Reckless</DisplayName>
 			<Desc>Orang ini ceroboh dan kasar, mudah terprovokasi.</Desc>
 		</Text>
 		<Text Name="LunHui_22">
-			<DisplayName>Pemalu</DisplayName>
+			<DisplayName>Timid</DisplayName>
 			<Desc>Orang ini sangat pemalu dan berhati-hati.</Desc>
 		</Text>
 		<Text Name="LunHui_23">
-			<DisplayName>Cepat</DisplayName>
+			<DisplayName>Brisk</DisplayName>
 			<Desc>Orang ini sangat lincah dan bergerak dengan kecepatan tinggi.</Desc>
 		</Text>
 		<Text Name="LunHui_24">
-			<DisplayName>Lesu</DisplayName>
+			<DisplayName>Lethargic</DisplayName>
 			<Desc>Orang ini suka tidur dan mudah mengantuk.</Desc>
 		</Text>
 		<Text Name="LunHui_25">
-			<DisplayName>Anggun</DisplayName>
+			<DisplayName>Elegant</DisplayName>
 			<Desc>Orang ini memiliki keanggunan dan pengetahuan seorang intelektual di dinasti Wei dan Jin, menawan dengan caranya sendiri.</Desc>
 		</Text>
 		<Text Name="LunHui_26">
-			<DisplayName>Penghobi Tulang</DisplayName>
+			<DisplayName>Bone Hobbyist</DisplayName>
 			<Desc>Orang ini terobsesi dengan tulang.</Desc>
 		</Text>
 		<Text Name="LunHui_27">
-			<DisplayName>Nelayan</DisplayName>
+			<DisplayName>Fisherman</DisplayName>
 			<Desc>Yang satu ini piawai menangkap ikan, bermata tajam, dan bergerak cepat.</Desc>
 		</Text>
 		<Text Name="LunHui_28">
-			<DisplayName>Lagu Sirene</DisplayName>
+			<DisplayName>Siren's Song</DisplayName>
 			<Desc>Suara nyanyian orang ini seindah dan ajaib seperti sirene dalam mitos.</Desc>
 		</Text>
 		<Text Name="LunHui_29">
-			<DisplayName>Kreatif</DisplayName>
-			<Desc>Seseorang dengan hati sensitif yang kaya akan emosi,[IT]Memiliki imajinasi yang tak tertandingi.</Desc>
+			<DisplayName>Creative</DisplayName>
+			<Desc>Seseorang dengan hati sensitif yang kaya akan emosi, [IT] memiliki imajinasi yang tak tertandingi.</Desc>
 		</Text>
 		<Text Name="LunHui_30">
-			<DisplayName>Riang</DisplayName>
+			<DisplayName>Carefree</DisplayName>
 			<Desc>Orang ini merasa nyaman dengan dirinya sendiri, selalu terlihat riang dan percaya diri, serta tidak pernah menunjukkan tanda-tanda panik.</Desc>
 		</Text>
 		<Text Name="LunHui_31">
-			<DisplayName>Kambing hitam</DisplayName>
+			<DisplayName>Scapegoat</DisplayName>
 			<Desc>Orang ini biasanya menjadi kambing hitam, sehingga disukai semua orang.</Desc>
 		</Text>
 		<Text Name="LunHui_32">
-			<DisplayName>Beruntung</DisplayName>
+			<DisplayName>Lucky</DisplayName>
 			<Desc>Orang ini terlahir beruntung, membuat iri orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_33">
-			<DisplayName>Sadis</DisplayName>
+			<DisplayName>Sadistic</DisplayName>
 			<Desc>Orang ini sangat sadis.</Desc>
 		</Text>
 		<Text Name="LunHui_34">
-			<DisplayName>Beruntung</DisplayName>
+			<DisplayName>Fortunate</DisplayName>
 			<Desc>Orang ini dilahirkan dengan keberuntungan dan kekayaan.</Desc>
 		</Text>
 		<Text Name="LunHui_35">
-			<DisplayName>Teman Hewan</DisplayName>
+			<DisplayName>Animal Friend</DisplayName>
 			<Desc>Orang ini menyukai binatang dan tidak bisa berburu.</Desc>
 		</Text>
 		<Text Name="LunHui_36">
-			<DisplayName>Teknologi Masa Depan</DisplayName>
+			<DisplayName>Future Technology</DisplayName>
 			<Desc>Orang ini memegang inti teknologi masa depan, menjadikannya lebih efisien dalam bekerja dan bergerak lebih cepat.</Desc>
 		</Text>
 		<Text Name="LunHui_37">
-			<DisplayName>Bos</DisplayName>
+			<DisplayName>Boss</DisplayName>
 			<Desc>Seorang bos yang sangat disukai oleh semua karyawannya.</Desc>
 		</Text>
 		<Text Name="LunHui_38">
@@ -189,7 +189,7 @@
 			<Desc>Orang ini adalah penjahat yang lincah dan heroik yang selalu mencari keadilan.</Desc>
 		</Text>
 		<Text Name="LunHui_39">
-			<DisplayName>Gigih</DisplayName>
+			<DisplayName>Tenacious</DisplayName>
 			<Desc>Orang ini dapat menanggung lebih banyak kesulitan dibandingkan orang lain, seperti cuaca dingin dan panas ekstrem, serta lincah dan memiliki umur yang panjang.</Desc>
 		</Text>
 		<Text Name="LunHui_40">
@@ -197,110 +197,110 @@
 			<Desc>Orang ini mengidap OCD dan membutuhkan waktu lama untuk menyelesaikan tugasnya, tetapi hasilnya biasanya bagus.</Desc>
 		</Text>
 		<Text Name="LunHui_41">
-			<DisplayName>Mudah</DisplayName>
+			<DisplayName>Straightforward</DisplayName>
 			<Desc>Orang ini sopan dan lugas, langsung mendapat dukungan dari orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_42">
-			<DisplayName>Tuan Koki</DisplayName>
+			<DisplayName>Master Chef</DisplayName>
 			<Desc>Orang ini berbakat dalam memasak.</Desc>
 		</Text>
 		<Text Name="LunHui_43">
-			<DisplayName>Perfeksionis</DisplayName>
+			<DisplayName>Perfectionist</DisplayName>
 			<Desc>Orang ini perfeksionis dan membutuhkan waktu lama untuk menyelesaikan tugasnya, tetapi hasilnya biasanya bagus.</Desc>
 		</Text>
 		<Text Name="LunHui_44">
-			<DisplayName>Orang yg serba tahu</DisplayName>
+			<DisplayName>Jack of All Trades</DisplayName>
 			<Desc>Orang ini tertarik pada segala hal dan senang melakukan apa pun.</Desc>
 		</Text>
 		<Text Name="LunHui_45">
-			<DisplayName>Bunglon</DisplayName>
+			<DisplayName>Chameleon</DisplayName>
 			<Desc>Orang ini sangat lincah dan gesit dengan mata yang tajam.</Desc>
 		</Text>
 		<Text Name="LunHui_46">
-			<DisplayName>Ahli bicara perut</DisplayName>
+			<DisplayName>Ventriloquist</DisplayName>
 			<Desc>Orang ini tidak suka berbicara, hanya berkomunikasi dengan orang lain melalui ventrilokui.</Desc>
 		</Text>
 		<Text Name="LunHui_47">
-			<DisplayName>Pengembara</DisplayName>
+			<DisplayName>Wanderer</DisplayName>
 			<Desc>Orang ini dilahirkan untuk menjadi pengembara di dunia ini.</Desc>
 		</Text>
 		<Text Name="LunHui_48">
-			<DisplayName>Kesayangan</DisplayName>
+			<DisplayName>Beloved</DisplayName>
 			<Desc>Orang ini secara alami dicintai oleh semua orang.</Desc>
 		</Text>
 		<Text Name="LunHui_49">
-			<DisplayName>Hilang ingatan</DisplayName>
+			<DisplayName>Memory Loss</DisplayName>
 			<Desc>Orang ini telah kehilangan ingatan dan hanya menikmati hidup pada saat ini.</Desc>
 		</Text>
 		<Text Name="LunHui_50">
-			<DisplayName>Kicauan Kicauan</DisplayName>
+			<DisplayName>Chirp Chirp</DisplayName>
 			<Desc>Kicauan Kicauan</Desc>
 		</Text>
 		<Text Name="LunHui_51">
-			<DisplayName>Berbakat</DisplayName>
+			<DisplayName>Gifted</DisplayName>
 			<Desc>Orang ini sangat berbakat dan tahan terhadap dingin dan panas yang ekstrim, cukup cocok untuk budidaya.</Desc>
 		</Text>
 		<Text Name="LunHui_52">
-			<DisplayName>Kutukan Wasir</DisplayName>
+			<DisplayName>Curse of Hemorrhoids</DisplayName>
 			<Desc>Orang ini dikutuk dan ditakdirkan untuk diganggu penyakit wasir selamanya.</Desc>
 		</Text>
 		<Text Name="LunHui_53">
-			<DisplayName>Pemalas</DisplayName>
+			<DisplayName>Lazybones</DisplayName>
 			<Desc>Saya tidak bisa melakukan kerja keras. Tidak mungkin apapun yang terjadi!</Desc>
 		</Text>
 		<Text Name="LunHui_54">
-			<DisplayName>Diberkahi dengan Baik</DisplayName>
+			<DisplayName>Well Endowed</DisplayName>
 			<Desc>Orang ini diberkahi dengan sangat baik.</Desc>
 		</Text>
 		<Text Name="LunHui_55">
-			<DisplayName>Penjaga Malam</DisplayName>
+			<DisplayName>Night Watcher</DisplayName>
 			<Desc>Orang ini telah lama mengamati langit malam, dan belajar bagaimana tetap terjaga hampir sepanjang malam.</Desc>
 		</Text>
 		<Text Name="LunHui_56">
-			<DisplayName>Persuasif</DisplayName>
+			<DisplayName>Persuasive</DisplayName>
 			<Desc>Orang ini sangat persuasif, ahli dalam berbicara halus.</Desc>
 		</Text>
 		<Text Name="LunHui_57">
-			<DisplayName>Praktisi</DisplayName>
+			<DisplayName>Practicer</DisplayName>
 			<Desc>Orang ini sangat berbakat, cukup cocok untuk berkultivasi.</Desc>
 		</Text>
 		<Text Name="LunHui_58">
-			<DisplayName>Kehidupan nyata</DisplayName>
+			<DisplayName>Real Life</DisplayName>
 			<Desc>Yang lain menjunjung tinggi orang ini karena pengalaman kehidupan nyata mereka.</Desc>
 		</Text>
 		<Text Name="LunHui_59">
-			<DisplayName>Orang Percaya Sains</DisplayName>
+			<DisplayName>Science Believer</DisplayName>
 			<Desc>Pengalaman orang ini dengan ilmu pengetahuan telah mengisinya dengan keimanan.</Desc>
 		</Text>
 		<Text Name="LunHui_60">
-			<DisplayName>Berbakat</DisplayName>
+			<DisplayName>Gifted</DisplayName>
 			<Desc>Orang ini sangat berbakat, cerdas, dan cepat belajar.</Desc>
 		</Text>
 		<Text Name="LunHui_61">
-			<DisplayName>Dokter yang baik</DisplayName>
+			<DisplayName>Good Doctor</DisplayName>
 			<Desc>Orang ini adalah seorang dokter terampil yang mendedikasikan waktunya untuk menyelamatkan nyawa orang.</Desc>
 		</Text>
 		<Text Name="LunHui_62">
-			<DisplayName>Penggarap Gila</DisplayName>
+			<DisplayName>Mad Cultivator</DisplayName>
 			<Desc>Orang ini terobsesi dengan kultivasi dan berlatih selama lebih dari 15 jam sehari, seolah-olah dia sudah gila.</Desc>
 		</Text>
 		<Text Name="LunHui_63">
-			<DisplayName>Tukang</DisplayName>
+			<DisplayName>Craftsman</DisplayName>
 			<Desc>Orang ini sangat berbakat dan membuat barang-barang berkualitas baik.</Desc>
 		</Text>
 		<Text Name="LunHui_64">
-			<DisplayName>Artis</DisplayName>
+			<DisplayName>Artist</DisplayName>
 		</Text>
 		<Text Name="LunHui_65">
-			<DisplayName>Master Jimat</DisplayName>
+			<DisplayName>Talisman Master</DisplayName>
 			<Desc>Orang ini telah menggambar banyak jimat dengan tangan, yang dikenal sebagai 'Master of Talisman Drawing'.</Desc>
 		</Text>
 		<Text Name="LunHui_66">
-			<DisplayName>Kecantikan Payudara Besar</DisplayName>
+			<DisplayName>Big Breast Beauty</DisplayName>
 			<Desc>Orang ini cantik dan berpayudara besar, sangat karismatik.</Desc>
 		</Text>
 		<Text Name="LunHui_67">
-			<DisplayName>Medis</DisplayName>
+			<DisplayName>Medic</DisplayName>
 			<Desc>Orang ini adalah seorang dokter ahli yang hampir dapat menghidupkan kembali orang mati.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_1">
@@ -308,157 +308,157 @@
 			<Desc>Orang ini sangat sulit, malu untuk menyuarakan kekhawatirannya kepada orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_2">
-			<DisplayName>Pendendam</DisplayName>
+			<DisplayName>Spiteful</DisplayName>
 			<Desc>Kedengkian orang ini sering kali membuat orang lain tidak bisa berkata-kata.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_3">
-			<DisplayName>Terhormat</DisplayName>
+			<DisplayName>Honorable</DisplayName>
 			<Desc>Orang ini sangat terhormat.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_4">
-			<DisplayName>Licik</DisplayName>
+			<DisplayName>Scheming</DisplayName>
 			<Desc>Orang ini sangat licik sehingga mereka tidak mempercayai siapa pun.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_5">
-			<DisplayName>Penyanyi</DisplayName>
+			<DisplayName>Singer</DisplayName>
 			<Desc>Orang ini percaya diri, berjiwa bebas dan suka menyanyi.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_6">
-			<DisplayName>Bertekad</DisplayName>
+			<DisplayName>Determined</DisplayName>
 			<Desc>Orang ini mempunyai keteguhan hati yang dapat membantu melawan kebingungan dalam kultivasi.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_7">
-			<DisplayName>Suara Indah</DisplayName>
+			<DisplayName>Lovely Voice</DisplayName>
 			<Desc>Orang ini memiliki suara indah yang menenangkan orang lain.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_8">
-			<DisplayName>Segan</DisplayName>
+			<DisplayName>Reticent</DisplayName>
 			<Desc>Orang ini selalu pendiam dan menarik diri.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_9">
-			<DisplayName>Menambahkan Umur</DisplayName>
+			<DisplayName>Added Lifespan</DisplayName>
 		</Text>
 		<Text Name="LunHui_Kong_10">
-			<DisplayName>Aktor Luar Biasa</DisplayName>
+			<DisplayName>Excellent Actor</DisplayName>
 			<Desc>Orang ini adalah aktor yang sangat berbakat.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_11">
-			<DisplayName>Yg ingin tahu</DisplayName>
+			<DisplayName>Nosy</DisplayName>
 			<Desc>Orang ini sangat usil dan suka mencampuri urusan apa pun.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_12">
-			<DisplayName>Lebih Banyak Umur Tambahan</DisplayName>
+			<DisplayName>More Added Lifespan</DisplayName>
 		</Text>
 		<Text Name="LunHui_Kong_13">
-			<DisplayName>Trik Keberuntungan</DisplayName>
+			<DisplayName>Lucky Trick</DisplayName>
 			<Desc>Takdir unik orang ini memungkinkan dia mengubah rencana para dewa. Dia tampaknya dilupakan oleh surga dan memiliki umur alami yang sangat panjang.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_14">
-			<DisplayName>Pemimpin Sekte</DisplayName>
+			<DisplayName>Sect Leader</DisplayName>
 			<Desc>Nama panggilan antara penganut Tao di aliran online.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_15">
-			<DisplayName>Komentator Populer</DisplayName>
+			<DisplayName>Popular Commentator</DisplayName>
 			<Desc>Orang ini sangat karismatik, yang mendapatkan banyak pengikut dan penggemar dengan memberi komentar untuk orang lain.</Desc>
 		</Text>
 		<Text Name="Inborn_Jin_lost">
-			<DisplayName>Secara bawaan memusuhi logam</DisplayName>
+			<DisplayName>Innately Metal-hostile</DisplayName>
 			<Desc>Mempelajari Hukum Logam menjadi lebih sulit, dan lebih rentan mengalami kerusakan akibat kebakaran.</Desc>
 		</Text>
 		<Text Name="Inborn_Mu_lost">
-			<DisplayName>Secara bawaan tidak menyukai Kayu</DisplayName>
+			<DisplayName>Innately Wood-hostile</DisplayName>
 			<Desc>Pembelajaran Hukum Kayu menjadi lebih sulit, dan lebih rentan mengalami kerusakan Logam.</Desc>
 		</Text>
 		<Text Name="Inborn_Shui_lost">
-			<DisplayName>Secara bawaan tidak ramah terhadap air</DisplayName>
+			<DisplayName>Innately Water-hostile</DisplayName>
 			<Desc>Pembelajaran Hukum Air menjadi lebih sulit, dan lebih rentan terhadap kerusakan bumi.</Desc>
 		</Text>
 		<Text Name="Inborn_Huo_lost">
-			<DisplayName>Secara bawaan tidak menyukai api</DisplayName>
+			<DisplayName>Innately Fire-hostile</DisplayName>
 			<Desc>Pembelajaran Hukum Kebakaran menjadi lebih sulit, dan lebih rentan mengalami kerusakan akibat air.</Desc>
 		</Text>
 		<Text Name="Inborn_Tu_lost">
-			<DisplayName>Secara bawaan tidak bersahabat dengan Bumi</DisplayName>
+			<DisplayName>Innately Earth-hostile</DisplayName>
 			<Desc>Pembelajaran Hukum Bumi menjadi lebih sulit, dan lebih rentan terhadap kerusakan Kayu.</Desc>
 		</Text>
 		<Text Name="Inborn_Jin_Add">
-			<DisplayName>Ramah terhadap logam</DisplayName>
+			<DisplayName>Innately Metal-friendly</DisplayName>
 			<Desc>Pembelajaran Hukum Logam menjadi lebih mudah, dan lebih tahan terhadap kerusakan Kayu.</Desc>
 		</Text>
 		<Text Name="Inborn_Mu_Add">
-			<DisplayName>Ramah terhadap kayu</DisplayName>
+			<DisplayName>Innately Wood-friendly</DisplayName>
 			<Desc>Pembelajaran Hukum Kayu menjadi lebih mudah dan lebih tahan terhadap kerusakan bumi.</Desc>
 		</Text>
 		<Text Name="Inborn_Shui_Add">
-			<DisplayName>Ramah terhadap air</DisplayName>
+			<DisplayName>Innately Water-friendly</DisplayName>
 			<Desc>Pembelajaran Hukum Air menjadi lebih mudah, dan lebih tahan terhadap kerusakan akibat Kebakaran.</Desc>
 		</Text>
 		<Text Name="Inborn_Huo_Add">
-			<DisplayName>Ramah terhadap Api</DisplayName>
+			<DisplayName>Innately Fire-friendly</DisplayName>
 			<Desc>Pembelajaran Hukum Kebakaran menjadi lebih mudah, dan lebih tahan terhadap kerusakan Logam.</Desc>
 		</Text>
 		<Text Name="Inborn_Tu_Add">
-			<DisplayName>Ramah lingkungan</DisplayName>
+			<DisplayName>Innately Earth-friendly</DisplayName>
 			<Desc>Pembelajaran Hukum Bumi menjadi lebih mudah dan lebih tahan terhadap kerusakan Air.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_0">
-			<DisplayName>Jiwa Roh Makhluk</DisplayName>
+			<DisplayName>Soul of Sentient Spirit</DisplayName>
 			<Desc>Awalnya benda tak bernyawa di dunia, namun menimbulkan kesadaran karena inspirasi yang tidak disengaja. Dengan sifatnya yang sangat tidak disiplin, sulit baginya untuk melakukan meditasi dan pembelajaran. Namun di sisi lain, sifatnya yang berpikiran sederhana juga membuat perhatiannya sulit teralihkan oleh pikiran atau obsesi yang menyimpang. Dari sudut pandang tertentu, ini adalah pikiran seorang kultivator kelas satu.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_1">
-			<DisplayName>Tubuh yang Dicor Roh</DisplayName>
+			<DisplayName>Spirit Casted Body</DisplayName>
 			<Desc>Awalnya adalah batu roh yang menjadi makhluk hidup, sehingga secara alami terlahir dengan Base Qi yang lebih tinggi.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_2">
-			<DisplayName>Tubuh Penyerap Qi</DisplayName>
+			<DisplayName>Qi Absorbing Body</DisplayName>
 			<Desc>Awalnya merupakan makanan yang dapat dimakan yang menjadi makhluk hidup, sehingga secara alami lahir dengan kemampuan Penyerapan Qi yang sangat tinggi dan tidak merasa lapar.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_3">
-			<DisplayName>Tubuh Penguasaan Artefak</DisplayName>
+			<DisplayName>Artifact Mastering Body</DisplayName>
 			<Desc>Awalnya adalah artefak yang menjadi makhluk hidup, sehingga secara alami lebih mahir dalam Penguasaan Artefak.</Desc>
 		</Text>
 		<Text Name="Sys_YuSheTeXing1">
-			<DisplayName>Kustom 1</DisplayName>
+			<DisplayName>Custom 1</DisplayName>
 		</Text>
 		<Text Name="Sys_YuSheTeXing2">
-			<DisplayName>Kustom 2</DisplayName>
+			<DisplayName>Custom 2</DisplayName>
 		</Text>
 		<Text Name="Sys_YuSheTeXing3">
-			<DisplayName>Kustom 3</DisplayName>
+			<DisplayName>Custom 3</DisplayName>
 		</Text>
 		<Text Name="Sys_YuSheTeXing4">
-			<DisplayName>Kustom 4</DisplayName>
+			<DisplayName>Custom 4</DisplayName>
 		</Text>
 		<Text Name="LunHui_Kong_100">
-			<DisplayName>Raih Peluangnya</DisplayName>
+			<DisplayName>Seize the Opportunity</DisplayName>
 			<Desc>Orang ini memiliki kehidupan masa lalu yang kebetulan, sehingga umurnya sangat panjang.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_101">
-			<DisplayName>Lahir Mengetahui</DisplayName>
+			<DisplayName>Born Knowing</DisplayName>
 			<Desc>Terlahir dengan kemampuan berbicara, individu ini memiliki pikiran yang penuh dengan beragam pengetahuan, unggul dalam bidang astronomi dan geografi. Kecepatan belajar mereka begitu luar biasa hingga mencengangkan, bahkan mencengangkan, namun hal ini sering membuat orang lain mencurigainya sebagai orang aneh.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_102">
-			<DisplayName>Masa Lalu yang Belum Selesai</DisplayName>
+			<DisplayName>Unfinished Past</DisplayName>
 			<Desc>Orang ini sering diganggu oleh kenangan beberapa masa kehidupan, sehingga sulit tidur nyenyak dan sulit menenangkan kondisi mentalnya.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_103">
-			<DisplayName>Bakat Alkimia</DisplayName>
+			<DisplayName>Alchemy Talent</DisplayName>
 			<Desc>Setelah beberapa kali transmigrasi, individu ini adalah orang pertama di Era Yaoguais yang unggul dalam alkimia. Meskipun ingatannya kabur tentang kehidupan masa lalu, mereka tetap memiliki bakat alkimia yang luar biasa. Asupan suplemen selama bertahun-tahun telah membuat tubuh mereka sangat kuat.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_104">
-			<DisplayName>Sikap Tak Terkalahkan</DisplayName>
+			<DisplayName>Invincible Stance</DisplayName>
 			<Desc>Setelah beberapa kali transmigrasi, makhluk kebal dari Era Yaoguai.\nIngatan orang ini tentang kehidupan masa lalunya kabur, tetapi mereka sering bermimpi membunuh naga dan burung phoenix, dan dengan gigih melawan sembilan Kesengsaraan Surgawi, yang membuat mereka sangat yakin bahwa mereka dapat mencapai perbuatan besar dalam kehidupan ini. Keyakinan seperti itu pula yang membuat orang-orang disekitarnya bersedia mengikutinya dengan sukarela.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_105">
-			<DisplayName>Keajaiban Budidaya</DisplayName>
+			<DisplayName>Cultivation Prodigy</DisplayName>
 			<Desc>Setelah beberapa kali transmigrasi, individu ini adalah orang pertama dari Dunia Sepuluh Ribu Iblis yang mencapai kenaikan cepat. Diberkati dengan rasa qi yang unggul dan kepekaan yang tajam terhadap kultivasi, mereka sering kali menyimpulkan banyak dari sedikit, mencapai hasil dua kali lipat dengan setengah usaha.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_106">
-			<DisplayName>Pejuang Alami</DisplayName>
+			<DisplayName>Natural Warrior</DisplayName>
 			<Desc>Setelah beberapa kali transmigrasi, individu ini adalah orang pertama dari Era Yaoguais yang melakukan penaklukan cepat. Dikenal karena keberanian dan daya tempurnya sejak kecil, mereka memiliki banyak musuh. Namun, kekuatan ilahi bawaan dan penguasaan seni bela diri membuat mereka tak tertandingi. Mengalahkan sepuluh musuh adalah hal yang rutin, membuat mereka mendapat julukan 'War Madman'.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_107">
-			<DisplayName>Pemburu Setan</DisplayName>
+			<DisplayName>Demon Hunter</DisplayName>
 			<Desc>Setelah beberapa kali transmigrasi, individu ini adalah orang pertama dari Dunia Sepuluh Ribu Iblis yang membunuh iblis. Didorong oleh gambaran sekilas tentang kehidupan masa lalu yang kabur, mereka bersumpah sejak usia muda untuk menjadi pedang abadi dan membasmi semua iblis. Akibatnya, mereka memiliki keakraban yang luar biasa dengan seni manipulasi objek dan pertarungan.</Desc>
 		</Text>
 	</List>
