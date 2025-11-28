@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenSheild">
-			<DisplayName>Armor Qi</DisplayName>
-			<TargetDesc>Pilih bangunan atau objek.</TargetDesc>
+			<DisplayName>Barrier</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
 		</Text>
 		<Text Name="ZhenAddModifier">
-			<DisplayName>menambahkan modifikasi</DisplayName>
-			<TargetDesc>Pilih bangunan atau objek.</TargetDesc>
+			<DisplayName>Add modifier</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
 		</Text>
 		<Text Name="ZhenAura">
-			<DisplayName>radius nafas</DisplayName>
-			<TargetDesc>Pilih bangunan atau objek.</TargetDesc>
+			<DisplayName>Man-made aura</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
 		</Text>
 	</List>
 </Texts>
