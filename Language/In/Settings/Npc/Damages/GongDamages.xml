@@ -1,175 +1,175 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Tower_FuBai">
-			<DisplayName>Kejatuhan yang Merusak</DisplayName>
+			<DisplayName>Destructive Downfall</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit1">
-			<DisplayName>Memar</DisplayName>
+			<DisplayName>Bruise</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit2">
-			<DisplayName>Cedera Ringan</DisplayName>
+			<DisplayName>Minor Injury</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit3">
-			<DisplayName>Luka Kecil</DisplayName>
+			<DisplayName>Small Wound</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Jin_ThunderDamage">
-			<DisplayName>Seperti disambar petir</DisplayName>
+			<DisplayName>Thunderstruck</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Jin_SwordLight2">
-			<DisplayName>Infeksi Aura Pedang (Serius)</DisplayName>
+			<DisplayName>Sword Aura Infection (Serious)</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Mu_Failure">
-			<DisplayName>Kegagalan</DisplayName>
+			<DisplayName>Failing</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Mu_Corrosion">
-			<DisplayName>Bernanah</DisplayName>
+			<DisplayName>Festering</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Shui_Frostbite">
-			<DisplayName>Radang dingin</DisplayName>
+			<DisplayName>Frostbite</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Shui_ColdPoison">
-			<DisplayName>Racun Dingin</DisplayName>
+			<DisplayName>Cold Poison</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Huo_VisceralBurn">
-			<DisplayName>Luka Bakar Visceral</DisplayName>
+			<DisplayName>Visceral Burn</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Huo_BurnOfPain">
-			<DisplayName>Menghanguskan</DisplayName>
+			<DisplayName>Scorch</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Tu_Weathering">
-			<DisplayName>Lapuk</DisplayName>
+			<DisplayName>Weathered</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Tu_Petrifaction2">
-			<DisplayName>Membatu (Serius)</DisplayName>
+			<DisplayName>Petrified (Serious)</DisplayName>
 		</Text>
 		<Text Name="FivePoison">
-			<DisplayName>Nafas Bane</DisplayName>
+			<DisplayName>Breath of Bane</DisplayName>
 		</Text>
 		<Text Name="SwordBallDamage">
-			<DisplayName>Tubuh Terbelah</DisplayName>
+			<DisplayName>Body Split</DisplayName>
 		</Text>
 		<Text Name="XueGuLianXing">
-			<DisplayName>Peleburan</DisplayName>
+			<DisplayName>Smelting</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul3_Damage">
-			<DisplayName>Gangguan Pikiran</DisplayName>
+			<DisplayName>Impaired Mind</DisplayName>
 		</Text>
 		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
-			<DisplayName>Roh yang Dilenyapkan</DisplayName>
+			<DisplayName>Obliterated Spirit</DisplayName>
 		</Text>
 		<Text Name="SoulOutOfBrain">
-			<DisplayName>Jiwa dalam Perselisihan</DisplayName>
+			<DisplayName>Soul in Discord</DisplayName>
 		</Text>
 		<Text Name="LostSoul">
-			<DisplayName>Tertutup</DisplayName>
+			<DisplayName>Occluded</DisplayName>
 		</Text>
 		<Text Name="Damage_GongXinYin_Damage">
-			<DisplayName>Jiwa yang Hancur</DisplayName>
+			<DisplayName>Shattered Soul</DisplayName>
 		</Text>
 		<Text Name="Damage_TianDaoBenYuan1">
-			<DisplayName>Jiwa yang Rusak</DisplayName>
+			<DisplayName>Damaged Soul</DisplayName>
 		</Text>
 		<Text Name="Damage_Kidnap_MiHun">
-			<DisplayName>Mantra Pesona</DisplayName>
+			<DisplayName>Enchantment Spell</DisplayName>
 		</Text>
 		<Text Name="Damage_TianDaoBenYuan2">
-			<DisplayName>Persepsi Terbalik</DisplayName>
+			<DisplayName>Overturned Perception</DisplayName>
 		</Text>
 		<Text Name="Damage_ZhenFaZhenDang">
-			<DisplayName>Tremor Formasi</DisplayName>
+			<DisplayName>Formation Tremors</DisplayName>
 		</Text>
 		<Text Name="DiffEnergyInvade">
-			<DisplayName>Asing Qi</DisplayName>
+			<DisplayName>Alien Qi</DisplayName>
 		</Text>
 		<Text Name="MeridianRupture">
-			<DisplayName>Terpisah</DisplayName>
+			<DisplayName>Dissevered</DisplayName>
 		</Text>
 		<Text Name="MeridianIncomplete">
-			<DisplayName>Rusak</DisplayName>
+			<DisplayName>Broken</DisplayName>
 		</Text>
 		<Text Name="ElixirFieldShock">
-			<DisplayName>Palpitasi Perut</DisplayName>
+			<DisplayName>Abdominal Palpitation</DisplayName>
 		</Text>
 		<Text Name="NeiQiWenLuan">
-			<DisplayName>Kekacauan Batin</DisplayName>
+			<DisplayName>Inner Chaos</DisplayName>
 		</Text>
 		<Text Name="Damage_Boss_LingBoom">
-			<DisplayName>Qi yang bergejolak</DisplayName>
+			<DisplayName>Turbulent Qi</DisplayName>
 		</Text>
 		<Text Name="Damage_Sys_SuppressGodCall">
-			<DisplayName>Penindasan Kesengsaraan</DisplayName>
+			<DisplayName>Tribulation Suppression</DisplayName>
 		</Text>
 		<Text Name="JieNanHuangu">
-			<DisplayName>Nyeri Perubahan Kerangka</DisplayName>
+			<DisplayName>Pain of Skeletal Change</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury_Sp">
-			<DisplayName>Meridian Rusak</DisplayName>
+			<DisplayName>Damaged Meridians</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury">
-			<DisplayName>Meluapnya Qi</DisplayName>
+			<DisplayName>Overflow of Qi</DisplayName>
 		</Text>
 		<Text Name="SevereInjury">
-			<DisplayName>Hilangnya Qi Purba</DisplayName>
+			<DisplayName>Loss of Primeval Qi</DisplayName>
 		</Text>
 		<Text Name="Jin_ThunderDamage">
-			<DisplayName>Seperti disambar petir</DisplayName>
+			<DisplayName>Thunderstruck</DisplayName>
 		</Text>
 		<Text Name="Jin_BoneNail">
-			<DisplayName>Tulang Tertusuk</DisplayName>
+			<DisplayName>Punctured Bone</DisplayName>
 		</Text>
 		<Text Name="Jin_SwordLight1">
-			<DisplayName>Infeksi Aura Pedang (Ringan)</DisplayName>
+			<DisplayName>Sword Aura Infection (Mild)</DisplayName>
 		</Text>
 		<Text Name="Jin_SwordLight2">
-			<DisplayName>Infeksi Aura Pedang (Serius)</DisplayName>
+			<DisplayName>Sword Aura Infection (Serious)</DisplayName>
 		</Text>
 		<Text Name="Mu_VitalityDevour1">
-			<DisplayName>Nafas Erosi (Ringan)</DisplayName>
+			<DisplayName>Breath of Erosion (Mild)</DisplayName>
 		</Text>
 		<Text Name="Mu_VitalityDevour2">
-			<DisplayName>Nafas Erosi (Serius)</DisplayName>
+			<DisplayName>Breath of Erosion (Serious)</DisplayName>
 		</Text>
 		<Text Name="Mu_Failure">
-			<DisplayName>Kegagalan</DisplayName>
+			<DisplayName>Failing</DisplayName>
 		</Text>
 		<Text Name="Mu_Corrosion">
-			<DisplayName>Bernanah</DisplayName>
+			<DisplayName>Festering</DisplayName>
 		</Text>
 		<Text Name="Mu_Parasitic">
-			<DisplayName>Infeksi Parasit</DisplayName>
+			<DisplayName>Parasite Infection</DisplayName>
 		</Text>
 		<Text Name="Shui_Frostbite">
-			<DisplayName>Radang dingin</DisplayName>
+			<DisplayName>Frostbite</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdBlood">
-			<DisplayName>Meridian Dingin</DisplayName>
+			<DisplayName>Cold Meridians</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdPoison">
-			<DisplayName>Racun Dingin</DisplayName>
+			<DisplayName>Cold Poison</DisplayName>
 		</Text>
 		<Text Name="Huo_VisceralBurn">
-			<DisplayName>Luka Bakar Visceral</DisplayName>
+			<DisplayName>Visceral Burn</DisplayName>
 		</Text>
 		<Text Name="Huo_BurnOfPain">
-			<DisplayName>Sakit yang Menyengat</DisplayName>
+			<DisplayName>Scorching Pain</DisplayName>
 		</Text>
 		<Text Name="Huo_MarrowDry">
-			<DisplayName>Sumsum yang Habis</DisplayName>
+			<DisplayName>Depleted Marrows</DisplayName>
 		</Text>
 		<Text Name="Huo_HeartBurn">
-			<DisplayName>Maag</DisplayName>
+			<DisplayName>Heart Burn</DisplayName>
 		</Text>
 		<Text Name="Tu_Weathering">
-			<DisplayName>Lapuk</DisplayName>
+			<DisplayName>Weathered</DisplayName>
 		</Text>
 		<Text Name="Tu_Petrifaction1">
-			<DisplayName>Membatu (Ringan)</DisplayName>
+			<DisplayName>Petrified (Mild)</DisplayName>
 		</Text>
 		<Text Name="Tu_Petrifaction2">
-			<DisplayName>Membatu (Serius)</DisplayName>
+			<DisplayName>Petrified (Serious)</DisplayName>
 		</Text>
 		<Text Name="Tu_BrainClose">
-			<DisplayName>Pikiran Tertutup</DisplayName>
+			<DisplayName>Closed Mind</DisplayName>
 		</Text>
 	</List>
 </Texts>
