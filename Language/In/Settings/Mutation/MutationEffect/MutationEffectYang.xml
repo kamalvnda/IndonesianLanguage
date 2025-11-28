@@ -1,59 +1,59 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
-			<DisplayName>Makan Koin</DisplayName>
+			<DisplayName>Eat Out Coin</DisplayName>
 			<Desc>Semua makanan memiliki peluang menghasilkan koin yang sangat rendah.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
-			<DisplayName>Makan Koin</DisplayName>
+			<DisplayName>Eat Out Coin</DisplayName>
 			<Desc>Semua makanan memiliki peluang kecil untuk menghasilkan koin saat dimakan</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
-			<DisplayName>Makan Koin</DisplayName>
+			<DisplayName>Eat Out Coin</DisplayName>
 			<Desc>Semua makanan memiliki peluang tinggi untuk menghasilkan koin.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
-			<DisplayName>Artefak Mendapatkan Efek</DisplayName>
+			<DisplayName>Artifact Gains Effect</DisplayName>
 			<Desc>Dapatkan efek artefak langka secara acak saat artefak selesai dibuat.</Desc>
-			<Effects.0.SpecialAbilities.0.Desc>Meningkatkan kerusakan pada target elemen Tanah sebesar 80%.</Effects.0.SpecialAbilities.0.Desc>
-			<Effects.0.SpecialAbilities.1.Desc>Untuk setiap serangan ke-15, ia akan menyerang tubuh penggarap itu sendiri, menembus perisai dan memberikan kerusakan tambahan.</Effects.0.SpecialAbilities.1.Desc>
-			<Effects.0.SpecialAbilities.2.Desc>Untuk setiap 3 serangan, menghasilkan 9 penampakan lonjakan yang berlangsung selama 3 detik.</Effects.0.SpecialAbilities.2.Desc>
-			<Effects.0.SpecialAbilities.3.Desc>Kekuatan dasar artefak meningkat sebesar 1% untuk setiap 1 detik pedang tetap terbang. Efeknya hilang ketika kembali.</Effects.0.SpecialAbilities.3.Desc>
-			<Effects.0.SpecialAbilities.4.Desc>Untuk setiap 12 serangan pada artefak yang sama, ia dapat menonaktifkan target selama jangka waktu tertentu sesuai dengan tingkatannya.</Effects.0.SpecialAbilities.4.Desc>
-			<Effects.0.SpecialAbilities.5.Desc>Untuk setiap 1% Kesehatan yang lebih rendah, Kekuatan Artefak meningkat sebesar 5%.</Effects.0.SpecialAbilities.5.Desc>
-			<Effects.0.SpecialAbilities.6.Desc>Kekuatan meningkat sebesar 10% untuk setiap makhluk yang dikalahkan, hingga 36 lapisan. Jika Anda tidak meminum darah selama sehari, efeknya akan diatur ulang.</Effects.0.SpecialAbilities.6.Desc>
-			<Effects.0.SpecialAbilities.7.Desc>Setiap serangan ke-9 akan memberikan mantra pada musuh sasaran.</Effects.0.SpecialAbilities.7.Desc>
-			<Effects.0.SpecialAbilities.8.Desc>Tingkat keterampilan perlindungan meningkat 10.</Effects.0.SpecialAbilities.8.Desc>
-			<Effects.0.SpecialAbilities.9.Desc>Dengan konsekuensi hancur, lawan kematian sekali dan pulihkan semua kerusakan yang terjadi padamu.</Effects.0.SpecialAbilities.9.Desc>
-			<Effects.0.SpecialAbilities.10.Desc>Semakin dekat pengguna dengan umur maksimum, semakin kuat artefaknya.</Effects.0.SpecialAbilities.10.Desc>
-			<Effects.0.SpecialAbilities.11.Desc>10% kerusakan yang diberikan akan diisi ulang ke Qi artefak.</Effects.0.SpecialAbilities.11.Desc>
-			<Effects.0.SpecialAbilities.12.Desc>Untuk setiap 7 serangan, hasilkan sprite pedang yang bertahan selama 7 detik.</Effects.0.SpecialAbilities.12.Desc>
-			<Effects.0.SpecialAbilities.13.Desc>Level keterampilan mantra meningkat 10.</Effects.0.SpecialAbilities.13.Desc>
-			<Effects.0.SpecialAbilities.14.Desc>Meningkatkan kerusakan pada target elemen Kayu sebesar 100%.</Effects.0.SpecialAbilities.14.Desc>
-			<Effects.0.SpecialAbilities.15.Desc>Meningkatkan kerusakan pada target elemen Tanah sebesar 100%.</Effects.0.SpecialAbilities.15.Desc>
-			<Effects.0.SpecialAbilities.16.Desc>Meningkatkan kerusakan pada target elemen Api sebesar 100%.</Effects.0.SpecialAbilities.16.Desc>
-			<Effects.0.SpecialAbilities.17.Desc>Meningkatkan kerusakan pada target berelemen Logam sebesar 100%.</Effects.0.SpecialAbilities.17.Desc>
-			<Effects.0.SpecialAbilities.18.Desc>Meningkatkan kerusakan pada target elemen Air sebesar 100%.</Effects.0.SpecialAbilities.18.Desc>
-			<Effects.0.SpecialAbilities.19.Desc>Mengelilingi seluruh tubuh, ia fokus pada pertahanan dan tidak akan menyerang.</Effects.0.SpecialAbilities.19.Desc>
-			<Effects.0.SpecialAbilities.20.Desc>Untuk setiap 10.000 Qi yang dikonsumsi, kerusakan meningkat sebesar 10%, hingga maksimum 1000%. Efeknya diatur ulang saat mengisi ulang Qi ke artefak.</Effects.0.SpecialAbilities.20.Desc>
-			<Effects.0.SpecialAbilities.21.Desc>Untuk setiap jenis Elixir yang dikonsumsi, kekuatannya meningkat sebesar 5%.</Effects.0.SpecialAbilities.21.Desc>
-			<Effects.0.SpecialAbilities.22.Desc>Setiap 2 serangan mengurangi cooldown skill sebanyak 1 detik.</Effects.0.SpecialAbilities.22.Desc>
-			<Effects.0.SpecialAbilities.23.Desc>Level skill Sword Mastery meningkat 10.</Effects.0.SpecialAbilities.23.Desc>
-			<Effects.0.SpecialAbilities.24.Desc>Menimbulkan 1,5x kerusakan saat bertarung melawan artefak lain.</Effects.0.SpecialAbilities.24.Desc>
-			<Effects.0.SpecialAbilities.25.Desc>Saat memberikan damage, ada 10% kemungkinan menimbulkan 5x damage.</Effects.0.SpecialAbilities.25.Desc>
-			<Effects.0.SpecialAbilities.26.Desc>Menimbulkan 1,5x damage ketika menyerang tubuh musuh itu sendiri.</Effects.0.SpecialAbilities.26.Desc>
-			<Effects.0.SpecialAbilities.27.Desc>Saat menyerang tubuh musuh itu sendiri, terdapat 1% kemungkinan menimbulkan kerusakan tambahan yang setara dengan 30% Qi target saat ini.</Effects.0.SpecialAbilities.27.Desc>
-			<Effects.0.SpecialAbilities.28.Desc>Secara mendasar meningkatkan Bonus Kekuatan Artefak Anda sebesar 30%.</Effects.0.SpecialAbilities.28.Desc>
-			<Effects.0.SpecialAbilities.29.Desc>Secara mendasar meningkatkan Bonus Artifact Qi Anda sebesar 30%.</Effects.0.SpecialAbilities.29.Desc>
-			<Effects.0.SpecialAbilities.30.Desc>Secara mendasar meningkatkan Resistensi Knockback Artefak Anda sebesar 30%.</Effects.0.SpecialAbilities.30.Desc>
-			<Effects.0.SpecialAbilities.31.Desc>Secara mendasar meningkatkan Kecepatan Putaran Artefak Anda sebesar 30%.</Effects.0.SpecialAbilities.31.Desc>
-			<Effects.0.SpecialAbilities.32.Desc>Secara mendasar meningkatkan Tingkat Pemulihan Artifact Qi Anda sebesar 30%.</Effects.0.SpecialAbilities.32.Desc>
-			<Effects.0.SpecialAbilities.33.Desc>Secara mendasar meningkatkan Artifact Knockback Anda sebesar 30%.</Effects.0.SpecialAbilities.33.Desc>
-			<Effects.0.SpecialAbilities.34.Desc>Secara mendasar meningkatkan Kecepatan Terbang Artefak Anda sebesar 30%.</Effects.0.SpecialAbilities.34.Desc>
-			<Effects.0.SpecialAbilities.35.Desc>Kekuatan serangan pedang pertama meningkat sebesar 500%. Efeknya diatur ulang saat mengisi ulang Qi ke artefak.</Effects.0.SpecialAbilities.35.Desc>
+			<Effects.0.SpecialAbilities.0.Desc>Increases damage to targets of Earth element by 80%.</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Effects.0.SpecialAbilities.1.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Power increases by 10% for each creature defeated, up to 36 layers. If you do not drink blood for a day, the effect will reset.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>Every 9th attack will cast a spell on the target enemy.</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>Protection skill level increased by 10.</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>The closer the user to maximum lifespan, the more powerful the artifact will be.</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% of damage dealt will be replenished to the artifact's Qi.</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>Spell skill level increased by 10.</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>Increases damage to targets of Wood element by 100%.</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>Increases damage to targets of Earth element by 100%.</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>Increases damage to targets of Fire element by 100%.</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>Increases damage to targets of Metal element by 100%.</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>Increases damage to targets of Water element by 100%.</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>For every 10,000 Qi consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing Qi to the artifact.</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>Sword Mastery skill level increased by 10.</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>Deals 1.5x damage when fighting against other artifacts.</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's Qi.</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>Fundamentally increases your Artifact Qi Bonus by 30%.</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>Fundamentally increases your Artifact Qi Recovery Rate by 30%.</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>Fundamentally increases your Artifact Knockback by 30%.</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing Qi to the artifact.</Effects.0.SpecialAbilities.35.Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
-			<DisplayName>Tanaman Mengabaikan Kondisi Suhu</DisplayName>
+			<DisplayName>Plants Ignore Temperature Conditions</DisplayName>
 			<Desc>Tanaman sekte mengabaikan kondisi suhu untuk pertumbuhan.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion">
@@ -219,7 +219,7 @@
 			<Desc>Keterampilan Kerajinan/Kerajinan Artefak murid sekte level +1 (batas peningkatan).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_53">
-			<Desc>Itu[SCHOOL]tingkat keterampilan Kerajinan/Kerajinan Artefak murid +1.</Desc>
+			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid [SCHOOL] +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_54">
 			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid sekte +2.</Desc>
