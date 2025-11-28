@@ -1,202 +1,202 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="zhuxian_0">
-			<DisplayName>Pilar Ragestriker</DisplayName>
+			<DisplayName>Ragestriker Pillar</DisplayName>
 		</Text>
 		<Text Name="zhuxian_1">
-			<DisplayName>Penyerang Kemarahan</DisplayName>
+			<DisplayName>Ragestriker</DisplayName>
 		</Text>
 		<Text Name="zhuxian_2">
-			<DisplayName>Pembawa Kematian</DisplayName>
+			<DisplayName>Deathbringer</DisplayName>
 		</Text>
 		<Text Name="zhuxian_3">
-			<DisplayName>Kemarahan yang Tak Berujung</DisplayName>
+			<DisplayName>Endless Fury</DisplayName>
 		</Text>
 		<Text Name="zhuxian_4">
-			<DisplayName>Pembawa murka</DisplayName>
+			<DisplayName>Wrathbringer</DisplayName>
 		</Text>
 		<Text Name="qixing_0">
-			<DisplayName>meg</DisplayName>
+			<DisplayName>Megrez</DisplayName>
 		</Text>
 		<Text Name="qixing_1">
-			<DisplayName>Duhe</DisplayName>
+			<DisplayName>Dubhe</DisplayName>
 		</Text>
 		<Text Name="qixing_2">
-			<DisplayName>Keingintahuan</DisplayName>
+			<DisplayName>Merak</DisplayName>
 		</Text>
 		<Text Name="qixing_3">
-			<DisplayName>Pegda</DisplayName>
+			<DisplayName>Phegda</DisplayName>
 		</Text>
 		<Text Name="qixing_4">
 			<DisplayName>Alioth</DisplayName>
 		</Text>
 		<Text Name="qixing_5">
-			<DisplayName>Tukang kayu</DisplayName>
+			<DisplayName>Mizar</DisplayName>
 		</Text>
 		<Text Name="qixing_6">
 			<DisplayName>Alkaid</DisplayName>
 		</Text>
 		<Text Name="wufang_0">
-			<DisplayName>Pilar Formasi yang Tak Tertembus</DisplayName>
+			<DisplayName>Impregnable Formation Pillar</DisplayName>
 		</Text>
 		<Text Name="wufang_1">
-			<DisplayName>Awan Putih</DisplayName>
+			<DisplayName>White Cloud</DisplayName>
 		</Text>
 		<Text Name="wufang_2">
-			<DisplayName>Teratai Hijau</DisplayName>
+			<DisplayName>Green Lotus</DisplayName>
 		</Text>
 		<Text Name="wufang_3">
-			<DisplayName>Hering Hitam</DisplayName>
+			<DisplayName>Black Vulture</DisplayName>
 		</Text>
 		<Text Name="wufang_4">
-			<DisplayName>Api yang Melonjak</DisplayName>
+			<DisplayName>Soaring Flame</DisplayName>
 		</Text>
 		<Text Name="wufang_5">
-			<DisplayName>Aprikot Kuning</DisplayName>
+			<DisplayName>Yellow Apricot</DisplayName>
 		</Text>
 		<Text Name="liuyu_0">
-			<DisplayName>Formasi Kaisar Langit</DisplayName>
+			<DisplayName>Jade Emperor Formation</DisplayName>
 		</Text>
 		<Text Name="liuyu_1">
-			<DisplayName>Formasi Kaisar Polaris</DisplayName>
+			<DisplayName>Emperor of Polaris Formation</DisplayName>
 		</Text>
 		<Text Name="liuyu_2">
-			<DisplayName>Formasi Kaisar Bintang Utara</DisplayName>
+			<DisplayName>Emperor of North Star Formation</DisplayName>
 		</Text>
 		<Text Name="liuyu_3">
-			<DisplayName>Formasi Persatuan Primordial</DisplayName>
+			<DisplayName>Primordial Unity Formation</DisplayName>
 		</Text>
 		<Text Name="liuyu_4">
-			<DisplayName>Formasi Umur Panjang Ilahi</DisplayName>
+			<DisplayName>Divine Longevity Formation</DisplayName>
 		</Text>
 		<Text Name="liuyu_5">
-			<DisplayName>Formasi Kaisar Bumi</DisplayName>
+			<DisplayName>Emperor of Earth Formation</DisplayName>
 		</Text>
 		<Text Name="longxing_0">
-			<DisplayName>Segel Skala Terlarang</DisplayName>
+			<DisplayName>Seal of Forbidden Scale</DisplayName>
 		</Text>
 		<Text Name="longxing_1">
-			<DisplayName>Segel Tanduk Naga</DisplayName>
+			<DisplayName>Seal of Dragon Horn</DisplayName>
 		</Text>
 		<Text Name="longxing_2">
-			<DisplayName>Segel Tanduk Naga</DisplayName>
+			<DisplayName>Seal of Dragon Horn</DisplayName>
 		</Text>
 		<Text Name="longxing_3">
-			<DisplayName>Segel Cakar Naga</DisplayName>
+			<DisplayName>Seal of Dragon Claw</DisplayName>
 		</Text>
 		<Text Name="longxing_4">
-			<DisplayName>Segel Cakar Naga</DisplayName>
+			<DisplayName>Seal of Dragon Claw</DisplayName>
 		</Text>
 		<Text Name="longxing_5">
-			<DisplayName>Segel Skala Naga</DisplayName>
+			<DisplayName>Seal of Dragon Scale</DisplayName>
 		</Text>
 		<Text Name="longxing_6">
-			<DisplayName>Segel Cakar Naga</DisplayName>
+			<DisplayName>Seal of Dragon Claw</DisplayName>
 		</Text>
 		<Text Name="longxing_7">
-			<DisplayName>Segel Cakar Naga</DisplayName>
+			<DisplayName>Seal of Dragon Claw</DisplayName>
 		</Text>
 		<Text Name="longxing_8">
-			<DisplayName>Segel Ekor Naga</DisplayName>
+			<DisplayName>Seal of Dragon Tail</DisplayName>
 		</Text>
 		<Text Name="fengjian_0">
-			<DisplayName>Penghalang Api Sejati</DisplayName>
+			<DisplayName>Barrier of True Fire</DisplayName>
 		</Text>
 		<Text Name="fengjian_1">
-			<DisplayName>Penghalang Kelupaan</DisplayName>
+			<DisplayName>Barrier of Oblivion</DisplayName>
 		</Text>
 		<Text Name="fengjian_2">
-			<DisplayName>Penghalang Mantel</DisplayName>
+			<DisplayName>Barrier of Mantle</DisplayName>
 		</Text>
 		<Text Name="fengjian_3">
-			<DisplayName>Penghalang Darkbone</DisplayName>
+			<DisplayName>Barrier of Darkbone</DisplayName>
 		</Text>
 		<Text Name="fengjian_4">
-			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
+			<DisplayName>Barrier of Blazing Feather</DisplayName>
 		</Text>
 		<Text Name="fengjian_5">
-			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
+			<DisplayName>Barrier of Blazing Feather</DisplayName>
 		</Text>
 		<Text Name="fengjian_6">
-			<DisplayName>Penghalang Darkbone</DisplayName>
+			<DisplayName>Barrier of Darkbone</DisplayName>
 		</Text>
 		<Text Name="fengjian_7">
-			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
+			<DisplayName>Barrier of Blazing Feather</DisplayName>
 		</Text>
 		<Text Name="fengjian_8">
-			<DisplayName>Penghalang Bulu Berkobar</DisplayName>
+			<DisplayName>Barrier of Blazing Feather</DisplayName>
 		</Text>
 		<Text Name="yinyang_0">
-			<DisplayName>Pengakuan Iman Surga yang Kacau</DisplayName>
+			<DisplayName>Chaotic Creed of Heaven</DisplayName>
 		</Text>
 		<Text Name="yinyang_1">
-			<DisplayName>Hukum Yin</DisplayName>
+			<DisplayName>Law of Yin</DisplayName>
 		</Text>
 		<Text Name="yinyang_2">
-			<DisplayName>Hukum Yang</DisplayName>
+			<DisplayName>Law of Yang</DisplayName>
 		</Text>
 		<Text Name="sanyin_0">
-			<DisplayName>Kekuatan Yin dari Surga</DisplayName>
+			<DisplayName>Yin Force of Heaven</DisplayName>
 		</Text>
 		<Text Name="sanyin_1">
-			<DisplayName>Kekuatan Yin Bumi</DisplayName>
+			<DisplayName>Yin Force of Earth</DisplayName>
 		</Text>
 		<Text Name="sanyin_2">
-			<DisplayName>Kekuatan Yin Manusia</DisplayName>
+			<DisplayName>Yin Force of Human</DisplayName>
 		</Text>
 		<Text Name="bamen_0">
-			<DisplayName>Gerbang Keterbukaan</DisplayName>
+			<DisplayName>Gate of Openness</DisplayName>
 		</Text>
 		<Text Name="bamen_1">
-			<DisplayName>Gerbang Istirahat</DisplayName>
+			<DisplayName>Gate of Rest</DisplayName>
 		</Text>
 		<Text Name="bamen_2">
-			<DisplayName>Gerbang Kehidupan</DisplayName>
+			<DisplayName>Gate of Life</DisplayName>
 		</Text>
 		<Text Name="bamen_3">
-			<DisplayName>Gerbang Kematian</DisplayName>
+			<DisplayName>Gate of Death</DisplayName>
 		</Text>
 		<Text Name="bamen_4">
-			<DisplayName>Gerbang Ancaman</DisplayName>
+			<DisplayName>Gate of Menace</DisplayName>
 		</Text>
 		<Text Name="bamen_5">
-			<DisplayName>Gerbang Kerusakan</DisplayName>
+			<DisplayName>Gate of Damage</DisplayName>
 		</Text>
 		<Text Name="bamen_6">
-			<DisplayName>Gerbang Pengasingan</DisplayName>
+			<DisplayName>Gate of Seclusion</DisplayName>
 		</Text>
 		<Text Name="bamen_7">
-			<DisplayName>Gerbang Kecantikan</DisplayName>
+			<DisplayName>Gate of Beauty</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_0">
-			<DisplayName>Batang Pohon Roh</DisplayName>
+			<DisplayName>Spirit Tree Trunk</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_1">
-			<DisplayName>Mahkota Pohon Roh</DisplayName>
+			<DisplayName>Spirit Tree Crown</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_2">
-			<DisplayName>Cabang Pohon Roh</DisplayName>
+			<DisplayName>Spirit Tree Branch</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_3">
-			<DisplayName>Daun Pohon Roh</DisplayName>
+			<DisplayName>Spirit Tree Leaf</DisplayName>
 		</Text>
 		<Text Name="jiayimuzhen_4">
-			<DisplayName>Akar Pohon Roh</DisplayName>
+			<DisplayName>Spirit Tree Root</DisplayName>
 		</Text>
 		<Text Name="wushan_0">
-			<DisplayName>Bentuk Puncak Zamrud</DisplayName>
+			<DisplayName>Shape of Emerald Peak</DisplayName>
 		</Text>
 		<Text Name="wushan_1">
-			<DisplayName>Bentuk Jurang</DisplayName>
+			<DisplayName>Shape of Precipice</DisplayName>
 		</Text>
 		<Text Name="wushan_2">
-			<DisplayName>Bentuk Pulau Biasa</DisplayName>
+			<DisplayName>Shape of Plain Isle</DisplayName>
 		</Text>
 		<Text Name="wushan_3">
-			<DisplayName>Bentuk Tempat Suci</DisplayName>
+			<DisplayName>Shape of Sanctuary</DisplayName>
 		</Text>
 		<Text Name="wushan_4">
-			<DisplayName>Bentuk Surga</DisplayName>
+			<DisplayName>Shape of Paradise</DisplayName>
 		</Text>
 	</List>
 </Texts>
