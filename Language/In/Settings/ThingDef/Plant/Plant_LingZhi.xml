@@ -1,53 +1,53 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LingZhi_Huo" sParam="Plant">
-			<ThingName>Akar Roh Api: Pohon Buah Merah</ThingName>
-			<Desc>Tanaman Buah Merah, Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Untuk sifat khususnya, ia harus tumbuh di lingkungan di atas [temperature]200[/temperature].</Desc>
+			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
+			<Desc>Tanaman Buah Merah, Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Untuk sifat khususnya, ia harus tumbuh di lingkungan atas[temperature]200[/temperature]</Desc>
 		</Text>
 		<Text Name="LingZhi_Jin" sParam="Plant">
-			<ThingName>Akar Roh Logam: Pohon Kebijaksanaan</ThingName>
-			<Desc>Tanaman Buah Sage, Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Sangat sensitif terhadap suhu tinggi, namun relatif tahan terhadap dingin. Ia harus tumbuh di lingkungan di bawah [temperature]20[/temperature].</Desc>
+			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
+			<Desc>Tanaman Buah Sage, Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Sangat sensitif terhadap suhu tinggi, namun relatif tahan terhadap dingin. Itu harus tumbuh di lingkungan di bawah[temperature]20[/temperature]</Desc>
 		</Text>
 		<Text Name="LingZhi_Mu" sParam="Plant">
-			<ThingName>Akar Roh Kayu: Tanaman Anggur Keriput</ThingName>
-			<Desc>Tanaman Gnarled Vine, sebuah Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Ia memiliki persyaratan ketat terhadap suhu lingkungan, dan hanya tumbuh antara [temperature]15[/temperature]-[/temperature]35[/temperature].</Desc>
+			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
+			<Desc>Tanaman Gnarled Vine, sebuah Obat Elemental. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Ia memiliki persyaratan ketat terhadap suhu lingkungan, dan hanya tumbuh di antara keduanya[temperature]15[/temperature][/temperature]35[/temperature]</Desc>
 		</Text>
 		<Text Name="LingZhi_Shui" sParam="Plant">
-			<ThingName>Akar Roh Air: Prisma Teratai</ThingName>
-			<Desc>Tanaman Prism Lotus, Obat Elemental. Tumbuh di tempat dengan Qi padat, unsur kompatibel, dan tanah subur. Ia lebih menyukai suhu rendah, dan hanya tumbuh di lingkungan di bawah [temperature]-120[/temperature].</Desc>
+			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
+			<Desc>Tanaman Prism Lotus, Obat Elemental. Tumbuh di tempat dengan Qi padat, unsur kompatibel, dan tanah subur. Ia lebih menyukai suhu rendah, dan hanya tumbuh di lingkungan di bawahnya[temperature]-120[/temperature]</Desc>
 		</Text>
 		<Text Name="LingZhi_Tu" sParam="Plant">
-			<ThingName>Akar Roh Bumi: Esensi Oker</ThingName>
-			<Desc>Tanaman Ochre Essence, obat unsur. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Ia menghindari suhu rendah, dan hanya tumbuh di lingkungan di atas [temperature]30[/temperature].</Desc>
+			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
+			<Desc>Tanaman Ochre Essence, obat unsur. Tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur. Ia menghindari suhu rendah, dan hanya tumbuh di lingkungan yang lebih tinggi[temperature]30[/temperature]</Desc>
 		</Text>
 		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
-			<ThingName>Akar Roh Api: Pohon Buah Merah</ThingName>
+			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
 			<Desc>Tanaman Buah Merah, Obat Elemental. Dikatakan hanya tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memeriksanya secara dekat dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
-			<ThingName>Akar Roh Logam: Pohon Kebijaksanaan</ThingName>
+			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
 			<Desc>Tanaman Buah Sagacity, Obat Elemental. Dikatakan hanya tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memeriksanya secara dekat dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
-			<ThingName>Akar Roh Kayu: Tanaman Anggur Keriput</ThingName>
+			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
 			<Desc>Tanaman Gnarled Vine, sebuah Obat Elemental. Dikatakan hanya tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memeriksanya secara dekat dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
-			<ThingName>Akar Roh Air: Prisma Teratai</ThingName>
+			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
 			<Desc>Tanaman Teratai Prismatik, Obat Elemental. Dikatakan hanya tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memeriksanya secara dekat dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
-			<ThingName>Akar Roh Bumi: Esensi Oker</ThingName>
+			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
 			<Desc>Tanaman Esensi Oker, Obat Elemental. Dikatakan hanya tumbuh di tempat dengan Qi yang padat, unsur yang kompatibel, dan tanah yang subur.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memeriksanya secara dekat dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 	</List>
