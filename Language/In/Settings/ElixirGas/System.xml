@@ -1,127 +1,127 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="single_jin">
-			<Display>Kepenuhan Logam</Display>
+			<Display>Metal Fullness</Display>
 			<Desc>Meningkatkan unsur logam di lingkungan dan tingkat terobosan hukum logam.</Desc>
 		</Text>
 		<Text Name="single_mu">
-			<Display>Kepenuhan Kayu</Display>
+			<Display>Wood Fullness</Display>
 			<Desc>Meningkatkan unsur kayu di lingkungan dan tingkat terobosan hukum kayu.</Desc>
 		</Text>
 		<Text Name="single_shui">
-			<Display>Kepenuhan Air</Display>
+			<Display>Water Fullness</Display>
 			<Desc>Meningkatkan unsur air di lingkungan dan tingkat terobosan hukum air.</Desc>
 		</Text>
 		<Text Name="single_huo">
-			<Display>Kepenuhan Api</Display>
+			<Display>Fire Fullness</Display>
 			<Desc>Meningkatkan elemen api di lingkungan dan terobosan hukum kebakaran.</Desc>
 		</Text>
 		<Text Name="single_tu">
-			<Display>Kepenuhan Bumi</Display>
+			<Display>Earth Fullness</Display>
 			<Desc>Meningkatkan unsur tanah di lingkungan dan laju terobosan hukum bumi.</Desc>
 		</Text>
 		<Text Name="jin_mu">
-			<Display>Penguat Kayu</Display>
+			<Display>Lumber Booster</Display>
 			<Desc>Meningkatkan kecepatan kayu dan pengumpulan murid secara signifikan.</Desc>
 		</Text>
 		<Text Name="jin_shui">
-			<Display>Penguat Seni</Display>
+			<Display>Art Booster</Display>
 			<Desc>Secara signifikan meningkatkan keterampilan dan kecepatan menjahit para murid.</Desc>
 		</Text>
 		<Text Name="jin_huo">
-			<Display>Penguat Tambang</Display>
+			<Display>Mine Booster</Display>
 			<Desc>Secara signifikan meningkatkan hasil tambang para murid.</Desc>
 		</Text>
 		<Text Name="jin_tu">
-			<Display>Kepenuhan milikku</Display>
+			<Display>Mine Fullness</Display>
 			<Desc>Secara signifikan meningkatkan perolehan murid saya.</Desc>
 		</Text>
 		<Text Name="mu_shui">
-			<Display>Pembiakan</Display>
+			<Display>Breeding</Display>
 			<Desc>Secara signifikan meningkatkan hasil murid sekte dan kesuburan peta sekte</Desc>
 		</Text>
 		<Text Name="mu_huo">
-			<Display>Api Penuh</Display>
+			<Display>Full Blaze</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan menempa dan memasak murid sekte</Desc>
 		</Text>
 		<Text Name="mu_tu">
-			<Display>Stabilkan</Display>
+			<Display>Stabilize</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan konstruksi murid sekte</Desc>
 		</Text>
 		<Text Name="shui_huo">
-			<Display>Api yang Memudar</Display>
+			<Display>Waning Flame</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan bantuan bencana dan tingkat keberhasilan murid sekte.</Desc>
 		</Text>
 		<Text Name="shui_tu">
-			<Display>Meluap</Display>
+			<Display>Overflow</Display>
 			<Desc>Secara signifikan meningkatkan efek penyembuhan yang diharapkan dan pemulihan alami murid sekte</Desc>
 		</Text>
 		<Text Name="huo_tu">
-			<Display>Abu</Display>
+			<Display>Ashes</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan pembongkaran dan kecepatan pembuatan batu murid sekte</Desc>
 		</Text>
 		<Text Name="jin_mu_shui">
-			<Display>Riang</Display>
+			<Display>Exuberant</Display>
 			<Desc>Secara signifikan meningkatkan pencocokan hukum kayu para murid sekte</Desc>
 		</Text>
 		<Text Name="jin_mu_huo">
-			<Display>Mereka berubah menjadi hijau</Display>
+			<Display>Viridescent</Display>
 			<Desc>Secara signifikan meningkatkan hasil alkimia para murid sekte</Desc>
 		</Text>
 		<Text Name="jin_mu_tu">
-			<Display>Suram</Display>
+			<Display>Dismal</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan kultivasi, kecepatan pembangunan fondasi, dan nilai kondisi mental murid sekte</Desc>
 		</Text>
 		<Text Name="jin_shui_huo">
-			<Display>Bercahaya</Display>
+			<Display>Lucent</Display>
 			<Desc>Secara signifikan meningkatkan tingkat keberhasilan penyempurnaan artefak murid sekte</Desc>
 		</Text>
 		<Text Name="jin_shui_tu">
-			<Display>Riam</Display>
+			<Display>Cascade</Display>
 			<Desc>Secara signifikan meningkatkan pencocokan hukum air para murid sekte</Desc>
 		</Text>
 		<Text Name="jin_huo_tu">
-			<Display>Berkilau</Display>
+			<Display>Lustrous</Display>
 			<Desc>Secara signifikan meningkatkan pencocokan hukum logam para murid sekte</Desc>
 		</Text>
 		<Text Name="mu_shui_huo">
-			<Display>Kuat</Display>
+			<Display>Fervent</Display>
 			<Desc>Secara signifikan meningkatkan pencocokan hukum kebakaran murid sekte</Desc>
 		</Text>
 		<Text Name="mu_shui_tu">
-			<Display>Tenang</Display>
+			<Display>Equable</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan alkimia murid sekte</Desc>
 		</Text>
 		<Text Name="mu_huo_tu">
-			<Display>Suram</Display>
+			<Display>Grim</Display>
 			<Desc>Secara signifikan meningkatkan pencocokan hukum bumi para murid sekte</Desc>
 		</Text>
 		<Text Name="shui_huo_tu">
-			<Display>Bersemangat</Display>
+			<Display>Ardent</Display>
 			<Desc>Secara signifikan meningkatkan kecepatan penempaan artefak murid sekte</Desc>
 		</Text>
 		<Text Name="no_jin">
-			<Display>Pemutusan Logam</Display>
+			<Display>Metal Sever</Display>
 			<Desc>Meningkatkan pengurangan kerusakan Logam.(global)</Desc>
 		</Text>
 		<Text Name="no_mu">
-			<Display>Kayu Sever</Display>
+			<Display>Wood Sever</Display>
 			<Desc>Meningkatkan pengurangan kerusakan kayu. (global)</Desc>
 		</Text>
 		<Text Name="no_shui">
-			<Display>Pemutusan Air</Display>
+			<Display>Water Sever</Display>
 			<Desc>Meningkatkan pengurangan kerusakan air. (global)</Desc>
 		</Text>
 		<Text Name="no_huo">
-			<Display>Kebakaran parah</Display>
+			<Display>Fire Sever</Display>
 			<Desc>Meningkatkan pengurangan kerusakan akibat kebakaran. (global)</Desc>
 		</Text>
 		<Text Name="no_tu">
-			<Display>Bumi Utara</Display>
+			<Display>Earth Sever</Display>
 			<Desc>Meningkatkan pengurangan kerusakan atribut Bumi.(global)</Desc>
 		</Text>
 		<Text Name="hunyuan">
-			<Display>Purba</Display>
+			<Display>Primordial</Display>
 			<Desc>Kurangi pencapaian, tingkatkan kecepatan belajar.</Desc>
 		</Text>
 	</List>
