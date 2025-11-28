@@ -1,23 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GongDengXian">
-			<Title>Teknik Tingkat Surga</Title>
-			<Desc>Jenis teknik kultivasi ini akan membawa Anda langsung ke Jalan keabadian. Ini memberi Anda kesempatan untuk Mencapai Ranah Ilahi Abadi.</Desc>
+			<Title>Ascension Law</Title>
+			<Desc>Hukum semacam ini menghubungkan Anda dengan jalan keabadian secara langsung, memungkinkan Anda untuk naik menuju keabadian.</Desc>
 		</Text>
 		<Text Name="GongYuanShen">
-			<Title>Teknik Tingkat Roh Sejati</Title>
-			<Desc>Jenis teknik kultivasi ini akan memungkinkan Anda memasuki Ranah Roh Primordial.</Desc>
+			<Title>Primordial Spirit Law</Title>
+			<Desc>Hukum semacam ini memungkinkan Anda pada akhirnya mencapai Keadaan Jiwa Primordial.</Desc>
 		</Text>
 		<Text Name="GongJinDan">
-			<Title>Teknik tingkat Golden Core</Title>
-			<Desc>teknik kultivasi ini akan memberi Anda kesempatan untuk memasuki Ranah Inti Emas.</Desc>
+			<Title>Golden Core Law</Title>
+			<Desc>Hukum semacam ini pada akhirnya dapat mengarah pada Pembentukan Inti Emas.</Desc>
 		</Text>
 		<Text Name="GongFanSu">
-			<Title>Teknik Kultivasi Duniawi</Title>
-			<Desc>Teknik biasa yang hanya milik manusia. Itu bahkan tidak akan membantu Anda memasuki Ranah Formasi Inti.</Desc>
+			<Title>Worldly Law</Title>
+			<Desc>Hukum semacam ini cukup biasa, bahkan tidak cukup untuk Pembentukan Inti.</Desc>
 		</Text>
-	</List>
-</Texts>
-Text>
 	</List>
 </Texts>
