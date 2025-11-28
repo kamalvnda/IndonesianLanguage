@@ -1,171 +1,171 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Card_Debug">
-			<DisplayName>Jalan Kerugian</DisplayName>
+			<DisplayName>Path of Loss</DisplayName>
 			<Desc>Karena alasan yang tidak diketahui, kekacauan ini hanya menyisakan sedikit sisa energi, tidak dapat memberikan efek apa pun.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
-			<DisplayName>Konversi binatang</DisplayName>
+			<DisplayName>Beast convertion</DisplayName>
 			<Desc>Hewan mati bisa berubah menjadi monster.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ElixirGas">
-			<DisplayName>Kepenuhan Alkimia Qi</DisplayName>
+			<DisplayName>Alchemy Qi Fullness</DisplayName>
 			<Desc>Alkimia yang berhasil meningkatkan Qi Alkimia Lima Elemen di area tersebut, menawarkan efek bervariasi berdasarkan proporsi</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LifeLost">
-			<DisplayName>Nasib Mendadak</DisplayName>
+			<DisplayName>Abrupt Fate</DisplayName>
 			<Desc>Mengonsumsi obat akan mengurangi Toleransi Obat, namun Umur karakter akan terkuras 100 kali lebih cepat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
-			<DisplayName>Kutukan Batu Dalam</DisplayName>
+			<DisplayName>Deep Rock Curse</DisplayName>
 			<Desc>Sangat meningkatkan kemungkinan menggali peti mati kuno, tetapi hal itu akan membunuh murid penambang.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LinQiSurge">
-			<DisplayName>Fenomena Surgawi Mungkin</DisplayName>
+			<DisplayName>Celestial Phenomenon Might</DisplayName>
 			<Desc>Setiap perubahan cuaca disertai dengan Semburan Qi, namun perubahan cuaca akan memakan korban jiwa.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
-			<DisplayName>Orang Mencari Untung</DisplayName>
+			<DisplayName>People Seek Profit</DisplayName>
 			<Desc>Harga jual pedagang berkurang setengahnya, harga pembelian menjadi dua kali lipat, namun dalam satu siklus pedagang, barang menjadi lebih mahal jika semakin banyak Anda membeli, dan bahan menjadi lebih murah jika semakin banyak Anda menjual.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
-			<DisplayName>Pembalikan Lima Elemen</DisplayName>
+			<DisplayName>Five Elements Reversal</DisplayName>
 			<Desc>Hubungan pembangkitan dan penanggulangan Lima Elemen dibalik satu kali.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
-			<DisplayName>Runtuhnya Jalur Jimat</DisplayName>
+			<DisplayName>Talisman Path Collapse</DisplayName>
 			<Desc>Tidak dapat menggambar jimat secara manual, tetapi menggambar jimat akan menghasilkan hasil yang acak. Karakter dapat mengaktifkan lebih banyak jimat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
-			<DisplayName>Artefak yang Ditahbiskan Secara Ilahi</DisplayName>
+			<DisplayName>Divinely Ordained Artifact</DisplayName>
 			<Desc>Penyempurnaan dijamin berhasil, tetapi menghabiskan lebih banyak sumber daya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
-			<DisplayName>Dunia yang Harmonis</DisplayName>
+			<DisplayName>Harmonious World</DisplayName>
 			<Desc>Mendapatkan bantuan dari kultivator lain meningkat pesat, dan seseorang dapat langsung menembus pertahanan mental, tetapi kultivator lain juga secara otomatis menghindari bahaya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RealTime">
-			<DisplayName>Penyesuaian Sumbu Waktu</DisplayName>
+			<DisplayName>Time Axis Adjustment</DisplayName>
 			<Desc>Hari pemicu untuk semua peristiwa rahasia dipersingkat menjadi 1/3, dan waktu murid yang ditempatkan di luar akan menjadi waktu sebenarnya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_SupplyBox">
-			<DisplayName>Sisa-sisa Apokaliptik</DisplayName>
+			<DisplayName>Apocalyptic Remnants</DisplayName>
 			<Desc>Kabut peta otomatis dihilangkan. Seluruh dunia tidak dapat memperoleh hasil dari pemotongan, pemanenan, penambangan, atau pemotongan, tetapi peti pasokan akan jatuh dari langit setiap hari di dalam sekte tersebut.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
-			<DisplayName>Koneksi Seluruh Dunia</DisplayName>
+			<DisplayName>Worldwide Connection</DisplayName>
 			<Desc>Saat memperoleh reputasi melalui berbagai cara, reputasi yang diperoleh secara acak positif atau negatif, dan pengganda untuk memperoleh reputasi berkisar secara acak dari 0,1 hingga 10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_UnlockGong">
-			<DisplayName>Buah Dao Berisiko</DisplayName>
+			<DisplayName>Dao Fruit at Risk</DisplayName>
 			<Desc>Nilai dasar yang diperlukan untuk Pelatihan Dasar, dan nilai budidaya yang diperlukan untuk latihan, dikalikan 5. Semua undang-undang kini terbuka untuk semua petani.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yang">
-			<DisplayName>Tempat Yang Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yang</DisplayName>
 			<Desc>Sekte Feng Shui secara permanen berada di posisi tertinggi, efek pengumpulan roh dasar meningkat 100 poin, semua plot mendapatkan atribut api dan kayu, tetapi suhu dasar peta naik 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yin">
-			<DisplayName>Tempat Yin Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yin</DisplayName>
 			<Desc>Sekte Feng Shui secara permanen berada di posisi tertinggi, efek pengumpulan roh dasar meningkat 100 poin, semua plot mendapatkan atribut logam dan air, tetapi suhu dasar peta menurun sebesar 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_1">
-			<DisplayName>Pemburu Monster: Kelinci</DisplayName>
+			<DisplayName>Monster Hunter: Rabbit</DisplayName>
 			<Desc>Bunuh 7 kelinci, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_2">
-			<DisplayName>Pemburu Monster: Serigala</DisplayName>
+			<DisplayName>Monster Hunter: Wolf</DisplayName>
 			<Desc>Bunuh 5 serigala, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_3">
-			<DisplayName>Pemburu Monster: Beruang</DisplayName>
+			<DisplayName>Monster Hunter: Bear</DisplayName>
 			<Desc>Bunuh 3 beruang, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_4">
-			<DisplayName>Pemburu Monster: Penyu</DisplayName>
+			<DisplayName>Monster Hunter: Turtle</DisplayName>
 			<Desc>Bunuh 7 kura-kura, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_5">
-			<DisplayName>Pemburu Monster: Harimau</DisplayName>
+			<DisplayName>Monster Hunter: Tiger</DisplayName>
 			<Desc>Bunuh 5 harimau, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_6">
-			<DisplayName>Pemburu Monster: Sapi</DisplayName>
+			<DisplayName>Monster Hunter: Cow</DisplayName>
 			<Desc>Bunuh 5 sapi, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_7">
-			<DisplayName>Pemburu Monster: Ayam</DisplayName>
+			<DisplayName>Monster Hunter: Chicken</DisplayName>
 			<Desc>Bunuh 7 ayam, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_8">
-			<DisplayName>Pemburu Monster: Ular</DisplayName>
+			<DisplayName>Monster Hunter: Snake</DisplayName>
 			<Desc>Bunuh 5 ular, dapatkan item langka. Lain kali kebutuhannya akan berlipat ganda.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_1">
-			<DisplayName>Kejahatan Kepemilikan</DisplayName>
+			<DisplayName>Crime of Possession</DisplayName>
 			<Desc>Memperoleh beberapa harta langka, tetapi dukungan semua Sekte terhadap kami anjlok.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
-			<DisplayName>Akar Abadi bawaan</DisplayName>
+			<DisplayName>Innate Immortal Root</DisplayName>
 			<Desc>Murid luar memperoleh kemampuan terbang, tetapi kebutuhan ruangan mereka meningkat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_2">
-			<DisplayName>Berkat Surgawi</DisplayName>
+			<DisplayName>Heavenly Blessing</DisplayName>
 			<Desc>Setiap kali tingkat reputasi sekte meningkat, item langka diperoleh.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Sacrific">
-			<DisplayName>Upacara Pemujaan Setan</DisplayName>
+			<DisplayName>Demon Worship Ceremony</DisplayName>
 			<Desc>Aktifkan Upacara Pengorbanan Binatang, tetapi setiap Pengorbanan Binatang akan memancing kemarahan Kuil Daemonia (tersedia di Kuil Leluhur)</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FengShuiChange">
-			<DisplayName>Sekte Pemberontak</DisplayName>
+			<DisplayName>Rebellious Sect</DisplayName>
 			<Desc>Semua murid sekte secara alami berbakat, dengan semua kemampuan +2 (peningkatan batas), tetapi sekte Anda menderita kecemburuan ilahi, membuat semua relik merugikan secara permanen.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
-			<DisplayName>Pertapa di Pegunungan Dalam</DisplayName>
+			<DisplayName>Hermit in the Deep Mountains</DisplayName>
 			<Desc>Murid sekte tinggal secara tertutup di tempat tinggal mereka, berdedikasi pada pembuatan artefak, tetapi secara bertahap mengabaikan keterampilan petualangan mereka; kemampuan mereka yang berhubungan dengan petualangan mengalami penurunan yang nyata, keterampilan pembuatan artefak +5 (peningkatan batas), keterampilan alkimia +5 (peningkatan batas), kemampuan belajar meningkat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
-			<DisplayName>Cekatan dalam Bersosialisasi</DisplayName>
+			<DisplayName>Dexterous in Socializing</DisplayName>
 			<Desc>Murid sekte sangat lincah dan pandai bersosialisasi, namun karena pikiran mereka yang gelisah, mereka merasa sulit untuk fokus pada kultivasi; kondisi mental menurun, Artisanry +5 (peningkatan batas), Keterampilan Sosial +5 (peningkatan batas)</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
-			<DisplayName>Hindari yang Ringan, Carilah yang Berat</DisplayName>
+			<DisplayName>Avoid Light, Seek Heavy</DisplayName>
 			<Desc>Murid sekte tidak takut dengan kerja keras dan pandai dalam pekerjaan fisik yang berat, namun akibatnya, mereka menolak tugas-tugas rumit; kemampuan terkait manual mereka menurun secara signifikan, Keterampilan Konstruksi +10, Keterampilan Penambangan +10</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
-			<DisplayName>Alasan dengan Tinju dan Kaki</DisplayName>
+			<DisplayName>Reason with Fists and Feet</DisplayName>
 			<Desc>Murid sekte mahir dalam seni bela diri tetapi buruk dalam komunikasi verbal; Keterampilan sosial -5, Keterampilan bertarung +5 (peningkatan batas).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
-			<DisplayName>Qi yang rakus</DisplayName>
+			<DisplayName>Gluttonous Qi</DisplayName>
 			<Desc>Murid sekte selaras dengan alam, dengan Qi Sense yang sangat baik, namun akibatnya, mereka menjadi lebih rentan terhadap kelaparan dan kelelahan (Qi Sense +10).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
-			<DisplayName>Umur Panjang dan Kemakmuran</DisplayName>
+			<DisplayName>Longevity and Prosperity</DisplayName>
 			<Desc>Murid sekte menekankan pemeliharaan kesehatan, lebih peka terhadap cuaca dingin, tetapi juga berumur lebih panjang.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
-			<DisplayName>Inspirasi Ilahi</DisplayName>
+			<DisplayName>Divine Inspiration</DisplayName>
 			<Desc>Semua murid lebih mudah menyesuaikan diri dengan Dao, meningkatkan batas Qi mereka secara signifikan, namun semua Kesengsaraan Surgawi juga akan tiba lebih awal.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
-			<DisplayName>Bertahan Daripada Menyerang</DisplayName>
+			<DisplayName>Defend Instead of Attack</DisplayName>
 			<Desc>Murid sekte mengabdi pada teknik bertahan, tidak menyukai keterampilan bertarung, dan mahir mengganti serangan dengan pertahanan. Keterampilan tempur -5, keterampilan perlindungan +5 (peningkatan batas)</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
-			<DisplayName>Terobsesi dengan Mantra</DisplayName>
+			<DisplayName>Obsessed with Spell</DisplayName>
 			<Desc>Para murid sekte dimanjakan dalam seni Mantra, unggul dalam keterampilan tetapi sebagai hasilnya mengabaikan latihan mereka; kecepatan budidaya mereka menurun secara signifikan, Keterampilan Mantra +10 (peningkatan batas)</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
-			<DisplayName>Seseorang Mencapai Keabadian</DisplayName>
+			<DisplayName>One Achieves Immortality</DisplayName>
 			<Desc>Kenaikan seorang murid meningkatkan kecepatan pembangunan/latihan fondasi semua murid Sekte secara signifikan dalam jangka pendek.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
-			<DisplayName>Jalan Pembantaian</DisplayName>
+			<DisplayName>Path of Slaughter</DisplayName>
 			<Desc>Di bawah Kekacauan Surgawi, kecepatan pelatihan dasar dan budidaya sangat berkurang. Namun, murid batin dapat memperoleh kultivasi dengan membunuh kultivator pada tahap Inti Emas atau lebih tinggi dalam pertempuran.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
-			<DisplayName>Terobsesi dengan Penguasaan Artefak</DisplayName>
+			<DisplayName>Obsessed with Artifact Mastery</DisplayName>
 			<Desc>Murid sekte tenggelam dalam seni penguasaan artefak, unggul dalam keterampilan tetapi sebagai hasilnya mengabaikan pencarian akademis mereka; kecepatan belajar mereka menurun secara signifikan, Penguasaan Artefak +5 (batas peningkatan)</Desc>
 		</Text>
 	</List>
