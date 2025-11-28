@@ -1,83 +1,83 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Bear_Fat">
-			<DisplayName>Lapisan Lemak Tebal</DisplayName>
+			<DisplayName>Thick Layer of Fat</DisplayName>
 			<Desc>Terlahir dengan jumlah lemak yang besar, memberikan ketahanan dingin yang cukup baik dan ketahanan yang kuat terhadap Lima Elemen.</Desc>
 		</Text>
 		<Text Name="Rabbit_Fast">
-			<DisplayName>Ingin sekali</DisplayName>
+			<DisplayName>Eager</DisplayName>
 			<Desc>Kecepatan lari dan kecepatan belajarnya sangat cepat, namun dengan mentalitas tidak sabaran.</Desc>
 		</Text>
 		<Text Name="Rabbit_Hear">
-			<DisplayName>Waspada</DisplayName>
+			<DisplayName>Cautious</DisplayName>
 			<Desc>Memiliki telinga yang sangat sensitif dan persepsi yang baik.</Desc>
 		</Text>
 		<Text Name="Chicken_Sleep">
-			<DisplayName>Tidur Ringan</DisplayName>
+			<DisplayName>Light Sleeper</DisplayName>
 			<Desc>Terlahir dengan siklus tidur yang sangat pendek, pekerja keras.</Desc>
 		</Text>
 		<Text Name="Wolf_Calm">
-			<DisplayName>Kejam dan Tenang</DisplayName>
+			<DisplayName>Cruel and Calm</DisplayName>
 			<Desc>Pejuang yang terlahir secara alami, dengan bakat tempur unggul yang melampaui batas kemampuan manusia.</Desc>
 		</Text>
 		<Text Name="Snake_Progenitor">
-			<DisplayName>Ras Orang yang Selamat</DisplayName>
+			<DisplayName>Race of Survivors</DisplayName>
 			<Desc>Pada zaman dahulu, para pembudidaya setan ular mencoba mengubah bentuk tubuh mereka menjadi menyerupai naga, dan akhirnya dituntut oleh ras naga dan hampir punah. Oleh karena itu, mereka tidak meninggalkan banyak teknik rahasia pemurnian tubuh. Namun, hal itu memungkinkan mereka untuk memiliki persepsi dan bakat Qi tingkat tinggi melebihi orang biasa.</Desc>
 		</Text>
 		<Text Name="Frog">
-			<DisplayName>Ulet</DisplayName>
+			<DisplayName>Resilient</DisplayName>
 			<Desc>Terlahir dengan tubuh yang memiliki ketahanan yang kuat.</Desc>
 		</Text>
 		<Text Name="Frog_Vision">
-			<DisplayName>Miniatur</DisplayName>
+			<DisplayName>Miniature</DisplayName>
 			<Desc>Ukurannya yang kecil membuat katak lebih waspada terhadap hal-hal sepele dan lebih memperhatikan detail dalam kerajinan.</Desc>
 		</Text>
 		<Text Name="Boar">
-			<DisplayName>Omnivora</DisplayName>
+			<DisplayName>Omnivorous</DisplayName>
 			<Desc>Makan semuanya, cerna dengan baik, dan ubah makanan menjadi Stamina dengan lebih mudah.</Desc>
 		</Text>
 		<Text Name="Snake">
-			<DisplayName>Diberkati</DisplayName>
+			<DisplayName>Blessed</DisplayName>
 			<Desc>Terlahir secara alami dengan Berkah yang kuat.</Desc>
 		</Text>
 		<Text Name="Wolf">
-			<DisplayName>Sosial</DisplayName>
+			<DisplayName>Social</DisplayName>
 			<Desc>Menjadi hewan yang suka berteman membuatnya sangat pandai bekerja sama dengan orang lain.</Desc>
 		</Text>
 		<Text Name="Cat_Elegant">
-			<DisplayName>Gesit</DisplayName>
+			<DisplayName>Nimble</DisplayName>
 			<Desc>Hampir tidak mengeluarkan suara saat berjalan, dan sangat pandai bersembunyi.</Desc>
 		</Text>
 		<Text Name="Cat_Light">
-			<DisplayName>Gesit</DisplayName>
+			<DisplayName>Nimble</DisplayName>
 			<Desc>Hampir tidak mengeluarkan suara saat berjalan, dan sangat pandai bersembunyi.</Desc>
 		</Text>
 		<Text Name="Tor_Longevity">
-			<DisplayName>Berumur panjang</DisplayName>
+			<DisplayName>Long-lived</DisplayName>
 			<Desc>Mereka mempunyai umur yang sangat panjang.</Desc>
 		</Text>
 		<Text Name="Tor_Slow">
-			<DisplayName>Lambat</DisplayName>
+			<DisplayName>Slow</DisplayName>
 			<Desc>Kura-kura adalah hewan yang sangat lambat, tetapi mereka menjaga mentalitas yang baik, dan mengonsumsi makanan dan air dengan lebih lambat juga.</Desc>
 		</Text>
 		<Text Name="Tor_Def">
-			<DisplayName>Kerang</DisplayName>
+			<DisplayName>Shell</DisplayName>
 			<Desc>Kura-kura secara alami mempunyai pertahanan yang sangat kuat.</Desc>
 		</Text>
 		<Text Name="Tiger_Pier">
-			<DisplayName>Ganas</DisplayName>
+			<DisplayName>Ferocious</DisplayName>
 			<Desc>Sangat galak dan pandai bertarung. Agresivitas ini juga sangat membantu Sword Mastery.</Desc>
 		</Text>
 		<Text Name="Cow_Farmer">
-			<DisplayName>Lembut</DisplayName>
+			<DisplayName>Meek</DisplayName>
 			<Desc>Secara alami pekerja keras dan pandai bertani.</Desc>
 		</Text>
 		<Text Name="Cow_Big">
-			<DisplayName>Apoteker berpengalaman</DisplayName>
+			<DisplayName>Experienced Pharmacist</DisplayName>
 			<Desc>Ia memiliki sistem pencernaan yang unik, yang memberinya pemahaman yang lebih baik tentang kualitas tumbuhan jauh melebihi yang lain.</Desc>
 		</Text>
 		<Text Name="Cat_Pot">
-			<DisplayName>Penasaran</DisplayName>
+			<DisplayName>Curious</DisplayName>
 			<Desc>Kucing secara alami ingin tahu tentang hal yang tidak diketahui, yang merupakan kualitas yang sangat penting dalam budidaya.</Desc>
 		</Text>
 	</List>
