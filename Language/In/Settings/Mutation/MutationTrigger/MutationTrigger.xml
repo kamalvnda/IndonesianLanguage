@@ -1,43 +1,43 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_TaiShi">
-			<DisplayName>Tai Sue</DisplayName>
-			<Desc>Mulai permainan baru dengan 3 peristiwa Kekacauan Surgawi yang telah diperbaiki.</Desc>
-			<Trigger.StartGame.Extent.Desc>Sebuah cerita baru telah dimulai. Dao Tai Si Surgawi mulai bergerak...</Trigger.StartGame.Extent.Desc>
+			<DisplayName>Taishi</DisplayName>
+			<Desc>Mulailah permainan baru dengan 3 peristiwa Kekacauan Surgawi yang konstan.</Desc>
+			<Trigger.StartGame.Extent.Desc>Sebuah cerita baru terungkap, Taishi Heavenly Dao mengejutkan...</Trigger.StartGame.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhong">
-			<DisplayName>Taichung</DisplayName>
-			<Desc>Setiap 10/50/100 hari, memicu salah satu dari tiga jenis Kekacauan Surgawi: Turbulen/Yin Yang/Tetap.</Desc>
-			<Trigger.Time.Days.0.Extent.Desc>Seiring berjalannya waktu Beberapa perubahan telah terjadi di dunia...</Trigger.Time.Days.0.Extent.Desc>
-			<Trigger.Time.Days.1.Extent.Desc>Seiring berjalannya waktu Dunia telah mengalami perubahan...</Trigger.Time.Days.1.Extent.Desc>
-			<Trigger.Time.Days.2.Extent.Desc>Seiring berjalannya waktu Dunia telah mengalami perubahan besar...</Trigger.Time.Days.2.Extent.Desc>
+			<DisplayName>Taizhong</DisplayName>
+			<Desc>Setiap 10/50/100 hari, memicu 1 Turbulensi/Yin Yang/Kekacauan Surgawi Konstan.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>Seiring berjalannya waktu, beberapa perubahan telah terjadi di dunia..</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>Seiring berjalannya waktu, dunia ini telah mengalami perubahan..</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>Seiring berjalannya waktu, dunia ini mengalami perubahan drastis...</Trigger.Time.Days.2.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhen">
-			<DisplayName>Tai Zhen</DisplayName>
-			<Desc>Meningkatkan tingkat reputasi sekte sebanyak 1 tingkat akan merangsang Kekacauan Surgawi Yin Yang 1 kali; Setiap 6 kali, itu akan memicu Kekacauan Surgawi statis.</Desc>
-			<TriggerInfo.Desc>Level klan meningkat. Aktifkan Tao Zhen Surgawi</TriggerInfo.Desc>
-			<Trigger.School.Score.0.Extent.Desc>reputasi[SCHOOL]Meningkat, menstimulasi Tao Zhen Surgawi...</Trigger.School.Score.0.Extent.Desc>
-			<Trigger.School.Score.1.Extent.Desc>reputasi[SCHOOL]meroket hingga dikenal di seluruh dunia Dan dia tidak menyangka hal itu akan merangsang Dao Surgawi Tai Zhen. Salah satu Dao Surgawi</Trigger.School.Score.1.Extent.Desc>
+			<DisplayName>Taizhen</DisplayName>
+			<Desc>Setiap peningkatan 1 tingkat dalam reputasi sekte memicu 1 kekacauan surgawi Yin Yang; setiap 6 pemicu menghasilkan kekacauan surgawi yang konstan.</Desc>
+			<TriggerInfo.Desc>Sect level increased, triggering the Taizhen Heavenly Dao</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>Reputasi [SCHOOL] telah meningkat, memicu Taizhen Heavenly Dao...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>Reputasi [SCHOOL] meningkat secara signifikan, menjadi terkenal di dunia, dan secara tak terduga mengaktifkan Taizhen, salah satu Dao Surgawi.</Trigger.School.Score.1.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXu">
-			<DisplayName>Sawi Thailand</DisplayName>
-			<Desc>Terobosan setiap murid sekte memiliki kesempatan untuk memprovokasi Kekacauan Surgawi satu kali.</Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC]Baru saja memulai jalan menuju keabadian Merangsang Tao Surga, Tai Xu...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>pelatihan dari[NPC]Maju, rangsang Tao Tai Xu surgawi...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC]Mengetahui jalan besar Menyebabkan gerakan abnormal di Dao Tai Xu Surgawi…</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC]Raih Tao dan terlahir kembali ke surga. Merangsang kekacauan di Dao Tai Xu Surgawi...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+			<DisplayName>Taixu</DisplayName>
+			<Desc>Terobosan setiap murid sekte memiliki peluang untuk memicu kekacauan Surgawi satu kali</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] baru saja memulai jalur keabadian, memicu Taixy Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>Budidaya [NPC] telah maju, memicu Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] telah melihat sekilas jalan besar, menyebabkan pergerakan yang tidak biasa di Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] mencapai pencerahan dan naik, memicu kekacauan di Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXuan">
-			<DisplayName>Tai Xuan</DisplayName>
-			<Desc>Efek dari Turbulent Heavenly Chaos atau Yin Yang tidak dapat dipilih sendiri.</Desc>
+			<DisplayName>Taixuan</DisplayName>
+			<Desc>Tidak dapat memilih efek Turbulent atau Yin Yang Heavenly Chaos secara manual</Desc>
 		</Text>
 		<Text Name="Mutation_TaiYi">
-			<DisplayName>Tai Yi</DisplayName>
-			<Desc>Setelah kekacauan Turbulensi Surgawi diaktifkan, Memiliki peluang untuk mengatur ulang satu efek Kekacauan.</Desc>
+			<DisplayName>Taiyi</DisplayName>
+			<Desc>Setelah Kekacauan Surgawi yang bergejolak mulai berlaku, ada peluang untuk menyetel ulang satu efek</Desc>
 		</Text>
 		<Text Name="Mutation_TaiJi">
-			<DisplayName>Tai Chi</DisplayName>
-			<Desc>Saat menerima Kekacauan Surgawi yang bergejolak atau Yin dan Yang Ini memperluas jangkauan acak dari hasil tersebut.</Desc>
+			<DisplayName>Taiji</DisplayName>
+			<Desc>Saat mendapatkan Turbulent atau Yin Yang Heaven Chaos, perluas jangkauan acak dari efek chaos.</Desc>
 		</Text>
 	</List>
 </Texts>
