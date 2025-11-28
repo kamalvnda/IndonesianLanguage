@@ -1,28 +1,28 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_BambooShoot" sParam="Item">
-			<ThingName>Rebung</ThingName>
+			<ThingName>Bamboo Shoots</ThingName>
 			<Desc>Beberapa rebung. Akar bambu yang bisa digunakan untuk memasak, renyah dan menyegarkan.</Desc>
-			<Item.FabaoSuffix>Kabel, Benang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Bamboo" sParam="Item">
-			<ThingName>Tangkai Bambu</ThingName>
+			<ThingName>Bamboo Stalk</ThingName>
 			<Desc>Seikat bambu yang dapat digunakan untuk membuat pancing dan beberapa bangunan. Hanya bisa dimakan oleh panda.</Desc>
-			<Item.FabaoSuffix>Tongkat</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Stick</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FishStick" sParam="Item">
-			<ThingName>Pancing</ThingName>
+			<ThingName>Fishing Rod</ThingName>
 			<Desc>Sebuah pancing. Beberapa ikan tertarik pada elemen tertentu dan hanya muncul pada waktu berbeda. Selain itu, semakin tinggi tingkatan joran, semakin tinggi pula tingkat penangkapan ikan langka.</Desc>
-			<Item.FabaoSuffix>Batang, Garis, Kawat</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Rod,Line,Wire</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PandaJade" sParam="Item">
 			<ThingName>Panda Jade</ThingName>
 			<Desc>Sebuah batu giok ditemukan di hutan bambu. Tampaknya itu adalah salah satu dari sekumpulan item.</Desc>
-			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Panda Giok.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
-			<ThingName>Kontrak Roh: Panda</ThingName>
+			<ThingName>Spirit Contract: Panda</ThingName>
 		</Text>
 	</List>
 </Texts>
