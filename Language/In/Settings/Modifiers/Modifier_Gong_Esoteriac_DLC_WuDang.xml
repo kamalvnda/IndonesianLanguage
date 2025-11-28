@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_DLC_WuDang_YinYang1">
-			<DisplayName>Yang Murni</DisplayName>
+			<DisplayName>Pure Yang</DisplayName>
 			<Desc>Hanya memiliki pencapaian Yang murni, ketika mengendalikan artefak, dapat menghancurkan segalanya.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang2">
@@ -9,35 +9,35 @@
 			<Desc>Memiliki pencapaian Yang yang hampir murni, meningkatkan kemampuan penguasaan artefak dari dasar.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang3">
-			<DisplayName>Yang Besar</DisplayName>
+			<DisplayName>Greater Yang</DisplayName>
 			<Desc>Memiliki pencapaian Yang dan Yin yang tidak seimbang. Ini berdampak negatif pada kondisi mental dan melindungi kondisi mental yang buruk serta melindungi Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang4">
-			<DisplayName>Yang Kecil</DisplayName>
+			<DisplayName>Lesser Yang</DisplayName>
 			<Desc>Pencapaiannya dengan sedikit cacat tetapi seimbang. Itu dapat meningkatkan kondisi mental bersama dengan kemampuan melindungi Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang5">
-			<DisplayName>Netral</DisplayName>
+			<DisplayName>Neutral</DisplayName>
 			<Desc>Dapatkan pencapaian Yang dan Yin dalam keadaan seimbang sepenuhnya. Kondisi mentalnya murni dan Qi di sekujur tubuh berubah seperti Taiji.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang6">
-			<DisplayName>Yin Kecil</DisplayName>
+			<DisplayName>Lesser Yin</DisplayName>
 			<Desc>Pencapaiannya dengan sedikit cacat tetapi seimbang. Itu dapat meningkatkan kondisi mental bersama dengan kemampuan melindungi Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang7">
-			<DisplayName>Yin Yang Lebih Besar</DisplayName>
+			<DisplayName>Greater Yin</DisplayName>
 			<Desc>Memiliki pencapaian Yang dan Yin yang tidak seimbang. Ini berdampak negatif pada kondisi mental dan melindungi kondisi mental yang buruk serta melindungi Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang8">
-			<DisplayName>Yin Tertinggi</DisplayName>
+			<DisplayName>Supreme Yin</DisplayName>
 			<Desc>Miliki pencapaian yin yang hampir murni, tingkatkan kemampuan mantra dari dasar.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang9">
-			<DisplayName>Yin Murni</DisplayName>
+			<DisplayName>Pure Yin</DisplayName>
 			<Desc>Hanya memiliki pencapaian Yang murni, ketika mengendalikan mantra, dapat menguasai segalanya.</Desc>
 		</Text>
 		<Text Name="Modifier_DLC_WuDang_YinYang10">
-			<DisplayName>Tidak ada</DisplayName>
+			<DisplayName>None</DisplayName>
 		</Text>
 	</List>
 </Texts>
