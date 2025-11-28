@@ -1,154 +1,154 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LingUpWave_Sp">
-			<DisplayName>Kegilaan Qi</DisplayName>
+			<DisplayName>Qi Frenzy</DisplayName>
 			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri.</StoryDesc>
 		</Text>
 		<Text Name="FireRain">
-			<DisplayName>Hujan Sedang</DisplayName>
+			<DisplayName>Moderate Rain</DisplayName>
 		</Text>
 		<Text Name="Rainstorm_Teach">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Teach2">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm_Hack">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Thunderstorm</DisplayName>
 			<StoryDesc>Karena campur tangan suatu kekuatan yang tidak diketahui, badai petir muncul entah dari mana.</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_AllSeason">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
 		</Text>
 		<Text Name="Fohn_AllSeason">
-			<DisplayName>Angin Foehn</DisplayName>
+			<DisplayName>Foehn Wind</DisplayName>
 			<StoryDesc>Angin hangat dan kering bertiup.</StoryDesc>
 		</Text>
 		<Text Name="DustStorm_AllSeason">
-			<DisplayName>Badai Debu</DisplayName>
+			<DisplayName>Dust Storm</DisplayName>
 			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Miasma_AllSeason">
-			<DisplayName>Udara Berbahaya</DisplayName>
+			<DisplayName>Noxious Air</DisplayName>
 			<StoryDesc>Suasana berbahaya menyebar.</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm_AllSeason">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Thunderstorm</DisplayName>
 			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan.</StoryDesc>
 		</Text>
 		<Text Name="JinLingMiMan">
-			<DisplayName>Pembengkakan Qi Logam</DisplayName>
+			<DisplayName>Metal Qi Swell</DisplayName>
 			<StoryDesc>Elemen Logam Qi meresap ke udara.</StoryDesc>
 		</Text>
 		<Text Name="MuLingMiMan">
-			<DisplayName>Kayu Qi Membengkak</DisplayName>
+			<DisplayName>Wood Qi Swell</DisplayName>
 			<StoryDesc>Elemen Kayu Qi meresap ke udara.</StoryDesc>
 		</Text>
 		<Text Name="ShuiLingMiMan">
-			<DisplayName>Qi Air Membengkak</DisplayName>
+			<DisplayName>Water Qi Swell</DisplayName>
 			<StoryDesc>Elemen Air Qi meresap ke udara.</StoryDesc>
 		</Text>
 		<Text Name="HuoLingMiMan">
-			<DisplayName>Api Qi Membengkak</DisplayName>
+			<DisplayName>Fire Qi Swell</DisplayName>
 			<StoryDesc>Elemen Api Qi meresap ke udara.</StoryDesc>
 		</Text>
 		<Text Name="TuLingMiMan">
-			<DisplayName>Qi Bumi Membengkak</DisplayName>
+			<DisplayName>Earth Qi Swell</DisplayName>
 			<StoryDesc>Elemen Tanah Qi meresap ke udara.</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Big">
-			<DisplayName>Gelombang Qi</DisplayName>
+			<DisplayName>Qi Tide</DisplayName>
 			<StoryDesc>Qi membanjiri udara di sekelilingnya.</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave_Big">
-			<DisplayName>Defisiensi Qi</DisplayName>
+			<DisplayName>Qi Deficiency</DisplayName>
 			<StoryDesc>Kurangnya Qi.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Boss_Drought">
-			<DisplayName>Panas Ekstrim</DisplayName>
+			<DisplayName>Extreme Heat</DisplayName>
 			<StoryDesc>Suhu yang sangat tinggi.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Boss_HighTemp">
-			<DisplayName>Kekeringan yang Berkepanjangan</DisplayName>
+			<DisplayName>Prolonged Drought</DisplayName>
 			<StoryDesc>Kekeringan ini sepertinya semakin parah.</StoryDesc>
 		</Text>
 		<Text Name="DimCave">
-			<DisplayName>Gua</DisplayName>
+			<DisplayName>Cave</DisplayName>
 			<StoryDesc>Itu adalah gua yang gelap.</StoryDesc>
 		</Text>
 		<Text Name="ForestRain">
-			<DisplayName>Hujan</DisplayName>
+			<DisplayName>Raining</DisplayName>
 			<StoryDesc>Hujan turun di hutan hujan.</StoryDesc>
 		</Text>
 		<Text Name="LightSnow_Fov">
-			<DisplayName>Salju Ringan</DisplayName>
+			<DisplayName>Light Snow</DisplayName>
 			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
 		</Text>
 		<Text Name="SunSet">
-			<DisplayName>Matahari Terbenam Bersinar</DisplayName>
+			<DisplayName>Sunset Glows</DisplayName>
 			<StoryDesc>Matahari Terbenam Bersinar</StoryDesc>
 		</Text>
 		<Text Name="DustPlace">
-			<DisplayName>Badai Debu</DisplayName>
+			<DisplayName>Dust Storm</DisplayName>
 			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="EverSnow">
-			<DisplayName>Salju Ringan</DisplayName>
+			<DisplayName>Light Snow</DisplayName>
 			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenShuiJieJie">
-			<DisplayName>Qi Aquasfer</DisplayName>
+			<DisplayName>Qi Aquasphere</DisplayName>
 			<StoryDesc>Ada area di dalam Qi Aquasphere.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_BeiDouJianJie">
-			<DisplayName>Zona Pedang Kereta Besar</DisplayName>
+			<DisplayName>Grand Chariot Bladezone</DisplayName>
 			<StoryDesc>Ada area di dalam Grand Chariot Bladezone.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenHuoJieJie">
-			<DisplayName>Qi Ignosfer</DisplayName>
+			<DisplayName>Qi Ignosphere</DisplayName>
 			<StoryDesc>Ada area di dalam Qi Ignosphere.</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Mutation">
-			<DisplayName>Semburan Qi</DisplayName>
+			<DisplayName>Burst of Qi</DisplayName>
 			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri</StoryDesc>
 		</Text>
 		<Text Name="Yang_Mutation">
-			<DisplayName>Tempat Yang Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yang</DisplayName>
 			<StoryDesc>Tempat Yang Tertinggi</StoryDesc>
 		</Text>
 		<Text Name="Yin_Mutation">
-			<DisplayName>Tempat Yin Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yin</DisplayName>
 			<StoryDesc>Tempat Yin Tertinggi</StoryDesc>
 		</Text>
 		<Text Name="MouldRains_Mutation">
-			<DisplayName>Musim hujan</DisplayName>
+			<DisplayName>Rainy Season</DisplayName>
 			<StoryDesc>Hujan berkepanjangan mengguyur daratan</StoryDesc>
 		</Text>
 		<Text Name="Drought_Mutation">
-			<DisplayName>Kekeringan</DisplayName>
+			<DisplayName>Drought</DisplayName>
 			<StoryDesc>Matahari membakar seluruh bagian bawah dengan tatapannya yang berapi-api</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Mutation">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
 		</Text>
 		<Text Name="DustStorm_Mutation">
-			<DisplayName>Setan Debu</DisplayName>
+			<DisplayName>Dust Devil</DisplayName>
 			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara</StoryDesc>
 		</Text>
 		<Text Name="Miasma_Mutation">
-			<DisplayName>Udara Berbahaya</DisplayName>
+			<DisplayName>Noxious Air</DisplayName>
 			<StoryDesc>Suasana berbahaya menyebar</StoryDesc>
 		</Text>
 		<Text Name="LightningStormNoLong_Mutation">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Thunderstorm</DisplayName>
 			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
 		</Text>
 		<Text Name="FohnNoFeng_Mutation">
-			<DisplayName>Angin Foehn</DisplayName>
+			<DisplayName>Foehn Wind</DisplayName>
 			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
 		</Text>
 	</List>
