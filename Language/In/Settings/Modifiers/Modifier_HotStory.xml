@@ -1,55 +1,55 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HotStory_SocialContactLv">
-			<DisplayName>Pemahaman Keterampilan Sosial Meningkat</DisplayName>
+			<DisplayName>Social Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_MedicineLv">
-			<DisplayName>Pemahaman Keterampilan Penyembuhan Meningkat</DisplayName>
+			<DisplayName>Healing Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_CookingLv">
-			<DisplayName>Pemahaman Keterampilan Memasak Meningkat</DisplayName>
+			<DisplayName>Cooking Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_BuildingLv">
-			<DisplayName>Pemahaman Keterampilan Bangun Meningkat</DisplayName>
+			<DisplayName>Build Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FarmingLv">
-			<DisplayName>Pemahaman Keterampilan Bertani Meningkat</DisplayName>
+			<DisplayName>Farming Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_ManualLv">
-			<DisplayName>Pemahaman Keterampilan Kerajinan Meningkat</DisplayName>
+			<DisplayName>Crafting Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_MiningLv">
-			<DisplayName>Pemahaman Keterampilan Penambangan Meningkat</DisplayName>
+			<DisplayName>Mining Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_ArtLv">
-			<DisplayName>Pemahaman Keterampilan Artisanry Meningkat</DisplayName>
+			<DisplayName>Artisanry Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_QiLv">
-			<DisplayName>Pemahaman Rasa Qi Meningkat</DisplayName>
+			<DisplayName>Qi Sense Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FabaoLv">
-			<DisplayName>Pemahaman Penguasaan Artefak Meningkat</DisplayName>
+			<DisplayName>Artifact Mastery Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FightSkillLv">
-			<DisplayName>Pemahaman Keterampilan Mantra Meningkat</DisplayName>
+			<DisplayName>Spell Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_MakeBigSuccess">
-			<DisplayName>Pembuatan Berhasil!</DisplayName>
+			<DisplayName>Crafting Succeeded!</DisplayName>
 		</Text>
 		<Text Name="HotStory_BrokeningChance">
-			<DisplayName>Peluang Terobosan Meningkat</DisplayName>
+			<DisplayName>Breakthrough Chance Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_Ling">
-			<DisplayName>Batas Qi Meningkat</DisplayName>
+			<DisplayName>Qi Cap Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_DanNum">
-			<DisplayName>Hasil Elixir Meningkat</DisplayName>
+			<DisplayName>Elixir Yield Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FabaoQ">
-			<DisplayName>Kualitas Artefak Meningkat</DisplayName>
+			<DisplayName>Artifact Quality Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FabaoR">
-			<DisplayName>Kualitas Artefak Meningkat</DisplayName>
+			<DisplayName>Artifact Quality Increased</DisplayName>
 		</Text>
 	</List>
 </Texts>
