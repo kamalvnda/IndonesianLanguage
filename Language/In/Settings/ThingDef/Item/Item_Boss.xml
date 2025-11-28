@@ -1,132 +1,132 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
-			<ThingName>Raja Tanduk Wyrm</ThingName>
+			<ThingName>Wyrm King Horn</ThingName>
 		</Text>
 		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
-			<ThingName>Inti Phoenix</ThingName>
+			<ThingName>Phoenix Core</ThingName>
 		</Text>
 		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
-			<ThingName>Bulu Api Phoenix</ThingName>
+			<ThingName>Phoenix Flame Feather</ThingName>
 		</Text>
 		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
-			<ThingName>Bulu Berkobar</ThingName>
+			<ThingName>Blazing Feather</ThingName>
 			<Desc>Bulu yang aneh, meskipun tidak terlalu panas saat disentuh, namun dapat menyebarkan panas tanpa batas waktu, sehingga meningkatkan suhu ruangan atau ruang terbatas lainnya secara signifikan. Tampaknya tidak banyak gunanya kecuali efek konvergensi semangatnya yang kuat.</Desc>
-			<Item.FabaoSuffix>Bulu</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_GangYu" sParam="Item">
-			<ThingName>Bulu Phoenix Berbalut Besi</ThingName>
+			<ThingName>Phoenix Ironclad Feather</ThingName>
 			<Desc>Bulu Phoenix yang utuh, panasnya yang luar biasa tertahan di dalamnya. Itu tajam dan kokoh. Memakainya membuat seseorang menjadi kebal terhadap dingin, mempercepat sirkulasi Qi dan darah serta meningkatkan tingkat konsumsi makanan.</Desc>
-			<Item.FabaoSuffix>Bulu</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_TouYu" sParam="Item">
-			<ThingName>Bulu Phoenix Terlupakan</ThingName>
+			<ThingName>Phoenix Oblivion Feather</ThingName>
 			<Desc>Bulu indah dalam api abadi dari kepala Phoenix, mengandung esensi terkonsentrasi. Phoenix terampil dalam hal mantra. Memakainya memungkinkan seseorang untuk memanfaatkan kekuatan Phoenix dan menembus batas keterampilan Mantra sebanyak 3 level.</Desc>
-			<Item.FabaoSuffix>Bulu</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
-			<ThingName>Bulu Mantel Phoenix</ThingName>
+			<ThingName>Phoenix Mantle Feather</ThingName>
 			<Desc>Bulu ekor Phoenix yang besar. Meskipun ada nyala api yang menyala-nyala di atasnya, seseorang akan merasa cukup hangat daripada panas membara saat menyentuhnya, dan ini sungguh luar biasa. Seharusnya memiliki efek yang aneh setelah diproses dengan metode khusus.</Desc>
-			<Item.FabaoSuffix>Bulu</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_Gu" sParam="Item">
-			<ThingName>Tulang Besi Phoenix</ThingName>
+			<ThingName>Phoenix Iron Bone</ThingName>
 			<Desc>Tulang berongga dari kedua sayap Phoenix, sangat kokoh dan tidak berbobot. Seharusnya memiliki efek yang aneh setelah diproses dengan metode khusus.</Desc>
-			<Item.FabaoSuffix>Bulu</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_HongYu" sParam="Item">
-			<ThingName>Giok Api Phoenix</ThingName>
+			<ThingName>Phoenix Fire Jade</ThingName>
 			<Desc>sumber kekuatan Phoenix; di sinilah roh primordialnya bersemayam. Jika seseorang berkomunikasi dengan roh primordialnya, dia mungkin dapat memahami beberapa informasi berguna darinya. Memakainya memungkinkan seseorang memanfaatkan kekuatan Phoenix dan menerima 10% lebih sedikit kerusakan akibat kebakaran.</Desc>
-			<Item.FabaoSuffix>Giok</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Merenungkan</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mendapatkan beberapa informasi berguna darinya.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossFeng_Meat" sParam="Item">
-			<ThingName>Daging Phoenix</ThingName>
+			<ThingName>Phoenix Flesh</ThingName>
 			<Desc>Daging dan darah terbaik dari tubuh Phoenix, mengkonsumsinya akan meningkatkan Max Qi seseorang sebesar 25, dan memperpanjang Umur selama 10 tahun. Konsumsi berulang kali secara bertahap akan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Daging</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DragonScale" sParam="Item">
-			<ThingName>Skala Naga</ThingName>
+			<ThingName>Dragon Scale</ThingName>
 			<Desc>Sisiknya jatuh dari tubuh naga, ia telah kehilangan sebagian besar kualitas magisnya kecuali efek konvergensi roh yang kuat.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Jiao" sParam="Item">
-			<ThingName>Tanduk Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Horn</ThingName>
 			<Desc>Tanduk di atas kepala Naga Banjir, di situlah inti sari naga terkonsentrasi. Naga Banjir ahli dalam Penguasaan Artefak. Memakainya memungkinkan seseorang untuk memanfaatkan kekuatan Naga Banjir dan menembus batas keterampilan Penguasaan Pedang sebanyak 3 level.</Desc>
-			<Item.FabaoSuffix>Duri</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Zhua" sParam="Item">
-			<ThingName>Cakar Setan Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Devil Claw</ThingName>
 			<Desc>Cakar tajam dari Naga Banjir, ia tidak kekurangan ujung yang tajam dan memiliki kekuatan penghancur yang tak terbendung. Seharusnya memiliki efek yang aneh setelah diproses dengan metode khusus.</Desc>
-			<Item.FabaoSuffix>Duri</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Lin" sParam="Item">
-			<ThingName>Skala Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Scale</ThingName>
 			<Desc>Sisik utuh dari tubuh Naga Banjir, tidak bisa dihancurkan. Memakainya memungkinkan seseorang untuk menahan Kerusakan Qi.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_NiLin" sParam="Item">
-			<ThingName>Skala Terlarang Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Forbidden Scale</ThingName>
 			<Desc>Sumber kekuatan Naga Banjir, di sinilah roh primordialnya bersemayam. Jika seseorang berkomunikasi dengan roh primordialnya, dia mungkin dapat memahami beberapa informasi berguna darinya. Memakainya memungkinkan seseorang memanfaatkan kekuatan Naga Banjir, dan menerima 10% lebih sedikit kerusakan air.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Merenungkan</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mendapatkan beberapa informasi berguna darinya.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossLong_Jing" sParam="Item">
-			<ThingName>Vena Murka Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Wrath Vein</ThingName>
 			<Desc>Tendon-meridian terberat di ekor Naga Banjir, memiliki konduktivitas Qi yang sangat baik. Seharusnya memiliki efek yang aneh setelah diproses dengan metode khusus.</Desc>
-			<Item.FabaoSuffix>Urat daging</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Tendon</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Meat" sParam="Item">
-			<ThingName>Daging Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Flesh</ThingName>
 			<Desc>Daging dan darah terbaik dari tubuh Naga Banjir, mengkonsumsinya akan meningkatkan Max Qi seseorang sebesar 25, dan memperpanjang Umur selama 10 tahun. Konsumsi berulang kali secara bertahap akan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Daging</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
-			<ThingName>Skala Putih</ThingName>
+			<ThingName>White Scale</ThingName>
 			<Desc>Sisik putih bersih keluar dari tubuh Torch Dragon.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
-			<ThingName>Skala Hitam</ThingName>
+			<ThingName>Black Scale</ThingName>
 			<Desc>Sisik hitam pekat keluar dari tubuh Torch Dragon.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
 			<ThingName>Yin-Yang Crystal</ThingName>
 			<Desc>Kristal transparan dengan campuran warna hitam dan putih di mata Naga Obor, yang melaluinya seseorang dapat menguraikan misteri jalan yin dan yang. Seharusnya memiliki efek yang aneh setelah diproses dengan metode khusus.</Desc>
-			<Item.FabaoSuffix>Kristal</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
-			<ThingName>Skala Naga Obor Ilahi</ThingName>
+			<ThingName>Divine Torch Dragon Scale</ThingName>
 			<Desc>Sisik berbentuk aneh di antara alis Naga Obor, di sinilah esensi naga terkonsentrasi. Lima Elemen yang telah diubah oleh Obor Naga dari Yin dan Yang. Memakainya memungkinkan seseorang untuk memanfaatkan kekuatan Torch Dragon dan menembus batas skill Barrier sebanyak 3 level.</Desc>
-			<Item.FabaoSuffix>Skala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
-			<ThingName>Kekacauan Giok</ThingName>
+			<ThingName>Chaos Jade</ThingName>
 			<Desc>Sumber kekuatan Naga Obor, di sinilah sisa roh primordialnya bersemayam. Jika seseorang berkomunikasi dengan roh primordialnya, dia mungkin dapat memahami beberapa informasi berguna darinya. Memakainya memungkinkan seseorang memanfaatkan kekuatan Torch Dragon, dan menerima 5% lebih sedikit kerusakan elemen.</Desc>
-			<Item.FabaoSuffix>Giok</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Merenungkan</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mendapatkan beberapa informasi berguna darinya.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
-			<ThingName>Flash Purba</ThingName>
+			<ThingName>Primeval Flesh</ThingName>
 			<Desc>Darah dan daging dari tubuh Torch Dragon, ternoda oleh kekuatan Yin dan Yang dan karenanya memiliki kegunaan yang unik. Mengkonsumsinya mengurangi Pencapaian sebanyak 2 dan memperpanjang Umur sebanyak 10 tahun. Konsumsi berulang kali secara bertahap akan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Daging</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_FengYin" sParam="Item">
-			<ThingName>Phoenix Giok</ThingName>
+			<ThingName>Phoenix Jade</ThingName>
 			<Desc>Sepotong batu giok kuno dari harta karun platform naga, tampaknya merupakan salah satu dari satu set item.</Desc>
-			<Item.FabaoSuffix>Giok</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Phoenix Jade.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
-			<ThingName>Giok Kuno</ThingName>
+			<ThingName>Ancient Jade</ThingName>
 			<Desc>Sepotong batu giok aneh yang ditemukan di Medan Perang Surgawi, medan perang kuno. Intisari Yin dan Yang berkedip-kedip di dalamnya, seolah-olah memupuk sesuatu.</Desc>
-			<Item.FabaoSuffix>Giok</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Giok Kuno.</StoryBnts.0.Desc>
 		</Text>
 	</List>
