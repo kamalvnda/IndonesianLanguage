@@ -4,23 +4,23 @@
 			<DisplayName>Emotion Severing Law</DisplayName>
 			<Desc>Hukum rahasia Istana Skydome. Seseorang harus memiliki daya tarik yang memukau untuk mulai berkultivasi dalam Hukum ini. Kultivator harus menjalani petualangan di alam fana, mempelajari semua perasaan manusia sebelum meninggalkannya, menyadari jati diri di tengah semua kesengsaraan dan naik menuju keabadian. Seseorang sering kali memiliki hubungan yang rumit dengan orang lain dan mengalami cinta dan benci yang rumit karena metode kultivasi yang khusus.</Desc>
 			<SelectDesc>Seseorang akan unggul dalam penguasaan dan manipulasi pedang, namun harus berulang kali melalui petualangan untuk menerobos. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Nutrisi diri</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Harmoni</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Sikap acuh tak acuh</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Tanpa belas kasihan</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.1.DisplayName>Perbaikan</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>Emosi Ekstrim</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Menginginkan</Stages.2.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Self-nourishment</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Consonance</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Aloofness</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Merciless</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Refinement</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Extreme Emotion</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Desire</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit bagi karakter dengan karisma rendah.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Terlahir kembali</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Pengartian</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Jeroan</Stages.3.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Reborn</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Cognition</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Viscera</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit bagi karakter dengan karisma rendah.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Menuju surga</Stages.3.Necks.1.DisplayName>
-			<Stages.4.DisplayName>Agung Agung</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Detasemen</Stages.4.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Heavenward</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Grand Supreme</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Detachment</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>Keadaan terlupa</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Obliviousness</Stages.4.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
