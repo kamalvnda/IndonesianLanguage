@@ -1,94 +1,94 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong10_a0">
-			<DisplayName>Penyembuhan Qi</DisplayName>
+			<DisplayName>Panacea</DisplayName>
 		</Text>
 		<Text Name="Gong10_a1">
-			<DisplayName>menghilangkan awan</DisplayName>
+			<DisplayName>Chant of Cloud Dispelling</DisplayName>
 		</Text>
 		<Text Name="Gong10_a3">
-			<DisplayName>pemandangan gagak emas</DisplayName>
+			<DisplayName>Helios Gaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_a7">
-			<DisplayName>telapak nafas</DisplayName>
+			<DisplayName>Innate Qi</DisplayName>
 		</Text>
 		<Text Name="Gong10_b2">
-			<DisplayName>Pulsa Api Sejati</DisplayName>
+			<DisplayName>Skyfire Meridians</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3">
-			<DisplayName>Menggabungkan Lima Jalur Api</DisplayName>
+			<DisplayName>Visceral Blaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3_1">
-			<DisplayName>Menggabungkan Lima Jalur Api</DisplayName>
+			<DisplayName>Visceral Blaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3_2">
-			<DisplayName>Menggabungkan Lima Jalur Api</DisplayName>
+			<DisplayName>Visceral Blaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_b5">
-			<DisplayName>Catatan Rahasia Weda Qi</DisplayName>
+			<DisplayName>Mana Codex</DisplayName>
 		</Text>
 		<Text Name="Gong10_b7">
-			<DisplayName>badai api</DisplayName>
+			<DisplayName>Firestorm</DisplayName>
 		</Text>
 		<Text Name="Gong10_b9">
-			<DisplayName>Api Surga</DisplayName>
+			<DisplayName>Cleansing Flame</DisplayName>
 		</Text>
 		<Text Name="Gong10_c0">
-			<DisplayName>Fokuskan pikiran Anda dan latih pernapasan Anda.</DisplayName>
+			<DisplayName>Meditation</DisplayName>
 		</Text>
 		<Text Name="Gong10_c1">
-			<DisplayName>Nafas Roh</DisplayName>
+			<DisplayName>Spiritual Breath Chant</DisplayName>
 		</Text>
 		<Text Name="Gong10_c2">
-			<DisplayName>Sihir yang terlahir kembali</DisplayName>
+			<DisplayName>Reverie Rebirth</DisplayName>
 		</Text>
 		<Text Name="Gong10_c3">
-			<DisplayName>Mantra aliran matahari</DisplayName>
+			<DisplayName>Sunstream Chant</DisplayName>
 		</Text>
 		<Text Name="Gong10_c3_1">
-			<DisplayName>cahaya matahari</DisplayName>
+			<DisplayName>Astroflare</DisplayName>
 		</Text>
 		<Text Name="Gong10_c7">
-			<DisplayName>Mantra tubuh yang stabil</DisplayName>
+			<DisplayName>Steadfast Incantation</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0">
-			<DisplayName>badai tropis</DisplayName>
+			<DisplayName>Foehn Wind</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0_1">
-			<DisplayName>Alam Dewa Api Sembilan Matahari</DisplayName>
+			<DisplayName>Qi Ignosphere</DisplayName>
 		</Text>
 		<Text Name="Gong10_d1">
-			<DisplayName>Lahirnya aliran kehidupan</DisplayName>
+			<DisplayName>Lifeforce Genesis</DisplayName>
 		</Text>
 		<Text Name="Gong10_d2">
-			<DisplayName>membersihkan sumsum tulang</DisplayName>
+			<DisplayName>Resilient</DisplayName>
 		</Text>
 		<Text Name="Gong10_d3">
-			<DisplayName>Api Surga</DisplayName>
+			<DisplayName>Mindblaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_d3_1">
-			<DisplayName>jantung api</DisplayName>
+			<DisplayName>Innerfire</DisplayName>
 		</Text>
 		<Text Name="Gong10_d5">
-			<DisplayName>Api Qi</DisplayName>
+			<DisplayName>Spellfire</DisplayName>
 		</Text>
 		<Text Name="Gong10_d5_1">
-			<DisplayName>Fisik Api Sejati</DisplayName>
+			<DisplayName>Infernoform</DisplayName>
 		</Text>
 		<Text Name="Gong10_d7">
-			<DisplayName>Melodi Api Surgawi</DisplayName>
+			<DisplayName>Divine Fire Incantation</DisplayName>
 		</Text>
 		<Text Name="Gong10_d9">
-			<DisplayName>Sinar Api Surgawi</DisplayName>
+			<DisplayName>Heavenly Radiance</DisplayName>
 		</Text>
 		<Text Name="Gong10_d9_1">
-			<DisplayName>Sinar Api Surgawi</DisplayName>
+			<DisplayName>Heavenly Radiance</DisplayName>
 		</Text>
 		<Text Name="Gong10_e4">
-			<DisplayName>Pengobatan Langit Ilahi</DisplayName>
+			<DisplayName>Eureka Pill</DisplayName>
 		</Text>
 		<Text Name="Gong10_e8">
-			<DisplayName>Keterampilan Penempaan Surgawi</DisplayName>
+			<DisplayName>Taoist Artifact</DisplayName>
 		</Text>
 	</List>
 </Texts>
