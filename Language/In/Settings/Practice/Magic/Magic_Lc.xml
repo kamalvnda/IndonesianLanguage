@@ -1,70 +1,70 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MakeLingSoil">
-			<DisplayName>menciptakan tanah roh</DisplayName>
-			<Desc>Tukarkan pertumbuhan dan nutrisi Anda sendiri untuk mengubah tanah menjadi tanah roh.</Desc>
-			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+			<DisplayName>Spiritual Soil of Creator</DisplayName>
+			<Desc>Menukarkan pertumbuhan dan nutrisi seseorang untuk mengubah sebidang tanah menjadi Tanah Spiritual.</Desc>
+			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
 		</Text>
 		<Text Name="MakeFatSoil">
-			<DisplayName>Menyuburkan</DisplayName>
-			<Desc>Ia memperdagangkan pertumbuhan dan nutrisinya sendiri untuk mengubah lahan menjadi tanah yang unggul.</Desc>
-			<TargetDesc>Pilih ruang kosong di tanah.</TargetDesc>
+			<DisplayName>Fertile Soil</DisplayName>
+			<Desc>Menukarkan pertumbuhan dan nutrisi seseorang untuk mengubah sebidang tanah menjadi Tanah Subur.</Desc>
+			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
 		</Text>
 		<Text Name="LcBrokeHeartLock">
-			<DisplayName>mengemis</DisplayName>
-			<Desc>C bertindak main-main terhadap karakter Menggunakan nafsu, pesona, dan kecerdasan mereka untuk menghancurkan hati mereka yang tertutup.</Desc>
-			<TargetDesc>Pilih tujuan</TargetDesc>
+			<DisplayName>Act Playful</DisplayName>
+			<Desc>Dibutuhkan kecerdasan untuk memahami pikiran pengunjung atau orang luar dan bertindak Playful untuk menurunkan kewaspadaan mereka.</Desc>
+			<TargetDesc>Pilih target.</TargetDesc>
 		</Text>
 		<Text Name="LcClearHanyu">
-			<DisplayName>Hancurkan Penjara Beku</DisplayName>
-			<Desc>Karena jenis makhluknya sama dengan Naga Air. Ia mampu mengeluarkan penjara beku yang ditinggalkan Naga Air untuk mendapatkan nutrisi dalam jumlah besar.</Desc>
-			<TargetDesc>Pilih tujuan</TargetDesc>
+			<DisplayName>Cold Prison Dispelling</DisplayName>
+			<Desc>Sebagai makhluk yang sejenis dengan Naga Banjir, ia dapat menghilangkan Penjara Dingin yang ditinggalkan Naga Banjir untuk mendapatkan nutrisi dalam jumlah besar.</Desc>
+			<TargetDesc>Pilih target.</TargetDesc>
 		</Text>
 		<Text Name="LcStopColdWave">
-			<DisplayName>Nafas Api</DisplayName>
-			<Desc>Gunakan Qi asli Burung Vermillion untuk mengusir iblis itu.</Desc>
-			<TargetDesc>Pilih tujuan</TargetDesc>
+			<DisplayName>Scorching Breath</DisplayName>
+			<Desc>Menggunakan kekuatan Phoenix dari dalam untuk mengeluarkan nafas panas dan mengusir rasa dingin yang pahit.</Desc>
+			<TargetDesc>Pilih target.</TargetDesc>
 		</Text>
 		<Text Name="LcStopHeatWave">
-			<DisplayName>napas beku</DisplayName>
-			<Desc>Gunakan Qi asli Naga Air untuk menghilangkan panas terik.</Desc>
-			<TargetDesc>Pilih tujuan</TargetDesc>
+			<DisplayName>Icy Breath</DisplayName>
+			<Desc>Menggunakan kekuatan Naga Banjir dari dalam untuk mengeluarkan nafas sedingin es dan mengeluarkan panas terik.</Desc>
+			<TargetDesc>Pilih target.</TargetDesc>
 		</Text>
 		<Text Name="LcBaipiao">
-			<DisplayName>mengemis</DisplayName>
-			<Desc>Gunakan akalmu untuk menebak pikiran pedagang keliling dan bersikaplah main-main untuk menjilat. Mungkin saudagar itu tidak sedingin yang dikiranya.</Desc>
-			<TargetDesc>Pilih pedagang target</TargetDesc>
+			<DisplayName>Act Playful</DisplayName>
+			<Desc>Dibutuhkan kecerdasan untuk menebak pikiran Pedagang Keliling dan bertindak Ceria untuk menjilat. Mungkin saudagar itu tidak berhati dingin seperti yang dibayangkan.</Desc>
+			<TargetDesc>Pilih Pedagang Bepergian.</TargetDesc>
 		</Text>
 		<Text Name="LcSeeUnknown">
-			<DisplayName>mata yang tercerahkan</DisplayName>
-			<Desc>Memberikan pandangan yang tercerahkan kepada murid batiniah Hal ini memungkinkan untuk melihat tampilan sebenarnya dari barang-barang yang dilelang.</Desc>
-			<TargetDesc>Pilih tujuan</TargetDesc>
+			<DisplayName>Piercing Sight</DisplayName>
+			<Desc>Memberikan Piercing Sight kepada murid batin sehingga mereka dapat melihat fitur sebenarnya dari suatu item saat berada di pelelangan.</Desc>
+			<TargetDesc>Pilih target.</TargetDesc>
 		</Text>
 		<Text Name="LcOutspreadAttractive">
-			<DisplayName>Angsa yang menguntungkan</DisplayName>
-			<Desc>Kirim murid untuk mewakili sekte tersebut untuk menunjukkan keberuntungan sekte tersebut guna meningkatkan daya tarik sekte tersebut.</Desc>
-			<sParam2>Waktu yang tepat</sParam2>
+			<DisplayName>Auspicious Signs</DisplayName>
+			<Desc>Mengirimkan mereka ke agensi dan menunjukkan tanda-tanda keberuntungan dengan mengorbankan pertumbuhan dan statistik mereka sendiri untuk meningkatkan daya tarik kami.</Desc>
+			<sParam2>Auspicious</sParam2>
 		</Text>
 		<Text Name="LcOutspreadStability">
-			<DisplayName>Kehormatan Naga</DisplayName>
-			<Desc>Kirim murid sebagai perwakilan sekte untuk memamerkan kekuatan sekte yang luar biasa dan meningkatkan stabilitas sekte.</Desc>
+			<DisplayName>Renowned Might</DisplayName>
+			<Desc>Mengirim mereka ke agensi dan menunjukkan kekuatan ilahi dengan mengorbankan pertumbuhan dan statistik mereka sendiri untuk meningkatkan stabilitas tempat.</Desc>
 			<sParam2>Divine Might</sParam2>
 		</Text>
 		<Text Name="Magic_YG_RealPower">
-			<DisplayName>Kekuatan asal (kekuatan)</DisplayName>
-			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan kekuatan senjata sihir, sangat meningkatkan kekuatan Fisik Misterius. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Origin Force (Power)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan kekuatan artefak dan badan rahasia secara drastis. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealRecover">
-			<DisplayName>Kekuatan Asal (Pertumbuhan)</DisplayName>
-			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Fleksibilitas yang sangat meningkat, tingkat pemulihan Qi yang sangat meningkat, tingkat pemulihan Qi Sejati yang sangat meningkat. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Origin Force (Nurture)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk menstimulasi kekuatan Yaoguai asli guna meningkatkan ketahanan secara drastis, tingkat pemulihan Qi artefak, dan tingkat pemulihan Qi Sejati badan rahasia. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealWisdom">
-			<DisplayName>Kekuatan asal (kebijaksanaan)</DisplayName>
-			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan kekuatan energi magis, sangat meningkatkan keakuratan Fisik Misterius, sangat meningkatkan tingkat keberhasilan pertahanan, sangat meningkatkan kemungkinan menyerang melalui penghalang yang dalam, sangat meningkatkan kemungkinan menekan senjata magis. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Origin Force (INT)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli untuk secara drastis meningkatkan kekuatan mantra, akurasi serangan tubuh rahasia, tingkat keberhasilan pertahanan, penetrasi penghalang Qi, dan peluang penindasan artefak. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealShield">
-			<DisplayName>Kekuatan Asal (Persepsi)</DisplayName>
-			<Desc>Dengan cepat membakar sumber kehidupan untuk membangkitkan kekuatan primordial ras iblis. Sangat meningkatkan Qi Armor, sangat meningkatkan daya tahan Fisik Misterius. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Origin Force (PCT)</DisplayName>
+			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penghalang Qi dan daya tahan tubuh rahasia secara drastis. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 	</List>
 </Texts>
