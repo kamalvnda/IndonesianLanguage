@@ -1,14 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MainMenuEnv">
-			<Notes>Umpan balik pengguna mengenai kondisi layar menu utama</Notes>
-			<Title>lingkungan</Title>
-			<Desc>Dengan memilih iblis, tempat tinggal, dan harta magis Anda. Untuk mengubah lingkungan dan membuat permainan berbeda.</Desc>
+			<Notes>Comment about Environment of Main Menu UI</Notes>
+			<Title>Environment</Title>
+			<Desc>Dengan memilih monster, Abode, Relics hingga mengubah lingkungan, membuat permainan berbeda dari awal.</Desc>
 		</Text>
 		<Text Name="MainMenuImmortal">
-			<Notes>Umpan balik pengguna mengenai kondisi layar menu utama</Notes>
-			<Title>Mode ahli</Title>
-			<Desc>Tingkatkan kesulitan dengan membuat pilihan tambahan. Ini meningkatkan variasi dan hadiah trofi yang tersedia dari mode ini.</Desc>
+			<Notes>Comment about Environment of Main Menu UI</Notes>
+			<Title>Immortal Mode</Title>
+			<Desc>Tingkatkan kesulitan permainan dengan beberapa pilihan. Tantangan dan pencapaiannya juga beragam.</Desc>
 		</Text>
 	</List>
 </Texts>
