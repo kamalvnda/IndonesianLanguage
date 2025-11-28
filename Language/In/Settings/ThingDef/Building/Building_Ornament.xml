@@ -4,116 +4,116 @@
 			<Desc>Struktur dekoratif. Itu dapat mempengaruhi Lima Elemen di sekitarnya berdasarkan materialnya.</Desc>
 		</Text>
 		<Text Name="Building_StoneMan" sParam="Building">
-			<ThingName>Raksasa Batu</ThingName>
+			<ThingName>Stone Giant</ThingName>
 		</Text>
 		<Text Name="Building_Flag1" sParam="Building">
-			<ThingName>Bendera Naga</ThingName>
+			<ThingName>Dragon Flag</ThingName>
 		</Text>
 		<Text Name="Building_Flag2" sParam="Building">
-			<ThingName>Bendera Trigram</ThingName>
+			<ThingName>Trigrams Flag</ThingName>
 		</Text>
 		<Text Name="Building_Flag3" sParam="Building">
-			<ThingName>Bendera Tai Chi</ThingName>
+			<ThingName>Tai Chi Flag</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion" sParam="Building">
-			<ThingName>Singa Batu</ThingName>
+			<ThingName>Stone Lion</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion2" sParam="Building">
-			<ThingName>Singa Batu</ThingName>
+			<ThingName>Stone Lion</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion3" sParam="Building">
-			<ThingName>Singa Batu</ThingName>
+			<ThingName>Stone Lion</ThingName>
 		</Text>
 		<Text Name="Building_BigTripod" sParam="Building">
-			<ThingName>Kawah</ThingName>
+			<ThingName>Cauldron</ThingName>
 		</Text>
 		<Text Name="Building_SmallTripod" sParam="Building">
-			<ThingName>Kawah</ThingName>
+			<ThingName>Cauldron</ThingName>
 		</Text>
 		<Text Name="Building_BigCenser" sParam="Building">
-			<ThingName>Pedupaan</ThingName>
+			<ThingName>Censer</ThingName>
 		</Text>
 		<Text Name="Building_SmallCenser" sParam="Building">
-			<ThingName>Pedupaan</ThingName>
+			<ThingName>Censer</ThingName>
 		</Text>
 		<Text Name="Building_BigSwordPillar" sParam="Building">
-			<ThingName>Perisai Pedang</ThingName>
+			<ThingName>Sword Shield</ThingName>
 			<Desc>Artefak cadangan dapat digunakan untuk membentuk Perisai Pedang, yang dapat diaktifkan untuk mempertahankan serangan musuh. Perisai hanya dapat melindungi murid dalam. Artefak tidak dapat diambil.</Desc>
 		</Text>
 		<Text Name="Building_BigVase" sParam="Building">
-			<ThingName>Vas</ThingName>
+			<ThingName>Vase</ThingName>
 		</Text>
 		<Text Name="Building_SmallVase" sParam="Building">
-			<ThingName>Vas</ThingName>
+			<ThingName>Vase</ThingName>
 		</Text>
 		<Text Name="Building_Screen1" sParam="Building">
-			<ThingName>Layar Lipat</ThingName>
+			<ThingName>Folding Screen</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf" sParam="Building">
-			<ThingName>Rak Dekorasi</ThingName>
+			<ThingName>Decoration Shelf</ThingName>
 		</Text>
 		<Text Name="Building_ItemShelf" sParam="Building">
-			<ThingName>Menampilkan</ThingName>
+			<ThingName>Display</ThingName>
 			<Desc>Item dapat dipilih dan ditempatkan pada Tampilan.</Desc>
 		</Text>
 		<Text Name="Building_ShuZhuangTai" sParam="Building">
-			<ThingName>Meja rias</ThingName>
+			<ThingName>Dressing Table</ThingName>
 		</Text>
 		<Text Name="Building_Tower" sParam="Building">
-			<ThingName>Pagoda Penakluk</ThingName>
+			<ThingName>Subduer Pagoda</ThingName>
 		</Text>
 		<Text Name="Building_Tower2" sParam="Building">
-			<ThingName>Klenteng</ThingName>
+			<ThingName>Pagoda</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei" sParam="Building">
-			<ThingName>Prasasti</ThingName>
+			<ThingName>Stele</ThingName>
 		</Text>
 		<Text Name="Building_Zhong" sParam="Building">
-			<ThingName>Bel</ThingName>
+			<ThingName>Bell</ThingName>
 			<Desc>Lonceng besar yang dapat dibunyikan untuk mengingatkan dan memanggil semua murid luar agar mereka terhindar dari bahaya, namun perlu dihentikan secara manual. Dapat juga digunakan sebagai hiasan, yang mempengaruhi Lima Elemen di sekitarnya berdasarkan bahannya.</Desc>
 		</Text>
 		<Text Name="Building_Gu" sParam="Building">
 			<ThingName>Drum</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan1" sParam="Building">
-			<ThingName>Taman Batu (Puncak)</ThingName>
+			<ThingName>Rock Garden (Peak)</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan2" sParam="Building">
-			<ThingName>Taman Batu (Bukit)</ThingName>
+			<ThingName>Rock Garden (Hill)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai1" sParam="Building">
-			<ThingName>Bonsai (Subur)</ThingName>
+			<ThingName>Bonsai (Lush)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai2" sParam="Building">
-			<ThingName>Bonsai (Pinus)</ThingName>
+			<ThingName>Bonsai (Pine)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai3" sParam="Building">
-			<ThingName>Bonsai (tegak)</ThingName>
+			<ThingName>Bonsai (Upright)</ThingName>
 		</Text>
 		<Text Name="Building_Tower1" sParam="Building">
-			<ThingName>Pagoda Emas</ThingName>
+			<ThingName>Golden Pagoda</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei1" sParam="Building">
-			<ThingName>Angkatan Bintang</ThingName>
+			<ThingName>Force Stele</ThingName>
 		</Text>
 		<Text Name="Building_Zhong1" sParam="Building">
-			<ThingName>Lonceng Naga</ThingName>
+			<ThingName>Dragon Bell</ThingName>
 		</Text>
 		<Text Name="Building_Gu1" sParam="Building">
-			<ThingName>Gendang Naga</ThingName>
+			<ThingName>Dragon Drum</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf_CangJing" sParam="Building">
-			<ThingName>Paviliun Manual</ThingName>
+			<ThingName>Manual Pavilion</ThingName>
 			<Desc>Rak buku yang digunakan untuk menyimpan buku manual rahasia, masing-masing mempunyai kapasitas penyimpanan 100 buah. Semakin keras sebuah buku manual, maka semakin banyak ruang penyimpanan yang dibutuhkan.</Desc>
 		</Text>
 		<Text Name="Building_StoneYiJi1" sParam="Building">
-			<ThingName>Bayar Prasasti itu</ThingName>
+			<ThingName>Bixi Stele</ThingName>
 		</Text>
 		<Text Name="Building_StoneYiJi2" sParam="Building">
-			<ThingName>Patung yang membusuk</ThingName>
+			<ThingName>Decrepit Statue</ThingName>
 		</Text>
 		<Text Name="Building_JuNengDeng" sParam="Building">
-			<ThingName>Cahaya Purba</ThingName>
+			<ThingName>Primordial Light</ThingName>
 		</Text>
 	</List>
 </Texts>
