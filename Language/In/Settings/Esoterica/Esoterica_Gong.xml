@@ -1,787 +1,787 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God2_Dan">
-			<DisplayName>Pil Eureka</DisplayName>
+			<DisplayName>Eureka Pill</DisplayName>
 			<Desc>Pahami sepenuhnya jalan Surga setelah selamat dari kesengsaraan surgawi. Setelah Anda mencapai tingkat alkimia elit, Anda mulai memahami bagaimana jalan surga dapat dimanfaatkan untuk menciptakan ramuan ilahi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep obat mujarab berikut: \nEureka Pill[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nEureka Pill[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="God2_Fabao">
-			<DisplayName>Artefak Tao</DisplayName>
+			<DisplayName>Taoist Artifact</DisplayName>
 			<Desc>Pahami sepenuhnya jalan Surga setelah selamat dari kesengsaraan surgawi. Setelah Anda mencapai tingkat elit dalam pembuatan artefak, Anda mulai memahami bagaimana jalan surga dapat dimanfaatkan untuk membantu upaya Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak Besar secara signifikan.\nMengurangi kecepatan pembuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_1">
-			<DisplayName>Mata Air yang Penuh Perhatian</DisplayName>
+			<DisplayName>Mindful Springs</DisplayName>
 			<Desc>Visualisasikan mata air yang memancar di hutan yang dipenuhi sinar matahari, menenangkan dan meningkatkan pikiran Anda. Melakukan pelatihan Qi seperti itu memungkinkan seseorang untuk memperkuat koneksi mereka dengan bumi di sekitar mereka serta Surga, sehingga meningkatkan penyerapan Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_2">
-			<DisplayName>Nyanyian Harmonis</DisplayName>
+			<DisplayName>Harmonious Chant</DisplayName>
 			<Desc>Sebuah teknik untuk mengendalikan Qi seseorang, sebagaimana tercatat dalam Hukum Enam Belas Langkah Tertinggi. Nyanyian tersebut menekankan bagaimana aliran Qi harus dimanfaatkan dan dikendalikan oleh pikiran seseorang, seperti gelombang pasang di bulan. Sangat meningkatkan kekuatan Jurus Rahasia seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Tingkatkan Kekuatan Mantra Anda.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_3">
-			<DisplayName>Lagu Windrider</DisplayName>
+			<DisplayName>Windrider's Chant</DisplayName>
 			<Desc>Nyanyian mistis yang merinci teknik memanfaatkan kekuatan angin untuk terbang ke atas pedang seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Terbang dalam petualangan.\nMeningkatkan kemampuan Bladeriding Anda.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_4">
-			<DisplayName>Campuran</DisplayName>
+			<DisplayName>Amalgam</DisplayName>
 			<Desc>Sebuah teknik rahasia yang menyerap dan menggabungkan Qi positif dan negatif dari dunia fana dan Surga.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sedikit meningkatkan Kekuatan Mantra.\nSedikit meningkatkan Maks Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Sedikit meningkatkan Kekuatan Mantra.\nSedikit meningkatkan Max Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_5">
-			<DisplayName>Nyanyian Rapids</DisplayName>
+			<DisplayName>Chant of the Rapids</DisplayName>
 			<Desc>Fokuskan Qi di dalam tubuh Anda dan tingkatkan kekuatannya, menyebabkan Qi melonjak seperti sungai yang mengamuk di antara meridian Anda. Melepaskan batas inti Anda, tempat seseorang mengumpulkan Qi mereka. Jadilah seorang kultivator ahli, dan Anda akan dapat mengumpulkan Qi tidak hanya di inti Anda tetapi di seluruh tubuh Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan meningkatkan tingkat pemulihan Qi Anda.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi Anda secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_6">
-			<DisplayName>Nyanyian Aquamarine</DisplayName>
+			<DisplayName>Aquamarine Chant</DisplayName>
 			<Desc>Pusatkan energi Anda dan gunakan kekuatan utama air, sehingga memperkuat total cadangan energi Anda. Mempraktikkan keterampilan ini meningkatkan pemahaman dasar seseorang, meningkatkan Max Qi secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_7">
-			<DisplayName>Osmosis Esensial</DisplayName>
+			<DisplayName>Essential Osmosis</DisplayName>
 			<Desc>Lengkapi stamina batin Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Konstitusi seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
-			<DisplayName>Osmosis Meridian</DisplayName>
+			<DisplayName>Meridian Osmosis</DisplayName>
 			<Desc>Lengkapi meridian Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Karisma dan efisiensi Penyerapan Qi seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan efisiensi penyerapan Qi secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_9">
-			<DisplayName>Osmosis Dalam</DisplayName>
+			<DisplayName>Inner Osmosis</DisplayName>
 			<Desc>Lengkapi kemampuan mental Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Kecerdasan seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_1">
-			<DisplayName>Nyanyian Pengkondisian</DisplayName>
+			<DisplayName>Conditioning Chant</DisplayName>
 			<Desc>Bagian penting dari pelatihan dasar yang diberikan di Mt. Sunshade. Kondisikan tubuh Anda, perkuat dan perkuat kekuatan alami Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 5%.\nMeningkatkan Konstitusi sebesar 5%.\nSedikit meningkatkan Maks Qi.\nSedikit meningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 5%.\nMeningkatkan Konstitusi sebesar 5%.\nSedikit meningkatkan Max Qi.\nSedikit meningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_2">
-			<DisplayName>Penyempurnaan Aura</DisplayName>
+			<DisplayName>Aura Refinement</DisplayName>
 			<Desc>Sebuah metode pemurnian bahan menggunakan Qi. Mempraktikkan teknik ini akan meningkatkan keterampilan membuat Artefak Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kualitas pembuatan Artefak.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_3">
-			<DisplayName>Kebakaran Karma</DisplayName>
+			<DisplayName>Karmic Fires</DisplayName>
 			<Desc>Wujudkan api takdir dan sempurnakan di dalam tubuh Anda, untuk dilepaskan bila diperlukan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Toleransi Suhu secara signifikan.\nMeningkatkan Kekuatan Mantra secara signifikan.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_4">
-			<DisplayName>Api Primal</DisplayName>
+			<DisplayName>Primal Blaze</DisplayName>
 			<Desc>Manfaatkan teknik rahasia untuk menyalakan api utama di dalam tubuh Anda, bersihkan jiwa Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.\nMeningkatkan kualitas Artefak yang dibuat.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_5">
-			<DisplayName>ledakan pikiran</DisplayName>
+			<DisplayName>Mindblast</DisplayName>
 			<Desc>Belajarlah untuk berkonsentrasi dan meningkatkan cadangan mental Anda, meningkatkan kekuatan magis Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi secara signifikan.\nMeningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_6">
-			<DisplayName>Energi yang Dimurnikan</DisplayName>
+			<DisplayName>Purified Energies</DisplayName>
 			<Desc>Tarik Qi primal dan kembangkan, kumpulkan simpanan energi murni. Meningkatkan Rasa Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan level Qi Sense sebanyak 2.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan level Qi Sense sebesar 2.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_7">
-			<DisplayName>Ringkasan Sejarah Alam</DisplayName>
+			<DisplayName>Natural History Compendium</DisplayName>
 			<Desc>Sebuah karya referensi yang merinci karakteristik fisik berbagai bahan yang umum ditemukan di seluruh Tiongkok. Meningkatkan Tingkat Keberhasilan pembuatan Artefak.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_8">
-			<DisplayName>Kerajinan Artefak untuk Boneka</DisplayName>
+			<DisplayName>Artifact Crafting for Dummies</DisplayName>
 			<Desc>Panduan pemula untuk pembuatan Artefak, dengan basis pembaca yang besar di seluruh dunia pembudidaya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan pembuatan Artefak.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.\nMeningkatkan tingkat pembuatan Artefak.\nMeningkatkan kualitas Artefak yang dibuat.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_9">
-			<DisplayName>Buku Pegangan Pengrajin</DisplayName>
+			<DisplayName>Artisan's Handbook</DisplayName>
 			<Desc>Menjelaskan teknik untuk menangani Artefak, yang dapat membantu meningkatkan tingkatannya secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat Artefak yang dibuat.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkatan Artefak yang dibuat.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_10">
-			<DisplayName>Analisis Tertinggi atas Penciptaan</DisplayName>
+			<DisplayName>Supreme Analysis of Creation</DisplayName>
 			<Desc>Teknik pembuatan artefak diturunkan secara eksklusif oleh Sekte Ketamakan. Menggabungkan catatan tentang sifat fisik bahan yang tak terhitung jumlahnya ke dalam satu buku panduan yang sangat berharga, buku ini dianggap sebagai cawan suci manual pengerjaan pengrajin.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan pembuatan Artefak secara signifikan.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.\nMeningkatkan tingkat Artefak yang dibuat secara signifikan.\nMeningkatkan kualitas Artefak yang dibuat secara signifikan.\n\nDapatkan Talisman: \nTalisman of Riches\nWonder Talisman[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan pembuatan Artefak secara signifikan.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.\nMeningkatkan tingkatan Artefak yang dibuat secara signifikan.\nMeningkatkan kualitas Artefak yang dibuat secara signifikan.\n\nDapatkan Jimat: \nTalisman of Riches\nKeajaiban Jimat[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_1">
-			<DisplayName>Niat Membunuh</DisplayName>
+			<DisplayName>Killing Intent</DisplayName>
 			<Desc>Persyaratan dasar untuk memulai Pedang Tujuh Pembantaian. Terima finalitas kematian, dan tingkatkan Kekuatan Artefak.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_2">
-			<DisplayName>Bentuk Tujuh Penyembelihan</DisplayName>
+			<DisplayName>Seven-Slaughtering Form</DisplayName>
 			<Desc>Kendalikan niat membunuh Anda untuk mengilhami meridian Anda dengan kekuatan Tujuh Pembantaian. Secara signifikan meningkatkan Konstitusi. Anda juga belajar cara membuat Blade Pill.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 20%.\nSedikit meningkatkan Max Qi.\nDapatkan Resep Elixir: Blade Pill[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_3">
-			<DisplayName>Aura Setan</DisplayName>
+			<DisplayName>Demonic Aura</DisplayName>
 			<Desc>Keterampilan pedang dari Sekte Tujuh Pembantaian. Dalam menciptakannya, iblis diberi makan pedang jahat yang telah membunuh para pahlawan dalam pertempuran, sebelum dikendalikan oleh aura mereka. Meningkatkan sepenuhnya kekuatan Penguasaan Artefak seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan tingkat pemulihan Artefak Qi.\nMeningkatkan Qi Artefak.\nMeningkatkan Kecepatan Artefak.\nMeningkatkan kecepatan putaran Artefak.\nMeningkatkan panjang jejak Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_4">
-			<DisplayName>Kontrol Pedang</DisplayName>
+			<DisplayName>Sword Control</DisplayName>
 			<Desc>Keterampilan penguasaan artefak dasar yang tercatat dalam Pedang Tujuh Pembantaian. Menggunakan artefak melalui metode ini dapat memungkinkan seseorang untuk me aktivitas meridiannya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Pengganda Pemulihan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_5">
-			<DisplayName>Sumpah Pedang</DisplayName>
+			<DisplayName>Blade Oath</DisplayName>
 			<Desc>Seseorang harus berdedikasi pada pedang, dan tidak memedulikan gangguan lainnya. Ini adalah Sumpah Pedang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kekuatan Artefak secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.\nMeningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Kecepatan Artefak.\nSangat meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_6">
-			<DisplayName>Kohesi Pisau</DisplayName>
+			<DisplayName>Blade Cohesion</DisplayName>
 			<Desc>Pedang terhubung dengan batin Anda, bagian dari pikiran Anda, seolah-olah Anda dilahirkan dengan pedang itu.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Artefak Qi.\nSangat meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_7">
-			<DisplayName>Penguasaan Ilahi</DisplayName>
+			<DisplayName>Divine Mastery</DisplayName>
 			<Desc>Sadarilah potensi penuh dari Aura Pedang Anda, dengan memfokuskan sepenuhnya pada semangat pedang itu sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kekuatan Artefak secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.\nMeningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Kecepatan Artefak.\nSangat meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_8">
-			<DisplayName>Pikiran Pedang</DisplayName>
+			<DisplayName>Swordmind</DisplayName>
 			<Desc>Menjadi satu dengan pedang, dan biarkan pedang memenuhi seluruh keberadaan Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Artefak Qi.\nSangat meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_9">
-			<DisplayName>Pedang Ultima I</DisplayName>
+			<DisplayName>Sword Ultima I</DisplayName>
 			<Desc>Anda mengabdikan keberadaan Anda pada pedang, sejauh tidak ada hal lain yang penting. Hal ini secara signifikan meningkatkan kondisi mental dan kecepatan artefak.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.\nMeningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_10">
-			<DisplayName>Pedang Diri I</DisplayName>
+			<DisplayName>Selfsword I</DisplayName>
 			<Desc>Metode terakhir menggabungkan roh primal seseorang dengan pedang. Secara signifikan meningkatkan kondisi mental seseorang dan artefak Qi mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental secara signifikan.\nMeningkatkan Artifact Qi secara signifikan.\nMeningkatkan tingkat pemulihan Artifact Qi secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental secara signifikan.\nMeningkatkan Qi Artefak secara signifikan.\nMeningkatkan tingkat pemulihan Artifact Qi secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_11">
-			<DisplayName>Pukulan Nyanyian</DisplayName>
+			<DisplayName>Strike Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_12">
-			<DisplayName>Nyanyian Tusuk</DisplayName>
+			<DisplayName>Stab Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_13">
-			<DisplayName>Bersihkan Nyanyian</DisplayName>
+			<DisplayName>Cleanse Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Artefak Qi.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_14">
-			<DisplayName>Hancurkan Nyanyian</DisplayName>
+			<DisplayName>Crush Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_15">
-			<DisplayName>Nyanyian Dorong</DisplayName>
+			<DisplayName>Thrust Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_16">
-			<DisplayName>Nyanyian Tebas</DisplayName>
+			<DisplayName>Slash Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Artefak Qi.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_17">
-			<DisplayName>Kontrol Nyanyian</DisplayName>
+			<DisplayName>Control Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_18">
-			<DisplayName>Nyanyian Transformasi</DisplayName>
+			<DisplayName>Transformation Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_19">
-			<DisplayName>Nyanyian Pesangon</DisplayName>
+			<DisplayName>Severance Chant</DisplayName>
 			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Artefak Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_1">
-			<DisplayName>Aliran Air Terjun</DisplayName>
+			<DisplayName>Waterfall Flow</DisplayName>
 			<Desc>Sebuah metode tersembunyi yang berasal dari Istana Kunlun, dapat meningkatkan aktivitas meridian seseorang dan memperluas cadangan Qi mereka secara besar-besaran.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi secara signifikan.\nMeningkatkan Kekuatan Mantra.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_2">
-			<DisplayName>Harmoni Surgawi</DisplayName>
+			<DisplayName>Heavenly Harmony</DisplayName>
 			<Desc>Dengan menyelaraskan diri Anda dengan pergerakan Surga, Anda belajar menyesuaikan diri dengan getaran alam, yang secara signifikan meningkatkan keberuntungan Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.[/color][/size] </EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_3">
-			<DisplayName>Nyanyian Refleksi</DisplayName>
+			<DisplayName>Reflection Chant</DisplayName>
 			<Desc>Sebuah teknik yang dirahasiakan oleh Sekte Jadesprite. Melalui nyanyian ini, seseorang dapat mulai memahami misteri di balik aliran Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Waktu Penggunaan Eja.\nMengurangi Masa Istirahat Ejaan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Waktu Pembuangan Mantra.\nMengurangi Masa Istirahat Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_4">
-			<DisplayName>Asal-Usul Unsur</DisplayName>
+			<DisplayName>Elemental Origins</DisplayName>
 			<Desc>Kekuatan Lima Elemen yang pernah hilang kembali ke inti Anda, berada di dalam Lima Organ, dan menyelaraskan Qi batin. Berfungsi untuk memperpanjang umur seseorang, meningkatkan Qi dan sangat meningkatkan efisiensi penyerapan Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Maks Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Qi Maks.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_5">
-			<DisplayName>Revisi yang Teliti</DisplayName>
+			<DisplayName>Meticulous Revision</DisplayName>
 			<Desc>Periksa kembali secara menyeluruh dan pahami semua yang telah Anda pelajari dan saksikan dalam upaya Anda memecahkan misteri Surga. Mengurangi Pencapaian tanpa mempengaruhi kekuatan sebenarnya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian sebanyak 10.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian sebesar 10.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_6">
-			<DisplayName>Dewi Berkah Gandum</DisplayName>
+			<DisplayName>Goddess of the Grain's Blessing</DisplayName>
 			<Desc>Dia menganugerahkan artefak itu kepada kita; pelarian dari kematian: oleh karena itu, kita mengenalnya sebagai Dewi Gandum. Dengan ini, seseorang dapat memperpanjang Umurnya serta meningkatkan kapasitas Qi-nya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Maks Qi.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_7">
-			<DisplayName>Embrio Purba</DisplayName>
+			<DisplayName>Primordial Embryo</DisplayName>
 			<Desc>Suatu hal yang dirahasiakan oleh Sekolah Jadesprite, seseorang dapat diberkahi dengan kesadaran purba, Roh Batin, yang memungkinkan kemampuan manipulasi Qi yang lebih besar. Dengan melakukan hal ini, Anda sangat meningkatkan kemampuan Roh Batin untuk berinteraksi dan memanfaatkan sumber Qi eksternal.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi secara signifikan.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_8">
-			<DisplayName>Kesadaran Ilahi</DisplayName>
+			<DisplayName>Divine Awareness</DisplayName>
 			<Desc>Kembangkan kemampuan kognitif seseorang, tingkatkan Persepsi dan tingkatkan kekuatan Artefak secara signifikan. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Berkilau sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kekuatan Artefak.\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kekuatan Artefak.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_9">
-			<DisplayName>Ek Surgawi</DisplayName>
-			<Desc>Tanamkan dalam pikiran seseorang ketahanan pohon ek legendaris, yang terkenal memiliki getah pemberi keabadian, meningkatkan Konstitusi seseorang dan memperpanjang Umur secara signifikan. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Exuberant sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
+			<DisplayName>Celestial Oak</DisplayName>
+			<Desc>Tanamkan dalam pikiran seseorang ketahanan pohon ek legendaris, yang terkenal memiliki getah pemberi keabadian, meningkatkan Konstitusi seseorang dan memperpanjang Umur secara signifikan. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Exuberant sebagai katalis untuk memisahkan satu cabang sub-spirit.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMemperpanjang Umur.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_10">
-			<DisplayName>Kaskade Suci</DisplayName>
+			<DisplayName>Hallowed Cascade</DisplayName>
 			<Desc>Qi seseorang mengalir dengan kekuatan Hallowed Cascade, air di dalam saluran suci yang berasal dari awal waktu. Meningkatkan Karisma dan Max Qi. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Cascade sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Maks Qi.\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Maks Qi.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_11">
-			<DisplayName>Semangat yang Berkobar</DisplayName>
+			<DisplayName>Fervent Spirit</DisplayName>
 			<Desc>Rangkullah kekuatan Roh yang Bersemangat, memberi Anda kejelasan dan kekuatan untuk meningkatkan Intelijen dan Kekuatan Mantra. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Fervent sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Kekuatan Mantra.\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Kekuatan Mantra.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_12">
-			<DisplayName>Kekuatan Terra</DisplayName>
+			<DisplayName>Terraforce</DisplayName>
 			<Desc>Di dalam bumi terdapat kekuatan sejak jaman dahulu yang melindungi mereka yang memanfaatkan kekuatannya, memberikan keberuntungan dan memperkuat Perisai Qi. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Grim sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.\nMeningkatkan Efek Penghalang Qi.\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.\nMeningkatkan Efek Penghalang Qi.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_1">
-			<DisplayName>Gambar Tercemar</DisplayName>
+			<DisplayName>Defiled Image</DisplayName>
 			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit memperbaiki Konstitusi dengan merusak penampilan seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMengurangi Karisma sebesar 20%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_2">
-			<DisplayName>Indra yang Terkotori</DisplayName>
+			<DisplayName>Defiled Senses</DisplayName>
 			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit meningkatkan Konstitusi dengan merusak kemampuan sensoriknya sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMengurangi Persepsi sebesar 20%.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMenurunkan Persepsi sebesar 20%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_3">
-			<DisplayName>Pikiran yang Terkotori</DisplayName>
+			<DisplayName>Defiled Mind</DisplayName>
 			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit memperbaiki Konstitusi dengan merusak kewarasan diri sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMenurunkan Intelijen sebesar 20%.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMenurunkan Kecerdasan sebesar 20%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_4">
-			<DisplayName>Keberuntungan yang Tercemar</DisplayName>
+			<DisplayName>Defiled Fortune</DisplayName>
 			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit meningkatkan Konstitusi dengan mengorbankan Keberuntungan seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMengurangi Keberuntungan sebesar 20%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_5">
-			<DisplayName>Penebusan Nether</DisplayName>
+			<DisplayName>Nether Redemption</DisplayName>
 			<Desc>Setelah menderita Empat Kekotoran Citra, Indera, Pikiran dan Kewarasan, orang-orang yang benar-benar rusak dapat menarik Qi yang berasal dari Nether untuk memulihkan semangat mereka yang rusak, dan memperpanjang umur mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan memperpanjang Umur.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_6">
-			<DisplayName>Sumber Kehidupan Reformasi</DisplayName>
+			<DisplayName>Reformed Lifeblood</DisplayName>
 			<Desc>Sebuah praktik misterius di mana jantung dan jaringan tulang direformasi, tidak hanya memproses sel darah tetapi juga Qi yang mengalir tanpa henti ke seluruh tubuh Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi secara signifikan.\nSedikit meningkatkan Max Qi.\nMerusak jantung![/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_7">
-			<DisplayName>Penghalang Kuno</DisplayName>
+			<DisplayName>Ancient Barrier</DisplayName>
 			<Desc>Perlindungan yang didirikan oleh para penggarap di masa lalu, yang berpuncak pada pengalaman mereka dalam pertempuran yang tak terhitung jumlahnya. Meningkatkan kemampuan seseorang untuk menahan kerusakan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan efektivitas Qi Shield.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_8">
-			<DisplayName>Nyanyian Penyu</DisplayName>
+			<DisplayName>Turtle Chant</DisplayName>
 			<Desc>Sebuah nyanyian terbentuk selama ribuan tahun dan diturunkan selama bertahun-tahun. Pelajari dan perbanyak teknik pernapasan penyu keriput, yang memberikan umur panjang dan kesehatan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_9">
-			<DisplayName>Pengasingan Rohani</DisplayName>
+			<DisplayName>Spiritual Seclusion</DisplayName>
 			<Desc>Masuki suatu bentuk hibernasi spiritual di mana Anda menjadi tersembunyi dari semua orang, bahkan dari pengawasan Surga. Mempraktikkan keterampilan ini dapat memperpanjang umur seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan memperpanjang Umur.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_10">
-			<DisplayName>Penipuan Surgawi</DisplayName>
+			<DisplayName>Heavenly Deception</DisplayName>
 			<Desc>Diwariskan selama berabad-abad, metode ini dapat memungkinkan seseorang untuk menunda datangnya Kesengsaraan Surgawi untuk waktu yang cukup lama.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Menunda Kesengsaraan Surgawi berikutnya secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_11">
-			<DisplayName>Pencurian Ilahi</DisplayName>
+			<DisplayName>Divine Theft</DisplayName>
 			<Desc>Diwariskan selama berabad-abad. Manfaatkan cara Surga, kalikan umur dasar Anda dengan 5.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Lipat gandakan umur dasar Anda dengan 5.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66] Kalikan umur dasar Anda dengan 5.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_12">
-			<DisplayName>Ketahanan</DisplayName>
+			<DisplayName>Endurance</DisplayName>
 			<Desc>Merampas kekuatan Surga untuk memperpanjang hidup Anda sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan memperpanjang Umur.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_1">
-			<DisplayName>Tonik Halus</DisplayName>
+			<DisplayName>Refined Tonic</DisplayName>
 			<Desc>Digunakan dalam pelatihan dasar Tao Qi. Dengan memperkuat siklus Qi dalam tubuh Anda, Anda mengeluarkan kotoran dan meningkatkan Qi maksimum Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Max Qi secara mendasar.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_2">
-			<DisplayName>Pembersihan Pikiran</DisplayName>
+			<DisplayName>Mind Cleanse</DisplayName>
 			<Desc>Melalui perhatian dan harmoni Anda menenangkan pikiran, meningkatkan Kecerdasan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_3">
-			<DisplayName>Pemurnian Moral</DisplayName>
+			<DisplayName>Moral Purification</DisplayName>
 			<Desc>Metode utama Tao. Kembangkan moralitas dan kode etik Anda dengan sempurna, dan raih ketenangan hati dan jiwa. Setelah mengembangkan kemampuan ini, seseorang menikmati kondisi mental yang unggul sebagai hasilnya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Keadaan Mental dasar.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_4">
-			<DisplayName>Farmakope</DisplayName>
+			<DisplayName>Pharmacopoeia</DisplayName>
 			<Desc>Sebuah volume Tao yang menjelaskan dan merinci berbagai ramuan dasar. Pembacaan menyeluruh memberikan pemahaman yang lebih baik tentang Alkimia kepada pembaca.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia.\nDapatkan Resep Elixir: \nPil Pembentuk\nPil Penyembuhan\nBubuk Penyembuhan\nPil Euforia\nPil Inedia\nPil Kemurnian[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_5">
-			<DisplayName>1.000 Herbal dan Mineral</DisplayName>
+			<DisplayName>1,000 Herbs and Minerals</DisplayName>
 			<Desc>Bacalah buku ini untuk mendapatkan wawasan tentang khasiat obat dari hampir setiap ramuan dan mineral di bawah Langit, yang akan sangat meningkatkan keterampilan Alkimia Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia.\nMeningkatkan Kecepatan Alkimia.\nDapatkan Resep Elixir: \nPil Logam\nPil Bumi\nBubuk Api\nPil Logam\nPil Air[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia.\nMeningkatkan Kecepatan Alkimia.\nDapatkan Resep Ramuan: \nPil Logam\nPil Tanah\nBubuk Api\nPil Logam\nPil Air[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_6">
-			<DisplayName>Ramuan dari Tao Tertinggi</DisplayName>
+			<DisplayName>Elixirs of the Supreme Tao</DisplayName>
 			<Desc>Sebuah antologi resep ramuan, disusun oleh Elixir Sages. Di dalam sampulnya orang dapat menemukan beasiswa terbaik selama ribuan tahun tentang alkimia Tao.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPil Matahari\nPil Pikiran\nPil Kecambah\nBubuk Esensi Resin\nPil Kehidupan\nVitata Elixir\nPil Samsara\nBubuk Ilahi\n\nDapatkan Jimat: \nTusita Jimat\nJimat Ketidakkekalan\n\nMeningkatkan hasil Alkimia secara signifikan.\nMeningkatkan Tingkat Kesuksesan Alkimia secara signifikan.\nMeningkatkan Kecepatan Alkimia.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep obat mujarab berikut: \nPil Matahari\nPil Pikiran\nPil Kecambah\nBubuk Esensi Resin\nPil Kehidupan\nVitata Elixir\nPil Samsara\nBubuk Ilahi\n\nDapatkan Jimat: \nTusita Jimat\nJimat Ketidakkekalan\n\nMeningkatkan Alkimia secara signifikan hasil.\nMeningkatkan Tingkat Keberhasilan Alkimia secara signifikan.\nMeningkatkan Kecepatan Alkimia.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_7">
-			<DisplayName>Nyanyian Mata Kristal</DisplayName>
+			<DisplayName>Crystaleye Chant</DisplayName>
 			<Desc>Latih mata Anda sesuai dengan Hukum Rahasia kultivasi dan tingkatkan Persepsi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_8">
-			<DisplayName>9 Pilar Pemurnian</DisplayName>
+			<DisplayName>The 9 Refinement Pillars</DisplayName>
 			<Desc>Sembilan metode penyelesaian dan pemurnian ramuan yang dibuat. Pengetahuan penting bagi semua alkemis yang diturunkan oleh pendahulunya yang sangat meningkatkan kesuksesan Alkimia seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_9">
-			<DisplayName>Pesawat Elixir yang Dipercepat</DisplayName>
+			<DisplayName>Hastened Elixircraft</DisplayName>
 			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang membuat resep yang lebih memakan waktu tidak terlalu menyakitkan untuk dilaksanakan. Dengan mengolah metode ini seseorang dapat meningkatkan kecepatan mereka dalam melakukan Alkimia.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Alkimia secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_10">
-			<DisplayName>Pesawat Elixir Elit</DisplayName>
+			<DisplayName>Elite Elixircraft</DisplayName>
 			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang meningkatkan efisiensi alkimia seseorang. Dengan mengolah metode ini seseorang dapat meningkatkan hasil Alkimia mereka secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan hasil Alkimia secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_11">
-			<DisplayName>Pesawat Ramuan Ilahi</DisplayName>
+			<DisplayName>Divine Elixircraft</DisplayName>
 			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang memungkinkan seseorang untuk meningkatkan keahlian mereka, sangat meningkatkan keberhasilan yang dialami saat meramu ramuan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_12">
-			<DisplayName>Nyanyian Esensi</DisplayName>
+			<DisplayName>Essence Chant</DisplayName>
 			<Desc>Kumpulkan sari ramuan Hedyotis untuk memberi tubuh nutrisi yang melimpah. Meningkatkan Konstitusi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_13">
-			<DisplayName>Nyanyian Reabsorpsi</DisplayName>
+			<DisplayName>Reabsorption Chant</DisplayName>
 			<Desc>Yang kedua, setara dengan Nyanyian Esensi. Mengkonsumsi kembali nutrisi penting yang diserap untuk mengekstraksi nilai obat maksimumnya, meningkatkan efisiensi penyerapan Qi dan Qi maksimum seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi.\nMeningkatkan efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_14">
-			<DisplayName>Kanon Batin dari Elixir Sages</DisplayName>
+			<DisplayName>Inner Canon of the Elixir Sages</DisplayName>
 			<Desc>Analisis dan studi paling mendalam tentang tubuh manusia, seperti yang dilakukan oleh Elixir Sage Sect. Dapat berfungsi untuk memperpanjang umur seseorang secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan memperpanjang Umur.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_1">
-			<DisplayName>Puasa Pikiran</DisplayName>
+			<DisplayName>Mind Fasting</DisplayName>
 			<Desc>Suatu bentuk asketisme mental di mana seseorang mengendalikan pikirannya, yang dapat meningkatkan nilai-nilai dasar suasana hati dan mempercepat kultivasi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Mood dasar.\nMeningkatkan Kecepatan Kultivasi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_2">
-			<DisplayName>Pesawat Gaia</DisplayName>
+			<DisplayName>Gaia Plane</DisplayName>
 			<Desc>Fokuskan pikiran Anda pada rerumputan dan pepohonan, keagungan lembut sungai dan gunung. Rasakan keheningan alam, kebal terhadap angin dan hujan. Melalui latihan, Anda dapat sedikit meningkatkan Karisma dan meningkatkan Kondisi Mental Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Kondisi Mental.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_3">
-			<DisplayName>Nyanyian Empati</DisplayName>
+			<DisplayName>Empathy Chant</DisplayName>
 			<Desc>Menjadi selaras secara telepati dengan kesadaran orang-orang di sekitar Anda, burung-burung di langit, orang-orang yang Anda temui. Alami datang dan perginya seribu jiwa. Metode ini sangat meningkatkan Karisma dan keterampilan Sosial seseorang, serta memupuk rasa Empati yang meningkatkan aliran Qi mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan keterampilan Sosial secara signifikan.\nMeningkatkan Maks Qi secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan keterampilan Sosial secara signifikan.\nMeningkatkan Max Qi secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_4">
-			<DisplayName>Sangat Stoa</DisplayName>
+			<DisplayName>Sagely Stoic</DisplayName>
 			<Desc>Rangkullah aliran emosi yang berasal dari dunia sekitar Anda sampai Anda menjadi toleran terhadapnya, dan emosi tersebut tidak lagi menguasai Anda. Pandanglah alam fana ini dengan hati yang pantang menyerah, dan dapatkan penerimaan dari semua orang di sekitar Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Mood dasar secara signifikan.\nMenjadi kebal terhadap rasa sakit.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Mood dasar secara signifikan.\nMenjadi tahan terhadap rasa sakit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_5">
-			<DisplayName>Reformasi Penasaran</DisplayName>
+			<DisplayName>Curious Reformation</DisplayName>
 			<Desc>Manfaatkan Nyanyian Panjang Umur untuk membentuk kembali bentuk fisik Anda, sehingga sangat meningkatkan Konstitusi dan Ketahanan Alam.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Ketahanan Alami secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Ketahanan Alam secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_6">
-			<DisplayName>Doktrin Nutrisi Diri</DisplayName>
+			<DisplayName>Doctrine of Self-Nourishment</DisplayName>
 			<Desc>Merinci teknik ajaib untuk mengkondisikan tubuh dan pikiran. Meningkatkan Karisma dan max Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Max Qi secara signifikan.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Maks Qi secara signifikan.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_7">
-			<DisplayName>Duduk dalam Keterlupaan</DisplayName>
+			<DisplayName>Sitting in Oblivion</DisplayName>
 			<Desc>Sebuah latihan untuk menyempurnakan Qi seseorang, yang diciptakan oleh Istana Skydome. Melalui budidaya tekun dengan metode ini, seseorang dapat meningkatkan kemampuan mentalnya dan mempercepat budidaya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Keadaan Mental dasar.\nMeningkatkan Kecepatan Budidaya.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
-			<DisplayName>Nyanyian Panjang Umur</DisplayName>
+			<DisplayName>Longevity Chant</DisplayName>
 			<Desc>Sebuah buku tebal menakjubkan yang diwariskan dari generasi ke generasi, pernah ditulis oleh makhluk abadi kuno. Ini dapat membantu mengembangkan potensi berbagai titik meridian di seluruh tubuh, sehingga sangat memperpanjang umur seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Secara signifikan memperpanjang Umur.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
-			<DisplayName>Semangat Gale</DisplayName>
+			<DisplayName>Spirit Gale</DisplayName>
 			<Desc>Kumpulkan kekuatan spiritual seseorang di dalam tubuh, dan biarkan mengalir bebas seperti angin. Memberikan kebebasan dan fluiditas seperti awan dalam pikiran dan tubuh. Menguasai ini akan memberikan peningkatan besar pada Max Qi seseorang dan sangat meningkatkan Karisma.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi secara signifikan.\nMeningkatkan Karisma sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_10">
-			<DisplayName>Diri yang Tercermin</DisplayName>
+			<DisplayName>Reflected Self</DisplayName>
 			<Desc>Keterampilan pamungkas yang diajarkan dalam 'Way of Oblivion' Elixir Sages. Temukan jati diri Anda, saat Anda memutuskan semua ikatan dengan dunia fana. Sangat meningkatkan Kecepatan Budidaya. Meningkatkan kekuatan Artifact Mastery secara signifikan jika digunakan pada skill pedang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Budidaya secara signifikan.\nMeningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_11">
-			<DisplayName>pembaca pisau</DisplayName>
+			<DisplayName>Bladereader</DisplayName>
 			<Desc>Penguasaan memungkinkan seseorang membaca hati orang lain. Kemampuan beradaptasi dan kuat.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan kecepatan memutar Artefak.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan kecepatan putar Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_12">
-			<DisplayName>Pedang Sentimen</DisplayName>
+			<DisplayName>Sword of Sentiment</DisplayName>
 			<Desc>Gabungkan tujuh emosi umat manusia, serahkan semuanya ke dalam pedangmu. Melakukan hal itu akan sangat meningkatkan kelincahan Bladeriding seseorang, namun gravitasi dari emosi yang kuat juga memperlambat waktu pemulihan Bladeriding.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Artefak Qi.\nMengurangi tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak Maks.\nMengurangi tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_13">
-			<DisplayName>Gairah Kelas Baja</DisplayName>
+			<DisplayName>Steelweight Passion</DisplayName>
 			<Desc>Fokuskan dan segel emosi yang paling berat dan kuat di dalam Artefak agar ia terbang dengan kecepatan sangat tinggi, membunuh semua Hukumnya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_1">
-			<DisplayName>Catatan Prajurit yang Disempurnakan</DisplayName>
+			<DisplayName>Records of the Perfected Warrior</DisplayName>
 			<Desc>Catatan-catatan ini merinci teknik meditasi di mana seseorang memvisualisasikan Prajurit Sempurna, dewa Kereta Agung. Ini juga menjadi landasan bagi Hukum Perselisihan. Mempraktikkan metode-metode yang disebutkan di dalamnya dapat mencerahkan pikiran seseorang dan membantu pemahaman mereka tentang berbagai hal spiritual.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_2">
-			<DisplayName>Doktrin Kompas</DisplayName>
+			<DisplayName>The Compass Doctrine</DisplayName>
 			<Desc>Menjelaskan cara memanfaatkan kekuatan bintang dan konstelasi dalam mengendalikan diri. Ini juga menetapkan garis besar Tujuh Keterampilan Utama dari Prajurit yang Sempurna. Menumbuhkan keterampilan seperti itu memungkinkan seseorang untuk meningkatkan Konstitusi melalui kekuatan Grand Chariot.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Maks Qi.\nMeningkatkan Maks Artefak Qi.\nMeningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Qi Maks.\nMeningkatkan Qi Artefak Maks.\nMeningkatkan tingkat pemulihan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_3">
-			<DisplayName>Dubhe Bernyanyi</DisplayName>
+			<DisplayName>Dubhe Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Dubhe untuk Anda gunakan sendiri. Cahaya Dubhe yang bersinar, penuh dengan niat membunuh tertentu, dapat diasimilasikan ke dalam Artefak untuk meningkatkan kekuatannya secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_4">
-			<DisplayName>Nyanyian Merak</DisplayName>
+			<DisplayName>Merak Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Merak untuk Anda gunakan sendiri. Cahaya Merak yang bersinar, berkelap-kelip dengan kelincahan yang cekatan, dapat diasimilasikan ke dalam Artefak untuk memberikan kecepatan seperti angin.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_5">
-			<DisplayName>Nyanyian Phegda</DisplayName>
+			<DisplayName>Phegda Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Phegda untuk Anda gunakan sendiri. Cahaya Phegda yang bersinar, memancarkan rasa hormat dan kemegahan, dapat diasimilasikan ke dalam Artefak untuk mengusir kejahatan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Ketahanan Knockback Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_6">
-			<DisplayName>Lagu Megrez</DisplayName>
+			<DisplayName>Megrez Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Megrez untuk Anda gunakan sendiri. Cahaya Megrez yang bersinar, kuno dan adil, dapat diasimilasikan ke dalam Artefak untuk memberikan soliditas yang luar biasa.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Artefak Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_7">
-			<DisplayName>Nyanyian Alioth</DisplayName>
+			<DisplayName>Alioth Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Alioth untuk Anda gunakan sendiri. Cahaya Alioth yang bersinar, bersinar dengan kekuatan yang tak kenal lelah, dapat diasimilasikan ke dalam Artefak untuk meningkatkan keberlanjutannya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_8">
-			<DisplayName>Nyanyian Mizar</DisplayName>
+			<DisplayName>Mizar Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Mizar untuk Anda gunakan sendiri. Cahaya Mizar yang bersinar, berkilau dengan kekuatan yang dahsyat, dapat diasimilasikan ke dalam Artefak untuk menjadikannya hampir tak terhentikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Jarak Knockback Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_9">
-			<DisplayName>Nyanyian Alkaid</DisplayName>
+			<DisplayName>Alkaid Chant</DisplayName>
 			<Desc>Manfaatkan kekuatan bintang Grand Chariot Alkaid untuk Anda gunakan sendiri. Cahaya Alkaid yang bersinar, menusuk dan cemerlang, dapat diasimilasikan ke dalam Artefak untuk membuatnya secepat kilat.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_10">
-			<DisplayName>Grand Chariot Ultimate (Nyanyian Bintang Tujuh)</DisplayName>
+			<DisplayName>Grand Chariot Ultimate (Sevenstar Chant)</DisplayName>
 			<Desc>Sebuah keterampilan dengan kekuatan tak tertandingi, itu adalah teknik terhebat dari Hukum Perselisihan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan Kecepatan Artefak.\nMeningkatkan kecepatan memutar Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_11">
-			<DisplayName>Mantra Terobosan</DisplayName>
+			<DisplayName>Breakthrough Incantation</DisplayName>
 			<Desc>Sejajarkan diri Anda dengan siklus Qi universal. Dengan melakukan itu, Anda membebaskan diri dari segala ego dan dapat menemukan jati diri Anda. Latih keterampilan ini untuk meningkatkan perhatian dan meningkatkan kemampuan mental Anda secara keseluruhan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan nilai Mood dasar.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_12">
-			<DisplayName>Pertukaran Mantra</DisplayName>
+			<DisplayName>Exchange Incantation</DisplayName>
 			<Desc>Keluarkan energi vital untuk memperkuat keberadaan Anda, meningkatkan Lima Atribut secara komprehensif. Meskipun ampuh, metode ini meningkatkan kemampuan Anda dengan mengorbankan sepersepuluh dari total kumpulan Qi dan 120 tahun kehidupan Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperpendek Umur.\nSangat mengurangi Max Qi.\nMeningkatkan Lima Atribut sebesar 5%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_13">
-			<DisplayName>Pelamun</DisplayName>
+			<DisplayName>Stargazer</DisplayName>
 			<Desc>Tanamkan dalam mata Anda kekuatan yang berasal dari konstelasi bintang itu sendiri. Dapatkan peningkatan Persepsi, dan buat cahaya bintang menembus kegelapan yang Anda lihat di sekitar Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 20%.\nMenghilangkan kabut perang di peta (satu kali).[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_1">
-			<DisplayName>Inkarnasi Mata Ketiga</DisplayName>
+			<DisplayName>Third Eye Incarnate</DisplayName>
 			<Desc>Latih penglihatan Anda menggunakan teknik tersembunyi yang sudah lama dianggap punah. Dapatkan kemampuan untuk menatap hati dan pikiran orang lain di sekitar Anda. Latih keterampilan ini untuk meningkatkan Persepsi secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_2">
-			<DisplayName>Tri Visi</DisplayName>
+			<DisplayName>Tri Vision</DisplayName>
 			<Desc>Jatuh ke dalam keadaan seperti kesurupan, dan hidupkan kembali kenangan kehidupan ini dan kehidupan masa lalu Anda, dan ramalkan kehidupan berikutnya. Dengan kekayaan pengalaman ini, Anda secara bertahap dapat memahami jati diri Anda. Mempraktikkan keterampilan ini dapat mempercepat kultivasi dan mendorong kondisi mental yang lebih stabil, karena Anda tidak lagi takut akan misteri hidup dan mati.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan Kultivasi.\nMeningkatkan Kondisi Mental.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_3">
-			<DisplayName>Catatan Kematian</DisplayName>
+			<DisplayName>Mortality Records</DisplayName>
 			<Desc>Sebuah buku rahasia yang berisi catatan tentang kebenaran kehidupan, kematian, dan banyak sekali keterkaitannya. Diwariskan selama berabad-abad dari Guru abadi kuno. Mempelajari buku ini dapat memperpanjang umur seseorang dan meningkatkan kekuatan mantra.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_4">
-			<DisplayName>Bentuk Reinkarnasi</DisplayName>
+			<DisplayName>Reincarnated Form</DisplayName>
 			<Desc>Lakukan teknik yang diuraikan dalam Catatan Kematian untuk memicu Transfigurasi Genetik, dan ubah tubuh Anda menjadi Bentuk Reinkarnasi. Melakukan casting saat tubuh seseorang dalam Bentuk Reinkarnasi memberikan Kekuatan Mantra yang jauh lebih besar sementara biaya Qi tetap sama.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Mantra secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_5">
-			<DisplayName>Jiwa Reinkarnasi</DisplayName>
+			<DisplayName>Reincarnated Psyche</DisplayName>
 			<Desc>Dengan memperhatikan suka dan duka yang dialami lebih dari seratus reinkarnasi jiwa yang berbeda, kondisi mental seseorang menjadi tenang dan kuat. Setelah memperoleh wawasan tentang keberadaan yang tak terhitung jumlahnya, seseorang mencapai Jiwa Reinkarnasi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_6">
-			<DisplayName>Doktrin Reinkarnasi</DisplayName>
+			<DisplayName>Doctrine of Reincarnation</DisplayName>
 			<Desc>Sebuah doktrin misterius yang diyakini berasal dari Dunia Bawah, dan menjadi dasar Kitab Reinkarnasi. Sangat meningkatkan Max Qi seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_7">
-			<DisplayName>Penyerapan Tanah</DisplayName>
+			<DisplayName>Earthen Absorption</DisplayName>
 			<Desc>Manfaatkan Qi yang dikeluarkan dari pepohonan dan tanaman di sekitar Anda untuk memelihara cadangan Qi Anda sendiri. Mempraktikkan keterampilan ini secara moderat meningkatkan efisiensi Konstitusi dan penyerapan Qi Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nSedikit meningkatkan Efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_8">
-			<DisplayName>Catatan Hidup Berdampingan</DisplayName>
+			<DisplayName>Records of Coexistence</DisplayName>
 			<Desc>Catatan yang merinci bagaimana mungkin mencapai sinkronisasi dengan alam di sekitar kita, jika dipelajari dengan cermat. Melakukan hal itu dapat membantu pemahaman tentang Artefak. Melalui pemahaman terhadap catatan-catatan ini seseorang dapat meningkatkan kemampuan Penguasaan Artefak secara komprehensif.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan tingkat pemulihan Artefak Qi.\nMeningkatkan Qi Artefak.\nMeningkatkan kecepatan Artefak.\nMeningkatkan kecepatan memutar Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_9">
-			<DisplayName>Nyanyian Persatuan</DisplayName>
+			<DisplayName>Unity Chant</DisplayName>
 			<Desc>Kembangkan sinkronisasi yang terjalin antara diri Anda dan alam lebih jauh lagi, hingga pernapasan Anda selaras dengan aliran Qi alami. Latih keterampilan ini untuk meningkatkan Max Qi dan tingkat pemulihan Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan tingkat pemulihan Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_10">
-			<DisplayName>Transfigurasi Genetik</DisplayName>
+			<DisplayName>Genetic Transfiguration</DisplayName>
 			<Desc>Sebuah teknik rahasia yang memungkinkan seseorang untuk membentuk kembali bentuk fisiknya. Latihan untuk meningkatkan Konstitusi dan Karisma serta Potensi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 5%.\nMeningkatkan Karisma sebesar 5%.\nMeningkatkan Potensi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_11">
-			<DisplayName>Doktrin Intersepsi</DisplayName>
+			<DisplayName>Doctrine of Interception</DisplayName>
 			<Desc>Meningkatkan pengetahuan seseorang tentang siklus reinkarnasi, dan cara-cara yang dapat digunakan untuk meningkatkan Kecerdasan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_12">
-			<DisplayName>Bentuk Suci - Tingkat I</DisplayName>
+			<DisplayName>Hallowed Form - Tier I</DisplayName>
 			<Desc>Mengubah tubuh seseorang menjadi makhluk surgawi, memperpanjang Umurnya, meningkatkan Ketahanan Alami, dan meningkatkan Kekuatan Mantra.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Ketahanan Alami.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_13">
-			<DisplayName>Bentuk Sejati – Tingkat I</DisplayName>
+			<DisplayName>True Form - Tier I</DisplayName>
 			<Desc>Melalui penyaluran Qi yang dikeluarkan pada saat reinkarnasi, seseorang dapat menjalani pelatihan untuk menyempurnakan bentuk fisiknya. Sangat meningkatkan Max Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_14">
-			<DisplayName>Bentuk Tertinggi - Tingkat I</DisplayName>
+			<DisplayName>Supreme Form - Tier I</DisplayName>
 			<Desc>Membangun pengetahuan sebelumnya dan kekuatan Qi untuk berubah menjadi makhluk yang lebih besar, meningkatkan kemampuan tempur secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan Kekuatan Mantra.\nMeningkatkan efektivitas Perisai Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_1">
-			<DisplayName>Kodeks Mana</DisplayName>
+			<DisplayName>Mana Codex</DisplayName>
 			<Desc>Kodeks kuno yang telah lama hilang dan dapat memberikan peningkatan mendasar pada Kekuatan Mantra seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_2">
-			<DisplayName>Mantra Teguh</DisplayName>
+			<DisplayName>Steadfast Incantation</DisplayName>
 			<Desc>Melalui kekuatan kemauan belaka, buat Qi mengalir ke seluruh tubuh Anda dan tingkatkan potensi mantra Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Toleransi Suhu.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_3">
-			<DisplayName>Nyanyian Aliran Matahari</DisplayName>
+			<DisplayName>Sunstream Chant</DisplayName>
 			<Desc>Memanfaatkan energi Qi yang tersebar melalui sinar matahari, dan sangat meningkatkan Kekuatan Mantra.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Mantra secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_4">
-			<DisplayName>Mantra api</DisplayName>
+			<DisplayName>Spellfire</DisplayName>
 			<Desc>Tempelkan tubuh Anda dengan api energi murni. Sangat meningkatkan sifat unsur mantra, dan meningkatkan potensinya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Tingkatkan Kekuatan Mantra Anda.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_5">
-			<DisplayName>Tatapan Helios</DisplayName>
+			<DisplayName>Helios Gaze</DisplayName>
 			<Desc>Kumpulkan dan konsentrasikan Qi Anda dengan memvisualisasikan matahari dalam bentuk aslinya yang purba. Sangat meningkatkan Max Qi seseorang.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_6">
-			<DisplayName>Api Mendalam</DisplayName>
+			<DisplayName>Visceral Blaze</DisplayName>
 			<Desc>Tambahkan Lima Organ Anda dengan kekuatan Roh yang Bersemangat untuk meningkatkan fungsinya, menyebabkan sedikit peningkatan pada Lima Atribut, dan meningkatkan tingkat konversi Stamina.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan masing-masing Lima Atribut sebesar 5%.\nMeningkatkan Tingkat Konversi Stamina.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_7">
-			<DisplayName>Meridian Skyfire</DisplayName>
+			<DisplayName>Skyfire Meridians</DisplayName>
 			<Desc>Sempurnakan titik meridian Anda dengan api suci. Meningkatkan Qi maksimum dan sedikit meningkatkan Konstitusi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi.\nMeningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_8">
-			<DisplayName>api pikiran</DisplayName>
+			<DisplayName>Mindblaze</DisplayName>
 			<Desc>Nyalakan api Qi jauh di dalam pikiran Anda yang menyala terus menerus untuk mengurangi interval dan biaya casting.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi cooldown penggunaan mantra.\nMengurangi konsumsi Qi Mantra.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan cooldown penggunaan mantra.\nMengurangi konsumsi Qi Mantra.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_9">
-			<DisplayName>Mantra Api Ilahi</DisplayName>
+			<DisplayName>Divine Fire Incantation</DisplayName>
 			<Desc>Sebuah teknik berapi-api dengan potensi yang tak tertandingi. Berlatihlah untuk meningkatkan kerusakan mantra secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kerusakan Mantra secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_10">
-			<DisplayName>Api Pembersih</DisplayName>
+			<DisplayName>Cleansing Flame</DisplayName>
 			<Desc>Lepaskan api spiritual yang murni ke dalam pikiran Anda, yang akan sangat meningkatkan Kecerdasan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_11">
-			<DisplayName>Cahaya Surgawi</DisplayName>
+			<DisplayName>Heavenly Radiance</DisplayName>
 			<Desc>Menjadi satu dengan neraka Surga, karena dunia di bawah bersatu menjadi satu. Kembangkan keterampilan ini untuk meningkatkan Keberuntungan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 5%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_1">
-			<DisplayName>Bentuk Bulan</DisplayName>
+			<DisplayName>Lunar Form</DisplayName>
 			<Desc>Sempurnakan bentuk fisik seseorang dengan menggunakan energi Yin Qi yang terpancar dari cahaya bulan. Mengakibatkan pembalikan gender jika penggarap yang mempraktikkannya adalah laki-laki.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Ubah energi di dalam tubuh Anda menjadi energi Yin murni.\nMeningkatkan Maks Qi secara signifikan.\nMeningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Ubah energi di dalam tubuh Anda menjadi energi Yin murni.\nSangat meningkatkan Max Qi.\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_2">
-			<DisplayName>Mengusir setan</DisplayName>
+			<DisplayName>Exorcise</DisplayName>
 			<Desc>Suatu bentuk Penguasaan Artefak yang memanfaatkan energi Yin murni untuk meningkatkan kecepatan Artefak secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_3">
-			<DisplayName>Ajaran yang Membumi</DisplayName>
+			<DisplayName>Earthbound Teachings</DisplayName>
 			<Desc>Sebuah manual rahasia yang merinci bagaimana kekuatan Bumi dapat digunakan untuk mengembangkan perisai Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan efektivitas Qi Shield.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_4">
-			<DisplayName>Batalkan Ibadah</DisplayName>
+			<DisplayName>Void Worship</DisplayName>
 			<Desc>Percayakan diri Anda pada kehampaan untuk melihat para dewa yang ada di dalamnya. Meningkatkan Keberuntungan dan Kekuatan Artefak secara signifikan, dan secara kebetulan memperoleh sub-spirit. Itulah teknik rahasia terhebat yang disebutkan dalam Sunspirit Codex.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 20%.\nMeningkatkan Kekuatan Artefak secara signifikan.\nMendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 20%.\nMeningkatkan Kekuatan Artefak secara signifikan.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_5">
-			<DisplayName>Jalan Sembilan Provinsi</DisplayName>
+			<DisplayName>Way of the Nine Provinces</DisplayName>
 			<Desc>Benamkan diri Anda dalam memvisualisasikan bentang alam kuno yang membentuk geografi Tiongkok, mengembangkan Qi purba Anda. Secara efektif meningkatkan Max Qi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Maks.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_6">
-			<DisplayName>Menampak</DisplayName>
+			<DisplayName>Descry</DisplayName>
 			<Desc>Manfaatkan kekuatan Bumi untuk meningkatkan penglihatan Anda, memungkinkan Anda melihat melalui sihir ilusi yang mengubah dunia yang Anda lihat di hadapan Anda. Meningkatkan kemampuan perseptif Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_7">
-			<DisplayName>Delapan Ekstrem</DisplayName>
+			<DisplayName>The Eight Extremes</DisplayName>
 			<Desc>Bumi memiliki empat titik kompas, dan empat titik ordinal di antara keduanya. Demikian pula tubuh manusia juga memiliki delapan titik akupuntur. Dengan menyempurnakan delapan titik akupuntur tubuh ini, bentuk fisik seseorang dapat diubah seluruhnya secara efektif.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 5%.\nMeningkatkan Karisma sebesar 5%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_8">
-			<DisplayName>perjalanan semangat</DisplayName>
+			<DisplayName>Spiritravel</DisplayName>
 			<Desc>Bergerak dengan kecepatan luar biasa, seolah-olah dunia telah menyusut di bawah Anda, dan Anda menempuh jarak satu mil dengan setiap langkah.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Gerakan secara signifikan.\nMeningkatkan Kecepatan Terbang dalam petualangan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_9">
-			<DisplayName>Catatan tentang Integritas Moral</DisplayName>
+			<DisplayName>Notes on Moral Integrity</DisplayName>
 			<Desc>Seseorang harus memastikan untuk mewujudkan kebajikan dalam segala hal; seorang bangsawan yang perkasa dan mengesankan seperti lautan dan gunung. Melalui latihan, seseorang menjadi mampu mengatasi perselisihan melalui kebajikan dan moralitasnya. Mengembangkan integritas seseorang dengan cara ini berfungsi untuk memperpanjang umurnya.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Sangat memperpanjang Umur.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_10">
-			<DisplayName>Permainan Pedang Spektral</DisplayName>
+			<DisplayName>Spectral Swordplay</DisplayName>
 			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Dengan mengorbankan energi artefak, kekuatan mereka dapat ditingkatkan secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nSangat mengurangi Maks Qi Artefak.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nSangat mengurangi Qi Artefak Maks.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_11">
-			<DisplayName>Gambar cepat</DisplayName>
+			<DisplayName>Quickdraw</DisplayName>
 			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Memanfaatkan elemen kejutan, tarik senjata Anda dengan kecepatan yang menghancurkan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_12">
-			<DisplayName>Batu bulan</DisplayName>
+			<DisplayName>Lunar rock</DisplayName>
 			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Kumpulkan energi Yin murni di dalam pedang Anda, yang sangat meningkatkan ketahanan pukulan balik Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Resistensi Knockback Artifact secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Ketahanan Knockback Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_13">
-			<DisplayName>Pembengkakan Neraka</DisplayName>
+			<DisplayName>Abyssal Swell</DisplayName>
 			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Sangat meningkatkan kekuatan Artefak dengan mengorbankan tingkat pemulihan Artifact Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMenurunkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_14">
-			<DisplayName>Dorongan Annihila</DisplayName>
+			<DisplayName>Annihila Thrust</DisplayName>
 			<Desc>Apa yang dikatakan sebagai keterampilan pedang terhebat di Dunia Bawah. Memberikan peningkatan besar dalam kekuatan Artefak.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_15">
-			<DisplayName>Ibu Bumi</DisplayName>
+			<DisplayName>Earthmother</DisplayName>
 			<Desc>Panduan budidaya mistik yang menjelaskan cara memerintahkan jiwa dan roh. Dipercaya diturunkan dari Istana Enam Ibu Bumi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Rasa Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_16">
-			<DisplayName>Qi yang Membumi</DisplayName>
+			<DisplayName>Earthbound Qi</DisplayName>
 			<Desc>Perbaiki satu menit Qi Kuno yang Membumi untuk memberi diri Anda peningkatan luar biasa dalam Max Qi Anda sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi sebesar 15.000.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi sebesar 15.000.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_1">
-			<DisplayName>Buku Jimat Komprehensif</DisplayName>
+			<DisplayName>Comprehensive Book of Talismans</DisplayName>
 			<Desc>Manual rahasia yang mencatat beberapa jimat umum yang diperlukan dalam budidaya.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Keberangkatan Bayangan\nJimat Hati Surgawi\nJimat Hati Tenang\nJimat Kemakmuran Sipil\nJimat Kemakmuran Militer</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_2">
-			<DisplayName>Catatan Jimat yang Mendalam</DisplayName>
+			<DisplayName>Records of Profound Talismans</DisplayName>
 			<Desc>Mencatat jimat yang dapat meningkatkan kemampuan pertahanan.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Darkarmor</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_3">
-			<DisplayName>Catatan Jimat Pedang</DisplayName>
+			<DisplayName>Records of Sword Talismans</DisplayName>
 			<Desc>Mencatat jimat yang dapat meningkatkan Penguasaan Pedang.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Pedang Tajam</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_4">
-			<DisplayName>Catatan Jimat Mantra</DisplayName>
+			<DisplayName>Records of Incantation Talismans</DisplayName>
 			<Desc>Merekam jimat yang dapat meningkatkan kekuatan Mantra.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Kutukan Jahat</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_5">
-			<DisplayName>Jimat Surga</DisplayName>
+			<DisplayName>Heavensent Talismans</DisplayName>
 			<Desc>Ini mencatat Jimat kuat yang dianggap sudah lama hilang. Talisman ini mampu meningkatkan kualifikasi pemakainya secara paksa, sehingga disebut sebagai Heavensent.</Desc>
 			<EffectDesc>Membuka Talisman: \nHeavensent Talisman</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_6">
-			<DisplayName>Jimat Surgawi</DisplayName>
+			<DisplayName>Heavenlent Talismans</DisplayName>
 			<Desc>Dikatakan bahwa Jimat yang dicatat dalam buku ini dapat memanfaatkan kekuatan Surga.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Surgawi</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_7">
-			<DisplayName>Jimat Ilahi Tertinggi</DisplayName>
+			<DisplayName>Supreme Divine Talismans</DisplayName>
 			<Desc>Jimat yang beredar pada zaman dahulu konon diambil untuk penanaman Hukum Shendao yang telah lama hilang.</Desc>
 			<EffectDesc>Membuka Jimat: \nJimat Kediaman Ilahi\nJimat Persepsi Ilahi\nJimat Otoritas Ilahi\nJimat Penyembunyian Ilahi</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_8">
-			<DisplayName>pejalan awan</DisplayName>
+			<DisplayName>Cloudwalker</DisplayName>
 			<Desc>Sebuah teknik bagus yang terinspirasi dari pengamatan evolusi awan dan asap. Mempraktikkannya secara signifikan meningkatkan Kecepatan Terbang seseorang dalam Petualangan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Terbang secara signifikan dalam petualangan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_9">
-			<DisplayName>Pertemuan Berawan</DisplayName>
+			<DisplayName>Cloudy Confluence</DisplayName>
 			<Desc>Cara unik mengatur sirkulasi Qi batin seseorang. Meningkatkan Maks Qi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi sebesar 1.000.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_10">
-			<DisplayName>Kitab Suci Cloudforming</DisplayName>
+			<DisplayName>Scripture of Cloudforming</DisplayName>
 			<Desc>Konsentrasikan Qi seluruh tubuh Anda ke dalam bentuk yang menyerupai awan, yang secara efektif meningkatkan efek pertahanan Qi Barrier.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Efek Penghalang Qi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_11">
-			<DisplayName>Teori Kenaifan</DisplayName>
+			<DisplayName>Theory of Naivety</DisplayName>
 			<Desc>Pada zaman kuno, orang-orang pada masa itu hidup melalui lebih dari seratus musim semi dan musim gugur, namun kebugaran fisik mereka tidak terhalang. Mempraktikkan keterampilan ini dapat meningkatkan Konstitusi dan Umur seseorang secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 20%, dan memperpanjang Umur hingga 300 tahun.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_12">
-			<DisplayName>Buku Eastwood yang membelah jiwa</DisplayName>
+			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
 			<Desc>Teknik rahasia pemisahan jiwa yang diwariskan oleh Istana Kayu Timur. Jika dibudidayakan secara ekstrim, ia dapat membagi total sepuluh sub-roh. Sangat ajaib.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
 		</Text>
