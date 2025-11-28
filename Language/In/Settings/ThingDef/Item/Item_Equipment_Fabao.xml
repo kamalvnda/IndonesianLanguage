@@ -1,22 +1,22 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="FaBaoBase" sParam="Item">
-			<ThingName>Artefak</ThingName>
+			<ThingName>Artifact</ThingName>
 		</Text>
 		<Text Name="FaBaoTest" sParam="Item">
-			<ThingName>Uji Artefak</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Kerusakan akibat Kejutan</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Test Artifact</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Shock Damage</Item.Equip.AtkDamage.0.DescTags>
 		</Text>
 		<Text Name="FightFaBao" sParam="Item">
 			<Desc>Sebuah artefak.</Desc>
-			<ThingName>Artefak Pertempuran</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Kerusakan akibat Kejutan</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Battle Artifact</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Shock Damage</Item.Equip.AtkDamage.0.DescTags>
 		</Text>
 		<Text Name="TreasureFabao" sParam="Item">
-			<ThingName>Templat Artefak Harta Karun</ThingName>
+			<ThingName>Treasure Artifact Template</ThingName>
 		</Text>
 		<Text Name="JieCloud" sParam="Item">
-			<ThingName>Awan Kesengsaraan</ThingName>
+			<ThingName>Cloud of Tribulation</ThingName>
 		</Text>
 	</List>
 </Texts>
