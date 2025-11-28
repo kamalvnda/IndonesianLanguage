@@ -4,21 +4,21 @@
 			<DisplayName>Law of Nimbus Conquest</DisplayName>
 			<Desc>Hukum tertinggi yang diciptakan oleh Perfected Warroir. Setelah mempelajari hukum ini, seseorang dapat membentuk yin dan yang di dalam, menciptakan inti emas yin dan yang kemudian juga mencapai roh primordial yin dan yang. Saat melatih sub-roh, seseorang bisa mendapatkan efek dua kali lipat dari setengah usahanya. Ini adalah hukum paling terkenal dari Perfected Warroir di Gunung Wudang. Ini sangat misterius.</Desc>
 			<SelectDesc>Setelah mengamalkan hukum ini, pencapaian yang diperoleh dengan memahami misteri juga dipisahkan menjadi Yin dan Yang. Meskipun dapat sangat meningkatkan batas atas kekuatan para kultivator, proporsi pencapaian antara yin dan Yang juga akan mempengaruhi pencapaian para kultivator secara mendasar. Cara ini mencuri misteri yin dan Yang di langit dan bumi dan sangat membuat iri surga. Oleh karena itu, kekuatan kesengsaraan sangatlah dahsyat.</SelectDesc>
-			<Stages.0.DisplayName>Kekacauan</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Kekosongan</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Asal</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>bawaan</Stages.1.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Chaos</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Emptiness</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Origin</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Inborn</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Konstitusi rendah.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Lahir Qi</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>bawaan</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Bentuk Lahir</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Menggabungkan</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Bahan</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Kehidupan Lahir</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.1.DisplayName>Mengentalkan</Stages.3.Necks.1.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Born Qi</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Innate</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Born Shape</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Combine</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Material</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Born Life</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Congeal</Stages.3.Necks.1.DisplayName>
 			<Stages.4.DisplayName>Taiji</Stages.4.DisplayName>
 			<Stages.4.Necks.0.DisplayName>YinYang</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>Membuat</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Create</Stages.4.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
