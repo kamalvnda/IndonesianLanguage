@@ -1,13 +1,13 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Turtle_1">
-			<Prefix>angker</Prefix>
-			<Suffix>Taoisme</Suffix>
-			<Desc>Tubuh misterius yang diwarisi dari garis keturunan Klan Iblis Penyu Purba. Menggunakan kekuatan dao membuat cangkangnya lebih kuat. Budidaya yang berhasil akan menghasilkan tubuh yang nyaris tak terkalahkan.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.\n Meningkatkan peluang sukses dalam pertahanan Fisik Misterius secara signifikan.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.</Levels.1.Desc>
+			<Prefix>Creed Endurance</Prefix>
+			<Suffix>Shell</Suffix>
+			<Desc>Sebuah tubuh rahasia yang diturunkan oleh orang bijak penyu kuno yang membentuk kembali cangkangnya dengan Force of Creed. Setelah tercapai, hampir mustahil untuk ditembus.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan rahasia tubuh dalam jumlah sedang.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>
