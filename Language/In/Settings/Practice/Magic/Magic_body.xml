@@ -1,28 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Body_ModifierTest">
-			<Desc>Lakukan mantra dengan modifikasi tambahan. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<Desc>Tunjukkan keajaiban dengan menambahkan pengubah, yang akan dihapus jika dirilis lagi.</Desc>
 		</Text>
 		<Text Name="Magic_Body_JingXi">
-			<DisplayName>Berjalan di Jalan Paus</DisplayName>
-			<Desc>Suatu metode menggerakkan nafas untuk meningkatkan efisiensi pernafasan hingga 100 kali lipat dari metode pernafasan normal sebelumnya. Setelah menggunakan mantra ini Dada dan paru-paru pengguna akan terkena penggunaan yang sangat berat sehingga efisiensi jalan nafas akan sangat berkurang selama jangka waktu 10 hari.</Desc>
-			<TargetDesc>Posisi untuk digunakan dalam pernapasan</TargetDesc>
+			<DisplayName>Whale Breathing</DisplayName>
+			<Desc>Memulai pernapasan intens di lokasi yang ditentukan dengan efisiensi 100x dari metode normal. Dada dan paru-paru akan kelebihan beban setelah menggunakan mantra ini dan efisiensi pernapasan akan berkurang drastis dalam sepuluh hari ke depan.</Desc>
+			<TargetDesc>Pilih lokasi untuk memulai Pernapasan.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Body_TuJin">
-			<DisplayName>Melahap hidup</DisplayName>
-			<Desc>Gunakan Fisik Misterius untuk mempercepat fungsi tubuh dan langsung mengonsumsi energi dari langit dan bumi untuk mengisi kembali energi yang hilang. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Devouring Mouth</DisplayName>
+			<Desc>Melepaskan Mulut yang Memangsa. Penggunaan tubuh rahasia ini dapat mempercepat fungsi tubuh dan langsung melahap energi dari langit dan bumi untuk diisi ulang. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_Body_ChiYi1">
-			<DisplayName>Menghabiskan hidup</DisplayName>
-			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Ini akan sangat mempercepat umur pengguna dan kecepatan pemurnian. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Fleeting Life</DisplayName>
+			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan kecepatan pembentukan kembali. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_Body_ChiYi2">
-			<DisplayName>membakar kehidupan</DisplayName>
-			<Desc>Gunakan qi sejati yang diciptakan dengan mengonsumsi qi hidup Anda sendiri. Hal ini akan sangat mempercepat tingkat pemanfaatan umur pengguna dan meningkatkan tingkat keberhasilan perkembangan tubuh tingkat lanjut saat menempa tubuh. Untuk membatalkan mantra, tekan untuk menggunakan mantra itu lagi.</Desc>
+			<DisplayName>Fallacious Life</DisplayName>
+			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan efisiensi pencetakan ulang. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
 		</Text>
 		<Text Name="Magic_Body_Banyunqixue">
-			<DisplayName>perpindahan energi</DisplayName>
-			<Desc>Gunakan 50 inti kehidupan untuk menstimulasi energi ke seluruh tubuh guna mempercepat pemulihan dan menyembuhkan luka selama 100 detik.</Desc>
+			<DisplayName>Transporting Energy</DisplayName>
+			<Desc>Menghabiskan 50 Life Essence untuk mengarahkan energi dari seluruh tubuh untuk menyembuhkan lukanya sendiri, bertahan 100 detik.</Desc>
 		</Text>
 	</List>
 </Texts>
