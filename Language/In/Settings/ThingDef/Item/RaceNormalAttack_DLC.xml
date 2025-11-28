@@ -1,29 +1,29 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Panda_NormalAttack" sParam="Item">
-			<ThingName>Serangan Panda</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Panda Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYPanda_NormalAttack" sParam="Item">
-			<ThingName>Pukulan Panda</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Serangan Iblis Bumi</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Serangan Iblis Bumi</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Serangan Iblis Bumi</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Panda Punch</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Earth-demon Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Earth-demon Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Earth-demon Charge</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="LsPanda1_NormalAttack" sParam="Item">
-			<ThingName>Inti Panda Ilahi</ThingName>
+			<ThingName>Divine Panda Core</ThingName>
 			<Item.Equip.AtkDamage.0.DescTags>Thunder of Yang</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Thunder of Yang</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Thunder of Yang</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="LsPanda2_NormalAttack" sParam="Item">
-			<ThingName>Inti Panda Ilahi</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Guntur Yin</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Guntur Yin</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Guntur Yin</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Divine Panda Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Thunder of Yin</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Thunder of Yin</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Thunder of Yin</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 	</List>
 </Texts>
