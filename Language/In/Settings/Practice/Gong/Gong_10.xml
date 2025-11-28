@@ -4,23 +4,23 @@
 			<DisplayName>True Sun Refining Law</DisplayName>
 			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Dengan bantuan Yang Kecil, Yang Adil, dan Yang Besar, ciptakan api dari tiga kekuatan Langit, Bumi, dan Manusia. Apinya akan sangat dahsyat dan menerangi segala sesuatu yang ada di dalam Hukumnya. Namun, proses budidayanya bisa sangat berbahaya. Api sejati bahkan mungkin melenyapkan seluruh keberadaan seseorang jika budidayanya salah.</Desc>
 			<SelectDesc>Seseorang akan unggul dalam mantra ketika mengolah Hukum ini, namun terobosannya akan relatif berisiko. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Api Buatan Manusia</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Percikan</Stages.0.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Man-made Fire</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Spark</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>Rasakan percikan alami seseorang dan nyalakan. Ini menandai awal dari budidaya.[color=#D06508]\nGagal menyalakan percikan api dapat menyebabkan cedera meridian.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Api Buatan Manusia</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Man-made Fire</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>Kumpulkan api sejati di gerbang pikiran untuk menyalakan api di pikiran seseorang dan terhubung dengan langit dan bumi.[color=#D06508]\nJika terjadi kesalahan, api yang sebenarnya akan meluap dan membakar seluruh tubuh seseorang, menyebabkan rasa sakit yang luar biasa.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.1.DisplayName>Api Bumi</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Puputan</Stages.1.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Earth Fire</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Bellows</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>Gunakan tubuh seseorang sebagai penghembus untuk menyalakan api yang sebenarnya dan membentuk kembali tulang seseorang sebagai persiapan untuk membentuk Pil Api.[color=#D06508]\nJika terjadi kesalahan, api yang sebenarnya akan menyerang tulang seseorang dan menyebabkan penipisan sumsum. Berpikirlah dua kali sebelum melakukan terobosan.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Api Bumi</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>Api Surga</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Pembawa Lampu</Stages.2.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Earth Fire</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Heaven Fire</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Lamp Bearer</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>Kumpulkan seluruh semangat di hati dan nyalakan Api Hati.[color=#D06508]\nJika terjadi kesalahan, Qi akan meledak dan membakar hati seseorang. Persiapkan terlebih dahulu sebelum melakukan terobosan.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>api langit</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Api Ilahi</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Semangat Diterangi</Stages.3.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Skyfire</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Divine Fire</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Spirit Illuminated</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>Mencerahkan semangat seseorang dengan berkah surga. Seseorang akan menghadapi Kesengsaraan Surgawi setelah melanggar batas ini.[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Kenaikan</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Ascension</Stages.3.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
