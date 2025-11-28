@@ -1,146 +1,146 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FacialScar">
-			<DisplayName>bekas luka</DisplayName>
+			<DisplayName>Scarface</DisplayName>
 			<Desc>Ada bekas luka yang mengerikan di wajah orang ini.</Desc>
 		</Text>
 		<Text Name="UglyFace1">
-			<DisplayName>Kurang menarik</DisplayName>
+			<DisplayName>Unattractive</DisplayName>
 			<Desc>Orang ini terlihat terlalu jelek untuk disukai.</Desc>
 		</Text>
 		<Text Name="UglyFace2">
-			<DisplayName>Jelek</DisplayName>
+			<DisplayName>Ugly</DisplayName>
 			<Desc>Orang ini terlihat terlalu menakutkan untuk menjadi manusia.</Desc>
 		</Text>
 		<Text Name="BeautifulFace1">
-			<DisplayName>Tampan</DisplayName>
+			<DisplayName>Handsome</DisplayName>
 			<Desc>Orang ini sangat tampan.</Desc>
 		</Text>
 		<Text Name="BeautifulFace2">
-			<DisplayName>Sangat indah</DisplayName>
+			<DisplayName>Gorgeous</DisplayName>
 			<Desc>Orang ini sangat tampan.</Desc>
 		</Text>
 		<Text Name="OldViscusInjury">
-			<DisplayName>Organ Rusak</DisplayName>
+			<DisplayName>Damaged Organs</DisplayName>
 			<Desc>Organ dalam orang ini telah rusak parah dan tidak dapat disembuhkan.</Desc>
 		</Text>
 		<Text Name="CrippleLeft">
-			<DisplayName>Pincang (Kiri)</DisplayName>
+			<DisplayName>Limp (Left)</DisplayName>
 			<Desc>Orang ini mengalami pincang pada kaki kirinya karena penyakit jangka panjang.</Desc>
 		</Text>
 		<Text Name="CrippleRight">
-			<DisplayName>Pincang (kanan)</DisplayName>
+			<DisplayName>Limp (Right)</DisplayName>
 			<Desc>Orang ini mengalami pincang pada kaki kanannya karena penyakit jangka panjang.</Desc>
 		</Text>
 		<Text Name="BanLeftTibia">
-			<DisplayName>Kaki Terputus (Kiri)</DisplayName>
+			<DisplayName>Severed Leg (Left)</DisplayName>
 			<Desc>Kaki kiri orang ini telah putus.</Desc>
 		</Text>
 		<Text Name="BanRightTibia">
-			<DisplayName>Kaki Terputus (Kanan)</DisplayName>
+			<DisplayName>Severed Leg (Right)</DisplayName>
 			<Desc>Kaki kiri orang ini telah putus.</Desc>
 		</Text>
 		<Text Name="BanLeftScapula">
-			<DisplayName>Lengan Terputus (Kiri)</DisplayName>
+			<DisplayName>Severed Arm (Left)</DisplayName>
 			<Desc>Seluruh lengan kiri orang ini telah putus.</Desc>
 		</Text>
 		<Text Name="BanRightScapula">
-			<DisplayName>Lengan Terputus (Kanan)</DisplayName>
+			<DisplayName>Severed Arm (Right)</DisplayName>
 			<Desc>Seluruh lengan kanan orang ini telah putus.</Desc>
 		</Text>
 		<Text Name="Deaf">
-			<DisplayName>Tuli</DisplayName>
+			<DisplayName>Deaf</DisplayName>
 			<Desc>Orang ini terlahir tuli.</Desc>
 		</Text>
 		<Text Name="BanLeftEye">
-			<DisplayName>Buta (Kiri)</DisplayName>
+			<DisplayName>Blind (Left)</DisplayName>
 			<Desc>Buta di mata kiri.</Desc>
 		</Text>
 		<Text Name="BanRightEye">
-			<DisplayName>Buta (Kanan)</DisplayName>
+			<DisplayName>Blind (Right)</DisplayName>
 			<Desc>Buta pada mata kanannya.</Desc>
 		</Text>
 		<Text Name="BanLeftEar">
-			<DisplayName>Tunarungu (Kiri)</DisplayName>
+			<DisplayName>Deaf (Left)</DisplayName>
 			<Desc>Tuli di telinga kiri.</Desc>
 		</Text>
 		<Text Name="BanRightEar">
-			<DisplayName>Tunarungu (Kanan)</DisplayName>
+			<DisplayName>Deaf (Right)</DisplayName>
 			<Desc>Tuli di telinga kanan.</Desc>
 		</Text>
 		<Text Name="MeridianIncomplete">
-			<DisplayName>Meridian Rusak</DisplayName>
+			<DisplayName>Broken Meridians</DisplayName>
 			<Desc>Orang ini terlahir dengan meridian yang rusak.</Desc>
 		</Text>
 		<Text Name="HealthOverdraft1">
-			<DisplayName>Terlalu melelahkan</DisplayName>
+			<DisplayName>Overstrain</DisplayName>
 			<Desc>Orang ini kurang memperhatikan kesehatannya, dan memiliki umur yang lebih pendek dibandingkan orang lain.</Desc>
 		</Text>
 		<Text Name="HealthOverdraft2">
-			<DisplayName>Lelah</DisplayName>
+			<DisplayName>Exhausted</DisplayName>
 			<Desc>Orang ini tidak memperhatikan kesehatannya dan memiliki umur yang jauh lebih pendek dibandingkan orang lain.</Desc>
 		</Text>
 		<Text Name="HealthMaintain1">
-			<DisplayName>Sehat</DisplayName>
+			<DisplayName>Healthy</DisplayName>
 			<Desc>Orang ini tahu bagaimana menjaga kesehatan dan memiliki umur yang lebih panjang dibandingkan orang lain.</Desc>
 		</Text>
 		<Text Name="HealthMaintain2">
-			<DisplayName>Kuat</DisplayName>
+			<DisplayName>Vigorous</DisplayName>
 			<Desc>Orang ini tahu bagaimana menjaga kesehatan dan memiliki umur yang lebih panjang dibandingkan orang lain.</Desc>
 		</Text>
 		<Text Name="ColdPatience">
-			<DisplayName>Tahan dingin</DisplayName>
+			<DisplayName>Cold-resistant</DisplayName>
 			<Desc>Orang ini tinggal di daerah dingin dan dapat menangani cuaca dingin dengan baik.</Desc>
 		</Text>
 		<Text Name="HotPatience">
-			<DisplayName>Tahan panas</DisplayName>
+			<DisplayName>Heat-resistant</DisplayName>
 			<Desc>Orang ini tinggal di daerah panas dan dapat menangani cuaca panas dengan baik.</Desc>
 		</Text>
 		<Text Name="DarkPatience">
-			<DisplayName>Penghuni Gelap</DisplayName>
+			<DisplayName>Dark Dweller</DisplayName>
 			<Desc>Orang ini menyukai tempat gelap.</Desc>
 		</Text>
 		<Text Name="HighMan">
-			<DisplayName>Tinggi</DisplayName>
+			<DisplayName>Tall</DisplayName>
 			<Desc>Orang ini lebih tinggi dan lebih kuat dari kebanyakan orang, sehingga lebih mungkin menyelesaikan masalah dengan kekerasan.</Desc>
 		</Text>
 		<Text Name="LowMan">
-			<DisplayName>Kecil</DisplayName>
+			<DisplayName>Small</DisplayName>
 			<Desc>Orang ini bertubuh pendek dan kecil seperti anak kecil, sehingga lebih mudah menyelesaikan masalah dengan kecerdasan.</Desc>
 		</Text>
 		<Text Name="NoHair">
-			<DisplayName>Botak</DisplayName>
+			<DisplayName>Bald</DisplayName>
 			<Desc>Orang ini tidak memiliki rambut.</Desc>
 		</Text>
 		<Text Name="LeftHanded">
-			<DisplayName>Kidal</DisplayName>
+			<DisplayName>Left-handed</DisplayName>
 			<Desc>Orang ini kidal.</Desc>
 		</Text>
 		<Text Name="Mute">
-			<DisplayName>Bisu</DisplayName>
+			<DisplayName>Mute</DisplayName>
 			<Desc>Orang ini tidak dapat berbicara dengan orang lain.</Desc>
 		</Text>
 		<Text Name="BanRightMiddleFinger">
-			<DisplayName>Jari Patah</DisplayName>
+			<DisplayName>Broken Finger</DisplayName>
 		</Text>
 		<Text Name="RunFast">
-			<DisplayName>Lincah</DisplayName>
+			<DisplayName>Agile</DisplayName>
 			<Desc>Orang ini sangat lincah dan dapat berjalan sangat cepat.</Desc>
 		</Text>
 		<Text Name="Indigestion">
-			<DisplayName>Gangguan pencernaan</DisplayName>
+			<DisplayName>Indigestion</DisplayName>
 			<Desc>Orang ini mengalami gangguan pencernaan buruk yang menghambat penyerapan nutrisi.</Desc>
 		</Text>
 		<Text Name="IronStomach">
-			<DisplayName>Perut Besi</DisplayName>
+			<DisplayName>Iron Stomach</DisplayName>
 			<Desc>Orang ini memiliki pencernaan yang sangat sehat yang membantu penyerapan nutrisi.</Desc>
 		</Text>
 		<Text Name="GoodEyesight">
-			<DisplayName>Berpenglihatan tajam</DisplayName>
+			<DisplayName>Sharp-sighted</DisplayName>
 			<Desc>Orang ini memiliki penglihatan yang baik dan dapat melihat sangat jauh.</Desc>
 		</Text>
 		<Text Name="ShallowSleep">
-			<DisplayName>Tidur Ringan</DisplayName>
+			<DisplayName>Light Sleeper</DisplayName>
 			<Desc>Orang ini kemungkinan besar akan terbangun di tengah malam.</Desc>
 		</Text>
 	</List>
