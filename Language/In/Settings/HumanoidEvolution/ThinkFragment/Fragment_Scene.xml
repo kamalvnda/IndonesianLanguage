@@ -1,151 +1,151 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SeeTheSky">
-			<DisplayName>Menatap langit</DisplayName>
+			<DisplayName>Skygazing</DisplayName>
 			<SingleFormat.0>Ingin terbang selagi {0} di perbukitan.</SingleFormat.0>
 			<SingleFormat.1>Memikirkan masa lalu yang kabur saat {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="HearEarthQuake">
-			<DisplayName>Mendengar Gempa</DisplayName>
+			<DisplayName>Hearing Earthquake</DisplayName>
 			<SingleFormat.0>Setelah {0}, tidak terjadi apa-apa.</SingleFormat.0>
 			<SingleFormat.1>Setelah {0} lalu terdengar suara aneh.</SingleFormat.1>
 		</Text>
 		<Text Name="HearFarThunder">
-			<DisplayName>Mendengar Guntur</DisplayName>
+			<DisplayName>Hearing Thunder</DisplayName>
 			<SingleFormat.0>Setelah {0} hujan turun.</SingleFormat.0>
 			<SingleFormat.1>Setelah {0}, namun tidak terjadi apa-apa.</SingleFormat.1>
 		</Text>
 		<Text Name="SmellRain">
-			<DisplayName>Hujan berbau</DisplayName>
+			<DisplayName>Smelling rain</DisplayName>
 			<SingleFormat.0>Setelah {0} hujan turun.</SingleFormat.0>
 			<SingleFormat.1>Hari mulai gelap setelah {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="SmellDecay">
-			<DisplayName>Berbau Busuk</DisplayName>
+			<DisplayName>Smelling Rotten</DisplayName>
 			<SingleFormat.0>Mungkin ada sesuatu yang {0}.</SingleFormat.0>
 			<SingleFormat.1>Setelah {0}, ada yang tidak beres.</SingleFormat.1>
 		</Text>
 		<Text Name="HearLoud">
-			<DisplayName>Mendengar kenyaringan</DisplayName>
+			<DisplayName>Hearing loudness</DisplayName>
 			<SingleFormat.0>Setelah {0}, melompat ketakutan.</SingleFormat.0>
 		</Text>
 		<Text Name="ClimbHigh">
-			<DisplayName>Pendakian</DisplayName>
+			<DisplayName>Climbing</DisplayName>
 			<SingleFormat.0>Suka {0} gunung yang sulit.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeStone">
-			<DisplayName>Menonton Batu Besar</DisplayName>
+			<DisplayName>Watching Boulders</DisplayName>
 			<SingleFormat.0>Mengingat {0} dan Mempelajari Batu Besar.</SingleFormat.0>
 		</Text>
 		<Text Name="Memory">
-			<DisplayName>Mengingat</DisplayName>
+			<DisplayName>Recalling</DisplayName>
 			<SingleFormat.0>Setelah {0} sesuatu, terasa lebih muda.</SingleFormat.0>
 			<SingleFormat.1>Tidak menyukai {0} pemikiran tentang masa lalu yang penuh gejolak.</SingleFormat.1>
 		</Text>
 		<Text Name="SeeDisciples">
-			<DisplayName>Menonton berpakaian</DisplayName>
+			<DisplayName>Watching dressing</DisplayName>
 		</Text>
 		<Text Name="SeeSwords">
-			<DisplayName>Menonton terbang</DisplayName>
+			<DisplayName>Watching fly</DisplayName>
 		</Text>
 		<Text Name="SeeTrain">
-			<DisplayName>Menonton duduk</DisplayName>
+			<DisplayName>Watching sit</DisplayName>
 		</Text>
 		<Text Name="SeePlay">
-			<DisplayName>Menonton permainan</DisplayName>
+			<DisplayName>Watching play</DisplayName>
 		</Text>
 		<Text Name="SeeAround">
-			<DisplayName>Menonton Cahaya</DisplayName>
+			<DisplayName>Watching Light</DisplayName>
 		</Text>
 		<Text Name="SeeScene">
-			<DisplayName>Tamasya</DisplayName>
+			<DisplayName>SightSeeing</DisplayName>
 		</Text>
 		<Text Name="HearAround">
-			<DisplayName>Mendengar Musik</DisplayName>
+			<DisplayName>Hearing Music</DisplayName>
 		</Text>
 		<Text Name="HearWind">
-			<DisplayName>Mendengar angin</DisplayName>
+			<DisplayName>Hearing wind</DisplayName>
 		</Text>
 		<Text Name="HearChat">
-			<DisplayName>Menonton makan</DisplayName>
+			<DisplayName>Watching eating</DisplayName>
 		</Text>
 		<Text Name="HearHeartBeat">
-			<DisplayName>Tenaga Medis yang berbau</DisplayName>
+			<DisplayName>Smelling Medic</DisplayName>
 		</Text>
 		<Text Name="HearTrain">
-			<DisplayName>Menonton pekerjaan</DisplayName>
+			<DisplayName>Watching work</DisplayName>
 		</Text>
 		<Text Name="HearStep">
-			<DisplayName>Menonton kereta</DisplayName>
+			<DisplayName>Watching train</DisplayName>
 		</Text>
 		<Text Name="HearWormBeep">
-			<DisplayName>Mendengar serangga</DisplayName>
+			<DisplayName>Hearing insects</DisplayName>
 		</Text>
 		<Text Name="SmellAround">
-			<DisplayName>Mencium Dupa</DisplayName>
+			<DisplayName>Smelling Incense</DisplayName>
 		</Text>
 		<Text Name="SmellDirt">
-			<DisplayName>Tanah berbau</DisplayName>
+			<DisplayName>Smelling soil</DisplayName>
 		</Text>
 		<Text Name="SmellSelf">
-			<DisplayName>Bulu berbau</DisplayName>
+			<DisplayName>Smelling fur</DisplayName>
 		</Text>
 		<Text Name="SmellMeal">
-			<DisplayName>Makanan Berbau</DisplayName>
+			<DisplayName>Smelling Food</DisplayName>
 			<SingleFormat.0>Saat {0}, hasilnya mengeluarkan air liur.</SingleFormat.0>
 		</Text>
 		<Text Name="SmellFire">
-			<DisplayName>Berbau Bakar</DisplayName>
+			<DisplayName>Smelling Burn</DisplayName>
 		</Text>
 		<Text Name="LickSelf">
-			<DisplayName>Berdering</DisplayName>
+			<DisplayName>Ringing</DisplayName>
 		</Text>
 		<Text Name="Sneeze">
-			<DisplayName>Bersin</DisplayName>
+			<DisplayName>Sneezing</DisplayName>
 		</Text>
 		<Text Name="Dream">
-			<DisplayName>Bermimpi</DisplayName>
+			<DisplayName>Dreaming</DisplayName>
 		</Text>
 		<Text Name="PlaySelf">
-			<DisplayName>Bersenang senang</DisplayName>
+			<DisplayName>Having fun</DisplayName>
 		</Text>
 		<Text Name="DayDream">
-			<DisplayName>Melamun</DisplayName>
+			<DisplayName>Daydreaming</DisplayName>
 		</Text>
 		<Text Name="Sweat">
-			<DisplayName>Berkeringat</DisplayName>
+			<DisplayName>Sweating</DisplayName>
 		</Text>
 		<Text Name="Poo">
-			<DisplayName>Buang air besar</DisplayName>
+			<DisplayName>Defecating</DisplayName>
 		</Text>
 		<Text Name="Wander">
-			<DisplayName>Berbau manis</DisplayName>
+			<DisplayName>Smelling sweet</DisplayName>
 		</Text>
 		<Text Name="Betouch">
-			<DisplayName>Memburu</DisplayName>
+			<DisplayName>Hunting</DisplayName>
 			<SingleFormat.0>Teringat berjalan saat {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Sleep">
-			<DisplayName>Sedang tidur</DisplayName>
+			<DisplayName>Sleeping</DisplayName>
 		</Text>
 		<Text Name="SeeEast">
-			<DisplayName>Menghadap Timur</DisplayName>
+			<DisplayName>Facing East</DisplayName>
 			<SingleFormat.0>Saat {0}, terasa angin sepoi-sepoi yang aneh.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeSouth">
-			<DisplayName>Menghadap Selatan</DisplayName>
+			<DisplayName>Facing South</DisplayName>
 			<SingleFormat.0>Saat {0}, terasa angin sepoi-sepoi yang aneh.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeWest">
-			<DisplayName>Menghadap Barat</DisplayName>
+			<DisplayName>Facing West</DisplayName>
 			<SingleFormat.0>Saat {0}, terasa angin sepoi-sepoi yang aneh.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeNorth">
-			<DisplayName>Menghadap Utara</DisplayName>
+			<DisplayName>Facing North</DisplayName>
 			<SingleFormat.0>Saat {0}, terasa angin sepoi-sepoi yang aneh.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeDirt">
-			<DisplayName>Menghadap ke Bawah</DisplayName>
+			<DisplayName>Facing Down</DisplayName>
 			<SingleFormat.0>Saat {0}, terasa angin sepoi-sepoi yang aneh.</SingleFormat.0>
 		</Text>
 	</List>
