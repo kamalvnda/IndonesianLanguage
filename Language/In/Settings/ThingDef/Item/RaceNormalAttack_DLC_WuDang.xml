@@ -1,31 +1,31 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="XuanWu_NormalAttack" sParam="Item">
-			<ThingName>Inti Yin Kura-kura Hitam</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Naga yang Setara</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Naga yang Setara</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Naga yang Setara</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Naga yang Setara</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Black Tortoise Yin Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Dragon</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Dragon</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Dragon</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Dragon</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="XuanWu_NormalAttack2" sParam="Item">
-			<ThingName>Inti Kura-kura Hitam Yang</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Naga yang Kuat</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Naga yang Kuat</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Naga yang Kuat</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Naga yang Kuat</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Black Tortoise Yang Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Dragon</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Dragon</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Dragon</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Fervent Dragon</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="WuDangYa_NormalAttack" sParam="Item">
-			<ThingName>Serangan Bebek Wudang</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gaya Pedang Tak Terbatas</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Wudang Duck Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Infinite Sword Style</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Innate Lesser Yang Sword Qi</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gaya Pedang Tak Terbatas</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Infinite Sword Style</Item.Equip.AtkDamage.2.DescTags>
 			<Item.Equip.AtkDamage.3.DescTags>Innate Lesser Yang Sword Qi</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Tinju Lurus Matahari Ungu</Item.Equip.AtkDamage.4.DescTags>
-			<Item.Equip.AtkDamage.5.DescTags>Tinju Taiji</Item.Equip.AtkDamage.5.DescTags>
-			<Item.Equip.AtkDamage.6.DescTags>Penyapu Langit Mistik</Item.Equip.AtkDamage.6.DescTags>
-			<Item.Equip.AtkDamage.7.DescTags>Tinju Lurus Matahari Ungu</Item.Equip.AtkDamage.7.DescTags>
-			<Item.Equip.AtkDamage.8.DescTags>Tinju Taiji</Item.Equip.AtkDamage.8.DescTags>
-			<Item.Equip.AtkDamage.9.DescTags>Penyapu Langit Mistik</Item.Equip.AtkDamage.9.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Purple Sun Righteous Fist</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Taiji Boxing</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Mystic Sky Sweeper</Item.Equip.AtkDamage.6.DescTags>
+			<Item.Equip.AtkDamage.7.DescTags>Purple Sun Righteous Fist</Item.Equip.AtkDamage.7.DescTags>
+			<Item.Equip.AtkDamage.8.DescTags>Taiji Boxing</Item.Equip.AtkDamage.8.DescTags>
+			<Item.Equip.AtkDamage.9.DescTags>Mystic Sky Sweeper</Item.Equip.AtkDamage.9.DescTags>
 		</Text>
 	</List>
 </Texts>
