@@ -1,95 +1,95 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Cooking">
-			<Events.1.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba mulai merasa rindu kampung halaman.</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] pikiran mulai melayang ke arah[obj_friend].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba ingin makan[obj_food].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. Sambil memasak dalam diam[obj], [name] tiba-tiba mulai memikirkan mereka[obj_relation].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat memasak[obj]sendiri.</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba mulai menangis.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba merasa cemas.</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. Saat memasak[obj], [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.10.Story>
-			<Events.11.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak[obj].</Events.11.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba mulai merasa rindu kampung halaman.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] pikiran mulai melayang ke arah [obj_friend]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba ingin makan [obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. Sambil memasak dalam diam [obj] [name] tiba-tiba mulai memikirkan mereka [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat memasak [obj] sendiri.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba mulai menangis.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba merasa cemas.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. Saat memasak [obj] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.10.Story>
+			<Events.11.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak [obj]</Events.11.Story>
 		</Text>
 		<Text Name="CookingFailed">
-			<Events.1.Story>[name] mencicipinya[obj]buatan sendiri, dan hampir muntah. Benar-benar mengerikan.</Events.1.Story>
-			<Events.2.Story>Sambil membuat[obj], [name] secara tidak sengaja menambahkan semua garam ke dalam wadah. Sungguh mengejutkan!</Events.2.Story>
-			<Events.3.Story>Sambil membuat[obj], [name] Pikirannya mengembara dan setelah mereka akhirnya tersadar kembali ke dunia nyata, makanannya sudah hangus berantakan.</Events.3.Story>
-			<Events.4.Story>Suasana hati mereka dipengaruhi oleh[obj_badmood], [name] membuat kekacauan[obj].</Events.4.Story>
-			<Events.5.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak[obj]; mereka terbawa suasana dan membuat kekacauan[obj].</Events.5.Story>
+			<Events.1.Story>[name] mencicipinya [obj] buatan sendiri, dan hampir muntah. Benar-benar mengerikan.</Events.1.Story>
+			<Events.2.Story>Sambil membuat [obj] [name] secara tidak sengaja menambahkan semua garam ke dalam wadah. Sungguh mengejutkan!</Events.2.Story>
+			<Events.3.Story>Sambil membuat [obj] [name] Pikirannya mengembara dan setelah mereka akhirnya tersadar kembali ke dunia nyata, makanannya sudah hangus berantakan.</Events.3.Story>
+			<Events.4.Story>Suasana hati mereka dipengaruhi oleh [obj_badmood] [name] membuat kekacauan [obj]</Events.4.Story>
+			<Events.5.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak [obj] ; mereka terbawa suasana dan membuat kekacauan [obj]</Events.5.Story>
 		</Text>
 		<Text Name="CookingSucceed">
-			<Events.1.Story>[name] merasa sangat puas, melihat[obj]buatan sendiri.</Events.1.Story>
-			<Events.2.Story>[name] melihat ke[obj]buatan sendiri, dan mau tidak mau mencicipinya terlebih dahulu; itu sangat lezat!</Events.2.Story>
-			<Events.3.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih membuat makanan lezat[obj].</Events.3.Story>
-			<Events.4.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak[obj]; Tentu saja,[obj]ternyata lebih nikmat.</Events.4.Story>
+			<Events.1.Story>[name] merasa sangat puas, melihat [obj] buatan sendiri.</Events.1.Story>
+			<Events.2.Story>[name] melihat ke [obj] buatan sendiri, dan mau tidak mau mencicipinya terlebih dahulu; itu sangat lezat!</Events.2.Story>
+			<Events.3.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih membuat makanan lezat [obj]</Events.3.Story>
+			<Events.4.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri saat memasak [obj] ; Tentu saja, [obj] ternyata lebih nikmat.</Events.4.Story>
 		</Text>
 		<Text Name="DrugProduct">
-			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] merasa rindu kampung halaman saat membuat[obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] pikiran mulai melayang ke arah[obj_friend]saat membuat[obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing]saat membuat[obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba ingin makan[obj_food]saat membuat[obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai memikirkan mereka[obj_relation]ketika diam-diam membuat[obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat membuat[obj]sendiri.</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai menangis ketika membuat[obj].</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasa cemas ketika membuat[obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]saat membuat[obj].</Events.9.Story>
-			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.10.Story>
-			<Events.11.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil membuat[obj].</Events.11.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_weather] [name] merasa rindu kampung halaman saat membuat [obj]</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] [name] pikiran mulai melayang ke arah [obj_friend] saat membuat [obj]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] saat membuat [obj]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba ingin makan [obj_food] saat membuat [obj]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai memikirkan mereka [obj_relation] ketika diam-diam membuat [obj]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat membuat [obj] sendiri.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai menangis ketika membuat [obj]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasa cemas ketika membuat [obj]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] saat membuat [obj]</Events.9.Story>
+			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.10.Story>
+			<Events.11.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil membuat [obj]</Events.11.Story>
 		</Text>
 		<Text Name="Handwork">
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] merasa rindu kampung halaman saat membuat[obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] pikiran mulai melayang ke arah[obj_friend]saat membuat[obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing]saat membuat[obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba ingin makan[obj_food]saat membuat[obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai memikirkan mereka[obj_relation]ketika diam-diam membuat[obj].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat membuat[obj]sendiri.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai menangis ketika membuat[obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasa cemas ketika membuat[obj].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]saat membuat[obj].</Events.10.Story>
-			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.11.Story>
-			<Events.12.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil membuat[obj].</Events.12.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] [name] merasa rindu kampung halaman saat membuat [obj]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] [name] pikiran mulai melayang ke arah [obj_friend] saat membuat [obj]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] saat membuat [obj]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba ingin makan [obj_food] saat membuat [obj]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai memikirkan mereka [obj_relation] ketika diam-diam membuat [obj]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat membuat [obj] sendiri.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai menangis ketika membuat [obj]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasa cemas ketika membuat [obj]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] saat membuat [obj]</Events.10.Story>
+			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.11.Story>
+			<Events.12.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil membuat [obj]</Events.12.Story>
 		</Text>
 		<Text Name="Smithing">
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] merasa rindu kampung halaman saat menempa[obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] pikiran mulai melayang ke arah[obj_friend]saat menempa[obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing]saat menempa[obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba ingin makan[obj_food]saat menempa[obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai memikirkan mereka[obj_relation]saat diam-diam menempa[obj].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat menempa[obj]sendiri.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai menangis saat menempa[obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasa cemas saat menempa[obj].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]saat menempa[obj].</Events.10.Story>
-			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.11.Story>
-			<Events.12.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil menempa[obj].</Events.12.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] [name] merasa rindu kampung halaman saat menempa [obj]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] [name] pikiran mulai melayang ke arah [obj_friend] saat menempa [obj]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] saat menempa [obj]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba ingin makan [obj_food] saat menempa [obj]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai memikirkan mereka [obj_relation] saat diam-diam menempa [obj]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat menempa [obj] sendiri.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai menangis saat menempa [obj]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasa cemas saat menempa [obj]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] saat menempa [obj]</Events.10.Story>
+			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.11.Story>
+			<Events.12.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil menempa [obj]</Events.12.Story>
 		</Text>
 		<Text Name="StoneWork">
-			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] merasa rindu kampung halaman saat memoles[obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] pikiran mulai melayang ke arah[obj_friend]saat memoles[obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing]saat memoles[obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba ingin makan[obj_food]saat memoles[obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai memikirkan mereka[obj_relation]saat diam-diam memoles[obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat memoles[obj]sendiri.</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai menangis saat memoles[obj].</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasa cemas saat memoles[obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]saat memoles[obj].</Events.9.Story>
-			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.10.Story>
-			<Events.11.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil memoles[obj].</Events.11.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_weather] [name] merasa rindu kampung halaman saat memoles [obj]</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] [name] pikiran mulai melayang ke arah [obj_friend] saat memoles [obj]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] saat memoles [obj]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba ingin makan [obj_food] saat memoles [obj]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai memikirkan mereka [obj_relation] saat diam-diam memoles [obj]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat memoles [obj] sendiri.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai menangis saat memoles [obj]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasa cemas saat memoles [obj]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] saat memoles [obj]</Events.9.Story>
+			<Events.10.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.10.Story>
+			<Events.11.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil memoles [obj]</Events.11.Story>
 		</Text>
 		<Text Name="Sew">
-			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] merasa rindu kampung halaman saat menjahit[obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] pikiran mulai melayang ke arah[obj_friend]saat menjahit[obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing]saat menjahit[obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba ingin makan[obj_food]saat menjahit[obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai memikirkan mereka[obj_relation]saat menjahit diam-diam[obj].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat menjahit[obj]sendiri.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba mulai menangis saat menjahit[obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasa cemas saat menjahit[obj].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] tiba-tiba merasakan keinginan untuk berkunjung[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]saat menjahit[obj].</Events.10.Story>
-			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh[obj_badmood], [name] masih melakukan yang terbaik untuk membuatnya[obj].</Events.11.Story>
-			<Events.12.Story>[name] berada dalam suasana hati yang baik karena[obj_goodmood], dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil menjahit[obj].</Events.12.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather] [name] merasa rindu kampung halaman saat menjahit [obj]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather] [name] pikiran mulai melayang ke arah [obj_friend] saat menjahit [obj]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] saat menjahit [obj]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba ingin makan [obj_food] saat menjahit [obj]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai memikirkan mereka [obj_relation] saat menjahit diam-diam [obj]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Banyak sekali pikiran dan perasaan yang mulai terisi [name] pikiran saat menjahit [obj] sendiri.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba mulai menangis saat menjahit [obj]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasa cemas saat menjahit [obj]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather] [name] tiba-tiba merasakan keinginan untuk berkunjung [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] saat menjahit [obj]</Events.10.Story>
+			<Events.11.Story>Meskipun suasana hati mereka dipengaruhi oleh [obj_badmood] [name] masih melakukan yang terbaik untuk membuatnya [obj]</Events.11.Story>
+			<Events.12.Story>[name] berada dalam suasana hati yang baik karena [obj_goodmood] , dan mau tidak mau bersenandung gembira pada diri mereka sendiri sambil menjahit [obj]</Events.12.Story>
 		</Text>
 	</List>
 </Texts>
