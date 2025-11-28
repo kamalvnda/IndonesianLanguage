@@ -1,32 +1,32 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GodPractice_GodPowerEffect">
-			<DisplayName>Pikiran ilahi</DisplayName>
-			<Desc>Ketika Roh Ilahi meningkat, Karakter dapat menjadi lebih terampil dalam mengendalikan kekuatan ilahi mereka dan menjadi lebih kuat. Di saat yang sama, faktor penyesuaian mood juga akan meningkat.</Desc>
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Ketika Divinity seseorang meningkat, karakter tersebut dapat menggunakan kontrol yang lebih besar terhadap kekuatan ilahi dan dengan demikian menjadi lebih kuat, sementara pada saat yang sama pengganda Mood juga meningkat.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodPowerEffect_A">
-			<DisplayName>Pikiran ilahi</DisplayName>
-			<Desc>Hasil yang terjadi ketika Divine Spirit mencapai level 0-30</Desc>
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Efek aktual untuk nilai Divinity 0-30.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodPowerEffect_B">
-			<DisplayName>Pikiran ilahi</DisplayName>
-			<Desc>Hasil yang terjadi ketika Roh Ilahi mencapai level 30-100</Desc>
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Efek aktual untuk nilai Divinity 30-100.</Desc>
 		</Text>
 		<Text Name="GodPractice_Xinzhai">
-			<DisplayName>Istirahat mental</DisplayName>
-			<Desc>Mengurangi efek emosi untuk sementara melalui pelepasan mental. Semakin banyak waktu yang diperlukan untuk mendetoksifikasi pikiran, semakin lama pula efeknya bertahan. Kondisi mental praktisi tidak akan berubah saat melakukan pemotongan mental.</Desc>
+			<DisplayName>Mind Fasting</DisplayName>
+			<Desc>Mengurangi sementara dampak emosi pada Mood melalui Mind Fasting. Semakin banyak waktu yang dibutuhkan dalam Mind Fasting, semakin lama efeknya bertahan setelah selesai. Kondisi Mental Anda tidak akan berubah selama Puasa Pikiran.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodLike">
-			<DisplayName>Dewa Pengubah Bentuk</DisplayName>
-			<Desc>Meningkatkan sementara level roh dewa ke alam 99,99% selama 300 detik, dan secara permanen meningkatkan roh dewa sebesar 1% setelah mantra berakhir.</Desc>
+			<DisplayName>Deification</DisplayName>
+			<Desc>Sesuaikan Divinity untuk sementara menjadi 99,99% dalam 300 detik, dan dapatkan 1% Divinity secara permanen setelah selesai.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_KeJi">
-			<DisplayName>Eja dirimu sendiri</DisplayName>
-			<Desc>Kembangkan kekuatan iman - manjakan diri Anda sendiri</Desc>
+			<DisplayName>Restrained</DisplayName>
+			<Desc>Pengembangan Iman - Terkendali</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_ZongYu">
-			<DisplayName>melepaskan diri</DisplayName>
-			<Desc>Kembangkan iman - lepaskan diri sendiri</Desc>
+			<DisplayName>Indulging</DisplayName>
+			<Desc>Budidaya Iman - Memanjakan</Desc>
 		</Text>
 	</List>
 </Texts>
