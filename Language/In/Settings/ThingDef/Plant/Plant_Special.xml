@@ -2,24 +2,24 @@
 	<List>
 		<Text Name="Ginseng" sParam="Plant">
 			<ThingName>Ginseng</ThingName>
-			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara [suhu]-30[/suhu] hingga [suhu]40[/suhu]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
 		</Text>
 		<Text Name="GanodermaLucidum" sParam="Plant">
 			<ThingName>Lingzhi</ThingName>
-			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara [temperature]10[/temperature] hingga [temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara[temperature]10[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
 		</Text>
 		<Text Name="Mint" sParam="Plant">
-			<ThingName>Daun Kemurnian</ThingName>
-			<Desc>Bahan obat umum. Bersifat dingin, mempunyai efek menyejukkan dan menenangkan. Tumbuh di lingkungan antara [suhu]-30[/suhu] hingga [suhu]40[/suhu]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<ThingName>Purity Leaf</ThingName>
+			<Desc>Bahan obat umum. Bersifat dingin, mempunyai efek menyejukkan dan menenangkan. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
 		</Text>
 		<Text Name="MagicHerb" sParam="Plant">
-			<ThingName>Daun Roh</ThingName>
-			<Desc>Bahan obat dengan spiritualitas. Seharusnya relatif jarang. Tumbuh di lingkungan antara [suhu]-30[/suhu] hingga [suhu]40[/suhu]. Hanya tumbuh di tempat dengan jumlah Qi tertentu. Ada Daun Roh yang tumbuh di mana-mana di luar Rumah Gua di Puncak Alkemis di Dataran Tengah.</Desc>
+			<ThingName>Spirit Leaf</ThingName>
+			<Desc>Bahan obat dengan spiritualitas. Seharusnya relatif jarang. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu. Ada Daun Roh yang tumbuh di mana-mana di luar Rumah Gua di Puncak Alkemis di Dataran Tengah.</Desc>
 		</Text>
 		<Text Name="WarmHerb" sParam="Plant">
-			<ThingName>Jamur Ulat</ThingName>
+			<ThingName>Caterpillar Fungus</ThingName>
 			<Desc>Ramuan dengan beragam penampilan yang hanya matang di musim dingin dan musim panas. Juga dikenal sebagai "rumput berubah bentuk" di kalangan masyarakat umum. Bila dikonsumsi untuk sementara dapat meningkatkan kemampuan adaptasi seseorang terhadap lingkungan ekstrim.</Desc>
-			<StoryBnts.0.Name>Memanen</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Harvest</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Mencoba memanen dengan mantra.</StoryBnts.0.Desc>
 		</Text>
 	</List>
