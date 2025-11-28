@@ -1,19 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Diaster_Drought">
-			<DisplayName>Bantuan Bencana</DisplayName>
+			<DisplayName>Disaster Relief</DisplayName>
 			<Desc>Telah terjadi kekeringan. Pangan diperlukan untuk mencegah terjadinya kelaparan akibat gagal panen.</Desc>
 		</Text>
 		<Text Name="Diaster_Flood">
-			<DisplayName>Bantuan Bencana</DisplayName>
+			<DisplayName>Disaster Relief</DisplayName>
 			<Desc>Telah terjadi banjir. Batu diperlukan untuk membantu masyarakat membangun bendungan untuk menahan banjir.</Desc>
 		</Text>
 		<Text Name="Diaster_Siberia">
-			<DisplayName>Bantuan Bencana</DisplayName>
+			<DisplayName>Disaster Relief</DisplayName>
 			<Desc>Telah terjadi gelombang dingin. Kayu dibutuhkan untuk membantu manusia tetap hangat.</Desc>
 		</Text>
 		<Text Name="Diaster_EarthQuake">
-			<DisplayName>Bantuan Bencana</DisplayName>
+			<DisplayName>Disaster Relief</DisplayName>
 			<Desc>Telah terjadi gempa bumi. Batu diperlukan untuk membantu masyarakat membangun kembali rumahnya.</Desc>
 		</Text>
 	</List>
