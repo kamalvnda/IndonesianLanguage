@@ -1,52 +1,52 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkillEsoterica_1">
-			<DisplayName>Qi bawaan</DisplayName>
+			<DisplayName>Innate Qi</DisplayName>
 			<Desc>Sebuah teknik dasar yang dipelajari oleh para kultivator. Melibatkan pemusatan Qi di telapak tangan, dan melepaskannya ke arah target.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Qi bawaan[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Qi[/color][/size] bawaan</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_2">
-			<DisplayName>badai api</DisplayName>
+			<DisplayName>Firestorm</DisplayName>
 			<Desc>Memanfaatkan energi unsur api yang berlimpah di seluruh dunia, dan memanipulasinya untuk menghanguskan target.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Firestorm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_3">
-			<DisplayName>Baut Ilahi</DisplayName>
+			<DisplayName>Divine Bolt</DisplayName>
 			<Desc>Memanfaatkan energi unsur Logam yang berlimpah di seluruh dunia, dan memfokuskannya ke dalam aliran Qi untuk menyerang musuh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Baut Ilahi[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Divine Bolt[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_4">
-			<DisplayName>Pukulan jiwa</DisplayName>
+			<DisplayName>Soulsmite</DisplayName>
 			<Desc>Memancarkan sinar cahaya yang sangat cepat ke sasaran, menghancurkan semangat mereka.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Soulsmite[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong1_1">
-			<DisplayName>Obat mujarab surgawi</DisplayName>
+			<DisplayName>Heavenly Panacea</DisplayName>
 			<Desc>Memanggil kekuatan penyembuhan air kuno untuk memulihkan Qi untuk semua karakter ramah.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan Keterampilan: Obat mujarab Surgawi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong3_1">
-			<DisplayName>Pisau Resonansi</DisplayName>
+			<DisplayName>Resonant Blade</DisplayName>
 			<Desc>Gabungkan semangat Anda dengan Artefak, tingkatkan kekuatannya secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan Keterampilan: Pisau Resonansi[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Bilah Resonansi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_1">
-			<DisplayName>Kekacauan Batal</DisplayName>
+			<DisplayName>Chaos Void</DisplayName>
 			<Desc>Memicu kekuatan Chaos Jade untuk membuka portal menuju kehampaan, menimbulkan kerusakan besar pada semua target musuh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan Keterampilan: Chaos Void[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Chaos Void[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_2">
-			<DisplayName>Perisai Roh</DisplayName>
+			<DisplayName>Spirit Shield</DisplayName>
 			<Desc>Meningkatkan efek Qi Shield untuk semua karakter ramah.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Perisai Roh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_3">
-			<DisplayName>Nyanyian Vitalitas</DisplayName>
+			<DisplayName>Vitality Chant</DisplayName>
 			<Desc>Manfaatkan energi restoratif dari hutan untuk memulihkan Qi Anda.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Nyanyian Vitalitas[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong9_1">
-			<DisplayName>Siklus Pembalikan</DisplayName>
+			<DisplayName>Reversa Cycle</DisplayName>
 			<Desc>Manfaatkan siklus transmigrasi reinkarnasi untuk memulihkan Qi Anda secara signifikan.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Siklus Pembalikan[/color][/size]</EffectDesc>
 		</Text>
