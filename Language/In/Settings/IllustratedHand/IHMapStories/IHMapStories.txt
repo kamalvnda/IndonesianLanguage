@@ -10,8 +10,8 @@ ID	MapStoryID	DisplayName	Desc
 9	Secrets_XieDiLing	Pembukaan Makam Kaisar Iblis	Saksikan pembukaan Makam Kaisar Iblis
 10	Secrets_DuGuiXingZong	Kamu Xuan si Penjudi	Bertaruh melawan Ye Xuan si Penjudi
 11	Secrets_TianJi	Jimat Celeste Kuno	Buka rahasia Jimat Celeste Kuno
-12	BaoZang_QingLianShan	Gunung Teratai Biru Abadi	Buka rahasia Gunung Teratai Biru Abadi
+12	BaoZang_QingLianShan	Gunung Immortal Blue Lotus	Buka rahasia Gunung Immortal Blue Lotus
 13	BaoZang_XuanKong	Tempat Tinggal Abadi Giok	Buka rahasia Jade Immortal Abode
 14	BaoZang_ChiLianYuan	Tempat Tinggal Abadi Istana Zamrud	Buka rahasia Emerald Palace Immortal Abode
 15	BaoZang_DengXian	Harta Karun Dong Hua	Buka rahasia Harta Karun Dong Hua
-16	LingWu_JiuHua1	Naga Tersembunyi dan Phoenix Bertengger	Buka rahasia di balik Naga Tersembunyi dan Phoenix Bertengger
+16	LingWu_JiuHua1	Naga Tersembunyi dan Phoenix Bertengger	Buka rahasia di balik Hidden Dragon dan Perched Phoenix
