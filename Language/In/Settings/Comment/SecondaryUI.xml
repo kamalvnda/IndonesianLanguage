@@ -1,203 +1,203 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SystemMessage">
-			<Notes>Komentar pada sistem pesan</Notes>
-			<Title>Sistem pesan</Title>
-			<Desc>Kategori sistem pesan</Desc>
+			<Notes>Comment Panel of System Message</Notes>
+			<Title>System Message</Title>
+			<Desc>Pesan Sistem</Desc>
 		</Text>
 		<Text Name="Architecture">
-			<Notes>Pendapat tentang bangunan</Notes>
-			<Title>bangunan</Title>
-			<Desc>Kategori bangunan</Desc>
+			<Notes>Comment Panel of Building</Notes>
+			<Title>Building Page</Title>
+			<Desc>Halaman Bangunan</Desc>
 		</Text>
 		<Text Name="NpcProperty">
-			<Notes>Komentar tentang status karakter</Notes>
-			<Title>Status karakter</Title>
-			<Desc>Kategori status karakter</Desc>
+			<Notes>Comment Panel of Character Stats</Notes>
+			<Title>Character Stats</Title>
+			<Desc>Statistik Karakter</Desc>
 		</Text>
 		<Text Name="NpcSociality">
-			<Notes>Komentar tentang masyarakat karakter</Notes>
-			<Title>Masyarakat karakter</Title>
-			<Desc>Kategori sosial karakter</Desc>
+			<Notes>Comment Panel of Character Social</Notes>
+			<Title>Character Social</Title>
+			<Desc>Karakter Sosial</Desc>
 		</Text>
 		<Text Name="NpcHealth">
-			<Notes>Pendapat tentang vitalitas karakter</Notes>
-			<Title>kekuatan hidup</Title>
-			<Desc>Kategori kekuatan hidup</Desc>
+			<Notes>Comment Panel of Character Health</Notes>
+			<Title>Health Panel</Title>
+			<Desc>Panel Kesehatan</Desc>
 		</Text>
 		<Text Name="NpcPractice">
-			<Notes>Komentar pada Pengembangan/Pelatihan Karakter</Notes>
-			<Title>karakter</Title>
-			<Desc>Kategori karakter</Desc>
+			<Notes>Comment Panel of Character Cultivation/Training</Notes>
+			<Title>Cultivation Panel</Title>
+			<Desc>Panel Budidaya</Desc>
 		</Text>
 		<Text Name="NpcZhuJi">
-			<Notes>Komentar tentang pelatihan karakter dasar</Notes>
-			<Title>Pelatihan dasar</Title>
-			<Desc>Kategori pelatihan dasar</Desc>
+			<Notes>Comment Panel of Character Foundation Training</Notes>
+			<Title>Foundation Panel</Title>
+			<Desc>Panel Yayasan</Desc>
 		</Text>
 		<Text Name="NpcGnosis">
-			<Notes>Pendapat tentang nilai kecerdasan karakter</Notes>
-			<Title>Nilai kecerdasan</Title>
-			<Desc>Kategori intelijen</Desc>
+			<Notes>Comment Panel of Character Intelligence</Notes>
+			<Title>Intelligence Panel</Title>
+			<Desc>Panel Intelijen</Desc>
 		</Text>
 		<Text Name="NpcEquipment">
-			<Notes>Pendapat tentang perlengkapan karakter</Notes>
-			<Title>peralatan</Title>
-			<Desc>Kategori peralatan</Desc>
+			<Notes>Comment Panel of Character Gear</Notes>
+			<Title>Gear Page</Title>
+			<Desc>Halaman Perlengkapan</Desc>
 		</Text>
 		<Text Name="NpcEquipmentOfBodyPractice">
-			<Notes>Pendapat tentang perlengkapan dan rahasia modifikasi bodi</Notes>
-			<Title>Peralatan dan rahasia modifikasi tubuh</Title>
-			<Desc>Peralatan dan rahasia modifikasi tubuh</Desc>
+			<Notes>Comment Panel of Gear and Secret Body Configurations</Notes>
+			<Title>Gear and Secret Body Configurations Panel</Title>
+			<Desc>Panel Konfigurasi Perlengkapan dan Tubuh Rahasia</Desc>
 		</Text>
 		<Text Name="NpcCombatStyle">
-			<Notes>Mengomentari rencana pertempuran karakter</Notes>
-			<Title>Rencana pertempuran</Title>
-			<Desc>Kategori rencana pertempuran</Desc>
+			<Notes>Comment Panel of Character's Battle Tactic</Notes>
+			<Title>Battle Tactic Panel</Title>
+			<Desc>Panel Taktik Pertempuran</Desc>
 		</Text>
 		<Text Name="NpcDetailProperty">
-			<Notes>Komentar pada detail status karakter</Notes>
-			<Title>Detail status</Title>
-			<Desc>Kategori detail status</Desc>
+			<Notes>Comment Panel of Character's Detailed Stats</Notes>
+			<Title>Detailed Stats Panel</Title>
+			<Desc>Panel Statistik Terperinci</Desc>
 		</Text>
 		<Text Name="NpcDrugResistance">
-			<Notes>Mengomentari resistensi obat karakter</Notes>
-			<Title>Resistensi Obat</Title>
-			<Desc>Kategori resistensi obat</Desc>
+			<Notes>Comment Panel of Character's Medicine Tolerance</Notes>
+			<Title>Medicine Tolerance Panel</Title>
+			<Desc>Panel Toleransi Obat</Desc>
 		</Text>
 		<Text Name="Secret">
-			<Notes>Pendapat tentang misteri</Notes>
-			<Title>Misteri</Title>
-			<Desc>Kategori misteri</Desc>
+			<Notes>Comment Panel of Mystery</Notes>
+			<Title>Mystery Panel</Title>
+			<Desc>Panel Misteri</Desc>
 		</Text>
 		<Text Name="Character">
-			<Notes>Pendapat tentang NPC</Notes>
-			<Title>NPC</Title>
-			<Desc>kategori NPC</Desc>
+			<Notes>Comment Panel of NPC</Notes>
+			<Title>NPC Panel</Title>
+			<Desc>Panel NPC</Desc>
 		</Text>
 		<Text Name="Clue">
-			<Notes>Komentar tentang petunjuk</Notes>
-			<Title>petunjuk</Title>
-			<Desc>Kategori petunjuk</Desc>
+			<Notes>Comment Panel of Clue</Notes>
+			<Title>Clue Panel</Title>
+			<Desc>Panel Petunjuk</Desc>
 		</Text>
 		<Text Name="ZhenGraph">
-			<Notes>Pendapat tentang tata letak kamp</Notes>
-			<Title>Tata letak kamp</Title>
-			<Desc>Kategori tata letak kamp</Desc>
+			<Notes>Comment Panel of Formation Diagram</Notes>
+			<Title>Formation Diagram Panel</Title>
+			<Desc>Panel Diagram Formasi</Desc>
 		</Text>
 		<Text Name="ZhenEdit">
-			<Notes>Pendapat tentang penyesuaian kamp</Notes>
-			<Title>Kustomisasi mekanis</Title>
-			<Desc>Kategori kustomisasi mekanis</Desc>
+			<Notes>Comment Panel of Formation Edit</Notes>
+			<Title>Formation Edit Panel</Title>
+			<Desc>Panel Edit Formasi</Desc>
 		</Text>
 		<Text Name="ZhenEyesOverview">
-			<Notes>Pendapat tentang unsur kubu</Notes>
-			<Title>elemen perkemahan</Title>
-			<Desc>Kategori elemen kamp</Desc>
+			<Notes>Comment Panel of Auxiliary Overview</Notes>
+			<Title>Auxiliary Overview Panel</Title>
+			<Desc>Panel Ikhtisar Tambahan</Desc>
 		</Text>
 		<Text Name="WorkSchedule">
-			<Notes>Pendapat tentang jadwal kerja</Notes>
-			<Title>Jadwal kerja</Title>
-			<Desc>Kategori jadwal kerja</Desc>
+			<Notes>Comment Panel of Work Schedule</Notes>
+			<Title>Work Schedule Panel</Title>
+			<Desc>Panel Jadwal Kerja</Desc>
 		</Text>
 		<Text Name="SectOverview">
-			<Notes>Pendapat tentang kantor secara keseluruhan</Notes>
-			<Title>kantor</Title>
-			<Desc>kantor</Desc>
+			<Notes>Comment Panel of Sect Overview</Notes>
+			<Title>Sect Panel</Title>
+			<Desc>Panel Sekte</Desc>
 		</Text>
 		<Text Name="SectStructure">
-			<Notes>Pendapat tentang rencana pembangunan kantor</Notes>
-			<Title>Rencana pembangunan kantor</Title>
-			<Desc>Rencana pembangunan kantor</Desc>
+			<Notes>Comment Panel of Sect Structure</Notes>
+			<Title>Sect Structure Panel</Title>
+			<Desc>Panel Struktur Sekte</Desc>
 		</Text>
 		<Text Name="SectFollower">
-			<Notes>Pendapat tentang siswa di sekte tersebut</Notes>
-			<Title>murid sekte</Title>
-			<Desc>murid sekte</Desc>
+			<Notes>Comment Panel of Sect Disciple</Notes>
+			<Title>Sect Disciple Panel</Title>
+			<Desc>Panel Murid Sekte</Desc>
 		</Text>
 		<Text Name="SectRelationship">
-			<Notes>Pendapat tentang diplomasi Biro</Notes>
-			<Title>Diplomasi Biro</Title>
-			<Desc>Diplomasi Biro</Desc>
+			<Notes>Comment Panel of Sect Diplomacy</Notes>
+			<Title>Sect Diplomacy Panel</Title>
+			<Desc>Panel Diplomasi Sekte</Desc>
 		</Text>
 		<Text Name="PowerManagement">
-			<Notes>Pendapat tentang manajemen daya</Notes>
-			<Title>Manajemen Daya</Title>
+			<Notes>Comment Panel of Power Management</Notes>
+			<Title>Power Management</Title>
 		</Text>
 		<Text Name="SectGift">
-			<Notes>Pendapat tentang pengiriman hadiah kantor</Notes>
-			<Title>hadiah</Title>
-			<Desc>Hadiah kantor</Desc>
+			<Notes>Comment Panel of Sect Gift</Notes>
+			<Title>Gift</Title>
+			<Desc>Hadiah Sekte</Desc>
 		</Text>
 		<Text Name="SectTransaction">
-			<Notes>Komentar tentang perdagangan antar sekte</Notes>
-			<Title>Perdagangan antar sekte</Title>
-			<Desc>Perdagangan antar sekte</Desc>
+			<Notes>Comment Panel of Sect Trade</Notes>
+			<Title>Sect Trade</Title>
+			<Desc>Perdagangan Sekte</Desc>
 		</Text>
 		<Text Name="SectMessageManagement">
-			<Notes>Komentar pada pesan kantor</Notes>
-			<Title>pesan biro</Title>
-			<Desc>pesan biro</Desc>
+			<Notes>Comment Panel of Sect Messages</Notes>
+			<Title>Sect Messages</Title>
+			<Desc>Pesan Sekte</Desc>
 		</Text>
 		<Text Name="SectLaws">
-			<Notes>Komentar tentang peraturan kantor</Notes>
-			<Title>Peraturan Kantor</Title>
-			<Desc>Peraturan Kantor</Desc>
+			<Notes>Comment Panel of Sect Rules</Notes>
+			<Title>Sect Rules</Title>
+			<Desc>Aturan Sekte</Desc>
 		</Text>
 		<Text Name="PedlarTransaction">
-			<Notes>Pendapat tentang perdagangan</Notes>
-			<Title>berdagang</Title>
-			<Desc>berdagang</Desc>
+			<Notes>Comment Panel of Trade</Notes>
+			<Title>Trade</Title>
+			<Desc>Berdagang</Desc>
 		</Text>
 		<Text Name="KeyholeReport">
-			<Notes>Pendapat tentang kerahasiaan</Notes>
-			<Title>rahasia</Title>
-			<Desc>rahasia</Desc>
+			<Notes>Comment Panel of Secret</Notes>
+			<Title>Secret</Title>
+			<Desc>Rahasia</Desc>
 		</Text>
 		<Text Name="RefineBody">
-			<Notes>Pendapat tentang penempaan</Notes>
-			<Title>menempa</Title>
-			<Desc>menempa</Desc>
+			<Notes>Comment Panel of Remold</Notes>
+			<Title>Remold Panel</Title>
+			<Desc>Panel Cetakan Ulang</Desc>
 		</Text>
 		<Text Name="DomesticateSpiritBeast">
-			<Notes>Pendapat tentang beternak hewan sekte setan</Notes>
-			<Title>Memelihara hewan sekte iblis</Title>
-			<Desc>Memelihara hewan sekte iblis</Desc>
+			<Notes>Comment Panel of Pet Raising</Notes>
+			<Title>Pet Raising</Title>
+			<Desc>Pemeliharaan Hewan Peliharaan</Desc>
 		</Text>
 		<Text Name="TrainSpiritBeast">
-			<Notes>Pendapat tentang pelatihan binatang sekte iblis</Notes>
-			<Title>Mengolah Binatang Iblis</Title>
-			<Desc>Mengolah Binatang Iblis</Desc>
+			<Notes>Comment Panel of Pet Training</Notes>
+			<Title>Pet Training</Title>
+			<Desc>Pelatihan Hewan Peliharaan</Desc>
 		</Text>
 		<Text Name="FeedSpiritBeast">
-			<Notes>Pendapat tentang nutrisi binatang sekte setan</Notes>
-			<Title>Nutrisi Sekte Setan</Title>
-			<Desc>Nutrisi Sekte Setan</Desc>
+			<Notes>Comment Panel of Pet Food Nutrition</Notes>
+			<Title>Pet Food Nutrition</Title>
+			<Desc>Nutrisi Makanan Hewan Peliharaan</Desc>
 		</Text>
 		<Text Name="BehaviorRecordSpiritBeast">
-			<Notes>Pendapat tentang perilaku hewan sekte setan</Notes>
-			<Title>Perilaku hewan sekte iblis</Title>
-			<Desc>Perilaku hewan sekte iblis</Desc>
+			<Notes>Comment Panel of Pet Behavior Records</Notes>
+			<Title>Pet Behavior</Title>
+			<Desc>Perilaku Hewan Peliharaan</Desc>
 		</Text>
 		<Text Name="EmotionAndThinkingOfAnimal">
-			<Notes>Pendapat tentang pemikiran dan gagasan</Notes>
-			<Title>pemikiran dan gagasan</Title>
-			<Desc>pemikiran dan gagasan</Desc>
+			<Notes>Comment Panel of Thought and Thinking</Notes>
+			<Title>Thought and Thinking</Title>
+			<Desc>Berpikir dan Berpikir</Desc>
 		</Text>
 		<Text Name="EmotionATarget">
-			<Notes>Mengenai kesadaran: Komentar tentang kesadaran.</Notes>
-			<Title>Pemikiran: Kesadaran</Title>
-			<Desc>Salah satu dari tiga prinsip Pecahan kristal kesadaran dapat digabungkan menjadi satu kesadaran.</Desc>
+			<Notes>About Thought: Comment Panel of Realization</Notes>
+			<Title>Thought: Realization</Title>
+			<Desc>Tiga fragmen Pikiran Realisasi yang identik dapat digabungkan menjadi satu Pikiran Realisasi.</Desc>
 		</Text>
 		<Text Name="EmotionAScene">
-			<Notes>Mengenai pikiran: Pendapat tentang rasionalitas.</Notes>
-			<Title>Pemikiran: Rasionalitas</Title>
-			<Desc>Salah satu dari tiga prinsip Fragmen kristal nalar dapat digabungkan menjadi satu rasionalitas.</Desc>
+			<Notes>About Thought: Comment Panel of Rationality</Notes>
+			<Title>Thought: Rationality</Title>
+			<Desc>Tiga penggalan Pemikiran Rasionalitas yang identik dapat digabungkan menjadi satu Pemikiran Rasionalitas.</Desc>
 		</Text>
 		<Text Name="EmotionAEmotion">
-			<Notes>Konseptual: Pendapat tentang konsep.</Notes>
-			<Title>ide: konsep</Title>
-			<Desc>Salah satu dari tiga prinsip Fragmen pemikiran kristal dapat digabungkan menjadi satu konsep.</Desc>
+			<Notes>About Thought: Comment Panel of Perception</Notes>
+			<Title>Thought: Perception</Title>
+			<Desc>Tiga fragmen Pikiran Persepsi yang identik dapat digabungkan menjadi satu Pikiran Persepsi.</Desc>
 		</Text>
 	</List>
 </Texts>
