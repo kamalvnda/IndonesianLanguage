@@ -1,114 +1,114 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SlotSuit_School_1">
-			<DisplayName>Pikiran Kerai</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Sunshade Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_2">
-			<DisplayName>Pikiran Kunlun</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Kunlun Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_3">
-			<DisplayName>Pikiran Skydome</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Skydome Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_4">
-			<DisplayName>Pikiran Awan Ungu</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Purple Cloud Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_5">
-			<DisplayName>Pikiran Persatuan Sejati</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>True Unity Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_6">
-			<DisplayName>Pikiran Teratai Biru</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Blue Lotus Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_7">
-			<DisplayName>Pikiran Evenfall</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Evenfall Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_8">
-			<DisplayName>Pikiran Ratusan Serangga</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Hundred Insects Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_9">
-			<DisplayName>Pikiran Malapetaka</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Doom Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_10">
-			<DisplayName>Pikiran Tujuh Pembantaian</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Seven Slaughters Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 		<Text Name="SlotSuit_School_11">
-			<DisplayName>Pikiran yang Bergembira</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Stabilitas Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Batas Energi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Exultant Mind</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Stability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Operation Ability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Energy Cap Increased</SuitEffect.6.Description>
 		</Text>
 	</List>
 </Texts>
