@@ -1,218 +1,218 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="NormalAttackBase" sParam="Item">
-			<ThingName>Serangan Umum</ThingName>
+			<ThingName>Common Attack</ThingName>
 		</Text>
 		<Text Name="Human_NormalAttack" sParam="Item">
-			<ThingName>Serangan Manusia</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Headbutt, Pukulan</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Tendangan, Pukulan, Headbutt</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Tendangan, Pukulan</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Human Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Headbutt,Strike</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Kick,Punch,Headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick,Punch</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="Zombie_NormalAttack" sParam="Item">
-			<ThingName>Serangan Zombi</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Sundulan, Tendangan</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Zombie Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Headbutt,Kick</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Headbutt</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigit, Pukul</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Gigit, Pukul</Item.Equip.AtkDamage.4.DescTags>
-			<Item.Equip.AtkDamage.5.DescTags>Gigit, Pukul</Item.Equip.AtkDamage.5.DescTags>
-			<Item.Equip.AtkDamage.6.DescTags>Gigit, Pukul</Item.Equip.AtkDamage.6.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Strike</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Bite,Strike</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Bite,Strike</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Bite,Strike</Item.Equip.AtkDamage.6.DescTags>
 		</Text>
 		<Text Name="Rabbit_NormalAttack" sParam="Item">
-			<ThingName>Serangan Kelinci</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Rabbit Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menendang</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menendang</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Ls_Dog_NormalAttack" sParam="Item">
-			<ThingName>Inti Internal Anjing Ilahi</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Divine Dog Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Ls_Fox_NormalAttack" sParam="Item">
-			<ThingName>Inti Internal Rubah Roh</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Spirit Fox Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Ls_Dragon_NormalAttack" sParam="Item">
-			<ThingName>Inti Internal Naga Apung</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Float Dragon Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
-			<ThingName>Inti Internal Phoenix Gelap</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Dark Phoenix Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Charge</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="Chicken_NormalAttack" sParam="Item">
-			<ThingName>Serangan Ayam</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Mematuk</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Cakar</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Chicken Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Peck</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Claw</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="Wolf_NormalAttack" sParam="Item">
-			<ThingName>Serangan Serigala</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Wolf Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Snake_NormalAttack" sParam="Item">
-			<ThingName>Serangan Ular</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menggigit</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menggigit</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Mencekik</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Mencekik</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Mencekik</Item.Equip.AtkDamage.4.DescTags>
-			<Item.Equip.AtkDamage.5.DescTags>Mencekik</Item.Equip.AtkDamage.5.DescTags>
-			<Item.Equip.AtkDamage.6.DescTags>Menggigit</Item.Equip.AtkDamage.6.DescTags>
+			<ThingName>Snake Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Strangle</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Strangle</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Strangle</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Strangle</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Bite</Item.Equip.AtkDamage.6.DescTags>
 		</Text>
 		<Text Name="Boar_NormalAttack" sParam="Item">
-			<ThingName>Serangan Babi Hutan</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menggigit</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menggigit</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Mengenakan biaya</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Mengenakan biaya</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Boar Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Charge</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Bear_NormalAttack" sParam="Item">
-			<ThingName>Serangan Beruang</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Bear Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Turtle_NormalAttack" sParam="Item">
-			<ThingName>Serangan Penyu</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Pukulan balasan</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menggigit</Item.Equip.AtkDamage.1.DescTags>
+			<ThingName>Turtle Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Counterblow</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
 		</Text>
 		<Text Name="Frog_NormalAttack" sParam="Item">
-			<ThingName>Serangan Katak</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menjilat</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Frog Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Lick</Item.Equip.AtkDamage.0.DescTags>
 		</Text>
 		<Text Name="LuShu_NormalAttack" sParam="Item">
-			<ThingName>Serangan Lushu</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menendang</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menendang</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menendang</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menendang</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Invasi Qi</Item.Equip.AtkDamage.4.DescTags>
+			<ThingName>Lushu Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Kick</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Kick</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Invasion of Qi</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="Fei_NormalAttack" sParam="Item">
-			<ThingName>Serangan Fei</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menabrak</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menabrak</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menabrak</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menabrak</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Nafas Wabah</Item.Equip.AtkDamage.4.DescTags>
+			<ThingName>Fei Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Plague's Breath</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="Cat_NormalAttack" sParam="Item">
-			<ThingName>Serangan Kucing</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Cat Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Cattle_NormalAttack" sParam="Item">
-			<ThingName>Serangan Banteng</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menabrak</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menabrak</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menabrak</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Bull Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Tiger_NormalAttack" sParam="Item">
-			<ThingName>Serangan Harimau</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Tiger Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYCat_NormalAttack" sParam="Item">
-			<ThingName>Meong Meong Cakar</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Meow Meow Claw</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYCattle_NormalAttack" sParam="Item">
-			<ThingName>Tanduk yang bermata tajam</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menabrak</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menabrak</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menabrak</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menabrak</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Sharp-edged Horn</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYTiger_NormalAttack" sParam="Item">
-			<ThingName>Fang yang ganas</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Ferocious Fang</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYRabbit_NormalAttack" sParam="Item">
-			<ThingName>Jarum Bulu Kelinci</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menggigit</Item.Equip.AtkDamage.0.DescTags>
+			<ThingName>Hare-fur Needle</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menendang</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Menendang</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYWolf_NormalAttack" sParam="Item">
-			<ThingName>Gigi Serigala</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Gigitan, Cakar</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Wolf Teeth</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYSnake_NormalAttack" sParam="Item">
-			<ThingName>Skala Ular Marah</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Skala Terbang Beracun</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Skala Terbang Beracun</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Skala Terbang Beracun</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Skala Terbang Beracun</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Skala Terbang Beracun</Item.Equip.AtkDamage.4.DescTags>
+			<ThingName>Tempered Snake Scale</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="JYBoar_NormalAttack" sParam="Item">
-			<ThingName>Esensi Batu Lumpur</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya Terra</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya Terra</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya Terra</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Biaya Terra</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Biaya Terra</Item.Equip.AtkDamage.4.DescTags>
-			<Item.Equip.AtkDamage.5.DescTags>Biaya Terra</Item.Equip.AtkDamage.5.DescTags>
+			<ThingName>Mud Stone Essence</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Terra Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Terra Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Terra Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Terra Charge</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Terra Charge</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Terra Charge</Item.Equip.AtkDamage.5.DescTags>
 		</Text>
 		<Text Name="JYBear_NormalAttack" sParam="Item">
-			<ThingName>Cakar Beruang Terbang</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya yang Kuat</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Flying Bear Claw</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Charge</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="JYFrog_NormalAttack" sParam="Item">
-			<ThingName>Penurunan yang Setara</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Menjilat</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Menjilat</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Menjilat</Item.Equip.AtkDamage.2.DescTags>
+			<ThingName>Equable Drop</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Lick</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Lick</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Lick</Item.Equip.AtkDamage.2.DescTags>
 		</Text>
 		<Text Name="JYTurtle_NormalAttack" sParam="Item">
-			<ThingName>Cangkang Penyu Gelap</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Dark Turtle Shell</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
-			<ThingName>Gigi Pelayan Naga</ThingName>
-			<Item.Equip.AtkDamage.0.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.0.DescTags>
-			<Item.Equip.AtkDamage.1.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.1.DescTags>
-			<Item.Equip.AtkDamage.2.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.2.DescTags>
-			<Item.Equip.AtkDamage.3.DescTags>Biaya yang Setara</Item.Equip.AtkDamage.3.DescTags>
+			<ThingName>Dragon Servant Tooth</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 	</List>
 </Texts>
