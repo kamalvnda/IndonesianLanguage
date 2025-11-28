@@ -1,19 +1,19 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="BuildCurb1">
-			<DisplayName>Halangan</DisplayName>
+			<DisplayName>Obstruction</DisplayName>
 			<Desc>Saat membuat keajaiban, beberapa orang mulai membuat keributan tentang Feng Shui di sini.</Desc>
 			<Selections.0.Display>Kalahkan mereka dengan tongkat.</Selections.0.Display>
 			<Selections.1.Display>Debat Feng Shui dengan mereka.</Selections.1.Display>
 		</Text>
 		<Text Name="BuildCurb2">
-			<DisplayName>Halangan</DisplayName>
+			<DisplayName>Obstruction</DisplayName>
 			<Desc>Saat membuat keajaiban, beberapa orang datang untuk menanyakan apa yang terjadi.</Desc>
 			<Selections.0.Display>Abaikan mereka.</Selections.0.Display>
 			<Selections.1.Display>Jelaskan situasinya.</Selections.1.Display>
 		</Text>
 		<Text Name="BuildCurb3">
-			<DisplayName>Halangan</DisplayName>
+			<DisplayName>Obstruction</DisplayName>
 			<Desc>Saat membuat keajaiban, beberapa orang ingin memberi kami hadiah.</Desc>
 			<Selections.0.Display>Suruh mereka kembali besok.</Selections.0.Display>
 			<Selections.1.Display>Terima hadiahnya.</Selections.1.Display>
