@@ -1,252 +1,252 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NI_FSZhenWu">
-			<DisplayName>Negatif - Penyaluran Relik</DisplayName>
+			<DisplayName>Negative - Relic Channeling</DisplayName>
 			<Desc>Peninggalan Feng Shui di ruangan ini bertentangan dengan lingkungan sekitarnya; karakter di dalam ruangan akan terkena dampak negatif dan akibatnya kemampuannya melemah.</Desc>
 		</Text>
 		<Text Name="SHUN_FSZhenWu">
-			<DisplayName>Positif - Penyaluran Relik</DisplayName>
+			<DisplayName>Positive - Relic Channeling</DisplayName>
 			<Desc>Peninggalan Feng Shui di ruangan ini berlaku; karakter di ruangan akan terpengaruh secara positif dan sebagai hasilnya mendapatkan peningkatan kemampuan.</Desc>
 		</Text>
 		<Text Name="FSZhenWu_1">
-			<DisplayName>Bonus Efisiensi Kerja Secara Keseluruhan</DisplayName>
+			<DisplayName>Overall Work Efficiency Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_2">
-			<DisplayName>Bonus Kecepatan Penyembuhan</DisplayName>
+			<DisplayName>Healing Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_3">
-			<DisplayName>Bonus Penyembuhan</DisplayName>
+			<DisplayName>Healing Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_4">
-			<DisplayName>Bonus Kecepatan Memasak</DisplayName>
+			<DisplayName>Cooking Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_5">
-			<DisplayName>Bonus Kecepatan Pemotongan</DisplayName>
+			<DisplayName>Butchering Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_6">
-			<DisplayName>Bonus Hasil Pemotongan Daging</DisplayName>
+			<DisplayName>Butchering Yield Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_7">
-			<DisplayName>Bonus Kecepatan Pengerjaan Batu</DisplayName>
+			<DisplayName>Stoneworking Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_8">
-			<DisplayName>Bonus Kecepatan Membangun</DisplayName>
+			<DisplayName>Building Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_9">
-			<DisplayName>Bonus Kecepatan Bertani</DisplayName>
+			<DisplayName>Farming Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_10">
-			<DisplayName>Bonus Kecepatan Panen</DisplayName>
+			<DisplayName>Harvesting Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_11">
-			<DisplayName>Bonus Hasil Panen</DisplayName>
+			<DisplayName>Harvest Yield Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_12">
-			<DisplayName>Bonus Kecepatan Penambangan</DisplayName>
+			<DisplayName>Mining Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_13">
-			<DisplayName>Bonus Hasil Penambangan</DisplayName>
+			<DisplayName>Mining Yield Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_14">
-			<DisplayName>Bonus Peningkatan Kualitas Kerajinan</DisplayName>
+			<DisplayName>Crafting Quality Gains Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_15">
-			<DisplayName>Bonus Kecepatan Penempaan</DisplayName>
+			<DisplayName>Forging Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_16">
-			<DisplayName>Bonus Kecepatan Kerajinan Tangan</DisplayName>
+			<DisplayName>Handicraft Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_17">
-			<DisplayName>Bonus Kecepatan Menjahit</DisplayName>
+			<DisplayName>Sewing Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_18">
-			<DisplayName>Bonus Kecepatan Pemotongan</DisplayName>
+			<DisplayName>Cutting Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_19">
-			<DisplayName>Bonus Kecepatan Pemadam Kebakaran</DisplayName>
+			<DisplayName>Firefighting Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_20">
-			<DisplayName>Bonus Kecepatan Pembersihan</DisplayName>
+			<DisplayName>Cleaning Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_21">
-			<DisplayName>Bonus Nilai Suasana Hati Dasar</DisplayName>
+			<DisplayName>Base Mood Value Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_22">
-			<DisplayName>Bonus Kecepatan Bergerak</DisplayName>
+			<DisplayName>Move Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_23">
-			<DisplayName>Bonus Toleransi Suhu (Dingin)</DisplayName>
+			<DisplayName>Temperature Tolerance Bonus (Cold)</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_24">
-			<DisplayName>Bonus Toleransi Suhu (Panas)</DisplayName>
+			<DisplayName>Temperature Tolerance Bonus (Hot)</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_25">
-			<DisplayName>Bonus Ketahanan Alami</DisplayName>
+			<DisplayName>Natural Resilience Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_26">
-			<DisplayName>Bonus Toleransi Nyeri</DisplayName>
+			<DisplayName>Pain Tolerance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_27">
-			<DisplayName>Bonus Kecepatan Belajar</DisplayName>
+			<DisplayName>Learning Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_28">
-			<DisplayName>Bonus Peluang Terjadi Mimpi Buruk</DisplayName>
+			<DisplayName>Nightmare Occurring Chance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_29">
-			<DisplayName>Bonus Peluang Terjadi Mimpi Manis</DisplayName>
+			<DisplayName>Sweetdream Occurring Chance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_30">
-			<DisplayName>Bonus Tingkat Konsumsi Energi</DisplayName>
+			<DisplayName>Energy Consumption Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_31">
-			<DisplayName>Bonus Pengisian Energi</DisplayName>
+			<DisplayName>Energy Replenishment Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_32">
-			<DisplayName>Bonus Tingkat Konsumsi Makanan</DisplayName>
+			<DisplayName>Food Consumption Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_33">
-			<DisplayName>Bonus Tingkat Konsumsi Makanan</DisplayName>
+			<DisplayName>Food Consumption Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_34">
-			<DisplayName>Bonus Pengisian Makanan</DisplayName>
+			<DisplayName>Food Replenishment Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_35">
-			<DisplayName>Bonus Tingkat Konsumsi Air</DisplayName>
+			<DisplayName>Water Consumption Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_36">
-			<DisplayName>Bonus Pengisian Air</DisplayName>
+			<DisplayName>Water Replenishment Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_37">
-			<DisplayName>Bonus Tingkat Konsumsi Rekreasi</DisplayName>
+			<DisplayName>Recreation Consumption Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_38">
-			<DisplayName>Bonus Pengisian Rekreasi</DisplayName>
+			<DisplayName>Recreation Replenishment Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_39">
-			<DisplayName>Bonus Kecepatan Penyempurnaan Stamina</DisplayName>
+			<DisplayName>Stamina Refinement Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_40">
 			<Desc>Bonus Pengisian Stamina</Desc>
 		</Text>
 		<Text Name="FSZhenWu_41">
-			<DisplayName>Potensi Bonus</DisplayName>
+			<DisplayName>Potential Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_42">
-			<DisplayName>Bonus Kecepatan Budidaya</DisplayName>
+			<DisplayName>Cultivation Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_43">
-			<DisplayName>Bonus Keadaan Mental</DisplayName>
+			<DisplayName>Mental State Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_44">
-			<DisplayName>Bonus Peluang Pemahaman</DisplayName>
+			<DisplayName>Comprehension Chance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_45">
-			<DisplayName>Bonus Kecepatan Pembuatan Artefak</DisplayName>
+			<DisplayName>Artifact Crafting Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_46">
-			<DisplayName>Bonus Tingkat Keberhasilan Pembuatan Artefak</DisplayName>
+			<DisplayName>Artifact Crafting Success Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_47">
-			<DisplayName>Bonus Kelas Kerajinan Artefak</DisplayName>
+			<DisplayName>Artifact Crafting Grade Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_48">
-			<DisplayName>Bonus Kualitas Kerajinan Artefak</DisplayName>
+			<DisplayName>Artifact Crafting Quality Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_49">
-			<DisplayName>Bonus Peluang Artefak Besar</DisplayName>
+			<DisplayName>Grand Artifacts Chance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_50">
-			<DisplayName>Bonus Kecepatan Alkimia</DisplayName>
+			<DisplayName>Alchemy Speed Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_51">
-			<DisplayName>Bonus Tingkat Keberhasilan Alkimia</DisplayName>
+			<DisplayName>Alchemy Success Rate Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_52">
-			<DisplayName>Bonus Hasil Alkimia</DisplayName>
+			<DisplayName>Alchemy Yield Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_53">
-			<DisplayName>Bonus Peluang Terobosan</DisplayName>
+			<DisplayName>Breakthrough Chance Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_54">
-			<DisplayName>Bonus Pencapaian</DisplayName>
+			<DisplayName>Attainment Bonus</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_55">
-			<DisplayName>Akurasi dalam Pertempuran</DisplayName>
+			<DisplayName>Accuracy in Battles</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_56">
-			<DisplayName>Menghindar dalam Pertempuran</DisplayName>
+			<DisplayName>Dodge in Battles</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_57">
-			<DisplayName>Persepsi</DisplayName>
+			<DisplayName>Perception</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_58">
-			<DisplayName>Konstitusi</DisplayName>
+			<DisplayName>Constitution</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_59">
-			<DisplayName>Karisma</DisplayName>
+			<DisplayName>Charisma</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_60">
-			<DisplayName>Intelijen</DisplayName>
+			<DisplayName>Intelligence</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_61">
-			<DisplayName>Keberuntungan</DisplayName>
+			<DisplayName>Luck</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_62">
-			<DisplayName>Lima Atribut</DisplayName>
+			<DisplayName>Five Attributes</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1a">
-			<DisplayName>Segel Moralitas</DisplayName>
+			<DisplayName>Morality Seal</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1b">
-			<DisplayName>Segel Purba</DisplayName>
+			<DisplayName>Primordial Seal</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1c">
-			<DisplayName>Segel Mistik</DisplayName>
+			<DisplayName>Mystical Seal</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_2">
-			<DisplayName>Pagoda Surgawi</DisplayName>
+			<DisplayName>Celestial Pagoda</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_3">
-			<DisplayName>Pagoda Roh</DisplayName>
+			<DisplayName>Spirit Pagoda</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_4">
-			<DisplayName>Kapal Yin</DisplayName>
+			<DisplayName>Yin Vessel</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_5">
-			<DisplayName>Kuali Upacara</DisplayName>
+			<DisplayName>Ceremonial Cauldron</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_6">
-			<DisplayName>Stela Roh</DisplayName>
+			<DisplayName>Spirit Stela</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_7">
-			<DisplayName>Singa Batu</DisplayName>
+			<DisplayName>Stone Lion</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_8">
-			<DisplayName>Batu Gunung Buzhou</DisplayName>
+			<DisplayName>Mount Buzhou Stone</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_9">
-			<DisplayName>Dewan Yin Yang</DisplayName>
+			<DisplayName>Yin Yang Board</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_10">
-			<DisplayName>Catatan Hidangan Abadi</DisplayName>
+			<DisplayName>Records of the Immortal Dishes</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_11">
-			<DisplayName>Bagan Tanda Ilahi</DisplayName>
+			<DisplayName>Divine Sign Chart</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_12">
-			<DisplayName>Jimat Pesona</DisplayName>
+			<DisplayName>Enchantment Talisman</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_13">
-			<DisplayName>Pedang Mistik</DisplayName>
+			<DisplayName>Mystical Sword</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_14">
-			<DisplayName>Labu Tushita</DisplayName>
+			<DisplayName>Tushita Gourd</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_15">
-			<DisplayName>Batang Merah Muda</DisplayName>
+			<DisplayName>Crimsagon Rod</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_16">
-			<DisplayName>Yang Mulia</DisplayName>
+			<DisplayName>Holy Grace</DisplayName>
 		</Text>
 	</List>
 </Texts>
