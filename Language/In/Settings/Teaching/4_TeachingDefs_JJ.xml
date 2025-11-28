@@ -1,320 +1,320 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Fight">
-			<Type>Canggih</Type>
-			<DisplayName>pertempuran pendahuluan</DisplayName>
-			<Desc>Pelajari sistem pertarungan dan kontrol dasar dalam tutorial ini.\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
-			<Chapters.0.DisplayName>kendali pertempuran</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Mode Bunuh dan Taklukkan</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Mode perlindungan otomatis</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>lari dari pertempuran</Chapters.0.Tasks.2>
-			<Chapters.1.DisplayName>PERTEMPURAN MULTIPLAYER</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Pilih beberapa orang untuk diserang.</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Bergerak dan serang</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Ganti petarung</Chapters.1.Tasks.2>
-			<Tasks.1.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Periksa Mode Penaklukan di sisi kiri panel bawah.</Tasks.2.TaskDesc>
-			<Tasks.5.TaskDesc>Centang Escape from Battle di sisi kiri panel bawah.</Tasks.5.TaskDesc>
-			<Tasks.7.TipsData.Desc>Ini adalah mode kontrol yang paling umum selama pertempuran. Tentu saja, ada mode lain yang menunggu untuk dijelajahi pemain di dalam game.</Tasks.7.TipsData.Desc>
-			<Tasks.9.TaskDesc>Gunakan fungsi antrian untuk memilih semua siswa.</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Gunakan fungsi antrian untuk memilih semua siswa.</Tasks.10.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Basic Battle</DisplayName>
+			<Desc>Pelajari sistem pertarungan dasar dan kontrolnya dalam tutorial ini.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Battle Controls</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mode Bunuh dan Kalahkan</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Mode Pertahanan Otomatis</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Melarikan diri dari Pertempuran</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Multi-person Battles</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Pilih Banyak Orang untuk Diserang</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Pindahkan &amp; Menyerang</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Ganti Pejuang</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Ketuk dan pilih murid batin.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Periksa mode Kekalahan di sebelah kiri panel di bawah.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Periksa Escape Battle di sebelah kiri panel di bawah.</Tasks.5.TaskDesc>
+			<Tasks.7.TipsData.Desc>Ini adalah mode kontrol yang paling umum selama pertempuran. Tentu saja ada mode lain yang menunggu untuk dijelajahi pemain di dalam game.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Gunakan fungsi antrian untuk memilih semua murid.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Gunakan fungsi antrian untuk memilih semua murid.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Ketuk dan pilih murid.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Ketuk dan pilih murid.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Ketuk dan pilih murid.</Tasks.13.TaskDesc>
-			<Tasks.15.TaskDesc>Ketuk "Konfirmasi"</Tasks.15.TaskDesc>
-			<Tasks.17.TaskDesc>Masuk ke status serangan menggunakan tombol serangan.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Memberi perintah untuk menyerang iblis itu.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Konfirmasikan serangan</Tasks.19.TaskDesc>
-			<Tasks.21.TaskDesc>Masukkan status bergerak menggunakan tombol bergerak.</Tasks.21.TaskDesc>
+			<Tasks.15.TaskDesc>Ketuk Konfirmasi.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Masukkan status serangan dengan tombol Serangan</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Keluarkan perintah Serangan pada Monster.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Konfirmasikan untuk menyerang</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Masukkan status perpindahan dengan tombol Pindah</Tasks.21.TaskDesc>
 			<Tasks.22.TaskDesc>Ketuk dan pindah ke lokasi yang ditentukan.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>Tunggu sampai mereka bergerak.</Tasks.23.TaskDesc>
-			<Tasks.24.TipsData.Desc>Pemain dapat menggunakan gerakan dan menyerang secara bersamaan untuk memperpanjang pertempuran. Dan terkadang hal itu bisa membalikkan keadaan.</Tasks.24.TipsData.Desc>
+			<Tasks.24.TipsData.Desc>Pemain dapat menggunakan gerakan dan serangan pada saat yang sama untuk memperpanjang pertempuran dan terkadang bahkan dapat membalikkan keadaan.</Tasks.24.TipsData.Desc>
 			<Tasks.26.TaskDesc>Ketuk murid yang terluka dalam pertempuran.</Tasks.26.TaskDesc>
-			<Tasks.27.TaskDesc>Ketuk "Kabur"</Tasks.27.TaskDesc>
-			<Tasks.28.TaskDesc>Masukkan status bergerak menggunakan tombol bergerak.</Tasks.28.TaskDesc>
+			<Tasks.27.TaskDesc>Ketuk Kabur.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Masukkan status perpindahan dengan tombol Pindah</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Pindah ke tempat yang lebih aman di sekte tersebut.</Tasks.29.TaskDesc>
-			<Tasks.30.TipsData.Desc>Pemain dapat menggunakan "Escape" untuk membuat murid yang terluka meninggalkan pertempuran dan mundur ke lokasi yang lebih aman untuk menjamin tidak ada yang mati.</Tasks.30.TipsData.Desc>
-			<Tasks.32.TaskDesc>Ketuk dan pilih murid yang tidak sedang berperang.</Tasks.32.TaskDesc>
-			<Tasks.33.TaskDesc>Masuk ke status serangan menggunakan tombol serangan.</Tasks.33.TaskDesc>
-			<Tasks.34.TaskDesc>Memberi perintah untuk menyerang iblis itu.</Tasks.34.TaskDesc>
-			<Tasks.35.TaskDesc>Konfirmasikan serangan</Tasks.35.TaskDesc>
-			<Tasks.36.TipsData.Desc>Pemain dapat mengganti murid selama pertempuran untuk terus bertarung. Tentu saja, pemain dapat membentuk beberapa tim untuk bertarung secara bergiliran atau mendapatkan perbekalan.</Tasks.36.TipsData.Desc>
-			<Tasks.38.TipsData.Desc>Dalam pertempuran, pemain dapat mengubah kontrol untuk merespons berbagai situasi guna mendapatkan keuntungan atas musuh dan mencegah kehancuran Klan.</Tasks.38.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Pemain dapat menggunakan Flee untuk membuat murid yang terluka meninggalkan pertempuran dan mundur ke tempat yang lebih aman untuk memastikan tidak ada yang mati.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Ketuk dan pilih murid batin yang tidak sedang berperang.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Masukkan status serangan dengan tombol Serangan</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Keluarkan perintah Serangan pada Monster.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Konfirmasikan untuk menyerang</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Pemain dapat menggantikan murid dalam tim selama pertempuran untuk melanjutkan pertarungan. Tentu saja pemain dapat mengatur beberapa tim untuk bergiliran bertarung atau menerima perbekalan.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>Dalam pertempuran, pemain dapat mengubah kontrol sebagai respons terhadap situasi yang berbeda untuk mendapatkan keuntungan atas musuh dan mencegah kehancuran sekte.</Tasks.38.TipsData.Desc>
 		</Text>
 		<Text Name="ZhenFa">
-			<Type>Canggih</Type>
-			<DisplayName>Kamp mekanis</DisplayName>
-			<Desc>Pelajari cara mengedit perkemahan dan menyiapkan anggota perkemahan Anda dalam tutorial ini.\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
-			<Chapters.0.DisplayName>Edit strateginya</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Buat kamp baru</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>Konfigurasi kamp mekanis</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Mengevaluasi kamp dan anggotanya</Chapters.1.Tasks.0>
-			<Chapters.2.DisplayName>Menggunakan kamp</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Mendirikan kamp militer</Chapters.2.Tasks.0>
-			<Chapters.2.Tasks.1>Menu perkemahan</Chapters.2.Tasks.1>
-			<Tasks.1.TaskDesc>Ketuk tombol Biro.</Tasks.1.TaskDesc>
-			<Tasks.2.TipsData.Desc>Saat memperoleh formasi, perluasan, atau pilar melalui cara lain apa pun di dalam game. Pemain dapat membuat atau memeriksa formasi di sini.</Tasks.2.TipsData.Desc>
-			<Tasks.3.TaskDesc>Ketuk "Kamp Hantu"</Tasks.3.TaskDesc>
-			<Tasks.5.TipsData.Desc>Ini semua formasi yang dimiliki pemain. Klik untuk meninjau atau mengedit konfigurasi server apa pun.</Tasks.5.TipsData.Desc>
-			<Tasks.6.TaskDesc>Klik "Buat"</Tasks.6.TaskDesc>
-			<Tasks.8.TaskDesc>Klik untuk memilih lingkaran tambahan.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>Ketuk konfigurasi untuk memilihnya.</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Klik Konfigurasi untuk mengonfirmasi pilihan Anda.</Tasks.11.TaskDesc>
-			<Tasks.12.TipsData.Desc>Saat mengedit kamp, ​​​​Pemain harus menyiapkan pilarnya terlebih dahulu. yang dapat dihubungkan ke add-on lain. Hanya ada satu pilar utama.</Tasks.12.TipsData.Desc>
-			<Tasks.13.TaskDesc>Ketuk untuk memilih add-on "Pedang".</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Ketuk konfigurasi untuk memilihnya.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Klik Konfigurasi untuk mengonfirmasi pilihan Anda.</Tasks.15.TaskDesc>
-			<Tasks.16.TipsData.Desc>Jika game yang dimodifikasi memiliki add-on yang tidak terhubung dengan benar Ini akan menunjukkan bahwa itu tidak lengkap. dan formasi yang tidak lengkap tidak dapat dibentuk.</Tasks.16.TipsData.Desc>
-			<Tasks.17.TipsData.Desc>Ketika mesin yang dimodifikasi memenuhi persyaratan "The Truth of Magic" akan menerima hasil bonus. Pilar yang berbeda memiliki kebenaran formasi yang berbeda pula.</Tasks.17.TipsData.Desc>
-			<Tasks.18.TipsData.Desc>Ketika pemain selesai mengedit formasinya, ketuk "Simpan" untuk menyimpan formasi yang baru dibuat.</Tasks.18.TipsData.Desc>
-			<Tasks.19.TipsData.Desc>Ketika pemain selesai mengedit formasinya, klik "Simpan" untuk menyimpan formasi yang baru dibuat.</Tasks.19.TipsData.Desc>
-			<Tasks.20.TaskDesc>Ketuk untuk mengonfirmasi.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Ketuk untuk mengonfirmasi.</Tasks.21.TaskDesc>
-			<Tasks.23.TipsData.Desc>Setelah formasi lengkap telah diedit dan disimpan. Pemain dapat menetapkan karakter ke formasi ini dan bersiap untuk mengaturnya.</Tasks.23.TipsData.Desc>
-			<Tasks.25.TaskDesc>Ketuk tombol Sunting.</Tasks.25.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Formation</DisplayName>
+			<Desc>Pelajari cara mengedit formasi dan menetapkan anggota formasi dalam tutorial ini.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Formation Edit</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Buat Formasi Baru</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Formation Configuration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Penilaian Formasi &amp; Anggota</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Formation Operation</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Formasi Bentuk</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Menu Formasi</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Ketuk tombol Sekte</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Setelah formasi, tambahan, atau pilar diperoleh melalui metode lain apa pun dalam permainan, pemain dapat membuat atau memeriksa formasi di sini.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Ketuk Formasi.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Berikut seluruh formasi yang dimiliki pemain. Klik untuk memeriksa atau mengubah konfigurasi formasi apa pun.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Klik Buat.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Klik untuk memilih lingkaran bantu.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Ketuk konfigurasi untuk memilih</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Klik konfigurasi untuk mengonfirmasi pilihan Anda</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Saat mengedit formasi, pemain perlu menyiapkan pilar terlebih dahulu, yang dapat terhubung ke pembantu lainnya. Hanya ada satu pilar.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Ketuk untuk memilih Pedang tambahan.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Ketuk konfigurasi untuk memilih</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Klik konfigurasi untuk mengonfirmasi pilihan Anda</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Jika formasi yang diedit memiliki tambahan yang tidak terhubung dengan benar, maka akan ditampilkan sebagai tidak lengkap, dan formasi yang tidak lengkap tidak dapat dibentuk.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Setelah formasi yang diedit memenuhi persyaratan Kebenaran Formasi, formasi tersebut akan memperoleh efek bonus. Pilar yang berbeda memiliki Kebenaran Formasi yang berbeda pula.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>Setelah pemain selesai mengedit formasi, ketuk Simpan untuk menyimpan formasi yang baru dibuat.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>Setelah pemain selesai mengedit formasi, klik Simpan untuk menyimpan formasi yang baru dibuat.</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Ketuk untuk mengonfirmasi</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Ketuk untuk mengonfirmasi</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Setelah formasi lengkap diedit dan disimpan, pemain dapat menunjuk karakter ke formasi ini dan bersiap untuk membentuknya.</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Ketuk tombol Sunting</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Ketuk tombol Konfigurasi di sebelah kanan.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Ketuk untuk memilih yang pertama: Tutorial.</Tasks.27.TaskDesc>
-			<Tasks.28.TaskDesc>Klik untuk memilih yang pertama: Tutorial</Tasks.28.TaskDesc>
-			<Tasks.29.TipsData.Desc>Pemain dapat mengalokasikan murid dalam ke setiap pilar dan ekspansi. Ikuti jalan dari paviliun ke pilar utama. Setiap kali suatu elemen mempromosikan elemen berikutnya. Koneksi add-on akan menerima efek khusus yang diperbesar. dan sebaliknya</Tasks.29.TipsData.Desc>
-			<Tasks.30.TaskDesc>Ketuk tombol Pilar.</Tasks.30.TaskDesc>
+			<Tasks.28.TaskDesc>Klik untuk memilih yang pertama: Tutorial.</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Pemain dapat mengalokasikan murid batin ke setiap pilar dan pembantu. Sepanjang rute dari tambahan ke pilar, setiap kali sebuah elemen menghasilkan elemen berikutnya, tautan tambahan akan menikmati efek khusus yang diperkuat, dan sebaliknya.</Tasks.29.TipsData.Desc>
+			<Tasks.30.TaskDesc>Ketuk tombol Pilar</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Ketuk dan pilih murid.</Tasks.31.TaskDesc>
 			<Tasks.32.TaskDesc>Ketuk dan pilih murid.</Tasks.32.TaskDesc>
-			<Tasks.33.TaskDesc>Klik "Konfirmasi"</Tasks.33.TaskDesc>
-			<Tasks.34.TipsData.Desc>Formasi tersebut memiliki sembilan statistik terkait. Pemain dapat memeriksanya melalui evaluasi formasi di sebelah kiri.</Tasks.34.TipsData.Desc>
-			<Tasks.35.TaskDesc>Tutup panel konfigurasi.</Tasks.35.TaskDesc>
-			<Tasks.36.TaskDesc>Tutup konsol</Tasks.36.TaskDesc>
-			<Tasks.37.TaskDesc>Tutup panel kantor</Tasks.37.TaskDesc>
-			<Tasks.39.TipsData.Desc>Ketika formasi kamp selesai dan anggota telah dialokasikan, Pemain dapat membentuk kamp untuk mengaktifkannya.</Tasks.39.TipsData.Desc>
+			<Tasks.33.TaskDesc>Klik Konfirmasi.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Sebuah formasi memiliki sembilan statistik terkait yang berbeda. Pemain dapat memeriksanya melalui Penilaian Formasi di sebelah kiri.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Tutup panel konfigurasi</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Tutup panel Formasi</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Tutup panel Sekte</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Setelah formasi selesai dan anggota telah dialokasikan, pemain dapat membentuk formasi untuk mengaktifkannya.</Tasks.39.TipsData.Desc>
 			<Tasks.41.TaskDesc>Ketuk dan pilih murid.</Tasks.41.TaskDesc>
-			<Tasks.42.TipsData.Desc>Hanya murid-murid di pilar yang bisa membentuk formasi. Ketika semua murid dari Annex lain dalam keadaan sehat dan berada di area yang sama. Formasinya bisa diatur sesuai konfigurasi.</Tasks.42.TipsData.Desc>
-			<Tasks.43.TaskDesc>Ketuk "Siapkan perkemahan"</Tasks.43.TaskDesc>
-			<Tasks.44.TipsData.Desc>Sebelum mendirikan kamp militer, Pemain dapat memeriksa detailnya untuk mengonfirmasi hasil bonus dan statistik sebenarnya setelah menyiapkan formasi.</Tasks.44.TipsData.Desc>
-			<Tasks.45.TaskDesc>Ketuk "Siapkan perkemahan"</Tasks.45.TaskDesc>
-			<Tasks.46.TaskDesc>Menunggu pembentukan kamp formasi</Tasks.46.TaskDesc>
-			<Tasks.48.TipsData.Desc>Ini semua adalah keterampilan formasi saat ini. Setiap skill mempunyai kegunaan yang berbeda-beda.</Tasks.48.TipsData.Desc>
-			<Tasks.49.TipsData.Desc>Ini adalah keterampilan ajaib para murid dalam formasi.</Tasks.49.TipsData.Desc>
-			<Tasks.50.TaskDesc>Ketuk untuk mencentang "Fokus"</Tasks.50.TaskDesc>
-			<Tasks.51.TipsData.Desc>Pemain dapat memeriksa "Konsentrasi" untuk mengawasi operasi formasi. Ini membantu dalam menyesuaikan formasi kapan saja dalam pertempuran.</Tasks.51.TipsData.Desc>
-			<Tasks.53.TipsData.Desc>Pemain dapat mengatur dan menggabungkan properti yang berbeda untuk menciptakan formasi yang lebih cocok dan kuat. dan bahkan menguasai formasi kuno. Formasi yang berbeda memiliki efek yang berbeda pula. Menunggu pemain untuk menjelajah Oleh karena itu, tutorial ini tidak akan G.O.D. mod lainnya.</Tasks.53.TipsData.Desc>
+			<Tasks.42.TipsData.Desc>Hanya murid di pilar yang mampu membentuk formasi. Bila semua murid di pasukan pembantu lainnya sehat dan berada di area yang sama, maka formasi dapat dibentuk mengikuti konfigurasi.</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>Ketuk Formasi Formulir.</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Sebelum membentuk formasi, pemain dapat memeriksa detailnya untuk memastikan efek bonus dan statistik sebenarnya setelah formasi terbentuk.</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>Ketuk Formasi Formulir.</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Tunggu hingga formasi terbentuk.</Tasks.46.TaskDesc>
+			<Tasks.48.TipsData.Desc>Berikut semua skill formasi dari formasi saat ini, yang masing-masing memiliki kegunaan berbeda.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>Inilah keterampilan mantra para murid dalam formasi.</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>Ketuk untuk memeriksa Fokus.</Tasks.50.TaskDesc>
+			<Tasks.51.TipsData.Desc>Pemain dapat memeriksa Fokus untuk memperhatikan pengoperasian formasi, yang membantu menyesuaikan formasi kapan saja dalam pertempuran.</Tasks.51.TipsData.Desc>
+			<Tasks.53.TipsData.Desc>Pemain dapat menyusun dan menggabungkan berbagai fitur untuk membentuk formasi yang lebih cocok dan kuat, dan bahkan menguasai formasi kuno. Formasi yang berbeda memiliki efek yang berbeda, menunggu pemain untuk menjelajah, jadi tutorial ini tidak akan menjelaskan cara mengedit formasi lainnya.</Tasks.53.TipsData.Desc>
 		</Text>
 		<Text Name="DragonHole">
-			<Type>Canggih</Type>
-			<DisplayName>Gua misterius</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari tentang pengaruh gua misterius dan cara menggunakan sihir feng shui untuk memberikan mantra pada gua tersebut.\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
-			<Chapters.0.DisplayName>Gua Mangkorn Utth</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Gua misterius</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>Mantra Gua Misterius</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Tempatkan item feng shui ajaib</Chapters.1.Tasks.0>
-			<Tasks.2.TaskDesc>Ketuk "Oke"</Tasks.2.TaskDesc>
-			<Tasks.3.TipsData.Desc>Ketika jangka waktu tertentu telah berlalu dalam permainan, sebuah peristiwa rahasia khusus akan terjadi di mana sebuah gua misterius akan muncul di lokasi acak di dojo pemain. Dan akan ada naga air yang tertidur di dalamnya. Pemain dapat menggunakan metode berbeda untuk menghadapi situasi tersebut. Salah satunya adalah penggunaan benda ajaib feng shui yang menjadikan ruangan bertuah untuk mengeja gua.</Tasks.3.TipsData.Desc>
-			<Tasks.5.TipsData.Desc>Ada banyak cara untuk mengatasi gua misterius. Namun bagi pemain di akhir permainan yang masih bingung harus berbuat apa? Pilih benda ajaib feng shui untuk mengejanya. Ini karena metode lain memerlukan pemahaman permainan yang lebih mendalam. Oleh karena itu, tutorial ini tidak akan menjelaskan secara detail.</Tasks.5.TipsData.Desc>
-			<Tasks.7.TaskDesc>Benda ajaib feng shui yang sudah diidentifikasi akan memiliki penjelasan rinci. Pemain harus mengacu pada deskripsi dan menempatkannya di tempat yang benar untuk mengaktifkan item sihir dengan benar. Setelah diaktifkan Ini akan segera membuat ruangan menjadi menguntungkan.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Ketuk untuk memilih item ajaib Feng Shui "Spirit Crystal".</Tasks.8.TaskDesc>
-			<Tasks.9.TaskDesc>Ketuk "Tempel"</Tasks.9.TaskDesc>
-			<Tasks.9.UiData.Name>tempat</Tasks.9.UiData.Name>
-			<Tasks.10.TaskDesc>Ketuk untuk memilih "Dudukan layar"</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Pilih ruangan dengan mengklik ruang kosong di ruangan tersebut.</Tasks.11.TaskDesc>
-			<Tasks.12.TaskDesc>Saat menempatkan item ajaib Feng Shui, Pemain dapat mengamati perubahan Feng Shui di ruangan di sini.</Tasks.12.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Mysterious Cavern</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari pengaruh gua misterius dan cara menggunakan peninggalan Feng Shui untuk menekannya.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Flood Dragon Cave</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Gua Misterius</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Suppress Mysterious Caverns</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Tempatkan Peninggalan Feng Shui</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>Ketuk Oke.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Ketika jangka waktu tertentu telah berlalu dalam permainan, sebuah rahasia khusus akan terjadi di mana sebuah gua misterius akan muncul di tempat acak di lokasi sekte pemain, dan Naga Banjir akan tidur di dalamnya. Pemain dapat menggunakan berbagai cara untuk menangani situasi tersebut, salah satunya adalah dengan menggunakan peninggalan Feng Shui yang membuat ruangan menjadi sangat menguntungkan untuk menekan gua.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Ada banyak cara untuk menangani gua misterius, namun bagi pemain tahap akhir yang masih belum yakin harus berbuat apa, pilihlah peninggalan Feng Shui untuk menekannya. Karena metode lain memerlukan pemahaman lebih dalam tentang permainan, tutorial ini tidak akan menjelaskan secara detail.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Peninggalan Feng Shui yang teridentifikasi akan memiliki penjelasan rinci. Pemain perlu merujuk pada deskripsi dan menempatkannya di tempat yang tepat untuk mengaktifkan relik dengan benar. Setelah diaktifkan, secara instan akan membuat ruangan menjadi sangat menguntungkan.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Ketuk untuk memilih Kristal Roh peninggalan Feng Shui.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk Tempat.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Place</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Ketuk untuk memilih Tampilan.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Pilih ruangan dengan mengklik area kosong di dalamnya.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Saat menempatkan peninggalan Feng Shui, pemain dapat mengamati perubahan Feng Shui pada ruangan di sini.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Tunggu sampai mereka ditempatkan.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Ketika benda ajaib feng shui berada di lingkungan yang sesuai dengan deskripsi. Ini akan serasi dan membuat ruangan menjadi menguntungkan. yang bisa dibilang sebuah gua misterius</Tasks.14.TaskDesc>
-			<Tasks.16.TipsData.Desc>Ketika pemain berhasil menguraikan gua misterius tersebut. Naga Air yang tertidur akan dikalahkan secara efektif. Dan pemain dapat menggunakan waktu ini untuk meningkatkan kemampuan muridnya agar dapat menghancurkan mereka lebih cepat.</Tasks.16.TipsData.Desc>
+			<Tasks.14.TaskDesc>Ketika peninggalan Feng Shui berada di lingkungan yang memenuhi deskripsi, itu akan menjadi kecocokan yang membuat ruangan menjadi sangat menguntungkan, yang dapat menekan gua misterius tersebut.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Ketika pemain berhasil menekan gua misterius tersebut, Naga Banjir yang tertidur juga akan ditundukkan secara efektif, dan pemain dapat menggunakan jendela waktu ini untuk meningkatkan kemampuan para murid agar dapat menghancurkannya lebih cepat.</Tasks.16.TipsData.Desc>
 		</Text>
 		<Text Name="DragonFight">
-			<Type>Canggih</Type>
-			<DisplayName>Pertempuran menghadapi iblis kuno</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari cara menyelidiki informasi dasar tentang setan kuno dan menggunakan informasi tersebut untuk melawan mereka.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
-			<Chapters.0.DisplayName>Pelajari tentang setan kuno</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Pelajari tentang setan kuno</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>Berbagai bagian tubuh naga air sedang bertarung</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Periksa setiap bagian tubuh.</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Periksa status benda ajaib muridnya.</Chapters.1.Tasks.1>
-			<Tasks.1.TaskDesc>Ketuk tombol Biro.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Buka menu acara rahasia di sebelah kanan.</Tasks.2.TaskDesc>
-			<Tasks.4.TaskDesc>Ketuk "Air Naga"</Tasks.4.TaskDesc>
-			<Tasks.5.TaskDesc>Klik "Air Naga"</Tasks.5.TaskDesc>
-			<Tasks.6.TipsData.Desc>Hal ini menunjukkan bahwa Naga Banjir merupakan elemen Air yang rentan terhadap kerusakan elemen Tanah.</Tasks.6.TipsData.Desc>
-			<Tasks.7.TipsData.Desc>Hal ini menunjukkan bahwa Naga Banjir merupakan elemen Air yang rentan terhadap kerusakan elemen Tanah.</Tasks.7.TipsData.Desc>
-			<Tasks.8.TaskDesc>Tutup panel kantor</Tasks.8.TaskDesc>
-			<Tasks.10.TipsData.Desc>Anda dapat memperoleh informasi tentang Primordial Demons lainnya melalui metode lain.</Tasks.10.TipsData.Desc>
-			<Tasks.12.TaskDesc>Ketuk "Air Naga"</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Ketuk tombol Fokus.</Tasks.13.TaskDesc>
-			<Tasks.14.TipsData.Desc>Anda dapat melacak status Qi setiap bagian tubuh Naga Air dengan mengatur konsentrasinya. dan kembangkan strategi Anda sesuai dengan itu.</Tasks.14.TipsData.Desc>
-			<Tasks.15.TaskDesc>Ketuk untuk membatalkan fokus.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>Tutup panel informasi.</Tasks.16.TaskDesc>
-			<Tasks.18.TaskDesc>Ketuk dan pilih Murid masuk</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Ketuk untuk membuka panel karakter.</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Ketuk tab Pakai.</Tasks.20.TaskDesc>
-			<Tasks.21.TipsData.Desc>Dari informasi di atas Kita bisa melengkapi item sihir elemen Bumi untuk menyerang Naga Banjir.</Tasks.21.TipsData.Desc>
-			<Tasks.22.TaskDesc>Ketuk untuk menutup menu item dan peralatan.</Tasks.22.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Boss Battle</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari cara memeriksa informasi dasar tentang binatang purba dan menggunakannya untuk terlibat dalam pertempuran dengan binatang tersebut.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Learn About Ancient Beast</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Pelajari Tentang Binatang Purba</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Flood Dragon Body Parts in Battle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Periksa Setiap Bagian Tubuh</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa Statistik Artefak Murid</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Ketuk tombol Sekte</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Buka menu Rahasia di sebelah kanan.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Ketuk Naga Banjir.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Klik Naga Banjir.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Disini terlihat bahwa Naga Banjir merupakan elemen Air yang lebih rentan menimbulkan kerusakan pada Bumi.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TipsData.Desc>Disini terlihat bahwa Naga Banjir merupakan elemen Air yang lebih rentan menimbulkan kerusakan pada Bumi.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Tutup panel Sekte</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Anda bisa mendapatkan informasi tentang binatang purba lainnya melalui metode lain.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Ketuk Naga Banjir.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk tombol Fokus</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Anda dapat melacak status Qi setiap bagian tubuh Naga Jiao melalui pengaturan fokus, dan mengembangkan strategi Anda sesuai dengan itu.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Ketuk untuk membatalkan fokus</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Tutup panel informasi</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Ketuk dan pilih murid batin.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Ketuk untuk membuka panel karakter</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Ketuk tab Perlengkapan</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Berdasarkan info diatas, kita bisa memakai artefak berelemen Tanah untuk menyerang Naga Banjir.</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>Ketuk untuk menutup Item &amp; Menu peralatan.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>Ketuk tombol serangan di sebelah kanan.</Tasks.23.TaskDesc>
-			<Tasks.24.TipsData.Desc>Pemain dapat memfokuskan serangannya pada salah satu bagian tubuh naga air untuk menghancurkan bagian tersebut dengan cepat.</Tasks.24.TipsData.Desc>
-			<Tasks.26.TipsData.Desc>Setiap pemain menggunakan kontrol dan strategi yang berbeda dalam pertempuran. Jadi tutorial ini tidak akan membahas detail tentang pertempuran tersebut. yang bisa dialami pemain dalam game. Saat bos dikalahkan Akan ada mayat dari tubuhnya. yang dapat mencari hadiah Semakin banyak kerusakan pada bagian tubuh, Semakin banyak yang Anda dapatkan, semakin banyak hadiah yang Anda dapatkan.</Tasks.26.TipsData.Desc>
+			<Tasks.24.TipsData.Desc>Pemain dapat memfokuskan serangan pada bagian tubuh tertentu untuk menghancurkan bagian Naga Banjir tersebut dengan cepat.</Tasks.24.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>Setiap pemain menggunakan kontrol dan strategi yang berbeda dalam pertempuran, jadi tutorial ini tidak akan menjelaskan secara detail tentang pertempuran yang dapat dialami pemain dalam game. Setelah bos dikalahkan, akan ada sisa-sisa berbeda dari tubuhnya, yang dapat dicari rampasannya. Semakin banyak bagian tubuh yang hancur berarti semakin banyak rampasan yang didapat.</Tasks.26.TipsData.Desc>
 		</Text>
 		<Text Name="GetFood">
-			<Type>Canggih</Type>
-			<DisplayName>persediaan makanan darurat</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari cara menyediakan makanan dengan cepat di lingkungan yang sangat sulit.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
-			<Chapters.0.DisplayName>Pemberitahuan kekurangan pangan</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Periksa notifikasi</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>manajemen darurat</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Gunakan petualangan berulang untuk menemukan makanan.</Chapters.1.Tasks.0>
-			<Tasks.1.TaskDesc>Ketuk tombol pesan.</Tasks.1.TaskDesc>
-			<Tasks.2.TipsData.Desc>Jika persediaan makanan pemain tidak mencukupi maka akan muncul notifikasi ini.</Tasks.2.TipsData.Desc>
-			<Tasks.3.TaskDesc>Tutup panel pesan.</Tasks.3.TaskDesc>
-			<Tasks.5.TipsData.Desc>Jika bank makanan tidak mencukupi, Murid di sekte pemain mungkin akan mati kelaparan secara perlahan, jadi pemain harus merespons keadaan darurat ini, seperti keluar mencari makanan.</Tasks.5.TipsData.Desc>
-			<Tasks.7.TaskDesc>Ketuk untuk membuka peta dunia.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Klik untuk membuka peta dunia.</Tasks.8.TaskDesc>
-			<Tasks.11.TaskDesc>Klik "Desa Nanping"</Tasks.11.TaskDesc>
-			<Tasks.13.TipsData.Desc>Desa Nanping adalah tempat yang paling dekat dengan sumber makanan.</Tasks.13.TipsData.Desc>
+			<Type>Advanced</Type>
+			<DisplayName>Emergency Food Acquisition</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari cara memperoleh makanan dengan cepat di lingkungan yang sangat sulit.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Lack of Food Notification</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa Notifikasi</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Emergency Handling</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Gunakan Petualangan Berulang untuk Makanan</Chapters.1.Tasks.0>
+			<Tasks.1.TaskDesc>Ketuk tombol Pesan</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Error 500 (Server Error)!!1500.Itu kesalahan.Terjadi kesalahan. Silakan coba lagi nanti. Hanya itu yang kami tahu.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Tutup panel pesan</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Jika penyimpanan makanan tidak mencukupi, para murid di sekte pemain mungkin akan mati kelaparan secara perlahan, jadi pemain perlu merespons keadaan darurat ini, seperti bertualang untuk mendapatkan makanan.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Ketuk untuk membuka Peta Dunia.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Klik untuk membuka Peta Dunia.</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Klik Desa Nanping.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Desa Nanping merupakan lokasi terdekat dengan sumber pangan.</Tasks.13.TipsData.Desc>
 			<Tasks.14.TaskDesc>Ketuk dan pilih murid.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Ketuk dan pilih murid.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Ketuk dan pilih murid.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Ketuk dan pilih murid.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Ketuk "Konfirmasi"</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Klik "Konfirmasi"</Tasks.19.TaskDesc>
-			<Tasks.20.TipsData.Desc>Gunakan penggeser untuk menyesuaikan jumlah petualangan berulang.</Tasks.20.TipsData.Desc>
-			<Tasks.21.TaskDesc>Klik "OK"</Tasks.21.TaskDesc>
-			<Tasks.23.TipsData.Desc>Pemain dapat mengirim banyak murid dalam petualangan pada saat yang sama dan menggunakan petualangan berulang untuk mengurangi permintaan makanan di sekte tersebut dan meningkatkan produksi makanan dari petualangan untuk jangka waktu tertentu. Pemain kemudian dapat menunggu muridnya membawakan kembali makanannya.</Tasks.23.TipsData.Desc>
+			<Tasks.18.TaskDesc>Ketuk Konfirmasi.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Klik Konfirmasi.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Gunakan penggeser untuk menyesuaikan waktu petualangan berulang.</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>Klik Oke.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Pemain dapat mengirim banyak murid secara bersamaan dalam petualangan dan menggunakan petualangan berulang untuk menurunkan kebutuhan makanan di sekte dan meningkatkan hasil makanan melalui petualangan dalam jangka waktu tertentu. Pemain kemudian dapat menunggu para murid membawakan makanan kembali.</Tasks.23.TipsData.Desc>
 		</Text>
 		<Text Name="CombatWeather">
-			<Type>Canggih</Type>
-			<DisplayName>Mengatasi kondisi cuaca ekstrem</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari tentang beberapa kondisi cuaca ekstrem dalam game dan cara menghadapinya\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
-			<Chapters.0.DisplayName>Pengaruh kondisi cuaca ekstrim</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Periksa cuacanya</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Periksa suhunya</Chapters.0.Tasks.1>
-			<Chapters.1.DisplayName>Bagaimana cara mengatasinya</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Kenakan jimat Tai Yang.</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Periksa sumber panas</Chapters.1.Tasks.1>
-			<Tasks.1.TipsData.Desc>Ketika kondisi cuaca ekstrim terjadi di kantor pemain, Pemain dapat memeriksa ikon cuaca di bagian atas untuk melihat durasinya. Pemain harus menyesuaikan strategi mereka pada waktunya untuk menghadapi situasi tersebut.</Tasks.1.TipsData.Desc>
-			<Tasks.3.TipsData.Desc>Ketika cuaca ekstrim terjadi maka suhu saat ini akan berubah.</Tasks.3.TipsData.Desc>
+			<Type>Advanced</Type>
+			<DisplayName>Extreme Weather Handling</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari beberapa cuaca ekstrem dalam game dan cara menanganinya.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Influence of Extreme Weather</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa Cuaca</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa Suhu</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>How to Handle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Selesaikan Penyelamatan Utama</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Periksa Sumber Panas</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>Ketika cuaca ekstrim terjadi di sekte pemain, pemain dapat memeriksa ikon Cuaca di atas untuk melihat durasinya. Pemain perlu menyesuaikan strateginya tepat waktu untuk menangani situasi tersebut.。</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>Ketika cuaca ekstrim terjadi, maka akan mengubah suhu saat ini.</Tasks.3.TipsData.Desc>
 			<Tasks.4.TaskDesc>Ketuk dan pilih murid.</Tasks.4.TaskDesc>
-			<Tasks.5.TaskDesc>Ketuk untuk membuka panel karakter.</Tasks.5.TaskDesc>
-			<Tasks.6.TipsData.Desc>Statistik suhu para murid di sekte tersebut akan menentukan apakah mereka akan terpengaruh oleh kondisi cuaca ekstrem atau tidak.</Tasks.6.TipsData.Desc>
-			<Tasks.8.TipsData.Desc>Ketika seorang murid di sekte pemain merasa tidak enak badan karena kondisi cuaca ekstrim Dapat menyebabkan cedera. Dan muridnya mungkin mati jika lukanya terlalu parah.</Tasks.8.TipsData.Desc>
-			<Tasks.10.TaskDesc>Ketuk "Lengkapi Item"</Tasks.10.TaskDesc>
-			<Tasks.10.UiData.Name>memakai</Tasks.10.UiData.Name>
-			<Tasks.12.TaskDesc>Ketuk untuk memakai "Tai Yang Yantra"</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Ketuk untuk menambah jumlahnya.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Konfirmasikan pilihan</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Menunggu untuk dipakai</Tasks.15.TaskDesc>
-			<Tasks.16.TipsData.Desc>Murid dapat memakai jimat atau menggunakan cara lain untuk menaikkan suhu. Ini adalah cara paling langsung untuk menghadapi kondisi cuaca ekstrem.</Tasks.16.TipsData.Desc>
-			<Tasks.17.TaskDesc>Ketuk untuk menutup menu bendera umum.</Tasks.17.TaskDesc>
-			<Tasks.19.TaskDesc>Pilih ruangan dengan mengklik ruang kosong di ruangan tersebut.</Tasks.19.TaskDesc>
-			<Tasks.20.TipsData.Desc>Ada banyak bangunan atau barang yang dapat meningkatkan suhu di suatu daerah. Pemain dapat menggunakannya dengan bijak untuk menghadapi kondisi cuaca ekstrim.</Tasks.20.TipsData.Desc>
-			<Tasks.22.TipsData.Desc>Ada lebih dari satu jenis cuaca ekstrem. Pemain harus menggunakan item dalam game dengan bijak agar dapat menghadapi kondisi cuaca ekstrem lainnya dengan lebih baik.</Tasks.22.TipsData.Desc>
+			<Tasks.5.TaskDesc>Ketuk untuk membuka panel karakter</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Statistik suhu para murid di sekte tersebut menentukan apakah mereka akan terpengaruh oleh cuaca ekstrem.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Jika seorang murid di sekte pemain merasa tidak nyaman karena cuaca ekstrem, hal itu dapat menyebabkan cedera, dan murid tersebut dapat meninggal jika cederanya terlalu parah.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Ketuk Lengkapi Item.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Equip</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>Jimat Tertinggi Tertinggi.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Ketuk untuk menambahkan jumlahnya</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Konfirmasikan untuk memilih</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Tunggu sampai dilengkapi.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Seorang murid dapat menggunakan jimat atau menggunakan metode lain untuk meningkatkan suhunya, yang merupakan cara paling langsung untuk menghadapi cuaca ekstrem.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Ketuk untuk menutup menu Statistik Umum.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Pilih ruangan dengan mengklik area kosong di dalamnya.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Ada banyak bangunan atau barang yang dapat meningkatkan suhu di suatu daerah. Pemain dapat menggunakannya dengan cerdas untuk menghadapi cuaca ekstrem.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>Ada lebih dari satu jenis cuaca ekstrem. Pemain harus menggunakan item dalam game dengan bijak agar dapat menangani jenis cuaca ekstrem lainnya dengan lebih baik.</Tasks.22.TipsData.Desc>
 		</Text>
 		<Text Name="Prestige">
-			<Type>Canggih</Type>
-			<DisplayName>Manajemen dan pengendalian reputasi</DisplayName>
-			<Desc>Dalam tutorial ini, pelajari fungsi "Jimat Gaib" dan cara menggunakannya untuk mengurangi reputasi Anda.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
-			<Chapters.0.DisplayName>Menggunakan jimat yang tidak terlihat</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Periksa reputasi kantor</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Periksa jimat yang tidak terlihat</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>Kenakan jimat tembus pandang.</Chapters.0.Tasks.2>
-			<Tasks.1.TaskDesc>Ketuk tombol Biro di sebelah kiri.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Di dalam game, semakin banyak ketenaran akan menarik musuh yang lebih kuat untuk menyerang. Oleh karena itu, pemain harus menggunakan item dalam game untuk mengurangi ketenaran yang didapat.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>Ketuk untuk menutup menu kantor.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>Klik untuk menutup menu kantor.</Tasks.4.TaskDesc>
-			<Tasks.6.TaskDesc>Pemain dapat menerima "Yantra Tak Terlihat" dengan menggambar saat murid batin bertualang dengan "Jimat Tak Terlihat" yang diaktifkan. Ini secara efektif dapat mengurangi reputasi yang diperoleh.</Tasks.6.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Management &amp; Control of Reputation</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari kegunaan Talisman of Invisibility dan cara menggunakannya untuk menurunkan reputasi.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Use of Talisman of Invisibility</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa Reputasi Sekte</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Periksa Jimat Gaib</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Lengkapi Jimat Gaib</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Ketuk tombol sekte di sebelah kiri</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Di dalam game, semakin banyak reputasi akan mengundang musuh yang lebih kuat untuk menyerang, sehingga pemain perlu memanfaatkan item dalam game untuk menurunkan reputasi yang diperoleh.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Ketuk untuk menutup menu Sekte.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Klik untuk menutup menu Sekte.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Pemain bisa mendapatkan Talisman of Invisibility dengan menggambar. Ketika murid batin melakukan petualangan dengan Talisman of Invisibility yang diaktifkan, hal itu secara efektif dapat menurunkan reputasi yang diperoleh.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>Ketuk dan pilih murid.</Tasks.8.TaskDesc>
-			<Tasks.9.TaskDesc>Klik "Lengkapi Item"</Tasks.9.TaskDesc>
-			<Tasks.9.UiData.Name>memakai</Tasks.9.UiData.Name>
-			<Tasks.11.TaskDesc>Ketuk untuk menambah jumlahnya.</Tasks.11.TaskDesc>
-			<Tasks.12.TaskDesc>Konfirmasikan pilihan</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Menunggu untuk dipakai</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Menunggu untuk dipakai</Tasks.14.TaskDesc>
-			<Tasks.16.TipsData.Desc>Reputasi mempengaruhi sekte pemain sampai batas tertentu. Oleh karena itu, pemain dapat menggunakan Anda dapat menggunakan "Jimat Gaib" untuk mengurangi reputasi yang diperoleh untuk mengelola reputasi sekte tersebut.</Tasks.16.TipsData.Desc>
+			<Tasks.9.TaskDesc>Klik Lengkapi Item.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Equip</Tasks.9.UiData.Name>
+			<Tasks.11.TaskDesc>Ketuk untuk menambahkan jumlahnya</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Konfirmasikan untuk memilih</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tunggu sampai dilengkapi.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Tunggu sampai dilengkapi.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Reputasi sampai batas tertentu mempengaruhi sekte pemain, sehingga pemain dapat menggunakan Jimat Gaib untuk menurunkan reputasi yang diperoleh guna mengelola reputasi sekte tersebut.</Tasks.16.TipsData.Desc>
 		</Text>
 		<Text Name="ShortcutKey">
-			<Type>Canggih</Type>
-			<DisplayName>Tombol pintas</DisplayName>
-			<Desc>Pelajari pintasan umum dan cara menyesuaikannya dalam tutorial ini.\n[color=#BC1717](Selama tutorial (Pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan.)[/color]</Desc>
-			<Chapters.0.DisplayName>Pengaturan tombol pintas</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Periksa menu pintasan</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>Gunakan tombol pintas</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Gunakan pintasan interaktif</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Gunakan tombol pintas untuk mengatur tim Anda.</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Gunakan tombol pintas untuk bergerak dan menyerang.</Chapters.1.Tasks.2>
-			<Tasks.2.TipsData.Desc>Pemain dapat mengetuk "Sistem" lalu mengetuk "Tombol Pintas" untuk memeriksa menu tombol pintas. Anda dapat menyesuaikan dan mengatur ulang tombol pintas.</Tasks.2.TipsData.Desc>
-			<Tasks.3.TaskDesc>Ketuk untuk menutup menu pintasan.</Tasks.3.TaskDesc>
-			<Tasks.5.TipsData.Desc>Pemain dapat menyesuaikan tombol pintas sesuai kemampuan mereka dan menggunakannya sesuai kebutuhan.</Tasks.5.TipsData.Desc>
+			<Type>Advanced</Type>
+			<DisplayName>Hotkeys</DisplayName>
+			<Desc>Pelajari tentang hotkey umum dan cara menyesuaikan hotkey dalam tutorial ini.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Setting Hotkeys</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Periksa Menu Tombol Pintas</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Use Hotkeys</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Gunakan Hotkey Interaktif</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Gunakan Tombol Pintas untuk Mengatur Tim</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Gunakan Tombol Pintas untuk Bergerak dan Menyerang</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>Pemain dapat mengetuk Sistem lalu Tombol Pintas untuk memeriksa menu Tombol Pintas, di mana tombol pintas dapat disesuaikan dan diatur ulang.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Ketuk untuk menutup menu Tombol Pintas.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Pemain dapat menyesuaikan tombol pintas agar sesuai dengan kebiasaannya dan menggunakannya sesuai kebutuhan.</Tasks.5.TipsData.Desc>
 			<Tasks.7.TaskDesc>Ketuk dan pilih murid.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Gunakan tombol pintas F1 untuk "Makan".</Tasks.8.TaskDesc>
-			<Tasks.9.TaskDesc>Ketuk untuk memilih</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Gunakan tombol pintas F2 untuk "Lengkapi Item".</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Ketuk untuk memilih</Tasks.11.TaskDesc>
-			<Tasks.13.TaskDesc>Tahan tombol kiri mouse dan seret untuk memilih semua siswa di ruangan.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Gunakan Ctrl Kiri dan tombol 1 untuk memasukkannya ke dalam Tim 1.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Klik kanan untuk membatalkan.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>Gunakan tombol 1 untuk memilih tim 1.</Tasks.16.TaskDesc>
-			<Tasks.18.TaskDesc>Gunakan tombol pintas {0} untuk "Serangan".</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Memberi perintah untuk menyerang iblis itu.</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Gunakan tombol pintas {0} untuk "Pindahkan".</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Keluarkan perintah untuk pindah ke lokasi tertentu.</Tasks.21.TaskDesc>
-			<Tasks.23.TipsData.Desc>Ada banyak kontrol yang bisa dilakukan dengan hotkey. Pemain dapat menyesuaikan sesuai dengan bakatnya. Pemain dapat menempatkan kursornya pada tombol untuk memeriksa hotkey lainnya, jadi tutorial ini tidak akan menjelaskan secara detail.</Tasks.23.TipsData.Desc>
+			<Tasks.8.TaskDesc>Gunakan tombol pintas F1 untuk Makan.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Ketuk untuk memilih.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Gunakan hotkey F2 untuk Melengkapi Item.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Ketuk untuk memilih.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Tahan tombol kiri mouse dan seret untuk memilih semua murid di ruangan itu.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Gunakan Ctrl Kiri dan tombol 1 untuk mengaturnya menjadi Tim 1.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Ketuk kanan untuk membatalkan.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Gunakan kunci 1 untuk memilih Tim 1.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Gunakan tombol pintas {0} untuk Menyerang.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Keluarkan perintah Serangan pada Monster.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Gunakan tombol pintas {0} untuk Bergerak.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Keluarkan perintah Pindah untuk pindah ke lokasi yang ditentukan.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Ada banyak kontrol yang bisa dilakukan dengan hotkey. Pemain dapat menyesuaikannya sesuai dengan kebiasaannya. Pemain dapat menempatkan kursor pada tombol untuk memeriksa hotkey lainnya, jadi tutorial ini tidak akan membahasnya secara rinci.</Tasks.23.TipsData.Desc>
 		</Text>
 		<Text Name="Batch">
-			<Type>Canggih</Type>
-			<DisplayName>Perintah kumpulan</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari beberapa perintah umum dalam game dan cara mengeluarkannya.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
-			<Chapters.0.DisplayName>Kumpulan perintah dasar</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Makan satu set pil</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Pesan larangan dan batalkan larangan secara berkelompok.</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>Buat kumpulan baru</Chapters.0.Tasks.2>
-			<Tasks.4.TipsData.Desc>Pemain dapat menggunakan "Batch ban" untuk melarang item tertentu yang saat ini tidak diperlukan.</Tasks.4.TipsData.Desc>
-			<Tasks.6.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah larangan.</Tasks.6.TaskDesc>
-			<Tasks.7.TaskDesc>Ketuk tombol konfirmasi.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembongkaran.</Tasks.8.TaskDesc>
-			<Tasks.9.TipsData.Desc>Pemain dapat menggunakan "Bulk Unban" untuk membatalkan pelarangan item tertentu yang dilarang.</Tasks.9.TipsData.Desc>
-			<Tasks.11.TaskDesc>Ketuk tombol konfirmasi.</Tasks.11.TaskDesc>
-			<Tasks.12.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembatalan.</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembongkaran.</Tasks.13.TaskDesc>
-			<Tasks.16.TipsData.Desc>Pemain dapat menggunakan "Batch Rebuild" untuk membangun kembali bangunan yang rusak</Tasks.16.TipsData.Desc>
-			<Tasks.18.TaskDesc>Klik tombol Buat Baru.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Ketuk "Hancurkan" di menu bawah.</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembongkaran.</Tasks.20.TaskDesc>
-			<Tasks.21.TipsData.Desc>Ketika pemain menggunakan "Rebuild in Batch" Murid luar yang ditugaskan untuk pekerjaan konstruksi akan secara otomatis pergi ke bangunan yang rusak dan membangunnya kembali.</Tasks.21.TipsData.Desc>
-			<Tasks.23.TaskDesc>Klik "Hancurkan" di menu bawah.</Tasks.23.TaskDesc>
-			<Tasks.24.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembongkaran.</Tasks.24.TaskDesc>
-			<Tasks.25.TaskDesc>Seret area target untuk mengeluarkan serangkaian perintah pembongkaran.</Tasks.25.TaskDesc>
+			<Type>Advanced</Type>
+			<DisplayName>Batch Task</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari beberapa tugas batch umum dalam game dan cara menyelesaikannya.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Basic Batch Tasks</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Makan Elixir secara Berkelompok</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Larangan &amp; Batalkan Larangan dalam Batch</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Bangun kembali secara Batch</Chapters.0.Tasks.2>
+			<Tasks.4.TipsData.Desc>Pemain dapat menggunakan Ban secara batch untuk melarang beberapa item yang saat ini tidak diperlukan.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Seret area target untuk mengeluarkan perintah larangan batch.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Ketuk tombol konfirmasi</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Seret area target untuk mengeluarkan perintah penghancuran massal.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Pemain dapat menggunakan Batalkan Larangan secara batch untuk membatalkan larangan pada beberapa item yang dilarang.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Ketuk tombol konfirmasi</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Seret area target untuk mengeluarkan pembatalan batch</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Seret area target untuk mengeluarkan perintah penghancuran massal.</Tasks.13.TaskDesc>
+			<Tasks.16.TipsData.Desc>Pemain dapat menggunakan Rebuild secara batch untuk membangun kembali bangunan yang rusak.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Klik tombol membangun kembali</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Ketuk Hancurkan di menu bawah.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Seret area target untuk mengeluarkan perintah penghancuran massal.</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Setelah pemain menggunakan Rebuild secara berkelompok, murid luar yang dijadwalkan untuk konstruksi akan secara otomatis pergi ke bangunan yang rusak dan membangunnya kembali.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Klik Hancurkan di menu bawah.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Seret area target untuk melakukan penghancuran massal</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Seret area target untuk mengeluarkan perintah penghancuran massal.</Tasks.25.TaskDesc>
 			<Tasks.26.TipsData.Desc>Pemain dapat menghancurkan bangunan secara berkelompok menggunakan fungsi penghancuran massal.</Tasks.26.TipsData.Desc>
-			<Tasks.28.TipsData.Desc>Ada bentuk perintah batch lain di dalam game. Menunggu pemain untuk menjelajah</Tasks.28.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>Ada bentuk tugas batch lain dalam game, menunggu pemain untuk menjelajah.</Tasks.28.TipsData.Desc>
 		</Text>
 		<Text Name="AreaExpand">
-			<Type>Canggih</Type>
-			<DisplayName>perluasan ruang</DisplayName>
-			<Desc>Dalam tutorial ini Pelajari cara memperluas area dalam sebuah bangunan dengan cepat dan menggunakan perluasan untuk mewarisi statistik area.\n[color=#BC1717](Selama tutorial, pemain dapat menekan Esc dua kali untuk melewati misi dan melanjutkan)[/color]</Desc>
-			<Chapters.0.DisplayName>perluasan ruang</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Perluas ruang penyimpanan Anda</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Perluas area budidaya</Chapters.0.Tasks.1>
-			<Tasks.1.TipsData.Desc>Ketika ruang penyimpanan sudah penuh, Pemain dapat memperluas ruang penyimpanannya untuk meningkatkan kapasitas.</Tasks.1.TipsData.Desc>
-			<Tasks.2.TaskDesc>Ketuk tombol "Buat" di sudut kiri bawah untuk membuka panel pembuatan.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>Ketuk jendela "Area".</Tasks.3.TaskDesc>
-			<Tasks.5.TaskDesc>Seret untuk memperluas ruang penyimpanan.</Tasks.5.TaskDesc>
-			<Tasks.5.UiData.Name>daerah</Tasks.5.UiData.Name>
-			<Tasks.6.TaskDesc>Keluar dari mode pembuatan.</Tasks.6.TaskDesc>
-			<Tasks.7.TaskDesc>Seret untuk mengubah ukuran gudang.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Tutup panel pembuatan.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>Pilih tempat penyimpanan</Tasks.10.TaskDesc>
-			<Tasks.12.TaskDesc>Pilih tempat penyimpanan</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Tutup menu penyimpanan.</Tasks.13.TaskDesc>
-			<Tasks.13.UiData.Name>Menyaring</Tasks.13.UiData.Name>
-			<Tasks.14.TipsData.Desc>Penyimpanan yang diperluas mempertahankan pengaturan filter penyimpanan asli.</Tasks.14.TipsData.Desc>
-			<Tasks.15.TaskDesc>Tutup menu penyimpanan.</Tasks.15.TaskDesc>
-			<Tasks.17.TipsData.Desc>Ketika area lahan budidaya tidak dapat lagi memenuhi kebutuhan murid dalam, Pemain dapat memperluas lahan pertanian mereka untuk menambah ruang untuk bercocok tanam.</Tasks.17.TipsData.Desc>
-			<Tasks.18.TaskDesc>Ketuk "Plot tanaman" untuk memulai perencanaan plot.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Perluas petak penanaman dengan cara menyeret</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Keluar dari mode pembuatan.</Tasks.20.TaskDesc>
-			<Tasks.20.UiData.Name>daerah</Tasks.20.UiData.Name>
-			<Tasks.21.TaskDesc>Klik "Tanam plot" untuk memulai perencanaan plot.</Tasks.21.TaskDesc>
-			<Tasks.22.TaskDesc>Tutup panel pembuatan.</Tasks.22.TaskDesc>
-			<Tasks.23.TaskDesc>Sentuh pembakar dupa.</Tasks.23.TaskDesc>
-			<Tasks.25.TaskDesc>Pilih meja kerja untuk menampilkan status di bawah ini.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>Pilih lokasi penanaman</Tasks.27.TaskDesc>
-			<Tasks.28.TipsData.Desc>Plot yang diperluas mempertahankan pengaturan tanaman dari plot aslinya.</Tasks.28.TipsData.Desc>
-			<Tasks.28.TipsData.Name>menumbuhkan tanaman</Tasks.28.TipsData.Name>
-			<Tasks.30.TipsData.Desc>Ada area serupa di dalam game yang bisa diperluas dengan cara ini. Jadi tutorial ini tidak akan membahas secara detail.</Tasks.30.TipsData.Desc>
+			<Type>Advanced</Type>
+			<DisplayName>Area Expansion</DisplayName>
+			<Desc>Dalam tutorial ini, pelajari cara memperluas berbagai area di bangunan dengan cepat dan menggunakan perluasan area untuk mewarisi statistik area.\n[color=#BC1717]Selama tutorial, pemain dapat menekan Lewati di pojok kanan atas untuk melewati tugas dan melanjutkan tutorial. Kami menyarankan Anda untuk tidak menyelesaikan semua tutorial sekaligus, karena itu cukup membosankan. Anda dapat kembali ke sini ketika menemui beberapa masalah di game klasik.[/color]</Desc>
+			<Chapters.0.DisplayName>Area Expansion</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Perluas Penyimpanan</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Perluas Bidang</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>Ketika penyimpanan mencapai kapasitas penuh, pemain dapat memperluas area penyimpanan untuk meningkatkan kapasitasnya.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Ketuk tombol Bangun di sudut kiri bawah untuk membuka panel Bangun.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Ketuk halaman Area.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Seret untuk memperluas penyimpanan.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Area</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Keluar dari mode pembuatan</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Seret untuk Mengubah Ukuran Gudang</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Tutup panel build</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Pilih penyimpanan.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Pilih penyimpanan.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Tutup menu Penyimpanan.</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>Filter</Tasks.13.UiData.Name>
+			<Tasks.14.TipsData.Desc>Penyimpanan yang diperluas akan mempertahankan pengaturan filter dari penyimpanan asli.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Tutup menu Penyimpanan.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>Ketika luas lahan tidak lagi dapat memenuhi kebutuhan murid dalam, pemain dapat memperluas lahan untuk menambah luas areal tanaman.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Ketuk Bidang untuk memulai perencanaan lapangan.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Perluas bidang dengan menyeret.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Keluar dari mode pembuatan</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Area</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Klik Bidang untuk memulai perencanaan lapangan.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Tutup panel build</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Ketuk Pedupaan.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Pilih stasiun kerja untuk menampilkan statusnya di bawah.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Pilih bidang.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Lahan yang diperluas akan mempertahankan pengaturan tanaman dari lahan aslinya.</Tasks.28.TipsData.Desc>
+			<Tasks.28.TipsData.Name>Grow Plants</Tasks.28.TipsData.Name>
+			<Tasks.30.TipsData.Desc>Ada area serupa di dalam game yang dapat diperluas dengan cara ini, jadi tutorial ini tidak akan membahasnya secara detail.</Tasks.30.TipsData.Desc>
 		</Text>
 	</List>
 </Texts>
