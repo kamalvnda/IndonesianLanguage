@@ -1,411 +1,411 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="SYS_LOASITEM" sParam="Item">
-			<ThingName>Barang Hilang</ThingName>
+			<ThingName>Lost Item</ThingName>
 			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
 		</Text>
 		<Text Name="Item_HorribleMeal" sParam="Item">
-			<ThingName>Makanan Manja</ThingName>
+			<ThingName>Spoiled Meal</ThingName>
 			<Desc>Hidangan yang gagal dimasak, rasanya hampir tidak bisa diterima. Hanya bisa berfungsi untuk mengisi perut.</Desc>
 		</Text>
 		<Text Name="Item_HomeFood" sParam="Item">
-			<ThingName>Makanan Sederhana</ThingName>
+			<ThingName>Simple Meal</ThingName>
 			<Desc>Hidangan sederhana buatan rumah, rasanya biasa saja tapi tulus.</Desc>
 		</Text>
 		<Text Name="Item_DeliciousFood" sParam="Item">
-			<ThingName>Makanan Enak</ThingName>
+			<ThingName>Fine Meal</ThingName>
 			<Desc>Kelezatannya, baik bahan maupun teknik pembuatannya cukup canggih. Rasanya sangat lezat.</Desc>
 		</Text>
 		<Text Name="Item_DelicacyFood" sParam="Item">
-			<ThingName>Makanan Mewah</ThingName>
+			<ThingName>Lavish Meal</ThingName>
 			<Desc>Hidangan mewah yang hanya dapat dicapai dengan keterampilan memasak yang luar biasa dan bahan-bahan yang lezat, rasanya sangat lezat.</Desc>
 		</Text>
 		<Text Name="Item_WuHuangDan" sParam="Item">
-			<ThingName>Telur Tanpa Kuning Telur</ThingName>
+			<ThingName>Yolkless Egg</ThingName>
 			<Desc>Makanan misterius dan lezat, terkenal sebagai hadiah yang bagus untuk teman dan keluarga di beberapa tempat. Mengkonsumsinya dapat langsung memulai Pelatihan Dasar dan meningkatkan Konstitusi secara permanen sebesar 20%. Efek ini hanya bekerja saat pertama kali dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_GuanyinMud" sParam="Item">
-			<ThingName>Tanah Liat Guanyin</ThingName>
+			<ThingName>Guanyin Clay</ThingName>
 			<Desc>Semacam tanah liat putih yang dianggap sebagai alternatif makanan di masa-masa sulit.</Desc>
 		</Text>
 		<Text Name="Item_Water" sParam="Item">
-			<ThingName>Air</ThingName>
+			<ThingName>Water</ThingName>
 			<Desc>Sebagian air bersih.</Desc>
-			<Item.FabaoSuffix>Air</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Water</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DirtyWater" sParam="Item">
-			<ThingName>Air Najis</ThingName>
+			<ThingName>Unclean Water</ThingName>
 			<Desc>Air yang tidak bersih. Sepertinya ada sesuatu yang bergerak di dalamnya.</Desc>
-			<Item.FabaoSuffix>Air</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Water</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Garbage" sParam="Item">
-			<ThingName>Sampah</ThingName>
+			<ThingName>Rubbish</ThingName>
 			<Desc>Sampah yang tidak berguna.</Desc>
-			<Item.FabaoSuffix>Bubuk, Racun, Ampas</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Powder, Poison, Dreg</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Shit" sParam="Item">
-			<ThingName>Kotoran</ThingName>
+			<ThingName>Feces</ThingName>
 			<Desc>Kotoran makhluk itu.</Desc>
-			<Item.FabaoSuffix>Kotoran, Guano, Kotoran</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feces, Guano, Dung</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DragonShit" sParam="Item">
-			<ThingName>Kotoran Naga</ThingName>
+			<ThingName>Dragon Feces</ThingName>
 			<Desc>Kotoran seekor naga.</Desc>
-			<Item.FabaoSuffix>Kotoran, Guano, Kotoran</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Feces, Guano, Dung</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunPainting" sParam="Item">
-			<ThingName>Lukisan</ThingName>
+			<ThingName>Painting</ThingName>
 			<Desc>Sebuah gambar yang dilukis.</Desc>
-			<Item.FabaoSuffix>Gulir, Gambar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scroll, Picture</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunPoem" sParam="Item">
-			<ThingName>Naskah</ThingName>
+			<ThingName>Script</ThingName>
 			<Desc>Sebuah karya tertulis.</Desc>
-			<Item.FabaoSuffix>Volume, Buku, Slip, Gulir</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Volume, Book, Slips, Scroll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunMusic" sParam="Item">
-			<ThingName>Lembaran Musik</ThingName>
+			<ThingName>Sheet Music</ThingName>
 			<Desc>Lembar skor musik.</Desc>
-			<Item.FabaoSuffix>Lembar, Gulir</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sheet, Scroll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunChess" sParam="Item">
-			<ThingName>Pergi</ThingName>
+			<ThingName>Go</ThingName>
 			<Desc>Diagram catur Go yang mencatat pertandingan.</Desc>
-			<Item.FabaoSuffix>Lembar, Gulir, Cocokkan</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sheet, Scroll, Match</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysAxe" sParam="Item">
-			<ThingName>Kapak Kayu</ThingName>
+			<ThingName>Timber Axe</ThingName>
 			<Desc>Kapak dapat meningkatkan efisiensi penebangan Anda secara signifikan. Tentu saja bisa juga digunakan sebagai senjata.</Desc>
-			<Item.FabaoSuffix>Kapak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Axe</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysPickaxe" sParam="Item">
-			<ThingName>Beliung</ThingName>
+			<ThingName>Pickaxe</ThingName>
 			<Desc>Beliung dapat meningkatkan kecepatan penambangan Anda secara signifikan. Tentu saja bisa juga digunakan sebagai senjata.</Desc>
-			<Item.FabaoSuffix>Beliung</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pickaxe</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysSickle" sParam="Item">
-			<ThingName>Alat Pertanian</ThingName>
+			<ThingName>Farming Tool</ThingName>
 			<Desc>Seperangkat peralatan pertanian dapat sangat meningkatkan kecepatan bertani dan kecepatan panen Anda.</Desc>
-			<Item.FabaoSuffix>Bagaimana</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Hoe</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysAcupuncture" sParam="Item">
-			<ThingName>Jarum Akupunktur</ThingName>
+			<ThingName>Acupuncture Needle</ThingName>
 			<Desc>Satu set akupunktur yang dapat meningkatkan kualitas dan tingkat keberhasilan penyembuhan.</Desc>
-			<Item.FabaoSuffix>Jarum, Paku</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Needle, Spike</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Umbrella" sParam="Item">
-			<ThingName>Payung</ThingName>
+			<ThingName>Umbrella</ThingName>
 			<Desc>Payung.</Desc>
-			<Item.FabaoSuffix>Payung</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Esoterica" sParam="Item">
-			<ThingName>petunjuk</ThingName>
+			<ThingName>Manual</ThingName>
 			<Desc>Sebuah panduan rahasia.</Desc>
-			<Item.FabaoSuffix>Buku, Volume, Gulir</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Book, Volume, Scroll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_StoneBox" sParam="Item">
-			<ThingName>Peti Batu</ThingName>
+			<ThingName>Stone Casket</ThingName>
 			<Desc>Peti mati batu misterius berukuran sekitar satu kaki. Lambung luarnya merupakan satu kesatuan yang utuh, sepertinya bukan hal yang biasa.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk membuka peti mati ini</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StoneBox1" sParam="Item">
-			<ThingName>Peti Batu</ThingName>
+			<ThingName>Stone Casket</ThingName>
 			<Desc>Peti batu yang diperoleh seorang pemburu bernama Zhang Erwa dari Desa Nanping. Kualitasnya aneh dan kebal terhadap air dan api.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk membuka peti mati ini</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_FaBaoBox" sParam="Item">
-			<ThingName>Peti mati Polaris</ThingName>
+			<ThingName>Polaris Casket</ThingName>
 			<Desc>Pada malam penyerangan, Anda menyadari bahwa ruang artefak telah dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyimpan beberapa di antaranya ke dalam peti mati dan membawanya pergi.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_DanBox" sParam="Item">
-			<ThingName>Peti mati Polaris</ThingName>
+			<ThingName>Polaris Casket</ThingName>
 			<Desc>Pada malam penyerangan, Anda menyadari bahwa ruang ramuan telah dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyimpan beberapa di antaranya ke dalam peti mati dan membawanya pergi.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_MiJiBox" sParam="Item">
-			<ThingName>Peti mati Polaris</ThingName>
+			<ThingName>Polaris Casket</ThingName>
 			<Desc>Pada malam penyerangan, Anda melihat bahwa Scriptorium telah dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyimpan beberapa di antaranya ke dalam peti mati dan membawanya pergi.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_FuBox" sParam="Item">
-			<ThingName>Peti mati Polaris</ThingName>
+			<ThingName>Polaris Casket</ThingName>
 			<Desc>Pada malam penyerangan, Anda memperhatikan bahwa ruang jimat telah dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyimpan beberapa di antaranya ke dalam peti mati dan membawanya pergi.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StoneBox2" sParam="Item">
-			<ThingName>Peti Mati Kuno</ThingName>
+			<ThingName>Ancient Casket</ThingName>
 			<Desc>Peti mati batu yang terkubur jauh di bawah bebatuan gunung, tampaknya sudah cukup kuno. Tidak diketahui apa isinya.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk membuka peti mati ini</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BuildingBox" sParam="Item">
-			<ThingName>Paket Bangunan</ThingName>
+			<ThingName>Building Pack</ThingName>
 			<Desc>Sebuah bangunan padat yang dapat diubah posisinya di suatu tempat.</Desc>
 		</Text>
 		<Text Name="Item_Baobeier" sParam="Item">
-			<ThingName>Batang</ThingName>
+			<ThingName>Rod</ThingName>
 			<Desc>Hal-hal yang berkesan.</Desc>
-			<Item.FabaoSuffix>Akar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Root</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LunHui_Box1" sParam="Item">
-			<ThingName>Peti Jimat Ajaib</ThingName>
+			<ThingName>Magic Talisman Casket</ThingName>
 			<Desc>Nyonya Lu membawa kotak jimat ajaib dengan tiga jimat misterius di dalamnya.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LunHui_Box2" sParam="Item">
-			<ThingName>Peti Jimat Ajaib</ThingName>
+			<ThingName>Magic Talisman Casket</ThingName>
 			<Desc>Sebuah kotak jimat ajaib yang dibawa oleh Yang Shu bersamanya, berisi tiga jimat misterius.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Peti Mati Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ZuShiZhiCi" sParam="Item">
-			<ThingName>Hadiah dari Guru</ThingName>
+			<ThingName>Gift of the Master</ThingName>
 			<Desc>Hadiah dari guru leluhur, dengan harta yang sangat berharga di dalamnya.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Hadiah dari Guru.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SuoYingZhiJuan" sParam="Item">
-			<ThingName>Atlas Makhluk</ThingName>
+			<ThingName>Atlas of Creatures</ThingName>
 			<Desc>Ini mencatat miniatur semua makhluk hidup dari segala zaman sejak lahirnya langit dan bumi hingga saat ini. Jika Anda mengetahui nama sebenarnya dari makhluk yang dimaksud, Anda dapat memanggilnya dari gulungan. Ini adalah salah satu dari dua belas Numinous Treasure of Chaos primordial.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Buka Atlas Makhluk.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_XiangHuo1" sParam="Item">
-			<ThingName>Ritual Moralitas</ThingName>
+			<ThingName>Morality Ritual</ThingName>
 			<Desc>Sebuah ritual dasar, dengan proses yang relatif sederhana. Menghasilkan 1 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo2" sParam="Item">
-			<ThingName>Elemen Ritual</ThingName>
+			<ThingName>Elements Ritual</ThingName>
 			<Desc>Ritual tingkat menengah, yang memerlukan penggunaan beberapa artefak. Menghasilkan 4 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo3" sParam="Item">
-			<ThingName>Ritual Harmoni</ThingName>
+			<ThingName>Harmony Ritual</ThingName>
 			<Desc>Ritual tingkat tertinggi, membutuhkan artefak yang canggih dan doa yang panjang. Menghasilkan 9 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo4" sParam="Item">
-			<ThingName>Ritual Roh</ThingName>
+			<ThingName>Ritual of Spirit</ThingName>
 			<Desc>Sebuah ritual dasar dewa, dengan proses yang relatif sederhana. Menghasilkan 1 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo5" sParam="Item">
-			<ThingName>Ritual Surga</ThingName>
+			<ThingName>Ritual of Heaven</ThingName>
 			<Desc>Ritual dewa tingkat menengah, yang memerlukan penggunaan beberapa instrumen. Menghasilkan 4 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo6" sParam="Item">
-			<ThingName>Ritual Pemujaan</ThingName>
+			<ThingName>Ritual of Veneration</ThingName>
 			<Desc>Ritual dewa tingkat tertinggi, membutuhkan instrumen yang canggih dan doa yang panjang. Menghasilkan 9 Iman. Keyakinan Tambahan dapat dihasilkan dengan menggunakan makanan tingkat tinggi sebagai persembahan dalam ritual tersebut.</Desc>
 		</Text>
 		<Text Name="Item_OldSchool_Letter" sParam="Item">
-			<ThingName>Surat Misterius</ThingName>
+			<ThingName>Mysterious Letter</ThingName>
 			<Desc>Surat yang ditinggalkan oleh kultivator misterius yang menyelamatkan Anda dari bahaya pada malam sekte tersebut dibantai.</Desc>
-			<Item.FabaoSuffix>Surat</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membaca</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Letter</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Read</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Baca surat itu.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StrangeMush" sParam="Item">
-			<ThingName>Jamur Aneh</ThingName>
+			<ThingName>Strange Mushroom</ThingName>
 			<Desc>Jamur yang aneh, konsumsinya bisa menyebabkan halusinasi.</Desc>
-			<Item.FabaoSuffix>Keranjang, Jamur</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Cobalah makan</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Attempt eating</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk memakan item ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_AuctionPaper" sParam="Item">
-			<ThingName>Undangan Lelang</ThingName>
+			<ThingName>Auction Invitation</ThingName>
 			<Desc>Surat undangan ke lelang yang diadakan oleh Ye Xuan.</Desc>
-			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa item ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan" sParam="Item">
-			<ThingName>Gulir Kuno</ThingName>
+			<ThingName>Ancient Scroll</ThingName>
 			<Desc>Sebuah gulungan rahasia yang beredar pada zaman kuno, isinya tidak diketahui.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_1" sParam="Item">
-			<ThingName>Situs Keajaiban: Istana Surgawi</ThingName>
+			<ThingName>Miracle Site: Heavenly Palace</ThingName>
 			<Desc>Selembar kertas yang mencatat bagaimana mewujudkan Situs Keajaiban: Istana Surgawi, yang hanya dapat dipahami oleh para penggarap Hukum Shendao.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_2" sParam="Item">
-			<ThingName>Gulir Situs Keajaiban</ThingName>
+			<ThingName>Miracle Site Scroll</ThingName>
 			<Desc>Selembar kertas yang mencatat bagaimana mewujudkan Situs Keajaiban: Altar Penobatan, yang hanya dapat dipahami oleh para penggarap Hukum Shendao.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_3" sParam="Item">
-			<ThingName>Gulir Situs Keajaiban</ThingName>
+			<ThingName>Miracle Site Scroll</ThingName>
 			<Desc>Selembar kertas yang mencatat bagaimana mewujudkan Situs Keajaiban: Melankolia Alam Fana, yang hanya dapat dipahami oleh para penggarap Hukum Shendao.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_4" sParam="Item">
-			<ThingName>Gulir Situs Keajaiban</ThingName>
+			<ThingName>Miracle Site Scroll</ThingName>
 			<Desc>Selembar kertas yang mencatat bagaimana mewujudkan Miracle Site: Generality Residence; Situs Keajaiban: Tempat Tinggal Koneksi, yang hanya dapat dipahami oleh para penggarap Hukum Shendao.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_6" sParam="Item">
-			<ThingName>Fragmen Gulir Situs Keajaiban: Paviliun Suci</ThingName>
+			<ThingName>Miracle Site Scroll Fragment: Sacred Pavilion</ThingName>
 			<Desc>Fragmen gulungan yang mencatat metode khusus untuk membangun Paviliun Suci, yang hanya dapat dipahami oleh para penggarap Hukum Shendao.</Desc>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa gulir</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_5" sParam="Item">
-			<ThingName>Warisan Taiyi</ThingName>
+			<ThingName>Legacy of Taiyi</ThingName>
 			<Desc>Bola aneh yang disegel dengan kekuatan Kesengsaraan Surgawi. Tidak diketahui apa yang disimpan di dalamnya.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka segel</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Unseal</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mengangkat segelnya.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Gong12" sParam="Item">
-			<ThingName>Hukum Simbol Primordial</ThingName>
+			<ThingName>Primordial Symbols Law</ThingName>
 			<Desc>Sebuah aliran ajaran yang diperkirakan berasal dari Dewa Emas Yunzhong Zi. Ia menemukan cara baru di luar sistem tradisional Budidaya Inti Emas. Memanfaatkan momen terobosan, seseorang akan mampu membekukan lima Jimat Natal, yang memiliki kegunaan menarik.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Hukum</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Body_Gong_2" sParam="Item">
-			<ThingName>Badan Penempaan yang Barbar</ThingName>
+			<ThingName>Barbarous Forging Body</ThingName>
 			<Desc>Mantra pembentukan ulang yang diciptakan oleh kultivator fisik manusia yang mengacu pada tubuh Yaoguai alami orang bijak kuno. Mantra ini terkenal karena sifatnya yang liar dan agresif dan unggul dalam memurnikan tulang hingga akhirnya menciptakan Tubuh Penempaan yang Barbar. Tubuh fisik menjadi ilahi dan terlupakan.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Hukum</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Body_Gong_5" sParam="Item">
-			<ThingName>Badan Pemusnahan</ThingName>
-			<Desc>Di masa lalu, beberapa pembudidaya fisik menganggap kehidupan ini sebagai sangkar dan malam kutub adalah cahaya yang dipancarkan dari luar sangkar. Mereka menyerap esensi aneh dari malam kutub dan menggunakannya untuk membentuk kembali tubuh, percaya bahwa pada akhirnya akan diubah menjadi kendaraan yang menghancurkan kandang dan membawa mereka keluar dari kesengsaraan. Sekolah kultivator fisik ini memuja malam kutub dan dijauhi oleh orang lain, sehingga dinamakan Pemusnahan Kultus. Oleh karena itu, Hukum dasar mereka disebut Badan Penghapusan.</Desc>
+			<ThingName>Obliteration Body</ThingName>
+			<Desc>Di masa lalu, beberapa pembudidaya fisik menganggap kehidupan ini sebagai sangkar dan malam kutub adalah cahaya yang dipancarkan dari luar sangkar. Mereka menyerap esensi aneh dari malam kutub dan menggunakannya untuk membentuk kembali tubuh, percaya bahwa pada akhirnya akan diubah menjadi kendaraan yang memecahkan kandang dan membawa mereka keluar dari kesengsaraan. Sekolah kultivator fisik ini memuja malam kutub dan dijauhi oleh orang lain, sehingga dinamakan Pemusnahan Kultus. Oleh karena itu, Hukum dasar mereka disebut Badan Penghapusan.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Hukum</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_GongAll" sParam="Item">
-			<ThingName>Catatan Shendao</ThingName>
+			<ThingName>Records of Shendao</ThingName>
 			<Desc>Buku ini mencatat beberapa metode kuno dalam mengembangkan Hukum Shendao. Itu disusun pada masa pemerintahan Kaisar Iblis ketika ia mendominasi.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Hukum</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_Guard1" sParam="Item">
-			<ThingName>Inti Polis Lumina</ThingName>
+			<ThingName>Polis Lumina Core</ThingName>
 			<Desc>Lumina Core dengan kekuatan bintang Polis yang bersemayam di dalamnya. Mungkin seseorang dapat memanfaatkan kekuatan ini untuk digunakan sebagai Penjaga dengan berinteraksi dengannya melalui Hukum Shendao.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meneliti</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Hukum</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_Guard2" sParam="Item">
-			<ThingName>Inti Alkaid Lumina</ThingName>
+			<ThingName>Alkaid Lumina Core</ThingName>
 			<Desc>Lumina Core dengan kekuatan bintang Alkaid yang bersemayam di dalamnya. Mungkin seseorang dapat memanfaatkan kekuatan ini untuk digunakan sebagai Penjaga dengan berinteraksi dengannya melalui Hukum Shendao.</Desc>
 		</Text>
 		<Text Name="Item_God_Guard3" sParam="Item">
-			<ThingName>Inti Dubhe Lumina</ThingName>
+			<ThingName>Dubhe Lumina Core</ThingName>
 			<Desc>Lumina Core dengan kekuatan bintang Dubhe yang bersemayam di dalamnya. Mungkin seseorang dapat memanfaatkan kekuatan ini untuk digunakan sebagai Penjaga dengan berinteraksi dengannya melalui Hukum Shendao.</Desc>
 		</Text>
 		<Text Name="Item_Sys_Gong" sParam="Item">
-			<ThingName>Hukum</ThingName>
+			<ThingName>Law</ThingName>
 			<Desc>Seperangkat Hukum.</Desc>
-			<Item.FabaoSuffix>Buku, Volume, Gulir</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Book, Volume, Scroll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Firecracker" sParam="Item">
-			<ThingName>Petasan</ThingName>
+			<ThingName>Firecracker</ThingName>
 			<Desc>Mainan aneh dari Dunia Lain. Pilih tempat untuk menyalakannya dan itu dapat dengan mudah menarik orang-orang di sekitar Anda untuk menontonnya. Ini adalah perangkat yang cukup mengintimidasi bagi mereka yang lemah hati.</Desc>
-			<Item.FabaoSuffix>Kembang api</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Lampu</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Firework</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Light</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Menyalakan</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_FirecrackerShit" sParam="Item">
-			<ThingName>Olahan Petasan</ThingName>
+			<ThingName>Processed Firecracker</ThingName>
 			<Desc>Petasan yang diolah secara khusus. Sangat menakutkan.</Desc>
-			<Item.FabaoSuffix>Kembang api</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Lampu</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Firework</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Light</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Menyalakan</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Jiaozi" sParam="Item">
-			<ThingName>pangsit</ThingName>
+			<ThingName>Dumpling</ThingName>
 			<Desc>Makanan dari Dunia Lain, penuh dengan harapan baik dan kegembiraan yang meriah. Makanlah dan Anda mungkin menemukan kejutan yang menyenangkan!</Desc>
-			<Item.FabaoSuffix>pangsit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Dumpling</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Yingbi1" sParam="Item">
-			<ThingName>Koin Doa</ThingName>
+			<ThingName>Prayer Coin</ThingName>
 			<Desc>Cakram logam kokoh yang tersembunyi di dalam pangsit, menyimpan harapan baik dari banyak makhluk Dunia Lain yang mendambakan kebahagiaan dan kekayaan. Naga Obor, perwujudan Aturan Yin dan Yang di dunia ini, akhir-akhir ini menjadi sedikit aneh di bawah pengaruh Dunia Lain. Tampaknya sangat tertarik dengan objek ini.</Desc>
-			<Item.FabaoSuffix>Koin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Menggosok</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Coba gosok?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Yingbi2" sParam="Item">
-			<ThingName>Koin Doa</ThingName>
+			<ThingName>Prayer Coin</ThingName>
 			<Desc>Cakram logam kokoh yang tersembunyi di dalam pangsit, menyimpan harapan baik dari banyak makhluk Dunia Lain yang mendambakan umur panjang dan kesehatan. Naga Obor, perwujudan Aturan Yin dan Yang di dunia ini, akhir-akhir ini menjadi sedikit aneh di bawah pengaruh Dunia Lain. Tampaknya sangat tertarik dengan objek ini.</Desc>
-			<Item.FabaoSuffix>Koin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Menggosok</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Coba gosok?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Yingbi3" sParam="Item">
-			<ThingName>Koin Doa</ThingName>
+			<ThingName>Prayer Coin</ThingName>
 			<Desc>Cakram logam kokoh yang tersembunyi di dalam pangsit, menyimpan harapan baik dari banyak makhluk Dunia Lain yang mendambakan pakaian baru yang bagus. Naga Obor, perwujudan Aturan Yin dan Yang di dunia ini, akhir-akhir ini menjadi sedikit aneh di bawah pengaruh Dunia Lain. Tampaknya sangat tertarik dengan objek ini.</Desc>
-			<Item.FabaoSuffix>Koin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Menggosok</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Coba gosok?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SpringBox" sParam="Item">
-			<ThingName>Barang Hari Raya</ThingName>
+			<ThingName>Festive Goods</ThingName>
 			<Desc>Hadiah misterius dari Dunia Lain, disebut sebagai "barang perayaan" oleh orang-orang yang tinggal di sana.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk membuka peti mati ini</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SuperPartItem" sParam="Item">
-			<ThingName>Kedalaman Tubuh</ThingName>
+			<ThingName>Body Profundity</ThingName>
 			<Desc>Pembudidaya fisik dapat mempelajarinya untuk mendapatkan pengetahuan baru tentang Badan Rahasia.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspirasi</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Pelajari Kedalaman</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_AnimalBox" sParam="Item">
-			<ThingName>Kandang Cantik</ThingName>
+			<ThingName>Beautiful Cage</ThingName>
 			<Desc>Di dalam kandang terdapat hewan yang dibudidayakan dengan hati-hati di Tingkat Kebangkitan.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_NormalAnimalBox" sParam="Item">
-			<ThingName>Kandang Sederhana</ThingName>
+			<ThingName>Simple Cage</ThingName>
 			<Desc>Di dalam kandang sederhana ada seekor hewan dalam kondisi Kebangkitan.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BodyAnimalBox" sParam="Item">
-			<ThingName>Kurungan</ThingName>
+			<ThingName>Cage</ThingName>
 			<Desc>Di dalam kandang ada seekor binatang dalam kondisi Kebangkitan.</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ChunYangWuJiGong" sParam="Item">
 			<ThingName>Pure Yang Supreme Law</ThingName>
 			<Desc>Seni esoteris Sekte Wudang adalah teknik budidaya internal tertinggi. Panduan ini menawarkan dua metode latihan: metode ortodoks secara mendasar meningkatkan batas Qi, sedangkan metode sebaliknya menurunkan pencapaian tetapi menyebabkan kekacauan dalam Dantian. Kultivator dapat memilih satu untuk dipraktikkan.</Desc>
-			<Item.FabaoSuffix>Buku</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspirasi</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Book</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Panduan Belajar</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SupplyBox" sParam="Item">
-			<ThingName>Kotak Persediaan</ThingName>
+			<ThingName>Supply Box</ThingName>
 			<Desc>Hadiah dari Dao Surgawi!</Desc>
-			<Item.FabaoSuffix>Kotak</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Membuka</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk membuka peti mati ini</StoryBnts.0.Desc>
 		</Text>
 	</List>
