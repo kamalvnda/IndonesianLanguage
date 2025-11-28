@@ -1,19 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FirstFrag_Target">
-			<DisplayName>Modifikasi Hilang</DisplayName>
+			<DisplayName>Mods Lost</DisplayName>
 		</Text>
 		<Text Name="InitalFrag">
-			<DisplayName>Modifikasi Hilang</DisplayName>
+			<DisplayName>Mods Lost</DisplayName>
 		</Text>
 		<Text Name="Emotion_Template">
-			<DisplayName>Templat</DisplayName>
+			<DisplayName>Template</DisplayName>
 		</Text>
 		<Text Name="Target_Template">
-			<DisplayName>Templat</DisplayName>
+			<DisplayName>Template</DisplayName>
 		</Text>
 		<Text Name="Scene_Template">
-			<DisplayName>Templat</DisplayName>
+			<DisplayName>Template</DisplayName>
 		</Text>
 	</List>
 </Texts>
