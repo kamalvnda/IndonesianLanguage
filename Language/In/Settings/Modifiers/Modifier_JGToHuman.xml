@@ -1,27 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FoodToHuman">
-			<DisplayName>Semangat Makanan Makhluk Hidup</DisplayName>
+			<DisplayName>Sentient Food Spirit</DisplayName>
 			<Desc>Secara alami memiliki kemampuan Penyerapan Qi yang tinggi.</Desc>
 		</Text>
 		<Text Name="LingStoneToHuman">
-			<DisplayName>Roh Batu Makhluk Hidup</DisplayName>
+			<DisplayName>Sentient Stone Spirit</DisplayName>
 			<Desc>Secara alami memiliki Base Qi yang tinggi.</Desc>
 		</Text>
 		<Text Name="FabaoToHuman">
-			<DisplayName>Roh Artefak Makhluk Hidup</DisplayName>
+			<DisplayName>Sentient Artifact Spirit</DisplayName>
 			<Desc>Secara alami memiliki tingkat pemulihan Qi artefak dan rasio konversi yang tinggi.</Desc>
 		</Text>
 		<Text Name="DanToHuman">
-			<DisplayName>Ramuan Hidup</DisplayName>
+			<DisplayName>Sentient Elixir</DisplayName>
 			<Desc>Tidak akan ada toleransi obat yang dihasilkan saat Anda meminum pil lagi.</Desc>
 		</Text>
 		<Text Name="PlantToHuman">
-			<DisplayName>Pertumbuhan Diri</DisplayName>
+			<DisplayName>Self Growth</DisplayName>
 			<Desc>Terus tumbuh perlahan setiap hari.</Desc>
 		</Text>
 		<Text Name="BuildToHuman">
-			<DisplayName>Memperbaiki diri</DisplayName>
+			<DisplayName>Self-repairing</DisplayName>
 			<Desc>Kemajuan Perbaikan: {0}\n Saat kemajuan perbaikan mencapai 100, semua anggota tubuh yang hilang akan dipulihkan dan kemajuan akan kembali ke nol.</Desc>
 		</Text>
 	</List>
