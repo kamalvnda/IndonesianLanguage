@@ -1,216 +1,216 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_ZhenFa_1">
-			<DisplayName>Pengantar Formasi Taiyi</DisplayName>
+			<DisplayName>Taiyi's Intro to Formations</DisplayName>
 			<Desc>Pengantar studi Formasi yang dirancang untuk pemula dari Sekte Taiyi. Ini mencatat prototipe pilar umum dan alat bantu, yang sangat bagus bagi pelajar baru untuk berlatih tentang evolusi dan turunan dari penerapan Formasi. \nLingkaran Prototipe adalah dasar dari semua Formasi, oleh karena itu dapat digabungkan dengan Lingkaran tingkat lanjut lainnya. Meskipun tidak ada efek bonus bagi mereka yang terhubung melalui Proto-auxiliaries, setidaknya hal ini dapat memastikan bahwa Circle utuh dan beroperasi.</Desc>
 			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nPilar Pembuka: \nPilar-proto: Interval\nPilar-proto: Kabel\nPilar-proto: Kosong\nPilar-proto: Keseluruhan\n\nPembukaan Tambahan: \nProto-bantu: Ikatan\nProto-auxiliary: Pasangan\nProto-auxiliary: Partisi\nProto-auxiliary: Persatuan\nProto-auxiliary: Pemutusan\nProto-auxiliary: Cross\nProto-auxiliary: Sebar\nProto-auxiliary: Kritis</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_2">
-			<DisplayName>Diagram Formasi Empat Pemandu Taiyi</DisplayName>
+			<DisplayName>Taiyi's Formation Diagrams of Four Guiders</DisplayName>
 			<Desc>Sebuah manual rahasia tentang Formasi dari Sekte Taiyi, di mana pilar dan pembantunya semuanya diambil dari contoh-contoh yang tersebar luas di dunia budidaya. Ide utama dari teknik penerapan Lingkaran ini adalah untuk fokus pada keseimbangan, semua kemampuan beradaptasi yang baik.</Desc>
 			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nPisau Kepositifan Tersembunyi\nKutukan Verifikasi Tersembunyi\nAura Pedang Terkonsentrasi\nSegel Pengakuan Iman Tersembunyi\nKepositifan Beku Sejati\nKelenturan Transformasi Tertinggi\nKeseimbangan Alam\n\nMembuka Pembantu: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nRelativitas\nReaksi\nPedang Keadilan\nPedang Lentur\nKepercayaan Positif\nKepercayaan Lentur\nPisau Tersembunyi\nKutukan Tersembunyi</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_3">
-			<DisplayName>Diagram Binatang Spiritual</DisplayName>
+			<DisplayName>Diagrams of the Spiritual Beasts</DisplayName>
 			<Desc>Panduan rahasia Diagram Formasi yang diturunkan dari zaman kuno yang mengambil inspirasi dari bentuk spiritual binatang. Sangat ajaib dan unik.</Desc>
 			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nEkor Kalajengking Lapis Baja\nNafas Ular Bersisik\nEkor Penyu Berpedang\nBentuk Penyu Terkutuk\nCangkang Penyu yang Membatu\nTeriakan Bangau\nNaga Awan Petir\nNaga Banjir yang Melonjak\n\nMembuka Kunci Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nEkor Kalajengking\nUlar Nafas\nMaw Buaya\nNyanyian Naga\nBentuk Penyu\nPedang Burung Bangau\nMirage</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_4">
-			<DisplayName>Diagram Terpolarisasi Gunung Zhongyuan</DisplayName>
+			<DisplayName>Polarized Diagrams of Mt. Zhongyuan</DisplayName>
 			<Desc>Dari Gunung Zhongyuan, sekte terkenal yang unggul dalam Formasi di abad pertengahan. Ide Gunung Zhongyuan mengenai budidaya adalah untuk mencapai ekstremitas. Formasi yang berasal dari sekte ini juga menjalankan gagasannya, memegang teguh prinsip sampai akhir.</Desc>
 			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nAura Pedang Terkonsentrasi\nSegel Pengakuan Iman yang Tersembunyi\nPositifitas Terkurung Sejati\nKelenturan Transformasi Tertinggi\nKardinal Pedang\nKardinal Pengakuan Iman\nKardinal Positifitas Sejati\nKardinal Kelenturan Mendalam\n\nMembuka Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nPedang yang Diasah\nKepercayaan Terkonsentrasi\nPositifitas Ganda\nKelenturan Gabungan\nAura Pedang\nSegel Pengakuan Iman\nKeadilan Sejati\nKelenturan Mendalam</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_5">
-			<DisplayName>Diagram Rahasia Revitalisasi Langit dan Bumi</DisplayName>
+			<DisplayName>Secret Revitalizing Diagrams of Heaven and Earth</DisplayName>
 			<Desc>Suatu cara merancang Formasi dengan meniru alam. Panduan ini diturunkan dari zaman kuno, asal usulnya tidak diketahui dan tidak dapat diverifikasi. Jarang diwariskan dalam dunia kultivator. Sangat misterius.</Desc>
 			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nHujan Paku Pinus\nAngin Pinus Terkutuk\nDuri Tua yang Tersembunyi\nRoh Kayu Mati\nBatu yang Dijepit Pinus\nBilah Pasang Surut\nKonstan Badai\nPisau Penusuk Bumi\nPasir Kutukan Ilahi\n\nMembuka Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nPaku Pinus\nTekstur Kuno\nArmor Rotan</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_6">
-			<DisplayName>Diagram Primordial Heluo: Silabus</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Syllabus</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nHarmoni Langit-Bumi\nSentralitas Angin-Guntur\nKonversi Yin-Yang\nKonversi Yang-Yin\nJalan Yin Ekstrim\nJalan Yang Ekstrim\n\nMembuka Pembantu: \nSurga\nBumi\nAir\nApi\nGuntur\nAngin\nGunung\nRawa</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_7">
-			<DisplayName>Diagram Primordial Heluo: Surga Kreatif</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Creative Heaven</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Tambahan: \nSurga Kreatif\nKedamaian\nKekuatan\nKemakmuran\nKelimpahan\nHarapan\nResolusi\nKesejahteraan</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_8">
-			<DisplayName>Diagram Primordial Heluo: Bumi Reseptif</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Receptive Earth</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nStagnasi\nBumi Reseptif\nAntusiasme\nPemisahan\nKemajuan\nPersatuan\nPengumpulan\nKontemplasi</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_9">
-			<DisplayName>Diagram Primordial Heluo: Membangkitkan Guntur</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Arousing Thunder</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nKepolosan\nKembali\nMembangkitkan Guntur\nKenyamanan\nMenelan\nSprout\nMengikuti\nMeningkatkan</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_10">
-			<DisplayName>Diagram Primordial Heluo: Angin Lembut</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Gentle Wind</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nPertemuan\nKenaikan\nDurasi\nBencana\nKuali\nYah\nKelebihan\nAngin Lembut</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_11">
-			<DisplayName>Diagram Primordial Heluo: Air yang Sangat Buruk</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Abysmal Water</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nKonflik\nTentara\nPembebasan\nKetidaktahuan\nKetidaklengkapan\nAir yang Buruk\nKesulitan\nDispersi</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_12">
-			<DisplayName>Diagram Primordial Heluo: Api yang Menempel</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Clinging Fire</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nPersekutuan\nPenggelapan\nProfusi\nRahmat\nApi yang Melekat\nPenyelesaian\nRevolusi\nKeluarga</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_13">
-			<DisplayName>Diagram Primordial Heluo: Gunung Masih</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Still Mountain</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nMundur\nKesopanan\nKelebihan\nMasih Gunung\nMengembara\nHambatan\nAtraksi\nPengembangan</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_14">
-			<DisplayName>Diagram Primordial Heluo: Rawa Gembira</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Joyous Swamp</DisplayName>
 			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nMenginjak\nPendekatan\nPengantin\nPenurunan\nOposisi\nBatasan\nRawa Gembira\nKejujuran</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_15">
-			<DisplayName>Diagram Primordial Heluo: Solusi Kaisar Iblis</DisplayName>
+			<DisplayName>Primordial Diagrams of Heluo: Solutions of the Demon Emperor</DisplayName>
 			<Desc>Versi revisi Diagram Primordial Heluo yang disusun oleh Fu Pikong, Kaisar Iblis. Dengan bakat yang tak tertandingi, ia berhasil merancang aturan perubahan formasi untuk pasukan tambahan, sehingga memperluas penerapan Formasi secara keseluruhan. Itu adalah sebuah mahakarya yang menghubungkan hal-hal yang terjadi sebelum dan sesudahnya.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Pembantu: \nPusat Perubahan Formasi dari Dua Puluh Empat Pembantu Primordial</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_16">
-			<DisplayName>Diagram Surgawi: Jalan Matahari dan Bulan</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Sun and Moon</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nMatahari-Bulan Lilin dan Menyusut\n\nMembuka Tambahan: \nMatahari Surgawi\nMatahari Gemuruh\nMatahari Jenuh\nMatahari Pegunungan\nBulan Bumi\nBulan Berangin\nBulan Berapi-api\nBulan Basah</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_17">
-			<DisplayName>Diagram Surgawi: Jalan Yin dan Yang</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Yin and Yang</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKebangkitan dan Kejatuhan Yin-Yang\n\nMembuka Tambahan: \nYang Surga\nYang Guntur\nAir Yang\nGunung Yang\nBumi Yin\nAngin Yin\nApi Yin\nRawa Yin</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_18">
-			<DisplayName>Diagram Surgawi: Jalan Ruang dan Waktu</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Space and Time</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nEvolusi Ruang-Waktu\n\nMembuka Tambahan: \nSurga Ruang\nGuntur Luar Angkasa\nAir Luar Angkasa\nGunung Luar Angkasa\nBumi Waktu\nAngin Waktu\nApi Waktu\nRawa Waktu</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_19">
-			<DisplayName>Diagram Surgawi: Jalan Awal dan Akhir</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Beginning and End</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nSiklus Awal dan Akhir\n\nMembuka Kunci Tambahan: \nAwal Langit\nAwal Guntur\nAwal Air\nAwal Gunung\nAkhir Bumi\nAkhir Angin\nAkhir Api\nAkhir Rawa</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_20">
-			<DisplayName>Diagram Surgawi: Cara Hidup dan Mati</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Life and Death</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKehidupan dan Kematian Segalanya\n\nMembuka Tambahan: \nSurga Kehidupan\nGuntur Kehidupan\nAir Kehidupan\nGunung Kehidupan\nBumi Kematian\nAngin Kematian\nApi Kematian\nRawa Kematian</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_21">
-			<DisplayName>Diagram Surgawi: Cara Penciptaan dan Pembentukan</DisplayName>
+			<DisplayName>Heavenly Diagrams: Way of Creation and Formation</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nRahasia Penciptaan\n\nMembuka Tambahan: \nSurga Penciptaan\nGuntur Penciptaan\nAir Penciptaan\nGunung Penciptaan\nBumi Takdir\nAngin Takdir\nApi Takdir\nRawa Takdir</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_22">
-			<DisplayName>Pembentukan Keluasan Besar: Penciptaan Kosmos</DisplayName>
+			<DisplayName>Formation of Great Vastness: Creation of Cosmos</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenciptaan Kosmos</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_23">
-			<DisplayName>Pembentukan Keluasan Besar: Penurunan Waktu</DisplayName>
+			<DisplayName>Formation of Great Vastness: Derivation of Time</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenurunan Waktu</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_24">
-			<DisplayName>Pembentukan Keluasan Besar: Perkembangan Makhluk</DisplayName>
+			<DisplayName>Formation of Great Vastness: Thriving of Beings</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nKemakmuran Makhluk</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_25">
-			<DisplayName>Pembentukan Keluasan Besar: Kehancuran Kosmos</DisplayName>
+			<DisplayName>Formation of Great Vastness: Desolation of Cosmos</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenghancuran Kosmos</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_26">
-			<DisplayName>Pembentukan Keluasan Besar: Penghapusan Waktu</DisplayName>
+			<DisplayName>Formation of Great Vastness: Nullification of Time</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPembatalan Waktu</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_27">
-			<DisplayName>Pembentukan Keluasan Besar: Pemusnahan Makhluk</DisplayName>
+			<DisplayName>Formation of Great Vastness: Obliteration of Beings</DisplayName>
 			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenghancuran Makhluk</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit1">
-			<DisplayName>Pelatihan Ragestriker</DisplayName>
+			<DisplayName>Ragestriker Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Ragestriker. Dikatakan sebagai Formasi paling kejam di medan perang kuno, hampir tak terkalahkan dan tak terhentikan.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Ragestriker</EffectDesc>
-			<ZhenShapes.0.Name>Pelatihan Ragestriker</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Sejak dahulu kala, ini adalah formasi dengan kekuatan ofensif terbesar. Saat dikerahkan, itu akan berubah menjadi empat gerbang spanduk, masing-masing dengan pedang tergantung di atasnya, mengelilingi seluruh pusatnya. Setelah diaktifkan dengan roh primordial, keempat pedang akan bergetar secara bersamaan, dan Formasi segera diisi dengan Pedang Aura. Bahkan makhluk abadi yang sejati pun sulit bertahan di dalamnya.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Ragestriker Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest immortal can hardly survive within it.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit2">
-			<DisplayName>Formasi Penakluk</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Sang Penakluk. Dikatakan mampu memanfaatkan cahaya ilahi Keterasingan Grand Chariot, yang memberinya kekuatan pembantai iblis yang maha tahu.</Desc>
+			<DisplayName>Conqueror's Formation</DisplayName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Sang Penakluk. Dikatakan mampu memanfaatkan cahaya ilahi Keterasingan Grand Chariot, yang memberinya kekuatan pembantai iblis yang mahatahu.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Penakluk</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Penakluk</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formasi abadi dikatakan diturunkan dari Prajurit Sempurna Pengusir Kejahatan dari Surga Surgawi Kesembilan. Ia dapat mengarahkan kekuatan tujuh bintang untuk membentuk cahaya ilahi Kesendirian dari Kereta Besar, kekuatan pembunuh iblis yang dapat melenyapkan segala kejahatan.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Conqueror's Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Formation of immortals said to be passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a demon-slaying power that can obliterate all evils.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit3">
-			<DisplayName>Formasi yang Tidak Dapat Ditembus</DisplayName>
+			<DisplayName>Impregnable Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi yang Tidak Dapat Ditembus. Dikatakan mampu menyebarkan medan yang tidak bisa dihancurkan dengan Panji Lima Arah Langit dan Bumi untuk melindungi apapun di alam semesta.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Tak Tertembus</EffectDesc>
-			<ZhenShapes.0.Name>Formasi yang Tidak Dapat Ditembus</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Sebuah formasi besar berdasarkan pada lima Panji Besar yang telah ada sejak awal mula waktu. Panji utara disebut sebagai Hering Hitam, panji selatan sebagai Api Melonjak, panji tengah sebagai Aprikot Kuning, panji barat sebagai Awan Putih, dan panji timur sebagai Teratai Hijau. Kombinasi dari Lima Elemen membentuk Perisai Keluasan, yang tidak dapat diserang meskipun terjadi perubahan hukum alam.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Impregnable Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>A great formation based on the five Vast Banners which have existed since the beginning of time itself. The northern banner is referred to as Black Vulture, the southern as Soaring Flame, the central banner as Yellow Apricot, the western as White Cloud, and the eastern as Green Lotus. The combination of the Five Elements forms a Shield of Vastness, which cannot be invaded despite the changing of natural laws.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit4">
-			<DisplayName>Formasi Hukum Ilahi</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Hukum Ilahi. Dikatakan sebagai Formasi divinator enam dewa Langit, yang mampu mengubah Alam Fana menjadi surga dan membuat manusia hidup dalam keharmonisan spiritual.</Desc>
+			<DisplayName>Divine Law Formation</DisplayName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Hukum Ilahi. Dikatakan sebagai Formasi divinator enam dewa di Langit, yang mampu mengubah Alam Fana menjadi surga dan membuat manusia hidup dalam keharmonisan spiritual.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Hukum Ilahi</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Hukum Ilahi</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Upacara pembentukan operasi hukum di Pengadilan Langit. Ketika Formasi ini dikerahkan, ia akan membuka tempat tinggal asli enam dewa di Pengadilan Surgawi, mengubah Alam Fana menjadi surga dan membuat manusia hidup dalam harmoni spiritual.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Divine Law Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Ceremonial formation of law operations on the Celestial Court. When deploying this Formation, it will unfold a pristine abode of the six gods of Celestial Court, turning the Mortal Realm into a paradise and making people live in spiritual harmony.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit5">
-			<DisplayName>Formasi Penunggang Naga</DisplayName>
+			<DisplayName>Dragonrider Formation</DisplayName>
 			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Dragonrider. Dikatakan sebagai Formasi Pengendali Naga. Saat dikerahkan, seseorang dapat menggunakan kekuatan Dragonsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Penunggang Naga</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Penunggang Naga</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formasi menarik yang memanfaatkan tubuh Naga Banjir sebagai fondasinya. Dikatakan sebagai formasi pengendali naga. Saat dikerahkan, seseorang dapat menggunakan kekuatan Dragonsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Dragonrider Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Flood Dragon as foundation. It is said to be a dragon-controlling formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit6">
-			<DisplayName>Formasi Pedang Phoenix</DisplayName>
+			<DisplayName>Phoenix Sword Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Pedang Phoenix. Dikatakan sebagai formasi pengendali burung phoenix. Saat dikerahkan, seseorang dapat menggunakan kekuatan Phoenixsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Pedang Phoenix</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Pedang Phoenix</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formasi menakjubkan yang memanfaatkan tubuh Phoenoxica sebagai fondasinya. Dikatakan sebagai formasi pengendali burung phoenix. Saat dikerahkan, seseorang dapat menggunakan kekuatan Phoenixsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Phoenix Sword Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Phoenoxica as foundation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit7">
-			<DisplayName>Inilah Formasinya</DisplayName>
+			<DisplayName>Yin Yang Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Yin Yang. Dikatakan bahwa Formasi ini dikerahkan berdasarkan Aturan Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, Formasi menjadi sangat fleksibel.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Yin Yang</EffectDesc>
-			<ZhenShapes.0.Name>Inilah Formasinya</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Diagram Formasi yang inspirasinya berasal dari aliran energi antara langit dan bumi. Dikatakan bahwa Formasi ini dikerahkan berdasarkan Aturan Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, Formasi menjadi sangat fleksibel.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Yin Yang Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Formation Diagram that drew its inspirations from the flow of energies between heaven and earth. It is said that this Formation is deployed according to the Rule of Yin and Yang. Utilizing the transformation of Yin and Yang, the Formation becomes extremely flexible.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit8">
-			<DisplayName>Formasi Kekuatan Gelap</DisplayName>
+			<DisplayName>Dark Force Formation</DisplayName>
 			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Kekuatan Gelap. Dikatakan sebagai Formasi yang dibentuk oleh energi Yin murni, yang dapat meningkatkan kekuatan Anda secara signifikan.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Kekuatan Gelap</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Kekuatan Gelap</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formasi yang dikerahkan dengan memanfaatkan gagasan Tiga Bakat – Langit, Bumi dan Manusia. Dikatakan mampu memusatkan semua energi Yin murni di dunia, yang dapat meningkatkan kekuatan Anda secara signifikan.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Dark Force Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Formation deployed by utilizing the idea of Three Talents - Heaven, Earth and Human. It is said to be capable of concentrating all the pure Yin energies of the world, which can greatly enhance your power.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit9">
-			<DisplayName>Formasi Pedang Neraka</DisplayName>
+			<DisplayName>Abyssal Sword Formation</DisplayName>
 			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Pedang Abyssal. Dikatakan sebagai Formasi yang dikerahkan sesuai dengan aturan Delapan Gerbang Trigram, dengan kemampuan ofensif dan defensif. Sangat ajaib.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Pedang Abyssal</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Pedang Neraka</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Dikatakan sebagai Formasi yang dikerahkan sesuai dengan aturan Delapan Gerbang Trigram, dengan kemampuan ofensif dan defensif. Sangat ajaib.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Abyssal Sword Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>It is said to be a Formation that is deployed according to the rules of the Eight Trigram Gates, with both offensive and defensive capabilities. Very miraculous.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit10">
-			<DisplayName>Formasi Roh Kayu</DisplayName>
+			<DisplayName>Wood Spirit Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Roh Kayu. Dikatakan sebagai Formasi yang mampu membangkitkan Qi vitalitas antara langit dan bumi, meremajakan semua makhluk hidup.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Roh Kayu</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Roh Kayu</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Dibentuk dengan memusatkan esensi roh kayu timur purba, dikatakan sebagai Formasi yang mampu membangkitkan Qi vitalitas antara langit dan bumi, meremajakan semua makhluk hidup.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Wood Spirit Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Formed by concentrating the essence of primordial eastern wood spirit, it is said to be a Formation capable of awakening the Qi of vitality among heaven and earth, rejuvenating all living things.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit11">
-			<DisplayName>Formasi Konvergensi</DisplayName>
+			<DisplayName>Convergence Formation</DisplayName>
 			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Konvergensi. Dikatakan bahwa setelah dikerahkan, Formasi ini menghadirkan bentuk Lima Puncak untuk melindungi suatu lokasi, menjadikannya tidak bisa dihancurkan.</Desc>
 			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Konvergensi</EffectDesc>
-			<ZhenShapes.0.Name>Formasi Konvergensi</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formasi yang dibentuk oleh esensi spiritual dari Lima Puncak. Dikatakan bahwa setelah dikerahkan, ia akan menampilkan bentuk Lima Puncak untuk melindungi suatu lokasi, menjadikannya tidak bisa dihancurkan.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>Convergence Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Formation formed by the spiritual essence of the Five Peaks. It's said that once deployed, it will present the form of the Five Peaks to ward a location, rendering it indestructible.</ZhenShapes.0.Descript>
 		</Text>
 	</List>
 </Texts>
