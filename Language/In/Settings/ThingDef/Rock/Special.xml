@@ -1,12 +1,12 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Darksteel" sParam="Plant">
-			<Desc>Harta Karun Langit dan Bumi Intisari Qi dipadatkan dari besi hitam di Pembuluh Darah Bumi.</Desc>
-			<ThingName>Vena Baja Nilkan</ThingName>
+			<Desc>Harta paling langka di dunia ini, inti dari semua Qi yang berkilau di sepanjang urat nadi bumi.</Desc>
+			<ThingName>Darksteel Vein</ThingName>
 		</Text>
 		<Text Name="LingStone" sParam="Plant">
-			<Desc>Sumber dasar dari semua pernapasan. bila rusak Semua Qi di area itu akan padam.</Desc>
-			<ThingName>Vena Roh</ThingName>
+			<Desc>Sumber fundamental dari semua Qi, sekali rusak, semuanya akan musnah.</Desc>
+			<ThingName>Spirit Vein</ThingName>
 		</Text>
 	</List>
 </Texts>
