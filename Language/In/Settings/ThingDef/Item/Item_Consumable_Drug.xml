@@ -1,305 +1,305 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Fruit" sParam="Item">
-			<ThingName>Buah Kuning</ThingName>
+			<ThingName>Amber Fruit</ThingName>
 			<Desc>Segenggam Buah Amber. Mengkonsumsinya memungkinkan seseorang menjadi kebal dari rasa lapar dan lelah selama setengah hari. Namun buahnya cepat busuk setelah dipanen.</Desc>
-			<Item.FabaoSuffix>Buah, Manik, Bolus, Bola</Item.FabaoSuffix>
-			<From>Tanaman</From>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+			<From>Plant</From>
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
-			<ThingName>Embun Roh</ThingName>
+			<ThingName>Spirit Dew</ThingName>
 			<Desc>Setetes embun di Rumput Spiritual, kaya akan kekuatan hidup. Ini akan cepat menyebar setelah dipisahkan dari Rumput Spiritual. Mengkonsumsinya akan memulihkan banyak stamina, serta meningkatkan tingkat pemulihan tubuh dalam waktu singkat.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
-			<From>tanah spiritual</From>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<From>spiritual soil</From>
 		</Text>
 		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
-			<ThingName>Embun Keberuntungan</ThingName>
+			<ThingName>Fortune Dew</ThingName>
 			<Desc>Embun dengan kekuatan ciptaan terbentuk pada Akar Spiritual. Ini akan cepat menyebar setelah dipisahkan dari Akar Spiritual. Saat dikonsumsi, roh primordial seseorang akan binasa dan berpura-pura mati selama 81 hari, pulih dari segala luka. Daging dan tulang seseorang akan dibentuk kembali sepenuhnya setelahnya, meningkatkan Lima Atribut masing-masing sebesar 20%, namun Pencapaiannya berkurang secara signifikan. Itu hanya dapat diambil satu kali oleh setiap orang. Konsumsi yang berulang-ulang akan menyebabkan semangat primordial seseorang padam selamanya dan menghilang hingga terlupakan.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SilverGrit" sParam="Item">
-			<ThingName>Bubuk Beku</ThingName>
+			<ThingName>Frost Powder</ThingName>
 			<Desc>Bubuk mineral yang digiling dari Bijih Kristal Es, dapat digunakan sebagai bahan obat.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_CopperGrit" sParam="Item">
-			<ThingName>Bubuk Api</ThingName>
+			<ThingName>Igne Powder</ThingName>
 			<Desc>Bubuk mineral yang digiling dari Bijih Igneocopper, dapat digunakan sebagai bahan obat.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cinnabar" sParam="Item">
-			<ThingName>cinnabar</ThingName>
+			<ThingName>Cinnabar</ThingName>
 			<Desc>Mineral khusus ini biasa digunakan sebagai media dalam alkimia dan saat menggambar jimat.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JinEssence" sParam="Item">
-			<ThingName>Buah Bijak</ThingName>
+			<ThingName>Sage Fruit</ThingName>
 			<Desc>Obat ajaib dari unsur Logam, dengan Qi yang riuh bersemayam di dalamnya. Konon buahnya bisa ditemukan di Nimbus Ravine di Heavenstep Peak.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Tanaman</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tanam untuk menumbuhkan Tanaman Spiritual.</StoryBnts.0.Desc>
-			<From>Petualangan atau Perdagangan</From>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
-			<ThingName>Anggur Keriput</ThingName>
+			<ThingName>Gnarled Vine</ThingName>
 			<Desc>Obat ajaib dari unsur Kayu, dengan Qi yang riuh bersemayam di dalamnya. Tidak dapat dikonsumsi secara langsung. Dikatakan bahwa tanaman merambat dapat ditemukan di Mt. Tiger Paw dan Wormwrought Valley of the Wild South.</Desc>
-			<Item.FabaoSuffix>Merambat, Kunci, Rantai, Tali, Tali</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Tanaman</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tanam untuk menumbuhkan Tanaman Spiritual.</StoryBnts.0.Desc>
-			<From>Petualangan atau Perdagangan</From>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
-			<ThingName>Prisma Teratai</ThingName>
+			<ThingName>Prism Lotus</ThingName>
 			<Desc>Obat ajaib dari unsur Air, dengan Qi yang riuh bersemayam di dalamnya. Tidak dapat dikonsumsi secara langsung. Dikatakan bahwa Prism Lotus dapat ditemukan di Kolam Lima Naga di Gunung Sunshade.</Desc>
-			<Item.FabaoSuffix>Teratai, Platform, Segel, Penutup, Bidang</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Tanaman</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tanam untuk menumbuhkan Tanaman Spiritual.</StoryBnts.0.Desc>
-			<From>Petualangan atau Perdagangan</From>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
-			<ThingName>Buah Merah</ThingName>
+			<ThingName>Crimson Fruit</ThingName>
 			<Desc>Obat ajaib dari elemen Api, dengan Qi yang riuh bersemayam di dalamnya. Tidak dapat dikonsumsi secara langsung. Dikatakan bahwa buah ini tumbuh di Tebing Batu Giok di Gunung Shu dan di Gurun Barat Besar yang paling terang.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Tanaman</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tanam untuk menumbuhkan Tanaman Spiritual.</StoryBnts.0.Desc>
-			<From>Petualangan atau Perdagangan</From>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
-			<ThingName>Esensi Oker</ThingName>
+			<ThingName>Ocher Essence</ThingName>
 			<Desc>Obat ajaib dari unsur Tanah, dengan Qi yang riuh bersemayam di dalamnya. Tidak dapat dikonsumsi secara langsung. Dikatakan bahwa Esensi Oker tumbuh di Gua Drake di Gunung Kunlun.</Desc>
-			<Item.FabaoSuffix>Idola, Boneka, Akar, Segel</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Tanaman</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tanam untuk menumbuhkan Tanaman Spiritual.</StoryBnts.0.Desc>
-			<From>Petualangan atau Perdagangan</From>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_LingMuXueJie" sParam="Item">
-			<ThingName>Esensi Resin</ThingName>
+			<ThingName>Resin Essence</ThingName>
 			<Desc>Zat agar-agar yang diekstrak dari Akar Spiritual bila diberi nutrisi, dapat mengisi kembali Stamina tubuh manusia secara langsung.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence" sParam="Item">
-			<ThingName>Fluks Bumi</ThingName>
+			<ThingName>Earth Flux</ThingName>
 			<Desc>Intisari dari apa yang ada jauh di dalam kerak bumi, merupakan cairan berwarna putih susu dan merupakan bahan yang dapat digunakan dalam pembuatan berbagai macam ramuan ajaib. Mengkonsumsinya secara langsung akan mengisi kembali Stamina dalam jumlah besar dan memperluas Cadangan Qi, sehingga meningkatkan Max Qi seseorang. Mengkonsumsinya dalam jumlah besar secara signifikan mengurangi efek perluasan Cadangan Qi. Dikatakan bahwa mata air Fluks Bumi dapat ditemukan di Pulau Exultant dan di Gua Mata Air Permata Gunung Shu.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1" sParam="Item">
-			<ThingName>Fluks Jahat</ThingName>
+			<ThingName>Wicked Flux</ThingName>
 			<Desc>Intisari dari apa yang ada jauh di dalam kerak bumi dengan warna merah cerah. Mengkonsumsinya secara langsung akan mengisi kembali Stamina dalam jumlah besar dan memperluas Cadangan Qi, sehingga meningkatkan Max Qi seseorang. Zat ini obatnya lemah surut dan bisa diminum berkali-kali. Namun, hal ini akan menyebabkan Qi negatif terkonsentrasi di dalam, yang mempunyai pengaruh permanen pada pikiran. Mengkonsumsinya dalam jumlah banyak sangat mempengaruhi budidaya seseorang.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence_1" sParam="Item">
-			<ThingName>Esensi Suci</ThingName>
+			<ThingName>Holy Essence</ThingName>
 			<Desc>Zat seperti krim yang dibentuk oleh Fluks Bumi yang terkoagulasi. Itu dapat mengubah Qi seseorang menjadi esensi vital, menurunkan Max Qi. Namun, itu dapat menyembuhkan segala luka dan meningkatkan Persepsi, Konstitusi, dan Intelijen masing-masing sebesar 10%. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1_1" sParam="Item">
-			<ThingName>Esensi Jahat</ThingName>
+			<ThingName>Evil Essence</ThingName>
 			<Desc>Zat seperti krim yang dibentuk oleh Corrupted Flux yang terkoagulasi. Itu dapat mengubah esensi vital seseorang menjadi Qi, meningkatkan Max Qi. Namun, kekuatan hidup purba seseorang akan rusak sebagai akibatnya, menurunkan Persepsi, Konstitusi, dan Kecerdasan masing-masing sebesar 10%. Dapat dikonsumsi berkali-kali.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LifeStream" sParam="Item">
-			<ThingName>Kehidupan Musim Semi</ThingName>
+			<ThingName>Life Spring</ThingName>
 			<Desc>Mata air ilahi dikatakan memberikan keabadian ketika diminum, merupakan bahan yang dapat digunakan dalam pembuatan berbagai macam ramuan ajaib. Meminumnya secara langsung memperpanjang umur seseorang hingga 99 tahun. Mengonsumsinya dalam jumlah banyak akan mengurangi efeknya secara signifikan. Konon mata air tersebut dapat ditemukan di Kolam Surgawi Gunung Nelumbo.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Ginseng" sParam="Item">
 			<ThingName>Ginseng</ThingName>
 			<Desc>Ramuan mahal yang mampu meningkatkan ketahanan alami masyarakat selama 2 jam jika dikonsumsi langsung. Hal ini dapat meningkatkan proses pembangunan Yayasan mereka ketika dikonsumsi oleh murid luar. Sering digunakan sebagai bahan obat. Namun, mengonsumsinya dalam jumlah besar akan mengurangi efeknya secara signifikan.</Desc>
-			<Item.FabaoSuffix>Idola, Boneka, Boneka</Item.FabaoSuffix>
-			<From>Ladang Herbal atau Petualangan</From>
+			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
+			<From>Herb Field or Adventure</From>
 		</Text>
 		<Text Name="Item_GanodermaLucidum" sParam="Item">
 			<ThingName>Lingzhi</ThingName>
 			<Desc>Ramuan mahal yang bisa memperpanjang umur seseorang hingga 3 tahun jika dikonsumsi langsung. Hal ini dapat meningkatkan proses pembangunan Yayasan mereka ketika dikonsumsi oleh murid luar. Sering digunakan sebagai bahan obat. Namun, mengonsumsinya dalam jumlah besar akan mengurangi efeknya secara signifikan.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Bedak, Payung</Item.FabaoSuffix>
-			<From>Ladang Herbal atau Petualangan</From>
+			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<From>Herb Field or Adventure</From>
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
-			<ThingName>Ginseng Merah</ThingName>
+			<ThingName>Red Ginseng</ThingName>
 			<Desc>Ginseng terbaik dengan warna merah tua. Ini dapat secara signifikan meningkatkan proses Pelatihan Dasar mereka ketika dikonsumsi oleh murid luar, atau menambah sejumlah kecil Stamina untuk murid dalam. Sering digunakan sebagai bahan ramuan. Bila dikonsumsi langsung dapat meningkatkan ketahanan alami manusia secara signifikan selama 2 jam, dan meningkatkan Max Qi dalam jumlah kecil. Namun mengonsumsinya dalam jumlah banyak secara signifikan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Idola, Boneka, Boneka</Item.FabaoSuffix>
-			<From>Petualangan atau Perdagangan</From>
+			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
 			<ThingName>Ganoderma</ThingName>
 			<Desc>Lingzhi terbaik dengan warna merah keunguan. Ini dapat secara signifikan meningkatkan proses Pelatihan Dasar mereka ketika dikonsumsi oleh murid luar, atau menambah sejumlah kecil Stamina untuk murid dalam. Dapat digunakan untuk membuat ramuan yang berharga dan langka. Ini memperpanjang umur seseorang sebanyak 10 tahun dan sedikit meningkatkan Max Qi jika dikonsumsi secara langsung, namun mengkonsumsinya dalam jumlah besar secara signifikan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Bedak, Payung</Item.FabaoSuffix>
-			<From>Petualangan atau Perdagangan</From>
+			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<From>Adventure or Trade</From>
 		</Text>
 		<Text Name="Item_SoulPearl" sParam="Item">
-			<ThingName>Mutiara Jiwa</ThingName>
-			<Desc>Inti Inti dari Binatang, dengan Qi Yin yang sangat besar berdiam di dalamnya. Dikatakan bahwa bola tersebut dapat ditemukan di Gua Deathknell di Gunung Seratus Serangga.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Embrio Binatang</Item.BeMaterial.NamePrefix>
-			<From>Setan atau Perdagangan</From>
+			<ThingName>Soul Pearl</ThingName>
+			<Desc>Inti Inti dari Binatang, dengan Qi Yin yang sangat besar berdiam di dalamnya. Dikatakan bahwa bola tersebut dapat ditemukan di Gua Deathknell di Gunung Ratusan Serangga.</Desc>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Beast Embryo</Item.BeMaterial.NamePrefix>
+			<From>Demons or Trade</From>
 		</Text>
 		<Text Name="Item_MonsterBlood" sParam="Item">
-			<ThingName>Darah binatang</ThingName>
+			<ThingName>Beast blood</ThingName>
 			<Desc>Blood of a Beast, dengan Qi energik yang tinggal di dalamnya. Meski dimasukkan ke dalam botol, masih terasa panas mendidih. Dikatakan bahwa darah Binatang dapat diperoleh di Lubang Ular Gunung Seratus Serangga dan Desa Bukit Pasir di Gurun Besar Barat.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
-			<From>Setan atau Perdagangan</From>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<From>Demons or Trade</From>
 		</Text>
 		<Text Name="Item_Mint" sParam="Item">
-			<ThingName>Daun Kemurnian</ThingName>
+			<ThingName>Purity Leaf</ThingName>
 			<Desc>Jamu biasa yang kualitasnya menenangkan, dikonsumsi langsung dapat menenangkan jiwa dan Qi. Ini juga meningkatkan Kondisi Mental jika pengambilnya adalah murid batiniah.</Desc>
-			<Item.FabaoSuffix>Bunga, Putik</Item.FabaoSuffix>
-			<From>Ladang Herbal atau Petualangan</From>
+			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
+			<From>Herb Field or Adventure</From>
 		</Text>
 		<Text Name="Item_MagicHerb" sParam="Item">
-			<ThingName>Daun Roh</ThingName>
+			<ThingName>Spirit Leaf</ThingName>
 			<Desc>Ramuan yang kaya akan kekuatan spiritual, kualitasnya hangat dan banyak digunakan. Dapat dimanfaatkan bersama dengan berbagai bahan lainnya untuk membuat ramuan.</Desc>
-			<Item.FabaoSuffix>Bunga, Putik</Item.FabaoSuffix>
-			<From>Ladang Herbal atau Petualangan</From>
+			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
+			<From>Herb Field or Adventure</From>
 		</Text>
 		<Text Name="Item_Ginkgo" sParam="Item">
-			<ThingName>Buah Ginkgo</ThingName>
+			<ThingName>Ginkgo Fruit</ThingName>
 			<Desc>Buah dari pohon Ginkgo dapat dibuat menjadi berbagai obat penenang.</Desc>
-			<Item.FabaoSuffix>Buah, Manik, Bolus, Bola, Kubah</Item.FabaoSuffix>
-			<From>Tanaman</From>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
+			<From>Plant</From>
 		</Text>
 		<Text Name="Item_SnakeGallbladder" sParam="Item">
-			<ThingName>Empedu Ular</ThingName>
+			<ThingName>Snake Gall</ThingName>
 			<Desc>Kantong empedu ular, dapat mengisi kembali sejumlah kecil Stamina atau digunakan sebagai bahan obat. Menelannya oleh manusia dapat memperkuat tubuh mereka dan meningkatkan efisiensi Pelatihan Dasar.</Desc>
-			<Item.FabaoSuffix>Bolus, Empedu</Item.FabaoSuffix>
-			<From>Ular atau Perdagangan</From>
+			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
+			<From>Snake or Trade</From>
 		</Text>
 		<Text Name="Item_BearGallbladder" sParam="Item">
-			<ThingName>Beruang Empedu</ThingName>
+			<ThingName>Bear Gall</ThingName>
 			<Desc>Kantong empedu beruang, dapat mengisi kembali Stamina atau digunakan sebagai bahan obat. Menelannya oleh manusia dapat memperkuat tubuh mereka dan meningkatkan efisiensi Pelatihan Dasar.</Desc>
-			<Item.FabaoSuffix>Bolus, Empedu</Item.FabaoSuffix>
-			<From>Beruang atau Perdagangan</From>
+			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
+			<From>Bear or Trade</From>
 		</Text>
 		<Text Name="Item_Healroot" sParam="Item">
-			<ThingName>Herba</ThingName>
+			<ThingName>Herb</ThingName>
 			<Desc>Bahan obat umum yang dapat digunakan untuk mengobati berbagai penyakit, namun efeknya terbatas.</Desc>
-			<Item.FabaoSuffix>Daun</Item.FabaoSuffix>
-			<From>Lapangan atau Petualangan</From>
+			<Item.FabaoSuffix>Leaf</Item.FabaoSuffix>
+			<From>Field or Adventure</From>
 		</Text>
 		<Text Name="Item_Hemostatics" sParam="Item">
-			<ThingName>Balsem Penyembuhan</ThingName>
+			<ThingName>Healing Balm</ThingName>
 			<Desc>Obat umum yang dapat digunakan untuk mengobati luka terbuka, memiliki efek kuratif yang nyata.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SmallCycle" sParam="Item">
-			<ThingName>Pil Penyembuhan</ThingName>
+			<ThingName>Healing Pill</ThingName>
 			<Desc>Obat umum yang dapat digunakan untuk mengobati luka visceral, memiliki efek kuratif yang nyata.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Plaster" sParam="Item">
-			<ThingName>Balsem Tulang</ThingName>
+			<ThingName>Bonemend Balm</ThingName>
 			<Desc>Obat umum yang dapat digunakan untuk mengobati patah tulang, memiliki efek kuratif yang nyata.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_StoneEssenceDrug" sParam="Item">
-			<ThingName>Bubuk Batu</ThingName>
+			<ThingName>Stone Powder</ThingName>
 			<Desc>Bahan obat yang dibuat dengan menggabungkan ramuan herbal dengan sari batu tanah. Sangat efektif dalam mengobati luka dan penyakit.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Anodyne" sParam="Item">
-			<ThingName>Pereda nyeri</ThingName>
+			<ThingName>Painreliever</ThingName>
 			<Desc>Obat umum yang efektif menghilangkan rasa sakit.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Laxative" sParam="Item">
-			<ThingName>Pencahar</ThingName>
+			<ThingName>Laxative</ThingName>
 			<Desc>Obat umum yang memperlancar buang air besar, dapat digunakan untuk mengatasi gejala seperti Kembung dan Makan Kotoran. Namun, pengguna obat tersebut akan merasa sangat lemah setelah efeknya hilang.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ThunderAir" sParam="Item">
-			<ThingName>Nafas Surga</ThingName>
+			<ThingName>Heaven's Breath</ThingName>
 			<Desc>Gumpalan nafas kesusahan dicuri dengan menipu jalan surga. Ada kekuatan mengerikan yang mengalir di dalamnya.</Desc>
-			<Item.FabaoSuffix>Nafas, Kesengsaraan</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Breath, Tribulation</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
-			<ThingName>Tulang Ilahi</ThingName>
+			<ThingName>Divine Bones</ThingName>
 			<Desc>Tulang yang tersisa dengan kekuatan ilahi setelah Tubuh Fana Abadi dihancurkan. Jika Anda mampu menahan kekuatannya dan mengintegrasikannya ke dalam tubuh Anda, Anda akan mengasimilasi Qi surgawi, sehingga mengurangi Pencapaian Anda secara signifikan.</Desc>
-			<Item.FabaoSuffix>Tulang, Kerangka</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">
-			<ThingName>Diri sendiri</ThingName>
+			<ThingName>Sarira</ThingName>
 			<Desc>Tulang yang tersisa dengan kekuatan Keyakinan diambil dari Tubuh Dewa yang hancur. Jika Anda mampu menahan kekuatannya dan mengintegrasikannya ke dalam tubuh Anda, itu dapat meningkatkan Divinity Anda secara signifikan, meningkatkan Status Mental secara permanen serta meningkatkan batas Max Divine Residents. Ini memberikan efek yang lebih kecil jika dikenakan pada tubuh.</Desc>
 		</Text>
 		<Text Name="Item_ZaoHuaYuZi" sParam="Item">
-			<ThingName>Benih Keberuntungan</ThingName>
+			<ThingName>Fortune Seed</ThingName>
 			<Desc>Esensi dari apa yang ada jauh di dalam Gua Drake di Gunung Kunlun mengembun menjadi. Zat yang sangat padat, hanya dapat digunakan dengan metode rahasia khusus.</Desc>
-			<Item.FabaoSuffix>Giok, Anjing Laut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Jade, Seal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BenYuan_None" sParam="Item">
-			<ThingName>Asal (Tidak Ada)</ThingName>
+			<ThingName>Origin (None)</ThingName>
 			<Desc>Kristal yang mengandung esensi paling murni dari Akar Alami. Hanya dengan mengembangkan keterampilan yang tidak terdefinisi, seseorang dapat menyempurnakannya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Beberapa penyempurnaan secara bertahap akan mengurangi efeknya.</Desc>
-			<Item.FabaoSuffix>Kristal</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Perbaikan</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Refinement</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Mencoba menyempurnakan Akar Alami.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Jin" sParam="Item">
-			<ThingName>Asal (Logam)</ThingName>
+			<ThingName>Origin (Metal)</ThingName>
 			<Desc>Kristal yang mengandung unsur Akar Logam Alami. Hanya dengan mengembangkan keterampilan tipe Logam seseorang dapat menyempurnakannya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Beberapa penyempurnaan secara bertahap akan mengurangi efeknya.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Mu" sParam="Item">
-			<ThingName>Asal (Kayu)</ThingName>
+			<ThingName>Origin (Wood)</ThingName>
 			<Desc>Kristal yang mengandung unsur Akar Kayu Alami. Hanya dengan mengembangkan keterampilan tipe Kayu seseorang dapat menyempurnakannya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Beberapa penyempurnaan secara bertahap akan mengurangi efeknya.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Shui" sParam="Item">
-			<ThingName>Asal (Air)</ThingName>
+			<ThingName>Origin (Water)</ThingName>
 			<Desc>Kristal yang mengandung unsur Akar Air Alami. Hanya dengan mengembangkan keterampilan tipe Air seseorang dapat memperbaikinya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Beberapa penyempurnaan secara bertahap akan mengurangi efeknya.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Huo" sParam="Item">
-			<ThingName>Asal (Api)</ThingName>
+			<ThingName>Origin (Fire)</ThingName>
 			<Desc>Kristal yang mengandung unsur Akar Api Alami. Hanya dengan mengembangkan keterampilan tipe Api seseorang dapat memperbaikinya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya. Beberapa penyempurnaan secara bertahap akan mengurangi efeknya.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Tu" sParam="Item">
-			<ThingName>Asal (Bumi)</ThingName>
+			<ThingName>Origin (Earth)</ThingName>
 			<Desc>Kristal yang mengandung unsur Akar Alam Bumi. Hanya dengan mengembangkan keterampilan tipe Bumi seseorang dapat menyempurnakannya. Penyempurnaan yang berhasil mengurangi Pencapaian, sedangkan kegagalan akan mengakibatkan cedera dan peningkatan Penghukuman. Semakin tinggi Pencapaian Anda, semakin tinggi pula tingkat keberhasilan pemurniannya.</Desc>
 		</Text>
 		<Text Name="Item_YuanHunLu" sParam="Item">
-			<ThingName>Nektar Suci</ThingName>
+			<ThingName>Holy Nectar</ThingName>
 			<Desc>Embun mengandung esensi jiwa Binatang. Mengkonsumsinya akan memperlambat proses berpikir seseorang, memperbaiki kerusakan pada Roh Primordial. Namun, memperlambat pikiran akan berdampak negatif pada keterampilan mental seseorang, menurunkan Intelegensi sebesar 10%.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XieHunLu" sParam="Item">
-			<ThingName>Nektar Jahat</ThingName>
+			<ThingName>Evil Nectar</ThingName>
 			<Desc>Embun mengandung esensi jiwa Binatang. Mengkonsumsinya akan mempercepat proses berpikir seseorang dalam jangka waktu satu musim, meningkatkan Intelegensi sebesar 10% dan meningkatkan kemampuan belajar. Tindakan seperti itu akan menguras kekuatan jiwa, namun menyebabkan kerusakan pada Roh Primordial Anda.</Desc>
-			<Item.FabaoSuffix>Cairan, Air, Kabut, Asap, Kabut</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_YanDaoGuo" sParam="Item">
-			<ThingName>Buah Wawasan</ThingName>
+			<ThingName>Insight Fruit</ThingName>
 			<Desc>Buah aneh yang mengandung Nafas Surga. Mengkonsumsinya memungkinkan seseorang untuk mengamati evolusi jalan surga dan menjadi satu dengan mereka secara harmonis, meningkatkan Pencapaian secara signifikan dan mengurangi Penghukuman secara signifikan.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QieDaoGuo" sParam="Item">
-			<ThingName>Paksakan Buah</ThingName>
+			<ThingName>Impose Fruit</ThingName>
 			<Desc>Buah aneh yang mengandung Nafas Surga. Mengkonsumsinya memungkinkan seseorang untuk mencuri dari jalan surga dan akibatnya menjadi ancaman bagi mereka, sangat mengurangi Pencapaian dan meningkatkan Penghukuman.</Desc>
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoShenNian" sParam="Item">
-			<ThingName>Pikiran Ilahi</ThingName>
+			<ThingName>Divine Mind</ThingName>
 			<Desc>Gumpalan kesadaran ilahi yang bocor dari Tulang Ilahi, dapat dimanfaatkan oleh para kultivator untuk membentuk kembali pikiran dan tubuh mereka. Karena berkah dari kesadaran abadi, seseorang dapat mempertahankan sebagian kecil dari Inspirasi sebelumnya setelah kelahiran kembali. Saat menggunakan item ini untuk kelahiran kembali untuk pertama kalinya, Potensi seseorang juga akan meningkat karena pemeliharaan kesadaran ilahi.</Desc>
-			<Item.FabaoSuffix>Roh, Jiwa</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoXieNian" sParam="Item">
-			<ThingName>Pikiran yang Difitnah</ThingName>
+			<ThingName>Maligned Mind</ThingName>
 			<Desc>Gumpalan kesadaran jahat yang bocor dari Sisa-sisa Keabadian, dapat dimanfaatkan oleh para kultivator untuk membentuk kembali pikiran dan tubuh mereka. Karena berkah dari kesadaran abadi, seseorang dapat mempertahankan sebagian besar Inspirasi mereka sebelumnya setelah kelahiran kembali. Namun benda seperti itu bersifat negatif, menyebabkan seseorang mengeluarkan Potensinya secara berlebihan ketika menggunakannya untuk terlahir kembali untuk pertama kalinya.</Desc>
-			<Item.FabaoSuffix>Roh, Jiwa</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WinterWarm" sParam="Item">
-			<ThingName>Cacing Musim Dingin</ThingName>
+			<ThingName>Winter Worm</ThingName>
 			<Desc>Bentuk Jamur Ulat yang matang di musim dingin. Konsumsi memberikan sedikit peningkatan ketahanan dingin.</Desc>
-			<Item.FabaoSuffix>Cacing</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Worm</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerHerb" sParam="Item">
-			<ThingName>Ramuan Musim Panas</ThingName>
+			<ThingName>Summer Herb</ThingName>
 			<Desc>Bentuk Jamur Ulat yang matang di musim panas. Konsumsi memberikan sedikit peningkatan pada ketahanan panas.</Desc>
-			<Item.FabaoSuffix>Jerami</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Hay</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_God_ZhiNianJieJing" sParam="Item">
-			<ThingName>Permata Obsesi</ThingName>
+			<ThingName>Obsession Gem</ThingName>
 			<Desc>Kristalisasi yang dihasilkan dari obsesi dalam pikiran manusia, mengandung segala macam emosi yang kuat, keinginan dan pikiran lain-lain. Efek tidak diketahui.</Desc>
-			<Item.FabaoSuffix>Kristal</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_God_JieHui" sParam="Item">
-			<ThingName>Kesengsaraan Ashe</ThingName>
+			<ThingName>Tribulation Ashe</ThingName>
 			<Desc>Semacam Ashe khusus yang diciptakan oleh para penggarap mati yang terbunuh oleh kesengsaraan. Konon abu jenis ini merupakan hasil kondensasi dari kutukan pemiliknya.</Desc>
-			<Item.FabaoSuffix>Bubuk</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Powder</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
