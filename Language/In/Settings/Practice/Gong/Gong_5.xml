@@ -4,23 +4,23 @@
 			<DisplayName>Heaven Stealing Law</DisplayName>
 			<Desc>Ribuan tahun yang lalu, bumi terpaksa terpisah dari surga, menyebabkan menipisnya Qi di alam manusia, dan kenaikan menjadi mustahil. Karena putus asa, seorang kultivator dengan bakat langka menemukan cara yang tidak biasa dan menciptakan Hukum ini. Hal ini tidak bergantung pada lingkungan, tetapi akan menghabiskan energi kehidupan seseorang untuk melakukan terobosan. Oleh karena itu, hanya orang yang memiliki tubuh paling sehat dan berbagai obat langka untuk memperpanjang umurnya yang dapat mengolah Hukum ini.</Desc>
 			<SelectDesc>Seseorang akan unggul dalam keterampilan menjaga. Selama Inti Emas memenuhi persyaratan, terobosan akan berhasil. Namun, hal ini akan menghabiskan sebagian besar umur selama budidaya. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Penyerapan Sanguinis</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Penyerapan Sanguinis</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.1.DisplayName>Pembekuan Qi</Stages.0.Necks.1.DisplayName>
-			<Stages.1.DisplayName>Pengabdian yang Berkorban</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Pengabdian yang Berkorban</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.1.DisplayName>Marah</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.2.DisplayName>Pembekuan Inti</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Perubahan Kerangka</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Perubahan Kerangka</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Integrasi</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Janin</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Jiwa yang Terik</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Panas sekali</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.1.DisplayName>Pembakaran</Stages.3.Necks.1.DisplayName>
-			<Stages.4.DisplayName>Resolusi Terakhir</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Resolusi Terakhir</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>Kenaikan</Stages.4.Necks.1.DisplayName>
+			<Stages.0.DisplayName>Sanguine Absorption</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Sanguine Absorption</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Qi Congealment</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Sacrificial Devotion</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Sacrificial Devotion</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Tempered</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Core Congealment</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Skeletal Change</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Skeletal Change</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Integration</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Fetal</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Soul Scorching</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Scorching</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Incineration</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Last Resolution</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Last Resolution</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Ascension</Stages.4.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
