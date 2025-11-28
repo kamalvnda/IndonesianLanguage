@@ -2,48 +2,48 @@
 	<List>
 		<Text Name="ClothBase" sParam="Item">
 			<Desc>Kain tenun yang terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.FabaoSuffix>Tekstil, Benang, Kasa</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Kain</Item.BeMaterial.NamePrefix>
+			<Item.FabaoSuffix>Textile, Yarn, Gauze</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CottonCloth" sParam="Item">
-			<ThingName>Kain Bermotif</ThingName>
-			<Desc>Kain tenun warna [bermotif] berbahan dasar katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Bermotif</Item.BeMaterial.NamePrefix>
+			<ThingName>Patterned Fabric</ThingName>
+			<Desc>Kain tenun dari[patterned]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Patterned Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DeepBlueCloth" sParam="Item">
-			<ThingName>Kain Nila</ThingName>
-			<Desc>Kain tenun warna [nila] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Nila</Item.BeMaterial.NamePrefix>
+			<ThingName>Indigo Fabric</ThingName>
+			<Desc>Kain tenun dari[indigo]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Indigo Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_PurpleCloth" sParam="Item">
-			<ThingName>Kain Ungu</ThingName>
-			<Desc>Kain tenun warna [ungu] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Ungu</Item.BeMaterial.NamePrefix>
+			<ThingName>Purple Fabric</ThingName>
+			<Desc>Kain tenun dari[purple]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Purple Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YellowCloth" sParam="Item">
-			<ThingName>Kain Kuning</ThingName>
-			<Desc>Kain tenun warna [kuning] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Kuning</Item.BeMaterial.NamePrefix>
+			<ThingName>Yellow Fabric</ThingName>
+			<Desc>Kain tenun dari[yellow]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Yellow Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BlueCloth" sParam="Item">
-			<ThingName>Kain Biru</ThingName>
-			<Desc>Kain tenun warna [biru] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Biru</Item.BeMaterial.NamePrefix>
+			<ThingName>Blue Fabric</ThingName>
+			<Desc>Kain tenun dari[blue]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Blue Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_RedCloth" sParam="Item">
-			<ThingName>Kain Merah</ThingName>
-			<Desc>Kain tenun warna [merah] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Merah</Item.BeMaterial.NamePrefix>
+			<ThingName>Red Fabric</ThingName>
+			<Desc>Kain tenun dari[red]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Red Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_WhiteCloth" sParam="Item">
-			<ThingName>Kain Putih</ThingName>
-			<Desc>Kain tenun warna [putih] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Putih</Item.BeMaterial.NamePrefix>
+			<ThingName>White Fabric</ThingName>
+			<Desc>Kain tenun dari[white]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>White Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BlackCloth" sParam="Item">
-			<ThingName>Kain Hitam</ThingName>
-			<Desc>Kain tenun warna [hitam] terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Kain Hitam</Item.BeMaterial.NamePrefix>
+			<ThingName>Black Fabric</ThingName>
+			<Desc>Kain tenun dari[black]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
+			<Item.BeMaterial.NamePrefix>Black Fabric</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
