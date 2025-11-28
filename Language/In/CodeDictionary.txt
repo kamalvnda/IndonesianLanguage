@@ -83,7 +83,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 走路	Sedang berjalan
 打开存档:{0}结果为:{1}	Membuka Simpan File:{0}Hasil:{1}
 照顾	Penjaga
-精元	Daya tahan
+精元	Stamina
 [color=#ff0000]拖动框选范围[/color]	[color=#ff0000]Seret area yang dipilih[/color]
 游戏有版本更新{0}	Versi baru tersedia{0}
 购买（{0}元）	Pembelian ({0})
@@ -1537,7 +1537,7 @@ defName=>{0} 地图中随机受伤的npc名字=>{1} {2}	namadef=>{0}nama NPC yan
 退出	KELUAR
 远离炼宝台	dan Jauh dari Meja Kerajinan
 选择主材料	Pilih bahan utama
-耐久：{0:F0}/{1:F0}\n	Daya Tahan: {0:F0}/{1:F0}\n
+耐久：{0:F0}/{1:F0}\n	Stamina: {0:F0}/{1:F0}\n
 刚做完饭，准备休息一下	Baru saja selesai memasak; akan beristirahat
 练习秘法时，正乐在其中	Mempraktikkan Hukum rahasia; menikmatinya
 无法学习	Tidak bisa belajar.
@@ -1913,7 +1913,7 @@ npc无丹药耐必信息，没有条目可以删除!	npc tidak memiliki info res
 功法加成：{0}\n	Bonus Metode:{0}\n
 {0}成功通过斩念天劫斩掉执念，神国扩大一境。	{0}telah berhasil menghilangkan obsesi mereka melalui Kesengsaraan Detasemen, sehingga memperluas satu ubin lagi Alam Ilahi mereka.
 天气与季节	Cuaca & Musim
-精元:\n{2}{0}/{1:F0}{3}	Daya tahan:\n{2}{0}/{1:F0}{3}
+精元:\n{2}{0}/{1:F0}{3}	Stamina:\n{2}{0}/{1:F0}{3}
 未达到元神期，无法进行元神寄托的仪式。	Belum mencapai Keadaan Roh Primordial. Tidak dapat melakukan ritual keterikatan melalui roh primordial.
 网络状态异常,请稍后再试(错误代码:{0})	Status jaringan tidak normal, coba lagi nanti (Kode kesalahan:{0})
 等待帮助	Menunggu Bantuan
@@ -2285,7 +2285,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 抱歉，WeGame异常导致游戏即将退出。	Maaf, terjadi kesalahan pada WeGame yang menyebabkan game dimatikan.
 凶宅	Rumah Berhantu
 快速增加	Peningkatan cepat
-精元：{0}\n	Daya tahan:{0}\n
+精元：{0}\n	Stamina:{0}\n
 \n修为：{0:N0}({1:N0})	\nPengalaman: {0:N0} ({1:N0})
 此人现在对玄门奥义的积累不足，学习旁门心得对此人已经没有什么启发。\n	Sejauh ini pengetahuan Ortodoks yang dimiliki orang tersebut terbatas, sehingga mempelajari seni Unortodoks dari sekolah lain tidak lagi mendatangkan inspirasi.\n
 确定删除 {0} 吗？	Apakah Anda ingin menghapus{0}?
@@ -4124,7 +4124,7 @@ Tag:{0} 程度{1} MinLevel:{2} MaxLevel:{3} 未找到任何满足条件的效果
 晨观日出	Menyaksikan Matahari Terbit
 设置NPC对话。	Atur dialog NPC.
 消耗49点香火值，祖师分身下凡战斗，持续一天。	Harganya 49 Dupa. Sang master akan turun ke bumi untuk bertarung selama satu hari.
-{1}{0:F0} 精元\n	{1}{0:F0} Daya tahan\n
+{1}{0:F0} 精元\n	{1}{0:F0} Stamina\n
 返回	Kembali
 庵	Suaka
 极度危险	Letal
