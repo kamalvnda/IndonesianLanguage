@@ -1,18 +1,18 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>kehilangan sesuatu</DisplayName>
+			<DisplayName>Lost Item</DisplayName>
 		</Text>
 		<Text Name="SYS_DamageMethod">
-			<DisplayName>Sihir penyembuhan tubuh</DisplayName>
+			<DisplayName>Injury Remold Spell</DisplayName>
 		</Text>
 		<Text Name="SYS_RebuildMethod">
-			<DisplayName>Keajaiban pembentuk tubuh</DisplayName>
-			<Desc>Merekonstruksi bagian organ yang hilang</Desc>
+			<DisplayName>Reconstruction Spell</DisplayName>
+			<Desc>Merekonstruksi bagian yang hilang.</Desc>
 		</Text>
 		<Text Name="SYS_yishan">
-			<DisplayName>percikan konsep</DisplayName>
-			<Desc>Bangkitkan sebuah ide</Desc>
+			<DisplayName>Spark of Inspiration</DisplayName>
+			<Desc>Percikan Inspirasi</Desc>
 		</Text>
 	</List>
 </Texts>
