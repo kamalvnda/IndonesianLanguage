@@ -88,4 +88,4 @@ ID	FabaoName	FabaoDes
 
 
 
-89	Evil Deterring	Penangkal Kejahatan	Sebuah artefak yang terbuat dari pedang kayu dan dapat mengusir kejahatan.
+89	Evil Deterring	An artifact made from a wooden sword and can deter evil.
