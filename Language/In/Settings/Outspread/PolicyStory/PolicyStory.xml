@@ -1,164 +1,164 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="PolicyStory_TreeEXP">
-			<DisplayName>Pelajari Alam</DisplayName>
+			<DisplayName>Study Nature</DisplayName>
 			<Desc>Anda telah cukup belajar dari Pengakuan Iman Surga, dan perolehan Anda dapat dibekukan menjadi pil sekarang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give1">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan membagikan makanan kepada orang yang lewat.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan membagikan makanan kepada orang yang lewat.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give2">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Banyak pengemis yang meminta uang di pinggir jalan.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Banyak pengemis yang meminta uang di pinggir jalan.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give3">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat jembatan batu telah runtuh, dan orang-orang tidak lagi bisa lewat sini.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat jembatan batu telah runtuh, dan orang-orang tidak lagi bisa lewat sini.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give4">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give5">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria muda sedang berebut seorang wanita.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria muda sedang berebut seorang wanita.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give6">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria besar berkelahi satu sama lain. Seorang pejalan kaki menjelaskan bahwa penyebabnya adalah karena salah satu laki-laki menanam pohon, namun laki-laki lainnya memetik dan memakan buahnya.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria besar berkelahi satu sama lain. Seorang pejalan kaki menjelaskan bahwa penyebabnya adalah karena salah satu laki-laki menanam pohon, namun laki-laki lainnya memetik dan memakan buahnya.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give7">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]sedang bersiap untuk melakukan kegiatan amal, ketika seorang wanita berpakaian indah mendekati tempat agen sambil menangis, dan mengatakan anaknya hilang.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] sedang bersiap untuk melakukan kegiatan amal, ketika seorang wanita berpakaian indah mendekati tempat agen sambil menangis, dan mengatakan anaknya hilang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give8">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]sedang bersiap untuk melakukan pekerjaan amal, ketika seorang pria bergegas ke aula memohon kepada agen untuk menyelamatkan istrinya yang sekarat.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] sedang bersiap untuk melakukan pekerjaan amal, ketika seorang pria bergegas ke aula memohon kepada agen untuk menyelamatkan istrinya yang sekarat.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give9">
-			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>[NAME]telah mengembara ke tempat yang agak jauh dan mulai memberi sedekah. Sekelompok bandit kebetulan lewat.</Desc>
+			<DisplayName>Special Event</DisplayName>
+			<Desc>[NAME] telah mengembara ke tempat yang agak jauh dan mulai memberi sedekah. Sekelompok bandit kebetulan lewat.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give10">
-			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>Agen[NAME]menemukan pasukan {0}, dan melihat bahwa mereka sedang memberikan sedekah kepada orang yang lewat.</Desc>
+			<DisplayName>Special Event</DisplayName>
+			<Desc>Agen [NAME] menemukan pasukan {0}, dan melihat bahwa mereka sedang memberikan sedekah kepada orang yang lewat.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give11">
-			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>Agen[NAME]menemukan kekuatan {0}, dan melihat bahwa mereka sedang berkhotbah.</Desc>
+			<DisplayName>Special Event</DisplayName>
+			<Desc>Agen [NAME] menemukan kekuatan {0}, dan melihat bahwa mereka sedang berkhotbah.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give12">
-			<DisplayName>Acara Khusus</DisplayName>
-			<Desc>Agen[NAME]bertemu dengan pasukan {0}, dan melihat bahwa mereka sedang mengadakan upacara puasa.</Desc>
+			<DisplayName>Special Event</DisplayName>
+			<Desc>Agen [NAME] bertemu dengan pasukan {0}, dan melihat bahwa mereka sedang mengadakan upacara puasa.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give13">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka menemukan sebuah rumah kayu rusak, pemiliknya cacat dan tidak mampu memperbaikinya.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka menemukan sebuah rumah kayu rusak, pemiliknya cacat dan tidak mampu memperbaikinya.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give14">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria berkostum asing menipu orang yang lewat.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria berkostum asing menipu orang yang lewat.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give15">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melewati dua kedai minuman yang saling berhadapan di seberang jalan, di mana para pelayannya sedang berdebat tentang masalah bisnis.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melewati dua kedai minuman yang saling berhadapan di seberang jalan, di mana para pelayannya sedang berdebat tentang masalah bisnis.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give16">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka bertemu dengan sekelompok pengungsi.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka bertemu dengan sekelompok pengungsi.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give17">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria sekarat yang sakit parah di pinggir jalan, yang memohon kepada agen tersebut untuk melepaskannya dari kesengsaraannya.</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria sekarat yang sakit parah di pinggir jalan, yang memohon kepada agen tersebut untuk melepaskannya dari kesengsaraannya.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give18">
-			<DisplayName>Amal</DisplayName>
-			<Desc>[NAME]memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka secara tidak sengaja menyentuh seorang lelaki tua di tengah kerumunan, yang langsung terjatuh ke tanah dan mulai berteriak, "Aduh! Kakiku patah! Ini dia!"</Desc>
+			<DisplayName>Charity</DisplayName>
+			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka secara tidak sengaja menyentuh seorang lelaki tua di tengah kerumunan, yang langsung terjatuh ke tanah dan mulai berteriak, "Aduh! Kakiku patah! Ini dia!"</Desc>
 		</Text>
 		<Text Name="PolicyStory_Product1">
-			<DisplayName>Kerja Manual</DisplayName>
-			<Desc>Itu adalah hari yang baik.[NAME]memutuskan untuk mengawasi persalinan.</Desc>
+			<DisplayName>Manual Labor</DisplayName>
+			<Desc>Itu adalah hari yang baik. [NAME] memutuskan untuk mengawasi persalinan.</Desc>
 		</Text>
 		<Text Name="PolicyStory_TreasureHunt">
-			<DisplayName>Perburuan Harta Karun</DisplayName>
-			<Desc>[NAME]membuat ramalan dan memutuskan untuk mengajak murid-muridnya berburu harta karun.</Desc>
+			<DisplayName>Treasure Hunt</DisplayName>
+			<Desc>[NAME] membuat ramalan dan memutuskan untuk mengajak murid-muridnya berburu harta karun.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon1">
-			<DisplayName>Khotbah</DisplayName>
-			<Desc>Hari ini,[NAME]sedang berdiri di pinggir jalan dekat tempat mereka dan bersiap untuk berkhotbah.</Desc>
+			<DisplayName>Preaching</DisplayName>
+			<Desc>Hari ini, [NAME] sedang berdiri di pinggir jalan dekat tempat mereka dan bersiap untuk berkhotbah.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon2">
-			<DisplayName>Khotbah</DisplayName>
-			<Desc>Hari ini,[NAME]sedang berkhotbah ketika seseorang mendatangi mereka dan berteriak: "Omong kosong!"</Desc>
+			<DisplayName>Preaching</DisplayName>
+			<Desc>Hari ini, [NAME] sedang berkhotbah ketika seseorang mendatangi mereka dan berteriak: "Omong kosong!"</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon3">
-			<DisplayName>Khotbah</DisplayName>
-			<Desc>Hari ini,[NAME]sedang berkhotbah ketika seorang ulama mendatangi mereka dan mengatakan apa pun yang dikatakan agen itu salah.</Desc>
+			<DisplayName>Preaching</DisplayName>
+			<Desc>Hari ini, [NAME] sedang berkhotbah ketika seorang ulama mendatangi mereka dan mengatakan apa pun yang dikatakan agen itu salah.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon4">
-			<DisplayName>Khotbah</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]sedang berkhotbah. Seorang wanita paruh baya terus bertepuk tangan dengan cara yang menjengkelkan, tapi dia bukanlah pengikutnya.</Desc>
+			<DisplayName>Preaching</DisplayName>
+			<Desc>Itu adalah hari yang cerah, dan [NAME] sedang berkhotbah. Seorang wanita paruh baya terus bertepuk tangan dengan cara yang menjengkelkan, tapi dia bukanlah pengikutnya.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret1">
-			<DisplayName>Merencanakan</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]berjalan ke paviliun rahasia untuk membuat plot.</Desc>
+			<DisplayName>Plotting</DisplayName>
+			<Desc>Itu adalah hari yang cerah, dan [NAME] berjalan ke paviliun rahasia untuk membuat plot.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret2">
-			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]mengetahui bahwa {0} sedang memberi sedekah dan memutuskan untuk ikut campur.</Desc>
+			<DisplayName>Plotting</DisplayName>
+			<Desc>[NAME] mengetahui bahwa {0} sedang memberi sedekah dan memutuskan untuk ikut campur.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret3">
-			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]menemukan bahwa {0} sedang bersiap untuk berkhotbah...sebuah ide muncul di benakku seperti sambaran petir.</Desc>
+			<DisplayName>Plotting</DisplayName>
+			<Desc>[NAME] menemukan bahwa {0} sedang bersiap untuk berkhotbah...sebuah ide muncul di benakku seperti sambaran petir.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret4">
-			<DisplayName>Merencanakan</DisplayName>
-			<Desc>[NAME]mengetahui bahwa {0} sedang mengadakan upacara puasa. Agen memutuskan untuk ikut campur.</Desc>
+			<DisplayName>Plotting</DisplayName>
+			<Desc>[NAME] mengetahui bahwa {0} sedang mengadakan upacara puasa. Agen memutuskan untuk ikut campur.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp1">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan[NAME]berada di Kuil Disiplin mempersiapkan Pantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>Itu adalah hari yang cerah, dan [NAME] berada di Kuil Disiplin mempersiapkan Pantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp2">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>[NAME]melihat bahwa semua orang menjalani gaya hidup mewah dan memutuskan untuk melakukan Pantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>[NAME] melihat bahwa semua orang menjalani gaya hidup mewah dan memutuskan untuk melakukan Pantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp3">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>[NAME]melihat orang kaya hidup mewah sementara orang miskin mati di pinggir jalan, dan memutuskan untuk berpantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>[NAME] melihat orang kaya hidup mewah sementara orang miskin mati di pinggir jalan, dan memutuskan untuk berpantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp4">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>[NAME]melihat bahwa penjahat sedang menjalankan kota dan kebencian memenuhi kota, dan memutuskan untuk melakukan Pantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>[NAME] melihat bahwa penjahat sedang menjalankan kota dan kebencian memenuhi kota, dan memutuskan untuk melakukan Pantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp5">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>[NAME]melihat pedagang dan perampok yang tidak jujur ​​menguasai kota, dan memutuskan untuk berpantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>[NAME] melihat pedagang dan perampok yang tidak jujur ​​menguasai kota, dan memutuskan untuk berpantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_OtherDisp1">
-			<DisplayName>Pantang</DisplayName>
-			<Desc>Hari ini,[NAME]melihat itu[SCHOOL{0}]sedang berpantang.</Desc>
+			<DisplayName>Abstinence</DisplayName>
+			<Desc>Hari ini, [NAME] melihat itu [SCHOOL{0}] sedang berpantang.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Drought">
-			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk mengatasi kekeringan.</Desc>
+			<DisplayName>Disaster Relief</DisplayName>
+			<Desc>[NAME] memutuskan untuk mengatasi kekeringan.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Flood">
-			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menangani banjir.</Desc>
+			<DisplayName>Disaster Relief</DisplayName>
+			<Desc>[NAME] memutuskan untuk menangani banjir.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Siberia">
-			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menghadapi gelombang dingin.</Desc>
+			<DisplayName>Disaster Relief</DisplayName>
+			<Desc>[NAME] memutuskan untuk menghadapi gelombang dingin.</Desc>
 		</Text>
 		<Text Name="PolicyStory_EarthQuake">
-			<DisplayName>Bantuan Bencana</DisplayName>
-			<Desc>[NAME]memutuskan untuk menangani gempa tersebut.</Desc>
+			<DisplayName>Disaster Relief</DisplayName>
+			<Desc>[NAME] memutuskan untuk menangani gempa tersebut.</Desc>
 		</Text>
 		<Text Name="PolicyStory_God1">
-			<DisplayName>Pertunjukan Ajaib</DisplayName>
-			<Desc>[NAME]memutuskan untuk membiarkan seorang murid Shendao melakukan keajaiban.</Desc>
+			<DisplayName>Miracle Performance</DisplayName>
+			<Desc>[NAME] memutuskan untuk membiarkan seorang murid Shendao melakukan keajaiban.</Desc>
 		</Text>
 	</List>
 </Texts>
