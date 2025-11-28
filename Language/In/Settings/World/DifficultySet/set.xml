@@ -1,16 +1,26 @@
-<Texts Type="Lainnya">
+<Texts Type="Other">
 	<List>
 		<Text Name="Lv0">
-			<DisplayName>Mudah</DisplayName>
-			<Desc>Level Pemula: Dalam kesulitan ini, Anda dapat berkultivasi semudah berjalan di atas angin. Hal-hal duniawi tidak akan mengganggu jalanmu. Selain itu, kecepatan bekerja dan bercocok tanam telah meningkat pesat. Tidak ada invasi musuh. Tidak ada kondisi cuaca ekstrim, mudah dimainkan</Desc>
+			<DisplayName>Beginner</DisplayName>
+			<Desc>Pemula:
+Dalam kesulitan ini Anda bisa berkultivasi seperti jalan berangin.
+Hal-hal fana tidak akan mengganggu perjalananmu, sementara pekerjaan
+dan kecepatan budidaya sangat meningkat.
+Tidak ada invasi musuh, tidak ada cuaca ekstrim, mudah dimainkan.</Desc>
 		</Text>
 		<Text Name="Lv1">
 			<DisplayName>Normal</DisplayName>
-			<Desc>Level Normal: Kesulitan tradisional. Cocok untuk pemain yang sudah mempunyai pengetahuan tentang game ini. Peristiwa akan terjadi seperti biasa. Kecepatan kerja dan budidaya sesuai standar.</Desc>
+			<Desc>Biasa:
+Tingkat kesulitan moral klasik, dan cocok untuk pemain yang sudah memiliki pengetahuan tentang game ini.
+Semua kejadian akan terjadi secara normal. Pekerjaan dan kultivasi berada pada kecepatan normal.</Desc>
 		</Text>
 		<Text Name="Lv2">
-			<DisplayName>Filsuf</DisplayName>
-			<Desc>Level Sage: Tingkat Kesulitan Tinggi Cocok untuk pemain yang familiar dengan game ini. Anda dapat menantang diri sendiri dalam mode ahli. yang mencakup pengalaman bermain penuh. Mode ahli menguji keterampilan Anda secara maksimal. dan cocok untuk mereka yang benar-benar ahli. Beberapa pencapaian hanya dapat diselesaikan dalam Mode Pakar.</Desc>
+			<DisplayName>Sage</DisplayName>
+			<Desc>Pertapa:
+Kesulitan ini sulit, dan diperuntukkan bagi pemain yang sangat familiar dengan game ini.
+Anda dapat menantang diri Anda sendiri dalam mode Abadi, yang berisi pengalaman bermain penuh.
+Mode abadi menguji kemampuan ekstrem pemain, dan hanya cocok untuk makhluk abadi sejati.
+Beberapa pencapaian hanya dapat dicapai dalam mode Abadi.</Desc>
 		</Text>
 	</List>
 </Texts>
