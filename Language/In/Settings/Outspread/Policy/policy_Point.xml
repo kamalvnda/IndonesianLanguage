@@ -1,43 +1,43 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Policy_TianDaoShenDan">
-			<DisplayName>Pelajari Alam</DisplayName>
+			<DisplayName>Study Nature</DisplayName>
 			<Desc>Amati langit malam atau Feng Shui, sesekali hasilkan satu Pil Pencerahan.</Desc>
 		</Text>
 		<Text Name="Policy_TreasureHunt">
-			<DisplayName>Perburuan Harta Karun</DisplayName>
+			<DisplayName>Treasure Hunt</DisplayName>
 			<Desc>Berburu harta karun langka di lokasi yang belum dijelajahi. Harta yang berbeda akan memerlukan metode dan tingkat Kecerdasan yang berbeda.</Desc>
 		</Text>
 		<Text Name="Policy_Acceleration">
-			<DisplayName>Kerja Manual</DisplayName>
+			<DisplayName>Manual Labor</DisplayName>
 			<Desc>Kirim agen atau murid untuk mengawasi pekerjaan manual. Akan mendapatkan produksi tambahan sesekali. Produktivitas ladang dipengaruhi oleh statistik pertanian; yaitu tambang dan tambang batu roh dengan mineral; yaitu kamp penebangan kayu oleh penduduk.</Desc>
 		</Text>
 		<Text Name="Policy_Discipline">
-			<DisplayName>Pantang</DisplayName>
+			<DisplayName>Abstinence</DisplayName>
 			<Desc>Peringatan bagi masyarakat untuk tidak bersikap memanjakan dan maksiat. Disiplin yang berbeda diperlukan dalam situasi yang berbeda. Tingkat keberhasilannya dipengaruhi oleh pertempuran.</Desc>
 		</Text>
 		<Text Name="Policy_Secret">
-			<DisplayName>Merencanakan</DisplayName>
+			<DisplayName>Plotting</DisplayName>
 			<Desc>Berusaha untuk mengalihkan orang-orang yang percaya pada sekte lain ke pihak kita. Hal ini bisa mengganggu tindakan lembaga lain, atau mengganggu kehidupan masyarakat biasa. Dibutuhkan kecerdasan tingkat tinggi atau metode khusus untuk berhasil.</Desc>
 		</Text>
 		<Text Name="Policy_Sermon">
-			<DisplayName>Khotbah</DisplayName>
+			<DisplayName>Preaching</DisplayName>
 			<Desc>Beritahu orang-orang tentang daya tarik agama kita. Masalah yang berbeda akan muncul dan perlu ditangani. Hasilnya dipengaruhi oleh karisma, daya tarik dan stabilitas.</Desc>
 		</Text>
 		<Text Name="Policy_Give">
-			<DisplayName>Amal</DisplayName>
+			<DisplayName>Charity</DisplayName>
 			<Desc>Berikan sesuatu kepada orang yang membutuhkannya. Masalah yang berbeda akan muncul dan perlu ditangani. Anda bisa mendapatkan sedikit pengikut, daya tarik, atau pengaruh.</Desc>
 		</Text>
 		<Text Name="Policy_Missionary">
-			<DisplayName>Amal</DisplayName>
+			<DisplayName>Charity</DisplayName>
 			<Desc>Berikan sesuatu kepada orang yang membutuhkannya. Masalah yang berbeda akan muncul dan perlu ditangani. Anda bisa mendapatkan sedikit pengikut, daya tarik, atau pengaruh.</Desc>
 		</Text>
 		<Text Name="Policy_Submiss">
-			<DisplayName>Menggabungkan</DisplayName>
+			<DisplayName>Incorporate</DisplayName>
 			<Desc>Menjadi satu-satunya agensi di sini. Akan ada berbagai event untuk menguji kemampuanmu. Cobalah untuk memajukan penggabungan, yang akan tercapai ketika mencapai 20. Satu langkah salah, manusia akan merasa terancam oleh kami dan Anda harus memulai dari awal lagi. Jika kebijakan lain dipilih selama proses tersebut, penggabungan juga akan terhenti.</Desc>
 		</Text>
 		<Text Name="Policy_God">
-			<DisplayName>Keajaiban</DisplayName>
+			<DisplayName>Miracle</DisplayName>
 			<Desc>Biarkan murid Shendao melakukan keajaiban di sini.</Desc>
 		</Text>
 	</List>
