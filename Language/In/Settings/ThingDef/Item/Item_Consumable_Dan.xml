@@ -1,322 +1,322 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="DanBase" sParam="Item">
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
-			<ThingName>Pil Pembentukan Qi</ThingName>
+			<ThingName>Forming Pill</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi, dapat mengatur lima Qi dalam tubuh seseorang dan menstimulasi potensinya, untuk sementara meningkatkan Persepsi, Konstitusi, dan Kecerdasan sebesar 30% selama 48 jam. Secara signifikan meningkatkan kemajuan Pelatihan Dasar untuk murid luar saat dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
-			<ThingName>Pil Stamina</ThingName>
+			<ThingName>Stamina Pill</ThingName>
 			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 7 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan2" sParam="Item">
-			<ThingName>Pil Ginseng</ThingName>
+			<ThingName>Ginseng Pill</ThingName>
 			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 14 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan3" sParam="Item">
-			<ThingName>Bubuk Esensi Resin</ThingName>
+			<ThingName>Resin Essence Powder</ThingName>
 			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 28 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling" sParam="Item">
-			<ThingName>Pil Regen Qi</ThingName>
+			<ThingName>Qi Regen Pill</ThingName>
 			<Desc>Pil kaya akan Qi. Konsumsilah untuk memulihkan 3.000 Qi dan meningkatkan Tingkat Pemulihan Qi selama 6 jam. Umumnya disarankan untuk menunda konsumsi setelah mencapai fase pembentukan inti, jika tidak, pengguna dapat terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling2" sParam="Item">
-			<ThingName>Pil Matahari</ThingName>
+			<ThingName>Sun Pill</ThingName>
 			<Desc>Pil ramuan ungu tua. Konsumsilah untuk memulihkan Qi dalam jumlah besar dan meningkatkan Max Qi. Mengonsumsinya dalam jumlah banyak akan mengurangi efeknya secara signifikan. Sebaiknya hanya dikonsumsi setelah mencapai fase Inti Emas, jika tidak, pengguna dapat terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeRate" sParam="Item">
-			<ThingName>Pil Pikiran</ThingName>
+			<ThingName>Thought Pill</ThingName>
 			<Desc>Pil yang terbuat dari Buah Sage dan Daun Kemurnian, mampu mempercepat proses berpikir seseorang, menggandakan kemungkinan mencapai Terobosan. Berlangsung 24 jam. Mengonsumsinya dalam jumlah banyak akan mengurangi efeknya secara signifikan.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
-			<ThingName>Pil Kecambah</ThingName>
+			<ThingName>Sprout Pill</ThingName>
 			<Desc>Pil yang terbuat dari Buah Crimson mampu meningkatkan Kecepatan Budidaya sebesar 30%. Berlangsung 24 jam.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CalmDown" sParam="Item">
-			<ThingName>Pil Kemurnian</ThingName>
+			<ThingName>Purity Pill</ThingName>
 			<Desc>Pil yang terbuat dari Daun Kemurnian dan Bubuk Kristal Es, dapat menstabilkan Kondisi Mental seseorang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Happiness" sParam="Item">
-			<ThingName>Pil Euforia</ThingName>
+			<ThingName>Euphoria Pill</ThingName>
 			<Desc>Pil yang bisa membuat seseorang merasa bahagia selama 2 hari, tapi juga menurunkan efisiensi dalam melakukan segalanya hingga 50%.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
-			<ThingName>Pil Inedia</ThingName>
+			<ThingName>Inedia Pill</ThingName>
 			<Desc>Konsumsi Pil Inedia untuk mendapatkan kemampuan Penyerapan Qi selama 2 hari, secara otomatis memulihkan Rasa Lapar.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
-			<ThingName>Pil Puasa</ThingName>
+			<ThingName>Fasting Pill</ThingName>
 			<Desc>Konsumsilah Pil Puasa agar kebal dari rasa lapar selama 2 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger1" sParam="Item">
-			<ThingName>Pil Nutrisi</ThingName>
+			<ThingName>Nourish Pill</ThingName>
 			<Desc>Konsumsilah untuk mengisi kembali nutrisi, mengurangi tingkat kelaparan dan tingkat kelelahan selama 2 hari.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LostSoul" sParam="Item">
-			<ThingName>Pil Sedasi</ThingName>
+			<ThingName>Sedation Pill</ThingName>
 			<Desc>Pil berbahan dasar mineral yang sangat mendasar. Mengkonsumsi pil ini akan menyebabkan fungsi otak seseorang tertekan sehingga membuat penggunanya mengalami koma selama 3 hari penuh.</Desc>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi1" sParam="Item">
-			<ThingName>Bubuk Roh</ThingName>
+			<ThingName>Spirit Powder</ThingName>
 			<Desc>Bubuk obat yang terbuat dari Ginseng dan Ganoderma, dapat merangsang saluran meridian seseorang dan menyembuhkan luka dengan label “Spirit”.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi" sParam="Item">
-			<ThingName>Pil Aliran Qi</ThingName>
+			<ThingName>Qi Flow Pill</ThingName>
 			<Desc>Pil yang dapat menetralkan Qi yang tidak teratur di dalam tubuh seseorang, mampu menyembuhkan luka secara efektif dengan label “Spirit”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
-			<ThingName>Bubuk Penyembuh</ThingName>
+			<ThingName>Heal Powder</ThingName>
 			<Desc>Elixir mampu menyembuhkan Cedera Batin dengan tag "Logam", "Kayu", "Air", "Api" dan "Bumi"; kerja yang relatif lambat.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureJinDamage" sParam="Item">
-			<ThingName>Pil Kayu</ThingName>
+			<ThingName>Wood Pill</ThingName>
 			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Kayu".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureMuDamage" sParam="Item">
-			<ThingName>Pil Bumi</ThingName>
+			<ThingName>Earth Pill</ThingName>
 			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Bumi".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
-			<ThingName>Bubuk Api</ThingName>
+			<ThingName>Fire Powder</ThingName>
 			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Api".</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
-			<ThingName>Pil Logam</ThingName>
+			<ThingName>Metal Pill</ThingName>
 			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Logam".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureTuDamage" sParam="Item">
-			<ThingName>Pil Air</ThingName>
+			<ThingName>Water Pill</ThingName>
 			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Air".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
-			<ThingName>Pil Obat</ThingName>
+			<ThingName>Remedy Pill</ThingName>
 			<Desc>Pil yang mampu menyembuhkan Cedera Batin dengan label "Logam", "Kayu", "Air", "Api" dan "Bumi"; kerja yang relatif cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Restore" sParam="Item">
-			<ThingName>Bubuk Penyembuhan</ThingName>
+			<ThingName>Cure Powder</ThingName>
 			<Desc>Merangsang potensi tubuh, memperbaiki sebagian besar bekas luka lama.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
-			<ThingName>Pil Obat mujarab</ThingName>
+			<ThingName>Panacea Pill</ThingName>
 			<Desc>Pil ajaib yang dapat memanfaatkan jalan surga, mampu membawa seseorang kembali dari ambang kematian, bahkan ketika subjeknya hanya memiliki satu nafas tersisa. (Tidak dapat digunakan saat sekarat)</Desc>
 		</Text>
 		<Text Name="Item_Dan_HundredRefine" sParam="Item">
-			<ThingName>Pil Samsara</ThingName>
+			<ThingName>Samsara Pill</ThingName>
 			<Desc>Obat mujarab Tao tertinggi yang hanya bekerja saat pertama kali dikonsumsi. Ini sangat meningkatkan budidaya, tetapi harus dikonsumsi setelah fase Inti Emas, jika tidak, pengguna mungkin terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
-			<ThingName>Pil Kehidupan</ThingName>
+			<ThingName>Life Pill</ThingName>
 			<Desc>Pil yang bisa memperpanjang umur 180 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
-			<ThingName>Obat mujarab Vitata</ThingName>
+			<ThingName>Vitata Elixir</ThingName>
 			<Desc>Elixir yang bisa memperpanjang umur 200 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
-			<ThingName>Pil Keabadian</ThingName>
+			<ThingName>Eternity Pill</ThingName>
 			<Desc>Konsumsi untuk memperpanjang umur 500 tahun, serta meningkatkan Lima Atribut masing-masing sebesar 10%. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
-			<ThingName>Pil Regenerasi</ThingName>
+			<ThingName>Regen Pill</ThingName>
 			<Desc>Pil yang bisa memperpanjang umur 256 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
-			<ThingName>Pil Morrow</ThingName>
+			<ThingName>Morrow Pill</ThingName>
 			<Desc>Pil yang dapat memperpanjang umur 490 tahun, sekaligus menunda datangnya Kesengsaraan Surgawi selama 49 hari. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
-			<ThingName>Pil Harmoni</ThingName>
+			<ThingName>Harmony Pill</ThingName>
 			<Desc>Pil yang dapat menunda datangnya Kesengsaraan Surgawi selama 108 hari. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
-			<ThingName>Pil Keadilan</ThingName>
+			<ThingName>Justice Pill</ThingName>
 			<Desc>Menipu cara Surga menggunakan roh binatang dalam sembilan Mutiara Jiwa, dan menunda Kesengsaraan Surgawi selama 27 hari. Dapat dikonsumsi berkali-kali.</Desc>
 		</Text>
 		<Text Name="Item_Dan_SwordBall" sParam="Item">
-			<ThingName>Pil Pedang</ThingName>
+			<ThingName>Blade Pill</ThingName>
 			<Desc>Pil ramuan seperti yang tercatat di Pedang Tujuh Pembantaian, dapat dibuat dengan memurnikan esensi lima logam dengan Tungku Alkimia. Jangan menelan—selamanya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
-			<ThingName>Pil Perisai</ThingName>
+			<ThingName>Shield Pill</ThingName>
 			<Desc>Konsumsi untuk meningkatkan Qi Perlindungan Tubuh selama 24 jam.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
-			<ThingName>Bubuk Ilahi</ThingName>
+			<ThingName>Divine Powder</ThingName>
 			<Desc>Konsumsi untuk memulihkan 300.000 Qi, serta meningkatkan Max Qi sebanyak 100.000 selama 48 jam. Jika Budidaya seseorang terlalu rendah, pengguna mungkin mati karena ledakan cadangan Qi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase1" sParam="Item">
-			<ThingName>Pil Surgawi</ThingName>
+			<ThingName>Heavenly Pill</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Persepsi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase2" sParam="Item">
-			<ThingName>Pil Duniawi</ThingName>
+			<ThingName>Earthly Pill</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Konstitusi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
-			<ThingName>Pil Ether</ThingName>
+			<ThingName>Ether Pill</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Karisma sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
-			<ThingName>Pil Kebijaksanaan</ThingName>
+			<ThingName>Wisdom Pill</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Intelegensi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase5" sParam="Item">
-			<ThingName>Pil yang Diberkati</ThingName>
+			<ThingName>Blessed Pill</ThingName>
 			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Keberuntungan sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
-			<ThingName>Pil kutukan</ThingName>
+			<ThingName>Bane Pill</ThingName>
 			<Desc>Konsumsilah untuk mengaktifkan Qi purba Anda, tingkatkan Lima Atribut masing-masing sebesar 10%. Namun akibatnya, 60 tahun kehidupan akan hilang.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
-			<ThingName>Pil Sampah</ThingName>
+			<ThingName>Junk Pill</ThingName>
 			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail2" sParam="Item">
-			<ThingName>Pil Sampah</ThingName>
+			<ThingName>Junk Pill</ThingName>
 			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail3" sParam="Item">
-			<ThingName>Pil Sampah</ThingName>
+			<ThingName>Junk Pill</ThingName>
 			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail4" sParam="Item">
-			<ThingName>Pil Sampah</ThingName>
+			<ThingName>Junk Pill</ThingName>
 			<Desc>Pil rusak yang sepertinya menyerap terlalu banyak api Tungku Alkimia. Mengkonsumsinya akan menyebabkan lima organ dalam seseorang terbakar dan umurnya berkurang. Namun jika seseorang bisa selamat dari cedera seperti itu, hal itu mungkin masih membawa manfaat.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail5" sParam="Item">
-			<ThingName>Pil Sampah</ThingName>
+			<ThingName>Junk Pill</ThingName>
 			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TreeEXP" sParam="Item">
-			<ThingName>Pil Eureka</ThingName>
+			<ThingName>Eureka Pill</ThingName>
 			<Desc>Ramuan yang mengandung kekuatan penciptaan surgawi. Mengkonsumsinya memungkinkan seseorang merasakan gerakan Tao dan memperoleh Inspirasi darinya. Kuantitas Inspirasi yang diperoleh relatif terhadap Kecerdasan dan Keadaan Mental seseorang pada saat dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Thin" sParam="Item">
-			<ThingName>Pil Kebugaran</ThingName>
+			<ThingName>Fitness Pill</ThingName>
 			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya membuat tubuh karakter menjadi lebih langsing.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
-			<ThingName>Pil Fixing</ThingName>
+			<ThingName>Fixing Pill</ThingName>
 			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya mengunci penampilan karakter saat ini.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
-			<ThingName>Pil Kebenaran</ThingName>
+			<ThingName>Truth Pill</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya akan mengembalikan penampilan karakter yang sebenarnya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock1" sParam="Item">
-			<ThingName>Obat Wajah Anak</ThingName>
+			<ThingName>Child Face Drug</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah polos seperti bayi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock2" sParam="Item">
-			<ThingName>Obat Wajah Dewasa</ThingName>
+			<ThingName>Adult Face Drug</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah energik seperti orang dewasa.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock3" sParam="Item">
-			<ThingName>Obat Wajah Tua</ThingName>
+			<ThingName>Elder Face Drug</ThingName>
 			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah sedalam orang tua.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
-			<ThingName>Pil Kekuatan</ThingName>
+			<ThingName>Power Pill</ThingName>
 			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya membuat tubuh karakter menjadi lebih besar.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul1" sParam="Item">
-			<ThingName>Pil Penderitaan</ThingName>
+			<ThingName>Anguish Pill</ThingName>
 			<Desc>Elixir dibuat dengan memanfaatkan Anguish Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, 9 tahun Umurmu akan hilang karena potensinya yang dingin dan menyeramkan.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
-			<ThingName>Pil Jiwa</ThingName>
-			<Desc>Elixir dibuat dengan memanfaatkan Spirit Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, cadangan Qi Anda akan rusak karena potensinya yang intensif. Mengurangi Maks Qi sebesar 10.</Desc>
+			<ThingName>Soulrend Pill</ThingName>
+			<Desc>Elixir dibuat dengan memanfaatkan Spirit Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, cadangan Qi Anda akan rusak karena potensinya yang intensif. Mengurangi Maks Qi sebanyak 10.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
-			<ThingName>Pil Ketenangan</ThingName>
+			<ThingName>Serene Pill</ThingName>
 			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Konsumsi berulang kali secara bertahap akan meningkatkan potensinya. Namun, pengguna akan dikejutkan dengan sisa kesadaran yang kacau, sehingga mengakibatkan kerusakan otak.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul4" sParam="Item">
-			<ThingName>Pil Menghanguskan</ThingName>
+			<ThingName>Scorch Pill</ThingName>
 			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya akan membakar seratus tahun Umur seseorang, memberikan kebijaksanaan luar biasa selama 2 jam dan sangat meningkatkan efisiensi dalam memperoleh Inspirasi. Namun, setelah pil tersebut berlaku, pil tersebut akan menyebabkan kerusakan parah pada pikiran seseorang, secara permanen mengurangi Kecerdasan sebesar 20%. Mengkonsumsinya dalam jumlah besar secara bertahap akan mengurangi potensinya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LunHui1" sParam="Item">
-			<ThingName>Memori Yang Tertutup: Ketenaran</ThingName>
-			<Desc>Setelah dikonsumsi, Anda dapat memperoleh Inspirasi dari dan tergerak oleh rangkaian memori ini. \n[color=#D06508]Ini sebagai apresiasi terhadap serial video Stardom yang dibuat oleh Xiaoyaosanren karena telah memberi saya kekuatan dan kegembiraan![/color]</Desc>
+			<ThingName>Sealed-Away Memory: Stardom</ThingName>
+			<Desc>Setelah dikonsumsi, Anda dapat memperoleh Inspirasi dari dan tergerak oleh rangkaian memori ini. \N[color=#D06508]Ini sebagai apresiasi terhadap serial video Stardom yang dibuat oleh Xiaoyaosanren karena telah memberi saya kekuatan dan kegembiraan![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn" sParam="Item">
-			<ThingName>Pil Kelahiran Kembali</ThingName>
+			<ThingName>Rebirth Pill</ThingName>
 			<Desc>Pil dibuat dengan memanfaatkan Soul Gems sebagai katalis dan Soul Pearl sebagai bahan aktif. Mengkonsumsinya akan memungkinkan seseorang untuk terlahir kembali menjadi manusia dengan tubuh yang telah dibentuk ulang. Dapat menyelamatkan nyawa seseorang meski berada di ambang kematian.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn_4" sParam="Item">
-			<ThingName>Pil Nirwana</ThingName>
+			<ThingName>Nirvana Pill</ThingName>
 			<Desc>Obat mujarab yang diciptakan dengan memanfaatkan energi yang bergema dari siklus reinkarnasi. Mengkonsumsinya memungkinkan seseorang terlahir kembali ke dalam tubuh baru, sambil tetap mempertahankan semua Inspirasi sebelumnya.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
-			<ThingName>Benih Roh</ThingName>
+			<ThingName>Spirit Seed</ThingName>
 			<Desc>Barang berharga yang dibuat dengan menggabungkan Elemental Medicine dengan Fortune Seed, memiliki banyak kegunaan yang luar biasa. Ketika terkubur di dalam tanah, secara otomatis akan berubah menjadi pembuluh darah spiritual dan meluas ke segala arah, perlahan-lahan mengubah daerah sekitarnya menjadi Tanah Spiritual atau Air Spiritual. Memakainya membuat seseorang kebal terhadap dingin dan panas, meskipun harus mengorbankan pencapaian karena menipu jalan Surga. Mengkonsumsinya sangat meningkatkan Max Qi seseorang.</Desc>
-			<StoryBnts.0.Name>Mengubur</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Bury</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Kubur item ini di dalam tanah.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanSha" sParam="Item">
-			<ThingName>Pasir Keberuntungan</ThingName>
+			<ThingName>Fortune Sand</ThingName>
 			<Desc>Melalui metode rahasia, sempurnakan Fortune Seed menjadi bubuk. Meski pengaruhnya berkurang, namun bisa dijadikan media untuk melakukan keajaiban berkali-kali guna menciptakan tanah subur.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_LongDan1" sParam="Item">
-			<ThingName>Ramuan Naga</ThingName>
+			<ThingName>Dragon Elixir</ThingName>
 			<Desc>Ramuan yang terbuat dari roh primordial Naga Banjir, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, sehingga Anda dapat mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FengDan1" sParam="Item">
-			<ThingName>Ramuan Phoenix</ThingName>
+			<ThingName>Phoenix Elixir</ThingName>
 			<Desc>Elixir terbuat dari roh primordial Phoenix, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, memungkinkan Anda mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
-			<ThingName>Ramuan Obor</ThingName>
+			<ThingName>Torch Elixir</ThingName>
 			<Desc>Elixir terbuat dari roh primordial Torch Dragon, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, sehingga Anda dapat mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
-			<ThingName>Pil Murni</ThingName>
-			<Desc>Pil Ilahi pada zaman kuno dikatakan dibuat dari gumpalan Qi purba yang jernih dan keruh dari ciptaan dunia. Cara meramunya sudah lama hilang. Dengan meminum pil ini, seseorang dapat menghidupkan kembali penciptaan langit dan bumi di dalam Roh Primordialnya, sehingga memperoleh dua sub-roh. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
+			<ThingName>Prime Pill</ThingName>
+			<Desc>Pil Ilahi pada zaman kuno dikatakan terbuat dari gumpalan Qi purba yang jernih dan keruh dari ciptaan dunia. Cara meramunya sudah lama hilang. Dengan meminum pil ini, seseorang dapat menghidupkan kembali penciptaan langit dan bumi di dalam Roh Primordialnya, sehingga memperoleh dua sub-roh. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
-			<ThingName>Pil Penyatuan</ThingName>
+			<ThingName>Unison Pill</ThingName>
 			<Desc>Pil ilahi pada zaman kuno, metode pembuatannya telah lama hilang. Dengan mengkonsumsi pil ini seseorang menjadi sadar akan dirinya yang lain, menghasilkan sub-spirit baru. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen3" sParam="Item">
-			<ThingName>Pil Divisi</ThingName>
+			<ThingName>Division Pill</ThingName>
 			<Desc>Pil ilahi pada zaman kuno, metode pembuatannya telah lama hilang. Dengan mengonsumsi pil ini, seseorang dapat memanfaatkan potensinya yang kuat untuk menghasilkan sub-roh baru secara paksa. Namun, hal ini akan menyebabkan kerusakan permanen pada Kondisi Mental kultivator. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TiShen" sParam="Item">
-			<ThingName>Pil Klon</ThingName>
+			<ThingName>Clone Pill</ThingName>
 			<Desc>Setelah mengkonsumsinya, Anda dapat menggunakan dobel untuk berpartisipasi dalam pelelangan, yang memungkinkan Anda untuk segera melarikan diri jika Anda tidak membawa cukup Batu Roh.</Desc>
 		</Text>
 		<Text Name="Item_QiZhi" sParam="Item">
-			<ThingName>Pil Pencerah</ThingName>
+			<ThingName>Enlightening Pill</ThingName>
 			<Desc>Dapat diumpankan ke hewan liar, membuat mereka tercerahkan dan memasuki Kondisi Kebangkitan.</Desc>
 		</Text>
 		<Text Name="Item_Fall_LingZhi" sParam="Item">
-			<ThingName>Pil Musim Gugur</ThingName>
+			<ThingName>Autumn Pill</ThingName>
 			<Desc>Meningkatkan Qi elemen Logam, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim gugur dan merasakan pemikiran terkait.</Desc>
 		</Text>
 		<Text Name="Item_Winter_LingZhi" sParam="Item">
-			<ThingName>Pil Musim Dingin</ThingName>
+			<ThingName>Winter Pill</ThingName>
 			<Desc>Meningkatkan Qi elemen Air, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim dingin dan merasakan pemikiran terkait.</Desc>
 		</Text>
 		<Text Name="Item_Spring_LingZhi" sParam="Item">
-			<ThingName>Pil Musim Semi</ThingName>
+			<ThingName>Spring Pill</ThingName>
 			<Desc>Meningkatkan Qi elemen Kayu, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim semi dan merasakan pemikiran terkait.</Desc>
 		</Text>
 		<Text Name="Item_Summer_LingZhi" sParam="Item">
-			<ThingName>Pil Musim Panas</ThingName>
+			<ThingName>Summer Pill</ThingName>
 			<Desc>Meningkatkan elemen Qi Api, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim panas dan merasakan pemikiran terkait.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
-			<ThingName>Pil Tanah</ThingName>
+			<ThingName>Ground Pill</ThingName>
 			<Desc>Meningkatkan elemen Qi Bumi, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang bumi dan merasakan pemikiran terkait.</Desc>
 		</Text>
 	</List>
