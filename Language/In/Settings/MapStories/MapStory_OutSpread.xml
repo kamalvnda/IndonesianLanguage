@@ -1,46 +1,46 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_Start">
-			<DisplayName>Membangun Kembali Kekuatan Badan.</DisplayName>
+			<DisplayName>Rebuild the Agency's Power.</DisplayName>
 			<Desc>Semua orang di sini dulunya memuja Sekte Taiyi, sekarang tidak ada yang menyembah.</Desc>
 			<Selections.0.Display>Tanyakan alasannya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Accelerate">
-			<DisplayName>Kerja Manual</DisplayName>
+			<DisplayName>Manual Labor</DisplayName>
 			<Desc>[NAME] mengawasi tenaga kerja.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
-			<DisplayName>Perburuan Harta Karun</DisplayName>
+			<DisplayName>Treasure Hunt</DisplayName>
 			<Desc>[NAME] berburu harta karun.</Desc>
 			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
-			<DisplayName>Dan rute</DisplayName>
+			<DisplayName>En route</DisplayName>
 			<Desc>[NAME] dirampok.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
-			<DisplayName>Dan rute</DisplayName>
-			<Desc>[NAME] bertemu dengan beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
+			<DisplayName>En route</DisplayName>
+			<Desc>[NAME] menemui beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
-			<DisplayName>Dan rute</DisplayName>
+			<DisplayName>En route</DisplayName>
 			<Desc>[NAME] menemui beberapa petani yang diintimidasi oleh beberapa individu petani.</Desc>
 			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Membujuk</Selections.1.Display>
 			<Selections.2.Display>Berpura-pura tidak melihat apa pun</Selections.2.Display>
 		</Text>
 		<Text Name="CollectFaith">
-			<DisplayName>Kumpulkan Keyakinan</DisplayName>
+			<DisplayName>Gather Belief</DisplayName>
 			<Desc>Ada orang percaya di sini, kita bisa mengumpulkan kepercayaan.</Desc>
 			<Selections.0.Display>Perolehan</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_GoodMood">
-			<DisplayName>Pagoda Hijau</DisplayName>
+			<DisplayName>Green Pagoda</DisplayName>
 			<Desc>Para murid dapat bersenang-senang di Pagoda Hijau.</Desc>
 			<Selections.0.Display>Santai</Selections.0.Display>
 		</Text>
