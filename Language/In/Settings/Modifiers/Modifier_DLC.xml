@@ -5,15 +5,15 @@
 			<Desc>Kurangi pertahanan musuh dengan Kekuatan Yin Yang.</Desc>
 		</Text>
 		<Text Name="BambooBedFeel">
-			<DisplayName>Santai</DisplayName>
+			<DisplayName>Chill</DisplayName>
 			<Desc>Tempat tidur bambu terasa agak dingin.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_YinYangForce">
-			<DisplayName>Kekuatan Asal (Campuran)</DisplayName>
+			<DisplayName>Origin Force (Mixed)</DisplayName>
 			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penguasaan artefak, penghalang Qi, serta kekuatan dan daya tahan tubuh rahasia secara drastis.</Desc>
 		</Text>
 		<Text Name="Fish_EndureHunger">
-			<DisplayName>Tahan kelaparan</DisplayName>
+			<DisplayName>Hunger-resistant</DisplayName>
 			<Desc>Makan Golden Dwarf Cichlid, mampu menahan lapar.</Desc>
 		</Text>
 	</List>
