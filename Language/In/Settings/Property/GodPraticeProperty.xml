@@ -1,24 +1,24 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GodCity_MaxResident">
-			<DisplayName>Jumlah maksimum penghuni Alam Ilahi</DisplayName>
-			<Desc>Jumlah maksimum penghuni Alam Ilahi yang dapat diterima oleh Penggarap Jalan Ilahi.</Desc>
-			<FunctionKind>Statistik budidaya</FunctionKind>
+			<DisplayName>Max Divine Residents</DisplayName>
+			<Desc>Jumlah maksimum pengikut yang dapat diterima oleh seorang praktisi Hukum Shendao.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodCity_MaxCoreBeliever">
-			<DisplayName>Jumlah maksimum pemimpin murid</DisplayName>
-			<Desc>Jumlah maksimum pemimpin murid yang dapat diterima oleh Penggarap Jalan Ilahi.</Desc>
-			<FunctionKind>Statistik budidaya</FunctionKind>
+			<DisplayName>Max Core Follower</DisplayName>
+			<Desc>Jumlah maksimum pengikut inti yang dapat diterima oleh seorang praktisi Hukum Shendao.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodCity_PracticeEffect">
-			<DisplayName>Bonus Iman</DisplayName>
-			<Desc>Bonus keyakinan yang diterima oleh Penggarap Jalan Ilahi dari Alam Ilahi.</Desc>
-			<FunctionKind>Statistik budidaya</FunctionKind>
+			<DisplayName>Belief Gains Bonus</DisplayName>
+			<Desc>Bonus Keyakinan yang diperoleh oleh praktisi Hukum Shendao dari Alam Ilahi.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodPractice_GodPowerAddV">
-			<DisplayName>Pikiran ilahi</DisplayName>
-			<Desc>Bonus Roh Ilahi dari Penggarap Jalan Ilahi dalam Budidaya Teknik Ilahi</Desc>
-			<FunctionKind>Statistik budidaya</FunctionKind>
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Bonus Keilahian dari praktisi Hukum Shendao.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 	</List>
 </Texts>
