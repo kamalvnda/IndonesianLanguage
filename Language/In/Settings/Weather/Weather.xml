@@ -1,147 +1,147 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SunnyDay">
-			<DisplayName>Langit cerah</DisplayName>
+			<DisplayName>Clear Skies</DisplayName>
 			<StoryDesc>Langit cerah dan masih mengudara di seluruh daratan</StoryDesc>
 		</Text>
 		<Text Name="Overcast">
-			<DisplayName>Berawan</DisplayName>
+			<DisplayName>Cloudy</DisplayName>
 			<StoryDesc>Lapisan awan tebal menutupi langit di atasnya</StoryDesc>
 		</Text>
 		<Text Name="LightRain">
-			<DisplayName>Hujan ringan</DisplayName>
+			<DisplayName>Light Rain</DisplayName>
 			<StoryDesc>Tirai tipis hujan menyapu dataran</StoryDesc>
 		</Text>
 		<Text Name="HeavyRain">
-			<DisplayName>Hujan lebat</DisplayName>
+			<DisplayName>Heavy Rain</DisplayName>
 			<StoryDesc>Langit telah terbuka, membasahi seluruh bagian bawah dengan hujan lebat</StoryDesc>
 		</Text>
 		<Text Name="LightSnow">
-			<DisplayName>Salju Ringan</DisplayName>
+			<DisplayName>Light Snow</DisplayName>
 			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan</StoryDesc>
 		</Text>
 		<Text Name="HeavySnow">
-			<DisplayName>Salju Lebat</DisplayName>
+			<DisplayName>Heavy Snow</DisplayName>
 			<StoryDesc>Hujan salju lebat disertai angin dingin yang menggigit dan kencang</StoryDesc>
 		</Text>
 		<Text Name="DenseFog">
-			<DisplayName>Kabut Tebal</DisplayName>
+			<DisplayName>Thick Fog</DisplayName>
 			<StoryDesc>Awan menyatu di langit dan kabut tebal menyelimuti daratan</StoryDesc>
 		</Text>
 		<Text Name="Melancholy">
-			<DisplayName>Suasana hati yang suram</DisplayName>
+			<DisplayName>Gloomy Mood</DisplayName>
 			<StoryDesc>Suasana suram meresap di udara</StoryDesc>
 		</Text>
 		<Text Name="SpringAir">
-			<DisplayName>Musim semi akan datang</DisplayName>
+			<DisplayName>Spring's Coming</DisplayName>
 			<StoryDesc>Aroma segar musim semi menyapu daratan</StoryDesc>
 		</Text>
 		<Text Name="HarvestAir">
-			<DisplayName>Semangat Panen</DisplayName>
+			<DisplayName>Spirit of Harvest</DisplayName>
 			<StoryDesc>Saatnya panen, dan udara ceria mulai turun</StoryDesc>
 		</Text>
 		<Text Name="Ambiguous">
-			<DisplayName>Udara Romantis</DisplayName>
+			<DisplayName>Romantic Air</DisplayName>
 			<StoryDesc>Cinta ada di udara</StoryDesc>
 		</Text>
 		<Text Name="Impetuous">
-			<DisplayName>Gangguan</DisplayName>
+			<DisplayName>Irritation</DisplayName>
 			<StoryDesc>Ada suasana impulsif</StoryDesc>
 		</Text>
 		<Text Name="MouldRains">
-			<DisplayName>Musim hujan</DisplayName>
+			<DisplayName>Rainy Season</DisplayName>
 			<StoryDesc>Hujan berkepanjangan mengguyur daratan</StoryDesc>
 		</Text>
 		<Text Name="Drought">
-			<DisplayName>Kekeringan</DisplayName>
+			<DisplayName>Drought</DisplayName>
 			<StoryDesc>Matahari membakar seluruh bagian bawah dengan tatapannya yang berapi-api</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
 		</Text>
 		<Text Name="Fohn">
-			<DisplayName>Angin Foehn</DisplayName>
+			<DisplayName>Foehn Wind</DisplayName>
 			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
 		</Text>
 		<Text Name="DustStorm">
-			<DisplayName>Badai Debu</DisplayName>
+			<DisplayName>Dust Storm</DisplayName>
 			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave">
-			<DisplayName>Kekeringan Qi</DisplayName>
+			<DisplayName>Qi Drought</DisplayName>
 			<StoryDesc>Kekeringan Qi tiba</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave">
-			<DisplayName>Semburan Qi</DisplayName>
+			<DisplayName>Burst of Qi</DisplayName>
 			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Little">
-			<DisplayName>Qi Membengkak</DisplayName>
+			<DisplayName>Qi Swell</DisplayName>
 			<StoryDesc>Qi meresap ke udara</StoryDesc>
 		</Text>
 		<Text Name="HeatWave">
-			<DisplayName>Panas</DisplayName>
+			<DisplayName>Heat</DisplayName>
 			<StoryDesc>Gelombang panas berkobar tanpa henti</StoryDesc>
 		</Text>
 		<Text Name="ColdWave">
-			<DisplayName>Musim Dingin yang Dingin</DisplayName>
+			<DisplayName>Cold Winter</DisplayName>
 			<StoryDesc>Angin dingin dan angin kencang sedingin es turun</StoryDesc>
 		</Text>
 		<Text Name="HeatWaveInWinter">
-			<DisplayName>Angin Hangat</DisplayName>
+			<DisplayName>Warm Wind</DisplayName>
 			<StoryDesc>Matahari musim dingin yang pucat bersinar saat arus hangat datang</StoryDesc>
 		</Text>
 		<Text Name="ColdWaveInSummer">
-			<DisplayName>Angin Dingin</DisplayName>
+			<DisplayName>Chilly Wind</DisplayName>
 			<StoryDesc>Angin musim panas yang menyegarkan bertiup</StoryDesc>
 		</Text>
 		<Text Name="PermanentNight">
-			<DisplayName>Malam Kutub</DisplayName>
+			<DisplayName>Polar Night</DisplayName>
 			<StoryDesc>Ini adalah malam yang tidak pernah berakhir</StoryDesc>
 		</Text>
 		<Text Name="Miasma">
-			<DisplayName>Udara Berbahaya</DisplayName>
+			<DisplayName>Noxious Air</DisplayName>
 			<StoryDesc>Suasana berbahaya menyebar</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Thunderstorm</DisplayName>
 			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
 		</Text>
 		<Text Name="LightningStormNoLong">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Thunderstorm</DisplayName>
 			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
 		</Text>
 		<Text Name="FohnNoFeng">
-			<DisplayName>Angin Foehn</DisplayName>
+			<DisplayName>Foehn Wind</DisplayName>
 			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Long">
-			<DisplayName>Hujan badai</DisplayName>
+			<DisplayName>Rainstorm</DisplayName>
 			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
 		</Text>
 		<Text Name="LuShu_SunnyDay">
-			<DisplayName>Hari yang Cerah (karena Lushu)</DisplayName>
+			<DisplayName>Sunny Day (due to Lushu)</DisplayName>
 			<StoryDesc>Langit cerah dan masih mengudara di seluruh daratan</StoryDesc>
 		</Text>
 		<Text Name="Fei_HeavyRain">
-			<DisplayName>Hujan Lebat (karena Fei)</DisplayName>
+			<DisplayName>Heavy Rain (due to Fei)</DisplayName>
 			<StoryDesc>Langit telah terbuka, membasahi seluruh bagian bawah dengan hujan lebat</StoryDesc>
 		</Text>
 		<Text Name="Fei_Overcast">
-			<DisplayName>Mendung (karena Fei)</DisplayName>
+			<DisplayName>Overcast (due to Fei)</DisplayName>
 			<StoryDesc>Lapisan awan tebal menutupi langit di atasnya</StoryDesc>
 		</Text>
 		<Text Name="MuYu_LightRain">
-			<DisplayName>Hujan Ringan (karena Raindance Blade)</DisplayName>
+			<DisplayName>Light Rain (due to Raindance Blade)</DisplayName>
 			<StoryDesc>Tirai tipis hujan menyapu dataran</StoryDesc>
 		</Text>
 		<Text Name="SpringFestival">
-			<DisplayName>Festival Musim Semi</DisplayName>
+			<DisplayName>Spring Festival</DisplayName>
 			<StoryDesc>Suasana perayaan memenuhi udara saat Festival Musim Semi tiba</StoryDesc>
 		</Text>
 		<Text Name="ZuShiBiHu">
-			<DisplayName>Berkat abadi</DisplayName>
+			<DisplayName>Immortal's bless</DisplayName>
 			<StoryDesc>Ada suasana Budidaya.</StoryDesc>
 		</Text>
 	</List>
