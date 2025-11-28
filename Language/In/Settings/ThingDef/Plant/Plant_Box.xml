@@ -1,39 +1,39 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Box_Cargo" sParam="Plant">
-			<ThingName>Kotak Tua</ThingName>
+			<ThingName>Old Box</ThingName>
 			<Desc>Kotak kargo yang relatif terawat baik. Tampaknya tersesat dalam kepanikan oleh seseorang yang melarikan diri dari perang.</Desc>
-			<StoryBnts.0.Name>Mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Telusuri kotak ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse" sParam="Plant">
-			<ThingName>Tubuh Membusuk</ThingName>
+			<ThingName>Decomposed Body</ThingName>
 			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
-			<ThingName>Tubuh Membusuk</ThingName>
+			<ThingName>Decomposed Body</ThingName>
 			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
-			<ThingName>Tubuh Membusuk</ThingName>
+			<ThingName>Decomposed Body</ThingName>
 			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
-			<ThingName>Tubuh Setengah Membusuk</ThingName>
+			<ThingName>Half-decomposed Body</ThingName>
 			<Desc>Tubuhnya setengah membusuk, binatang buas tidak memakannya karena alasan tertentu.</Desc>
-			<StoryBnts.0.Name>Berinteraksi</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengan Penampakannya dengan Persepsi Anda.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
-			<ThingName>Mayat Terbaru</ThingName>
+			<ThingName>Recent Corpse</ThingName>
 			<Desc>Mayat yang meninggal di sini belum lama ini karena suatu alasan.</Desc>
-			<StoryBnts.0.Name>Mencari</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
 		</Text>
 	</List>
