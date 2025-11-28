@@ -1,8 +1,8 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="WuDangMibao">
-			<IVNUMBER.0.FabaoData.DisplayName>Pilar surga</IVNUMBER.0.FabaoData.DisplayName>
-			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Setiap 20 serangan akan menyerang tubuh musuh dengan sendirinya. Itu juga merupakan serangan yang menembus penghalang energi dan juga dapat menimbulkan kerusakan tambahan.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+			<IVNUMBER.0.FabaoData.DisplayName>Measure of Heavenly Exploits</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>For every 20th strike, it will attack the cultivator's body itself, penetrating Barrier and dealing additional damage.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
 		</Text>
 	</List>
 </Texts>
