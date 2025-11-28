@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="RPGSelectNpc">
-			<DisplayName>Efek Khusus Pelatihan Umum</DisplayName>
+			<DisplayName>Common Training Special Effect</DisplayName>
 			<Desc>Efek Khusus Pelatihan Umum</Desc>
 		</Text>
 	</List>
