@@ -1,59 +1,59 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Spell_SYSLOST">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong.)</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed1">
-			<DisplayName>Jimat Ketangkasan</DisplayName>
+			<DisplayName>Agility Talisman</DisplayName>
 			<Desc>Talisman digunakan untuk meningkatkan kecepatan gerak.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow1">
-			<DisplayName>Jimat tahan dingin</DisplayName>
+			<DisplayName>Cold-resistant Talisman</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap dingin.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh1">
-			<DisplayName>Jimat tahan panas</DisplayName>
+			<DisplayName>Heat-resistant Talisman</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap panas.</Desc>
 		</Text>
 		<Text Name="Spell_ReadNovel">
-			<DisplayName>Jimat Cerita</DisplayName>
-			<Desc>Jimat aneh entah dari mana. Mudah untuk digambar tetapi memiliki efek yang aneh, sehingga tersebar luas di kalangan budidaya. Setelah dilengkapi, seseorang dapat fokus pada jimat ini dan melihat banyak cerita luar biasa dari Webnovel dan melepaskannya. Namun, hal itu akan dengan mudah menarik perhatian seseorang dan memperlambat kecepatan kerja dan kultivasi.\n[color=#D06508]Terima kasih kepada Webnovel APP karena telah mendukung permainan kami.[/color]</Desc>
+			<DisplayName>Story Talisman</DisplayName>
+			<Desc>Jimat aneh entah dari mana. Mudah untuk digambar tetapi memiliki efek yang aneh, sehingga tersebar luas di kalangan budidaya. Setelah dilengkapi, seseorang dapat fokus pada jimat ini dan melihat banyak cerita luar biasa dari Webnovel dan melepaskannya. Namun, hal itu akan dengan mudah menarik perhatian seseorang dan memperlambat kecepatan kerja dan kultivasi.\n[color=#D06508]Terima kasih Webnovel APP karena telah mendukung permainan kami.[/color]</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed2">
-			<DisplayName>Jimat Perjalanan Spiritual</DisplayName>
+			<DisplayName>Talisman of Spiritual Travelling</DisplayName>
 			<Desc>Talisman digunakan untuk meningkatkan kecepatan bergerak, serta kecepatan selama berpetualang.</Desc>
 		</Text>
 		<Text Name="Spell_RecoveryPower">
-			<DisplayName>Jimat Penyembuh</DisplayName>
+			<DisplayName>Talisman of Curer</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan tingkat pemulihan alami.</Desc>
 		</Text>
 		<Text Name="Spell_VisionRadius">
-			<DisplayName>Jimat Peramal</DisplayName>
+			<DisplayName>Talisman of Foreseer</DisplayName>
 			<Desc>Talisman digunakan untuk meningkatkan jangkauan pandangan, dan mengurangi waktu yang dihabiskan untuk menemukan lokasi baru dalam petualangan.</Desc>
 		</Text>
 		<Text Name="Spell_Fatigue">
-			<DisplayName>Jimat Pembersihan Spiritual</DisplayName>
+			<DisplayName>Talisman of Spiritual Cleansing</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan kualitas tidur dan mengurangi kecenderungan kelelahan.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition">
-			<DisplayName>Jimat Penyerapan Qi</DisplayName>
+			<DisplayName>Talisman of Qi Absorption</DisplayName>
 			<Desc>Digunakan untuk meningkatkan efisiensi penyerapan Qi dan puasa.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition1">
-			<DisplayName>Jimat Puasa</DisplayName>
+			<DisplayName>Talisman of Fasting</DisplayName>
 			<Desc>Digunakan untuk mengurangi tingkat konsumsi makanan.</Desc>
 		</Text>
 		<Text Name="Spell_Hide">
-			<DisplayName>Jimat Gaib</DisplayName>
+			<DisplayName>Talisman of Invisibility</DisplayName>
 			<Desc>Jimat digunakan untuk menyembunyikan kehadiran Anda sampai batas tertentu, menjadi kurang dapat dikenali oleh orang lain selama petualangan, dan mengurangi peluang memperoleh reputasi.</Desc>
 		</Text>
 		<Text Name="Spell_Happy">
-			<DisplayName>Jimat Kegembiraan Abadi</DisplayName>
+			<DisplayName>Talisman of Lasting Joy</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan mood dan mengurangi kebutuhan hiburan.</Desc>
 		</Text>
 		<Text Name="Spell_LunHui_ShenShen">
-			<DisplayName>Jimat Doa</DisplayName>
+			<DisplayName>Prayer Talisman</DisplayName>
 			<Desc>Jimat yang dibentuk oleh doa orang lain, digunakan untuk meningkatkan mood dan menstabilkan kondisi mental.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow2">
@@ -61,179 +61,179 @@
 			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap dingin secara drastis.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh2">
-			<DisplayName>Jimat Yin Tertinggi</DisplayName>
+			<DisplayName>Talisman of Supreme Yin</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap panas secara drastis.</Desc>
 		</Text>
 		<Text Name="Spell_Intelligence">
-			<DisplayName>Jimat Kemakmuran Sipil</DisplayName>
+			<DisplayName>Talisman of Civil Prosperity</DisplayName>
 			<Desc>Digunakan untuk menjernihkan pikiran dan meningkatkan kemampuan belajar.</Desc>
 		</Text>
 		<Text Name="Spell_Fight">
-			<DisplayName>Jimat Kemakmuran Militer</DisplayName>
+			<DisplayName>Talisman of Military Prosperity</DisplayName>
 			<Desc>Digunakan untuk meningkatkan kemampuan bertarung dan ketahanan terhadap rasa sakit.</Desc>
 		</Text>
 		<Text Name="Spell_GlobalEfficiency">
-			<DisplayName>Jimat Ketekunan</DisplayName>
+			<DisplayName>Talisman of Diligence</DisplayName>
 			<Desc>Digunakan untuk meningkatkan efisiensi kerja.</Desc>
 		</Text>
 		<Text Name="Spell_MadeQualityAddValue">
-			<DisplayName>Jimat Keahlian</DisplayName>
+			<DisplayName>Talisman of Craftsmanship</DisplayName>
 			<Desc>Digunakan untuk meningkatkan kualitas barang kerajinan.</Desc>
 		</Text>
 		<Text Name="Spell_Yield">
-			<DisplayName>Jimat Kesuburan</DisplayName>
+			<DisplayName>Talisman of Fertility</DisplayName>
 			<Desc>Digunakan untuk meningkatkan hasil selama berburu, bertani dan memanen.</Desc>
 		</Text>
 		<Text Name="Spell_Treatment">
-			<DisplayName>Penguasaan Obat</DisplayName>
+			<DisplayName>Medicinal Mastery</DisplayName>
 			<Desc>Digunakan untuk meningkatkan tingkat keberhasilan penyembuhan dan efeknya.</Desc>
 		</Text>
 		<Text Name="Spell_MindState1">
-			<DisplayName>Hati yang Tenang</DisplayName>
+			<DisplayName>Tranquil Heart</DisplayName>
 			<Desc>Jimat digunakan untuk sedikit meningkatkan kondisi mental.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
-			<DisplayName>Hati Surgawi</DisplayName>
+			<DisplayName>Heavenly Heart</DisplayName>
 			<Desc>Jimat digunakan untuk sedikit meningkatkan kecepatan budidaya.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2">
-			<DisplayName>Pemahaman Ilahi</DisplayName>
+			<DisplayName>Divine Comprehension</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan kondisi mental.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2_LunHui">
-			<DisplayName>Pikiran Ketuhanan</DisplayName>
-			<Desc>Jimat langka yang diturunkan dari ribuan tahun yang lalu, diciptakan oleh Yuan abadi kuno yang menulis ulang Jimat Gua Ilahi. \n[color=#D06508]Ini sebagai apresiasi kepada pemain pertama yang berhasil menggambar jimat dengan kualitas 100%: Sebenarnya bukan saya[/color]</Desc>
+			<DisplayName>Divinity Mind</DisplayName>
+			<Desc>Jimat langka yang diturunkan dari ribuan tahun yang lalu, diciptakan oleh Yuan abadi kuno yang menulis ulang Jimat Gua Ilahi. \N[color=#D06508]Ini sebagai apresiasi kepada pemain pertama yang berhasil menggambar jimat dengan kualitas 100%: Sebenarnya bukan saya[/color]</Desc>
 		</Text>
 		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>Pemahaman Kebenaran</DisplayName>
+			<DisplayName>Truth Comprehension</DisplayName>
 			<Desc>Digunakan untuk meningkatkan peluang terobosan.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
-			<DisplayName>Pemahaman yang Terlupakan</DisplayName>
+			<DisplayName>Oblivion Comprehension</DisplayName>
 			<Desc>Digunakan untuk meningkatkan kecepatan budidaya.</Desc>
 		</Text>
 		<Text Name="Spell_WorldMapFlySpeed">
-			<DisplayName>Berangkat dari Bayangan</DisplayName>
+			<DisplayName>Departing Shadow</DisplayName>
 			<Desc>Digunakan untuk meningkatkan kecepatan terbang jarak jauh dengan artefak.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_SuccessRateAddV">
-			<DisplayName>Jimat Kekayaan</DisplayName>
+			<DisplayName>Talisman of Riches</DisplayName>
 			<Desc>Jimat digunakan untuk meningkatkan tingkat keberhasilan pembuatan artefak.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
-			<DisplayName>Jimat Ajaib</DisplayName>
+			<DisplayName>Wonder Talisman</DisplayName>
 			<Desc>Digunakan untuk sedikit menaikkan tingkat artefak yang dibuat.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_SuccessRateAddV">
-			<DisplayName>Jimat</DisplayName>
+			<DisplayName>Tusita Talisman</DisplayName>
 			<Desc>Digunakan untuk meningkatkan tingkat keberhasilan Alkimia.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_YieldAddP">
-			<DisplayName>Jimat Ketidakkekalan</DisplayName>
+			<DisplayName>Impermanence Talisman</DisplayName>
 			<Desc>Digunakan untuk sedikit meningkatkan hasil Alkimia.</Desc>
 		</Text>
 		<Text Name="Spell_Fu">
-			<DisplayName>Ilustrasi Kemakmuran Abadi</DisplayName>
+			<DisplayName>Illustration of Everlasting Prosperity</DisplayName>
 			<Desc>Digunakan untuk meningkatkan mood dan kondisi mental siapa pun yang memakainya dan memberikan keberuntungan. Selamat Festival Musim Semi dan semoga sukses!</Desc>
 		</Text>
 		<Text Name="Spell_Lu">
-			<DisplayName>Ilustrasi Status Kekal</DisplayName>
+			<DisplayName>Illustration of Everlasting Status</DisplayName>
 			<Desc>Digunakan untuk meningkatkan kesehatan dan keuntungan materi bagi siapa pun yang memakainya. Selamat Festival Musim Semi dan semoga sukses!</Desc>
 		</Text>
 		<Text Name="Spell_Shou">
-			<DisplayName>Ilustrasi Umur Panjang yang Abadi</DisplayName>
+			<DisplayName>Illustration of Everlasting Longevity</DisplayName>
 			<Desc>Digunakan untuk meningkatkan umur dan kekebalan terhadap penyakit bagi siapapun yang memakainya. Selamat Festival Musim Semi dan semoga sukses!</Desc>
 		</Text>
 		<Text Name="Spell_Shield1">
-			<DisplayName>Jimat Darkarmor</DisplayName>
+			<DisplayName>Darkarmor Talisman</DisplayName>
 			<Desc>Meningkatkan Perlindungan pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_Shield2">
-			<DisplayName>Jimat Armor Surga</DisplayName>
+			<DisplayName>Heavenarmor Talisman</DisplayName>
 			<Desc>Meningkatkan tingkat keterampilan Perlindungan pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Jin">
-			<DisplayName>Jimat Metalarmor</DisplayName>
+			<DisplayName>Metalarmor Talisman</DisplayName>
 			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Logam.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Mu">
-			<DisplayName>Jimat Woodarmor</DisplayName>
+			<DisplayName>Woodarmor Talisman</DisplayName>
 			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Kayu.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Shui">
-			<DisplayName>Jimat Pelindung Air</DisplayName>
+			<DisplayName>Waterarmor Talisman</DisplayName>
 			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Air.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Huo">
-			<DisplayName>Jimat Senjata Api</DisplayName>
+			<DisplayName>Firearmor Talisman</DisplayName>
 			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Kebakaran.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Tu">
-			<DisplayName>Jimat Pelindung Tanah</DisplayName>
+			<DisplayName>Eartharmor Talisman</DisplayName>
 			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Bumi.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao1">
-			<DisplayName>Jimat Pedang Tajam</DisplayName>
+			<DisplayName>Sharpsword Talisman</DisplayName>
 			<Desc>Meningkatkan Kekuatan Artefak.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao2">
-			<DisplayName>Jimat Pedang Ilahi</DisplayName>
+			<DisplayName>Divinesword Talisman</DisplayName>
 			<Desc>Meningkatkan level skill Artifact Mastery pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao3">
-			<DisplayName>Jimat Pedang Roh</DisplayName>
+			<DisplayName>Spiritsword Talisman</DisplayName>
 			<Desc>Meningkatkan Pengganda Pemulihan Qi Artefak pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao4">
-			<DisplayName>Jimat Pedang Suci</DisplayName>
+			<DisplayName>Sacredsword Talisman</DisplayName>
 			<Desc>Secara mendasar meningkatkan Kekuatan Artefak pemakainya, dan secara komprehensif meningkatkan kemampuan Artefak.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill1">
-			<DisplayName>Jimat Kutukan Jahat</DisplayName>
+			<DisplayName>Vilecurse Talisman</DisplayName>
 			<Desc>Meningkatkan Kekuatan Mantra pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill2">
-			<DisplayName>Jimat Kutukan Ilahi</DisplayName>
+			<DisplayName>Divine Curse Talisman</DisplayName>
 			<Desc>Meningkatkan level skill Spell pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill3">
-			<DisplayName>Jimat Kutukan Roh</DisplayName>
+			<DisplayName>Spiritcurse Talisman</DisplayName>
 			<Desc>Secara mendasar mengurangi Biaya Mantra Qi pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill4">
-			<DisplayName>Jimat Kutukan Suci</DisplayName>
+			<DisplayName>Sacredcurse Talisman</DisplayName>
 			<Desc>Secara mendasar meningkatkan Kekuatan Mantra dan Biaya Qi pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian1">
-			<DisplayName>Jimat Surgawi</DisplayName>
+			<DisplayName>Heavensent Talisman</DisplayName>
 			<Desc>Meningkatkan Lima Atribut pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian2">
-			<DisplayName>Jimat Selubung Surga</DisplayName>
+			<DisplayName>Heavenshrouding Talisman</DisplayName>
 			<Desc>Mengurangi Pencapaian pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian3">
-			<DisplayName>Jimat Laten</DisplayName>
+			<DisplayName>Latent Talisman</DisplayName>
 			<Desc>Meningkatkan Potensi pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_JieTian1">
-			<DisplayName>Jimat Surgawi</DisplayName>
+			<DisplayName>Heavenlent Talisman</DisplayName>
 			<Desc>Meningkatkan Pencapaian pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice1">
-			<DisplayName>Kediaman Ilahi</DisplayName>
+			<DisplayName>Divine Residence</DisplayName>
 			<Desc>Meningkatkan batas Max Divine Residents bagi pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice2">
-			<DisplayName>Persepsi Ilahi</DisplayName>
+			<DisplayName>Divine Perception</DisplayName>
 			<Desc>Meningkatkan Bonus Perolehan Keyakinan pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice3">
-			<DisplayName>Otoritas Ilahi</DisplayName>
+			<DisplayName>Divine Authority</DisplayName>
 			<Desc>Meningkatkan Keilahian pemakainya.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice4">
-			<DisplayName>Penyembunyian Ilahi</DisplayName>
+			<DisplayName>Divine Concealment</DisplayName>
 			<Desc>Mengurangi Keilahian pemakainya.</Desc>
 		</Text>
 	</List>
