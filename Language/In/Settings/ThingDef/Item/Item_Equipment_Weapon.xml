@@ -1,34 +1,34 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_WeaponBow" sParam="Item">
-			<ThingName>Busur</ThingName>
+			<ThingName>Bow</ThingName>
 			<Desc>Busur yang dapat digunakan untuk berburu sasaran yang jauh.</Desc>
-			<Item.FabaoSuffix>Busur</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponWoodBow" sParam="Item">
-			<ThingName>Busur</ThingName>
+			<ThingName>Bow</ThingName>
 			<Desc>Busur yang dapat digunakan untuk berburu sasaran yang jauh.</Desc>
-			<Item.FabaoSuffix>Busur</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponKnife" sParam="Item">
-			<ThingName>Bilah</ThingName>
+			<ThingName>Blade</ThingName>
 			<Desc>Pedang bermata satu yang unggul dalam menebas dan memotong.</Desc>
-			<Item.FabaoSuffix>Bilah</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Blade</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponLance" sParam="Item">
-			<ThingName>Tombak</ThingName>
+			<ThingName>Spear</ThingName>
 			<Desc>Tombak panjang yang secara efektif dapat menimbulkan kerusakan menusuk pada organ dalam seseorang.</Desc>
-			<Item.FabaoSuffix>Tombak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Spear</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponSword" sParam="Item">
-			<ThingName>Pedang</ThingName>
+			<ThingName>Sword</ThingName>
 			<Desc>Pedang yang ringan dan fleksibel.</Desc>
-			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponHalbert" sParam="Item">
-			<ThingName>Gada</ThingName>
+			<ThingName>Mace</ThingName>
 			<Desc>Senjata tumpul yang berat, dampaknya cukup besar hingga mematahkan tulang dan tendon musuh.</Desc>
-			<Item.FabaoSuffix>Bunga pala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Mace</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponAxeRing" sParam="Item">
 			<ThingName>Chakram</ThingName>
@@ -36,23 +36,23 @@
 			<Item.FabaoSuffix>Chakram</Item.FabaoSuffix>
 		</Text>
 		<Text Name="SP_Sword1" sParam="Item">
-			<ThingName>Ke Daraboom</ThingName>
+			<ThingName>Daraboomba</ThingName>
 			<Desc>Dikatakan bahwa di negeri yang jauh di sebelah barat, seorang prajurit bernama Daraboomba menggunakan pedang ini untuk membunuh makhluk kuat yang disebut “naga”. Seluruh pedangnya berwarna merah tua seolah-olah bermandikan darah naga. Saat mendaratkan pukulan dengan pedang ini, ada kemungkinan menimbulkan cedera Heart Burn pada musuh.</Desc>
 		</Text>
 		<Text Name="SP_Sword2" sParam="Item">
-			<ThingName>Pembuat hujan</ThingName>
+			<ThingName>Rainmaker</ThingName>
 			<Desc>Pedang kayu polos yang ditinggalkan oleh Immortal Pearlwood. Tampaknya tidak ada yang luar biasa, namun memiliki kemampuan ajaib memanggil hujan dan angin.</Desc>
 		</Text>
 		<Text Name="SP_Sword3" sParam="Item">
-			<ThingName>Pedang Tekno</ThingName>
+			<ThingName>Techno Sword</ThingName>
 			<Desc>Pedang ini adalah kenang-kenangan Wang Laoju, Pemimpin Sekte Teknologi Masa Depan. Kehadiran pedang ini melambangkan kehadiran Laoju sendiri. Pemegang pedang ini dapat meningkatkan semangat kerja seluruh karyawan sehingga membuat mereka lebih mau bekerja.</Desc>
 		</Text>
 		<Text Name="SP_Sword4" sParam="Item">
-			<ThingName>Pedang Banedragon</ThingName>
+			<ThingName>Banedragon Sword</ThingName>
 			<Desc>Pedang yang sangat kuat, inilah yang dibawa oleh Ahli Pedang Kegelapan dari zaman kuno.</Desc>
 		</Text>
 		<Text Name="SP_Bow1" sParam="Item">
-			<ThingName>Busur Berburu</ThingName>
+			<ThingName>Hunting Bow</ThingName>
 			<Desc>Busur yang dirancang khusus untuk berburu binatang. Menggunakan panah khusus yang dilapisi obat bius dan tidak dapat menembus kulit, sehingga umumnya tidak menyebabkan cedera fatal.</Desc>
 		</Text>
 	</List>
