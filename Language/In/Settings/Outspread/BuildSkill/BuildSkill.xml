@@ -1,8 +1,8 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="zhaolan">
-			<DisplayName>Perekrutan</DisplayName>
-			<Desc>Pengumuman untuk merekrut penduduk kota ini yang memiliki kepercayaan pada sekte Anda untuk menjadi murid sekte tersebut. Setiap rekrutmen membutuhkan 100 Kekuatan Pengaruh.</Desc>
+			<DisplayName>Recruit</DisplayName>
+			<Desc>Rekrut orang-orang di lokasi ini yang percaya pada agama kami sebagai murid kami. Setiap rekrutmen membutuhkan 100 Pengaruh.</Desc>
 		</Text>
 	</List>
 </Texts>
