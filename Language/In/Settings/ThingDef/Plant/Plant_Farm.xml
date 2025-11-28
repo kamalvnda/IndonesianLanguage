@@ -1,20 +1,20 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Wheat" sParam="Plant">
-			<ThingName>Gandum</ThingName>
-			<Desc>Sumber makanan utama. Meskipun masa pertumbuhannya panjang, tanaman ini tangguh dan dapat tumbuh pada suhu antara [temperature]0[/temperature]-[temperature]40[/temperature], dan memberikan hasil yang besar.</Desc>
+			<ThingName>Wheat</ThingName>
+			<Desc>Sumber makanan utama. Meskipun masa pertumbuhannya panjang, ia tangguh dan dapat tumbuh pada suhu antara keduanya[temperature]0[/temperature][temperature]40[/temperature], dan memberikan hasil yang besar dan kuat.</Desc>
 		</Text>
 		<Text Name="Healroot" sParam="Plant">
-			<ThingName>Herba</ThingName>
-			<Desc>Obat yang paling umum dan mendasar. Dapat diolah dan disuling menjadi obat lain. Hanya dapat tumbuh pada suhu antara [temperature]10[/temperature]-[temperature]40[/temperature].</Desc>
+			<ThingName>Herb</ThingName>
+			<Desc>Obat yang paling umum dan mendasar. Dapat diolah dan disuling menjadi obat lain. Hanya bisa tumbuh pada suhu antara[temperature]10[/temperature][temperature]40[/temperature]</Desc>
 		</Text>
 		<Text Name="Cotton" sParam="Plant">
-			<ThingName>Kapas</ThingName>
-			<Desc>Sumber utama pembuatan kain. Cocok tumbuh pada suhu antara [temperature]5[/temperature]-[temperature]35[/temperature]. Bisa juga didapatkan saat berpetualang ke Mt. Barren.</Desc>
+			<ThingName>Cotton</ThingName>
+			<Desc>Sumber utama pembuatan kain. Cocok tumbuh pada suhu antara[temperature]5[/temperature][temperature]35[/temperature]. Bisa juga didapatkan saat berpetualang ke Mt. Barren.</Desc>
 		</Text>
 		<Text Name="Mushroom" sParam="Plant">
-			<ThingName>Jamur</ThingName>
-			<Desc>Jamur biasa. Sering tumbuh di lingkungan [temperature]18[/temperature]-[temperature]23[/temperature], dan hanya dapat tumbuh di tempat gelap.</Desc>
+			<ThingName>Mushroom</ThingName>
+			<Desc>Jamur biasa. Sering tumbuh di lingkungan[temperature]18[/temperature][temperature]23[/temperature], dan hanya bisa tumbuh dalam kegelapan.</Desc>
 		</Text>
 	</List>
 </Texts>
