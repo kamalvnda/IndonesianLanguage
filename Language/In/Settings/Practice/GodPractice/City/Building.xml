@@ -1,187 +1,187 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GodCity_Housing">
-			<DisplayName>Kediaman Ilahi</DisplayName>
+			<DisplayName>Divine Residence</DisplayName>
 			<Desc>Bangunan tempat tinggal disediakan untuk orang-orang dari Alam Ilahi. Meningkatkan Max Divine Resident.</Desc>
 		</Text>
 		<Text Name="GodCity_Guard">
-			<DisplayName>Kuil Penjaga</DisplayName>
+			<DisplayName>Guard's Temple</DisplayName>
 			<Desc>Fasilitas yang didedikasikan untuk pemujaan Penjaga, di mana para penggarap Hukum Shendao dapat memperoleh berkah Penjaga untuk meningkatkan kemampuan mereka sendiri.</Desc>
 		</Text>
 		<Text Name="GodCity_FaithWay">
-			<DisplayName>Kuil Keajaiban</DisplayName>
+			<DisplayName>Temple of Miracles</DisplayName>
 			<Desc>Setiap Kuil Pertunjukan dapat berkomunikasi dengan patung yang disembah di Agensi kota dari Dunia Fana. Melalui sistem ini, para penggarap Hukum Shendao dapat memperoleh akumulasi Kepercayaan pada patung dari orang-orang yang beriman, dan memainkan beberapa trik bagus dengannya.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoRateUp">
-			<DisplayName>Paviliun Suci</DisplayName>
+			<DisplayName>Sacred Pavilion</DisplayName>
 			<Desc>Sebuah kuil yang dibangun di atas kekuatan Keyakinan, itu adalah proyeksi Artefak Suci milik seseorang di Alam Ilahi. Peningkatan level Paviliun Suci akan meningkatkan Artefak Suci milik seseorang.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd1">
-			<DisplayName>SP: Aula Badai</DisplayName>
+			<DisplayName>SP: Hall of Storm</DisplayName>
 			<Desc>Bagian dari Paviliun Suci. Memberikan Relik Suci Qi angin dan awan, menjadikannya lebih lincah dan elegan.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd2">
-			<DisplayName>SP : Balai Berat</DisplayName>
+			<DisplayName>SP: Hall of Weight</DisplayName>
 			<Desc>Bagian dari Paviliun Suci. Memberi Relik Suci kekuatan seribu beban, menjadikannya lebih kuat.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd3">
-			<DisplayName>SP: Aula Percaya Diri</DisplayName>
+			<DisplayName>SP: Hall of Aplomb</DisplayName>
 			<Desc>Bagian dari Paviliun Suci. Memberi Relik Suci kekuatan integritas sejati, menjadikannya lebih kokoh dan tangguh.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd4">
-			<DisplayName>SP: Aula Pliancy</DisplayName>
+			<DisplayName>SP: Hall of Pliancy</DisplayName>
 			<Desc>Bagian dari Paviliun Suci. Memberi Relik Suci kekuatan kelenturan, menjadikannya lebih fleksibel dan tangguh.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd5">
-			<DisplayName>SP: Aula Pedang</DisplayName>
+			<DisplayName>SP: Hall of Blade</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan pedang yang sangat tajam.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd6">
-			<DisplayName>SP: Balai Yang Mulia</DisplayName>
+			<DisplayName>SP: Hall of Majesty</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan keagungan, yang sangat merusak.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd7">
-			<DisplayName>SP : Balai Benih</DisplayName>
+			<DisplayName>SP: Hall of Seed</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan biji sesawi, menjadikannya kecil dan tidak terlihat.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd8">
-			<DisplayName>SP: Aula Guntur</DisplayName>
+			<DisplayName>SP: Hall of Thunder</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan guntur surgawi, yang kekuatannya tidak terbatas.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd9">
-			<DisplayName>SP: Aula Pantheon</DisplayName>
+			<DisplayName>SP: Hall of Pantheon</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan semua roh, energi yang dalam dan riuh.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd10">
-			<DisplayName>SP: Aula Gale</DisplayName>
+			<DisplayName>SP: Hall of Gale</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan deru angin kencang, yang secepat seketika.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd11">
-			<DisplayName>SP : Penanggung Jawab</DisplayName>
+			<DisplayName>SP: Hall of Charge</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan serangan gelap, menjadikannya tak terhentikan.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd1">
-			<DisplayName>SP: Aula Racun</DisplayName>
+			<DisplayName>SP: Hall of Poisons</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan lima racun. Untuk setiap serangan ke-36, ia akan menyerang tubuh penggarap musuh itu sendiri, menembus perisai dan memberikan kerusakan tambahan.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Untuk setiap serangan ke-36, ia akan menyerang tubuh penggarap musuh itu sendiri, menembus perisai dan memberikan kerusakan tambahan.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>For every 36th strike, it will attack the enemy cultivator's body itself, penetrating shield and deal additional damage.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd2">
-			<DisplayName>SP: Aula Jiwa</DisplayName>
+			<DisplayName>SP: Hall of Spirit</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan pengisian roh. Setiap serangan ke-18 akan memberikan mantra pada musuh sasaran.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Setiap serangan ke-18 akan memberikan mantra pada musuh sasaran.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Every 18th attack will cast a spell on the target enemy.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd3">
-			<DisplayName>SP : Balai Jaga</DisplayName>
+			<DisplayName>SP: Hall of Guard</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan perlindungan suci. Tingkat keterampilan perlindungan meningkat sebesar 3.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Tingkat keterampilan perlindungan meningkat sebesar 3.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Protection skill level increased by 3.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd4">
-			<DisplayName>SP: Aula Sihir</DisplayName>
+			<DisplayName>SP: Hall of Magic</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan sihir suci. Level keterampilan mantra meningkat 3.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Level keterampilan mantra meningkat 3.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Spell skill level increased by 3.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd5">
-			<DisplayName>SP: Aula Penguasaan</DisplayName>
+			<DisplayName>SP: Hall of Mastery</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan penguasaan suci. Level keterampilan Penguasaan Artefak meningkat sebesar 3.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Level keterampilan Penguasaan Artefak meningkat sebesar 3.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Artifact Mastery skill level increased by 3.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd6">
-			<DisplayName>SP: Balai Penarikan</DisplayName>
+			<DisplayName>SP: Hall of Recall</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan mengingat roh. 3% kerusakan yang diberikan akan diisi ulang ke Qi artefak.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>3% kerusakan yang diberikan akan diisi ulang ke Qi artefak.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% of damage dealt will be replenished to the artifact's Qi.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd7">
-			<DisplayName>SP: Aula Spectre</DisplayName>
+			<DisplayName>SP: Hall of Specter</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan Spectral. Untuk setiap 15 serangan, dihasilkan pedang pedang yang bertahan selama 15 detik.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Untuk setiap 15 serangan, dihasilkan pedang pedang yang bertahan selama 15 detik.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>For every 15 attacks, a swordsprite is generated that lasts 15 seconds.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd8">
-			<DisplayName>SP: Aula Nafas</DisplayName>
+			<DisplayName>SP: Hall of Breath</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan untuk meringankan nafas. Setiap 7 serangan mengurangi cooldown skill sebanyak 1 detik.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Setiap 7 serangan mengurangi cooldown skill sebanyak 1 detik.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Every 7 attacks reduce skill cooldown by 1 second.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd9">
-			<DisplayName>SP: Aula Sembilan</DisplayName>
+			<DisplayName>SP: Hall of Nine</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan Sembilan Ekstremitas. Saat memberikan kerusakan, ada peluang 4% untuk menimbulkan 9 kali kerusakan.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Saat memberikan kerusakan, ada peluang 4% untuk menimbulkan 9 kali kerusakan.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>When dealing damage, there is a 4% chance of dealing 9 times the damage.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd10">
-			<DisplayName>SP: Aula Keabadian</DisplayName>
+			<DisplayName>SP: Hall of Infinity</DisplayName>
 			<Desc>Memberi Relik Suci kekuatan tak terhingga. Kekuatan serangan pedang pertama meningkat 3 kali lipat. Efeknya diatur ulang saat mengisi ulang Qi ke artefak.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Kekuatan serangan pedang pertama meningkat 3 kali lipat. Efeknya diatur ulang saat mengisi ulang Qi ke artefak.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd11">
-			<DisplayName>SP: Aula Angin</DisplayName>
+			<DisplayName>SP: Hall of Wind</DisplayName>
 			<Desc>Memberikan Relik Suci kekuatan untuk mematahkan angin positif. Menimbulkan damage 1,25x ketika menyerang tubuh musuh itu sendiri.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Menimbulkan damage 1,25x ketika menyerang tubuh musuh itu sendiri.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>Deals 1.25x damage when attacking the enemy's body itself.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_WishTree">
-			<DisplayName>Pohon Doa</DisplayName>
+			<DisplayName>Tree of Prayers</DisplayName>
 			<Desc>Keinginan dan doa masyarakat awam telah terkonsentrasi dan terbentuk menjadi sebuah pohon. Anda dapat memanfaatkan Qi manusia untuk sedikit mengurangi Keilahian.</Desc>
 		</Text>
 		<Text Name="GodCity_XinyangShendian">
-			<DisplayName>Kuil Iman</DisplayName>
+			<DisplayName>Temple of Faith</DisplayName>
 			<Desc>Kuil yang memusatkan kekuatan Keyakinan. Hal ini dapat meningkatkan efisiensi di mana Alam Ilahi menghasilkan Keyakinan.</Desc>
 		</Text>
 		<Text Name="GodCity_LiuLiShenDian">
-			<DisplayName>Kuil Glasir</DisplayName>
+			<DisplayName>Temple of Glaze</DisplayName>
 			<Desc>Kuil yang memperbesar kekuatan Penjaga. Itu dapat meningkatkan kemampuan yang diberikan kepadamu oleh Penjaga.</Desc>
 		</Text>
 		<Text Name="GodCity_ThunderDefend">
-			<DisplayName>Istana Surgawi</DisplayName>
+			<DisplayName>Heavenly Palace</DisplayName>
 			<Desc>Pusatkan kekuatan Keyakinan untuk melindungi Anda dari kekuatan surga. Itu dapat mengurangi kekuatan Kesengsaraan Surgawi.</Desc>
 		</Text>
 		<Text Name="GodCity_FengShenTai">
-			<DisplayName>Altar Pengawal</DisplayName>
+			<DisplayName>Altar of Guards</DisplayName>
 			<Desc>Tempat di mana para dewa menguduskan sub-dewa, mengurapi Pengikut Inti dengan Keyakinan 100% menjadi Penjaga.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_A">
-			<DisplayName>Kediaman Logam</DisplayName>
+			<DisplayName>Residence of Metal</DisplayName>
 			<Desc>Meningkatkan Pengikut Inti Maks.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_B">
-			<DisplayName>Kediaman Kayu</DisplayName>
+			<DisplayName>Residence of Wood</DisplayName>
 			<Desc>Meningkatkan Pengikut Inti Maks.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_C">
-			<DisplayName>Kediaman Air</DisplayName>
+			<DisplayName>Residence of Water</DisplayName>
 			<Desc>Meningkatkan Pengikut Inti Maks.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_D">
-			<DisplayName>Kediaman Api</DisplayName>
+			<DisplayName>Residence of Fire</DisplayName>
 			<Desc>Meningkatkan Pengikut Inti Maks.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_E">
-			<DisplayName>Tempat Tinggal Bumi</DisplayName>
+			<DisplayName>Residence of Earth</DisplayName>
 			<Desc>Meningkatkan Pengikut Inti Maks.</Desc>
 		</Text>
 		<Text Name="GodCity_Housing_Lv2">
-			<DisplayName>Kediaman Umum</DisplayName>
+			<DisplayName>Generality Residence</DisplayName>
 			<Desc>Kediaman Ilahi Tingkat Lanjut. Dapat menampung Divine Resident dalam jumlah besar.</Desc>
 		</Text>
 		<Text Name="GodCity_Housing_Lv2_2">
-			<DisplayName>Koneksi Tempat Tinggal</DisplayName>
+			<DisplayName>Connection Residence</DisplayName>
 			<Desc>Kediaman Ilahi Tingkat Lanjut. Dapat menampung Divine Resident dalam jumlah besar.</Desc>
 		</Text>
 		<Text Name="GodCity_HongChenKuHai">
-			<DisplayName>Melankolia Fana</DisplayName>
+			<DisplayName>Mortal Melancholia</DisplayName>
 			<Desc>Membawa penderitaan manusia ke Alam Ilahi, sangat mengurangi Keilahian.</Desc>
 		</Text>
 		<Text Name="GodCity_Magic_1">
-			<DisplayName>Aula Reli</DisplayName>
+			<DisplayName>Hall of Rallying</DisplayName>
 			<Desc>Memberikan Keajaiban berikut di level 1, level 2, dan level 3 masing-masing: Mantra Penggalangan Ilahi, Mantra Pengabul Keinginan, Mantra Penghormatan Tunggal. Tingkatkan hasil material dasar di area tempat Perwujudanmu berada dalam jangka waktu tertentu.</Desc>
 		</Text>
 		<Text Name="GodCity_Magic_2">
-			<DisplayName>Paviliun Hati</DisplayName>
+			<DisplayName>Pavilion of Heart</DisplayName>
 			<Desc>Level 1 memberikan Keajaiban - Ketenangan: Melepaskan karakter yang tidak mengembangkan Shendao dan mengurangi pengganda Moodnya sebesar 25%, berlangsung selama 7 hari. \nLevel 2 memberikan Keajaiban - Pikiran Bersih: Selesaikan Obsesi pada karakter, dan dapatkan Permata Obsesi.</Desc>
 		</Text>
 		<Text Name="GodCity_Magic_3">
-			<DisplayName>Paviliun Kekuatan</DisplayName>
+			<DisplayName>Pavilion of Might</DisplayName>
 			<Desc>Level 1 memberikan Keajaiban - Pendewaan: Ucapkan mantra untuk meningkatkan Keilahian Anda secara sementara hingga ekstrem, sehingga sangat meningkatkan kecakapan tempur.\n Level 2 memberikan Keajaiban - Kerahiman Ilahi: Mengkonsumsi umat manusia untuk mencoba menerangi tanaman. Hasil iluminasi memerlukan waktu untuk muncul. Tanaman tidak dapat disinari dengan kekuatan batin lagi saat berada dalam sesi iluminasi.</Desc>
-			<DLCDesc.Conditions.0.Value>Memberikan Keajaiban - Pendewaan: Ucapkan mantra untuk meningkatkan Keilahian Anda untuk sementara hingga ekstrem, sangat meningkatkan kecakapan tempur.</DLCDesc.Conditions.0.Value>
+			<DLCDesc.Conditions.0.Value>Provides Miracle - Deification: Cast a spell to temporarily raise your Divinity to extreme, greatly improving combat prowess.</DLCDesc.Conditions.0.Value>
 		</Text>
 		<Text Name="GodCity_Magic_4">
-			<DisplayName>Aula Pengabdian</DisplayName>
+			<DisplayName>Hall of Devotion</DisplayName>
 			<Desc>Level 1 memberikan Keajaiban - Persuasi: Membujuk karakter murid dalam sekutu atau netral untuk mencoba mengubahnya menjadi Pengikut Inti. \nLevel 2 menyediakan Keajaiban - Penelusuran Keilahian: Pilih karakter untuk mencoba mengetahui keberadaannya. Semakin banyak Divine Resident dan informasi yang Anda miliki, semakin tinggi tingkat keberhasilan mempelajari keberadaan target.</Desc>
 		</Text>
 	</List>
