@@ -1,37 +1,37 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Story_LingZhi_YunYangBegin">
-			<DisplayName>Membina</DisplayName>
-			<Desc>Sebagaimana [NAME] diasuh oleh [HENAME] sesuatu yang istimewa terjadi.</Desc>
+			<DisplayName>Nurture</DisplayName>
+			<Desc>Saat [NAME] diasuh oleh [HENAME] sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_YunYangEnd">
-			<DisplayName>Selesaikan Pemeliharaan</DisplayName>
+			<DisplayName>Finish Nurturing</DisplayName>
 			<Desc>Saat [NAME] selesai mengasuh [HENAME] sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Chance">
-			<DisplayName>Berkah yang Tak Disengaja</DisplayName>
-			<Desc>Ada sedikit perubahan pada kecerdasan saat [NAME] tumbuh.</Desc>
+			<DisplayName>Fortuitous Blessing</DisplayName>
+			<Desc>Ada sedikit perubahan dalam kecerdasan saat [NAME] berkembang.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Grow">
-			<DisplayName>Tumbuhan Spiritual Menjadi Dewasa</DisplayName>
+			<DisplayName>Spiritual Plant Maturing</DisplayName>
 			<Desc>Ketika Akar Roh selesai matang, Qi di seluruh langit dan bumi tiba-tiba berubah, sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Ripe">
-			<DisplayName>Pematangan Tanaman Spiritual</DisplayName>
+			<DisplayName>Spiritual Plant Ripening</DisplayName>
 			<Desc>Ada semacam reaksi mendadak di langit dan bumi ketika Akar Roh matang, sesuatu yang istimewa terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_LingSha">
-			<DisplayName>Ekstremitas</DisplayName>
+			<DisplayName>Extremity</DisplayName>
 			<Desc>Roh jahat [NAME] mencapai tahap ekstrim dan kemudian sesuatu terjadi.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Attack">
-			<DisplayName>Invasi Musuh</DisplayName>
+			<DisplayName>Invasion of Enemies</DisplayName>
 			<Desc>Akar Roh sudah matang, sesuatu yang besar pasti akan terjadi, bersiaplah.</Desc>
 			<Selections.0.Display>Memeriksa</Selections.0.Display>
 		</Text>
