@@ -1,49 +1,49 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Zhen_XianTianMuLing">
-			<DisplayName>Domain Esensi Kayu</DisplayName>
+			<DisplayName>Domain of Wood Essence</DisplayName>
 			<Desc>Mengaktifkan potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
 		</Text>
 		<Text Name="Zhen_ZTLYQLSJ">
-			<DisplayName>Domain Ketenangan Surgawi</DisplayName>
+			<DisplayName>Domain of Heavenly Serenity</DisplayName>
 			<Desc>Meningkatkan Suasana Hati, Keadaan Mental dan Kecepatan Kultivasi.</Desc>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower1">
-			<DisplayName>Beban Formasi Kecil</DisplayName>
+			<DisplayName>Small Formation Load</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower2">
-			<DisplayName>Beban Formasi Sedang</DisplayName>
+			<DisplayName>Medium Formation Load</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower3">
-			<DisplayName>Beban Formasi Besar</DisplayName>
+			<DisplayName>Large Formation Load</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower4">
-			<DisplayName>Formasi Tingkat Lanjut</DisplayName>
+			<DisplayName>Advanced Formation</DisplayName>
 		</Text>
 		<Text Name="Zhen_FashuhejiEffect">
-			<DisplayName>Serangan Mantra Bersama</DisplayName>
-			<Desc>Ucapkan mantra berikutnya dengan menggabungkan kekuatan semua orang dalam Formasi.</Desc>
+			<DisplayName>Joint Spell Attack</DisplayName>
+			<Desc>Ucapkan mantra berikutnya dengan menggabungkan kekuatan semua orang di Formasi.</Desc>
 		</Text>
 		<Text Name="Zhen_LinkEffect">
-			<DisplayName>Formasi Bentuk</DisplayName>
+			<DisplayName>Form Formation</DisplayName>
 		</Text>
 		<Text Name="Zhen_LinkEffectCore">
-			<DisplayName>pil</DisplayName>
+			<DisplayName>Pillar</DisplayName>
 		</Text>
 		<Text Name="Zhen_RevealEffect">
-			<DisplayName>Pembantu Terbuka</DisplayName>
+			<DisplayName>Exposed Auxiliary</DisplayName>
 			<Desc>Alat bantu tersebut kini telah terekspos, serangan terhadapnya akan menimbulkan kerusakan ekstra. Itu bisa disembunyikan dengan mengubah formasi.</Desc>
 		</Text>
 		<Text Name="Zhen_CancelZhenRecover">
-			<DisplayName>Kembalikan Formasi</DisplayName>
+			<DisplayName>Restore Formation</DisplayName>
 			<Desc>Formasi sedang dalam pemulihan.</Desc>
 		</Text>
 		<Text Name="Zhen_ChangeEffect">
-			<DisplayName>Ubah Formasi</DisplayName>
+			<DisplayName>Change Formation</DisplayName>
 			<Desc>Pilar tersebut telah diubah untuk sementara tetapi perubahan tersebut akan dikembalikan setelah beberapa saat.</Desc>
 		</Text>
 		<Text Name="BDPW_Lock">
-			<DisplayName>Ditandai</DisplayName>
+			<DisplayName>Marked</DisplayName>
 			<Desc>Ditandai dengan Battle Aloofness.</Desc>
 		</Text>
 	</List>
