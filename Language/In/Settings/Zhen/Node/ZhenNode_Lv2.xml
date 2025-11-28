@@ -1,310 +1,310 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv2_4_1">
-			<DisplayName>Harmoni Langit-Bumi</DisplayName>
+			<DisplayName>Heaven-Earth Harmony</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_2">
-			<DisplayName>Sentralitas Angin-Guntur</DisplayName>
+			<DisplayName>Wind-Thunder Centrality</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_3">
-			<DisplayName>Konversi Yin-Yang</DisplayName>
+			<DisplayName>Yin-Yang Conversion</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_4">
-			<DisplayName>Konversi Yang-Yin</DisplayName>
+			<DisplayName>Yang-Yin Conversion</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_5">
-			<DisplayName>Cara Yin Ekstrim</DisplayName>
+			<DisplayName>Way of Extreme Yin</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_6">
-			<DisplayName>Cara Yang Ekstrim</DisplayName>
+			<DisplayName>Way of Extreme Yang</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_1">
-			<DisplayName>Surga</DisplayName>
+			<DisplayName>Heaven</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_2">
-			<DisplayName>Bumi</DisplayName>
+			<DisplayName>Earth</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_3">
-			<DisplayName>Air</DisplayName>
+			<DisplayName>Water</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_4">
-			<DisplayName>Api</DisplayName>
+			<DisplayName>Fire</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_5">
-			<DisplayName>Guruh</DisplayName>
+			<DisplayName>Thunder</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_6">
-			<DisplayName>Angin</DisplayName>
+			<DisplayName>Wind</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_7">
-			<DisplayName>Gunung</DisplayName>
+			<DisplayName>Mountain</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_8">
-			<DisplayName>Rawa</DisplayName>
+			<DisplayName>Swamp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_9">
-			<DisplayName>Surga Kreatif</DisplayName>
+			<DisplayName>Creative Heaven</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_10">
-			<DisplayName>Bumi Reseptif</DisplayName>
+			<DisplayName>Receptive Earth</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_11">
-			<DisplayName>Air yang Sangat Buruk</DisplayName>
+			<DisplayName>Abysmal Water</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_12">
-			<DisplayName>Menempel Api</DisplayName>
+			<DisplayName>Clinging Fire</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_13">
-			<DisplayName>Membangkitkan Guntur</DisplayName>
+			<DisplayName>Arousing Thunder</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_14">
-			<DisplayName>Angin Lembut</DisplayName>
+			<DisplayName>Gentle Wind</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_15">
-			<DisplayName>Masih Gunung</DisplayName>
+			<DisplayName>Still Mountain</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_16">
-			<DisplayName>Rawa yang Menyenangkan</DisplayName>
+			<DisplayName>Joyous Swamp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_17">
-			<DisplayName>Perdamaian</DisplayName>
+			<DisplayName>Peace</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_18">
-			<DisplayName>Mungkin</DisplayName>
+			<DisplayName>Might</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_19">
-			<DisplayName>Kemakmuran</DisplayName>
+			<DisplayName>Prosperity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_20">
-			<DisplayName>Kelimpahan</DisplayName>
+			<DisplayName>Abundance</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_21">
-			<DisplayName>Harapan</DisplayName>
+			<DisplayName>Expectancy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_22">
-			<DisplayName>Resolusi</DisplayName>
+			<DisplayName>Resolution</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_23">
-			<DisplayName>Kesejahteraan</DisplayName>
+			<DisplayName>Welfare</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_24">
-			<DisplayName>Stagnasi</DisplayName>
+			<DisplayName>Stagnation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_25">
-			<DisplayName>Antusiasme</DisplayName>
+			<DisplayName>Enthusiasm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_26">
-			<DisplayName>Pemisahan</DisplayName>
+			<DisplayName>Separation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_27">
-			<DisplayName>Kemajuan</DisplayName>
+			<DisplayName>Progress</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_28">
-			<DisplayName>Serikat</DisplayName>
+			<DisplayName>Union</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_29">
-			<DisplayName>Mengumpulkan</DisplayName>
+			<DisplayName>Gathering</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_30">
-			<DisplayName>Kontemplasi</DisplayName>
+			<DisplayName>Contemplation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_31">
-			<DisplayName>Kepolosan</DisplayName>
+			<DisplayName>Innocence</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_32">
-			<DisplayName>Kembali</DisplayName>
+			<DisplayName>Return</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_33">
-			<DisplayName>Kenyamanan</DisplayName>
+			<DisplayName>Comfort</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_34">
-			<DisplayName>Menelan</DisplayName>
+			<DisplayName>Engulfing</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_35">
-			<DisplayName>Tumbuh</DisplayName>
+			<DisplayName>Sprout</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_36">
-			<DisplayName>Mengikuti</DisplayName>
+			<DisplayName>Following</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_37">
-			<DisplayName>Menambah</DisplayName>
+			<DisplayName>Augmenting</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_38">
-			<DisplayName>Mundur</DisplayName>
+			<DisplayName>Retreat</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_39">
-			<DisplayName>Kesopanan</DisplayName>
+			<DisplayName>Modesty</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_40">
-			<DisplayName>Kelebihan</DisplayName>
+			<DisplayName>Excess</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_41">
-			<DisplayName>Pengembaraan</DisplayName>
+			<DisplayName>Wandering</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_42">
-			<DisplayName>Halangan</DisplayName>
+			<DisplayName>Obstruction</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_43">
-			<DisplayName>Daya tarik</DisplayName>
+			<DisplayName>Attraction</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_44">
-			<DisplayName>Perkembangan</DisplayName>
+			<DisplayName>Development</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_45">
-			<DisplayName>Persahabatan</DisplayName>
+			<DisplayName>Fellowship</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_46">
-			<DisplayName>Penggelapan</DisplayName>
+			<DisplayName>Darkening</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_47">
-			<DisplayName>Kelimpahan</DisplayName>
+			<DisplayName>Profusion</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_48">
-			<DisplayName>Berkah</DisplayName>
+			<DisplayName>Grace</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_49">
-			<DisplayName>Penyelesaian</DisplayName>
+			<DisplayName>Completion</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_50">
-			<DisplayName>Revolusi</DisplayName>
+			<DisplayName>Revolution</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_51">
-			<DisplayName>Keluarga</DisplayName>
+			<DisplayName>Family</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_52">
-			<DisplayName>Konflik</DisplayName>
+			<DisplayName>Conflict</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_53">
-			<DisplayName>Tentara</DisplayName>
+			<DisplayName>Army</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_54">
-			<DisplayName>Pembebasan</DisplayName>
+			<DisplayName>Deliverance</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_55">
-			<DisplayName>Ketidaktahuan</DisplayName>
+			<DisplayName>Ignorance</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_56">
-			<DisplayName>Ketidaklengkapan</DisplayName>
+			<DisplayName>Incompleteness</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_57">
-			<DisplayName>Keadaan sulit</DisplayName>
+			<DisplayName>Predicament</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_58">
-			<DisplayName>Penyebaran</DisplayName>
+			<DisplayName>Dispersion</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_59">
-			<DisplayName>Menginjak</DisplayName>
+			<DisplayName>Treading</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_60">
-			<DisplayName>Mendekati</DisplayName>
+			<DisplayName>Approach</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_61">
-			<DisplayName>Pengantin perempuan</DisplayName>
+			<DisplayName>Bride</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_62">
-			<DisplayName>Mengurangi</DisplayName>
+			<DisplayName>Decrease</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_63">
-			<DisplayName>Oposisi</DisplayName>
+			<DisplayName>Opposition</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_64">
-			<DisplayName>Keterbatasan</DisplayName>
+			<DisplayName>Limitation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_65">
-			<DisplayName>Kejujuran</DisplayName>
+			<DisplayName>Honesty</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_66">
-			<DisplayName>Bertemu</DisplayName>
+			<DisplayName>Encounter</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_67">
-			<DisplayName>Kenaikan</DisplayName>
+			<DisplayName>Ascension</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_68">
-			<DisplayName>Lamanya</DisplayName>
+			<DisplayName>Duration</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_69">
-			<DisplayName>Bencana</DisplayName>
+			<DisplayName>Calamity</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_70">
-			<DisplayName>Kawah</DisplayName>
+			<DisplayName>Cauldron</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_71">
-			<DisplayName>Dengan baik</DisplayName>
+			<DisplayName>Well</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_72">
-			<DisplayName>Jumlah lebih besar</DisplayName>
+			<DisplayName>Preponderance</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_1">
-			<DisplayName>Penguasaan Pedang Alam Semesta</DisplayName>
+			<DisplayName>Universe Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_2">
-			<DisplayName>Derivasi Mantra Alam Semesta</DisplayName>
+			<DisplayName>Universe Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_3">
-			<DisplayName>Fokus Penghalang Alam Semesta</DisplayName>
+			<DisplayName>Universe Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_4">
-			<DisplayName>Penguasaan Pedang Tanah</DisplayName>
+			<DisplayName>Ground Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_5">
-			<DisplayName>Derivasi Mantra Dasar</DisplayName>
+			<DisplayName>Ground Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_6">
-			<DisplayName>Fokus Penghalang Tanah</DisplayName>
+			<DisplayName>Ground Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_7">
-			<DisplayName>Penguasaan Pedang Guntur</DisplayName>
+			<DisplayName>Thunder Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_8">
-			<DisplayName>Derivasi Mantra Guntur</DisplayName>
+			<DisplayName>Thunder Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_9">
-			<DisplayName>Fokus Penghalang Guntur</DisplayName>
+			<DisplayName>Thunder Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_10">
-			<DisplayName>Penguasaan Pedang Angin</DisplayName>
+			<DisplayName>Wind Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_11">
-			<DisplayName>Penurunan Mantra Angin</DisplayName>
+			<DisplayName>Wind Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_12">
-			<DisplayName>Fokus Penghalang Angin</DisplayName>
+			<DisplayName>Wind Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_13">
-			<DisplayName>Penguasaan Pedang Air</DisplayName>
+			<DisplayName>Water Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_14">
-			<DisplayName>Penurunan Mantra Air</DisplayName>
+			<DisplayName>Water Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_15">
-			<DisplayName>Fokus Penghalang Air</DisplayName>
+			<DisplayName>Water Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_16">
-			<DisplayName>Penguasaan Pedang Api</DisplayName>
+			<DisplayName>Fire Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_17">
-			<DisplayName>Penurunan Mantra Api</DisplayName>
+			<DisplayName>Fire Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_18">
-			<DisplayName>Fokus Penghalang Api</DisplayName>
+			<DisplayName>Fire Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_19">
-			<DisplayName>Penguasaan Pedang Gunung</DisplayName>
+			<DisplayName>Mountain Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_20">
-			<DisplayName>Penurunan Mantra Gunung</DisplayName>
+			<DisplayName>Mountain Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_21">
-			<DisplayName>Fokus Penghalang Gunung</DisplayName>
+			<DisplayName>Mountain Barrier Focus</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_22">
-			<DisplayName>Penguasaan Pedang Moor</DisplayName>
+			<DisplayName>Moor Sword Mastery</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_23">
-			<DisplayName>Derivasi Mantra Moor</DisplayName>
+			<DisplayName>Moor Spell Derivation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_24">
-			<DisplayName>Fokus Penghalang Moor</DisplayName>
+			<DisplayName>Moor Barrier Focus</DisplayName>
 		</Text>
 	</List>
 </Texts>
