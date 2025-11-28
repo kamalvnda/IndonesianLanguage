@@ -1,234 +1,234 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="SlotSuit_1">
-			<DisplayName>Pikiran Pedang</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
+			<DisplayName>Mind of the Sword</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_2">
-			<DisplayName>Pikiran Pengakuan Iman</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.0.Description>
+			<DisplayName>Mind of the Creed</DisplayName>
+			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_3">
-			<DisplayName>Pikiran Positif</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
+			<DisplayName>Mind of Positivity</DisplayName>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_4">
-			<DisplayName>Pikiran Kelenturan</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
+			<DisplayName>Mind of Pliability</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_5">
-			<DisplayName>Pikiran Keseimbangan</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Berkurang</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Berkurang</SuitEffect.1.Description>
+			<DisplayName>Mind of Balance</DisplayName>
+			<SuitEffect.0.Description>Formation Size Reduced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Reduced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_6">
-			<DisplayName>Keadaan Surga</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>State of Heaven</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_7">
-			<DisplayName>Pikiran Bumi</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Earth</DisplayName>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_8">
-			<DisplayName>Pikiran Guntur</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Thunder</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_9">
-			<DisplayName>Pikiran Angin</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Wind</DisplayName>
+			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_10">
-			<DisplayName>Pikiran Air</DisplayName>
-			<SuitEffect.0.Description>Efisiensi Formasi Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Water</DisplayName>
+			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_11">
-			<DisplayName>Pikiran Api</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Fire</DisplayName>
+			<SuitEffect.0.Description>Operation Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_12">
-			<DisplayName>Pikiran Pegunungan</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Berkurang</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Mountains</DisplayName>
+			<SuitEffect.0.Description>Formation Size Reduced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_13">
-			<DisplayName>Pikiran orang Moor</DisplayName>
-			<SuitEffect.0.Description>Beban Formasi Berkurang</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of Moors</DisplayName>
+			<SuitEffect.0.Description>Formation Load Reduced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_14">
-			<DisplayName>Derivasi Surgawi</DisplayName>
-			<SuitEffect.0.Description>Keahlian Baru: Derivasi Surgawi</SuitEffect.0.Description>
+			<DisplayName>Heavenly Derivation</DisplayName>
+			<SuitEffect.0.Description>New Skill: Heavenly Derivation</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_15">
-			<DisplayName>Badai Petir Luna</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Luna Thunderstorm</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_16">
-			<DisplayName>Langit Matahari</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Skyfire of the Sun</DisplayName>
+			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_17">
-			<DisplayName>Angin Lembut</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Perlindungan Sedikit Ditingkatkan</SuitEffect.1.Description>
+			<DisplayName>Gentle Breeze</DisplayName>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Protection Ability Slightly Enhanced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_18">
-			<DisplayName>Gemuruh Guntur</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Roaring Thunder</DisplayName>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_19">
-			<DisplayName>Pegunungan Tanpa Batas</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stabilitas Sedikit Ditingkatkan</SuitEffect.1.Description>
+			<DisplayName>Boundless Mountains</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Stability Slightly Enhanced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_20">
-			<DisplayName>Aliran Tanpa Akhir</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Batas Energi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Endless Streams</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Energy Cap Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_21">
-			<DisplayName>Asal Usul Langit &amp; Bumi</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Sedikit Ditingkatkan</SuitEffect.1.Description>
+			<DisplayName>Origin of Sky &amp; Earth</DisplayName>
+			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Slightly Enhanced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_22">
-			<DisplayName>Akhir Perbukitan &amp; sungai</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.1.Description>
+			<DisplayName>End of Hills &amp; Rivers</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_23">
-			<DisplayName>Kelahiran Ciptaan</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.2.Description>
+			<DisplayName>Birth of Creations</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Operation Ability Enhanced</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_24">
-			<DisplayName>Bentrokan Api &amp; Air</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Efisiensi Formasi Meningkat</SuitEffect.2.Description>
+			<DisplayName>Clash of Fire &amp; Water</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Formation Efficiency Increased</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_25">
-			<DisplayName>Kemarahan Api</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Ukuran Formasi Berkurang</SuitEffect.2.Description>
+			<DisplayName>Temper of Fire</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Protection Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Formation Size Reduced</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_26">
-			<DisplayName>Erosi Alam</DisplayName>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Beban Formasi Berkurang</SuitEffect.2.Description>
+			<DisplayName>Erosion of Nature</DisplayName>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Protection Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Formation Load Reduced</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_27">
-			<DisplayName>Purba</DisplayName>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Efisiensi Formasi Meningkat</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Stabilitas Ditingkatkan</SuitEffect.5.Description>
+			<DisplayName>Primordial</DisplayName>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Formation Efficiency Increased</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Operation Ability Enhanced</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Stability Enhanced</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_28">
-			<DisplayName>Luasnya Luar Biasa</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Batas Energi Formasi Meningkat</SuitEffect.2.Description>
+			<DisplayName>Great Vastness</DisplayName>
+			<SuitEffect.0.Description>Formation Size Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Formation Energy Cap Increased</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_1">
-			<DisplayName>Pikiran Ragestriker</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Batas Energi Formasi Meningkat</SuitEffect.5.Description>
+			<DisplayName>Mind of Ragestriker</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Protection Ability Enhanced</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Formation Energy Cap Increased</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_2">
-			<DisplayName>Pikiran Tujuh Pembantaian</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Batas Energi Formasi Meningkat</SuitEffect.5.Description>
+			<DisplayName>Mind of Seven Slaughters</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Protection Ability Enhanced</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Formation Energy Cap Increased</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_3">
-			<DisplayName>Pikiran dari Formasi yang Tak Tertembus</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Batas Energi Formasi Meningkat</SuitEffect.5.Description>
+			<DisplayName>Mind of the Impregnable Formation</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Protection Ability Enhanced</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Formation Energy Cap Increased</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_4">
-			<DisplayName>Pikiran Formasi Hukum Ilahi</DisplayName>
-			<SuitEffect.0.Description>Beban Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Efisiensi Formasi Meningkat</SuitEffect.1.Description>
+			<DisplayName>Mind of the Divine Law Formation</DisplayName>
+			<SuitEffect.0.Description>Formation Load Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Efficiency Increased</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_5">
-			<DisplayName>Pikiran Naga Sejati</DisplayName>
-			<SuitEffect.0.Description>Beban Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.3.Description>
+			<DisplayName>Mind of the True Dragon</DisplayName>
+			<SuitEffect.0.Description>Formation Load Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Spell Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Protection Ability Enhanced</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_6">
-			<DisplayName>Pikiran Phoenix Ilahi</DisplayName>
-			<SuitEffect.0.Description>Beban Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.3.Description>
+			<DisplayName>Mind of the Divine Phoenix</DisplayName>
+			<SuitEffect.0.Description>Formation Load Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Spell Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Protection Ability Enhanced</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_7">
 			<DisplayName>Mind of Yin Yang</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.2.Description>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Operation Ability Enhanced</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_8">
-			<DisplayName>Pikiran Embun Beku Bulan</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.3.Description>
+			<DisplayName>Mind of Lunarfrost</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Spell Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Protection Ability Enhanced</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_9">
-			<DisplayName>Pikiran Pedang Neraka</DisplayName>
-			<SuitEffect.0.Description>Beban Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
+			<DisplayName>Mind of the Abyssal Sword</DisplayName>
+			<SuitEffect.0.Description>Formation Load Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_10">
-			<DisplayName>Pikiran Kayu Timur</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.4.Description>
+			<DisplayName>Mind of the Eastern Wood</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Operation Ability Enhanced</SuitEffect.4.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_11">
-			<DisplayName>Pikiran Konvergensi</DisplayName>
-			<SuitEffect.0.Description>Ukuran Formasi Sedikit Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Beban Formasi Sedikit Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.4.Description>
-			<SuitEffect.5.Description>Stabilitas Ditingkatkan</SuitEffect.5.Description>
-			<SuitEffect.6.Description>Efisiensi Formasi Meningkat</SuitEffect.6.Description>
+			<DisplayName>Mind of the Convergence</DisplayName>
+			<SuitEffect.0.Description>Formation Size Slightly Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Load Slightly Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Protection Ability Enhanced</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Stability Enhanced</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Formation Efficiency Increased</SuitEffect.6.Description>
 		</Text>
 	</List>
 </Texts>
