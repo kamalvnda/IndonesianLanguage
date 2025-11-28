@@ -1,117 +1,117 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Hungry1">
-			<DisplayName>Gila karena Kelaparan</DisplayName>
+			<DisplayName>Crazy with Hunger</DisplayName>
 			<Desc>Tolong, biarkan aku makan sesuatu, apa saja!</Desc>
 			<StoryDesc>Merasa kelaparan karena tidak ada makanan membuat seseorang tidak bisa berbuat apa-apa selain mengerang</StoryDesc>
 		</Text>
 		<Text Name="Hungry2">
-			<DisplayName>Sangat lapar</DisplayName>
+			<DisplayName>Extremely Hungry</DisplayName>
 			<Desc>Aku lapar sekali. Apakah tidak ada yang bisa dimakan?</Desc>
 			<StoryDesc>Merasakan rasa lapar yang begitu hebat sehingga satu-satunya yang bisa dilakukan hanyalah menggosok perut</StoryDesc>
 		</Text>
 		<Text Name="Hungry3">
-			<DisplayName>Sangat lapar</DisplayName>
+			<DisplayName>Famished</DisplayName>
 			<Desc>Saya kelaparan, mungkin saya harus mencari sesuatu untuk dimakan?</Desc>
 			<StoryDesc>Merasakan perasaan sulit untuk tetap fokus ketika sedang lapar</StoryDesc>
 		</Text>
 		<Text Name="Hungry4">
-			<DisplayName>Kembung</DisplayName>
+			<DisplayName>Bloating</DisplayName>
 			<Desc>Saya makan terlalu banyak sehingga tidak nyaman.</Desc>
 			<StoryDesc>Merasa bahwa makan terlalu banyak juga bisa membuat seseorang kesakitan</StoryDesc>
 		</Text>
 		<Text Name="Thirsty1">
-			<DisplayName>Haus Ekstrim</DisplayName>
+			<DisplayName>Extreme Thirst</DisplayName>
 			<Desc>Aku sangat haus, aku tidak tahu harus berbuat apa.</Desc>
 			<StoryDesc>Merasakan perasaan tak menyenangkan itu ketika bibir pecah-pecah karena mulut kering seperti gurun pasir</StoryDesc>
 		</Text>
 		<Text Name="Thirsty2">
-			<DisplayName>Sangat Haus</DisplayName>
+			<DisplayName>Extremely Thirsty</DisplayName>
 			<Desc>Tolong, air...</Desc>
 			<StoryDesc>Merasa bahwa ketika seseorang haus, mereka menjadi serak karenanya</StoryDesc>
 		</Text>
 		<Text Name="Thirsty3">
-			<DisplayName>Kering</DisplayName>
+			<DisplayName>Parched</DisplayName>
 			<Desc>Tenggorokanku kering, aku perlu minum air.</Desc>
 			<StoryDesc>Merasakan perasaan itu menjadi agak sulit untuk ditelan</StoryDesc>
 		</Text>
 		<Text Name="Fatigue1">
-			<DisplayName>Lelah</DisplayName>
+			<DisplayName>Exhausted</DisplayName>
 			<Desc>Saya merasa seperti saya akan pingsan kapan saja.</Desc>
 			<StoryDesc>Perasaan bahwa Kelelahan telah menyebabkan kantuk dan dapat menyebabkan pingsan</StoryDesc>
 		</Text>
 		<Text Name="Fatigue2">
-			<DisplayName>Lelah</DisplayName>
+			<DisplayName>Fatigued</DisplayName>
 			<Desc>Jika saya tidak istirahat, saya bisa pingsan.</Desc>
 			<StoryDesc>Merasa Mengucek mata adalah satu-satunya hal yang bisa dilakukan agar tetap terjaga</StoryDesc>
 		</Text>
 		<Text Name="Fatigue3">
-			<DisplayName>Lelah</DisplayName>
+			<DisplayName>Tired</DisplayName>
 			<Desc>Beberapa tidur akan tepat sasaran.</Desc>
 			<StoryDesc>Merasa bahwa tidur sebentar akan sangat membantu menghentikan semua menguap ini</StoryDesc>
 		</Text>
 		<Text Name="Entertainment1">
-			<DisplayName>Bosan Sampai Mati</DisplayName>
+			<DisplayName>Bored to Death</DisplayName>
 			<Desc>Hari ini berlangsung selamanya.</Desc>
 			<StoryDesc>Merasa Kebosanan telah menimbulkan kegelisahan..</StoryDesc>
 		</Text>
 		<Text Name="Entertainment2">
-			<DisplayName>Hambar</DisplayName>
+			<DisplayName>Insipid</DisplayName>
 			<Desc>Pasti ada sesuatu yang lebih menarik untuk dilakukan.</Desc>
 			<StoryDesc>Merasa bahwa yang bisa dilakukan untuk menghilangkan kebosanan adalah dengan mengayunkan lengan</StoryDesc>
 		</Text>
 		<Text Name="Entertainment3">
-			<DisplayName>Membosankan</DisplayName>
+			<DisplayName>Boring</DisplayName>
 			<Desc>Saya seharusnya bisa menemukan sesuatu yang lebih menarik untuk dilakukan.</Desc>
 			<StoryDesc>Merasakan kebosanan ini membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="Entertainment4">
-			<DisplayName>Membosankan</DisplayName>
+			<DisplayName>Dull</DisplayName>
 			<Desc>Ini mungkin sedikit membosankan, tapi setidaknya hidup ini damai.</Desc>
 			<StoryDesc>Merasa bahwa ada hal yang lebih buruk daripada kebosanan</StoryDesc>
 		</Text>
 		<Text Name="Entertainment5">
-			<DisplayName>Menarik</DisplayName>
+			<DisplayName>Interesting</DisplayName>
 			<Desc>Hidup terasa begitu menarik dan penuh kebahagiaan.</Desc>
 			<StoryDesc>Merasa bahwa kehidupan yang menarik menyegarkan</StoryDesc>
 		</Text>
 		<Text Name="Entertainment6">
-			<DisplayName>Keanekaragaman dalam Kehidupan</DisplayName>
+			<DisplayName>Variety in Life</DisplayName>
 			<Desc>Kehidupan yang penuh warna, sungguh menyisakan banyak hal untuk dinantikan setiap harinya.</Desc>
 			<StoryDesc>Merasa bahwa keragaman dalam hidup membuat seseorang merasa gembira</StoryDesc>
 		</Text>
 		<Text Name="JoinSchool">
-			<DisplayName>Pertama Kalinya di Biara</DisplayName>
+			<DisplayName>First Time at the Monastery</DisplayName>
 			<Desc>Aku sudah terpengaruh, aku akan menjadi seorang Immortal!!</Desc>
 			<StoryDesc>Merasa baru saja dibawa masuk, tidak sulit untuk merasa gembira</StoryDesc>
 		</Text>
 		<Text Name="NoTool">
-			<DisplayName>Alat yang Dibutuhkan</DisplayName>
-			<Desc>Kukira[TXT]apakah mungkin menggunakan tangan? Ini menyakitkan.</Desc>
+			<DisplayName>Tools Needed</DisplayName>
+			<Desc>Saya kira [TXT] mungkin dilakukan dengan menggunakan tangan? Ini menyakitkan.</Desc>
 			<StoryDesc>Merasa tidak memiliki alat yang tepat menyebabkan seseorang menggerutu</StoryDesc>
 		</Text>
 		<Text Name="BeKick">
-			<DisplayName>Diusir</DisplayName>
+			<DisplayName>Expelled</DisplayName>
 			<Desc>Apa kesalahanku?</Desc>
 			<StoryDesc>Merasa bahwa Kemarahan menjadi meledak-ledak ketika seseorang diusir</StoryDesc>
 		</Text>
 		<Text Name="Iamdying">
-			<DisplayName>Umur yang Habis</DisplayName>
+			<DisplayName>Exhausted Lifespan</DisplayName>
 			<Desc>aku akan mati.</Desc>
 			<StoryDesc>Merasa bahwa umur yang habis tentu merupakan sesuatu yang perlu dikhawatirkan</StoryDesc>
 		</Text>
 		<Text Name="WalkerBeHelp">
-			<DisplayName>Dibantu</DisplayName>
+			<DisplayName>Assisted</DisplayName>
 			<Desc>Sebenarnya banyak sekali orang baik di dunia ini.</Desc>
 			<StoryDesc>Merasa menerima bantuan membuat seseorang merasa bersyukur</StoryDesc>
 		</Text>
 		<Text Name="WalkerBeKick">
-			<DisplayName>Diusir</DisplayName>
+			<DisplayName>Expelled</DisplayName>
 			<Desc>Orang-orang ini sungguh sulit dipercaya.</Desc>
 			<StoryDesc>Merasa bahwa dikeluarkan akan membuat seseorang marah</StoryDesc>
 		</Text>
 		<Text Name="BeSale">
-			<DisplayName>Berbakat</DisplayName>
+			<DisplayName>Gifted</DisplayName>
 			<Desc>Apa kesalahanku?</Desc>
 			<StoryDesc>Merasakan Perasaan kesal karena dihadiahkan kepada orang lain</StoryDesc>
 		</Text>
