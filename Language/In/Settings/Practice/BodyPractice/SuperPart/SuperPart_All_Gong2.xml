@@ -1,156 +1,156 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Gong_2_1">
-			<Prefix>kaki kiri</Prefix>
-			<Suffix>Kocok jurang maut</Suffix>
-			<Desc>Fisik Misterius dasar yang terkenal dengan serangannya yang ganas. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
-			<Levels.3.Title>Lantai empat</Levels.3.Title>
-			<Levels.3.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.3.Desc>
-			<Levels.4.Title>Lantai lima</Levels.4.Title>
-			<Levels.4.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.4.Desc>
+			<Prefix>Wild Shock</Prefix>
+			<Suffix>Leg - Left</Suffix>
+			<Desc>Badan rahasia dasar yang terkenal dengan serangan liarnya. Keahlian uniknya untuk menggunakan kekuatan sampai batas tertentu dapat menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.3.Desc>
+			<Levels.4.Title>Lapisan Kelima</Levels.4.Title>
+			<Levels.4.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.4.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_1_1">
-			<Prefix>kaki kanan</Prefix>
-			<Suffix>Kocok jurang maut</Suffix>
-			<Desc>Fisik Misterius dasar yang terkenal dengan serangannya yang ganas. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan efisiensi serangan dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan akurasi serangan Mysterious Physique secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
-			<Levels.3.Title>Lantai empat</Levels.3.Title>
-			<Levels.3.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.3.Desc>
-			<Levels.4.Title>Lantai lima</Levels.4.Title>
-			<Levels.4.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.4.Desc>
+			<Prefix>Wild Shock</Prefix>
+			<Suffix>Leg - Right</Suffix>
+			<Desc>Badan rahasia dasar yang terkenal dengan serangan liarnya. Keahlian uniknya untuk menggunakan kekuatan sampai batas tertentu dapat menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.3.Desc>
+			<Levels.4.Title>Lapisan Kelima</Levels.4.Title>
+			<Levels.4.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.4.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_2">
-			<Prefix>tangan kiri</Prefix>
-			<Suffix>Dua dunia</Suffix>
-			<Desc>Tempa tangan Anda dengan kekuatan iblis untuk menciptakan kekuatan di luar imajinasi. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+			<Prefix>Realm Cross</Prefix>
+			<Suffix>Hand - Left</Suffix>
+			<Desc>Membentuk kembali tangan dengan energi iblis untuk memberi mereka kekuatan yang tak terpikirkan. Teknik ini unggul dalam menembus pertahanan dan penghalang, dan bahkan dapat melintasi dua bidang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_2_1">
-			<Prefix>tangan kanan</Prefix>
-			<Suffix>Dua dunia</Suffix>
-			<Desc>Tempa tangan Anda dengan kekuatan iblis untuk menciptakan kekuatan di luar imajinasi. Kemampuan unik dari teknik ini adalah kemampuan menyerang melalui armor energi.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.2.Desc>
+			<Prefix>Realm Cross</Prefix>
+			<Suffix>Hand - Right</Suffix>
+			<Desc>Membentuk kembali tangan dengan energi iblis untuk memberi mereka kekuatan yang tak terpikirkan. Teknik ini unggul dalam menembus pertahanan dan penghalang, dan bahkan dapat melintasi dua bidang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_3">
-			<Prefix>kaki</Prefix>
-			<Suffix>sembilan surga</Suffix>
-			<Desc>Tarik energi dari bumi dengan kedua kaki dan gunakan tubuh Anda sebagai jembatan menuju puncak kepala Anda. Mereka yang menguasai teknik ini akan memiliki kekuatan serangan yang sangat tinggi.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan basis kekuatan Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.</Levels.2.Desc>
+			<Prefix>Heavenly Reins</Prefix>
+			<Suffix>Top</Suffix>
+			<Desc>Menarik energi dari bumi dengan kedua kaki dan menggunakan tubuh sebagai jembatan yang menghubungkan hingga ke puncak kepala. Sangat merusak sekali tercapai.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_4">
-			<Prefix>kaki kiri</Prefix>
-			<Suffix>Perisai surgawi</Suffix>
-			<Desc>Tempa tulang kering menggunakan teknik rahasia agar tahan terhadap kerusakan. Itu juga memungkinkan untuk menyerang dan bertahan dengan cepat.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan efisiensi Fisik Misterius secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Cukup meningkatkan peluang keberhasilan dalam pertahanan Fisik Misterius.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.2.Desc>
-			<Levels.3.Title>Lantai empat</Levels.3.Title>
-			<Levels.3.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.3.Desc>
+			<Prefix>Heavenly Shield</Prefix>
+			<Suffix>Leg - Left</Suffix>
+			<Desc>Badan rahasia tingkat pemula yang populer di kalangan pembudidaya fisik. Membentuk kembali tulang kering dengan teknik rahasia untuk membuatnya sangat tahan terhadap kerusakan dan cepat menyerang dan bertahan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Cukup meningkatkan kinerja tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.3.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_4_1">
-			<Prefix>kaki kanan</Prefix>
-			<Suffix>Perisai surgawi</Suffix>
-			<Desc>Tempa tulang kering menggunakan teknik rahasia agar tahan terhadap kerusakan. Itu juga memungkinkan untuk menyerang dan bertahan dengan cepat.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan efisiensi Fisik Misterius secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Cukup meningkatkan peluang keberhasilan dalam pertahanan Fisik Misterius.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.2.Desc>
-			<Levels.3.Title>Lantai empat</Levels.3.Title>
-			<Levels.3.Desc>Sangat meningkatkan peluang sukses dalam pertahanan Fisik Misterius.</Levels.3.Desc>
+			<Prefix>Heavenly Shield</Prefix>
+			<Suffix>Leg - Right</Suffix>
+			<Desc>Badan rahasia tingkat pemula yang populer di kalangan pembudidaya fisik. Membentuk kembali tulang kering dengan teknik rahasia untuk membuatnya sangat tahan terhadap kerusakan dan cepat menyerang dan bertahan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Cukup meningkatkan kinerja tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.3.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_5">
-			<Prefix>tangan</Prefix>
-			<Suffix>penelan jiwa</Suffix>
-			<Desc>Tempalah tulang tangan Anda agar memiliki kemampuan melahap berbagai unsur qi. Fisik Misterius ini berspesialisasi dalam serangan yang menembus Qi Armor.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Mengurangi kerusakan elemen yang diterima dari serangan sedang.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan serangan yang menembus energi mendalam dari Fisik Misterius.\n Mengurangi kerusakan elemen yang diterima dari serangan sedang.</Levels.2.Desc>
+			<Prefix>Qi Devourer</Prefix>
+			<Suffix>Circle</Suffix>
+			<Desc>Membentuk kembali tulang tangan menjadi bahan yang melahap Qi dan membentuk lingkaran di sekeliling tubuh. Menembus perlindungan Qi dan juga menjaga tubuh dari serangan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Mengurangi secara moderat serangan elemen yang diterima oleh badan rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.\n Mengurangi serangan elemen yang diterima oleh tubuh rahasia secara moderat.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_6">
-			<Prefix>tubuh</Prefix>
-			<Suffix>Tidak ada kerugian</Suffix>
-			<Desc>Melelehkan tulang-tulang utama dalam tubuh menjadi beberapa bagian. untuk mendistribusikan kerusakan yang diterima dari pertempuran Dikatakan bahwa mereka yang mencapai teknik ini akan memiliki tubuh yang hampir tidak bisa dihancurkan.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan daya tahan dasar Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan daya tahan dasar Fisik Misterius secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.</Levels.2.Desc>
-			<Levels.3.Title>Lantai empat</Levels.3.Title>
-			<Levels.3.Desc>Sangat meningkatkan daya tahan dasar Fisik Misterius.</Levels.3.Desc>
+			<Prefix>Indestructible Oneness</Prefix>
+			<Suffix>Body</Suffix>
+			<Desc>Membentuk kembali tulang-tulang utama dalam tubuh menjadi satu kesatuan yang membagi kerusakan secara merata. Latihlah secara ekstrem hingga menjadi hampir tidak bisa dihancurkan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.3.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_7">
-			<Prefix>darah</Prefix>
-			<Suffix>Sembilan Matahari</Suffix>
-			<Desc>Tempa hati dengan teknik rahasia menjadi darah di dalam tubuh hingga memiliki kekuatan sembilan matahari. Jika menggunakan metode ini untuk membentuk tulang belakang Kecil kemungkinan tulang belakang akan mengalami perubahan misterius dan mengembangkan potensi evolusi seluruh tulang.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Pelajari Sihir Pemurnian Tubuh: Pemurnian Tubuh Matahari</Levels.0.Desc>
+			<Prefix>Firestruck</Prefix>
+			<Suffix>Blood</Suffix>
+			<Desc>Membentuk kembali jantung dengan teknik sehingga menghasilkan Firestruck Blood. Menggunakan darah untuk pembentukan kembali dapat secara efektif meningkatkan hasilnya. Jika metode ini digunakan untuk membentuk kembali tulang belakang, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh tulang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Dapatkan Mantra Remold: Firestruck Remold</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_8">
-			<Prefix>jantung</Prefix>
-			<Suffix>dewa perang</Suffix>
-			<Desc>Sempurnakan hati ke bentuk aslinya untuk meningkatkan laju pemulihan Qi Sejati.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lantai tiga</Levels.2.Title>
-			<Levels.2.Desc>Sangat meningkatkan tingkat pemulihan Qi Sejati dari Fisik Misterius.</Levels.2.Desc>
+			<Prefix>Barbarian God</Prefix>
+			<Suffix>Heart</Suffix>
+			<Desc>Membentuk kembali jantung ke bentuk aslinya untuk meningkatkan tingkat pemulihan True Qi secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_9">
-			<Prefix>maksud</Prefix>
-			<Suffix>dewa perang</Suffix>
-			<Desc>Memelihara otak yang memungkinkan praktisi memperoleh keterampilan semangat juang. Ini akan sangat meningkatkan kemampuan menyerang Anda.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Pelajari gerakan bertarung: Semangat Berjuang</Levels.0.Desc>
+			<Prefix>Barbarian</Prefix>
+			<Suffix>Will</Suffix>
+			<Desc>Membentuk kembali otak yang memungkinkan kultivator fisik memiliki Kehendak Barbar ketika fokus untuk meningkatkan kemampuan menyerang secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Buka Kunci Posisi Pertempuran: Kehendak Barbar</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_10">
-			<Prefix>mata</Prefix>
-			<Suffix>delapan arah</Suffix>
-			<Desc>Tempa mata dengan seni rahasia untuk menghubungkannya dengan delapan kutub langit dan bumi. Ia memiliki kemampuan untuk memprediksi pergerakan musuh dan sangat meningkatkan akurasi serangannya.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Sangat meningkatkan akurasi serangan Fisik Misterius.</Levels.0.Desc>
+			<Prefix>Polar</Prefix>
+			<Suffix>Eyes</Suffix>
+			<Desc>Membentuk kembali mata dengan teknik dan memungkinkannya terhubung dengan Delapan Kutub untuk mengantisipasi pergerakan musuh dan meningkatkan akurasi serangan secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan kultivator fisik dalam jumlah besar.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_11">
-			<Prefix>angsa</Prefix>
-			<Suffix>hidup</Suffix>
-			<Desc>Fisik Misterius yang diciptakan dengan meniru mulut Naga Kerakusan. Dengan menggunakan Fisik Misterius ini, seseorang dapat menyerap energi antara langit dan bumi untuk mengisi ulang tenaganya.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Pelajari mantranya: Melahap Kehidupan</Levels.0.Desc>
+			<Prefix>Devouring</Prefix>
+			<Suffix>Mouth</Suffix>
+			<Desc>Badan rahasia meniru mulut Taotie. Menggunakan tubuh rahasia ini dapat langsung melahap energi dari langit dan bumi untuk diisi ulang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Dapatkan Keajaiban: Mulut yang Melahap</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
