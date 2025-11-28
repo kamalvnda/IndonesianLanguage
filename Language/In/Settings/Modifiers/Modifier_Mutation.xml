@@ -1,15 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Mutation_UnstableBase">
-			<DisplayName>Kekacauan Surgawi</DisplayName>
+			<DisplayName>Heavenly Chaos</DisplayName>
 			<Desc>Di bawah pengaruh Turbulent Heavenly Chaos, semua statistik diubah.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_YinYangBase">
-			<DisplayName>Kekacauan Surgawi</DisplayName>
+			<DisplayName>Heavenly Chaos</DisplayName>
 			<Desc>Karena Pengakuan Iman Yin Yang dari Kekacauan Surgawi, semua statistik diubah untuk sementara</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_ConstantBase">
-			<DisplayName>Kekacauan Surgawi</DisplayName>
+			<DisplayName>Heavenly Chaos</DisplayName>
 			<Desc>Dipengaruhi oleh Constant Heavenly Chaos, semua statistik diubah.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_1">
@@ -406,7 +406,7 @@
 			<Desc>Meningkatkan level keterampilan Kerajinan/Kerajinan Artefak sebanyak +1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_15">
-			<Desc>Meningkatkan level skill Crafting/Artifact Crafting sendiri sebanyak +2.</Desc>
+			<Desc>Meningkatkan level skill Crafting/Artifact Crafting sendiri sebesar +2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_16">
 			<Desc>Level keterampilan Kedokteran/Alkimia +1 (meningkatkan batas).</Desc>
@@ -526,7 +526,7 @@
 			<Desc>Tingkat Keterampilan Rasa Qi -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_13">
-			<Desc>Mengurangi level skill Crafting/Artifact Crafting sendiri sebesar -1.</Desc>
+			<Desc>Mengurangi level skill Crafting/Artifact Crafting sendiri sebanyak -1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_14">
 			<Desc>Keterampilan Membuat/Membuat Artefak -2</Desc>
