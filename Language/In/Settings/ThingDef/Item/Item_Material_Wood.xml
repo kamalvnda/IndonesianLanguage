@@ -1,27 +1,27 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="WoodBase" sParam="Item">
-			<Item.FabaoSuffix>Kayu, Cabang, Kolom, Tiang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Wood, Branch, Column, Stake</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Wood" sParam="Item">
-			<ThingName>Kayu</ThingName>
+			<ThingName>Wood</ThingName>
 			<Desc>Kayu berkualitas baik, merupakan bahan kerajinan yang umum.</Desc>
-			<Item.BeMaterial.NamePrefix>Kayu</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_HardWood" sParam="Item">
-			<ThingName>Kayu emas</ThingName>
+			<ThingName>Goldwood</ThingName>
 			<Desc>Goldwood berharga yang berumur seratus tahun, bahannya sangat kokoh dan berat.</Desc>
-			<Item.BeMaterial.NamePrefix>kayu emas</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ParasolWood" sParam="Item">
-			<ThingName>Kayu phoenix</ThingName>
+			<ThingName>Phoenixwood</ThingName>
 			<Desc>Kayu surgawi tempat Phoenix bertengger, memiliki permukaan halus dan tekstur sangat kuat yang kaya akan Qi. Bahan yang sangat langka.</Desc>
-			<Item.BeMaterial.NamePrefix>Kayu Payung</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingWood" sParam="Item">
-			<ThingName>Kayu roh</ThingName>
+			<ThingName>Spiritwood</ThingName>
 			<Desc>Kayu yang telah diliputi Qi, merupakan bahan yang sangat kokoh dan sangat tahan terhadap api.</Desc>
-			<Item.BeMaterial.NamePrefix>kayu roh</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
