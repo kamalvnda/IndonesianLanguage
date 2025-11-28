@@ -1,19 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LcForbidFabao">
-			<DisplayName>Larangan Artefak</DisplayName>
+			<DisplayName>Artifact Ban</DisplayName>
 			<Desc>Diserang balik oleh Naga Apung dan tidak ada artefak yang dapat digunakan.</Desc>
 		</Text>
 		<Text Name="LcForbidSkill">
-			<DisplayName>Larangan Mantra</DisplayName>
+			<DisplayName>Spell Ban</DisplayName>
 			<Desc>Terpengaruh oleh Flame Fuse Phoenix Gelap dan tidak ada mantra yang bisa digunakan.</Desc>
 		</Text>
 		<Text Name="LcConfuse">
-			<DisplayName>Kebingungan</DisplayName>
+			<DisplayName>Confusion</DisplayName>
 			<Desc>Kebingungan</Desc>
 		</Text>
 		<Text Name="LcTrainEffect">
-			<DisplayName>Efek Khusus Pelatihan Umum</DisplayName>
+			<DisplayName>Common Training Special Effect</DisplayName>
 			<Desc>Efek Khusus Pelatihan Umum</Desc>
 		</Text>
 	</List>
