@@ -1,33 +1,33 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Flour" sParam="Item">
-			<ThingName>Tepung</ThingName>
+			<ThingName>Flour</ThingName>
 			<Desc>Sekantong tepung. Bahan masakan.</Desc>
-			<Item.FabaoSuffix>Partikel, Bubuk, Tas</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Particle, Powder, Bag</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Pear" sParam="Item">
-			<ThingName>Pir</ThingName>
+			<ThingName>Pear</ThingName>
 			<Desc>Sekotak buah pir.</Desc>
-			<Item.FabaoSuffix>Buah, Manik, Bolus, Bola, Kubah</Item.FabaoSuffix>
-			<From>Tanaman</From>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
+			<From>Plant</From>
 		</Text>
 		<Text Name="Item_Wheat" sParam="Item">
-			<ThingName>Gandum</ThingName>
+			<ThingName>Wheat</ThingName>
 			<Desc>Setumpuk gandum.</Desc>
-			<Item.FabaoSuffix>Kabel, Benang</Item.FabaoSuffix>
-			<From>Lapangan atau Petualangan</From>
+			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
+			<From>Field or Adventure</From>
 		</Text>
 		<Text Name="Item_Mushroom" sParam="Item">
-			<ThingName>Jamur</ThingName>
+			<ThingName>Mushroom</ThingName>
 			<Desc>Sekeranjang jamur.</Desc>
-			<Item.FabaoSuffix>Keranjang, Jamur</Item.FabaoSuffix>
-			<From>Bidang</From>
+			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
+			<From>Field</From>
 		</Text>
 		<Text Name="Item_Lotusroot" sParam="Item">
-			<ThingName>Akar Teratai</ThingName>
+			<ThingName>Lotus Root</ThingName>
 			<Desc>Bagian dari akar teratai.</Desc>
-			<Item.FabaoSuffix>Akar Teratai</Item.FabaoSuffix>
-			<From>Bidang</From>
+			<Item.FabaoSuffix>Lotus Root</Item.FabaoSuffix>
+			<From>Field</From>
 		</Text>
 	</List>
 </Texts>
