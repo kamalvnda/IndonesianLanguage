@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HeYin">
-			<DisplayName>Kota Tepi Sungai</DisplayName>
+			<DisplayName>Riverback City</DisplayName>
 			<Desc>Ini adalah kota, di mana berbagai macam bangunan politik dapat dibangun dan murid dapat direkrut.</Desc>
 		</Text>
 		<Text Name="GuanHai">
-			<DisplayName>Pemandangan laut</DisplayName>
+			<DisplayName>Seascape</DisplayName>
 		</Text>
 		<Text Name="PanShe">
-			<DisplayName>Desa Ekor Ular</DisplayName>
+			<DisplayName>Snaketail Village</DisplayName>
 		</Text>
 		<Text Name="Feng">
-			<DisplayName>Kota Kelimpahan</DisplayName>
+			<DisplayName>City of Abundance</DisplayName>
 		</Text>
 		<Text Name="DaLiang">
-			<DisplayName>Kota Kehancuran</DisplayName>
+			<DisplayName>City of Desolation</DisplayName>
 		</Text>
 	</List>
 </Texts>
