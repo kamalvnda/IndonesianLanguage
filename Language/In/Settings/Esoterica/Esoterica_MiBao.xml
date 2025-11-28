@@ -1,57 +1,57 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_MiBao_1">
-			<DisplayName>Kodeks Ragestriker: Fragmen I</DisplayName>
+			<DisplayName>Ragestriker Codex: Fragment I</DisplayName>
 			<Desc>Panduan rahasia keterampilan pedang yang diwariskan dari zaman kuno, mencatat eksplorasi yang dilakukan oleh makhluk abadi kuno yang mencoba menduplikasi Empat Pedang Abadi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nRagestriker[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_2">
-			<DisplayName>Kodeks Ragestriker: Fragmen II</DisplayName>
+			<DisplayName>Ragestriker Codex: Fragment II</DisplayName>
 			<Desc>Panduan rahasia keterampilan pedang yang diwariskan dari zaman kuno, mencatat eksplorasi yang dilakukan oleh makhluk abadi kuno yang mencoba menduplikasi Empat Pedang Abadi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nDeathbringer[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_3">
-			<DisplayName>Kodeks Ragestriker: Fragmen III</DisplayName>
+			<DisplayName>Ragestriker Codex: Fragment III</DisplayName>
 			<Desc>Panduan rahasia keterampilan pedang yang diwariskan dari zaman kuno, mencatat eksplorasi yang dilakukan oleh makhluk abadi kuno yang mencoba menduplikasi Empat Pedang Abadi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nEndless Fury[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_4">
-			<DisplayName>Kodeks Ragestriker: Fragmen IV</DisplayName>
+			<DisplayName>Ragestriker Codex: Fragment IV</DisplayName>
 			<Desc>Panduan rahasia keterampilan pedang yang diwariskan dari zaman kuno, mencatat eksplorasi yang dilakukan oleh makhluk abadi kuno yang mencoba menduplikasi Empat Pedang Abadi.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nWrathbringer[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_5">
-			<DisplayName>Fragmen Buku Seratus Racun</DisplayName>
-			<Desc>Ajaran Ortodoks dari Kultus Selatan di zaman kuno. Sayangnya sebagian besar isinya sudah lama hilang, hanya tersisa pecahannya saja. Manual ini mencatat resep pembuatan tiga artefak tertinggi Sekolah Iblis.</Desc>
+			<DisplayName>Book of a Hundred Poisons Fragment</DisplayName>
+			<Desc>Ajaran Ortodoks dari Kultus Selatan di zaman kuno. Sayangnya sebagian besar isinya sudah lama hilang, hanya tersisa pecahannya saja. Panduan ini mencatat resep pembuatan tiga artefak tertinggi Sekolah Iblis.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nVenombane\nIllusion Sphere\nSand of Destruction[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_6">
-			<DisplayName>Fragmen Gulungan Surgawi Guangcheng</DisplayName>
+			<DisplayName>Guangcheng's Heavenly Scroll Fragment</DisplayName>
 			<Desc>Ajaran ortodoks ditinggalkan oleh Guangcheng Zi ketika ia mencapai pencerahan. Sayangnya sebagian besar isinya sudah lama hilang, hanya tersisa pecahannya saja. Panduan ini mencatat resep pembuatan dua artefak Guangcheng.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nUkuran Surgawi\nJimat Guntur[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_7">
-			<DisplayName>Koleksi Besar Fragmen Dua Dunia</DisplayName>
+			<DisplayName>Grand Collection of Two Worlds Fragment</DisplayName>
 			<Desc>Awalnya merupakan karya klasik Buddha tertinggi, kini hanya tersisa pecahannya, yang hanya mencatat resep kerajinan beberapa artefak.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nTruthbringer\nStand Teratai Emas\nSpanduk Teratai Hijau[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_8">
-			<DisplayName>Fragmen Darah Asura</DisplayName>
+			<DisplayName>Blood of Asura Fragment</DisplayName>
 			<Desc>Manual rahasia beredar di dunia Asura, mencatat resep kerajinan dari banyak artefak Demon Creed.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nSirius Spike\nPengisap Darah\nVortex Orb[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nSirius Spike\nBloodsucker\nVortex Orb[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_9">
-			<DisplayName>Catatan Bintang yang Terlupakan</DisplayName>
+			<DisplayName>Forgotten Records of Stars</DisplayName>
 			<Desc>Buku misterius dari Dunia Lain, penulisnya tidak diketahui. Tercatat banyak harta karun rahasia yang belum pernah terlihat sebelumnya di bidang budidaya tradisional.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nStardust Shuttle\nSpellbound Scissors[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nStardust Shuttle\nGunting Ajaib[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_10">
-			<DisplayName>Gulir Kolam Giok</DisplayName>
+			<DisplayName>Scroll of Jade Pool</DisplayName>
 			<Desc>Buku yang dikatakan diturunkan dari Ibu Suri dari Barat, mencatat resep pembuatan salah satu dari lima Spanduk Besar.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nSpanduk Awan Putih[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_MiBao_11">
-			<DisplayName>Catatan Pengusir Setan dari Prajurit yang Disempurnakan</DisplayName>
+			<DisplayName>Exorcist Records of the Perfected Warrior</DisplayName>
 			<Desc>Buku yang dikatakan diturunkan dari Kaisar Prajurit Sempurna di Langit, buku itu mencatat resep pembuatan salah satu dari lima Spanduk Besar.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Dapatkan metode pembuatan Artefak Warisan: \nSpanduk Hering Hitam[/color][/size]</EffectDesc>
 		</Text>
