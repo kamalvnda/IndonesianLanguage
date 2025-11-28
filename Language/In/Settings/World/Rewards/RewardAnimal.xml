@@ -1,8 +1,8 @@
-<Texts Type="Lainnya">
+﻿<Texts Type="Other">
 	<List>
 		<Text Name="Box1">
-			<Box.DisplayName>Kandang Serigala Cantik</Box.DisplayName>
-			<Box.Tip>Di dalamnya ada serigala dalam Keadaan Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</Box.Tip>
+			<Box.DisplayName>Beautiful Wolf Cage</Box.DisplayName>
+			<Box.Tip>Di dalamnya ada serigala dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</Box.Tip>
 		</Text>
 	</List>
 </Texts>
