@@ -1,81 +1,81 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_LingZhi_DiaoXie">
-			<DisplayName>simpati</DisplayName>
+			<DisplayName>sympathy</DisplayName>
 			<Desc>Bersimpati dengan Akar Spiritual, rasakan getaran kesedihan yang dilepaskan oleh Tanaman Spiritual yang layu, dan Kondisi Mental Anda sedikit terganggu.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Jin">
-			<DisplayName>Simpati Roh Logam</DisplayName>
+			<DisplayName>Metal-Spirit sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Logam untuk memasuki kondisi simpati dengannya. Persepsi meningkat, Kondisi Mental meningkat, Kecepatan Kultivasi menurun, Potensi meningkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Jin">
-			<DisplayName>Simpati Metal-Fiend</DisplayName>
+			<DisplayName>Metal-Fiend sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Logam untuk memasuki kondisi simpati dengannya. Persepsi meningkat, Kondisi Mental menurun, Kecepatan Kultivasi meningkat, Potensi menurun.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Mu">
-			<DisplayName>Simpati Roh Kayu</DisplayName>
+			<DisplayName>Wood-Spirit sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Kayu untuk memasuki kondisi simpati dengannya. Konstitusi meningkat, Kondisi Mental meningkat, Kecepatan Budidaya menurun, Potensi meningkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Mu">
-			<DisplayName>Simpati Wood-Fiend</DisplayName>
+			<DisplayName>Wood-Fiend sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Kayu untuk memasuki kondisi simpati dengannya. Konstitusi meningkat, Kondisi Mental menurun, Kecepatan Budidaya meningkat, Potensi menurun.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Shui">
-			<DisplayName>Simpati Roh Air</DisplayName>
+			<DisplayName>Water-Spirit sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Air untuk memasuki kondisi simpati dengannya. Karisma meningkat, Kondisi Mental meningkat, Kecepatan Kultivasi menurun, Potensi meningkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Shui">
-			<DisplayName>Simpati Iblis Air</DisplayName>
+			<DisplayName>Water-Fiend sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Air untuk memasuki kondisi simpati dengannya. Karisma meningkat, Kondisi Mental menurun, Kecepatan Kultivasi meningkat, Potensi menurun.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Huo">
-			<DisplayName>Simpati Roh Api</DisplayName>
+			<DisplayName>Fire-Spirit sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Api untuk memasuki kondisi simpati dengannya. Kecerdasan meningkat, Keadaan Mental meningkat, Kecepatan Kultivasi menurun, Potensi meningkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Huo">
-			<DisplayName>Simpati Iblis Api</DisplayName>
+			<DisplayName>Fire-Fiend sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Api untuk memasuki kondisi simpati dengannya. Kecerdasan meningkat, Kondisi Mental menurun, Kecepatan Kultivasi meningkat, Potensi menurun.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Tu">
-			<DisplayName>Simpati Bumi-Roh</DisplayName>
+			<DisplayName>Earth-Spirit sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Bumi untuk memasuki kondisi simpati dengannya. Keberuntungan meningkat, Kondisi Mental meningkat, Kecepatan Budidaya menurun, Potensi meningkat.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Tu">
-			<DisplayName>Simpati Bumi-Iblis</DisplayName>
+			<DisplayName>Earth-Fiend sympathy</DisplayName>
 			<Desc>Berkultivasi di dekat Akar Roh Bumi untuk memasuki kondisi simpati dengannya. Keberuntungan meningkat, Kondisi Mental menurun, Kecepatan Budidaya meningkat, Potensi menurun.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_XinJing1">
-			<DisplayName>Pikiran Murni</DisplayName>
+			<DisplayName>Pristine Mind</DisplayName>
 			<Desc>Keadaan Mental meningkat dalam waktu singkat.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_XinJing2">
-			<DisplayName>Pikiran yang Tidak Teratur</DisplayName>
+			<DisplayName>Disordered Mind</DisplayName>
 			<Desc>Keadaan Mental menurun dalam waktu singkat.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_MaxLing1">
-			<DisplayName>Qi Diambil</DisplayName>
+			<DisplayName>Qi Taken</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing1">
-			<DisplayName>Efek berkah dari kematangan Tanaman Spiritual 1</DisplayName>
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 1</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing2">
-			<DisplayName>Efek berkah dari kematangan Tanaman Spiritual 2</DisplayName>
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 2</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing3">
-			<DisplayName>Efek berkah dari kematangan Tanaman Spiritual 3</DisplayName>
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 3</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing4">
-			<DisplayName>Efek berkah dari kematangan Tanaman Spiritual 4</DisplayName>
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 4</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing5">
-			<DisplayName>Efek berkah dari kematangan Tanaman Spiritual5</DisplayName>
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 5</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing_A">
-			<DisplayName>Pembersihan Rohani</DisplayName>
+			<DisplayName>Spiritual Cleansing</DisplayName>
 			<Desc>Dipelihara oleh aura kedewasaan dari Tumbuhan Spiritual, semua Cedera Batin yang diderita tubuh sedang disembuhkan.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_RipeSha">
-			<DisplayName>Efek kutukan dari kematangan Tanaman Spiritual</DisplayName>
+			<DisplayName>Curse effect from maturity of Spiritual Plant</DisplayName>
 		</Text>
 	</List>
 </Texts>
