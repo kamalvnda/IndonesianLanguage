@@ -1,66 +1,66 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="ClothesBase" sParam="Item">
-			<Item.FabaoSuffix>Pakaian, Armor, Jubah, Kemeja</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerClothes" sParam="Item">
-			<ThingName>Kemeja Tipis</ThingName>
+			<ThingName>Thin Shirt</ThingName>
 			<Desc>Pakaian yang sangat menyerap keringat, tetapi juga sedikit melindungi seseorang dari hawa dingin.</Desc>
 		</Text>
 		<Text Name="Item_SilkClothes" sParam="Item">
-			<ThingName>Kemeja Musim Panas</ThingName>
+			<ThingName>Summer Shirt</ThingName>
 			<Desc>Pakaian yang menyegarkan dan menenangkan, memakainya terasa sejuk dan menyenangkan.</Desc>
 		</Text>
 		<Text Name="Item_PracticeClothes" sParam="Item">
-			<ThingName>Seragam Sekte</ThingName>
+			<ThingName>Sect Uniform</ThingName>
 			<Desc>Seragam standar suatu sekte, memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu bernapas.</Desc>
 		</Text>
 		<Text Name="Item_FormalClothes" sParam="Item">
-			<ThingName>Kemeja Kasual</ThingName>
+			<ThingName>Casual Shirt</ThingName>
 			<Desc>Pakaian sehari-hari yang kasual memungkinkan seseorang untuk tetap hangat, tetapi tidak terlalu menyerap keringat.</Desc>
 		</Text>
 		<Text Name="Item_WinterClothes" sParam="Item">
-			<ThingName>Kemeja Musim Dingin</ThingName>
+			<ThingName>Winter Shirt</ThingName>
 			<Desc>Pakaian yang tebal dan kokoh membuat seseorang tetap hangat.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes1" sParam="Item">
-			<ThingName>Tunik Skala</ThingName>
+			<ThingName>Scale Tunic</ThingName>
 			<Desc>Kain ajaib yang ditenun dengan sisik naga. Memakainya meningkatkan tingkat keterampilan Perlindungan seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes2" sParam="Item">
-			<ThingName>Tunik Bayangan</ThingName>
+			<ThingName>Shadow Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes3" sParam="Item">
-			<ThingName>Tunik Cinder</ThingName>
+			<ThingName>Cinder Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Artifact Mastery seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes4" sParam="Item">
-			<ThingName>Tunik Kain Kafan</ThingName>
+			<ThingName>Shroud Tunic</ThingName>
 			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes5" sParam="Item">
-			<ThingName>Tunik Bulu</ThingName>
+			<ThingName>Feather Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes6" sParam="Item">
-			<ThingName>Tunik Emas</ThingName>
+			<ThingName>Golden Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yang murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Artifact Mastery seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes7" sParam="Item">
-			<ThingName>Tunik Pemandian Api</ThingName>
+			<ThingName>Firebath Tunic</ThingName>
 			<Desc>Kain ajaib yang dijahit dengan kulit Tikus Api. Memakainya dapat meningkatkan level skill Perlindungan seseorang dan secara efektif mengurangi Kerusakan akibat Kebakaran.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes8" sParam="Item">
-			<ThingName>Jubah Aliran</ThingName>
+			<ThingName>Robe of Flow</ThingName>
 			<Desc>Kain ajaib yang mampu menipu jalan surga. Memakainya mengurangi Pencapaian seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes9" sParam="Item">
-			<ThingName>Tunik Spectre</ThingName>
+			<ThingName>Specter Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan Yin murni terkonsentrasi. Memakainya meningkatkan tingkat keterampilan Mantra seseorang.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes10" sParam="Item">
-			<ThingName>Tunik Derek</ThingName>
+			<ThingName>Crane Tunic</ThingName>
 			<Desc>Kain ajaib dengan kekuatan mengusir kejahatan. Memakainya dapat meningkatkan Kondisi Mental dengan mengusir roh jahat dari pikiran seseorang.</Desc>
 		</Text>
 	</List>
