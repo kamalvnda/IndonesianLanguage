@@ -1,131 +1,131 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Weather_Elixir_Base">
-			<DisplayName>Qi Alkimia Meluap</DisplayName>
+			<DisplayName>Alchemy Qi Overflowing</DisplayName>
 			<StoryDesc>Alkimia Qi meresap ke udara, membuat Lingqi lebih aktif.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Wu">
-			<DisplayName>Qi Purba</DisplayName>
+			<DisplayName>Primordial Qi</DisplayName>
 			<StoryDesc>Alkimia Qi meresap ke udara, membuat Lingqi lebih aktif.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Jin">
-			<DisplayName>Qi Logam</DisplayName>
+			<DisplayName>Metal Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Mu">
-			<DisplayName>Kayu Qi</DisplayName>
+			<DisplayName>Wood Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Shui">
-			<DisplayName>Qi Air</DisplayName>
+			<DisplayName>Water Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Huo">
-			<DisplayName>Api Qi</DisplayName>
+			<DisplayName>Fire Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_Tu">
-			<DisplayName>Qi Bumi</DisplayName>
+			<DisplayName>Earth Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMu">
-			<DisplayName>Qi yang melelahkan</DisplayName>
+			<DisplayName>Exhausting Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShui">
-			<DisplayName>Gelombang Qi</DisplayName>
+			<DisplayName>Surging Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuo">
-			<DisplayName>Mencairnya Qi</DisplayName>
+			<DisplayName>Melting Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinTu">
-			<DisplayName>Mengumpulkan Qi</DisplayName>
+			<DisplayName>Accumulating Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShui">
-			<DisplayName>Mengembangbiakkan Qi</DisplayName>
+			<DisplayName>Breeding Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuHuo">
-			<DisplayName>Api Penuh Qi</DisplayName>
+			<DisplayName>Full Blaze Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuTu">
-			<DisplayName>Menstabilkan Qi</DisplayName>
+			<DisplayName>Stabilizing Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuo">
-			<DisplayName>Api Qi yang Memudar</DisplayName>
+			<DisplayName>Waning Flame Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiTu">
-			<DisplayName>Qi yang meluap</DisplayName>
+			<DisplayName>Overflowing Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_HuoTu">
-			<DisplayName>Ashenqi</DisplayName>
+			<DisplayName>Ashen Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuShui">
-			<DisplayName>Jia Kayu Qi</DisplayName>
+			<DisplayName>Jia Wood Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuHuo">
-			<DisplayName>Yi Kayu Qi</DisplayName>
+			<DisplayName>Yi Wood Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinMuTu">
-			<DisplayName>Buka Keabadian.</DisplayName>
+			<DisplayName>Ji Earth Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiHuo">
-			<DisplayName>Xin Logam Qi</DisplayName>
+			<DisplayName>Xin Metal Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinShuiTu">
-			<DisplayName>Jalankan Qi Air</DisplayName>
+			<DisplayName>Ren Water Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_JinHuoTu">
-			<DisplayName>Kui Logam Qi</DisplayName>
+			<DisplayName>Kui Metal Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiHuo">
-			<DisplayName>Bing Api Qi</DisplayName>
+			<DisplayName>Bing Fire Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuShuiTu">
-			<DisplayName>Qi Air Gui</DisplayName>
+			<DisplayName>Gui Water Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_MuHuoTu">
-			<DisplayName>Wu Bumi Qi</DisplayName>
+			<DisplayName>Wu Earth Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_ShuiHuoTu">
-			<DisplayName>Ding Api Qi</DisplayName>
+			<DisplayName>Ding Fire Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoJin">
-			<DisplayName>Logam Sever Qi</DisplayName>
+			<DisplayName>Metal Sever Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoMu">
-			<DisplayName>Kayu Sever Qi</DisplayName>
+			<DisplayName>Wood Sever Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoShui">
-			<DisplayName>Air Sever Qi</DisplayName>
+			<DisplayName>Water Sever Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoHuo">
-			<DisplayName>Api Sever Qi</DisplayName>
+			<DisplayName>Fire Sever Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 		<Text Name="Elixir_NoTu">
-			<DisplayName>Qi Utara Bumi</DisplayName>
+			<DisplayName>Earth Sever Qi</DisplayName>
 			<StoryDesc>Alkimia Qi yang kaya memenuhi udara.</StoryDesc>
 		</Text>
 	</List>
