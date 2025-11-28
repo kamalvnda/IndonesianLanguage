@@ -1,44 +1,44 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="PracticeMaster">
-			<DisplayNameF>Menguasai</DisplayNameF>
-			<DisplayNameM>Menguasai</DisplayNameM>
+			<DisplayNameF>Master</DisplayNameF>
+			<DisplayNameM>Master</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChild">
-			<DisplayNameF>Murid</DisplayNameF>
-			<DisplayNameM>Murid</DisplayNameM>
+			<DisplayNameF>Disciple</DisplayNameF>
+			<DisplayNameM>Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeMasterMaster">
-			<DisplayNameF>Tuan yang Hebat</DisplayNameF>
-			<DisplayNameM>Tuan yang Hebat</DisplayNameM>
+			<DisplayNameF>Great Master</DisplayNameF>
+			<DisplayNameM>Great Master</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChildChild">
-			<DisplayNameF>Murid dari Murid</DisplayNameF>
-			<DisplayNameM>Murid dari Murid</DisplayNameM>
+			<DisplayNameF>Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Disciple's Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeBrother">
-			<DisplayNameF>Rekan Murid, Rekan Murid</DisplayNameF>
-			<DisplayNameM>Rekan Murid, Rekan Murid</DisplayNameM>
+			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherBrother">
-			<DisplayNameF>Rekan Murid, Rekan Murid</DisplayNameF>
-			<DisplayNameM>Rekan Murid, Rekan Murid</DisplayNameM>
+			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMaster">
-			<DisplayNameF>Rekan Murid Guru, Rekan Murid Guru</DisplayNameF>
-			<DisplayNameM>Rekan Murid Guru, Rekan Murid Guru</DisplayNameM>
+			<DisplayNameF>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChild">
-			<DisplayNameF>Murid Sesama Murid</DisplayNameF>
-			<DisplayNameM>Murid Sesama Murid</DisplayNameM>
+			<DisplayNameF>Fellow Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple's Disciple</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMasterMaster">
-			<DisplayNameF>Tuan Besar</DisplayNameF>
-			<DisplayNameM>Tuan Besar</DisplayNameM>
+			<DisplayNameF>Grand Master</DisplayNameF>
+			<DisplayNameM>Grand Master</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChildChild">
-			<DisplayNameF>Murid dari Murid</DisplayNameF>
-			<DisplayNameM>Murid dari Murid</DisplayNameM>
+			<DisplayNameF>Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Disciple's Disciple</DisplayNameM>
 		</Text>
 	</List>
 </Texts>
