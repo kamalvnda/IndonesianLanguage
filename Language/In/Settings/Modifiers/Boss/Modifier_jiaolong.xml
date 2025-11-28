@@ -1,42 +1,45 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="Boss_PartFight">
-      <DisplayName>Atribut pertempuran bagian umum BOSS</DisplayName>
-    </Text>
-    <Text Name="Boss_Jiaolong">
-      <DisplayName>Naga</DisplayName>
-    </Text>
-    <Text Name="Boss_JiaolongFight">
-      <DisplayName>Atribut pertarungan naga</DisplayName>
-    </Text>
-    <Text Name="Boss_Jiaolong_Part">
-      <DisplayName>Bagian naga</DisplayName>
-    </Text>
-    <Text Name="Boss_Jiaolong_Part1">
-      <DisplayName>Bagian naga yang lemah</DisplayName>
-    </Text>
-    <Text Name="Boss_Jiaolong_JiSiGongYang">
-      <DisplayName>Tumbuh dewasa</DisplayName>
-      <Desc>Naga iblis memperoleh kekuatan dari pengorbanan tersebut, dan energi spiritualnya menjadi lebih kuat.</Desc>
-    </Text>
-    <Text Name="Boss_Jiaolong_Shuiling">
-      <DisplayName>Kekuatan roh air</DisplayName>
-      <Desc>Kumpulkan kekuatan roh air, dan ketika mencapai level 100, Zeguo akan dilepaskan.</Desc>
-    </Text>
-    <Text Name="Boss_Jiaolong_LongNu">
-      <DisplayName>kemarahan naga</DisplayName>
-      <Desc>Naga iblis memasuki keadaan marah, dan semua atribut meningkat.</Desc>
-    </Text>
-    <Text Name="Boss_Jiaolong_Longxi">
-      <DisplayName>Pernapasan Naga</DisplayName>
-      <Desc>Naga iblis itu menarik napas dalam-dalam, air di tubuh karakter itu hilang dengan cepat!</Desc>
-    </Text>
-    <Text Name="Boss_Jiaolong_zhenlong">
-      <DisplayName>Naga Sejati</DisplayName>
-    </Text>
-    <Text Name="Boss_Jiaolong_fanshi">
-      <DisplayName>Serangan balik Devour-Dragon</DisplayName>
-      <Desc>Setelah jangka waktu tertentu, ia akan menjadi bumerang bagi senjata ajaibnya. Aura senjata ajaib akan terpotong menjadi dua, efek senjata sihir atribut api akan berlipat ganda, dan efek senjata sihir atribut bumi akan berkurang setengahnya.</Desc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="Boss_PartFight">
+			<DisplayName>General BOSS Parts Battle Stats</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong">
+			<DisplayName>Flood Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_JiaolongFight">
+			<DisplayName>Flood Dragon Battle Stats</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part">
+			<DisplayName>Flood Dragon Body Part</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part1">
+			<DisplayName>Flood Dragon body part weakened</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_JiSiGongYang">
+			<DisplayName>Grown</DisplayName>
+			<Desc>Naga iblis telah memperoleh kekuatan dari persembahan korban, Qi-nya menjadi lebih tebal.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Shuiling">
+			<DisplayName>Power of Water Spirit</DisplayName>
+			<Desc>Flood Dragon memusatkan kekuatan Roh Air hingga mencapai 100 tumpukan, dan pada saat itu banjir besar akan dilepaskan.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu">
+			<DisplayName>Dragon Wrath</DisplayName>
+			<Desc>Naga iblis memasuki keadaan marah, menyebabkan peningkatan semua statistik.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Longxi">
+			<DisplayName>Dragon's Inhalation</DisplayName>
+			<Desc>Naga iblis itu menarik napas dalam-dalam, menyebabkan air di dalam tubuh karakter Anda berkurang dengan cepat.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_zhenlong">
+			<DisplayName>True Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_fanshi">
+			<DisplayName>Backfire - Flood Dragon's Counterattack</DisplayName>
+			<Desc>Flood Dragon akan membuat Artefak menjadi bumerang bagi pemiliknya setelah jangka waktu tertentu, menyebabkan Artefak Qi berkurang setengahnya. Efeknya menjadi dua kali lipat untuk Artefak berelemen Api, dan dibelah dua untuk Artefak berelemen Tanah.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong2">
+			<DisplayName>Flood Dragon</DisplayName>
+		</Text>
+	</List>
 </Texts>
