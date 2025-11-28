@@ -1,74 +1,74 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="TerrainBase">
-			<DisplayName>Dasar-dasar Topografi</DisplayName>
-			<StoryDesc>Itu terjadi di jalan.</StoryDesc>
+			<DisplayName>Terrain Foundation</DisplayName>
+			<StoryDesc>Itu terjadi di jalan raya</StoryDesc>
 		</Text>
 		<Text Name="Null">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Void</DisplayName>
 		</Text>
 		<Text Name="Soil">
-			<DisplayName>Bumi</DisplayName>
-			<StoryDesc>Ini adalah area yang bisa dibudidayakan.</StoryDesc>
+			<DisplayName>Soil</DisplayName>
+			<StoryDesc>Ini adalah area di mana tanaman dapat ditanam</StoryDesc>
 		</Text>
 		<Text Name="Soil_Sand">
-			<DisplayName>Pasir</DisplayName>
-			<StoryDesc>Itu adalah area yang dipenuhi pasir.</StoryDesc>
+			<DisplayName>Sand</DisplayName>
+			<StoryDesc>Letaknya di daerah berpasir</StoryDesc>
 		</Text>
 		<Text Name="Mud">
-			<DisplayName>Lumpur</DisplayName>
-			<StoryDesc>Ini adalah daerah berlumpur.</StoryDesc>
+			<DisplayName>Mud</DisplayName>
+			<StoryDesc>Letaknya di daerah berlumpur</StoryDesc>
 		</Text>
 		<Text Name="BlackB">
-			<DisplayName>Kosong</DisplayName>
-			<StoryDesc>Itu kosong</StoryDesc>
+			<DisplayName>Void</DisplayName>
+			<StoryDesc>Itu ada di Kekosongan</StoryDesc>
 		</Text>
 		<Text Name="WetLand">
-			<DisplayName>Lahan basah</DisplayName>
-			<StoryDesc>Ini adalah tanah basah.</StoryDesc>
+			<DisplayName>Wet Earth</DisplayName>
+			<StoryDesc>Letaknya di daerah dengan tanah basah</StoryDesc>
 		</Text>
 		<Text Name="FertileSoil">
-			<DisplayName>Tanah yang sangat bagus</DisplayName>
-			<StoryDesc>Ini adalah area yang bisa dibudidayakan.</StoryDesc>
+			<DisplayName>Fertile Soil</DisplayName>
+			<StoryDesc>Ini adalah area di mana tanaman dapat ditanam</StoryDesc>
 		</Text>
 		<Text Name="StoneLand">
-			<DisplayName>Tekstur batu</DisplayName>
-			<StoryDesc>Itu berada di permukaan berbatu yang kasar.</StoryDesc>
+			<DisplayName>Rocky Terrain</DisplayName>
+			<StoryDesc>Letaknya di daerah yang terjal dan berbatu</StoryDesc>
 		</Text>
 		<Text Name="SandLand">
-			<DisplayName>Lantai pasir</DisplayName>
-			<StoryDesc>Itu berada di permukaan berbatu yang kasar.</StoryDesc>
+			<DisplayName>Sand</DisplayName>
+			<StoryDesc>Letaknya di daerah yang terjal dan berbatu</StoryDesc>
 		</Text>
 		<Text Name="LingSoil">
-			<DisplayName>Tanah roh</DisplayName>
-			<StoryDesc>Itu adalah tanah yang kaya akan Qi alami.</StoryDesc>
+			<DisplayName>Spirit Soil</DisplayName>
+			<StoryDesc>Itu berada di wilayah spiritual yang dikelilingi oleh Qi</StoryDesc>
 		</Text>
 		<Text Name="DepthDepthWater">
-			<DisplayName>Air yang dalam</DisplayName>
+			<DisplayName>Deep Water</DisplayName>
 		</Text>
 		<Text Name="DepthWater">
-			<DisplayName>Air yang dalam</DisplayName>
+			<DisplayName>Deep Water</DisplayName>
 		</Text>
 		<Text Name="YunHai">
-			<DisplayName>lautan kabut</DisplayName>
+			<DisplayName>Sea of Clouds</DisplayName>
 		</Text>
 		<Text Name="ShallowWater">
-			<DisplayName>Perairan dangkal</DisplayName>
-			<StoryDesc>Ini adalah daerah yang tergenang air tetapi dangkal.</StoryDesc>
+			<DisplayName>Shallow Water</DisplayName>
+			<StoryDesc>Letaknya di daerah yang tergenang air namun dangkal</StoryDesc>
 		</Text>
 		<Text Name="BloodWater">
-			<DisplayName>Genangan darah</DisplayName>
-			<StoryDesc>Ini adalah area yang sering terlihat. Setelah Pembantaian</StoryDesc>
+			<DisplayName>Thin Blood</DisplayName>
+			<StoryDesc>Biasanya berasal dari penyembelihan makhluk</StoryDesc>
 		</Text>
 		<Text Name="DepthBloodWater">
-			<DisplayName>genangan darah</DisplayName>
+			<DisplayName>Deep Blood</DisplayName>
 		</Text>
 		<Text Name="LingWater">
-			<DisplayName>Air roh</DisplayName>
-			<StoryDesc>Itu adalah permukaan air yang kaya akan Qi alami.</StoryDesc>
+			<DisplayName>Spirit Water</DisplayName>
+			<StoryDesc>Letaknya di daerah yang tergenang air namun dangkal</StoryDesc>
 		</Text>
 		<Text Name="Sand">
-			<DisplayName>pasir</DisplayName>
+			<DisplayName>Sand</DisplayName>
 		</Text>
 	</List>
 </Texts>
