@@ -1,23 +1,23 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Kehilangan sesuatu</DisplayName>
+			<DisplayName>Lost Item</DisplayName>
 		</Text>
 		<Text Name="SYS_ATK">
-			<DisplayName>Pose serangan</DisplayName>
-			<Desc>Seorang Penggarap Fisik Abadi akan menyerang musuh dengan sekuat tenaga. Namun, ini akan melemahkan kemampuan pertahanan Fisik Misterius.</Desc>
+			<DisplayName>Attack Stance</DisplayName>
+			<Desc>Pembudidaya fisik akan menyerang tubuh fisik musuh dengan kekuatan penuh, namun kemampuan pertahanan tubuh rahasia akan berkurang.</Desc>
 		</Text>
 		<Text Name="SYS_NORMAL">
-			<DisplayName>Postur dasar</DisplayName>
-			<Desc>Posisi bertarung standar bagi para penggarap Fisik Abadi. Langkah pertama adalah menghadapi senjata ajaib musuh lalu menyerang tubuhnya. Draf pose ini seimbang baik dalam menyerang maupun bertahan.</Desc>
+			<DisplayName>Common Stance</DisplayName>
+			<Desc>Sikap bertarung standar untuk kultivator fisik. Pertama-tama ia menangani artefak musuh dan kemudian menyerang tubuh fisik mereka. Jurus ini sama-sama bagus dalam menyerang dan bertahan serta seimbang dalam berbagai kemampuan.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_ManJi">
-			<DisplayName>semangat juang</DisplayName>
-			<Desc>Gunakan niat bertarungmu yang kuat untuk memerintahkan seluruh tubuhmu bergerak dan menyerang tubuh musuh secara langsung. Secara dramatis meningkatkan kemampuan ofensif Anda sambil mempertahankan beberapa naluri bertahan Anda.</Desc>
+			<DisplayName>Barbarian Will</DisplayName>
+			<Desc>Menggunakan kemauan bertarung yang kuat untuk memerintahkan seluruh tubuh untuk bergerak dan langsung menyerang tubuh fisik musuh, secara drastis meningkatkan kemampuan menyerang sambil mempertahankan pertahanan instingtual.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_WangZhe">
-			<DisplayName>Kehendak Raja</DisplayName>
-			<Desc>Tenangkan pikiran sambil menghadapi pertarungan dengan hati seorang raja. Mengurangi tingkat konsumsi energi Fisik Misterius.</Desc>
+			<DisplayName>Will of the King</DisplayName>
+			<Desc>Tetap tenang dan tenang saat menghadapi pertempuran dengan hati seorang raja. Mengurangi konsumsi rahasia tubuh.</Desc>
 		</Text>
 	</List>
 </Texts>
