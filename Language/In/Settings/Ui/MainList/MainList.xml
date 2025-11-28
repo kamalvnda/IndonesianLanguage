@@ -1,1121 +1,1121 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Wall">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="Barrier">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="Barrier2">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="Door">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="WoodRoof">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="StoneRoof">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="Door_WanYao">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="YaoRoof">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="WoodRoof_SpringFestival">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="StoneRoof_SpringFestival">
-			<Type>Struktur</Type>
+			<Type>Structure</Type>
 		</Text>
 		<Text Name="Bed">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="Table">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="SmallTable">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="DoubleBed">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="WaterTank">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="Building_Tomb">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="Building_BigTomb">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="Building_ItemShelf">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="Building_ShuZhuangTai">
-			<Type>Barang</Type>
+			<Type>Life</Type>
 		</Text>
 		<Text Name="MaterialWorkPlace">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="WorkPlace">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="PuppetPlace">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="Bonfire">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="Well">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="Kitchen">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="HandWorkTable">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="WoodShed">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="StoneMaker">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="MedicineTable">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="WeaponMaker">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="Furnace">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="MillStone">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="TailorTable">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="TextileTable">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="CalligraphyTable">
-			<Type>Bekerja</Type>
+			<Type>Work</Type>
 		</Text>
 		<Text Name="BasePracticePlace">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="ExploreBackPlace">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="TrainingDummy">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_BookShelf_CangJing">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="FengShui">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="RefiningCushion">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="DanStove">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_XiaoDanLu1">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_XiaoDanLu2">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Cushion">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_MagicCushion">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="TheGate">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_SacrificialTable">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_Zhong">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Build_TheBigGate">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Build_KunLunFang">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Build_BaiManFang">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Build_WanYaoMen">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_Spring2021_1">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Building_BigSwordPillar">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="SmallPool">
-			<Type>Sekte</Type>
+			<Type>Sect</Type>
 		</Text>
 		<Text Name="Candlestick">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern1">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern3">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern4">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern5">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern6">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="StreetLight">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="StreetLight1">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="StreetLight2">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Lantern_S1">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_DiMuJiDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_QingShaDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_HuangLongDengTai">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_LianHuaDengTai">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_XieXiDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_KuLouDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_XiongKuiDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_YaoHuoPen">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_ChangMingDeng">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_2">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_3">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_4">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_5">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_6">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_7">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_8">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_9">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_Spring2021_10">
-			<Type>Dekorasi</Type>
-			<Label>Penerangan</Label>
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_BigTripod">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_SmallTripod">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_BigCenser">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_SmallCenser">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_BigVase">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_SmallVase">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_MoWenHuaPing">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_Screen1">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_XiePingFeng">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_BookShelf">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_ShaZhang1">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_ShaZhang2">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_JuXingXiangLu">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_HuoDing">
-			<Type>Dekorasi</Type>
-			<Label>Mebel</Label>
+			<Type>Decoration</Type>
+			<Label>Furniture</Label>
 		</Text>
 		<Text Name="Building_JiaShan1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_JiaShan2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_PenZai1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_PenZai2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_KuLouHuaPing">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi3">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi4">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi5">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_QiShi6">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi3">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi4">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi5">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi6">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuShouHai1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuShouHai2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuShouHai3">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuShouHai4">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuCanJi1">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuCanJi2">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuCanJi3">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuCanJi4">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_ShangGuCanJi5">
-			<Type>Dekorasi</Type>
-			<Label>Lanskap</Label>
+			<Type>Decoration</Type>
+			<Label>Landscape</Label>
 		</Text>
 		<Text Name="Building_LingShu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LingShu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LingShu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LingShu4">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LingShu5">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LingShu6">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ZiXiaoJuShu">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShaShenMu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShaShenMu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShaShenMu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShaShenMu4">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_TaoShu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_TaoShu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_TaoShu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu4">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu5">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_YuShu6">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu4">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu5">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_GuMu6">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShiCheJu1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShiCheJu2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_ShiCheJu3">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_LuoTuoCao">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_CongRong1">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_CongRong2">
-			<Type>Dekorasi</Type>
-			<Label>Pohon Jarang</Label>
+			<Type>Decoration</Type>
+			<Label>Uncommon Tree</Label>
 		</Text>
 		<Text Name="Building_Flag1">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_Flag2">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_Flag3">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_Gu">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_ShiBei">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_Tower2">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_Tower">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_LingDiShuiChi">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_LianFaTan">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_TaiXuanBingZhu">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YanDiTai">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_TengLongZhu">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_JianYiFuDiao">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_ShuiLianTai">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_DiMuMiXue">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_QiShaJianZhu">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_QingTongFanQi">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_DiMuJiQi">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_MoMenJiQi">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_MoMenJiQi1">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YuHeQingLian1">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YuHeQingLian2">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YuHeQingLian3">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_TianSheQi">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_JuXingShouGu">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_LongXingYuanPan">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YaoShouDing">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_YaoZuXingJia">
-			<Type>Dekorasi</Type>
-			<Label>Pemandangan</Label>
+			<Type>Decoration</Type>
+			<Label>Scenery</Label>
 		</Text>
 		<Text Name="Building_StoneMan">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_StoneLion">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_StoneLion2">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_StoneLion3">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_Statue1">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_Statue2">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_Statue3">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_BingFengDiaoSu">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_QingTongLong">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_QingTongShouXiangLu">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_XieLongDiaoXiang">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_MoZhuaDiaoSu">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_DiMuKuiShou">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_YaoZuDiaoXiang">
-			<Type>Dekorasi</Type>
-			<Label>Patung</Label>
+			<Type>Decoration</Type>
+			<Label>Statue</Label>
 		</Text>
 		<Text Name="Building_SleeveSpace">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_SleeveSpace1">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_BaBaoGongDe_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_ShuShanJianChi_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_LingYuFeng_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_QiShaShenBei_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="Building_YaoZuYiHai_Our">
-			<Type>Keajaiban</Type>
+			<Type>Wonder</Type>
 		</Text>
 		<Text Name="TicTacToe">
-			<Type>Santai</Type>
+			<Type>Leisure</Type>
 		</Text>
 		<Text Name="CageShelf">
-			<Type>Santai</Type>
+			<Type>Leisure</Type>
 		</Text>
 		<Text Name="GoTable">
-			<Type>Santai</Type>
+			<Type>Leisure</Type>
 		</Text>
 		<Text Name="GuzhengTable">
-			<Type>Santai</Type>
+			<Type>Leisure</Type>
 		</Text>
 		<Text Name="Firecracker">
-			<Type>Santai</Type>
+			<Type>Leisure</Type>
 		</Text>
 		<Text Name="RemoveFloor">
-			<Type>Lantai</Type>
-			<Display>Hancurkan Papan Lantai</Display>
-			<Desc>[color=#0000FF]Hancurkan Papan Lantai[/color]\nHancurkan papan lantai buatan. \nJenis Pekerjaan: Konstruksi</Desc>
+			<Type>Flooring</Type>
+			<Display>Demolish Floorboards</Display>
+			<Desc>[color=#0000FF]Demolish Floorboards[/color]\nDemolish man-made floorboards. \nWork Type: Construction</Desc>
 		</Text>
 		<Text Name="Carpet1">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor30">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor31">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor32">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor33">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor1">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor2">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor3">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor4">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor5">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor6">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor7">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor8">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor9">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor10">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor11">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor12">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor13">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor14">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor15">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor16">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor17">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor18">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor19">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor20">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor21">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor22">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor23">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor24">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor25">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor26">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor27">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor28">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="Floor29">
-			<Type>Lantai</Type>
+			<Type>Flooring</Type>
 		</Text>
 		<Text Name="LsDogHouse">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LsDog_Carve">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LsFox_Carve">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LsDragon_Carve">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LsPhoenix_Carve">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LingShouShitPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSEnemyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSVistorCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSEnemyBodyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSWaiBodyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSVistorBodyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSNeiBodyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSMortalBodyCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="LSMortalCarryPlace">
-			<Type>Peliharaan</Type>
+			<Type>Pet</Type>
 		</Text>
 		<Text Name="AreaStorage">
-			<Type>Daerah</Type>
-			<Display>Penyimpanan</Display>
-			<Desc>Seret dan pilih area penyimpanan; karakter akan membawa item ke tempat penyimpanan yang dipilih. \nJenis Pekerjaan: Tenaga Kerja</Desc>
+			<Type>Area</Type>
+			<Display>Storage</Display>
+			<Desc>Drag and select an area for storage; a character will carry the items to the selected storage area. \nWork Type: Labor</Desc>
 		</Text>
 		<Text Name="AreaPlant">
-			<Type>Daerah</Type>
-			<Display>Bidang</Display>
-			<Desc>Seret dan pilih area sebagai bidang; karakter akan menanam tanaman di sini. \nJenis Pekerjaan: Bertani</Desc>
+			<Type>Area</Type>
+			<Display>Field</Display>
+			<Desc>Drag and select an area as field; characters will plant the crops here. \nWork Type: Farming</Desc>
 		</Text>
 		<Text Name="DiscipleAreaPlant">
-			<Type>Daerah</Type>
-			<Display>Kebun Herbal</Display>
-			<Desc>Seret dan pilih area sebagai kebun herbal; karakter akan menanam tanaman herbal di sini. \nJenis Pekerjaan: Bertani</Desc>
+			<Type>Area</Type>
+			<Display>Herb Garden</Display>
+			<Desc>Drag and select an area as herb garden; characters will plant herbs here. \nWork Type: Farming</Desc>
 		</Text>
 		<Text Name="AreaBreeding">
-			<Type>Daerah</Type>
-			<Display>Padang rumput</Display>
-			<Desc>Seret dan pilih area untuk padang rumput; hewan jinak akan diatur untuk merumput di area ini.</Desc>
+			<Type>Area</Type>
+			<Display>Pasture</Display>
+			<Desc>Drag and select an area for pasture; tamed animals will be arranged to graze in this area.</Desc>
 		</Text>
 		<Text Name="AreaTrade">
-			<Type>Daerah</Type>
-			<Display>Kawasan Perdagangan</Display>
-			<Desc>Seret untuk memilih area perdagangan</Desc>
+			<Type>Area</Type>
+			<Display>Trade Area</Display>
+			<Desc>Drag to select a trade area</Desc>
 		</Text>
 		<Text Name="RemoveStorageArea">
-			<Type>Daerah</Type>
-			<Display>Hapus Penyimpanan</Display>
-			<Desc>Hapus penyimpanan.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Storage</Display>
+			<Desc>Remove the storage.</Desc>
 		</Text>
 		<Text Name="RemovePlantArea">
-			<Type>Daerah</Type>
-			<Display>Hapus Bidang</Display>
-			<Desc>Hapus bidang tersebut.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Field</Display>
+			<Desc>Remove the field.</Desc>
 		</Text>
 		<Text Name="RemoveDiscipleAreaPlant">
-			<Type>Daerah</Type>
-			<Display>Hapus Kebun Herbal</Display>
-			<Desc>Hapus kebun herba.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Herb Garden</Display>
+			<Desc>Remove the herb garden.</Desc>
 		</Text>
 		<Text Name="RemoveAreaBreeding">
-			<Type>Daerah</Type>
-			<Display>Hapus Padang Rumput</Display>
-			<Desc>Hapus padang rumput.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Pasture</Display>
+			<Desc>Remove the pasture.</Desc>
 		</Text>
 		<Text Name="RemoveAreaTrade">
-			<Type>Daerah</Type>
-			<Display>Hapus Area Perdagangan</Display>
-			<Desc>Hancurkan area perdagangan.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Trade Area</Display>
+			<Desc>Demolish the trade area.</Desc>
 		</Text>
 		<Text Name="AreaTang">
-			<Type>Daerah</Type>
-			<Display>Cabang</Display>
-			<Desc>Seret dan pilih area cabang; karakter akan mendapatkan efek bonus di area cabangnya.</Desc>
+			<Type>Area</Type>
+			<Display>Branch</Display>
+			<Desc>Drag and select a branch area; characters will gain a bonus effect in their branch area.</Desc>
 		</Text>
 		<Text Name="RemoveTangArea">
-			<Type>Daerah</Type>
-			<Display>Hapus Cabang</Display>
-			<Desc>Hapus area cabang.</Desc>
+			<Type>Area</Type>
+			<Display>Remove Branch</Display>
+			<Desc>Remove the branch area.</Desc>
 		</Text>
 		<Text Name="FillSoil">
-			<Type>Daerah</Type>
+			<Type>Area</Type>
 		</Text>
 		<Text Name="FillShallowWater">
-			<Type>Daerah</Type>
+			<Type>Area</Type>
 		</Text>
 		<Text Name="FillFertileSoil">
-			<Type>Daerah</Type>
+			<Type>Area</Type>
 		</Text>
 		<Text Name="BlueprintCreat">
-			<Type>Cetak Biru</Type>
-			<Label>Semua</Label>
-			<Display>Buat Cetak Biru</Display>
-			<Desc>Membuat Cetak Biru Bangunan</Desc>
+			<Type>Blueprint</Type>
+			<Label>All</Label>
+			<Display>Create Blueprint</Display>
+			<Desc>Create Building Blueprint</Desc>
 		</Text>
 		<Text Name="_BlueprintCreat">
-			<Type>Cetak Biru</Type>
-			<Label>Cetak Biru Bawaan</Label>
-			<Display>Buat Cetak Biru</Display>
-			<Desc>Membuat Cetak Biru Bangunan</Desc>
+			<Type>Blueprint</Type>
+			<Label>Default Blueprint</Label>
+			<Display>Create Blueprint</Display>
+			<Desc>Create Building Blueprint</Desc>
 		</Text>
 		<Text Name="MyBlueprintCreat">
-			<Type>Cetak Biru</Type>
-			<Label>Cetak Biru saya</Label>
-			<Display>Buat Cetak Biru</Display>
-			<Desc>Membuat Cetak Biru Bangunan</Desc>
+			<Type>Blueprint</Type>
+			<Label>My Blueprint</Label>
+			<Display>Create Blueprint</Display>
+			<Desc>Create Building Blueprint</Desc>
 		</Text>
 		<Text Name="Harvest">
-			<Display>Memanen</Display>
-			<Desc>[color=#0000FF]Panen Tanaman[/color]\nPanen tanaman untuk mendapatkan buahnya atau produk lainnya. \nJenis Pekerjaan: Bertani</Desc>
+			<Display>Harvest</Display>
+			<Desc>[color=#0000FF]Harvest Plant[/color]\nHarvest the plant to obtain its fruit or other products. \nWork Type: Farming</Desc>
 		</Text>
 		<Text Name="Log">
-			<Display>Mencacah</Display>
-			<Desc>[color=#0000FF]Potong Pohon[/color]\nTebang pohon untuk mendapatkan kayu. \nJenis Pekerjaan: Penebangan Kayu</Desc>
+			<Display>Chop</Display>
+			<Desc>[color=#0000FF]Chop Tree[/color]\nChop down the tree to obtain wood. \nWork Type: Woodcutting</Desc>
 		</Text>
 		<Text Name="Mine">
-			<Display>Menambang</Display>
-			<Desc>[color=#0000FF]Jam Tambang[/color]\nTambang bijih dari gunung untuk mendapatkan material batu atau logam. \nJenis Pekerjaan: Penambangan</Desc>
+			<Display>Mine</Display>
+			<Desc>[color=#0000FF]Mine Ore[/color]\nMine ores from the mountain to obtain stone or metal materials. \nWork Type: Mining</Desc>
 		</Text>
 		<Text Name="Cutoff">
-			<Display>Jernih</Display>
-			<Desc>[color=#0000FF]Area Bersih[/color]\nHapus semua vegetasi di area yang dipilih. \nJenis Pekerjaan: Penebangan Kayu</Desc>
+			<Display>Clear</Display>
+			<Desc>[color=#0000FF]Clear Area[/color]\nClear all vegetation in the selected area. \nWork Type: Woodcutting</Desc>
 		</Text>
 		<Text Name="Dismantle">
-			<Display>Menghancurkan</Display>
-			<Desc>[color=#0000FF]Hancurkan Gedung[/color]\nHancurkan semua bangunan di area yang dipilih. \nJenis Pekerjaan: Konstruksi</Desc>
+			<Display>Demolish</Display>
+			<Desc>[color=#0000FF]Demolish Building[/color]\nDemolish all buildings in the selected area. \nWork Type: Construction</Desc>
 		</Text>
 		<Text Name="Explore">
-			<Display>Mengeksplorasi</Display>
-			<Desc>[color=#0000FF]Jelajahi Daerah[/color]\nJelajahi area yang tertutup lapisan awan; seorang karakter akan menghabiskan lebih banyak energi selama eksplorasi. \nJenis Pekerjaan: Berburu</Desc>
+			<Display>Explore</Display>
+			<Desc>[color=#0000FF]Explore Area[/color]\nExplore an area covered in a layer of cloud; a character will spend more energy during exploration. \nWork Type: Hunting</Desc>
 		</Text>
 		<Text Name="Hunting">
-			<Display>Berburu</Display>
-			<Desc>[color=#0000FF]Berburu Hewan[/color]\nBerburu dan menyembelih hewan liar. \nJenis Pekerjaan: Berburu</Desc>
+			<Display>Hunt</Display>
+			<Desc>[color=#0000FF]Hunt Animal[/color]\nHunt and butcher a wild animal. \nWork Type: Hunting</Desc>
 		</Text>
 		<Text Name="Melting">
-			<Display>Mencium</Display>
-			<Desc>[color=#0000FF]Barang Mencium[/color]\nMurid batin akan mencoba melebur benda ini menjadi batu roh. \nSetiap 5.000 Qi dalam item berarti satu batu roh diproduksi. Jika item tersebut merupakan artefak, semakin tinggi tingkatannya, semakin banyak batu roh yang dihasilkannya.</Desc>
+			<Display>Smelt</Display>
+			<Desc>[color=#0000FF]Smelt Item[/color] \nInner disciples will try to smelt this item into spirit stones. \nEvery 5,000 Qi in item means one spirit stone produced. If the item is an artifact, the higher its tier, the more spirit stones it will produce.</Desc>
 		</Text>
 		<Text Name="CancelCMD">
-			<Display>Membatalkan</Display>
-			<Desc>[color=#0000FF]Batalkan Pesanan[/color]\nBatalkan pesanan yang diterbitkan di area yang dipilih.</Desc>
+			<Display>Cancel</Display>
+			<Desc>[color=#0000FF]Cancel Order[/color] \nCancel orders issued in the selected area.</Desc>
 		</Text>
 		<Text Name="ClearPlant">
-			<Display>Tanaman</Display>
-			<Desc>[color=#0000FF]Hapus Tanaman[/color]\nHapus semua tanaman di area yang dipilih.</Desc>
+			<Display>Plant</Display>
+			<Desc>[color=#0000FF]Remove Plant[/color]\nRemove all plants in the selected area.</Desc>
 		</Text>
 		<Text Name="ClearMine ">
-			<Display>Menambang</Display>
-			<Desc>[color=#0000FF]Hapus Bijih[/color]\nHapus semua bijih di area yang dipilih.</Desc>
+			<Display>Mine</Display>
+			<Desc>[color=#0000FF]Remove Ore[/color]\nRemove all ores in the selected area.</Desc>
 		</Text>
 		<Text Name="ClearBuilding">
-			<Display>Menghancurkan</Display>
-			<Desc>[color=#0000FF]Hancurkan Gedung[/color]\nHancurkan semua bangunan di area yang dipilih.</Desc>
+			<Display>Demolish</Display>
+			<Desc>[color=#0000FF]Demolish Building[/color]\nDemolish all buildings in the selected area.</Desc>
 		</Text>
 		<Text Name="ClearFloor">
-			<Display>Lantai</Display>
-			<Desc>[color=#0000FF]Hapus Papan Lantai[/color]\nSingkirkan semua papan lantai buatan di area yang dipilih.</Desc>
+			<Display>Flooring</Display>
+			<Desc>[color=#0000FF]Remove Floorboards[/color]\nRemove all man-made floorboards in the selected area.</Desc>
 		</Text>
 		<Text Name="ClearItem">
-			<Display>Menghapus</Display>
-			<Desc>[color=#0000FF]Hapus Barang[/color]\nHapus semua item di area yang dipilih.</Desc>
+			<Display>Remove</Display>
+			<Desc>[color=#0000FF]Remove Item[/color]\nRemove all items in the selected area.</Desc>
 		</Text>
 		<Text Name="ReBuilding">
-			<Display>Membangun kembali</Display>
-			<Desc>[color=#0000FF]Membangun kembali bangunan.[/color]\nBangun kembali semua bangunan di area tersebut,\nJenis Pekerjaan: Konstruksi</Desc>
+			<Display>Rebuild</Display>
+			<Desc>[color=#0000FF]Rebuild buildings.[/color]\nRebuild all builds in the area,\nWork Type: Construction</Desc>
 		</Text>
 		<Text Name="ItemBan">
-			<Display>Cacat</Display>
-			<Desc>[color=#0000FF]Barang Larangan[/color]\nBatal/Aktifkan pelarangan item, bergantung pada apakah item pertama di area yang dipilih dicekal atau tidak.</Desc>
+			<Display>Disable</Display>
+			<Desc>[color=#0000FF]Ban Item[/color] \nCancel/Activate the ban on items, depending on whether the first item in the selected area is banned or not.</Desc>
 		</Text>
 		<Text Name="Dismantle2">
-			<Display>Membangun kembali</Display>
-			<Desc>[color=#0000FF]Membangun Kembali Gedung[/color]\nBangun kembali semua bangunan terbengkalai di area yang dipilih. \nJenis Pekerjaan: Konstruksi</Desc>
+			<Display>Rebuild</Display>
+			<Desc>[color=#0000FF]Rebuild Building[/color] \nRebuild all abandoned buildings in the selected area. \nWork Type: Construction</Desc>
 		</Text>
 		<Text Name="CancelCMD2">
-			<Display>Cacat</Display>
-			<Desc>[color=#0000FF]Barang Larangan[/color]\nBatal/Aktifkan pelarangan item, bergantung pada apakah item pertama di area yang dipilih dicekal atau tidak.</Desc>
+			<Display>Disable</Display>
+			<Desc>[color=#0000FF]Ban Item[/color] \nCancel/Activate the ban on items, depending on whether the first item in the selected area is banned or not.</Desc>
 		</Text>
 	</List>
 </Texts>
