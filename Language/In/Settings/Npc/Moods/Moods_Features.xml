@@ -1,22 +1,22 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Optimistic">
-			<DisplayName>Optimis</DisplayName>
+			<DisplayName>Optimist</DisplayName>
 			<Desc>Segalanya tampak selalu naik dan naik, bukan?</Desc>
 			<StoryDesc>Optimis seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Pessimism">
-			<DisplayName>Pesimis</DisplayName>
+			<DisplayName>Pessimist</DisplayName>
 			<Desc>Dunia ini sudah berakhir, mengapa kita harus terus memperpanjang hal yang tidak bisa dihindari?</Desc>
 			<StoryDesc>Pesimistis seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Depressed">
-			<DisplayName>Tidak senang</DisplayName>
+			<DisplayName>Unhappy</DisplayName>
 			<Desc>Itu tidak ada artinya, tidak ada satupun...</Desc>
 			<StoryDesc>Sedih seperti biasanya</StoryDesc>
 		</Text>
 		<Text Name="Regret">
-			<DisplayName>Sedih</DisplayName>
+			<DisplayName>Regretful</DisplayName>
 			<Desc>Aku benar-benar menyesalinya...kalau saja keadaannya berbeda. Aku hanya berharap tahun-tahunku yang tersisa ini penuh dengan kepedihan, mungkin itu akan membawa sedikit penebusan.</Desc>
 			<StoryDesc>Penuh penyesalan seperti biasanya</StoryDesc>
 		</Text>
