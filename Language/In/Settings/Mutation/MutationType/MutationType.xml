@@ -1,16 +1,16 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Type_HengDing">
-			<DisplayName>Konstan</DisplayName>
+			<DisplayName>Constant</DisplayName>
 			<Desc>Pilih efek kekacauan</Desc>
 		</Text>
 		<Text Name="Mutation_Type_DongDang">
-			<DisplayName>Bergolak</DisplayName>
-			<Desc>Pilih satu opsi dari Kondisi dan Efek untuk menggabungkannya menjadi efek Anomali yang lengkap.</Desc>
+			<DisplayName>Turbulent</DisplayName>
+			<Desc>Pilih satu opsi dari Kondisi dan Efek untuk digabungkan menjadi efek anomali lengkap</Desc>
 		</Text>
 		<Text Name="Mutation_Type_YinYang">
-			<DisplayName>Yin-Yang</DisplayName>
-			<Desc>Pilih satu efek Yin dan satu efek Yang untuk menciptakan kekacauan total.</Desc>
+			<DisplayName>Yin Yang</DisplayName>
+			<Desc>Pilih satu efek Yin dan satu efek Yang untuk membentuk kekacauan total</Desc>
 		</Text>
 	</List>
 </Texts>
