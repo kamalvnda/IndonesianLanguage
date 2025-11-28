@@ -1,42 +1,42 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="MetalBlockBase" sParam="Item">
-			<Item.FabaoSuffix>Logam, Segel, Prasasti, Dualjade, Tablet, Menara, Batu Besar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_IronBlock" sParam="Item">
-			<ThingName>Batangan Besi</ThingName>
+			<ThingName>Iron Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan cara menuang besi yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Besi</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperBlock" sParam="Item">
-			<ThingName>Batangan Igneocopper</ThingName>
+			<ThingName>Igneocopper Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan cara menuang Igneocopper yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>tembaga beku</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverBlock" sParam="Item">
-			<ThingName>Batangan Kristal Es</ThingName>
+			<ThingName>Ice Crystal Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan cara menuang Es Kristal yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Kristal Es</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperBlock1" sParam="Item">
-			<ThingName>Bar Esensi Api</ThingName>
+			<ThingName>Fire Essence Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan melebur Igneocopper dalam jumlah besar bersama dengan darah Beast. Butuh waktu lama untuk memproduksi setiap bagiannya.</Desc>
-			<Item.BeMaterial.NamePrefix>Esensi Api</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverBlock1" sParam="Item">
-			<ThingName>Bar Esensi Es</ThingName>
+			<ThingName>Ice Essence Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan melebur Kristal Es dalam jumlah besar bersama dengan darah Beast. Butuh waktu lama untuk memproduksi setiap bagiannya.</Desc>
-			<Item.BeMaterial.NamePrefix>Esensi Es</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Ice Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DarksteelBlock" sParam="Item">
-			<ThingName>Bar Baja Gelap</ThingName>
+			<ThingName>Darksteel Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan cara menuang Darksteel yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>baja gelap</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StarEssenceBlock" sParam="Item">
-			<ThingName>Bilah Inti Lumina</ThingName>
+			<ThingName>Lumina Core Bar</ThingName>
 			<Desc>Batangan logam dibuat dengan menuang inti lumina yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Inti Lumina</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
