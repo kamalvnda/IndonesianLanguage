@@ -1,17 +1,17 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FloorBase">
-			<DisplayName>Lantai</DisplayName>
-			<StoryDesc>Itu ada di dalam Sekte</StoryDesc>
+			<DisplayName>Flooring</DisplayName>
+			<StoryDesc>Itu ada dalam sebuah Sekte</StoryDesc>
 		</Text>
 		<Text Name="WoodFloor1">
-			<DisplayName>Lantai kayu</DisplayName>
+			<DisplayName>Wood Flooring</DisplayName>
 		</Text>
 		<Text Name="WoodFloor2">
-			<DisplayName>Lantai kayu</DisplayName>
+			<DisplayName>Wood Flooring</DisplayName>
 		</Text>
 		<Text Name="Carpet1">
-			<StoryDesc>Itu adalah karpet merah yang lembut dan indah.</StoryDesc>
+			<StoryDesc>Letaknya di karpet merah yang megah dan lembut</StoryDesc>
 		</Text>
 	</List>
 </Texts>
