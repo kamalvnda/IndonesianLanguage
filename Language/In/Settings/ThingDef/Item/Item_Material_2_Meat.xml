@@ -1,90 +1,90 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="MeatBase" sParam="Item">
-			<Item.FabaoSuffix>Rebusan Daging, Taplak Meja, Benjolan</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Meatstew, Tablecloth, Lump</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BoarMeat" sParam="Item">
-			<ThingName>Daging Babi Hutan</ThingName>
+			<ThingName>Boar Meat</ThingName>
 			<Desc>Daging babi hutan.</Desc>
 		</Text>
 		<Text Name="Item_FrogMeat" sParam="Item">
-			<ThingName>Daging Katak</ThingName>
+			<ThingName>Frog Meat</ThingName>
 			<Desc>Daging katak.</Desc>
 		</Text>
 		<Text Name="Item_TurtleMeat" sParam="Item">
-			<ThingName>Daging Penyu</ThingName>
+			<ThingName>Turtle Meat</ThingName>
 			<Desc>Daging kura-kura.</Desc>
 		</Text>
 		<Text Name="Item_BearMeat" sParam="Item">
-			<ThingName>Daging Beruang</ThingName>
+			<ThingName>Bear Meat</ThingName>
 			<Desc>Daging beruang.</Desc>
 		</Text>
 		<Text Name="Item_Beef" sParam="Item">
-			<ThingName>Daging Banteng</ThingName>
+			<ThingName>Bull Meat</ThingName>
 			<Desc>Daging sapi.</Desc>
 		</Text>
 		<Text Name="Item_RabbitMeat" sParam="Item">
-			<ThingName>Daging Kelinci</ThingName>
+			<ThingName>Rabbit Meat</ThingName>
 			<Desc>Daging kelinci.</Desc>
 		</Text>
 		<Text Name="Item_ChickenMeat" sParam="Item">
-			<ThingName>Ayam</ThingName>
+			<ThingName>Chicken</ThingName>
 			<Desc>Daging ayam.</Desc>
 		</Text>
 		<Text Name="Item_WolfMeat" sParam="Item">
-			<ThingName>Daging Serigala</ThingName>
+			<ThingName>Wolf Meat</ThingName>
 			<Desc>Daging serigala.</Desc>
 		</Text>
 		<Text Name="Item_FishMeat" sParam="Item">
-			<ThingName>Ikan</ThingName>
+			<ThingName>Fish</ThingName>
 			<Desc>Daging ikan.</Desc>
 		</Text>
 		<Text Name="Item_SnakeMeat" sParam="Item">
-			<ThingName>Daging Ular</ThingName>
+			<ThingName>Snake Meat</ThingName>
 			<Desc>Daging ular.</Desc>
 		</Text>
 		<Text Name="Item_CatMeat" sParam="Item">
-			<ThingName>Daging Kucing</ThingName>
+			<ThingName>Cat Meat</ThingName>
 			<Desc>Daging kucing.</Desc>
 		</Text>
 		<Text Name="Item_TigerMeat" sParam="Item">
-			<ThingName>Daging Harimau</ThingName>
+			<ThingName>Tiger Meat</ThingName>
 			<Desc>Daging harimau.</Desc>
 		</Text>
 		<Text Name="Item_ChickenEgg" sParam="Item">
-			<ThingName>Telur Ayam</ThingName>
+			<ThingName>Chicken Egg</ThingName>
 			<Desc>Telur ayam.</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SnakeEgg" sParam="Item">
-			<ThingName>Telur Ular</ThingName>
+			<ThingName>Snake Egg</ThingName>
 			<Desc>Telur ular.</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_TurtleEgg" sParam="Item">
-			<ThingName>Telur Penyu</ThingName>
+			<ThingName>Turtle Egg</ThingName>
 			<Desc>Telur penyu.</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LongEgg" sParam="Item">
-			<ThingName>Telur Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Egg</ThingName>
 			<Desc>telur Flood Dragon yang belum menetas; itu menunjukkan tanda-tanda kehidupan yang jelas. Untuk menetaskan telur harus berada di tempat dengan suhu di bawah -200 derajat, sangat kaya Qi, dan sangat kondusif bagi unsur Air.</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEgg" sParam="Item">
-			<ThingName>Telur Phoenix</ThingName>
+			<ThingName>Phoenix Egg</ThingName>
 			<Desc>Telur burung phoenix yang belum menetas, di dalamnya terdapat tanda-tanda kehidupan yang jelas. Untuk menetaskan telur harus berada di tempat dengan suhu di atas 300 derajat, sangat kaya Qi, dan sangat kondusif bagi elemen Api.</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEggChange" sParam="Item">
-			<ThingName>Telur Phoenix</ThingName>
+			<ThingName>Phoenix Egg</ThingName>
 			<Desc>Bangun...</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JiaolongChange" sParam="Item">
-			<ThingName>Telur Naga Banjir</ThingName>
+			<ThingName>Flood Dragon Egg</ThingName>
 			<Desc>Bangun...</Desc>
-			<Item.FabaoSuffix>Telur, Manik, Bola, Bibit</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
