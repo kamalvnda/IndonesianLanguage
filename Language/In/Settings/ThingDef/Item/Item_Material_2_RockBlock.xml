@@ -1,42 +1,42 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="RockBlockBase" sParam="Item">
-			<Item.FabaoSuffix>Batu, Segel, Prasasti, Dualjade, Tablet, Menara, Batu Besar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRockBlock" sParam="Item">
-			<ThingName>Blok Batu Coklat</ThingName>
+			<ThingName>Brownstone Block</ThingName>
 			<Desc>Batu bata yang sangat umum terbuat dari batu coklat. Dapat digunakan secara lebih efektif dalam kerajinan, namun Daya Tariknya cukup buruk.</Desc>
-			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRockBlock" sParam="Item">
-			<ThingName>Blok Batu Abu-Abu</ThingName>
+			<ThingName>Graystone Block</ThingName>
 			<Desc>Bata terbuat dari Graystone. Dapat digunakan secara lebih efektif dalam kerajinan, namun Daya Tariknya cukup rata-rata.</Desc>
-			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MarbleBlock" sParam="Item">
-			<ThingName>Blok Marmer</ThingName>
+			<ThingName>Marble Block</ThingName>
 			<Desc>Bata terbuat dari marmer. Dapat digunakan dengan lebih efektif dalam kerajinan. Teksturnya cukup menarik.</Desc>
-			<Item.BeMaterial.NamePrefix>Marmer</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeBlock" sParam="Item">
-			<ThingName>Blok Giok</ThingName>
+			<ThingName>Jade Block</ThingName>
 			<Desc>Bata terbuat dari batu giok. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
-			<Item.BeMaterial.NamePrefix>Giok</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStoneBlock" sParam="Item">
-			<ThingName>Blok Batu Suci</ThingName>
+			<ThingName>Holy Stone Block</ThingName>
 			<Desc>Bata terbuat dari Batu Suci. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
-			<Item.BeMaterial.NamePrefix>Batu Suci</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStoneBlock" sParam="Item">
-			<ThingName>Blok Batu Roh</ThingName>
+			<ThingName>Spirit Stone Block</ThingName>
 			<Desc>Bata terbuat dari batu roh. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
-			<Item.BeMaterial.NamePrefix>Batu Roh</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalBlock" sParam="Item">
-			<ThingName>Blok Kristal Roh</ThingName>
+			<ThingName>Spirit Crystal Block</ThingName>
 			<Desc>Bata terbuat dari Spirit Crystal. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
-			<Item.BeMaterial.NamePrefix>Kristal Roh</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
