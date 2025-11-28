@@ -1,89 +1,89 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YGAnimal_ChickenBody">
-			<Part.Parts.0.DisplayName>Kepala</Part.Parts.0.DisplayName>
-			<Part.Parts.0.Parts.0.DisplayName>Tengkorak</Part.Parts.0.Parts.0.DisplayName>
-			<Part.Parts.0.Parts.1.DisplayName>Otak</Part.Parts.0.Parts.1.DisplayName>
-			<Part.Parts.0.Parts.2.DisplayName>Mata Kiri</Part.Parts.0.Parts.2.DisplayName>
-			<Part.Parts.0.Parts.3.DisplayName>Mata Kanan</Part.Parts.0.Parts.3.DisplayName>
-			<Part.Parts.0.Parts.4.DisplayName>Telinga Kiri</Part.Parts.0.Parts.4.DisplayName>
-			<Part.Parts.0.Parts.5.DisplayName>Telinga Kanan</Part.Parts.0.Parts.5.DisplayName>
-			<Part.Parts.0.Parts.6.DisplayName>Hidung</Part.Parts.0.Parts.6.DisplayName>
-			<Part.Parts.0.Parts.7.DisplayName>Mulut</Part.Parts.0.Parts.7.DisplayName>
-			<Part.Parts.0.Parts.8.DisplayName>Leher</Part.Parts.0.Parts.8.DisplayName>
-			<Part.Parts.0.Parts.9.DisplayName>Paruh</Part.Parts.0.Parts.9.DisplayName>
-			<Part.Parts.0.Parts.10.DisplayName>Wajah</Part.Parts.0.Parts.10.DisplayName>
-			<Part.Parts.0.Parts.11.DisplayName>Otot Kepala</Part.Parts.0.Parts.11.DisplayName>
-			<Part.Parts.0.Parts.12.DisplayName>Sisir</Part.Parts.0.Parts.12.DisplayName>
-			<Part.Parts.0.Parts.13.DisplayName>Bulu Kepala</Part.Parts.0.Parts.13.DisplayName>
-			<Part.Parts.0.Parts.14.DisplayName>Kepala</Part.Parts.0.Parts.14.DisplayName>
-			<Part.Parts.1.DisplayName>Batang tubuh</Part.Parts.1.DisplayName>
-			<Part.Parts.1.Parts.0.DisplayName>Tulang Rusuk Kiri</Part.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.1.Parts.1.DisplayName>Tulang Rusuk Kanan</Part.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.1.Parts.2.DisplayName>Tulang belakang</Part.Parts.1.Parts.2.DisplayName>
-			<Part.Parts.1.Parts.3.DisplayName>Panggul</Part.Parts.1.Parts.3.DisplayName>
-			<Part.Parts.1.Parts.4.DisplayName>Jantung</Part.Parts.1.Parts.4.DisplayName>
-			<Part.Parts.1.Parts.5.DisplayName>Hati</Part.Parts.1.Parts.5.DisplayName>
-			<Part.Parts.1.Parts.6.DisplayName>Limpa</Part.Parts.1.Parts.6.DisplayName>
-			<Part.Parts.1.Parts.7.DisplayName>Paru-paru</Part.Parts.1.Parts.7.DisplayName>
-			<Part.Parts.1.Parts.8.DisplayName>ginjal</Part.Parts.1.Parts.8.DisplayName>
-			<Part.Parts.1.Parts.9.DisplayName>Perut</Part.Parts.1.Parts.9.DisplayName>
-			<Part.Parts.1.Parts.10.DisplayName>Usus</Part.Parts.1.Parts.10.DisplayName>
-			<Part.Parts.1.Parts.11.DisplayName>Lingga</Part.Parts.1.Parts.11.DisplayName>
-			<Part.Parts.1.Parts.12.DisplayName>Otot Pinggul</Part.Parts.1.Parts.12.DisplayName>
-			<Part.Parts.1.Parts.13.DisplayName>Otot Dada</Part.Parts.1.Parts.13.DisplayName>
-			<Part.Parts.1.Parts.14.DisplayName>Otot Punggung</Part.Parts.1.Parts.14.DisplayName>
-			<Part.Parts.1.Parts.15.DisplayName>Otot Perut</Part.Parts.1.Parts.15.DisplayName>
-			<Part.Parts.1.Parts.16.DisplayName>Otot Pinggang</Part.Parts.1.Parts.16.DisplayName>
-			<Part.Parts.1.Parts.17.DisplayName>Bulu Tubuh</Part.Parts.1.Parts.17.DisplayName>
-			<Part.Parts.1.Parts.18.DisplayName>Batang tubuh</Part.Parts.1.Parts.18.DisplayName>
-			<Part.Parts.1.Parts.19.DisplayName>Bulu Ekor</Part.Parts.1.Parts.19.DisplayName>
-			<Part.Parts.1.Parts.20.DisplayName>Bulu Ekor</Part.Parts.1.Parts.20.DisplayName>
-			<Part.Parts.1.Parts.21.DisplayName>Bulu Ekor</Part.Parts.1.Parts.21.DisplayName>
-			<Part.Parts.1.Parts.22.DisplayName>Bulu Ekor</Part.Parts.1.Parts.22.DisplayName>
-			<Part.Parts.1.Parts.23.DisplayName>Bulu Ekor</Part.Parts.1.Parts.23.DisplayName>
-			<Part.Parts.2.DisplayName>Sayap kiri</Part.Parts.2.DisplayName>
-			<Part.Parts.2.Parts.0.DisplayName>Bulu Sayap Kiri</Part.Parts.2.Parts.0.DisplayName>
-			<Part.Parts.2.Parts.1.DisplayName>Tulang Drumette Kiri</Part.Parts.2.Parts.1.DisplayName>
-			<Part.Parts.2.Parts.1.Parts.0.DisplayName>Otot Drumette Kiri</Part.Parts.2.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.2.Parts.1.Parts.1.DisplayName>Tulang Sayap Kiri</Part.Parts.2.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>Otot Sayap Kiri</Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>Tulang Ujung Sayap Kiri</Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot Ujung Sayap Kiri</Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.3.DisplayName>Sayap kanan</Part.Parts.3.DisplayName>
-			<Part.Parts.3.Parts.0.DisplayName>Bulu Sayap Kanan</Part.Parts.3.Parts.0.DisplayName>
-			<Part.Parts.3.Parts.1.DisplayName>Tulang Drumette Kanan</Part.Parts.3.Parts.1.DisplayName>
-			<Part.Parts.3.Parts.1.Parts.0.DisplayName>Otot Drumette Kanan</Part.Parts.3.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.3.Parts.1.Parts.1.DisplayName>Tulang Sayap Kanan</Part.Parts.3.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>Otot Sayap Kanan</Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>Tulang Ujung Sayap Kanan</Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Otot Ujung Sayap Kanan</Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.4.DisplayName>Kaki Belakang Kiri</Part.Parts.4.DisplayName>
-			<Part.Parts.4.Parts.0.DisplayName>Tulang Paha Belakang Kiri</Part.Parts.4.Parts.0.DisplayName>
-			<Part.Parts.4.Parts.0.Parts.0.DisplayName>Otot Paha Belakang Kiri</Part.Parts.4.Parts.0.Parts.0.DisplayName>
-			<Part.Parts.4.Parts.0.Parts.1.DisplayName>Shinbone Belakang Kiri</Part.Parts.4.Parts.0.Parts.1.DisplayName>
-			<Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>Otot Tulang Kering Belakang Kiri</Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>Tulang Cakar Belakang Kiri</Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Otot Cakar Belakang Kiri</Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.5.DisplayName>Kaki Belakang Kanan</Part.Parts.5.DisplayName>
-			<Part.Parts.5.Parts.0.DisplayName>Tulang Paha Belakang Kanan</Part.Parts.5.Parts.0.DisplayName>
-			<Part.Parts.5.Parts.0.Parts.0.DisplayName>Otot Paha Belakang Kanan</Part.Parts.5.Parts.0.Parts.0.DisplayName>
-			<Part.Parts.5.Parts.0.Parts.1.DisplayName>Shinbone Belakang Kanan</Part.Parts.5.Parts.0.Parts.1.DisplayName>
-			<Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>Otot Tulang Kering Belakang Kanan</Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>Tulang Cakar Belakang Kanan</Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>
-			<Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Otot Cakar Belakang Kanan</Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
-			<Part.Parts.6.DisplayName>Seluruh Tubuh</Part.Parts.6.DisplayName>
-			<Part.Parts.7.DisplayName>Meridian</Part.Parts.7.DisplayName>
-			<Part.Parts.7.Parts.0.DisplayName>Dantian Atas</Part.Parts.7.Parts.0.DisplayName>
-			<Part.Parts.7.Parts.1.DisplayName>Dantian Tengah</Part.Parts.7.Parts.1.DisplayName>
-			<Part.Parts.7.Parts.2.DisplayName>Dantian Bawah</Part.Parts.7.Parts.2.DisplayName>
-			<Part.Parts.7.Parts.3.DisplayName>Kapal Konseptor</Part.Parts.7.Parts.3.DisplayName>
-			<Part.Parts.7.Parts.4.DisplayName>Kapal Pengatur</Part.Parts.7.Parts.4.DisplayName>
-			<Part.Parts.7.Parts.5.DisplayName>Kapal Penetrasi</Part.Parts.7.Parts.5.DisplayName>
-			<Part.Parts.7.Parts.6.DisplayName>Kapal Korset</Part.Parts.7.Parts.6.DisplayName>
-			<Part.Parts.7.Parts.7.DisplayName>Kapal Penghubung Yin</Part.Parts.7.Parts.7.DisplayName>
-			<Part.Parts.7.Parts.8.DisplayName>Kapal Tumit Yin</Part.Parts.7.Parts.8.DisplayName>
-			<Part.Parts.7.Parts.9.DisplayName>Dia adalah Ling kapal itu</Part.Parts.7.Parts.9.DisplayName>
+			<Part.Parts.0.DisplayName>Head</Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>Skull</Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>Brain</Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>Left Eye</Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>Right Eye</Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>Left Ear</Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>Right Ear</Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>Nose</Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>Mouth</Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>Neck</Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>Beak</Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Face</Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.0.Parts.11.DisplayName>Head Muscles</Part.Parts.0.Parts.11.DisplayName>
+			<Part.Parts.0.Parts.12.DisplayName>Comb</Part.Parts.0.Parts.12.DisplayName>
+			<Part.Parts.0.Parts.13.DisplayName>Head Feathers</Part.Parts.0.Parts.13.DisplayName>
+			<Part.Parts.0.Parts.14.DisplayName>Head</Part.Parts.0.Parts.14.DisplayName>
+			<Part.Parts.1.DisplayName>Torso</Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>Left Rib</Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>Right Rib</Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>Spine</Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>Pelvis</Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>Heart</Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>Liver</Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>Spleen</Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Lungs</Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>Kidneys</Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Stomach</Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Intestines</Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Phallus</Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Hip Muscles</Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Chest Muscles</Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.1.Parts.14.DisplayName>Back Muscles</Part.Parts.1.Parts.14.DisplayName>
+			<Part.Parts.1.Parts.15.DisplayName>Abdominal Muscles</Part.Parts.1.Parts.15.DisplayName>
+			<Part.Parts.1.Parts.16.DisplayName>Waist Muscles</Part.Parts.1.Parts.16.DisplayName>
+			<Part.Parts.1.Parts.17.DisplayName>Torso Feathers</Part.Parts.1.Parts.17.DisplayName>
+			<Part.Parts.1.Parts.18.DisplayName>Torso</Part.Parts.1.Parts.18.DisplayName>
+			<Part.Parts.1.Parts.19.DisplayName>Tail Plume</Part.Parts.1.Parts.19.DisplayName>
+			<Part.Parts.1.Parts.20.DisplayName>Tail Plume</Part.Parts.1.Parts.20.DisplayName>
+			<Part.Parts.1.Parts.21.DisplayName>Tail Plume</Part.Parts.1.Parts.21.DisplayName>
+			<Part.Parts.1.Parts.22.DisplayName>Tail Plume</Part.Parts.1.Parts.22.DisplayName>
+			<Part.Parts.1.Parts.23.DisplayName>Tail Plume</Part.Parts.1.Parts.23.DisplayName>
+			<Part.Parts.2.DisplayName>Left Wing</Part.Parts.2.DisplayName>
+			<Part.Parts.2.Parts.0.DisplayName>Left Wing Feathers</Part.Parts.2.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.DisplayName>Left Drumette Bone</Part.Parts.2.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.0.DisplayName>Left Drumette Muscles</Part.Parts.2.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.DisplayName>Left Wingette Bone</Part.Parts.2.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>Left Wingette Muscles</Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>Left Wing Tip Bone</Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Left Wing Tip Muscles</Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.DisplayName>Right Wing</Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Right Wing Feathers</Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>Right Drumette Bone</Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.0.DisplayName>Right Drumette Muscles</Part.Parts.3.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.DisplayName>Right Wingette Bone</Part.Parts.3.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>Right Wingette Muscles</Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>Right Wing Tip Bone</Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Right Wing Tip Muscles</Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.DisplayName>Left Hind Leg</Part.Parts.4.DisplayName>
+			<Part.Parts.4.Parts.0.DisplayName>Left Hind Thighbone</Part.Parts.4.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.0.DisplayName>Left Hind Thigh Muscles</Part.Parts.4.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.DisplayName>Left Hind Shinbone</Part.Parts.4.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>Left Hind Shin Muscles</Part.Parts.4.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>Left Hind Claw Bone</Part.Parts.4.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Left Hind Claw Muscles</Part.Parts.4.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.DisplayName>Right Hind Leg</Part.Parts.5.DisplayName>
+			<Part.Parts.5.Parts.0.DisplayName>Right Hind Thighbone</Part.Parts.5.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.0.DisplayName>Right Hind Thigh Muscles</Part.Parts.5.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.DisplayName>Right Hind Shinbone</Part.Parts.5.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>Right Hind Shin Muscles</Part.Parts.5.Parts.0.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>Right Hind Claw Bone</Part.Parts.5.Parts.0.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>Right Hind Claw Muscles</Part.Parts.5.Parts.0.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.6.DisplayName>Whole Body</Part.Parts.6.DisplayName>
+			<Part.Parts.7.DisplayName>Meridians</Part.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.0.DisplayName>Upper Dantian</Part.Parts.7.Parts.0.DisplayName>
+			<Part.Parts.7.Parts.1.DisplayName>Middle Dantian</Part.Parts.7.Parts.1.DisplayName>
+			<Part.Parts.7.Parts.2.DisplayName>Lower Dantian</Part.Parts.7.Parts.2.DisplayName>
+			<Part.Parts.7.Parts.3.DisplayName>Conceptor Vessel</Part.Parts.7.Parts.3.DisplayName>
+			<Part.Parts.7.Parts.4.DisplayName>Governing Vessel</Part.Parts.7.Parts.4.DisplayName>
+			<Part.Parts.7.Parts.5.DisplayName>Penetrating Vessel</Part.Parts.7.Parts.5.DisplayName>
+			<Part.Parts.7.Parts.6.DisplayName>Girdle Vessel</Part.Parts.7.Parts.6.DisplayName>
+			<Part.Parts.7.Parts.7.DisplayName>Yin Linking vessel</Part.Parts.7.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.8.DisplayName>Yin Heel Vessel</Part.Parts.7.Parts.8.DisplayName>
+			<Part.Parts.7.Parts.9.DisplayName>Yang Linking vessel</Part.Parts.7.Parts.9.DisplayName>
 			<Part.Parts.7.Parts.10.DisplayName>Yang Heel Vessel</Part.Parts.7.Parts.10.DisplayName>
 		</Text>
 	</List>
