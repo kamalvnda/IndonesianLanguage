@@ -1,13 +1,13 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="CosmeticPack_XiaoWuJian">
-			<Display>Paket Penampilan Furnitur Iblis</Display>
+			<Display>Demonic Furniture Appearance Bundle</Display>
 		</Text>
 		<Text Name="CosmeticPack_Building">
-			<Display>Paket Penampilan Figur Besar</Display>
+			<Display>Huge Figures Appearance Bundle</Display>
 		</Text>
 		<Text Name="CosmeticPack_Others">
-			<Display>Paket Kulit Kontrak Kapal/Hewan Peliharaan/Roh</Display>
+			<Display>Vessel/Pet/Spirit Contract Skin Bundle</Display>
 		</Text>
 	</List>
 </Texts>
