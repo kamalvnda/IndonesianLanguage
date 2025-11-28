@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GodCityBuilding_SYSLOST">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong.)</Desc>
 		</Text>
 	</List>
