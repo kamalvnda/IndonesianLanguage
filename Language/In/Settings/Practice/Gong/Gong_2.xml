@@ -4,45 +4,45 @@
 			<DisplayName>Myriad Artifact Law</DisplayName>
 			<Desc>Diwariskan oleh Dewa Ketamakan dalam Kejelasan Tertinggi. Hukum rahasia utama untuk pembuatan artefak Gunung Sunshade. Hanya orang-orang yang paling cerdik yang dapat menerapkan Hukum ini. Seorang ahli Hukum ini dapat membuat apapun menjadi artefak. Hukum ini menuntun pengikutnya melewati 5 langit dan 15 istana. Setelah selesai, seseorang dapat meninggalkan bumi dan naik menuju keabadian.</Desc>
 			<SelectDesc>Seseorang akan unggul dalam pembuatan artefak ketika mengolah Hukum ini, tetapi tidak akan terampil dalam pertempuran. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Surga Ketenangan</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Heaven of Equanimity</Stages.0.DisplayName>
 			<Stages.0.Desc>Surga pertama. Ia mencari pencerahan alami dalam keadaan keseimbangan batin dan memulai Hukum menuju keabadian, sehingga disebut 'Surga Keseimbangan Laut'.</Stages.0.Desc>
-			<Stages.0.Necks.0.DisplayName>Istana Lima Pusat</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Palace of Five Centers</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>Meditasi dalam posisi duduk dengan bagian atas kepala dan bagian tengah telapak kaki serta telapak tangan menghadap ke atas. Biarkan darah dan Qi mengalir melalui lima pusat.[color=#D06508]\nTerobosan ini akan lebih sulit bagi karakter dengan kecerdasan tinggi.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Istana Lima Qi</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Palace of Five Qi</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>Aliran Qi dan darah adalah pergerakan di dalam keheningan. Rasakan pembentukan alami Lima Qi di dalam pembuluh darah, yang tumbuh seiring dengan aliran darah.[color=#D06508]\nTerobosan ini akan lebih sulit untuk karakter dengan Konstitusi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Istana Pikiran Spiritual</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Palace of Spiritual Mind</Stages.0.Necks.2.DisplayName>
 			<Stages.0.Necks.2.Desc>Gunakan pikiran spiritual untuk mengembalikan Lima Qi ke lautan Qi. Ulangi untuk kemajuan budidaya secara bertahap.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali.[/color]</Stages.0.Necks.2.Desc>
-			<Stages.1.DisplayName>Surga Panjang Umur</Stages.1.DisplayName>
+			<Stages.1.DisplayName>Heaven of Longevity</Stages.1.DisplayName>
 			<Stages.1.Desc>Surga kedua. Ini akan membantu membentuk Inti Emas dan meningkatkan umur serta kekuatan keajaiban seseorang, sehingga disebut Surga Panjang Umur.</Stages.1.Desc>
-			<Stages.1.Necks.0.DisplayName>Istana Persepsi</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Palace of Perception</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>Gunakan Qi untuk membuka gerbang pikiran dan terhubung dengan langit dan bumi. Tinggalkan semua masalah duniawi.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Istana Persatuan Besar</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Palace of Great Unity</Stages.1.Necks.1.DisplayName>
 			<Stages.1.Necks.1.Desc>Gunakan Qi purba milik sendiri untuk menarik Qi alami, maju dalam Hukum budidaya.[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Konstitusi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Tempat Roh Emas</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Place of Golden Spirit</Stages.1.Necks.2.DisplayName>
 			<Stages.1.Necks.2.Desc>Gabungkan energi, Qi, dan semangat seseorang menjadi satu Inti Emas, menjadikannya landasan Hukum.</Stages.1.Necks.2.Desc>
-			<Stages.2.DisplayName>Surga Takdir</Stages.2.DisplayName>
-			<Stages.2.Desc>Surga ketiga. Memahami hakikat seluruh makhluk di dunia, belajar dari pengalaman orang lain untuk mengatasi kekurangan diri sendiri, dan meletakkan dasar bagi lahirnya Ruh Batin.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Tempat Api Sejati</Stages.2.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Heaven of Destiny</Stages.2.DisplayName>
+			<Stages.2.Desc>Surga ketiga. Memahami hakikat semua makhluk di dunia, belajar dari pengalaman orang lain untuk mengatasi kekurangan diri sendiri, dan meletakkan landasan bagi lahirnya Roh Batin.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Place of True Fire</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>Picu tiga api sebenarnya dalam kondisi Inti Emas untuk mencium semuanya.[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Konstitusi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Istana Penciptaan</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Palace of Creations</Stages.2.Necks.1.DisplayName>
 			<Stages.2.Necks.1.Desc>Masuki alam fana dan rasakan kecerdikan seluruh ciptaan dengan tiga api sejati, perkuat tekad seseorang.</Stages.2.Necks.1.Desc>
-			<Stages.2.Necks.2.DisplayName>Istana Kecerdasan</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Palace of Ingenuity</Stages.2.Necks.2.DisplayName>
 			<Stages.2.Necks.2.Desc>Bermeditasi dalam isolasi selama 24 jam dan cium segala sesuatu yang terlihat dalam keadaan bermeditasi ke dalam satu kuali, karena seseorang telah meningkatkan keterampilan pembuatan artefak dan mempelajari kecerdikan dari Roh Batin.</Stages.2.Necks.2.Desc>
-			<Stages.3.DisplayName>Surga Yang Murni</Stages.3.DisplayName>
+			<Stages.3.DisplayName>Heaven of Pure Yang</Stages.3.DisplayName>
 			<Stages.3.Desc>Surga keempat. Ini membentuk Inti Emas dengan api sejati dan semangat paling murni seseorang dan menciptakan Roh Batin Yang murni dengan kejernihan tertinggi, sehingga disebut Surga Yang Murni.</Stages.3.Desc>
-			<Stages.3.Necks.0.DisplayName>Istana Inspirasi Besar</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Palace of Greater Inspiration</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>Rasakan jati diri seseorang dan dapatkan pencerahan dengan bantuan Inti Emas.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Istana Diri Sejati</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Palace of True Self</Stages.3.Necks.1.DisplayName>
 			<Stages.3.Necks.1.Desc>Kembangkan Inti Emas dan perkuat jati diri seseorang.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Istana Inkubasi Ilahi</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Palace of Divine Incubation</Stages.3.Necks.2.DisplayName>
 			<Stages.3.Necks.2.Desc>Inti Emas pecah saat Roh Batin lahir.</Stages.3.Necks.2.Desc>
-			<Stages.4.DisplayName>Surga Ultimasi</Stages.4.DisplayName>
+			<Stages.4.DisplayName>Heaven of Ultimacy</Stages.4.DisplayName>
 			<Stages.4.Desc>Surga kelima. Selamat dari guntur kesengsaraan terakhir, bentuklah roh Yang murni dengan kejernihan tertinggi, dan naik ke atas Surga Keagungan.</Stages.4.Desc>
-			<Stages.4.Necks.0.DisplayName>Istana Pembebasan</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Palace of Liberation</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>Tempa roh seseorang dengan Qi purba, biarkan ia meninggalkan tubuh fana dan menjelajahi dunia.[color=#D06508]\nPerhatikan bahwa terobosan ini akan sangat merusak umur seseorang.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>Istana Ketenangan</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Palace of Serenity</Stages.4.Necks.1.DisplayName>
 			<Stages.4.Necks.1.Desc>Mencerahkan semangat seseorang dengan berkah surga. Seseorang akan menghadapi Kesengsaraan Surgawi setelah melanggar batas ini.[color=#D06508]\nSangat sulit untuk melakukan terobosan, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.4.Necks.1.Desc>
-			<Stages.4.Necks.2.DisplayName>Istana Kaisar</Stages.4.Necks.2.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Palace of Emperor</Stages.4.Necks.2.DisplayName>
 			<Stages.4.Necks.2.Desc>Tinggalkan tubuh fana dan naik menuju keabadian.</Stages.4.Necks.2.Desc>
 		</Text>
 	</List>
