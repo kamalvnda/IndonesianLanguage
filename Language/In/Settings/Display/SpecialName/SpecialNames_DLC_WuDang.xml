@@ -2,85 +2,85 @@
   <List>
 	<SpecialItem Name="Item_HomeFood">
 		<Fish_SkyCrab>
-			<li Name="Kepiting kukus" Desc=""/>
-			<li Name="sup kepiting" Desc=""/>
-			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
-			<li Name="Bubur daging kepiting" Desc=""/>
-			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
-			<li Name="Kepiting Rebus Pedas" Desc=""/>
-			<li Name="Kepiting rebus" Desc=""/>
-			<li Name="Nasi goreng daging kepiting" Desc=""/>
+			<li Name="Steamed Crab" Desc="" />
+			<li Name="Crab Soup" Desc="" />
+			<li Name="Stir-fried Crab" Desc="" />
+			<li Name="Crab Meat Porridge" Desc="" />
+			<li Name="Braised Crab with Tofu" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Spiced Crab" Desc="" />
+			<li Name="Fried Rice with Crab Meat" Desc="" />
 		</Fish_SkyCrab>
 		<Fish_SkySnake>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_SkySnake>
 		<Fish_SkyFish>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_SkyFish>
 	</SpecialItem>
 	<SpecialItem Name="Item_DeliciousFood">
 		<Fish_SkyCrab>
-			<li Name="Panci daging kepiting" Desc=""/>
-			<li Name="Kepiting pedas" Desc=""/>
-			<li Name="Kaki kepiting kukus" Desc=""/>
-			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
-			<li Name="Kepiting Mabuk" Desc=""/>
-			<li Name="Tahu bubuk kepiting" Desc=""/>
-			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+			<li Name="Simmered Crab Meat" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Steamed Crab Claws" Desc="" />
+			<li Name="Simmered Crab Roe with Glass Noodles" Desc="" />
+			<li Name="Drunken Crab" Desc="" />
+			<li Name="Crab Meat with Tofu" Desc="" />
+			<li Name="Quick-fried Crab Meat" Desc="" />
 		</Fish_SkyCrab>
 		<Fish_SkySnake>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_SkySnake>
 		<Fish_SkyFish>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_SkyFish>
 	</SpecialItem>
 	<SpecialItem Name="Item_DelicacyFood">
 		<Fish_SkyCrab>
-			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
-			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+			<li Name="Emperor's Soup Bun" Desc="Campur telur kepiting segar dengan daging dan bungkus dengan adonan tipis beragi. Seluruh bagian dalamnya akan diisi minyak rajungan setelah dikukus. Konon dulu ada seorang kaisar yang rela menyerahkan jubah kerajaannya untuk memakan roti ini." />
+			<li Name="Crab Steamed with Shaoxing Wine" Desc="Gunakan anggur Shaoxing terbaik untuk mengukus kepiting di akhir musim gugur. Anggur mampu mengusir rasa dingin pada kepiting. Rasa lembut anggur Shaoxing berpadu sempurna dengan manisnya daging kepiting." />
 		</Fish_SkyCrab>
 		<Fish_SkySnake>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_SkySnake>
 		<Fish_SkyFish>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_SkyFish>
 	</SpecialItem>
 </List>
