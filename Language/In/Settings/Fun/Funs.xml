@@ -1,25 +1,25 @@
 <Texts Type="Other">
-  <List>
-    <Text Name="LookAtSky">
-      <Desc>Bingung/Menatap langit/matahari/bulan</Desc>
-    </Text>
-    <Text Name="Dance">
-      <Desc>Menari</Desc>
-    </Text>
-    <Text Name="Music">
-      <Desc>Bermain musik</Desc>
-    </Text>
-    <Text Name="PlayBird">
-      <Desc>Bermain dengan burung</Desc>
-    </Text>
-    <Text Name="Calligraphy">
-      <Desc>Menulis</Desc>
-    </Text>
-    <Text Name="PlayChess">
-      <Desc>Bermain Catur</Desc>
-    </Text>
-    <Text Name="PlayTicTacToe">
-      <Desc>Memainkan TicTacToe</Desc>
-    </Text>
-  </List>
+	<List>
+		<Text Name="LookAtSky">
+			<Desc>menganggur/melihat ke langit/matahari/bulan</Desc>
+		</Text>
+		<Text Name="Dance">
+			<Desc>Menari</Desc>
+		</Text>
+		<Text Name="Music">
+			<Desc>Bermain musik</Desc>
+		</Text>
+		<Text Name="PlayBird">
+			<Desc>Bermain dengan burung dan serangga</Desc>
+		</Text>
+		<Text Name="Calligraphy">
+			<Desc>Melakukan kaligrafi</Desc>
+		</Text>
+		<Text Name="PlayChess">
+			<Desc>Bermain catur</Desc>
+		</Text>
+		<Text Name="PlayTicTacToe">
+			<Desc>Bermain tic-tac-toe</Desc>
+		</Text>
+	</List>
 </Texts>
