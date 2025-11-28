@@ -182,7 +182,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 游戏中有大量可以提高角色基础属性与技能的方法，而角色初始属性过高，可能对您的游戏体验造成较大地破坏，请谨慎考虑！	Permainan ini menawarkan banyak cara untuk meningkatkan atribut dan keterampilan dasar karakter. Namun, atribut awal yang terlalu tinggi dapat sangat mengganggu pengalaman bermain game Anda. Harap pertimbangkan ini dengan cermat!
 多次画符	Gambar Jimat Berganda
 阵法真意图鉴需要玩家结成包含对应真意的阵法来点亮。	Untuk membuka isi Ensiklopedia Kebenaran Formasi, Anda perlu membentuk formasi lengkap dari Kebenaran yang sesuai.
-从{0}前往{1}	Dari{0}ke{1}
+从{0}前往{1}	Dari {0} ke {1}
 模组商店及万界天宫的内容(UGC)是由玩家所制作，这些内容可能会影响你的游戏体验，包括但不仅限于：内容不适、数值崩溃、历程失控等。我们未对这些分享内容进行任何功能和数值上的审核或者协助，您必须自行分辨并承担下载该内容的风险。	Mod Store dan konten Workshop (User Generated Contents) dibuat oleh pemain. Konten ini dapat memengaruhi pengalaman bermain game Anda, termasuk namun tidak terbatas pada: konten yang tidak pantas, statistik yang tidak seimbang, kemajuan game yang terganggu, dll. Kami tidak mengambil bagian dalam pembuatan konten yang dibagikan ini. Anda harus mengunduh dan bermain dengan risiko Anda sendiri.
 护体	Melindungi
 土壤肥沃	Tanah yang Kaya
@@ -228,7 +228,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 不能作为此技能的对象	Tidak dapat ditargetkan oleh skill ini.
 [color=#009900][打开][/color]	[color=#009900][On][/color]
 失落的灵智	Kecerdasan yang Hilang
-突破{0}技能等级上限{1}	Terobosan{1}tingkat{0}keahlian
+突破{0}技能等级上限{1}	Terobosan {1} tingkat {0} keahlian
 下载	Mengunduh
 秘籍	petunjuk
 采掘获取有用的材料。	Gali bahan-bahan yang bermanfaat.
@@ -1274,7 +1274,7 @@ PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak da
 {0}折	{0}mati
 消耗25点香火值，为一个外门角色治疗所有疾病，恢复所有器官，并提高五维。	Harganya 25 Dupa. Menyembuhkan segala penyakit, memulihkan seluruh organ, dan meningkatkan panca indera bagi murid luar.
 (等待建造)	(Menunggu Pembangun)
-天苍{0}年 {1} 第{2}日	Hari{2}, {1}, Tahun{0}, Tiancang
+天苍{0}年 {1} 第{2}日	Hari {2}, {1}, Tahun {0}, Tiancang
 该角色正在被施展神通	Karakter ini melakukan keajaiban.
 正邪未明	Tidak dikenal
 定制五官	Penyesuaian wajah
@@ -2168,7 +2168,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 读取中...	Memuat…
 选择信仰程度达到100%的核心信徒	Pilih pengikut inti dengan keyakinan 100%.
 指定天气	Pilih Cuaca
-{0}\n从{1}前往{2}	{0}\nDari{1}ke{2}
+{0}\n从{1}前往{2}	{0}\nDari {1} ke {2}
 全扩展包首购福利将在购买任意扩展包后失效，是否继续购买？	Manfaat pembelian pertama untuk paket ekspansi penuh akan dibatalkan setelah membeli paket ekspansi apa pun. Apakah Anda ingin melanjutkan pembelian?
 <font color=#D06508>[装备]</font>\n	<font color=#D06508>[Gear]</font>\n
 解锁神通:[{0}]\n	Buka Keajaiban:[{0}]\n
@@ -2230,7 +2230,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 多次吞食	Melahap Berulang kali
 存档并返回	Simpan dan Kembalikan
 [MOD蓝图（来自MOD  {0}）]\n	[Mod Blueprint (From mod {0})]\n
-天苍{0}年第{1}天	Hari{1}, tahun{0}Era Tiancang
+天苍{0}年第{1}天	Hari {1}, tahun {0} Era Tiancang
 躲闪率：炼体者直接躲避攻击的几率。	Peluang Menghindar: peluang bagi Kultivator Fisik untuk menghindari serangan secara langsung.
 开垦农田	Mengolah Bumi
 暂无数据	Tidak Ada Data
@@ -2558,7 +2558,7 @@ CloudSave->找到旧存档:{0}	CloudSave->Ditemukan Simpanan lama:{0}
 法宝胚胎进度MAX	Maksimalkan Kemajuan Inkubasi Artefak
 在应天台凝结灵石时候，{0} 战胜争夺者 {1}，夺得了灵石。	Saat Altar Gema Surga mengkristal,{0}mengalahkan{1}dan memenangkan batu roh。
 滞留{0}次	Arahkan kursor{0}kali.
-第{0}日	Hari{0}
+第{0}日	Hari {0}
 该角色不能再次作为目标了	Karakter ini tidak dapat ditargetkan lagi.
 木客	penebang
 {2}数量限制：{0}({1}){3}\n	{2}Membatasi:{0} ({1}) {3}\n
@@ -2630,7 +2630,7 @@ defName=>{0} {1} 缺少丹药相关配置项，请重新检查配置！	namadef=
 不会自主处理，交给玩家手动选择。	Tidak akan ditangani secara otomatis. Pemain harus memilih secara manual.
 某地	Di suatu tempat
 非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Maaf! Karena perubahan data yang sangat besar, versi Binatang Kuno tidak lagi mendukung penyimpanan sebelumnya.\nTapi kami telah menyiapkan mode baru,[color=#D06508][Reincarnation][/color], untuk versi apa pun sebelum Binatang Kuno (0.95).\nDi Reinkarnasi, sebagian cerita dan data dari penyimpanan Anda sebelumnya akan dilanjutkan. Anda dapat memulai cerita baru dengan memuat simpanan Anda sebelumnya.
-天苍 {0}年 {1}日	Hari{1}, tahun{0}Era Tiancang
+天苍 {0}年 {1}日	Hari {1}, Tahun {0} Era Tiancang
 [color=#ff0000]游戏速度[/color]是一项重要功能，你可以通过屏幕右下方的按钮来调整游戏速度。\n[color=#9e6404]可以点击暂停按钮进行暂停，暂停状态下也可以正常发布命令[/color]	[color=#ff0000]Kecepatan Permainan[/color]adalah fitur utama yang dapat disesuaikan melalui tombol di kanan bawah layar.\n[color=#9e6404]Klik tombol jeda untuk menjeda permainan - Anda masih dapat memberikan perintah secara normal saat dijeda[/color]
 {1}获得参悟经验：{0:F0}点	{1}Memperoleh Inspirasi XP: {0:F0}
 接招，看我太虚神剑！！	Rasakan Pedang Surgawiku!
@@ -3883,7 +3883,7 @@ defName=>{0} {1} 该物品未找到，请重新检查配置！	namadef=>{0} {1}i
 与这个物体交互	Berinteraksi dengan objek ini
 生产	Menghasilkan
 植物产物	Produk Tanaman
-第{0}天 {1:D2}:{2:D2} {3}	Hari{0}{1:D2}:{2:D2}{3}
+第{0}天 {1:D2}:{2:D2} {3}	Hari {0},Jam {1:D2}:{2:D2} {3}
 变成法宝	Ubah menjadi Artefak
 (生长停止)	(Pertumbuhan Berhenti)
 切换至{0}一页技能面板\n\n快捷键:{1}	Beralih ke{0}Menu keterampilan.\n\nTombol pintas:{1}
@@ -4190,7 +4190,7 @@ Trap编辑。	Sunting Perangkap.
 心境:{0:N0} ({1}){2}\n心境会大幅度影响吐纳时获得精华的效率。\n体修中人皆为直来直往。心境与情绪直接挂钩。	Keadaan Mental: {0:N0} ({1}){2}\nKeadaan Mental sangat mempengaruhi efisiensi seseorang dalam memperoleh esensi saat bernafas.\nPembudidaya fisik cukup mudah. Keadaan Mental berhubungan langsung dengan Suasana Hati.
 腐朽中({0})	Membusuk ({0})
 该角色已经失去珀了	Karakter ini telah kehilangan permata jiwa.
-天苍{0}年 {1} 第{2}日   {3}	{1}hari{2}, tahun{0}dari Era Tiancang{3}
+天苍{0}年 {1} 第{2}日   {3}	{1} hari {2}, tahun {0} dari Era Tiancang {3}
 角色姓名不能为空，请重新设置姓名	Nama Karakter tidak boleh kosong. Silakan atur namanya lagi.
 控制子节点中的控件	Memerintahkan kontrol node anak.
 灵宠信息	Info Hewan Peliharaan
@@ -4390,7 +4390,7 @@ XiaWorld -> Wnd_NpcGentrate:生成角色失败，原因为：{0}	XiaWorld -> Wnd
 在建筑工作时，正忍不住神游天外	Membangun; tidak bisa menahan diri untuk tidak melamun
 我受人之托，前来高价收购{0}。近日只有{1}类物品有利可图。	Saya telah ditugaskan untuk membeli{0}dengan harga tinggi. Baru-baru ini saja{1}barangnya menguntungkan.
 存储：{0}	Menyimpan:{0}
-天苍 {0}年第{1}日,通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Hari{1}, tahun{0}Era Tiancang, melalui rasionalitas yang diperoleh{2}, persepsi{3}dan realisasi{4}, Pecahan Intelijen telah dihasilkan.
+天苍 {0}年第{1}日,通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Hari {1}, tahun {0} Era Tiancang, melalui rasionalitas yang diperoleh {2}, persepsi {3}dan realisasi {4}, Pecahan Intelijen telah dihasilkan.
 想到又要练习护体，正觉得忧郁	Tertekan memikirkan menjalani pelatihan perlindungan lagi
 {2}信仰：{0:F0}({1:F0}){3}\n	{2}Keyakinan: {0:F0}({1:F0}){3}\n
 {0}凭借玄凤的火眼金睛，看破了{1}个物品的真面目！	Dengan pemandangan tajam dari Dark Phoenix,{0}telah melihat sifat aslinya{1}item!
