@@ -1,12 +1,12 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="System_FightMap_RedWall">
-			<DisplayName>Mengamati</DisplayName>
+			<DisplayName>Observe</DisplayName>
 			<Desc>[NAME] mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
 			<Selections.0.Display>Mengamati</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">
-			<DisplayName>Buatlah Permintaan</DisplayName>
+			<DisplayName>Make a Wish</DisplayName>
 			<Desc>[NAME] mencoba membuat permintaan dengan Dragon Incense.</Desc>
 			<Selections.0.Display>Harapan untuk Pikiran Jernih</Selections.0.Display>
 			<Selections.1.Display>Keinginan untuk Tingkat yang Lebih Tinggi</Selections.1.Display>
@@ -16,31 +16,31 @@
 			<Selections.5.Display>Menyerah</Selections.5.Display>
 		</Text>
 		<Text Name="Story_Building_TaiZiDian">
-			<DisplayName>Berinteraksi</DisplayName>
+			<DisplayName>Interact</DisplayName>
 			<Desc>[NAME] duduk di depan meja dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoJianZhen">
-			<DisplayName>Berinteraksi</DisplayName>
+			<DisplayName>Interact</DisplayName>
 			<Desc>[NAME] duduk di samping perisai pedang dan mencoba menggunakan persepsi untuk berkomunikasi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoDanLu">
-			<DisplayName>Berinteraksi</DisplayName>
+			<DisplayName>Interact</DisplayName>
 			<Desc>[NAME] duduk di dekat Tungku Alkimia dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
 			<Selections.0.Display>Berinteraksi</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
 		<Text Name="Ls_CallXuanWu">
-			<DisplayName>Menyentuh</DisplayName>
+			<DisplayName>Touch</DisplayName>
 			<Desc>Giok spiritual memiliki dua jenis cahaya, memancarkan aura Kura-kura Hitam.</Desc>
 			<Selections.0.Display>Menyentuh</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoShiBei">
-			<DisplayName>Menyentuh</DisplayName>
-			<Desc>[NAME] menyentuh kata-kata yang terukir pada prasasti itu.</Desc>
+			<DisplayName>Touch</DisplayName>
+			<Desc>[NAME] menyentuh kata-kata yang terukir pada prasasti.</Desc>
 			<Selections.0.Display>Menyentuh</Selections.0.Display>
 			<Selections.1.Display>Menyerah</Selections.1.Display>
 		</Text>
