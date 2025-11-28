@@ -1,7 +1,7 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="BuildMode_ChangeTime">
-			<DisplayName>Negeri Ilusi</DisplayName>
+			<DisplayName>Land of Illusion</DisplayName>
 			<Desc>Jadi, kapan Anda perlu menyesuaikan waktunya?</Desc>
 			<Selections.0.Display>Pagi</Selections.0.Display>
 			<Selections.1.Display>Satu</Selections.1.Display>
@@ -10,7 +10,7 @@
 			<Selections.4.Display>Sudahlah</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeSeason">
-			<DisplayName>Negeri Ilusi</DisplayName>
+			<DisplayName>Land of Illusion</DisplayName>
 			<Desc>Jadi, musim apa yang seharusnya?</Desc>
 			<Selections.0.Display>Musim semi</Selections.0.Display>
 			<Selections.1.Display>Musim panas</Selections.1.Display>
@@ -19,7 +19,7 @@
 			<Selections.4.Display>Sudahlah</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeWeather">
-			<DisplayName>Negeri Ilusi</DisplayName>
+			<DisplayName>Land of Illusion</DisplayName>
 			<Desc>Jadi, cuaca apa yang seharusnya?</Desc>
 			<Selections.0.Display>Hujan Ringan/Salju</Selections.0.Display>
 			<Selections.1.Display>Hujan Lebat/Salju</Selections.1.Display>
