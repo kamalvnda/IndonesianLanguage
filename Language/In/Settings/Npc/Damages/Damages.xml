@@ -1,211 +1,211 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Shit">
-			<DisplayName>Bau Kuat</DisplayName>
+			<DisplayName>Strong Odor</DisplayName>
 		</Text>
 		<Text Name="BurnScar">
-			<DisplayName>Luka Bakar</DisplayName>
+			<DisplayName>Burn Scar</DisplayName>
 		</Text>
 		<Text Name="Scar">
-			<DisplayName>Bekas luka</DisplayName>
+			<DisplayName>Scar</DisplayName>
 		</Text>
 		<Text Name="Osteodynia">
-			<DisplayName>Sakit Tulang</DisplayName>
+			<DisplayName>Bone Pain</DisplayName>
 		</Text>
 		<Text Name="DeformedSkeleton">
-			<DisplayName>Kelainan bentuk</DisplayName>
+			<DisplayName>Deformity</DisplayName>
 		</Text>
 		<Text Name="ViscusInjury">
-			<DisplayName>Organ Rusak</DisplayName>
+			<DisplayName>Damaged Organs</DisplayName>
 		</Text>
 		<Text Name="Deaf">
-			<DisplayName>Gangguan Pendengaran</DisplayName>
+			<DisplayName>Hearing Loss</DisplayName>
 		</Text>
 		<Text Name="MeridianBlocking">
-			<DisplayName>Meridian yang Terblokir</DisplayName>
+			<DisplayName>Blocked Meridians</DisplayName>
 		</Text>
 		<Text Name="Palpitation">
-			<DisplayName>Palpitasi</DisplayName>
+			<DisplayName>Palpitations</DisplayName>
 		</Text>
 		<Text Name="Poisoning1">
-			<DisplayName>Keracunan (Sedikit)</DisplayName>
+			<DisplayName>Poisoned (Slight)</DisplayName>
 		</Text>
 		<Text Name="Poisoning2">
-			<DisplayName>Keracunan (Biasa)</DisplayName>
+			<DisplayName>Poisoned (Normal)</DisplayName>
 		</Text>
 		<Text Name="Poisoning3">
-			<DisplayName>Keracunan (Serius)</DisplayName>
+			<DisplayName>Poisoned (Serious)</DisplayName>
 		</Text>
 		<Text Name="BloodFreezing1">
-			<DisplayName>Koagulasi (Sedikit)</DisplayName>
+			<DisplayName>Coagulation (Slight)</DisplayName>
 		</Text>
 		<Text Name="BloodFreezing2">
-			<DisplayName>Koagulasi (Serius)</DisplayName>
+			<DisplayName>Coagulation (Serious)</DisplayName>
 		</Text>
 		<Text Name="Cold1">
-			<DisplayName>Dingin (Sedikit)</DisplayName>
+			<DisplayName>Cold (Slight)</DisplayName>
 		</Text>
 		<Text Name="Cold2">
-			<DisplayName>Dingin (Serius)</DisplayName>
+			<DisplayName>Cold (Serious)</DisplayName>
 		</Text>
 		<Text Name="Fracture1">
-			<DisplayName>Pecah</DisplayName>
+			<DisplayName>Ruptured</DisplayName>
 		</Text>
 		<Text Name="Fracture2">
-			<DisplayName>Rusak</DisplayName>
+			<DisplayName>Broken</DisplayName>
 		</Text>
 		<Text Name="Fracture3">
-			<DisplayName>Retak</DisplayName>
+			<DisplayName>Fractured</DisplayName>
 		</Text>
 		<Text Name="Fracture4">
-			<DisplayName>Lumat</DisplayName>
+			<DisplayName>Pulverized</DisplayName>
 		</Text>
 		<Text Name="Fabao_CutOff">
-			<DisplayName>Terputus</DisplayName>
+			<DisplayName>Severed</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Disintegrate">
-			<DisplayName>Hancur</DisplayName>
+			<DisplayName>Disintegrated</DisplayName>
 		</Text>
 		<Text Name="Corrosion">
-			<DisplayName>Berkarat</DisplayName>
+			<DisplayName>Corroded</DisplayName>
 		</Text>
 		<Text Name="ForgLick">
-			<DisplayName>Menjilat</DisplayName>
+			<DisplayName>Licked</DisplayName>
 		</Text>
 		<Text Name="Boil">
-			<DisplayName>Mendidihkan</DisplayName>
+			<DisplayName>Boil</DisplayName>
 		</Text>
 		<Text Name="Toothache">
-			<DisplayName>Sakit gigi</DisplayName>
+			<DisplayName>Toothache</DisplayName>
 		</Text>
 		<Text Name="Faint">
-			<DisplayName>Pingsan</DisplayName>
+			<DisplayName>Faint</DisplayName>
 		</Text>
 		<Text Name="Hemorrhoids">
-			<DisplayName>Wasir</DisplayName>
+			<DisplayName>Hemorrhoids</DisplayName>
 		</Text>
 		<Text Name="HemorrhoidsEX">
-			<DisplayName>Wasir Permanen</DisplayName>
+			<DisplayName>Permanent Hemorrhoids</DisplayName>
 		</Text>
 		<Text Name="Frostbite1">
-			<DisplayName>Radang Dingin (Sedikit)</DisplayName>
+			<DisplayName>Frostbite (Slight)</DisplayName>
 		</Text>
 		<Text Name="Frostbite2">
-			<DisplayName>Radang dingin (Normal)</DisplayName>
+			<DisplayName>Frostbite (Normal)</DisplayName>
 		</Text>
 		<Text Name="Frostbite3">
-			<DisplayName>Radang Dingin (Serius)</DisplayName>
+			<DisplayName>Frostbite (Serious)</DisplayName>
 		</Text>
 		<Text Name="Scald1">
-			<DisplayName>Melepuh (Sedikit)</DisplayName>
+			<DisplayName>Scald (Slight)</DisplayName>
 		</Text>
 		<Text Name="Scald2">
-			<DisplayName>Melepuh (Normal)</DisplayName>
+			<DisplayName>Scald (Normal)</DisplayName>
 		</Text>
 		<Text Name="Scald3">
-			<DisplayName>Melepuh (Serius)</DisplayName>
+			<DisplayName>Scald (Serious)</DisplayName>
 		</Text>
 		<Text Name="Bruise1">
-			<DisplayName>Memar (Sedikit)</DisplayName>
+			<DisplayName>Bruise (Slight)</DisplayName>
 		</Text>
 		<Text Name="Bruise2">
-			<DisplayName>Memar (Normal)</DisplayName>
+			<DisplayName>Bruise (Normal)</DisplayName>
 		</Text>
 		<Text Name="Bruise3">
-			<DisplayName>Memar (Serius)</DisplayName>
+			<DisplayName>Bruise (Serious)</DisplayName>
 		</Text>
 		<Text Name="Infection">
-			<DisplayName>Infeksi</DisplayName>
+			<DisplayName>Infection</DisplayName>
 		</Text>
 		<Text Name="Cut1">
-			<DisplayName>Potong (Sedikit)</DisplayName>
+			<DisplayName>Cut (Slight)</DisplayName>
 		</Text>
 		<Text Name="Cut2">
-			<DisplayName>Potong (Biasa)</DisplayName>
+			<DisplayName>Cut (Normal)</DisplayName>
 		</Text>
 		<Text Name="Cut3">
-			<DisplayName>Potong (Serius)</DisplayName>
+			<DisplayName>Cut (Serious)</DisplayName>
 		</Text>
 		<Text Name="Puncture">
-			<DisplayName>Tertusuk</DisplayName>
+			<DisplayName>Punctured</DisplayName>
 		</Text>
 		<Text Name="Fabao_Tear">
-			<DisplayName>diparut</DisplayName>
+			<DisplayName>Shredded</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Evaporate">
-			<DisplayName>Menguap</DisplayName>
+			<DisplayName>Vaporized</DisplayName>
 		</Text>
 		<Text Name="Deterioration">
-			<DisplayName>Kemerosotan</DisplayName>
+			<DisplayName>Deterioration</DisplayName>
 		</Text>
 		<Text Name="VisceralRupture">
-			<DisplayName>Hancur</DisplayName>
+			<DisplayName>Shattered</DisplayName>
 		</Text>
 		<Text Name="VisceralCut">
-			<DisplayName>Memotong</DisplayName>
+			<DisplayName>Cut</DisplayName>
 		</Text>
 		<Text Name="Destroy">
-			<DisplayName>Pengrusakan</DisplayName>
+			<DisplayName>Destruction</DisplayName>
 		</Text>
 		<Text Name="Wound">
-			<DisplayName>Luka</DisplayName>
+			<DisplayName>Wound</DisplayName>
 		</Text>
 		<Text Name="FrostbiteInside">
-			<DisplayName>Radang dingin</DisplayName>
+			<DisplayName>Frostbite</DisplayName>
 		</Text>
 		<Text Name="SnakeVenom">
-			<DisplayName>Gigitan Ular Berbisa</DisplayName>
+			<DisplayName>Venomous Snake Bite</DisplayName>
 		</Text>
 		<Text Name="DiseaseBreath">
-			<DisplayName>Nafas Wabah</DisplayName>
+			<DisplayName>Plague's Breath</DisplayName>
 		</Text>
 		<Text Name="HolyJudgement">
-			<DisplayName>Invasi Qi</DisplayName>
+			<DisplayName>Invasion of Qi</DisplayName>
 		</Text>
 		<Text Name="FirebiteInside">
-			<DisplayName>Pitam panas</DisplayName>
+			<DisplayName>Heatstroke</DisplayName>
 		</Text>
 		<Text Name="FoodDamage">
-			<DisplayName>Kelaparan</DisplayName>
+			<DisplayName>Starving</DisplayName>
 		</Text>
 		<Text Name="WaterDamage">
-			<DisplayName>Haus</DisplayName>
+			<DisplayName>Thirsty</DisplayName>
 		</Text>
 		<Text Name="GuanyinDamage">
-			<DisplayName>Makan Kotoran</DisplayName>
+			<DisplayName>Dirt Eating</DisplayName>
 		</Text>
 		<Text Name="AbdominalDistention">
-			<DisplayName>Kembung</DisplayName>
+			<DisplayName>Bloating</DisplayName>
 		</Text>
 		<Text Name="AbdominalPain">
-			<DisplayName>Sakit Perut</DisplayName>
+			<DisplayName>Abdominal Pain</DisplayName>
 		</Text>
 		<Text Name="SysTooTired">
-			<DisplayName>Lelah</DisplayName>
+			<DisplayName>Exhausted</DisplayName>
 		</Text>
 		<Text Name="DevilBlood_LianHun">
-			<DisplayName>Sakitnya Kemurnian</DisplayName>
+			<DisplayName>Pain of Refinement</DisplayName>
 		</Text>
 		<Text Name="Anaesthesia">
-			<DisplayName>Anestesi</DisplayName>
+			<DisplayName>Anesthesia</DisplayName>
 		</Text>
 		<Text Name="TEST_FULL">
-			<DisplayName>Pengujian Kerusakan</DisplayName>
+			<DisplayName>Damage Testing</DisplayName>
 		</Text>
 		<Text Name="Puppet_Abrasion">
-			<DisplayName>Kelelahan</DisplayName>
+			<DisplayName>Fatigue</DisplayName>
 		</Text>
 		<Text Name="SYS_LOST">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="BloodFeed">
-			<DisplayName>Esensi Darah</DisplayName>
+			<DisplayName>Blood Essence</DisplayName>
 		</Text>
 		<Text Name="LsBiteLighty">
-			<DisplayName>Gigitan Ringan</DisplayName>
+			<DisplayName>Light Bite</DisplayName>
 		</Text>
 		<Text Name="LsBite">
-			<DisplayName>Gigitan Berat</DisplayName>
+			<DisplayName>Heavy Bite</DisplayName>
 		</Text>
 		<Text Name="Pollinosis">
 			<DisplayName>Pollinosis</DisplayName>
