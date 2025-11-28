@@ -1,7 +1,7 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="TESTALL">
-			<DisplayName>Kelahiran Orang Bijak</DisplayName>
+			<DisplayName>Birth of Sages</DisplayName>
 			<Desc>Sejak awal Gelombang Seribu Tahun, Penggarap Kuno telah bermunculan di mana-mana. Kumpulkan informasi sebanyak mungkin, sudah ada banyak orang bijak yang lahir di dunia ini.</Desc>
 			<Selections.0.Display>Kelahiran Orang Bijak</Selections.0.Display>
 		</Text>
@@ -45,36 +45,36 @@
 			<DamageCache.36.DescTags>Kerusakan Bumi</DamageCache.36.DescTags>
 		</Text>
 		<Text Name="Free_Base">
-			<DisplayName>Berjalan-jalan</DisplayName>
-			<Desc>[NAME] menemukan tempat dengan pemandangan yang bagus [ITS] artefak itu pergi dan pergi untuk melihat pemandangan.</Desc>
+			<DisplayName>Wander</DisplayName>
+			<Desc>[NAME] menemukan tempat dengan pemandangan yang bagus, menyimpan artefak [ITS] dan pergi untuk melihat pemandangan tersebut.</Desc>
 		</Text>
 		<Text Name="Free_1">
-			<DisplayName>Minum Teh</DisplayName>
+			<DisplayName>Drink Tea</DisplayName>
 			<Desc>[NAME] melewati sebuah kota kecil, merasa sedikit lelah, dan berpenampilan seperti orang biasa, dan mampir untuk beristirahat di kedai teh setempat.</Desc>
 		</Text>
 		<Text Name="Free_2">
-			<DisplayName>Istirahat</DisplayName>
+			<DisplayName>Rest</DisplayName>
 			<Desc>[NAME] merasa sedikit lelah sepanjang perjalanan dan memutuskan untuk tidur siang di bawah pohon.</Desc>
 		</Text>
 		<Text Name="Join_Base">
-			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
-			<Desc>[NAME] bertemu dengan beberapa rakyat jelata yang telah berkomitmen pada Tao dan memberitahukan lokasinya kepada rakyat jelata [ITS] Sekolah lalu melanjutkan perjalanan.</Desc>
+			<DisplayName>Attune Immortal Destiny</DisplayName>
+			<Desc>[NAME] bertemu dengan beberapa rakyat jelata yang telah berkomitmen pada Tao dan memberi tahu rakyat jelata lokasi Sekolah [ITS] dan kemudian melanjutkan perjalanan.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
-			<DisplayName>Menculik manusia</DisplayName>
+			<DisplayName>Kidnap mortals</DisplayName>
 			<Desc>[NAME] melakukan keajaiban dan kemudian menculik beberapa manusia.</Desc>
 		</Text>
 		<Text Name="Join_1">
-			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
+			<DisplayName>Attune Immortal Destiny</DisplayName>
 			<Desc>[NAME] menemukan individu muda yang sangat berbakat dan mengungkapkan keajaiban kepada mereka dalam mimpi mereka, memberikan Takdir Abadi kepada rakyat jelata ini. Jika murid ini memutuskan untuk mencari umur panjang dengan mengikuti Tao, mereka mungkin akan tiba di gerbang Ordo dalam satu atau dua hari.</Desc>
 		</Text>
 		<Text Name="Join_2">
-			<DisplayName>Selaraskan Takdir Abadi</DisplayName>
-			<Desc>[NAME] menemukan balas dendam setiap bulan biru. Saat melihat seseorang yang sedang diburu dan menyadari bahwa nasibnya sepertinya terikat pada Sekolah, [NAME] mengucapkan mantra untuk menyelamatkan mereka dan mengarahkan mereka ke Sekolah.</Desc>
+			<DisplayName>Attune Immortal Destiny</DisplayName>
+			<Desc>[NAME] menemukan balas dendam setiap bulan biru. Setelah melihat seseorang yang sedang diburu dan menyadari bahwa nasibnya sepertinya terikat pada Sekolah, [NAME] mengucapkan mantra untuk menyelamatkan mereka dan mengarahkan mereka ke Sekolah.</Desc>
 		</Text>
 		<Text Name="Visit_Base">
-			<DisplayName>Pertemuan Kesempatan</DisplayName>
-			<Desc>[NAME] menemukan sekelompok [SCHOOL] murid-murid yang datang untuk memberi salam [ENHIM] saat berada di jalan.</Desc>
+			<DisplayName>Chance Encounter</DisplayName>
+			<Desc>[NAME] bertemu dengan sekelompok murid [SCHOOL] yang datang untuk menyambut [ENHIM] saat berada di jalan.</Desc>
 			<Selections.0.Display>Melanjutkan</Selections.0.Display>
 			<Selections.1.Display>Obrolan Ramah</Selections.1.Display>
 			<Selections.2.Display>Obrolan Kecil</Selections.2.Display>
@@ -91,8 +91,8 @@
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_1">
-			<DisplayName>Pertemuan Kesempatan</DisplayName>
-			<Desc>[NAME] terjadi pada seorang penatua [SCHOOL] sambil berjalan di jalan.</Desc>
+			<DisplayName>Chance Encounter</DisplayName>
+			<Desc>[NAME] terjadi pada sesepuh [SCHOOL] saat berjalan di jalan.</Desc>
 			<Selections.0.Display>Melanjutkan</Selections.0.Display>
 			<Selections.1.Display>Mengunjungi</Selections.1.Display>
 			<Selections.2.Display>Obrolan Kecil</Selections.2.Display>
@@ -113,7 +113,7 @@
 			<Selections.10.Tip>Golden Core</Selections.10.Tip>
 		</Text>
 		<Text Name="Visit_2">
-			<DisplayName>Kunjungi Sekolah Gunung</DisplayName>
+			<DisplayName>Visit the mountain School</DisplayName>
 			<Desc>[NAME] sedang bergegas ketika menyadari bahwa sekolah pegunungan [SCHOOL] berada di dekatnya.</Desc>
 			<Selections.0.Display>Memasuki</Selections.0.Display>
 			<Selections.1.Display>Kunjungi Pemimpin Sekte</Selections.1.Display>
@@ -131,15 +131,15 @@
 			<Selections.11.Display>Mengabaikan</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
-			<DisplayName>Alam Fana</DisplayName>
-			<Desc>[NAME] melewati sebuah kota kecil, memiliki perasaan duniawi sehingga memutuskan untuk berpenampilan seperti orang biasa dan menghilang ke dalam kota.</Desc>
+			<DisplayName>The Mortal Realm</DisplayName>
+			<Desc>[NAME] melewati sebuah kota kecil, mengambil sentimen duniawi dan memutuskan untuk mengambil penampilan sebagai orang biasa dan menghilang ke dalam kota.</Desc>
 			<Selections.0.Display>Nikmati Alam Fana</Selections.0.Display>
 			<Selections.1.Display>Lemparkan Alam Fana ke dalam kekacauan</Selections.1.Display>
 			<Selections.2.Display>Meninggalkan</Selections.2.Display>
 		</Text>
 		<Text Name="Story_1">
-			<DisplayName>Alam Fana</DisplayName>
-			<Desc>[NAME] memperhatikan ada seorang wanita tua yang sedang memoles batang besi di tepi sungai.</Desc>
+			<DisplayName>The Mortal Realm</DisplayName>
+			<Desc>[NAME] memperhatikan ada seorang wanita tua sedang memoles batang besi di tepi sungai.</Desc>
 			<Selections.0.Display>Bertanya (Niat Baik)</Selections.0.Display>
 			<Selections.1.Display>Anda memperoleh pemahaman.</Selections.1.Display>
 			<Selections.2.Display>Menanyakan (Niat Jahat)</Selections.2.Display>
@@ -148,21 +148,21 @@
 			<Selections.5.Display>Dia lagi.</Selections.5.Display>
 		</Text>
 		<Text Name="Story_2">
-			<DisplayName>Alam Fana</DisplayName>
+			<DisplayName>The Mortal Realm</DisplayName>
 			<Desc>[NAME] sepertinya ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini. Diatasi dengan rasa kagum, [IT] duduk di sana dan tidak tahu apakah mungkin mendapatkan pencerahan.</Desc>
 			<Selections.0.Display>Inspirasi Mendalam</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Menyerap Qi</Selections.1.Display>
 		</Text>
 		<Text Name="Story_3">
-			<DisplayName>Alam Fana</DisplayName>
-			<Desc>[NAME] melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain. [NAME] sangat bersemangat dan penasaran karena tampaknya pertarungan antara kedua binatang ini menyembunyikan suatu misteri.</Desc>
+			<DisplayName>The Mortal Realm</DisplayName>
+			<Desc>[NAME] melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain. [NAME] sangat bersemangat dan penasaran karena sepertinya pertarungan antara kedua monster ini menyembunyikan suatu misteri.</Desc>
 			<Selections.0.Display>Tirulah binatang-binatang aneh itu</Selections.0.Display>
 			<Selections.0.Tip>Perception</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="GoodFight_Base">
-			<DisplayName>Wabah mendatangkan malapetaka</DisplayName>
+			<DisplayName>Plagues wreak havoc</DisplayName>
 			<Desc>[NAME] melewati sebuah kota dan menemukan bahwa wabah penyakit mendatangkan malapetaka di tempat ini. Di pintu masuk kota nampaknya ada beberapa petani yang membantu warga kota untuk mengendalikan wabah. Namun situasinya semakin memburuk, sepertinya mereka tidak akan mampu mengendalikannya.</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
 			<Selections.1.Display>Membantu dengan tidak tulus</Selections.1.Display>
@@ -172,8 +172,8 @@
 			<Selections.3.Display>Mengabaikan</Selections.3.Display>
 		</Text>
 		<Text Name="GoodFight_1">
-			<DisplayName>Pertempuran antara Keadilan dan Kejahatan</DisplayName>
-			<Desc>[NAME] melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang sedang berkelahi.</Desc>
+			<DisplayName>Battle between Justice and Evil</DisplayName>
+			<Desc>[NAME] melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang yang berkelahi.</Desc>
 			<Selections.0.Display>Serang Murid Sekte Jahat</Selections.0.Display>
 			<Selections.0.Tip>core shaping</Selections.0.Tip>
 			<Selections.1.Display>Serang Murid Sekte Jahat</Selections.1.Display>
@@ -185,7 +185,7 @@
 			<Selections.4.Display>Mengabaikan</Selections.4.Display>
 		</Text>
 		<Text Name="BadFight_Base">
-			<DisplayName>Array Jahat Memurnikan Jiwa</DisplayName>
+			<DisplayName>Evil Array Refines the Soul</DisplayName>
 			<Desc>[NAME] melewati sebuah kota dan menemukan bahwa kebencian berlimpah di tempat ini. Sepertinya seseorang sedang mempraktikkan ilmu hitam.</Desc>
 			<Selections.0.Display>Membantu</Selections.0.Display>
 			<Selections.1.Display>Membantu dengan tidak tulus</Selections.1.Display>
@@ -195,8 +195,8 @@
 			<Selections.3.Display>Mengabaikan</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
-			<DisplayName>Pertempuran antara Keadilan dan Kejahatan</DisplayName>
-			<Desc>[NAME] melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang sedang berkelahi.</Desc>
+			<DisplayName>Battle between Justice and Evil</DisplayName>
+			<Desc>[NAME] melihat kilatan cahaya seperti pedang di kejauhan, nampaknya ada orang yang berkelahi.</Desc>
 			<Selections.0.Display>Serang Murid Sekte Jahat</Selections.0.Display>
 			<Selections.0.Tip>core shaping</Selections.0.Tip>
 			<Selections.1.Display>Serang Murid Sekte Jahat</Selections.1.Display>
@@ -208,28 +208,28 @@
 			<Selections.4.Display>Mengabaikan</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
-			<DisplayName>Cari Relik</DisplayName>
+			<DisplayName>Search for Relics</DisplayName>
 			<Desc>[NAME] secara tidak sengaja menemukan kediaman tersembunyi seorang penggarap...sepertinya telah ditinggalkan beberapa waktu yang lalu.</Desc>
 			<Selections.0.Display>Lihatlah</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
-			<DisplayName>Pertemuan Kolam Dalam</DisplayName>
-			<Desc>[NAME] bergegas selama berhari-hari, dan meskipun lelah, baru setelah ia menemukan genangan air yang dalam di senja hari, ia memutuskan untuk beristirahat. Pada malam hari, [NAME] terkejut saat menemukan ada cahaya yang sepertinya berasal dari air.</Desc>
+			<DisplayName>Deep Pool Encounter</DisplayName>
+			<Desc>[NAME] bergegas selama berhari-hari, dan meskipun lelah, baru setelah ia menemukan genangan air yang dalam di senja hari, ia memutuskan untuk beristirahat. Pada malam hari, [NAME] terkejut saat menemukan cahaya sepertinya berasal dari air.</Desc>
 			<Selections.0.Display>Lihatlah</Selections.0.Display>
 			<Selections.0.Tip>Enter Practice State</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Base">
-			<DisplayName>Kumpulkan Sumber Daya</DisplayName>
+			<DisplayName>Collect Resources</DisplayName>
 			<Desc>Saat [NAME] sampai di tempat ini, ternyata disekitarnya banyak sekali yang bisa dikumpulkan.</Desc>
 			<Selections.0.Display>Pengumpulan Sumber Daya</Selections.0.Display>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="City_Base">
-			<DisplayName>Kota</DisplayName>
-			<Desc>__NAMA__ sadar [PLACE] dan menemukan bahwa wilayah tersebut padat penduduknya dan bisnis berkembang pesat.</Desc>
+			<DisplayName>City</DisplayName>
+			<Desc>[NAME] datang ke [PLACE] dan menemukan bahwa tempat itu padat penduduk dan bisnis sedang berkembang pesat.</Desc>
 			<Selections.0.Display>Cari Murid</Selections.0.Display>
 			<Selections.0.Tip>Luck and Charisma</Selections.0.Tip>
 			<Selections.1.Display>Rob Rakyat jelata</Selections.1.Display>
@@ -238,8 +238,8 @@
 			<Selections.4.Display>Berangkat</Selections.4.Display>
 		</Text>
 		<Text Name="Business_Base">
-			<DisplayName>Bahan Pembelian</DisplayName>
-			<Desc>[NAME] menemukan bahwa tempat ini memiliki pasar yang berkembang dengan harga yang rendah sehingga memutuskan untuk membeli barang sebelum kembali.</Desc>
+			<DisplayName>Purchase Materials</DisplayName>
+			<Desc>[NAME] menemukan bahwa tempat ini memiliki pasar yang berkembang dengan harga rendah sehingga memutuskan untuk mengambil barang sebelum kembali.</Desc>
 			<Selections.0.Display>Beli Makanan</Selections.0.Display>
 			<Selections.1.Display>Beli Marmer</Selections.1.Display>
 			<Selections.2.Display>Beli Kayu</Selections.2.Display>
@@ -247,26 +247,26 @@
 			<Selections.4.Display>Beli Kapas</Selections.4.Display>
 		</Text>
 		<Text Name="Highfind_Base">
-			<DisplayName>Kumpulkan Harta Karun</DisplayName>
-			<Desc>[NAME] mendengar bahwa ada beberapa barang yang diproduksi [PLACE] yang berguna untuk Latihan seseorang.</Desc>
+			<DisplayName>Gather Treasure</DisplayName>
+			<Desc>[NAME] mendengar bahwa ada beberapa item yang diproduksi di [PLACE] yang berguna untuk Latihan seseorang.</Desc>
 			<Selections.0.Display>Mencari</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
-			<DisplayName>Carilah Petunjuk</DisplayName>
-			<Desc>[NAME] lewat [PLACE] saat bepergian dan menemukan bahwa ada banyak sekali orang yang mendiskusikan sesuatu.</Desc>
+			<DisplayName>Look for Clues</DisplayName>
+			<Desc>[NAME] melewati [PLACE] saat bepergian dan menemukan bahwa ada banyak sekali orang yang mendiskusikan sesuatu.</Desc>
 			<Selections.0.Display>Bertanya-tanya</Selections.0.Display>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
-			<DisplayName>Cari Lokasi</DisplayName>
-			<Desc>[NAME] mendengar bahwa ada beberapa tempat yang sangat menarik di dekatnya [PLACE] dan memutuskan untuk pergi bertamasya.</Desc>
+			<DisplayName>Search for Locations</DisplayName>
+			<Desc>[NAME] mendengar bahwa ada beberapa tempat yang sangat menarik di dekat [PLACE] sehingga memutuskan untuk bertamasya.</Desc>
 			<Selections.0.Display>Cari Tempat Terpencil</Selections.0.Display>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Cold">
-			<DisplayName>Pertemuan Kebetulan di Padang Salju</DisplayName>
+			<DisplayName>Fortuitous Encounter on the Snowfield</DisplayName>
 			<Desc>[NAME] sepertinya ditakdirkan untuk menemukan tempat indah yang dipenuhi keindahan alam ini. Diatasi dengan rasa kagum, [IT] duduk di sana dan tidak tahu apakah mungkin mendapatkan pencerahan.</Desc>
 			<Selections.0.Display>Inspirasi Mendalam</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
@@ -274,45 +274,45 @@
 			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Cold2">
-			<DisplayName>Pertemuan Kebetulan di Padang Salju</DisplayName>
-			<Desc>[NAME] melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain. [NAME] sangat bersemangat dan penasaran karena tampaknya pertarungan antara kedua binatang ini menyembunyikan suatu misteri.</Desc>
+			<DisplayName>Fortuitous Encounter on the Snowfield</DisplayName>
+			<Desc>[NAME] melihat dua binatang aneh bertarung di udara dari waktu ke waktu. Kedua binatang itu tampaknya melakukan prestasi yang tidak wajar, seolah-olah itu adalah pertarungan antara binatang dari dunia lain. [NAME] sangat bersemangat dan penasaran karena sepertinya pertarungan antara kedua monster ini menyembunyikan suatu misteri.</Desc>
 			<Selections.0.Display>Tirulah binatang-binatang aneh itu</Selections.0.Display>
 			<Selections.0.Tip>Perception</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Secret_Cold_Base">
-			<DisplayName>Carilah Petunjuk</DisplayName>
-			<Desc>[NAME] bepergian ke [PLACE] Dan [IT] mendengar bahwa ada rumor menarik yang tersebar di sini dan mencoba mencari tahu apa yang bisa ditemukan.</Desc>
+			<DisplayName>Look for Clues</DisplayName>
+			<Desc>[NAME] melakukan perjalanan ke [PLACE] dan [IT] mendengar bahwa ada banyak rumor menarik yang tersebar di sini dan mencoba mencari tahu apa yang bisa ditemukan.</Desc>
 			<Selections.0.Display>Bertanya-tanya</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
-			<DisplayName>Cari Lokasi</DisplayName>
-			<Desc>[NAME] mendengar bahwa ada beberapa tempat yang sangat menarik di dekatnya [PLACE] dan memutuskan untuk pergi bertamasya.</Desc>
+			<DisplayName>Search for Locations</DisplayName>
+			<Desc>[NAME] mendengar bahwa ada beberapa tempat yang sangat menarik di dekat [PLACE] sehingga memutuskan untuk bertamasya.</Desc>
 			<Selections.0.Display>Cari Tempat Terpencil</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Cold_Base">
-			<DisplayName>Kumpulkan Sumber Daya</DisplayName>
-			<Desc>Saat [NAME] sedang bepergian, ternyata ada banyak hal di sekitarnya [PLACE] itu bisa berguna.</Desc>
+			<DisplayName>Collect Resources</DisplayName>
+			<Desc>Saat [NAME] sedang bepergian, ternyata ada banyak hal di sekitar [PLACE] yang bisa berguna.</Desc>
 			<Selections.0.Display>Kumpulkan Makanan Khas Lokal</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
-			<DisplayName>Kumpulkan Harta Karun</DisplayName>
-			<Desc>[NAME] mendengar bahwa ada beberapa barang yang diproduksi [PLACE] yang berguna untuk Latihan seseorang.</Desc>
+			<DisplayName>Gather Treasure</DisplayName>
+			<Desc>[NAME] mendengar bahwa ada beberapa item yang diproduksi di [PLACE] yang berguna untuk Latihan seseorang.</Desc>
 			<Selections.0.Display>Mencari</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Mengabaikan</Selections.1.Display>
 			<Selections.2.Display>Ini terlalu dingin.</Selections.2.Display>
 		</Text>
 		<Text Name="Visit_Old_Base">
-			<DisplayName>Pertemuan Kesempatan</DisplayName>
-			<Desc>[NAME] menemukan sekelompok [SCHOOL] murid-murid yang datang untuk memberi salam [ENHIM] saat berada di jalan.</Desc>
+			<DisplayName>Chance Encounter</DisplayName>
+			<Desc>[NAME] bertemu dengan sekelompok murid [SCHOOL] yang datang untuk menyambut [ENHIM] saat berada di jalan.</Desc>
 			<Selections.0.Display>Obrolan Ramah</Selections.0.Display>
 			<Selections.1.Display>Obrolan Kecil</Selections.1.Display>
 			<Selections.2.Display>Mengejek</Selections.2.Display>
@@ -328,8 +328,8 @@
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
-			<DisplayName>Pertemuan Kesempatan</DisplayName>
-			<Desc>[NAME] terjadi pada seorang penatua [SCHOOL] sambil berjalan di jalan.</Desc>
+			<DisplayName>Chance Encounter</DisplayName>
+			<Desc>[NAME] terjadi pada sesepuh [SCHOOL] saat berjalan di jalan.</Desc>
 			<Selections.0.Display>Mengunjungi</Selections.0.Display>
 			<Selections.1.Display>Obrolan Kecil</Selections.1.Display>
 			<Selections.2.Display>Serangan Menyelinap</Selections.2.Display>
@@ -349,7 +349,7 @@
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
-			<DisplayName>Kunjungi Sekolah Gunung</DisplayName>
+			<DisplayName>Visit the mountain School</DisplayName>
 			<Desc>[NAME] sedang bergegas ketika menyadari bahwa sekolah pegunungan [SCHOOL] berada di dekatnya.</Desc>
 			<Selections.0.Display>Kunjungi Pemimpin Sekte</Selections.0.Display>
 			<Selections.1.Display>Mengunjungi</Selections.1.Display>
