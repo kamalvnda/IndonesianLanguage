@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Cattle_1">
-			<Prefix>tulang dada</Prefix>
-			<Suffix>empat wali</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Iblis Banteng Purba. Tempa Guangzhou dengan kekuatan elemen emas, kayu, air, dan api. Hasilnya, tubuh mempunyai kemampuan misterius untuk mencerna sesuatu. Secara ajaib</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan secara signifikan level maksimum dari apa yang dapat dikonsumsi oleh Penggarap Fisik Abadi.\n Meningkatkan secara signifikan tingkat perolehan esensi dari item yang dimakan.\n Meningkatkan secara signifikan jumlah esensi yang diperoleh dari item yang dimakan.\n Sangat meningkatkan bonus konsumsi makanan dari Penggarap Fisik Abadi.\n Sangat meningkatkan tingkat perolehan energi fisik dari Penggarap Fisik Abadi.\n Ini sangat meningkatkan nafsu makan dari Penggarap Fisik Abadi.</Levels.0.Desc>
+			<Prefix>Four Statues</Prefix>
+			<Suffix>Sternum</Suffix>
+			<Desc>Tubuh rahasia banteng Yaoguai yang membentuk kembali perutnya dengan kekuatan Logam, Kayu, Air dan Api untuk meningkatkan saluran pencernaan secara signifikan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan tingkat maksimum item yang akan dimakan oleh penggarap fisik.\n Secara drastis meningkatkan tingkat perolehan esensi dari melahap item.\n Secara drastis meningkatkan jumlah esensi yang diperoleh dari melahap item.\n Secara drastis meningkatkan bonus konsumsi makanan penggarap fisik.\n Secara drastis meningkatkan tingkat perolehan stamina penggarap fisik.\n Meningkatkan nafsu makan penggarap fisik dalam jumlah besar.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Cattle_2">
-			<Prefix>Dia</Prefix>
-			<Suffix>Menerobos bintang-bintang</Suffix>
-			<Desc>Fisik Misterius yang diwarisi dari garis keturunan Klan Iblis Banteng Purba. Fisik Misterius Tertinggi Ia akan memiliki kekuatan untuk menarik bintang dan menghancurkan segala sesuatu yang dilewatinya.</Desc>
-			<Levels.0.Title>Lantai pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan basis kekuatan Fisik Misterius secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lantai dua</Levels.1.Title>
-			<Levels.1.Desc>Sangat meningkatkan basis kekuatan Fisik Misterius.</Levels.1.Desc>
+			<Prefix>Starstruck</Prefix>
+			<Suffix>Horn</Suffix>
+			<Desc>Tubuh rahasia banteng Yaoguai digunakan sebagai jurus pamungkas. Di lapisan paling atas, ia memiliki kekuatan untuk menarik bintang dan menghancurkan segala sesuatu yang menghalanginya.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>
