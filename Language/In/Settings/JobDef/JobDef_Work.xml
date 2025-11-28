@@ -1,91 +1,91 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobMine">
-			<DisplayName>Menambang</DisplayName>
+			<DisplayName>Mine</DisplayName>
 		</Text>
 		<Text Name="JobCarry">
-			<DisplayName>Mengangkut</DisplayName>
+			<DisplayName>Haul</DisplayName>
 		</Text>
 		<Text Name="JobBuild">
-			<DisplayName>Membangun</DisplayName>
+			<DisplayName>Build</DisplayName>
 		</Text>
 		<Text Name="JobFixBuilding">
-			<DisplayName>Memperbaiki</DisplayName>
+			<DisplayName>Repair</DisplayName>
 		</Text>
 		<Text Name="JobMoveBuilding">
-			<DisplayName>Pindahkan Gedung</DisplayName>
+			<DisplayName>Move Building</DisplayName>
 		</Text>
 		<Text Name="JobSetupBuilding">
-			<DisplayName>Membangun Gedung</DisplayName>
+			<DisplayName>Erect Building</DisplayName>
 		</Text>
 		<Text Name="JobPlant">
-			<DisplayName>Penanaman</DisplayName>
+			<DisplayName>Planting</DisplayName>
 		</Text>
 		<Text Name="JobOutFire">
-			<DisplayName>Memadamkan Api</DisplayName>
+			<DisplayName>Extinguish Fire</DisplayName>
 		</Text>
 		<Text Name="JobHarvest">
-			<DisplayName>Memanen</DisplayName>
+			<DisplayName>Harvest</DisplayName>
 		</Text>
 		<Text Name="JobCutoff">
-			<DisplayName>Menghapus</DisplayName>
+			<DisplayName>Remove</DisplayName>
 		</Text>
 		<Text Name="JobCutoffTree">
-			<DisplayName>Mencacah</DisplayName>
+			<DisplayName>Chop</DisplayName>
 		</Text>
 		<Text Name="JobSeachItem">
-			<DisplayName>Mencari</DisplayName>
+			<DisplayName>Search</DisplayName>
 		</Text>
 		<Text Name="JobSeachNpc">
-			<DisplayName>Mencari</DisplayName>
+			<DisplayName>Search</DisplayName>
 		</Text>
 		<Text Name="JobCarryOut">
-			<DisplayName>Pindah</DisplayName>
+			<DisplayName>Move Away</DisplayName>
 		</Text>
 		<Text Name="JobDismantle">
-			<DisplayName>Menghancurkan</DisplayName>
+			<DisplayName>Demolish</DisplayName>
 		</Text>
 		<Text Name="JobMakeItem">
-			<DisplayName>Membuat</DisplayName>
+			<DisplayName>Create</DisplayName>
 		</Text>
 		<Text Name="JobRemoveFloor">
-			<DisplayName>Hapus Papan Lantai</DisplayName>
+			<DisplayName>Remove Floorboards</DisplayName>
 		</Text>
 		<Text Name="JobTreatHim">
-			<DisplayName>Menyembuhkan</DisplayName>
+			<DisplayName>Heal</DisplayName>
 		</Text>
 		<Text Name="JobCarryToBed">
-			<DisplayName>Bawa ke Tempat Tidur</DisplayName>
+			<DisplayName>Carry to Bed</DisplayName>
 		</Text>
 		<Text Name="JobFeedHim">
-			<DisplayName>Hati-hati</DisplayName>
+			<DisplayName>Take Care</DisplayName>
 		</Text>
 		<Text Name="JobCarryWater">
-			<DisplayName>Ambil Air</DisplayName>
+			<DisplayName>Fetch Water</DisplayName>
 		</Text>
 		<Text Name="JobExplore">
-			<DisplayName>Mengeksplorasi</DisplayName>
+			<DisplayName>Explore</DisplayName>
 		</Text>
 		<Text Name="JobBuryHim">
-			<DisplayName>Mengubur</DisplayName>
+			<DisplayName>Bury</DisplayName>
 		</Text>
 		<Text Name="JobHunting">
-			<DisplayName>Berburu</DisplayName>
+			<DisplayName>Hunt</DisplayName>
 		</Text>
 		<Text Name="JobSlaughter">
-			<DisplayName>Menjagal</DisplayName>
+			<DisplayName>Butcher</DisplayName>
 		</Text>
 		<Text Name="JobKill">
-			<DisplayName>Membunuh</DisplayName>
+			<DisplayName>Kill</DisplayName>
 		</Text>
 		<Text Name="JobMoveNpc">
-			<DisplayName>Mengangkut</DisplayName>
+			<DisplayName>Haul</DisplayName>
 		</Text>
 		<Text Name="JobCleanFloor">
-			<DisplayName>Membersihkan</DisplayName>
+			<DisplayName>Clean</DisplayName>
 		</Text>
 		<Text Name="JobSacrifice">
-			<DisplayName>Mempersembahkan Kurban</DisplayName>
+			<DisplayName>Sacrifice Offering</DisplayName>
 		</Text>
 	</List>
 </Texts>
