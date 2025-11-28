@@ -1,37 +1,37 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_School_1">
-			<DisplayName>Pilar Kerai</DisplayName>
+			<DisplayName>Sunshade Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_2">
-			<DisplayName>Pilar Kunlun</DisplayName>
+			<DisplayName>Kunlun Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_3">
-			<DisplayName>Pilar Skydome</DisplayName>
+			<DisplayName>Skydome Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_4">
-			<DisplayName>Pilar Awan Ungu</DisplayName>
+			<DisplayName>Purple Cloud Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_5">
-			<DisplayName>Pilar Persatuan Sejati</DisplayName>
+			<DisplayName>True Unity Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_6">
-			<DisplayName>Pilar Caerulea</DisplayName>
+			<DisplayName>Caerulea Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_7">
-			<DisplayName>Pilar Genap</DisplayName>
+			<DisplayName>Evenfall Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_8">
-			<DisplayName>Pilar Seratus Serangga</DisplayName>
+			<DisplayName>Hundred Insects Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_9">
-			<DisplayName>Pilar Kehancuran</DisplayName>
+			<DisplayName>Doom Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_10">
-			<DisplayName>Pilar Tujuh Pembantaian</DisplayName>
+			<DisplayName>Seven Slaughters Pillar</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_11">
-			<DisplayName>Pilar Reuni</DisplayName>
+			<DisplayName>Reunion Pillar</DisplayName>
 		</Text>
 	</List>
 </Texts>
