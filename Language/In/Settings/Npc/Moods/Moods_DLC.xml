@@ -1,27 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mood_BigFish">
-			<DisplayName>Menangkap ikan besar.</DisplayName>
+			<DisplayName>Caught a big fish.</DisplayName>
 			<Desc>Baru saja menangkap ikan besar dan rasanya enak.</Desc>
 			<StoryDesc>Menangkap ikan besar dan rasanya sangat menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="Mood_BigBigFish">
-			<DisplayName>Menangkap ikan raksasa.</DisplayName>
+			<DisplayName>Caught a giant fish.</DisplayName>
 			<Desc>Baru saja menangkap ikan raksasa dan rasanya enak.</Desc>
 			<StoryDesc>Menangkap ikan raksasa dan rasanya sangat menyenangkan</StoryDesc>
 		</Text>
 		<Text Name="Mood_BeFished">
-			<DisplayName>Tertangkap.</DisplayName>
+			<DisplayName>Caught.</DisplayName>
 			<Desc>Tertangkap setelah mengambil umpan.</Desc>
 			<StoryDesc>Merasa sedikit marah karena tertangkap</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishSmell">
-			<DisplayName>Bau</DisplayName>
+			<DisplayName>Stink</DisplayName>
 			<Desc>Makan Demon Flatfish, bau</Desc>
 			<StoryDesc>makan Demon Flatfish, bau</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishGood">
-			<DisplayName>Lezat</DisplayName>
+			<DisplayName>Delicious</DisplayName>
 			<Desc>Makan Ikan Cahaya Bulan, rasanya enak</Desc>
 			<StoryDesc>makan Ikan Cahaya Bulan, rasanya enak</StoryDesc>
 		</Text>
