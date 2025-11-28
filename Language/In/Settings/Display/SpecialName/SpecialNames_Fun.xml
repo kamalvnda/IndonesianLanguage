@@ -2,53 +2,53 @@
   <List>
 	<SpecialItem Name="Item_FunPainting">
 		<None>
-			<li Name="Gong Le Tu" Desc=""/>
-			<li Name="Peta perjalanan Xishan" Desc=""/>
-			<li Name="Gambar awal musim semi" Desc=""/>
-			<li Name="Gambar burung duri ayam hutan gunung" Desc=""/>
-			<li Name="gambaran kebahagiaan ganda" Desc=""/>
-			<li Name="Wanhe Songfeng" Desc=""/>
-			<li Name="Diagram pinus ganda" Desc=""/>
+			<li Name="A Palace Concert" Desc="" />
+			<li Name="Travelers Among Mountains and Streams" Desc="" />
+			<li Name="Early Spring" Desc="" />
+			<li Name="Blue Magpie and Thorny Shrubs" Desc="" />
+			<li Name="Magpies and Hare" Desc="" />
+			<li Name="Wind in Pines Among a Myriad Valleys" Desc="" />
+			<li Name="Twin Pines" Desc="" />
 		</None>	
 	</SpecialItem>
 	
 	<SpecialItem Name="Item_FunMusic">
 		<None>
-			<li Name="Pegunungan dan air mengalir" Desc=""/>
-			<li Name="Guangling San" Desc=""/>
-			<li Name="Tanya Jawab tentang nelayan dan penebang kayu" Desc=""/>
-			<li Name="Hujia delapan belas ketukan" Desc=""/>
-			<li Name="Musim semi dan salju" Desc=""/>
-			<li Name="Pingsha Luoyan" Desc=""/>
-			<li Name="Seruling dan drum saat matahari terbenam" Desc=""/>
-			<li Name="Rumah Belati Terbang" Desc=""/>
-			<li Name="Bulan Musim Gugur di Istana Han" Desc=""/>
-			<li Name="Tiga Gang Bunga Plum" Desc=""/>
+			<li Name="High Mountains and Flowing Water" Desc="" />
+			<li Name="Guangling Melody" Desc="" />
+			<li Name="Dialogue Between a Fisherman and a Woodcutter" Desc="" />
+			<li Name="Eighteen Songs of a Nomad Flute" Desc="" />
+			<li Name="White Snow in a Sunny Spring" Desc="" />
+			<li Name="Wild Geese Descending on the Sandbank" Desc="" />
+			<li Name="Music at Sunset" Desc="" />
+			<li Name="Ambush from All Sides" Desc="" />
+			<li Name="Autumn Moon over the Han Palace" Desc="" />
+			<li Name="Three Varieties of Plum Blossom" Desc="" />
 		</None>	
 	</SpecialItem>
 	
 	<SpecialItem Name="Item_FunChess">
 		<None>
-			<li Name="Spektrum hematemesis" Desc=""/>
-			<li Name="Deng Ai membuka Shu" Desc=""/>
-			<li Name="Zhen Shen Tou" Desc=""/>
-			<li Name="Paviliun Yunqi Chengxia" Desc=""/>
-			<li Name="Dongting Bulan Musim Gugur" Desc=""/>
-			<li Name="Langkah demi langkah" Desc=""/>
-			<li Name="Samsung di awan" Desc=""/>
-			<li Name="Paviliun Harta Karun Seribu Lapisan" Desc=""/>
-			<li Name="Naga putih keluar dari air" Desc=""/>
-			<li Name="Delapan Orang Suci Menangkap Setan" Desc=""/>
-			<li Name="Gambar Umur Panjang" Desc=""/>
-			<li Name="Bagan keabadian" Desc=""/>
-			<li Name="Jin Mingtu" Desc=""/>
-			<li Name="Gambar Berkat Tuhan" Desc=""/>
-			<li Name="Gambar yang sangat jernih" Desc=""/>
-			<li Name="Tianqingtu" Desc=""/>
-			<li Name="Qiong Lintu" Desc=""/>
-			<li Name="Gambar Liquan" Desc=""/>
-			<li Name="Peta kesetiaan" Desc=""/>
-			<li Name="Bertemu dengan Dewa" Desc=""/>
+			<li Name="Heart and Blood" Desc="" />
+			<li Name="Road to Sichuan" Desc="" />
+			<li Name="God's Trophy" Desc="" />
+			<li Name="Silver Lining" Desc="" />
+			<li Name="Autumn Moon over the Quiet Lake" Desc="" />
+			<li Name="Fly to the Moon" Desc="" />
+			<li Name="Stars in the Cloud" Desc="" />
+			<li Name="Skyscraping Pagoda" Desc="" />
+			<li Name="Emerging Dragon" Desc="" />
+			<li Name="Demon Catcher" Desc="" />
+			<li Name="Illustration of Everlasting Longevity" Desc="" />
+			<li Name="Kifu of Immortality" Desc="" />
+			<li Name="Kifu of Golden Glow" Desc="" />
+			<li Name="Kifu of God's Blessing" Desc="" />
+			<li Name="Kifu of Supreme Clarity" Desc="" />
+			<li Name="Kifu of Heavenly Clarity" Desc="" />
+			<li Name="Kifu of Heavenward" Desc="" />
+			<li Name="Kifu of Oasis" Desc="" />
+			<li Name="Kifu of Authenticity" Desc="" />
+			<li Name="Kifu of Immortal Encounter" Desc="" />
 		</None>	
 	</SpecialItem>
 </List>
