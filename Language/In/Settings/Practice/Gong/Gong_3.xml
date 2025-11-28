@@ -4,26 +4,26 @@
 			<DisplayName>Seven-Slaughtering Sword</DisplayName>
 			<Desc>Legenda mengatakan bahwa ini adalah Hukum rahasia dari alam iblis untuk mewujudkan penguasaan pedang. Ia memimpin pengikutnya melewati tujuh negara bagian. Baik permulaan maupun kemajuan dalam budidaya relatif sulit. Seseorang akan menjadi sangat kuat dalam pertempuran dan memiliki niat yang kuat untuk membunuh, yang mengarah pada tiga guntur kesengsaraan yang sangat berbahaya. Ini adalah Hukum yang benar-benar mematikan.</Desc>
 			<SelectDesc>Seseorang akan unggul dalam penguasaan artefak dan menjadi kuat dalam pertempuran, namun harus melalui beberapa Kesengsaraan Surgawi karena semua pembunuhan tersebut. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Jantung Pedang</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Hati Pedang</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Temukan Pedang Tujuh Pembantaian milik sendiri dengan tekad sepenuh hati. Jika terjadi kesalahan, mulai lagi dari awal.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat mengakibatkan cedera.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.1.DisplayName>Aura Pedang</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Aura Pedang</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Bentuk aura pedang untuk membelah gerbang pikiran dengan tekad, menghabiskan energi halus, darah, dan energi kehidupan.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat mengakibatkan cedera.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.2.DisplayName>Pil Pisau</Stages.2.DisplayName>
+			<Stages.0.DisplayName>Heart of Sword</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Heart of Sword</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Temukan Pedang Tujuh Pembantaian milik sendiri dengan tekad sepenuh hati. Jika terjadi kesalahan, mulai lagi dari awal.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Sword Aura</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Sword Aura</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Bentuk aura pedang untuk membelah gerbang pikiran dengan tekad, menghabiskan energi halus, darah, dan energi kehidupan.[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan persepsi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Blade Pill</Stages.2.DisplayName>
 			<Stages.2.Desc>Padatkan aura pedang menjadi inti bilahnya, seperti Inti Emas yang dikombinasikan dengan elemen campuran.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Pil Pisau</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Kehendak Pedang</Stages.3.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Blade Pill</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Sword Will</Stages.3.DisplayName>
 			<Stages.3.Desc>Guntur kesengsaraan turun saat inti pedang mulai terbentuk. Gunakan itu untuk membentuk keinginan pedang.</Stages.3.Desc>
-			<Stages.3.Necks.0.DisplayName>Kehendak Pedang</Stages.3.Necks.0.DisplayName>
-			<Stages.4.DisplayName>Embrio Pedang</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Embrio Pedang</Stages.4.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Sword Will</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Sword Embryo</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Sword Embryo</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>Setelah kesengsaraan surgawi, kembalilah ke bentuk paling murni dan ciptakan embrio pedang dari inti pedang.</Stages.4.Necks.0.Desc>
-			<Stages.5.DisplayName>Jiwa Pedang</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Jiwa Pedang</Stages.5.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Sword Soul</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Sword Soul</Stages.5.Necks.0.DisplayName>
 			<Stages.5.Necks.0.Desc>Gunakan kemauan pedang untuk mencuri Hukum surgawi menuju kehancuran dari kesengsaraan untuk mencapai kondisi pendekar pedang surgawi. Jika berhasil, seseorang akan menghadapi kemarahan dari surga—kesengsaraan surgawi yang paling dahsyat.</Stages.5.Necks.0.Desc>
-			<Stages.6.DisplayName>Roh Pedang</Stages.6.DisplayName>
-			<Stages.6.Necks.0.DisplayName>Roh Pedang</Stages.6.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Sword Spirit</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Sword Spirit</Stages.6.Necks.0.DisplayName>
 			<Stages.6.Necks.0.Desc>Gunakan guntur surgawi untuk menempa jiwa pedang sebagai bukti Yang murni untuk naik menuju keabadian.</Stages.6.Necks.0.Desc>
 		</Text>
 	</List>
