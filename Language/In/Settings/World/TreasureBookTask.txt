@@ -16,8 +16,8 @@ ID	Desc	HelpTitle
 14	Buat busur dari stasiun kerajinan tangan.	Buat busur
 15	Beri pemburu itu busur.	Lengkapi busur
 16	Pergi berburu.	Berburu!
-17	Membuat beliung dari stasiun kerajinan tangan.n	Buat beliung
-18	Berikan penambang itu beliung.	Lengkapi beliung
+17	Membuat pickaxe dari stasiun kerajinan tangan.n	Buat pickaxe
+18	Berikan penambang itu pickaxe.	Lengkapi pickaxe
 19	Posting perintah ranjau untuk mengambil milikku.	Kumpulkan punyaku
 20	Buka panel kerja dan tetapkan prioritas seseorang ke Peon.	Tetapkan prajurit infanteri
 21	Buatlah seorang murid memakan pil pembentuk.	Makan pil pembentuk
