@@ -1,25 +1,25 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="WanJie_DanBase" sParam="Item">
-			<Item.FabaoSuffix>Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_ClothesBase" sParam="Item">
-			<Item.FabaoSuffix>Pakaian, Armor, Jubah, Kemeja</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_TrousersBase" sParam="Item">
-			<Item.FabaoSuffix>Pakaian, Armor, Jubah, Kemeja</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_BowBase" sParam="Item">
-			<Item.FabaoSuffix>Busur</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_KnifeBase" sParam="Item">
-			<Item.FabaoSuffix>Bilah</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Blade</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_LanceBase" sParam="Item">
-			<Item.FabaoSuffix>Tombak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Spear</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_HalbertBase" sParam="Item">
-			<Item.FabaoSuffix>Bunga pala</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Mace</Item.FabaoSuffix>
 		</Text>
 		<Text Name="WanJie_AxeRingBase" sParam="Item">
 			<Item.FabaoSuffix>Chakram</Item.FabaoSuffix>
