@@ -1,20 +1,20 @@
 ID	Desc
 
-1	Penghuni ruangan semuanya haruslah Rakyat jelata.
-2	Penghuni ruangan semuanya harus menjadi Pembentuk.
-3	Penghuni ruangan semuanya harus menjadi Pembentuk Inti.
+1	Penghuni ruangan semuanya haruslah Commoners.
+2	Penghuni ruangan semuanya harus menjadi Shapers.
+3	Penghuni ruangan semuanya harus menjadi Core Shapers.
 4	Penghuni ruangan semuanya harus merupakan Golden Core.
-5	Penghuni ruangan semuanya harus berjiwa Primordial.
-6	Penghuni ruangan semuanya haruslah Demi-Dewa.
-7	Penghuni ruangan semuanya harus menjadi Murid Batin.
-8	Penghuni ruangan semuanya harus menjadi Murid Luar.
-9	Penghuni ruangan semuanya harus menjadi Pengunjung.
+5	Penghuni ruangan semuanya harus Primordial Spirit.
+6	Penghuni ruangan semuanya haruslah Demi-Gods.
+7	Penghuni ruangan semuanya harus menjadi Inner Disciples.
+8	Penghuni ruangan semuanya harus menjadi Outer Disciples.
+9	Penghuni ruangan semuanya harus menjadi Visitors.
 10	Penghuni kamar semuanya harus berusia lebih dari 30 tahun.
 11	Penghuni kamar semuanya harus berusia lebih dari 90 tahun.
 12	Penghuni kamar semuanya harus berusia lebih dari 270 tahun.
 13	Penghuni kamar semuanya harus berusia lebih dari 810 tahun.
 14	Penghuni kamar semuanya harus berusia lebih dari 2.430 tahun.
-15	Penghuni kamar semuanya harus berusia di bawah 30 tahun.
+15	Penghuni kamar semuanya harus berusia kurang dari 30 tahun.
 16	Penghuni kamar semuanya harus berusia kurang dari 90 tahun.
 17	Penghuni kamar semuanya harus berusia kurang dari 270 tahun.
 18	Penghuni kamar semuanya harus berusia kurang dari 810 tahun.
