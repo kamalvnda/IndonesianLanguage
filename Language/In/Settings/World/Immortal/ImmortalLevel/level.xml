@@ -1,31 +1,31 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Level1">
-			<DisplayName>Kesengsaraan I</DisplayName>
+			<DisplayName>Tribulation I</DisplayName>
 		</Text>
 		<Text Name="Level2">
-			<DisplayName>Kesengsaraan II</DisplayName>
+			<DisplayName>Tribulation II</DisplayName>
 		</Text>
 		<Text Name="Level3">
-			<DisplayName>Kesengsaraan III</DisplayName>
+			<DisplayName>Tribulation III</DisplayName>
 		</Text>
 		<Text Name="Level4">
-			<DisplayName>Kesengsaraan IV</DisplayName>
+			<DisplayName>Tribulation IV</DisplayName>
 		</Text>
 		<Text Name="Level5">
-			<DisplayName>Kesengsaraan V</DisplayName>
+			<DisplayName>Tribulation V</DisplayName>
 		</Text>
 		<Text Name="Level6">
-			<DisplayName>Kesengsaraan VI</DisplayName>
+			<DisplayName>Tribulation VI</DisplayName>
 		</Text>
 		<Text Name="Level7">
-			<DisplayName>Kesengsaraan VII</DisplayName>
+			<DisplayName>Tribulation VII</DisplayName>
 		</Text>
 		<Text Name="Level8">
-			<DisplayName>Kesengsaraan VIII</DisplayName>
+			<DisplayName>Tribulation VIII</DisplayName>
 		</Text>
 		<Text Name="Level9">
-			<DisplayName>Kesengsaraan IX</DisplayName>
+			<DisplayName>Tribulation IX</DisplayName>
 		</Text>
 	</List>
 </Texts>
