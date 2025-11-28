@@ -1,162 +1,162 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="zhuxianzhen">
-			<DisplayName>Pelatihan Ragestriker</DisplayName>
+			<DisplayName>Ragestriker Formation</DisplayName>
 			<Description>Sejak dahulu kala, ini adalah formasi dengan kekuatan ofensif terbesar. Saat dikerahkan, itu akan berubah menjadi empat gerbang spanduk, masing-masing dengan pedang tergantung di atasnya, mengelilingi seluruh pusatnya. Setelah diaktifkan dengan roh primordial, keempat pedang akan bergetar, dan formasi segera diisi dengan Pedang Aura. Bahkan makhluk abadi sejati pun akan kesulitan untuk bertahan hidup.</Description>
-			<NodeName.0>Rencana Pemburu Kemarahan</NodeName.0>
-			<NodeName.1>Penyerang Kemarahan</NodeName.1>
-			<NodeName.2>Pembawa Kematian</NodeName.2>
-			<NodeName.3>Kemarahan yang Tak Berujung</NodeName.3>
-			<NodeName.4>Pembawa murka</NodeName.4>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stabilitas</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Keahlian Baru: Ragestriker</SuitEffect.3.Description>
+			<NodeName.0>Ragestriker Plan</NodeName.0>
+			<NodeName.1>Ragestriker</NodeName.1>
+			<NodeName.2>Deathbringer</NodeName.2>
+			<NodeName.3>Endless Fury</NodeName.3>
+			<NodeName.4>Wrathbringer</NodeName.4>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Stability</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>New Skill: Ragestriker</SuitEffect.3.Description>
 		</Text>
 		<Text Name="qixingzhen">
-			<DisplayName>Formasi Penakluk</DisplayName>
+			<DisplayName>Conqueror's Formation</DisplayName>
 			<Description>Sebuah formasi abadi yang dikatakan telah diturunkan dari Prajurit Sempurna Pengusir Kejahatan dari Surga Surgawi Kesembilan. Ia dapat mengarahkan kekuatan tujuh bintang untuk membentuk cahaya ilahi Kesendirian Grand Chariot, kekuatan yang mampu melenyapkan segala kejahatan.</Description>
-			<NodeName.0>Cakar Beruang Megrez</NodeName.0>
-			<NodeName.1>Cakar Dubhe Beruang</NodeName.1>
-			<NodeName.2>Cakar Beruang Merak</NodeName.2>
-			<NodeName.3>Cakar Beruang</NodeName.3>
-			<NodeName.4>Cakar Beruang Alioth</NodeName.4>
-			<NodeName.5>Cakar Mizar Beruang</NodeName.5>
-			<NodeName.6>Cakar Beruang Elkeid</NodeName.6>
-			<SuitEffect.0.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stabilitas Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Keahlian Baru: Pertempuran Kesendirian</SuitEffect.4.Description>
+			<NodeName.0>Ursae Megrez Claw</NodeName.0>
+			<NodeName.1>Ursae Dubhe Claw</NodeName.1>
+			<NodeName.2>Ursae Merak Claw</NodeName.2>
+			<NodeName.3>Ursae Phecda Claw</NodeName.3>
+			<NodeName.4>Ursae Alioth Claw</NodeName.4>
+			<NodeName.5>Ursae Mizar Claw</NodeName.5>
+			<NodeName.6>Ursae Elkeid Claw</NodeName.6>
+			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Operation Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>New Skill: Battle Aloofness</SuitEffect.4.Description>
 		</Text>
 		<Text Name="wufangbumiezhen">
-			<DisplayName>Formasi yang Tidak Dapat Ditembus</DisplayName>
+			<DisplayName>Impregnable Formation</DisplayName>
 			<Description>Sebuah formasi besar berdasarkan pada lima Panji Besar yang telah ada sejak awal mula waktu. Panji utara disebut sebagai Hering Hitam, panji selatan sebagai Api Melonjak, panji tengah sebagai Aprikot Kuning, panji barat sebagai Awan Putih, dan panji timur sebagai Teratai Hijau. Kombinasi Lima Elemen membentuk Domain Keluasan, yang tidak dapat diserbu meskipun hukum alam berubah.</Description>
-			<NodeName.0>Formasi yang Tidak Dapat Ditembus</NodeName.0>
-			<NodeName.1>Spanduk Awan Putih</NodeName.1>
-			<NodeName.2>Spanduk Teratai Hijau</NodeName.2>
-			<NodeName.3>Spanduk Hering Hitam</NodeName.3>
-			<NodeName.4>Spanduk Api yang Melonjak</NodeName.4>
-			<NodeName.5>Spanduk Aprikot Kuning</NodeName.5>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stabilitas Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Keahlian Baru: Domain Luasnya</SuitEffect.3.Description>
+			<NodeName.0>Impregnable Formation</NodeName.0>
+			<NodeName.1>White Cloud Banner</NodeName.1>
+			<NodeName.2>Green Lotus Banner</NodeName.2>
+			<NodeName.3>Black Vulture Banner</NodeName.3>
+			<NodeName.4>Soaring Flame Banner</NodeName.4>
+			<NodeName.5>Yellow Apricot Banner</NodeName.5>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>New Skill: Domain of Vastness</SuitEffect.3.Description>
 		</Text>
 		<Text Name="liuyuzhen">
-			<DisplayName>Formasi Hukum Ilahi</DisplayName>
+			<DisplayName>Divine Law Formation</DisplayName>
 			<Description>Pembentukan seremonial Pengadilan Surgawi. Saat membentuk formasi ini, formasi ini akan membuka tempat tinggal murni enam dewa di Dunia Langit, mengubah Alam Fana menjadi surga, memberikan keharmonisan spiritual bagi manusia.</Description>
-			<NodeName.0>Formasi Kaisar Langit</NodeName.0>
-			<NodeName.1>Formasi Kaisar Polaris</NodeName.1>
-			<NodeName.2>Formasi Kaisar Bintang Utara</NodeName.2>
-			<NodeName.3>Formasi Persatuan Primordial</NodeName.3>
-			<NodeName.4>Formasi Umur Panjang Ilahi</NodeName.4>
-			<NodeName.5>Formasi Kaisar Bumi</NodeName.5>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Keahlian Baru: Domain Ketenangan Surgawi</SuitEffect.1.Description>
+			<NodeName.0>Jade Emperor Formation</NodeName.0>
+			<NodeName.1>Emperor of Polaris Formation</NodeName.1>
+			<NodeName.2>Emperor of North Star Formation</NodeName.2>
+			<NodeName.3>Primordial Unity Formation</NodeName.3>
+			<NodeName.4>Divine Longevity Formation</NodeName.4>
+			<NodeName.5>Emperor of Earth Formation</NodeName.5>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>New Skill: Domain of Heavenly Serenity</SuitEffect.1.Description>
 		</Text>
 		<Text Name="longxingzhen">
-			<DisplayName>Formasi Penunggang Naga</DisplayName>
+			<DisplayName>Dragonrider Formation</DisplayName>
 			<Description>Formasi menakjubkan yang memanfaatkan tubuh Naga Banjir sebagai fondasinya. Dikatakan sebagai formasi pengendali naga. Saat digunakan, seseorang dapat memanfaatkan kekuatan jiwa naga untuk melakukan keajaiban.</Description>
-			<NodeName.0>Skala Terlarang Naga</NodeName.0>
-			<NodeName.1>Tanduk Naga</NodeName.1>
-			<NodeName.2>Tanduk Naga</NodeName.2>
-			<NodeName.3>Cakar Naga</NodeName.3>
-			<NodeName.4>Cakar Naga</NodeName.4>
-			<NodeName.5>Skala Naga</NodeName.5>
-			<NodeName.6>Cakar Naga</NodeName.6>
-			<NodeName.7>Cakar Naga</NodeName.7>
-			<NodeName.8>Ekor Naga</NodeName.8>
-			<SuitEffect.0.Description>Keahlian Baru: Mantra Surga Naga</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Keterampilan Baru: Penghapusan Keilahian</SuitEffect.2.Description>
+			<NodeName.0>Dragon's Forbidden Scale</NodeName.0>
+			<NodeName.1>Dragon's Horn</NodeName.1>
+			<NodeName.2>Dragon's Horn</NodeName.2>
+			<NodeName.3>Dragon's Claw</NodeName.3>
+			<NodeName.4>Dragon's Claw</NodeName.4>
+			<NodeName.5>Dragon's Scale</NodeName.5>
+			<NodeName.6>Dragon's Claw</NodeName.6>
+			<NodeName.7>Dragon's Claw</NodeName.7>
+			<NodeName.8>Dragon's Tail</NodeName.8>
+			<SuitEffect.0.Description>New Skill: Heavenspell of Dragon</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>New Skill: Divinity Obliteration</SuitEffect.2.Description>
 		</Text>
 		<Text Name="fengjianzhen">
-			<DisplayName>Formasi Pedang Phoenix</DisplayName>
+			<DisplayName>Phoenix Sword Formation</DisplayName>
 			<Description>Formasi menakjubkan yang memanfaatkan tubuh Phoenix sebagai fondasinya. Dikatakan sebagai formasi pengendali burung phoenix. Saat digunakan, seseorang dapat memanfaatkan kekuatan jiwa phoenix untuk melakukan keajaiban.</Description>
-			<NodeName.0>Giok Api</NodeName.0>
-			<NodeName.1>Bulu Terlupakan</NodeName.1>
-			<NodeName.2>Bulu Mantel</NodeName.2>
-			<NodeName.3>Tulang Halus</NodeName.3>
-			<NodeName.4>Bulu Berkobar</NodeName.4>
-			<NodeName.5>Bulu Berkobar</NodeName.5>
-			<NodeName.6>Tulang Halus</NodeName.6>
-			<NodeName.7>Bulu Berkobar</NodeName.7>
-			<NodeName.8>Bulu Berkobar</NodeName.8>
-			<SuitEffect.0.Description>Keahlian Baru: Pedang Ilahi Phoenix</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Keterampilan Baru: Nirwana</SuitEffect.2.Description>
+			<NodeName.0>Fire Jade</NodeName.0>
+			<NodeName.1>Oblivion Feather</NodeName.1>
+			<NodeName.2>Mantle Feather</NodeName.2>
+			<NodeName.3>Ethereal Bone</NodeName.3>
+			<NodeName.4>Blazing Feather</NodeName.4>
+			<NodeName.5>Blazing Feather</NodeName.5>
+			<NodeName.6>Ethereal Bone</NodeName.6>
+			<NodeName.7>Blazing Feather</NodeName.7>
+			<NodeName.8>Blazing Feather</NodeName.8>
+			<SuitEffect.0.Description>New Skill: Divine Sword of Phoenix</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>New Skill: Nirvana</SuitEffect.2.Description>
 		</Text>
 		<Text Name="yinyangzhen">
-			<DisplayName>Inilah Formasinya</DisplayName>
+			<DisplayName>Yin Yang Formation</DisplayName>
 			<Description>Sebuah formasi yang mengambil inspirasi dari aliran energi antara Langit dan Bumi. Dikatakan bahwa formasi ini digunakan sesuai dengan hukum Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, formasi menjadi sangat fleksibel.</Description>
-			<NodeName.0>Pengakuan Iman Surga yang Kacau</NodeName.0>
-			<NodeName.1>Hukum Yin</NodeName.1>
-			<NodeName.2>Hukum Yang</NodeName.2>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Efisiensi Formasi Meningkat</SuitEffect.4.Description>
+			<NodeName.0>Chaotic Creed of Heaven</NodeName.0>
+			<NodeName.1>Law of Yin</NodeName.1>
+			<NodeName.2>Law of Yang</NodeName.2>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Operation Ability Enhanced</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
 		</Text>
 		<Text Name="sanyinzhen">
-			<DisplayName>Formasi Kekuatan Gelap</DisplayName>
+			<DisplayName>Dark Force Formation</DisplayName>
 			<Description>Suatu formasi yang digunakan dengan memanfaatkan gagasan Tiga Talenta: Langit, Bumi dan Kemanusiaan. Dikatakan mampu memusatkan semua energi Yin murni di dunia, yang sangat meningkatkan kekuatan Anda.</Description>
-			<NodeName.0>Kekuatan Yin dari Surga</NodeName.0>
-			<NodeName.1>Kekuatan Yin Bumi</NodeName.1>
-			<NodeName.2>Kekuatan Yin Manusia</NodeName.2>
-			<SuitEffect.0.Description>Efisiensi Formasi Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Mantra Ditingkatkan</SuitEffect.1.Description>
+			<NodeName.0>Yin Force of Heaven</NodeName.0>
+			<NodeName.1>Yin Force of Earth</NodeName.1>
+			<NodeName.2>Yin Force of Human</NodeName.2>
+			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
 		</Text>
 		<Text Name="bamen_ji">
-			<DisplayName>Formasi Pedang Neraka: Menguntungkan</DisplayName>
+			<DisplayName>Abyssal Sword Formation: Auspicious</DisplayName>
 			<Description>Dikatakan sebagai formasi yang digunakan sesuai dengan aturan Gerbang Delapan Trigram. Meningkatkan kemampuan perlindungan formasi dengan memanfaatkan Gerbang Kehidupan.</Description>
-			<NodeName.0>Keterbukaan</NodeName.0>
-			<NodeName.1>Istirahat</NodeName.1>
-			<NodeName.2>Kehidupan</NodeName.2>
-			<SuitEffect.0.Description>Efisiensi Formasi Meningkat</SuitEffect.0.Description>
+			<NodeName.0>Openness</NodeName.0>
+			<NodeName.1>Rest</NodeName.1>
+			<NodeName.2>Life</NodeName.2>
+			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_xiong">
-			<DisplayName>Formasi Pedang Neraka: Tidak menyenangkan</DisplayName>
+			<DisplayName>Abyssal Sword Formation: Ominous</DisplayName>
 			<Description>Dikatakan sebagai formasi yang digunakan sesuai dengan aturan Gerbang Delapan Trigram. Meningkatkan kemampuan penguasaan artefak formasi dengan memanfaatkan Gerbang Kematian.</Description>
-			<NodeName.0>Kematian</NodeName.0>
-			<NodeName.1>Ancaman</NodeName.1>
-			<NodeName.2>Kerusakan</NodeName.2>
-			<SuitEffect.0.Description>Kemampuan Penguasaan Artefak Ditingkatkan</SuitEffect.0.Description>
+			<NodeName.0>Death</NodeName.0>
+			<NodeName.1>Menace</NodeName.1>
+			<NodeName.2>Damage</NodeName.2>
+			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_zhong">
-			<DisplayName>Formasi Pedang Abyssal: Tengah</DisplayName>
+			<DisplayName>Abyssal Sword Formation: Central</DisplayName>
 			<Description>Dikatakan sebagai formasi yang digunakan sesuai aturan Gerbang Delapan Trigram, membuat formasi tersebut lebih kompak.</Description>
-			<NodeName.0>Pengasingan</NodeName.0>
-			<NodeName.1>Kecantikan</NodeName.1>
-			<SuitEffect.0.Description>Stabilitas Ditingkatkan</SuitEffect.0.Description>
+			<NodeName.0>Seclusion</NodeName.0>
+			<NodeName.1>Beauty</NodeName.1>
+			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
 		</Text>
 		<Text Name="jiayimushenzhen">
-			<DisplayName>Formasi Roh Kayu</DisplayName>
+			<DisplayName>Wood Spirit Formation</DisplayName>
 			<Description>Dibentuk dengan memusatkan esensi Roh Kayu Timur Purba, dikatakan sebagai formasi yang mampu membangkitkan Qi vitalitas Langit dan Bumi, meremajakan semua makhluk hidup.</Description>
-			<NodeName.0>Mahkota Pohon Roh</NodeName.0>
-			<NodeName.1>Cabang Pohon Roh</NodeName.1>
-			<NodeName.2>Daun Pohon Roh</NodeName.2>
-			<NodeName.3>Batang Pohon Roh</NodeName.3>
-			<NodeName.4>Akar Pohon Roh</NodeName.4>
-			<SuitEffect.0.Description>Efisiensi Formasi Meningkat</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Kemampuan Operasi Ditingkatkan</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Keahlian Baru: Domain Esensi Kayu</SuitEffect.2.Description>
+			<NodeName.0>Spirit Tree Crown</NodeName.0>
+			<NodeName.1>Spirit Tree Branch</NodeName.1>
+			<NodeName.2>Spirit Tree Leaf</NodeName.2>
+			<NodeName.3>Spirit Tree Trunk</NodeName.3>
+			<NodeName.4>Spirit Tree Root</NodeName.4>
+			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Operation Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.2.Description>New Skill: Domain of Wood Essence</SuitEffect.2.Description>
 		</Text>
 		<Text Name="wuyuezhen">
-			<DisplayName>Formasi Konvergensi</DisplayName>
+			<DisplayName>Convergence Formation</DisplayName>
 			<Description>Sebuah formasi yang dibentuk oleh esensi spiritual dari Lima Puncak. Saat digunakan, itu akan menampilkan bentuk Lima Puncak untuk menangkal suatu lokasi, menjadikannya tidak bisa dihancurkan.</Description>
-			<NodeName.0>Bentuk Puncak Zamrud</NodeName.0>
-			<NodeName.1>Bentuk Jurang</NodeName.1>
-			<NodeName.2>Bentuk Pulau Biasa</NodeName.2>
-			<NodeName.3>Bentuk Tempat Suci</NodeName.3>
-			<NodeName.4>Bentuk Surga</NodeName.4>
-			<SuitEffect.0.Description>Kemampuan Perlindungan Ditingkatkan</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Efisiensi Formasi Meningkat</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Keahlian Baru: Domain Lima Puncak</SuitEffect.2.Description>
+			<NodeName.0>Shape of Emerald Peak</NodeName.0>
+			<NodeName.1>Shape of Precipice</NodeName.1>
+			<NodeName.2>Shape of Plain Isle</NodeName.2>
+			<NodeName.3>Shape of Sanctuary</NodeName.3>
+			<NodeName.4>Shape of Paradise</NodeName.4>
+			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Formation Efficiency Increased</SuitEffect.1.Description>
+			<SuitEffect.2.Description>New Skill: Domain of Five Peaks</SuitEffect.2.Description>
 		</Text>
 	</List>
 </Texts>
