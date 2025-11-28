@@ -1,90 +1,90 @@
 ItemName	Type
-Item_Cake	makanan
-Item_Jerky	makanan
-Item_HomeFood	makanan
-Item_DeliciousFood	makanan
-Item_DelicacyFood	makanan
-Item_LingStone	mata uang
-Item_Ginseng	herbal
-Item_GanodermaLucidum	herbal
-Item_MagicHerb	herbal
-Item_Mint	herbal
-Item_Ginkgo	herbal
-Item_Healroot	herbal
-Item_SmallCycle	herbal
-Item_Hemostatics	herbal
-Item_Plaster	herbal
-Item_Anodyne	herbal
-Item_StoneEssenceDrug	herbal
-Item_Flour	bahan-bahan
-Item_Wheat	bahan-bahan
-Item_Mushroom	bahan-bahan
-Item_Lotusroot	bahan-bahan
-Item_Pear	bahan-bahan
-Item_BoarMeat	bahan-bahan
-Item_FrogMeat	bahan-bahan
-Item_TurtleMeat	bahan-bahan
-Item_BearMeat	bahan-bahan
-Item_Beef	bahan-bahan
-Item_RabbitMeat	bahan-bahan
-Item_ChickenMeat	bahan-bahan
-Item_WolfMeat	bahan-bahan
-Item_FishMeat	bahan-bahan
-Item_SnakeMeat	bahan-bahan
-Item_CatMeat	bahan-bahan
-Item_TigerMeat	bahan-bahan
-Item_IronBlock	Bahan
-Item_CopperBlock	Bahan
-Item_SilverBlock	Bahan
-Item_BrownRockBlock	Bahan
-Item_GrayRockBlock	Bahan
-Item_MarbleBlock	Bahan
-Item_JadeBlock	Bahan
-Item_LingStoneBlock	Bahan
-Item_RoughWoodBlock	Bahan
-Item_HardWoodBlock	Bahan
-Item_LingWoodBlock	Bahan
-Item_WoodLeftover	Bahan
-Item_HardWoodLeftover	Bahan
-Item_ParasolWoodLeftover	Bahan
-Item_LingWoodLeftover	Bahan
-Item_BrownRockLeftover	Bahan
-Item_GrayRockLeftover	Bahan
-Item_MarbleLeftover	Bahan
-Item_JadeLeftover	Bahan
-Item_SkyStoneLeftover	Bahan
-Item_LingStoneLeftover	Bahan
-Item_LingCrystalLeftover	Bahan
-Item_IronRockLeftover	Bahan
-Item_CopperRockLeftover	Bahan
-Item_SilverRockLeftover	Bahan
-Item_DarksteelRockLeftover	Bahan
-Item_StarEssenceLeftover	Bahan
-Item_SilverGrit	Bahan
-Item_CopperGrit	Bahan
-Item_CottonCloth	kulit kain
-Item_PurpleCloth	kulit kain
-Item_YellowCloth	kulit kain
-Item_BlueCloth	kulit kain
-Item_RedCloth	kulit kain
-Item_WhiteCloth	kulit kain
-Item_BlackCloth	kulit kain
-Item_RabbitLeather	kulit kain
-Item_BearLeather	kulit kain
-Item_WolfLeather	kulit kain
-Item_BoarLeather	kulit kain
-Item_CattleLeather	kulit kain
-Item_TigerLeather	kulit kain
-Item_DeepBlueCloth	kulit kain
-Item_Cotton	bahan mentah
-Item_Cinnabar	bahan mentah
-Item_IronRock	bahan mentah
-Item_CopperRock	bahan mentah
-Item_SilverRock	bahan mentah
-Item_BrownRock	bahan mentah
-Item_GrayRock	bahan mentah
-Item_Marble	bahan mentah
-Item_Wood	bahan mentah
-Item_HardWood	bahan mentah
-Item_LingWood	bahan mentah
-Item_Shit	bahan mentah
+Item_Cake	Food
+Item_Jerky	Food
+Item_HomeFood	Food
+Item_DeliciousFood	Food
+Item_DelicacyFood	Food
+Item_LingStone	Coin
+Item_Ginseng	Herb
+Item_GanodermaLucidum	Herb
+Item_MagicHerb	Herb
+Item_Mint	Herb
+Item_Ginkgo	Herb
+Item_Healroot	Herb
+Item_SmallCycle	Herb
+Item_Hemostatics	Herb
+Item_Plaster	Herb
+Item_Anodyne	Herb
+Item_StoneEssenceDrug	Herb
+Item_Flour	Ingredient
+Item_Wheat	Ingredient
+Item_Mushroom	Ingredient
+Item_Lotusroot	Ingredient
+Item_Pear	Ingredient
+Item_BoarMeat	Ingredient
+Item_FrogMeat	Ingredient
+Item_TurtleMeat	Ingredient
+Item_BearMeat	Ingredient
+Item_Beef	Ingredient
+Item_RabbitMeat	Ingredient
+Item_ChickenMeat	Ingredient
+Item_WolfMeat	Ingredient
+Item_FishMeat	Ingredient
+Item_SnakeMeat	Ingredient
+Item_CatMeat	Ingredient
+Item_TigerMeat	Ingredient
+Item_IronBlock	Material
+Item_CopperBlock	Material
+Item_SilverBlock	Material
+Item_BrownRockBlock	Material
+Item_GrayRockBlock	Material
+Item_MarbleBlock	Material
+Item_JadeBlock	Material
+Item_LingStoneBlock	Material
+Item_RoughWoodBlock	Material
+Item_HardWoodBlock	Material
+Item_LingWoodBlock	Material
+Item_WoodLeftover	Material
+Item_HardWoodLeftover	Material
+Item_ParasolWoodLeftover	Material
+Item_LingWoodLeftover	Material
+Item_BrownRockLeftover	Material
+Item_GrayRockLeftover	Material
+Item_MarbleLeftover	Material
+Item_JadeLeftover	Material
+Item_SkyStoneLeftover	Material
+Item_LingStoneLeftover	Material
+Item_LingCrystalLeftover	Material
+Item_IronRockLeftover	Material
+Item_CopperRockLeftover	Material
+Item_SilverRockLeftover	Material
+Item_DarksteelRockLeftover	Material
+Item_StarEssenceLeftover	Material
+Item_SilverGrit	Material
+Item_CopperGrit	Material
+Item_CottonCloth	Fabric
+Item_PurpleCloth	Fabric
+Item_YellowCloth	Fabric
+Item_BlueCloth	Fabric
+Item_RedCloth	Fabric
+Item_WhiteCloth	Fabric
+Item_BlackCloth	Fabric
+Item_RabbitLeather	Fabric
+Item_BearLeather	Fabric
+Item_WolfLeather	Fabric
+Item_BoarLeather	Fabric
+Item_CattleLeather	Fabric
+Item_TigerLeather	Fabric
+Item_DeepBlueCloth	Fabric
+Item_Cotton	Raw Material
+Item_Cinnabar	Raw Material
+Item_IronRock	Raw Material
+Item_CopperRock	Raw Material
+Item_SilverRock	Raw Material
+Item_BrownRock	Raw Material
+Item_GrayRock	Raw Material
+Item_Marble	Raw Material
+Item_Wood	Raw Material
+Item_HardWood	Raw Material
+Item_LingWood	Raw Material
+Item_Shit	Raw Material
