@@ -1,3 +1,2 @@
 Group	Area	Name
-所属组	所属区域	植物名
-Normal	DisciplePlant	DLC_Plant_HuangJing
+所属组	Belonging Area	Plant Name
