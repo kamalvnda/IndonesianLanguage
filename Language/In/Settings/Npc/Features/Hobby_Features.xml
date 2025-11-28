@@ -1,27 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Reader">
-			<DisplayName>Intelektual</DisplayName>
+			<DisplayName>Intellectual</DisplayName>
 			<Desc>Orang yang berpendidikan tinggi, mampu memahami konten yang tidak jelas.</Desc>
 		</Text>
 		<Text Name="Craftsman">
-			<DisplayName>Tukang</DisplayName>
+			<DisplayName>Craftsman</DisplayName>
 			<Desc>Seseorang yang unggul dalam kerajinan tangan. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
 		</Text>
 		<Text Name="CraftsmanEX">
-			<DisplayName>Penggemar Gunpla</DisplayName>
+			<DisplayName>Gunpla Enthusiast</DisplayName>
 			<Desc>Seseorang yang terobsesi dengan model Gunpla yang memiliki sepasang tangan terampil sebagai hasilnya. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
 		</Text>
 		<Text Name="Artist">
-			<DisplayName>Artis Berbakat</DisplayName>
+			<DisplayName>Gifted Artist</DisplayName>
 			<Desc>Seseorang dengan hati sensitif yang kaya akan emosi, orang ini memiliki imajinasi yang tak tertandingi.</Desc>
 		</Text>
 		<Text Name="Warrior">
-			<DisplayName>Prajurit</DisplayName>
+			<DisplayName>Warrior</DisplayName>
 			<Desc>Seorang pejuang alami, yang satu ini mampu menahan rasa sakit yang luar biasa dan tetap tenang dalam keadaan apa pun.</Desc>
 		</Text>
 		<Text Name="DeepPotential">
-			<DisplayName>Bakat</DisplayName>
+			<DisplayName>Talent</DisplayName>
 			<Desc>Seseorang yang terlahir dengan bakat luar biasa, dapat berkultivasi dengan mudah.</Desc>
 		</Text>
 	</List>
