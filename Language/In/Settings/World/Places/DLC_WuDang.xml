@@ -1,19 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Place_WuDang_Taizipo">
-			<DisplayName>Kuil Pencapaian Kembali</DisplayName>
+			<DisplayName>Reattainment Temple</DisplayName>
 			<Desc>Juga bernama Crown Path, tempat ini adalah tempat Prajurit Sempurna mengolah tubuh fananya.</Desc>
 		</Text>
 		<Text Name="Place_WuDang_ZiXiaoGong">
-			<DisplayName>Istana Awan Ungu</DisplayName>
+			<DisplayName>Purple Cloud Palace</DisplayName>
 			<Desc>Istana Awan Ungu terletak di puncak utama Pegunungan Wudang—di bawah Puncak Spanduk di timur laut hingga Puncak Surgawi. Menghadap air ke pegunungan, tempat yang bagus dengan Feng Shui sempurna tempat banyak petani tinggal dan berlatih.</Desc>
 		</Text>
 		<Text Name="Place_WuDang_NanYanGong">
-			<DisplayName>Istana Batu Selatan</DisplayName>
+			<DisplayName>Southrock Palace</DisplayName>
 			<Desc>Dibangun di puncak Southrock Peak di Pegunungan Wudang, istana ini menghadap jurang yang dalam dan berbahaya dengan pemandangan yang menakjubkan. Dupa Naga yang terkenal dapat ditemukan di dalam istana dan menghasilkan keajaiban.</Desc>
 		</Text>
 		<Text Name="Place_WuDang_JinDing">
-			<DisplayName>Puncak Emas</DisplayName>
+			<DisplayName>Golden Peak</DisplayName>
 			<Desc>Berdiri di puncak Puncak Surgawi, di situlah Prajurit Sempurna pernah berlatih dan tempat ajaran Tao di Pegunungan Wudang dimulai.</Desc>
 		</Text>
 	</List>
