@@ -3,30 +3,30 @@
 		<Text Name="Gong_DaNeng">
 			<DisplayName>Unknown Law</DisplayName>
 			<Desc>Hukum eksklusif yang diturunkan dari zaman kuno, tidak diketahui orang lain.</Desc>
-			<Stages.0.DisplayName>Tidak dikenal</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Tidak dikenal</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Tidak dikenal</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Tidak dikenal</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Tidak dikenal</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Tidak dikenal</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Tidak dikenal</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Tidak dikenal</Stages.3.Necks.0.DisplayName>
-			<Stages.4.DisplayName>Tidak dikenal</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Tidak dikenal</Stages.4.Necks.0.DisplayName>
-			<Stages.5.DisplayName>Tidak dikenal</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Tidak dikenal</Stages.5.Necks.0.DisplayName>
-			<Stages.6.DisplayName>Tidak dikenal</Stages.6.DisplayName>
-			<Stages.6.Necks.0.DisplayName>Tidak dikenal</Stages.6.Necks.0.DisplayName>
-			<Stages.7.DisplayName>Tidak dikenal</Stages.7.DisplayName>
-			<Stages.7.Necks.0.DisplayName>Tidak dikenal</Stages.7.Necks.0.DisplayName>
-			<Stages.8.DisplayName>Tidak dikenal</Stages.8.DisplayName>
-			<Stages.8.Necks.0.DisplayName>Tidak dikenal</Stages.8.Necks.0.DisplayName>
-			<Stages.9.DisplayName>Tidak dikenal</Stages.9.DisplayName>
-			<Stages.9.Necks.0.DisplayName>Tidak dikenal</Stages.9.Necks.0.DisplayName>
-			<Stages.10.DisplayName>Tidak dikenal</Stages.10.DisplayName>
-			<Stages.10.Necks.0.DisplayName>Tidak dikenal</Stages.10.Necks.0.DisplayName>
-			<Stages.11.DisplayName>Tidak dikenal</Stages.11.DisplayName>
-			<Stages.11.Necks.0.DisplayName>Tidak dikenal</Stages.11.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Unknown</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Unknown</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Unknown</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Unknown</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Unknown</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Unknown</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Unknown</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Unknown</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Unknown</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Unknown</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Unknown</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Unknown</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Unknown</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Unknown</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Unknown</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Unknown</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Unknown</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Unknown</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Unknown</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Unknown</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Unknown</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Unknown</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Unknown</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Unknown</Stages.11.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
