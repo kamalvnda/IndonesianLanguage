@@ -88,5 +88,5 @@ ID	FabaoName	FabaoDes
 
 
 
-89	Evil Deterring	Penangkal Kejahatan	Sebuah artefak yang terbuat dari pedang kayu dan dapat mengusir kejahatan.
-125	Perfected Warrior Sword	Pedang Prajurit Sempurna	Juga dikenal sebagai Exorcist Prime, pedang berharga ini digunakan oleh Prajurit Sempurna untuk mengusir segala bentuk kejahatan. Panjangnya sekitar 3 inci, pedang ini ditempa ulang dari batu giok dengan kekuatan sejati pengusiran roh jahat; karena itu, pedang ini memancarkan cahaya ungu yang megah. Saat dihunus, pedang ini berubah menjadi kilatan petir ungu sepanjang satu inci yang menghancurkan apa pun yang disentuhnya.
+89	Evil Deterring	An artifact made from a wooden sword and can deter evil.
+125	Perfected Warrior Sword	Also known as the Exorcist Prime, the Perfected Warrior used this precious sword to expel all evils. About 3 inches long, the sword is reforged from jade stones with the true powers of exorcism; it thus has an imposing purplish glow around it. Once drawn, it transforms into inch-long violet lightening bolts that destroy everything they touch.
