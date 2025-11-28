@@ -4,27 +4,27 @@
 			<Desc>Ini adalah area dimana berbagai macam bangunan produksi dapat dibangun.</Desc>
 		</Text>
 		<Text Name="zhongyuan">
-			<DisplayName>Dataran Tengah</DisplayName>
+			<DisplayName>Central Plains</DisplayName>
 			<Desc>Menghasilkan: batu coklat (banyak); kayu dan gandum (sedikit).</Desc>
 		</Text>
 		<Text Name="JiangAnWoYe">
-			<DisplayName>Dataran Tepi Sungai</DisplayName>
+			<DisplayName>Riverbank Plains</DisplayName>
 			<Desc>Menghasilkan: gandum (banyak); batu coklat (sedikit).</Desc>
 		</Text>
 		<Text Name="DaXueYuan">
-			<DisplayName>Negeri Salju Besar</DisplayName>
+			<DisplayName>The Great Snowland</DisplayName>
 			<Desc>Menghasilkan: batu roh (banyak); kayu (sedikit).</Desc>
 		</Text>
 		<Text Name="DaMo">
-			<DisplayName>Gurun Besar</DisplayName>
+			<DisplayName>Great Desert</DisplayName>
 			<Desc>Menghasilkan: batu roh (banyak); batu (sedikit).</Desc>
 		</Text>
 		<Text Name="NanHuang">
-			<DisplayName>Liar Selatan</DisplayName>
+			<DisplayName>Wild South</DisplayName>
 			<Desc>Menghasilkan: kayu (banyak).</Desc>
 		</Text>
 		<Text Name="OurPlace">
-			<DisplayName>Gunung Selatan</DisplayName>
+			<DisplayName>Mt. South</DisplayName>
 			<Desc>Hasil bumi: kayu, batu dan gandum.</Desc>
 		</Text>
 	</List>
