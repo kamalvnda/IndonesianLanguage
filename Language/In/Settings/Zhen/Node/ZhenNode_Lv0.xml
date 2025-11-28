@@ -1,58 +1,58 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>Kosong</DisplayName>
+			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_1">
-			<DisplayName>Proto-pilar: Interval</DisplayName>
+			<DisplayName>Proto-pillar: Interval</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_2">
-			<DisplayName>Proto-pilar: Putar</DisplayName>
+			<DisplayName>Proto-pillar: Turn</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_3">
-			<DisplayName>Proto-pilar: Kurva</DisplayName>
+			<DisplayName>Proto-pillar: Curve</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_3_4">
-			<DisplayName>Proto-pilar: Tautan</DisplayName>
+			<DisplayName>Proto-pillar: Link</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_1">
-			<DisplayName>Proto-pilar: Kabel</DisplayName>
+			<DisplayName>Proto-pillar: Cord</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_2">
-			<DisplayName>Proto-pilar: Tip</DisplayName>
+			<DisplayName>Proto-pillar: Tip</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_4_3">
-			<DisplayName>Proto-pilar: Baris</DisplayName>
+			<DisplayName>Proto-pillar: Row</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_5_1">
-			<DisplayName>Proto-pilar: Kosong</DisplayName>
+			<DisplayName>Proto-pillar: Vacant</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv0_6_1">
-			<DisplayName>Proto-pilar: Utuh</DisplayName>
+			<DisplayName>Proto-pillar: Whole</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_1_1">
-			<DisplayName>Proto-bantuan: Obligasi</DisplayName>
+			<DisplayName>Proto-auxiliary: Bond</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_1">
-			<DisplayName>Proto-bantu: Berpasangan</DisplayName>
+			<DisplayName>Proto-auxiliary: Pair</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_2">
-			<DisplayName>Proto-auxiliary: Partisi</DisplayName>
+			<DisplayName>Proto-auxiliary: Partition</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_2_3">
-			<DisplayName>Proto-bantuan: Persatuan</DisplayName>
+			<DisplayName>Proto-auxiliary: Union</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_1">
-			<DisplayName>Proto-bantuan: Pesangon</DisplayName>
+			<DisplayName>Proto-auxiliary: Severance</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_2">
-			<DisplayName>Proto-bantu: Menyeberang</DisplayName>
+			<DisplayName>Proto-auxiliary: Cross</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_3">
-			<DisplayName>Proto-bantu: Menyebarkan</DisplayName>
+			<DisplayName>Proto-auxiliary: Scatter</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv0_3_4">
-			<DisplayName>Proto-bantuan: Kritis</DisplayName>
+			<DisplayName>Proto-auxiliary: Critical</DisplayName>
 		</Text>
 	</List>
 </Texts>
