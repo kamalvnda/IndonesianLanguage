@@ -1,52 +1,52 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Jin">
-			<DisplayName>Hukum Alam (Kodeks Langya)</DisplayName>
+			<DisplayName>Natural Law (Codex of Langya)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian secara signifikan.\nPahami arti sebenarnya dari ilmu pedang, tembus batas Penguasaan Pedang sebanyak 5 level.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nPahami arti sebenarnya dari ilmu pedang, tembus batas Penguasaan Pedang sebanyak 5 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Mu">
-			<DisplayName>Hukum Alam (Sutra Layu dan Berkembang)</DisplayName>
+			<DisplayName>Natural Law (Sutra of Wither and Flourish)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian secara signifikan.\nMengurangi tingkat penurunan Umur secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMengurangi tingkat penurunan Umur secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Shui">
-			<DisplayName>Hukum Alam (Kitab Umat Buddha)</DisplayName>
+			<DisplayName>Natural Law (Book of Buddhists)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian secara signifikan.\nMeningkatkan tingkat konversi Stamina secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMeningkatkan tingkat konversi Stamina secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Huo">
-			<DisplayName>Hukum Alam (Catatan Kebijaksanaan Halus)</DisplayName>
+			<DisplayName>Natural Law (Record of Delicate Wisdom)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian secara signifikan.\nPahami arti sebenarnya dari Mantra, tembus batas keterampilan Mantra sebanyak 5 level.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nPahami arti sebenarnya dari Mantra, tembus batas keterampilan Mantra sebanyak 5 level.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Tu">
-			<DisplayName>Hukum Alam (Nyanyian Naga yang Tinggal)</DisplayName>
+			<DisplayName>Natural Law (Chant of Dwelling Dragon)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Pencapaian secara signifikan.\nMeningkatkan efisiensi Penyerapan Qi secara signifikan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMeningkatkan efisiensi Penyerapan Qi secara signifikan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Jin">
-			<DisplayName>Hukum Divergen (Mantra Kemurnian Spiritual)</DisplayName>
+			<DisplayName>Divergent Law (Incantation of Spiritual Purity)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecaman secara signifikan.\nMeningkatkan Potensi secara signifikan.\nMeningkatkan Persepsi sebesar 100%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Mu">
-			<DisplayName>Hukum Divergen (Sutra Pelanggaran Besar)</DisplayName>
+			<DisplayName>Divergent Law (Sutra of Great Offense)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari pengerjaan, tembus batas keterampilan Pembuatan Artefak sebanyak 5 level. \nMeningkatkan Konstitusi sebesar 100%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Shui">
-			<DisplayName>Hukum Divergen (Keringanan yang Tidak Terpenuhi)</DisplayName>
+			<DisplayName>Divergent Law (Unfulfilled Relief)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecaman secara signifikan.\nMeningkatkan tingkat konsumsi makanan secara signifikan.\nMeningkatkan Karisma sebesar 100%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Huo">
-			<DisplayName>Hukum Divergen (Revolusi Surgawi)</DisplayName>
+			<DisplayName>Divergent Law (Heavenly Revolution)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari Alkimia, tembus batas keterampilan Alkimia sebanyak 5 level. \nMeningkatkan Kecerdasan sebesar 100%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Tu">
-			<DisplayName>Hukum Divergen (Kemalangan Terbalik)</DisplayName>
+			<DisplayName>Divergent Law (Reversed Misfortune)</DisplayName>
 			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
 			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari Perlindungan, tembus batas keterampilan Perlindungan sebanyak 5 level. \nMeningkatkan Keberuntungan sebesar 100%.[/color][/size]</EffectDesc>
 		</Text>
