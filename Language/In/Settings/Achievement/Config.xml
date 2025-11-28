@@ -16,7 +16,7 @@
 			<Desc>Talisman digambar: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_6">
-			<Desc>Makhluk yang terbunuh: {0:F0}</Desc>
+			<Desc>Makhluk yang Terbunuh: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_7">
 			<Desc>Cultivator yang Terbunuh: {0:F0}</Desc>
@@ -28,7 +28,7 @@
 			<Desc>Seni Langka: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_10">
-			<Desc>Rayuan yang Berhasil: {0:F0}</Desc>
+			<Desc>Persuasi yang Berhasil: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_11">
 			<Desc>Buku teks yang dipelajari: {0:F0}</Desc>
@@ -37,7 +37,7 @@
 			<Desc>Murid yang meninggal: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_13">
-			<Desc>Murid dalam yang meninggal: {0:F0}</Desc>
+			<Desc>Murid inti yang meninggal: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_14">
 			<Desc>Kepemilikan: {0:F0}</Desc>
@@ -49,7 +49,7 @@
 			<Desc>Pencarian Jiwa: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_17">
-			<Desc>Umur yang Dicuri: {0:F0} detik</Desc>
+			<Desc>Umur yang Diambil: {0:F0} detik</Desc>
 		</Text>
 		<Text Name="kind_18">
 			<Desc>Jiwa yang Terbebas/Dimurnikan: {0:F0}</Desc>
