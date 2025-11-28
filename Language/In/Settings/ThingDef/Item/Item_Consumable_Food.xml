@@ -1,27 +1,27 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="SimpleFoodBase" sParam="Item">
-			<Item.FabaoSuffix>Harta Karun yang Sangat Besar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Numinous Treasure</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cake" sParam="Item">
-			<ThingName>Roti</ThingName>
+			<ThingName>Bread</ThingName>
 			<Desc>Jatah makanan sederhana untuk memuaskan rasa lapar.</Desc>
-			<Item.FabaoSuffix>Panekuk</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pancake</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Jerky" sParam="Item">
-			<ThingName>Daging Kering</ThingName>
+			<ThingName>Dried Meat</ThingName>
 			<Desc>Jatah makanan sederhana untuk memuaskan rasa lapar.</Desc>
-			<Item.FabaoSuffix>Kering</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PreservedFruit" sParam="Item">
-			<ThingName>Buah Amber Kering Li</ThingName>
-			<Desc>[color=#FF00FF]Dahulu ada buah, rasanya seperti madu. \nMenunggu musimnya, kita gantung di atas atap. \nSekarang datanglah seorang wanita, matanya menawan bagaikan madu. \nApa lagi yang bisa dinantikan, menjelang musim yang diantisipasi akan segera berakhir? \n[/color]Buah Amber sulit disimpan. Hanya keluarga Li di Jinling yang mampu mengolahnya menjadi buah kering dengan tetap menjaga keampuhannya dengan resep rahasia unik mereka.</Desc>
-			<Item.FabaoSuffix>Buah</Item.FabaoSuffix>
+			<ThingName>Li's Dried Amber Fruit</ThingName>
+			<Desc>[color=#FF00FF]Dahulu ada buah yang rasanya seperti madu. \nMenunggu musimnya, kita gantung di atas atap. \nSekarang datanglah seorang wanita, matanya menawan bagaikan madu. \nApa lagi yang bisa dinantikan, menjelang musim yang diantisipasi akan segera berakhir? \N[/color]Buah Amber sulit disimpan. Hanya keluarga Li di Jinling yang mampu mengolahnya menjadi buah kering dengan tetap menjaga keampuhannya dengan resep rahasia unik mereka.</Desc>
+			<Item.FabaoSuffix>Fruit</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Yao_BoarMeat" sParam="Item">
-			<ThingName>Daging Babi Setan</ThingName>
+			<ThingName>Pig Demon Meat</ThingName>
 			<Desc>Intisari daging babi setan, tidak bisa dimasak dengan api biasa. Mengkonsumsinya secara langsung dapat menambah Stamina dalam jumlah besar.</Desc>
-			<Item.FabaoSuffix>Kering</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
