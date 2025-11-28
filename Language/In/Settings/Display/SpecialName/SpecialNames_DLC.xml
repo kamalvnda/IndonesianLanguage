@@ -2,1543 +2,1543 @@
   <List>
 	<SpecialItem Name="Item_HomeFood">
 		<Item_BambooShoot>
-			<li Name="Rebung Dingin" Desc=""/>
-			<li Name="Rebung Goreng" Desc=""/>
-			<li Name="Rebung empuk yang direbus" Desc=""/>
-			<li Name="Babi goreng dengan rebung" Desc=""/>
-			<li Name="Rebung renyah pedas" Desc=""/>
-			<li Name="Rebung direbus dalam minyak" Desc=""/>
-			<li Name="Bacon goreng dengan rebung" Desc=""/>
+			<li Name="Bamboo Shoots Dressed with Sauce" Desc="" />
+			<li Name="Stir-fried Bamboo Shoots" Desc="" />
+			<li Name="Spiced Bamboo Shoots" Desc="" />
+			<li Name="Stir-fried Pork with Bamboo Shoots" Desc="" />
+			<li Name="Spicy Crispy Bamboo Shoots" Desc="" />
+			<li Name="Simmered Bamboo Shoots" Desc="" />
+			<li Name="Stir-fried Bacon with Bamboo Shoots" Desc="" />
 		</Item_BambooShoot>
 		<Fish_StoneCrab>
-			<li Name="Kepiting kukus" Desc=""/>
-			<li Name="sup kepiting" Desc=""/>
-			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
-			<li Name="Bubur daging kepiting" Desc=""/>
-			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
-			<li Name="Kepiting Rebus Pedas" Desc=""/>
-			<li Name="Kepiting rebus" Desc=""/>
-			<li Name="Nasi goreng daging kepiting" Desc=""/>
+			<li Name="Steamed Crab" Desc="" />
+			<li Name="Crab Soup" Desc="" />
+			<li Name="Stir-fried Crab" Desc="" />
+			<li Name="Crab Meat Porridge" Desc="" />
+			<li Name="Braised Crab with Tofu" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Spiced Crab" Desc="" />
+			<li Name="Fried Rice with Crab Meat" Desc="" />
 		</Fish_StoneCrab>
 		<Fish_ChillyCrab>
-			<li Name="Kepiting kukus" Desc=""/>
-			<li Name="sup kepiting" Desc=""/>
-			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
-			<li Name="Bubur daging kepiting" Desc=""/>
-			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
-			<li Name="Kepiting Rebus Pedas" Desc=""/>
-			<li Name="Kepiting rebus" Desc=""/>
-			<li Name="Nasi goreng daging kepiting" Desc=""/>
+			<li Name="Steamed Crab" Desc="" />
+			<li Name="Crab Soup" Desc="" />
+			<li Name="Stir-fried Crab" Desc="" />
+			<li Name="Crab Meat Porridge" Desc="" />
+			<li Name="Braised Crab with Tofu" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Spiced Crab" Desc="" />
+			<li Name="Fried Rice with Crab Meat" Desc="" />
 		</Fish_ChillyCrab>
 		<Fish_JadeCrab>
-			<li Name="Kepiting kukus" Desc=""/>
-			<li Name="sup kepiting" Desc=""/>
-			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
-			<li Name="Bubur daging kepiting" Desc=""/>
-			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
-			<li Name="Kepiting Rebus Pedas" Desc=""/>
-			<li Name="Kepiting rebus" Desc=""/>
-			<li Name="Nasi goreng daging kepiting" Desc=""/>
+			<li Name="Steamed Crab" Desc="" />
+			<li Name="Crab Soup" Desc="" />
+			<li Name="Stir-fried Crab" Desc="" />
+			<li Name="Crab Meat Porridge" Desc="" />
+			<li Name="Braised Crab with Tofu" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Spiced Crab" Desc="" />
+			<li Name="Fried Rice with Crab Meat" Desc="" />
 		</Fish_JadeCrab>
 		<Fish_FireCrab>
-			<li Name="Kepiting kukus" Desc=""/>
-			<li Name="sup kepiting" Desc=""/>
-			<li Name="Kepiting goreng buatan sendiri" Desc=""/>
-			<li Name="Bubur daging kepiting" Desc=""/>
-			<li Name="Kepiting Rebus dengan Tahu" Desc=""/>
-			<li Name="Kepiting Rebus Pedas" Desc=""/>
-			<li Name="Kepiting rebus" Desc=""/>
-			<li Name="Nasi goreng daging kepiting" Desc=""/>
+			<li Name="Steamed Crab" Desc="" />
+			<li Name="Crab Soup" Desc="" />
+			<li Name="Stir-fried Crab" Desc="" />
+			<li Name="Crab Meat Porridge" Desc="" />
+			<li Name="Braised Crab with Tofu" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Spiced Crab" Desc="" />
+			<li Name="Fried Rice with Crab Meat" Desc="" />
 		</Fish_FireCrab>
 
 		<Fish_r2>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r2>
 		<Fish_r3>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r3>
 		<Fish_r4>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r4>
 		<Fish_r5>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r5>
 		<Fish_r6>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r6>
 		<Fish_r7>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r7>
 		<Fish_r8>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r8>
 		<Fish_r9>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r9>
 		<Fish_r10>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r10>
 		<Fish_r11>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r11>
 		<Fish_r12>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r12>
 		<Fish_r13>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_r13>
 
 		<Fish_BaiHuang>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_BaiHuang>
 		<Fish_Black>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_Black>
 		<Fish_BlueFish>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_BlueFish>
 		<Fish_FenLi>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_FenLi>
 		<Fish_HongGui>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_HongGui>
 		<Fish_HongHuang>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_HongHuang>
 		<Fish_Huang>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_Huang>
 		<Fish_Ji>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_Ji>
 		<Fish_QingHei>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_QingHei>
 		<Fish_RedFish>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_RedFish>
 		<Fish_s1>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s1>
 		<Fish_s10>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s10>
 		<Fish_s11>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s11>
 		<Fish_s12>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s12>
 		<Fish_s2>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s2>
 		<Fish_s3>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s3>
 		<Fish_s4>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s4>
 		<Fish_s5>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s5>
 		<Fish_s6>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s6>
 		<Fish_s7>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s7>
 		<Fish_s8>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s8>
 		<Fish_s9>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_s9>
 		<Fish_t1>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t1>
 		<Fish_t10>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t10>
 		<Fish_t11>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t11>
 		<Fish_t12>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t12>
 		<Fish_t2>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t2>
 		<Fish_t3>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t3>
 		<Fish_t4>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t4>
 		<Fish_t5>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t5>
 		<Fish_t6>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t6>
 		<Fish_t7>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t7>
 		<Fish_t8>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t8>
 		<Fish_t9>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_t9>
 		<Fish_XieLi>
-			<li Name="risotto ikan" Desc=""/>
-			<li Name="roti ikan" Desc=""/>
-			<li Name="taco ikan" Desc=""/>
-			<li Name="ikan bakar" Desc=""/>
-			<li Name="Ikan goreng kering" Desc=""/>
-			<li Name="ikan air jernih" Desc=""/>
-			<li Name="ikan kukus" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
 		</Fish_XieLi>
 		<Shrimp1>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp1>
 		<Shrimp2>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp2>
 		<Shrimp3>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp3>
 		<Shrimp4>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp4>
 		<Shrimp5>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp5>
 		<Shrimp6>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp6>
 		<Shrimp7>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp7>
 		<Shrimp8>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp8>
 		<Shrimp9>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp9>
 		<Shrimp10>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp10>
 		<Shrimp11>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp11>
 		<Shrimp12>
-			<li Name="Udang kukus" Desc=""/>
-			<li Name="Udang goreng" Desc=""/>
+			<li Name="Steamed Shrimp" Desc="" />
+			<li Name="Fried shrimps" Desc="" />
 		</Shrimp12>
 	</SpecialItem>
 	<SpecialItem Name="Item_DeliciousFood">
 		<Item_BambooShoot>
-			<li Name="Rebung dan Iga" Desc=""/>
-			<li Name="Rebung Bakar" Desc=""/>
-			<li Name="Jamur tumis dengan rebung hijau" Desc=""/>
-			<li Name="Rebung bambu tiga warna" Desc=""/>
-			<li Name="Tahu kering dan rebung" Desc=""/>
-			<li Name="Mie Sup Rebung Asam" Desc=""/>
-			<li Name="Rebung Goreng dengan Telur" Desc=""/>
+			<li Name="Pork Ribs with Bamboo Shoots" Desc="" />
+			<li Name="Roasted Bamboo Shoots" Desc="" />
+			<li Name="Stir-fried Bamboo Shoots with Mushroom" Desc="" />
+			<li Name="Stir-fried Bamboo Shoots" Desc="" />
+			<li Name="Bamboo Shoots with Dried Tofu" Desc="" />
+			<li Name="Rice Noodles with Pickled Bamboo Shoots" Desc="" />
+			<li Name="Stir-fried Egg with Bamboo Shoots" Desc="" />
 		</Item_BambooShoot>
 
 		<Fish_StoneCrab>
-			<li Name="Panci daging kepiting" Desc=""/>
-			<li Name="Kepiting pedas" Desc=""/>
-			<li Name="Kaki kepiting kukus" Desc=""/>
-			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
-			<li Name="Kepiting Mabuk" Desc=""/>
-			<li Name="Tahu bubuk kepiting" Desc=""/>
-			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+			<li Name="Simmered Crab Meat" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Steamed Crab Claws" Desc="" />
+			<li Name="Simmered Crab Roe with Glass Noodles" Desc="" />
+			<li Name="Drunken Crab" Desc="" />
+			<li Name="Crab Meat with Tofu" Desc="" />
+			<li Name="Quick-fried Crab Meat" Desc="" />
 		</Fish_StoneCrab>
 		<Fish_ChillyCrab>
-			<li Name="Panci daging kepiting" Desc=""/>
-			<li Name="Kepiting pedas" Desc=""/>
-			<li Name="Kaki kepiting kukus" Desc=""/>
-			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
-			<li Name="Kepiting Mabuk" Desc=""/>
-			<li Name="Tahu bubuk kepiting" Desc=""/>
-			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+			<li Name="Simmered Crab Meat" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Steamed Crab Claws" Desc="" />
+			<li Name="Simmered Crab Roe with Glass Noodles" Desc="" />
+			<li Name="Drunken Crab" Desc="" />
+			<li Name="Crab Meat with Tofu" Desc="" />
+			<li Name="Quick-fried Crab Meat" Desc="" />
 		</Fish_ChillyCrab>
 		<Fish_JadeCrab>
-			<li Name="Panci daging kepiting" Desc=""/>
-			<li Name="Kepiting pedas" Desc=""/>
-			<li Name="Kaki kepiting kukus" Desc=""/>
-			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
-			<li Name="Kepiting Mabuk" Desc=""/>
-			<li Name="Tahu bubuk kepiting" Desc=""/>
-			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+			<li Name="Simmered Crab Meat" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Steamed Crab Claws" Desc="" />
+			<li Name="Simmered Crab Roe with Glass Noodles" Desc="" />
+			<li Name="Drunken Crab" Desc="" />
+			<li Name="Crab Meat with Tofu" Desc="" />
+			<li Name="Quick-fried Crab Meat" Desc="" />
 		</Fish_JadeCrab>
 		<Fish_FireCrab>
-			<li Name="Panci daging kepiting" Desc=""/>
-			<li Name="Kepiting pedas" Desc=""/>
-			<li Name="Kaki kepiting kukus" Desc=""/>
-			<li Name="Pot tanah liat bihun telur kepiting" Desc=""/>
-			<li Name="Kepiting Mabuk" Desc=""/>
-			<li Name="Tahu bubuk kepiting" Desc=""/>
-			<li Name="Kepiting Musim Gugur yang ditumis" Desc=""/>
+			<li Name="Simmered Crab Meat" Desc="" />
+			<li Name="Spicy Crab" Desc="" />
+			<li Name="Steamed Crab Claws" Desc="" />
+			<li Name="Simmered Crab Roe with Glass Noodles" Desc="" />
+			<li Name="Drunken Crab" Desc="" />
+			<li Name="Crab Meat with Tofu" Desc="" />
+			<li Name="Quick-fried Crab Meat" Desc="" />
 		</Fish_FireCrab>
 
 		<Fish_r2>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r2>
 		<Fish_r3>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r3>
 		<Fish_r4>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r4>
 		<Fish_r5>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r5>
 		<Fish_r6>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r6>
 		<Fish_r7>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r7>
 		<Fish_r8>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r8>
 		<Fish_r9>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r9>
 		<Fish_r10>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r10>
 		<Fish_r11>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r11>
 		<Fish_r12>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r12>
 		<Fish_r13>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_r13>
 
 		<Fish_BaiHuang>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_BaiHuang>
 		<Fish_Black>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_Black>
 		<Fish_BlueFish>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_BlueFish>
 		<Fish_FenLi>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_FenLi>
 		<Fish_HongGui>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_HongGui>
 		<Fish_HongHuang>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_HongHuang>
 		<Fish_Huang>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_Huang>
 		<Fish_Ji>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_Ji>
 		<Fish_QingHei>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_QingHei>
 		<Fish_RedFish>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_RedFish>
 		<Fish_s1>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s1>
 		<Fish_s10>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s10>
 		<Fish_s11>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s11>
 		<Fish_s12>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s12>
 		<Fish_s2>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s2>
 		<Fish_s3>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s3>
 		<Fish_s4>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s4>
 		<Fish_s5>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s5>
 		<Fish_s6>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s6>
 		<Fish_s7>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s7>
 		<Fish_s8>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s8>
 		<Fish_s9>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_s9>
 		<Fish_t1>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t1>
 		<Fish_t10>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t10>
 		<Fish_t11>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t11>
 		<Fish_t12>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t12>
 		<Fish_t2>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t2>
 		<Fish_t3>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t3>
 		<Fish_t4>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t4>
 		<Fish_t5>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t5>
 		<Fish_t6>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t6>
 		<Fish_t7>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t7>
 		<Fish_t8>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t8>
 		<Fish_t9>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_t9>
 		<Fish_XieLi>
-			<li Name="Fillet ikan panjang panas" Desc=""/>
-			<li Name="Nasi claypot ikan panjang" Desc=""/>
-			<li Name="Ikan rebus" Desc=""/>
-			<li Name="bakso ikan" Desc=""/>
-			<li Name="kue ikan" Desc=""/>
-			<li Name="Tiga panci ikan" Desc=""/>
-			<li Name="Ikan dalam Sup Panas dan Asam" Desc=""/>
-			<li Name="Ikan diisi dengan anggur" Desc=""/>
-			<li Name="Fillet ikan goreng" Desc=""/>
-			<li Name="Stok ikan rebus" Desc=""/>
-			<li Name="Kepala ikan dengan merica cincang" Desc=""/>
+			<li Name="Stir-fried Fish" Desc="" />
+			<li Name="Claypot Rice with Fish" Desc="" />
+			<li Name="Fish in Chili Oil" Desc="" />
+			<li Name="Fish Balls" Desc="" />
+			<li Name="Fish Cakes" Desc="" />
+			<li Name="Spiced Fish Stew" Desc="" />
+			<li Name="Sour Fish Soup" Desc="" />
+			<li Name="Steamed Fish in Rice Wine" Desc="" />
+			<li Name="Fried Fish Fillets" Desc="" />
+			<li Name="Simmered Fish in Broth" Desc="" />
+			<li Name="Steamed Fish Head with Hot Pepper" Desc="" />
 		</Fish_XieLi>
 		<Shrimp1>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Raja Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp1>
 		<Shrimp2>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Raja Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp2>
 		<Shrimp3>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp3>
 		<Shrimp4>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Raja Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp4>
 		<Shrimp5>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp5>
 		<Shrimp6>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Raja Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp6>
 		<Shrimp7>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp7>
 		<Shrimp8>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp8>
 		<Shrimp9>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp9>
 		<Shrimp10>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp10>
 		<Shrimp11>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp11>
 		<Shrimp12>
-			<li Name="Nasi Goreng Udang Emas" Desc=""/>
-			<li Name="Kaisar Pangsit Udang" Desc=""/>
+			<li Name="Fried rice with shrimp" Desc="" />
+			<li Name="Shrimp dumplings" Desc="" />
 		</Shrimp12>
 	</SpecialItem>
 	<SpecialItem Name="Item_DelicacyFood">
 		<Item_BambooShoot>
-			<li Name="Daging plum dan rebung musim semi" Desc="Masukkan perut babi dan rebung segar ke dalam panci, tambahkan anggur Shaoxing dan biarkan mendidih. Saat tutupnya dibuka, aromanya tajam dan menggugah selera."/>
-			<li Name="cabang horizontal pelat giok" Desc="Rebung bambu segar dan lembut digunakan di musim semi, dipotong kecil-kecil dan kemudian diukir dengan keterampilan pisau agar terlihat seperti pohon giok, yang indah dan lezat."/>
+			<li Name="Simmered Pork with Bamboo Shoots" Desc="Masukkan irisan perut babi dan rebung segar ke dalam panci dan didihkan dengan anggur Shaoxing. Setelah selesai, buka tutupnya dan cium aroma yang menggugah selera." />
+			<li Name="Bamboo Jade" Desc="Gunakan rebung segar di musim semi, potong tipis-tipis lalu diukir menjadi bentuk pohon abadi. Enak dan estetis." />
 		</Item_BambooShoot>
 
 		<Fish_StoneCrab>
-			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
-			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+			<li Name="Emperor's Soup Bun" Desc="Campur telur kepiting segar dengan daging dan bungkus dengan adonan tipis beragi. Seluruh bagian dalamnya akan diisi minyak rajungan setelah dikukus. Konon dulu ada seorang kaisar yang rela menyerahkan jubah kerajaannya untuk memakan roti ini." />
+			<li Name="Crab Steamed with Shaoxing Wine" Desc="Gunakan anggur Shaoxing terbaik untuk mengukus kepiting di akhir musim gugur. Anggur mampu mengusir rasa dingin pada kepiting. Rasa lembut anggur Shaoxing berpadu sempurna dengan manisnya daging kepiting." />
 		</Fish_StoneCrab>
 		<Fish_ChillyCrab>
-			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
-			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+			<li Name="Emperor's Soup Bun" Desc="Campur telur kepiting segar dengan daging dan bungkus dengan adonan tipis beragi. Seluruh bagian dalamnya akan diisi minyak rajungan setelah dikukus. Konon dulu ada seorang kaisar yang rela menyerahkan jubah kerajaannya untuk memakan roti ini." />
+			<li Name="Crab Steamed with Shaoxing Wine" Desc="Gunakan anggur Shaoxing terbaik untuk mengukus kepiting di akhir musim gugur. Anggur mampu mengusir rasa dingin pada kepiting. Rasa lembut anggur Shaoxing berpadu sempurna dengan manisnya daging kepiting." />
 		</Fish_ChillyCrab>
 		<Fish_JadeCrab>
-			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
-			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+			<li Name="Emperor's Soup Bun" Desc="Campur telur kepiting segar dengan daging dan bungkus dengan adonan tipis beragi. Seluruh bagian dalamnya akan diisi minyak rajungan setelah dikukus. Konon dulu ada seorang kaisar yang rela menyerahkan jubah kerajaannya untuk memakan roti ini." />
+			<li Name="Crab Steamed with Shaoxing Wine" Desc="Gunakan anggur Shaoxing terbaik untuk mengukus kepiting di akhir musim gugur. Anggur mampu mengusir rasa dingin pada kepiting. Rasa lembut anggur Shaoxing berpadu sempurna dengan manisnya daging kepiting." />
 		</Fish_JadeCrab>
 		<Fish_FireCrab>
-			<li Name="Pangsit sup longpao" Desc="Telur kepiting segar dicampur dengan daging, lalu dibungkus dengan adonan tipis hingga menjadi bakpao kukus kecil. Setelah dikukus, seluruh roti diisi dengan minyak kepiting emas. Dikatakan bahwa kaisar akan meminumnya meskipun dia tidak mengenakan jubah naga."/>
-			<li Name="Kepiting kukus arak beras" Desc="Gunakan arak beras yang baik untuk mengukus kepiting di akhir musim gugur. Anggur beras dapat menghilangkan rasa dingin pada daging kepiting dan mengisi kembali energi Yang. Rasa manis daging kepiting dan manisnya arak beras berpadu sempurna, berpadu sempurna di dunia."/>
+			<li Name="Emperor's Soup Bun" Desc="Campur telur kepiting segar dengan daging dan bungkus dengan adonan tipis beragi. Seluruh bagian dalamnya akan diisi minyak rajungan setelah dikukus. Konon dulu ada seorang kaisar yang rela menyerahkan jubah kerajaannya untuk memakan roti ini." />
+			<li Name="Crab Steamed with Shaoxing Wine" Desc="Gunakan anggur Shaoxing terbaik untuk mengukus kepiting di akhir musim gugur. Anggur mampu mengusir rasa dingin pada kepiting. Rasa lembut anggur Shaoxing berpadu sempurna dengan manisnya daging kepiting." />
 		</Fish_FireCrab>
 
 		<Fish_r2>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r2>
 		<Fish_r3>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r3>
 		<Fish_r4>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r4>
 		<Fish_r5>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r5>
 		<Fish_r6>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r6>
 		<Fish_r7>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r7>
 		<Fish_r8>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r8>
 		<Fish_r9>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r9>
 		<Fish_r10>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r10>
 		<Fish_r11>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r11>
 		<Fish_r12>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r12>
 		<Fish_r13>
-			<li Name="Suwir ikan panjang yang berminyak" Desc="Belut segar dipotong tipis-tipis dan digoreng dengan bumbu. Ini membutuhkan ketelitian dan kecepatan keterampilan pisau yang sangat tinggi."/>
-			<li Name="Bawang tumbuh di punggung ikan" Desc="Belut segar dimasak dan ditumis dengan bawang bombay untuk menghilangkan bau amis. Ini adalah kelezatan yang bergizi dan lezat."/>
+			<li Name="Stir-fried Shredded Fish" Desc="Potong belut rawa segar menjadi beberapa bagian lalu tumis bersama bahan bumbu. Membutuhkan keterampilan dan kecepatan pemotongan yang cermat." />
+			<li Name="Stir-fried Fish with Onions" Desc="Rebus belut rawa segar hingga matang, lalu tumis dengan bawang bombay untuk menghilangkan bau amis. Makanan gourmet yang sehat dan lezat." />
 		</Fish_r13>
 
 		<Fish_BaiHuang>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_BaiHuang>
 		<Fish_Black>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_Black>
 		<Fish_BlueFish>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_BlueFish>
 		<Fish_FenLi>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_FenLi>
 		<Fish_HongGui>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_HongGui>
 		<Fish_HongHuang>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_HongHuang>
 		<Fish_Huang>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_Huang>
 		<Fish_Ji>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_Ji>
 		<Fish_QingHei>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_QingHei>
 		<Fish_RedFish>	
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_RedFish>
 		<Fish_s1>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s1>
 		<Fish_s10>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s10>
 		<Fish_s11>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s11>
 		<Fish_s12>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s12>
 		<Fish_s2>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s2>
 		<Fish_s3>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s3>
 		<Fish_s4>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s4>
 		<Fish_s5>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s5>
 		<Fish_s6>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s6>
 		<Fish_s7>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s7>
 		<Fish_s8>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s8>
 		<Fish_s9>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_s9>
 		<Fish_t1>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t1>
 		<Fish_t10>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t10>
 		<Fish_t11>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t11>
 		<Fish_t12>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t12>
 		<Fish_t2>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t2>
 		<Fish_t3>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t3>
 		<Fish_t4>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t4>
 		<Fish_t5>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t5>
 		<Fish_t6>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t6>
 		<Fish_t7>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t7>
 		<Fish_t8>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t8>
 		<Fish_t9>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_t9>
 		<Fish_XieLi>		
-			<li Name="Hualongtang" Desc="Mengambil arti ikan yang melompat ke naga, rahasia sup ini terletak pada urutan memasak yang rumit dan penggunaan rempah-rempah. Rasanya jauh lebih nikmat dibandingkan masakan ikan biasa."/>
-			<li Name="Ikan Tibet Yang Fang" Desc="Ikannya dimasukkan ke dalam potongan besar daging kambing dan dimasak dengan bumbu. Rasanya sangat lezat. Karena ikan dan daging kambingnya digabungkan menjadi satu, rasanya lebih segar. Daging kambingnya renyah dan harum, dan ikan di dalamnya empuk."/>
+			<li Name="Dragon Soup" Desc="Mengambil gambaran ikan mas yang melompati gerbang naga, sup ini sebagian besar bergantung pada urutan memasak yang rumit dan penggunaan rempah-rempah, membuatnya terasa jauh lebih enak daripada hidangan ikan biasa." />
+			<li Name="Fish Hidden in Lamb" Desc="Masukkan ikan ke dalam daging domba besar yang diiris terbuka, dan masak dengan bumbu, sehingga menghasilkan rasa yang lembut. Rasa ikan yang dipadukan dengan daging domba membuatnya semakin nikmat. Daging dombanya lembut dan berair, dengan isian ikan yang empuk dan lembut di dalamnya." />
 		</Fish_XieLi>
 
 		<Shrimp1>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp1>
 		<Shrimp2>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp2>
 		<Shrimp3>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp3>
 		<Shrimp4>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp4>
 		<Shrimp5>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp5>
 		<Shrimp6>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp6>
 		<Shrimp7>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp7>
 		<Shrimp8>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp8>
 		<Shrimp9>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp9>
 		<Shrimp10>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp10>
 		<Shrimp11>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp11>
 		<Shrimp12>
-			<li Name="Udang mabuk" Desc="Gunakan anggur tingkat tinggi untuk mengasinkan udang, membuatnya lembut dan manis."/>
-			<li Name="Udang ikan teri" Desc="Lapisi ekor udang dengan tepung terigu lalu goreng hingga empuk dan renyah di luar serta empuk di dalam."/>
+			<li Name="Liquor shrimp" Desc="Gunakan minuman keras untuk merendam udang sehingga terasa lembut dan manis." />
+			<li Name="Phoenix Tail shrimp" Desc="Bungkus ekor udang dengan tepung terigu lalu goreng hingga empuk dan garing, bagian luar gosong dan bagian dalam empuk." />
 		</Shrimp12>
 	</SpecialItem>
 </List>
