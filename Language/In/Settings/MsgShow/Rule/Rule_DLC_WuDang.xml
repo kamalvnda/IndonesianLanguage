@@ -1,13 +1,13 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="School_13">
-			<DisplayName>Hubungan Sekte - Sekte WuDang</DisplayName>
+			<DisplayName>Sect Relation - WuDang Sect</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Sekte Wudang.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 	</List>
