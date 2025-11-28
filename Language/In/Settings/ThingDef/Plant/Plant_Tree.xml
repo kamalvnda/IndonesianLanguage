@@ -1,52 +1,52 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="TreePoplar" sParam="Plant">
-			<ThingName>Pohon Poplar</ThingName>
+			<ThingName>Poplar Tree</ThingName>
 			<Desc>Pohon cepat tumbuh dengan tekstur lembut dan mantap. Sumber kayu premium.</Desc>
 		</Text>
 		<Text Name="TreePine" sParam="Plant">
-			<ThingName>Pohon pinus</ThingName>
+			<ThingName>Pine Tree</ThingName>
 			<Desc>Pohon yang tumbuh lambat, tinggi dan lurus dengan tekstur padat.</Desc>
 		</Text>
 		<Text Name="TreePine_Big" sParam="Plant">
-			<ThingName>Pohon Pinus Besar</ThingName>
+			<ThingName>Huge Pine Tree</ThingName>
 			<Desc>Pohon pinus yang sangat tua.</Desc>
 		</Text>
 		<Text Name="TreePear" sParam="Plant">
-			<ThingName>Pohon Pir</ThingName>
+			<ThingName>Pear Tree</ThingName>
 			<Desc>Pohon buah-buahan biasa, kayunya halus tetapi mudah busuk. Hasil panennya umumnya kecil.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo" sParam="Plant">
-			<ThingName>Pohon Ginkgo</ThingName>
+			<ThingName>Ginkgo Tree</ThingName>
 			<Desc>Sejenis pohon besar dan tumbuh lambat yang dapat mencapai spiritualitas. Buahnya bisa dimakan dan memiliki kemampuan penyembuhan yang luar biasa.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo_Big" sParam="Plant">
-			<ThingName>Pohon Ginkgo Besar</ThingName>
+			<ThingName>Huge Ginkgo Tree</ThingName>
 			<Desc>Pohon ginkgo yang sangat tua. Besar dan dipenuhi Qi.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo_Dead" sParam="Plant">
-			<ThingName>Phoenixwood mati</ThingName>
+			<ThingName>Dead Phoenixwood</ThingName>
 			<Desc>Pohon Phoenixwood mati yang masih sangat tinggi.</Desc>
 		</Text>
 		<Text Name="PintuBase" sParam="Plant">
-			<ThingName>Hanya untuk Puzzle</ThingName>
+			<ThingName>For Puzzles only</ThingName>
 		</Text>
 		<Text Name="TreePeach" sParam="Plant">
-			<ThingName>Pohon persik</ThingName>
+			<ThingName>Peach Tree</ThingName>
 			<Desc>Pohon bunga persik.</Desc>
-			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel objek ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="TreeJade" sParam="Plant">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 			<Desc>Pohon abadi.</Desc>
-			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel objek ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="TreeBone" sParam="Plant">
-			<ThingName>Pohon Iblis</ThingName>
+			<ThingName>Fiend Tree</ThingName>
 			<Desc>Pohon iblis.</Desc>
-			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel objek ini.</StoryBnts.0.Desc>
 		</Text>
 	</List>
