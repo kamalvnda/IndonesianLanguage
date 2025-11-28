@@ -1,57 +1,57 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="RockBase" sParam="Item">
-			<Item.FabaoSuffix>Batu, Segel, Prasasti, Dualjade, Tablet, Menara, Batu Besar</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRock" sParam="Item">
-			<ThingName>Batu coklat</ThingName>
+			<ThingName>Brownstone</ThingName>
 			<Desc>Batu berwarna coklat; bahan yang sangat umum.</Desc>
-			<Item.BeMaterial.NamePrefix>batu coklat</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRock" sParam="Item">
-			<ThingName>Batu abu-abu</ThingName>
+			<ThingName>Graystone</ThingName>
 			<Desc>Batu berwarna abu-abu; bahan yang sangat umum.</Desc>
-			<Item.BeMaterial.NamePrefix>batu abu-abu</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Marble" sParam="Item">
-			<ThingName>Marmer</ThingName>
+			<ThingName>Marble</ThingName>
 			<Desc>Marmer adalah bahan batu biasa. Teksturnya cukup menarik.</Desc>
-			<Item.BeMaterial.NamePrefix>Marmer</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Jade" sParam="Item">
-			<ThingName>Giok</ThingName>
+			<ThingName>Jade</ThingName>
 			<Desc>Batu halus dan keras yang mengkilap dan sedikit tembus cahaya, sangat menarik dan penuh dengan kualitas spiritual.</Desc>
-			<Item.BeMaterial.NamePrefix>Giok</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeEssence" sParam="Item">
-			<ThingName>Esensi Giok</ThingName>
+			<ThingName>Jade Essence</ThingName>
 			<Desc>Intisari dari batu giok, ringan, memiliki permukaan halus dan sangat indah. Sering digunakan untuk membuat dekorasi kelas atas, dan juga untuk obat.</Desc>
-			<Item.BeMaterial.NamePrefix>Esensi Giok</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Jade Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StoneEssence" sParam="Item">
-			<ThingName>Esensi Batu</ThingName>
+			<ThingName>Stone Essence</ThingName>
 			<Desc>Hakikat sebuah batu adalah ringan, permukaannya halus dan sangat indah. Sering digunakan untuk membuat dekorasi kelas atas, dan juga untuk obat.</Desc>
-			<Item.BeMaterial.NamePrefix>Esensi Batu</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Stone Essence</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStone" sParam="Item">
-			<ThingName>Batu Suci</ThingName>
+			<ThingName>Holy Stone</ThingName>
 			<Desc>Jenis batu langka yang dikatakan digali dari pilar langit, dengan Qi elemen Bumi yang riuh bersemayam di dalamnya.</Desc>
-			<Item.BeMaterial.NamePrefix>Batu Suci</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ExtremeJade" sParam="Item">
-			<ThingName>Giok Ilahi</ThingName>
+			<ThingName>Divine Jade</ThingName>
 			<Desc>Harta karun yang banyak dicari di kalangan pembudidaya, secara alami menyajikan bentuk kristal silinder. Memiliki kemampuan beradaptasi Qi yang luar biasa.</Desc>
-			<Item.BeMaterial.NamePrefix>Giok Ilahi</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Divine Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStone" sParam="Item">
-			<ThingName>Batu Roh</ThingName>
+			<ThingName>Spirit Stone</ThingName>
 			<Desc>Padatan terbentuk oleh kondensasi Qi yang sangat terkonsentrasi. Mengkonsumsinya memulihkan 500 Qi, dan meningkatkan Afinitas Qi Anda untuk jangka waktu tertentu.</Desc>
-			<Item.BeMaterial.NamePrefix>Batu Roh</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystal" sParam="Item">
-			<ThingName>Kristal Roh</ThingName>
+			<ThingName>Spirit Crystal</ThingName>
 			<Desc>Kristal dibentuk oleh kondensasi Qi yang sangat terkonsentrasi. Mengkonsumsinya memulihkan 20.000 Qi, dan secara signifikan meningkatkan Afinitas Qi Anda untuk jangka waktu tertentu.</Desc>
-			<Item.BeMaterial.NamePrefix>Kristal Roh</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
