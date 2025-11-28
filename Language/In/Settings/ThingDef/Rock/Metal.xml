@@ -1,20 +1,20 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="IronOre" sParam="Plant">
-			<ThingName>Vena Bijih Besi</ThingName>
-			<Desc>Pegunungan yang kaya akan bijih besi Dimana bijih besi dapat ditambang dari sini</Desc>
+			<ThingName>Iron Ore Vein</ThingName>
+			<Desc>Gunung yang kaya akan besi, dari mana bijih besi dapat ditambang.</Desc>
 		</Text>
 		<Text Name="CopperOre" sParam="Plant">
-			<ThingName>Vena Bijih Tembaga Api</ThingName>
-			<Desc>Sebuah gunung yang kaya akan bijih tembaga api. Dimana bijih tembaga api dapat ditambang dari sini.</Desc>
+			<ThingName>Igneocopper Ore Vein</ThingName>
+			<Desc>Gunung yang kaya akan Igneocopper, tempat bijih Igneocopper dapat ditambang.</Desc>
 		</Text>
 		<Text Name="SilverOre" sParam="Plant">
-			<ThingName>Vena Mineral Kristal Es</ThingName>
-			<Desc>Pegunungan yang kaya akan mineral kristal es Dimana kristal es dapat ditambang dari sini</Desc>
+			<ThingName>Ice Crystal Ore Vein</ThingName>
+			<Desc>Gunung yang kaya akan Kristal Es, tempat bijih Kristal Es dapat ditambang.</Desc>
 		</Text>
 		<Text Name="RockLing" sParam="Plant">
-			<ThingName>Vena Batu Roh</ThingName>
-			<Desc>Gunung yang kaya akan batu roh Di sinilah batu roh bisa ditambang.</Desc>
+			<ThingName>Spirit Stone Vein</ThingName>
+			<Desc>Batuan gunung yang kaya akan Qi, dari mana Batu Roh dapat ditambang.</Desc>
 		</Text>
 	</List>
 </Texts>
