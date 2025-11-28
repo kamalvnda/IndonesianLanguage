@@ -1,113 +1,113 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
-			<DisplayName>Konversi binatang</DisplayName>
+			<DisplayName>Beast convertion</DisplayName>
 			<Desc>Hewan mati bisa berubah menjadi monster.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ElixirGas">
-			<DisplayName>Kepenuhan Alkimia Qi</DisplayName>
+			<DisplayName>Alchemy Qi Fullness</DisplayName>
 			<Desc>Alkimia yang berhasil meningkatkan Qi Alkimia Lima Elemen di area tersebut, menawarkan efek bervariasi berdasarkan proporsi</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LifeLost">
-			<DisplayName>Nasib Mendadak</DisplayName>
+			<DisplayName>Abrupt Fate</DisplayName>
 			<Desc>Mengonsumsi obat akan mengurangi Toleransi Obat, namun Umur karakter akan terkuras 100 kali lebih cepat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
-			<DisplayName>Kutukan Batu Dalam</DisplayName>
+			<DisplayName>Deep Rock Curse</DisplayName>
 			<Desc>Sangat meningkatkan kemungkinan menggali peti mati kuno, tetapi hal itu akan membunuh murid penambang.</Desc>
-			<Effects.0.sParam1>Kutukan Batu Dalam</Effects.0.sParam1>
+			<Effects.0.sParam1>Deep Rock Curse</Effects.0.sParam1>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_LinQiSurge">
-			<DisplayName>Fenomena Surgawi Mungkin</DisplayName>
+			<DisplayName>Celestial Phenomenon Might</DisplayName>
 			<Desc>Setiap perubahan cuaca disertai dengan Semburan Qi, namun perubahan cuaca akan memakan korban jiwa.</Desc>
-			<Effects.0.sParam1>Fenomena Surgawi Mungkin</Effects.0.sParam1>
+			<Effects.0.sParam1>Celestial Phenomenon Might</Effects.0.sParam1>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
-			<DisplayName>Orang Mencari Untung</DisplayName>
+			<DisplayName>People Seek Profit</DisplayName>
 			<Desc>Harga jual pedagang berkurang setengahnya, harga pembelian menjadi dua kali lipat, namun dalam satu siklus pedagang, barang menjadi lebih mahal jika semakin banyak Anda membeli, dan bahan menjadi lebih murah jika semakin banyak Anda menjual.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
-			<DisplayName>Pembalikan Lima Elemen</DisplayName>
+			<DisplayName>Five Elements Reversal</DisplayName>
 			<Desc>Hubungan pembangkitan dan penanggulangan Lima Elemen dibalik satu kali.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
-			<DisplayName>Runtuhnya Jalur Jimat</DisplayName>
+			<DisplayName>Talisman Path Collapse</DisplayName>
 			<Desc>Tidak dapat menggambar jimat secara manual, tetapi menggambar jimat akan menghasilkan hasil yang acak. Karakter dapat mengaktifkan lebih banyak jimat.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
-			<DisplayName>Artefak yang Ditahbiskan Secara Ilahi</DisplayName>
+			<DisplayName>Divinely Ordained Artifact</DisplayName>
 			<Desc>Penyempurnaan dijamin berhasil, tetapi menghabiskan lebih banyak sumber daya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
-			<DisplayName>Dunia yang Harmonis</DisplayName>
+			<DisplayName>Harmonious World</DisplayName>
 			<Desc>Mendapatkan bantuan dari kultivator lain meningkat pesat, dan seseorang dapat langsung menembus pertahanan mental, tetapi kultivator lain juga secara otomatis menghindari bahaya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_RealTime">
-			<DisplayName>Penyesuaian Sumbu Waktu</DisplayName>
+			<DisplayName>Time Axis Adjustment</DisplayName>
 			<Desc>Hari pemicu untuk semua peristiwa rahasia dipersingkat menjadi 1/3, dan waktu murid yang ditempatkan di luar akan menjadi waktu sebenarnya.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_SupplyBox">
-			<DisplayName>Sisa-sisa Apokaliptik</DisplayName>
+			<DisplayName>Apocalyptic Remnants</DisplayName>
 			<Desc>Kabut peta otomatis dihilangkan. Tidak dapat memperoleh hasil dari pemotongan, pemanenan, penambangan, atau pemotongan, tetapi peti persediaan akan jatuh dari langit setiap hari.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
-			<DisplayName>Koneksi Seluruh Dunia</DisplayName>
+			<DisplayName>Worldwide Connection</DisplayName>
 			<Desc>Saat memperoleh reputasi melalui berbagai cara, reputasi yang diperoleh secara acak positif atau negatif, dan pengganda untuk memperoleh reputasi berkisar secara acak dari 0,1 hingga 10.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_UnlockGong">
-			<DisplayName>Buah Dao Berisiko</DisplayName>
+			<DisplayName>Dao Fruit at Risk</DisplayName>
 			<Desc>Nilai dasar yang diperlukan untuk Pelatihan Dasar, dan nilai budidaya yang diperlukan untuk latihan, dikalikan 5. Semua undang-undang kini terbuka untuk semua petani.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yang">
-			<DisplayName>Tempat Yang Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yang</DisplayName>
 			<Desc>Sekte Feng Shui secara permanen berada di posisi tertinggi, efek pengumpulan roh dasar meningkat 100 poin, semua plot mendapatkan atribut api dan kayu, tetapi suhu dasar peta naik 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Yin">
-			<DisplayName>Tempat Yin Ekstrim</DisplayName>
+			<DisplayName>Place of Extreme Yin</DisplayName>
 			<Desc>Sekte Feng Shui secara permanen berada di posisi tertinggi, efek pengumpulan roh dasar meningkat 100 poin, semua plot mendapatkan atribut logam dan air, tetapi suhu dasar peta menurun sebesar 20°.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_1">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa kelinci, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah beberapa kelinci diburu oleh murid sekte, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>After several rabbits hunted by the sect disciples, a [TARGET] appeared!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_2">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa serigala, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte memburu beberapa serigala, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several wolves, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_3">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa beruang, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa beruang, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several bears, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_4">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa penyu, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa kura-kura, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several turtles, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_5">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa harimau, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa harimau, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several tigers, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_6">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa ekor sapi, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa sapi, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several cows, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_7">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa ekor ayam, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa ayam, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several chickens, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Hunter_8">
-			<DisplayName>Pemburu Monster</DisplayName>
+			<DisplayName>Monster Hunter</DisplayName>
 			<Desc>Setelah berburu beberapa ular, sebuah barang langka muncul.</Desc>
-			<SpecialDesc>Setelah murid Sekte berburu beberapa ular, a[TARGET]muncul!</SpecialDesc>
+			<SpecialDesc>Upon Sect disciples hunting several snakes, a [TARGET] emerges!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_1">
-			<DisplayName>Kejahatan Kepemilikan</DisplayName>
+			<DisplayName>Crime of Possession</DisplayName>
 			<Desc>Memperoleh beberapa harta langka, tetapi dukungan semua Sekte terhadap kami anjlok.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
@@ -115,14 +115,14 @@
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetItem_2">
 			<Desc>Dapatkan Barang Langka</Desc>
-			<SpecialDesc>Dengan melonjaknya Reputasi Sekte, a[TARGET]terwujud!</SpecialDesc>
+			<SpecialDesc>With the surge in Sect Reputation, a [TARGET] materializes!</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_Sacrific">
 			<Desc>Mulai Pengorbanan Binatang</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetSchoolRelation">
 			<Desc>Memprovokasi kemarahan Istana Sepuluh Ribu Iblis</Desc>
-			<SpecialDesc>Mengorbankan iblis membuat marah Istana Iblis</SpecialDesc>
+			<SpecialDesc>Sacrificing demons enrages the Demon Palace</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_FengShuiChange">
 			<Desc>Semua murid sekte secara alami berbakat, dengan semua kemampuan +2 (peningkatan batas), tetapi sekte Anda menderita kecemburuan ilahi, membuat semua relik merugikan secara permanen.</Desc>
@@ -162,7 +162,7 @@
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
 			<Desc>Murid sekte secara signifikan meningkatkan Pelatihan Dasar dan kecepatan kultivasi mereka dalam waktu singkat.</Desc>
-			<SpecialDesc>[NPC]Kenaikan secara signifikan meningkatkan kecepatan pendirian yayasan dan kecepatan budidaya semua murid sekte dalam jangka pendek.</SpecialDesc>
+			<SpecialDesc>[NPC]'s ascension significantly boosts the foundation establishment speed and cultivation speed of all sect disciples in the short term.</SpecialDesc>
 		</Text>
 		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
 			<Desc>Murid sekte mengalami penurunan yang signifikan dalam kecepatan Pelatihan Dasar dan Budidaya.</Desc>
@@ -172,7 +172,7 @@
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetStageValue_1">
 			<Desc>Dapatkan Budidaya</Desc>
-			<SpecialDesc>[NPC]Budidayanya meningkat pesat setelah menyelesaikan pembunuhan.</SpecialDesc>
+			<SpecialDesc>[NPC]'s cultivation greatly increases after completing the kill.</SpecialDesc>
 		</Text>
 	</List>
 </Texts>
