@@ -4,28 +4,28 @@
 			<DisplayName>Sunflower Refining Law</DisplayName>
 			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Hanya perempuan yang diperbolehkan bercocok tanam dengan mengikuti Undang-undang ini. Gunakan kekuatan Yin yang paling murni dari bumi untuk menciptakan roh Yin yang murni, tinggalkan tubuh fana dan naiklah sebagai makhluk abadi. Jika dilakukan oleh seorang kultivator laki-laki, jenis kelaminnya akan terbalik.</Desc>
 			<SelectDesc>Undang-undang ini cocok untuk perempuan. Jika dilakukan oleh seorang kultivator laki-laki, jenis kelaminnya akan terbalik. Seseorang akan unggul dalam penguasaan artefak ketika mengolah Hukum ini, tetapi harus mengalami kesengsaraan pertama selama pembentukan inti. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Yin Kecil</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Kepolosan</Stages.0.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Lesser Yin</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Innocence</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Simpati</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Sympathy</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Sensibilitas</Stages.0.Necks.2.DisplayName>
-			<Stages.1.DisplayName>Adil Yin</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Keterbukaan</Stages.1.Necks.0.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Sensibility</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Fair Yin</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Openness</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Konvergen</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Converging</Stages.1.Necks.1.DisplayName>
 			<Stages.1.Necks.1.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Pembentukan Inti</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Yin Yang Lebih Besar</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Kebajikan</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Kejujuran</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Ketidakjelasan</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Pelupaan</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Kelengkapan</Stages.3.Necks.0.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Core Forming</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Greater Yin</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Benevolence</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sincerity</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Vagueness</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Oblivion</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Completeness</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>Integrasikan Mutiara Jiwa dari binatang dewasa dengan roh Yin murni dan selesaikan panggung menggunakan Yin Qi murni di dalam bola tersebut.</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Transformasi</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Transformation</Stages.3.Necks.1.DisplayName>
 			<Stages.3.Necks.1.Desc>Berubah menjadi ribuan bentuk menggunakan kekuatan roh yang utuh. Renungkan hidup dan mati untuk pencerahan dari surga.[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Harmoni</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Harmony</Stages.3.Necks.2.DisplayName>
 		</Text>
 	</List>
 </Texts>
