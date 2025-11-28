@@ -1,85 +1,85 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Point_FarmBase">
-			<DisplayName>Bidang</DisplayName>
+			<DisplayName>Field</DisplayName>
 		</Text>
 		<Text Name="Point_MineBase">
-			<DisplayName>Tambang</DisplayName>
+			<DisplayName>Mine</DisplayName>
 		</Text>
 		<Text Name="Point_LumberBase">
-			<DisplayName>Kamp Penebangan</DisplayName>
+			<DisplayName>Logging Camp</DisplayName>
 		</Text>
 		<Text Name="Point_LingBase">
-			<DisplayName>Tambang Batu Roh</DisplayName>
+			<DisplayName>Spirit Stone Mine</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains4">
-			<DisplayName>Bunga mekar</DisplayName>
+			<DisplayName>Blossomfall</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains2">
-			<DisplayName>Puncak Alkemis</DisplayName>
+			<DisplayName>Alchemist's Peak</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains5">
-			<DisplayName>Desa Buluh</DisplayName>
+			<DisplayName>Reed Village</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains1">
-			<DisplayName>Gunung Cloudsreach</DisplayName>
+			<DisplayName>Mt. Cloudsreach</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains3">
-			<DisplayName>Gunung Mesa</DisplayName>
+			<DisplayName>Mt. Mesa</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace12">
-			<DisplayName>Gunung Bulan Purnama</DisplayName>
+			<DisplayName>Mt. FullMoon</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace14">
-			<DisplayName>Gunung Coppertomb</DisplayName>
+			<DisplayName>Mt. Coppertomb</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace15">
-			<DisplayName>Reruntuhan Taiyi</DisplayName>
+			<DisplayName>Taiyi Ruin</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace13">
-			<DisplayName>Gunung Tandus</DisplayName>
+			<DisplayName>Mt. Barren</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace11">
-			<DisplayName>Desa Nanping</DisplayName>
+			<DisplayName>Nanping Village</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField3">
-			<DisplayName>Desa Ratoon</DisplayName>
+			<DisplayName>Ratoon Village</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField4">
-			<DisplayName>Gunung Cassia</DisplayName>
+			<DisplayName>Mt. Cassia</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField5">
-			<DisplayName>Gunung Rue</DisplayName>
+			<DisplayName>Mt. Rue</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField1">
-			<DisplayName>Kota Galepeak</DisplayName>
+			<DisplayName>Galepeak Town</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField2">
-			<DisplayName>Kota Sunstop</DisplayName>
+			<DisplayName>Sunstop Town</DisplayName>
 		</Text>
 		<Text Name="Point_Desert2">
-			<DisplayName>Tanah Terlantar Mirage</DisplayName>
+			<DisplayName>Mirage Wastelands</DisplayName>
 		</Text>
 		<Text Name="Point_Desert4">
-			<DisplayName>Desa Bukit Pasir</DisplayName>
+			<DisplayName>Village of Dunes</DisplayName>
 		</Text>
 		<Text Name="Point_Desert3">
-			<DisplayName>Paling mencolok</DisplayName>
+			<DisplayName>Blazenest</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield1">
-			<DisplayName>Lembah Keong Skye</DisplayName>
+			<DisplayName>Skye Conch Valley</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield3">
-			<DisplayName>Dataran Badai Salju</DisplayName>
+			<DisplayName>Blizzard Plains</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield2">
-			<DisplayName>Danau Batu Giok</DisplayName>
+			<DisplayName>Lake Jadestone</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest1">
-			<DisplayName>Racun Abadi</DisplayName>
+			<DisplayName>Perennial Miasma</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest3">
-			<DisplayName>Lembah Cacing</DisplayName>
+			<DisplayName>Wormwrought Valley</DisplayName>
 		</Text>
 	</List>
 </Texts>
