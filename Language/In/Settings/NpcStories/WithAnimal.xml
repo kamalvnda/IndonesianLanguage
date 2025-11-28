@@ -1,65 +1,65 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Animal_EatLikeFood">
-			<Events.0.Story>[name] menemukan itu[hename]sepertinya sangat menyukainya.</Events.0.Story>
+			<Events.0.Story>[name] menemukan itu [hename] sepertinya sangat menyukainya.</Events.0.Story>
 		</Text>
 		<Text Name="Animal_EatDisLikeFood">
-			<Events.0.Story>[name] menemukan itu[hename]sepertinya tidak terlalu menyukainya.</Events.0.Story>
+			<Events.0.Story>[name] menemukan itu [hename] sepertinya tidak terlalu menyukainya.</Events.0.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story">
-			<Events.0.Story>[name] membelai[hename], Dan[hename]mengedipkan mata penuh penghargaan.</Events.0.Story>
-			<Events.1.Story>[name] membelai[hename], Dan[hename]menggeliat dengan gugup.</Events.1.Story>
-			<Events.2.Story>[name] gergaji[hename]berbohong, tanpa peduli pada dunia. Jadi mereka pergi dan menyodoknya dengan keras.</Events.2.Story>
-			<Events.3.Story>[name] pergi bermain dengannya[hename], Tetapi[hename]hanya melihat sekali saja [name] sebelum pergi, tidak tertarik.</Events.3.Story>
-			<Events.4.Story>[name] melihat itu[hename]tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing], mengendusnya dengan baik dan satu atau dua jilatan.</Events.4.Story>
-			<Events.5.Story>[hename]mengendus [name] , tampak tidak terkesan, dan pergi.</Events.5.Story>
-			<Events.6.Story>[hename]berlari berkeliling [name] dengan penuh semangat.</Events.6.Story>
+			<Events.0.Story>[name] membelai [hename] , Dan [hename] mengedipkan mata penuh penghargaan.</Events.0.Story>
+			<Events.1.Story>[name] membelai [hename] , Dan [hename] menggeliat dengan gugup.</Events.1.Story>
+			<Events.2.Story>[name] gergaji [hename] berbohong, tanpa peduli pada dunia. Jadi mereka pergi dan menyodoknya dengan keras.</Events.2.Story>
+			<Events.3.Story>[name] pergi bermain dengannya [hename] , Tetapi [hename] hanya melihat sekali saja [name] sebelum pergi, tidak tertarik.</Events.3.Story>
+			<Events.4.Story>[name] melihat itu [hename] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] , mengendusnya dengan baik dan satu atau dua jilatan.</Events.4.Story>
+			<Events.5.Story>[hename] mengendus [name] , tampak tidak terkesan, dan pergi.</Events.5.Story>
+			<Events.6.Story>[hename] berlari berkeliling [name] dengan penuh semangat.</Events.6.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Rabbit">
-			<Events.0.Story>[name] telah mengambil[hename]ke dalam pelukan mereka, dan bermain dengan mereka sebentar.</Events.0.Story>
-			<Events.1.Story>[name] dibelai[hename]telinga besar yang terkulai.</Events.1.Story>
+			<Events.0.Story>[name] telah mengambil [hename] ke dalam pelukan mereka, dan bermain dengan mereka sebentar.</Events.0.Story>
+			<Events.1.Story>[name] dibelai [hename] telinga besar yang terkulai.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Chicken">
-			<Events.0.Story>[name] dipilih[hename]di tangan mereka, dan melemparkannya ke langit.[hename]mengepakkan sayapnya karena ketakutan, mengotori tanah dengan bulu.</Events.0.Story>
-			<Events.1.Story>Setelah melihat [name] , [hename]sepertinya tiba-tiba mempunyai ide tentang sesuatu atau yang lain, dan mulai menyendiri.</Events.1.Story>
+			<Events.0.Story>[name] dipilih [hename] di tangan mereka, dan melemparkannya ke langit. [hename] mengepakkan sayapnya karena ketakutan, mengotori tanah dengan bulu.</Events.0.Story>
+			<Events.1.Story>Setelah melihat [name] [hename] sepertinya tiba-tiba mempunyai ide tentang sesuatu atau yang lain, dan mulai menyendiri.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Wolf">
-			<Events.0.Story>[name] membelai[hename], Dan[hename]mengacak-acak dengan lembut untuk menunjukkan penghargaan mereka.</Events.0.Story>
-			<Events.1.Story>[hename]berlari berputar-putar [name] , melompat-lompat dan menggonggong.</Events.1.Story>
-			<Events.2.Story>[hename]tergeletak di tanah, mempersempit pandangannya [name] dengan kilatan berbahaya di matanya.</Events.2.Story>
-			<Events.3.Story>[hename]mengibaskan ekornya [name] .</Events.3.Story>
+			<Events.0.Story>[name] membelai [hename] , Dan [hename] mengacak-acak dengan lembut untuk menunjukkan penghargaan mereka.</Events.0.Story>
+			<Events.1.Story>[hename] berlari berputar-putar [name] , melompat-lompat dan menggonggong.</Events.1.Story>
+			<Events.2.Story>[hename] tergeletak di tanah, mempersempit pandangannya [name] dengan kilatan berbahaya di matanya.</Events.2.Story>
+			<Events.3.Story>[hename] mengibaskan ekornya [name]</Events.3.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Snake">
-			<Events.0.Story>Melihat [name] mendekati,[hename]mengangkat kepalanya tinggi-tinggi, menjulurkan lidahnya ke arah mereka.</Events.0.Story>
-			<Events.1.Story>[name] telah mengambil[hename]ke dalam pelukan mereka, dan bermain dengan mereka sebentar.</Events.1.Story>
-			<Events.2.Story>[name] menyaksikan dengan rasa ingin tahu yang tidak wajar sebagai[hename]menelan tikus besar dalam satu tegukan.</Events.2.Story>
+			<Events.0.Story>Melihat [name] mendekati, [hename] mengangkat kepalanya tinggi-tinggi, menjulurkan lidahnya ke arah mereka.</Events.0.Story>
+			<Events.1.Story>[name] telah mengambil [hename] ke dalam pelukan mereka, dan bermain dengan mereka sebentar.</Events.1.Story>
+			<Events.2.Story>[name] menyaksikan dengan rasa ingin tahu yang tidak wajar sebagai [hename] menelan tikus besar dalam satu tegukan.</Events.2.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Boar">
-			<Events.0.Story>[hename]tiba-tiba mendorong dengan marah [name] dengan moncongnya.</Events.0.Story>
-			<Events.1.Story>[name] gergaji[hename]bermalas-malasan di tanah, mendengus pada dirinya sendiri. Jadi mereka mengambil sebuah batu dan melemparkannya ke arah mereka.</Events.1.Story>
+			<Events.0.Story>[hename] tiba-tiba mendorong dengan marah [name] dengan moncongnya.</Events.0.Story>
+			<Events.1.Story>[name] gergaji [hename] bermalas-malasan di tanah, mendengus pada dirinya sendiri. Jadi mereka mengambil sebuah batu dan melemparkannya ke arah mereka.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Bear">
-			<Events.0.Story>Setelah melihat [name] , [hename]merentangkan tangannya lebar-lebar dan bergegas menghampiri mereka dengan penuh semangat. [name] ketakutan dan lari secepat yang bisa dilakukan kaki mereka.</Events.0.Story>
-			<Events.1.Story>[name] melihat[hename], Kemudian[hename]tampak marah tentang sesuatu dan menghantam tanah.</Events.1.Story>
+			<Events.0.Story>Setelah melihat [name] [hename] merentangkan tangannya lebar-lebar dan bergegas menghampiri mereka dengan penuh semangat. [name] ketakutan dan lari secepat yang bisa dilakukan kaki mereka.</Events.0.Story>
+			<Events.1.Story>[name] melihat [hename] , Kemudian [hename] tampak marah tentang sesuatu dan menghantam tanah.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Turtle">
-			<Events.0.Story>[name] membelai[hename], Dan[hename]bersembunyi di dalam cangkangnya dengan tergesa-gesa.</Events.0.Story>
-			<Events.1.Story>[name] ditemukan[hename]berbohong, tanpa peduli pada dunia. Jadi mereka pergi dan menyodoknya.[hename]mundur ke dalam cangkangnya.</Events.1.Story>
-			<Events.2.Story>[name] pergi bermain dengannya[hename], Tetapi[hename]hanya melihat sekali saja [name] sebelum perlahan menyusut kembali ke dalam cangkangnya.</Events.2.Story>
-			<Events.3.Story>[hename]tiba-tiba tertarik pada lingkungan sekitar[obj_nearthing], mengendusnya dengan baik.</Events.3.Story>
-			<Events.4.Story>[name] pergi untuk bermain dengannya[hename], Dan[hename]menjulurkan kepala mereka ke depan, meniupkan gelembung ke arah mereka.</Events.4.Story>
+			<Events.0.Story>[name] membelai [hename] , Dan [hename] bersembunyi di dalam cangkangnya dengan tergesa-gesa.</Events.0.Story>
+			<Events.1.Story>[name] ditemukan [hename] berbohong, tanpa peduli pada dunia. Jadi mereka pergi dan menyodoknya. [hename] mundur ke dalam cangkangnya.</Events.1.Story>
+			<Events.2.Story>[name] pergi bermain dengannya [hename] , Tetapi [hename] hanya melihat sekali saja [name] sebelum perlahan menyusut kembali ke dalam cangkangnya.</Events.2.Story>
+			<Events.3.Story>[hename] tiba-tiba tertarik pada lingkungan sekitar [obj_nearthing] , mengendusnya dengan baik.</Events.3.Story>
+			<Events.4.Story>[name] pergi untuk bermain dengannya [hename] , Dan [hename] menjulurkan kepala mereka ke depan, meniupkan gelembung ke arah mereka.</Events.4.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Frog">
-			<Events.0.Story>[name] merasakan itu[hename]sepertinya sedang memikirkan sesuatu yang penting. Namun ketika mereka melihat ke belakang lagi, hal itu hanya berjalan seperti biasa.</Events.0.Story>
-			<Events.1.Story>[name] ditempatkan[hename]di telapak tangan mereka.[hename]berusuk dan menyemburkan air ke dalamnya [name] wajah, sebelum melompat-lompat kegirangan.</Events.1.Story>
+			<Events.0.Story>[name] merasakan itu [hename] sepertinya sedang memikirkan sesuatu yang penting. Namun ketika mereka melihat ke belakang lagi, hal itu hanya berjalan seperti biasa.</Events.0.Story>
+			<Events.1.Story>[name] ditempatkan [hename] di telapak tangan mereka. [hename] berusuk dan menyemburkan air ke dalamnya [name] wajah, sebelum melompat-lompat kegirangan.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Fei">
-			<Events.0.Story>[name] membelai[hename], Dan[hename]mengeluarkan tangisan lembut dan gembira.</Events.0.Story>
-			<Events.1.Story>[hename]menatap dengan penuh kasih sayang [name] di kejauhan.</Events.1.Story>
+			<Events.0.Story>[name] membelai [hename] , Dan [hename] mengeluarkan tangisan lembut dan gembira.</Events.0.Story>
+			<Events.1.Story>[hename] menatap dengan penuh kasih sayang [name] di kejauhan.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Lushu">
-			<Events.0.Story>[name] membelai[hename], Dan[hename]menggelengkan kepalanya dengan marah.</Events.0.Story>
-			<Events.1.Story>[hename]berpikir itu [name] datang untuk mengelusnya, jadi dia segera berbaring dan berpura-pura tertidur.</Events.1.Story>
+			<Events.0.Story>[name] membelai [hename] , Dan [hename] menggelengkan kepalanya dengan marah.</Events.0.Story>
+			<Events.1.Story>[hename] berpikir itu [name] datang untuk mengelusnya, jadi dia segera berbaring dan berpura-pura tertidur.</Events.1.Story>
 		</Text>
 	</List>
 </Texts>
