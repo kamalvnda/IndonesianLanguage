@@ -1,65 +1,65 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God_Xiuwei">
-			<DisplayName>Makhluk surgawi menyatukan pikiran mereka.</DisplayName>
-			<Desc>Duduklah dengan tenang sambil mengubah akumulasi keyakinan pengguna menjadi basis kultivasi.</Desc>
+			<DisplayName>Celestial Meditation</DisplayName>
+			<Desc>Duduklah dengan tenang sambil mengubah Keyakinan Anda yang terkumpul menjadi Budidaya.</Desc>
 		</Text>
 		<Text Name="God_Xiuwei1">
-			<DisplayName>Para dewa menyatukan pikiran mereka.</DisplayName>
-			<Desc>Duduklah dengan tenang sambil mengubah akumulasi keyakinan pengguna menjadi basis kultivasi. Dengan tingkat konversi yang relatif rendah</Desc>
+			<DisplayName>Meditation of Divinity</DisplayName>
+			<Desc>Duduklah dengan tenang sambil mengubah akumulasi Keyakinan Anda menjadi Budidaya, tetapi dengan tingkat konversi yang agak rendah.</Desc>
 		</Text>
 		<Text Name="God_Xiuwei2">
-			<DisplayName>Tuhan yang suci menyatukan pikiran</DisplayName>
-			<Desc>Duduklah dengan tenang sambil mengubah akumulasi keyakinan pengguna menjadi basis kultivasi. Dengan tingkat konversi yang sedikit rendah</Desc>
+			<DisplayName>Meditation of Unification</DisplayName>
+			<Desc>Duduklah dengan tenang sambil mengubah akumulasi Keyakinan Anda menjadi Budidaya, tetapi dengan tingkat konversi yang sedikit rendah.</Desc>
 		</Text>
 		<Text Name="God_XinZhai">
-			<DisplayName>Istirahat mental</DisplayName>
-			<Desc>Memasuki kondisi kekurangan mental, yang secara bertahap mengurangi efek emosi pada suasana hati pengguna selama jangka waktu tertentu setelah merapal mantra. Durasi efek yang tersisa setelah selesai sama dengan waktu perapal mantra berada dalam kondisi kekurangan mental.</Desc>
+			<DisplayName>Mind Fasting</DisplayName>
+			<Desc>Masuki Puasa Pikiran, yang secara bertahap mengurangi dampak emosi pada Suasana Hati Anda, dan berlanjut selama jangka waktu tertentu setelah selesai. Lamanya waktu efek bertahan setelah selesai setara dengan waktu yang Anda habiskan dalam Mind Fasting.</Desc>
 		</Text>
 		<Text Name="God_ResurrectionA">
-			<DisplayName>Sihir suci menghidupkan kembali</DisplayName>
-			<Desc>Menghidupkan kembali karakter yang sekarat atau sekarat. Kastor akan menerima tambahan 10 roh ilahi.</Desc>
-			<TargetDesc>Select a dead or dying character.</TargetDesc>
+			<DisplayName>Resurrection Spell</DisplayName>
+			<Desc>Menghidupkan kembali karakter yang sekarat atau mati. Anda menerima 10 Keilahian.</Desc>
+			<TargetDesc>Pilih karakter yang mati atau sekarat.</TargetDesc>
 		</Text>
 		<Text Name="God_ResurrectionB">
-			<DisplayName>Yin Yang terbalik</DisplayName>
-			<Desc>Menghidupkan kembali semua karakter yang mati dan mati di sisi yang sama dalam adegan. Kastor akan menerima tambahan 100 roh ilahi.</Desc>
+			<DisplayName>Yin Yang Reversal</DisplayName>
+			<Desc>Menghidupkan kembali semua karakter yang sekarat dan jatuh di pihak Anda dalam adegan. Anda menerima 100 Keilahian.</Desc>
 		</Text>
 		<Text Name="God_DefuseZhinian">
-			<DisplayName>Tuhan membersihkan pikiran</DisplayName>
-			<Desc>Larutkan kekotoran batin karakter menjadi permata kekotoran batin.</Desc>
-			<TargetDesc>Pilih karakter yang "Passion"-nya sudah muncul.</TargetDesc>
+			<DisplayName>Clean Mind</DisplayName>
+			<Desc>Selesaikan Obsesi untuk karakter tersebut, dan dapatkan Permata Obsesi.</Desc>
+			<TargetDesc>Pilih karakter yang Obsesinya telah terwujud.</TargetDesc>
 		</Text>
 		<Text Name="God_GodLike">
-			<DisplayName>Dewa Pengubah Bentuk</DisplayName>
-			<Desc>Ucapkan mantra untuk meningkatkan roh ilahi seseorang ke tingkat maksimum untuk jangka waktu sementara. Hasilnya, kemampuan bertarungnya meningkat pesat. Namun, setiap penggunaan akan meningkatkan Divine Spirit pengguna secara permanen sebanyak 1 unit.</Desc>
+			<DisplayName>Deification</DisplayName>
+			<Desc>Ucapkan mantra untuk sementara waktu meningkatkan Divinity Anda hingga ekstrem. Namun, setiap penggunaan akan meningkatkan Divinity Anda secara permanen sebesar 1.</Desc>
 		</Text>
 		<Text Name="God_BeliveMe">
-			<DisplayName>undangan suci</DisplayName>
-			<Desc>Undang karakter ramah atau murid batin yang netral untuk mengundang orang tersebut menjadi pemimpin murid pengguna.</Desc>
-			<TargetDesc>Pilih karakter yang ingin Anda undang.</TargetDesc>
+			<DisplayName>Persuasion</DisplayName>
+			<Desc>Membujuk karakter murid dalam yang sekutu atau netral untuk mencoba mengubahnya menjadi Pengikut Inti.</Desc>
+			<TargetDesc>Pilih karakter yang membutuhkan persuasi.</TargetDesc>
 		</Text>
 		<Text Name="God_Jingxin">
-			<DisplayName>Mantra pengusir dewa</DisplayName>
-			<Desc>Digunakan pada mereka yang bukan Penggarap Jalan Ilahi. Hal ini menghasilkan penurunan laju peningkatan suasana hati sebesar 25% selama 7 hari.</Desc>
-			<TargetDesc>Pilih karakter yang tidak menggunakan Penggarap Ilahi untuk menggunakan mantra.</TargetDesc>
+			<DisplayName>Pacification</DisplayName>
+			<Desc>Melepaskan karakter yang tidak mengembangkan Shendao dan mengurangi pengganda Moodnya sebesar 25%, berlangsung selama 7 hari.</Desc>
+			<TargetDesc>Pilih karakter non-Shendao untuk dirilis.</TargetDesc>
 		</Text>
 		<Text Name="God_ProductUp1">
-			<DisplayName>Mantra untuk menyatukan para dewa</DisplayName>
-			<Desc>Meningkatkan keluaran material dasar dari area yang ditempati pengguna sebesar 100% selama 10 hari.</Desc>
+			<DisplayName>Divine Rallying Spell</DisplayName>
+			<Desc>Tingkatkan hasil material dasar di area milik dewa Anda sebesar 100% dalam 10 hari.</Desc>
 		</Text>
 		<Text Name="God_ProductUp2">
-			<DisplayName>Mantra berkat ilahi</DisplayName>
-			<Desc>Meningkatkan keluaran material dasar dari area yang ditempati pengguna sebesar 200% selama 4 hari.</Desc>
+			<DisplayName>Wish-fulfilling Spell</DisplayName>
+			<Desc>Tingkatkan hasil material dasar di area milik dewa Anda sebesar 200% dalam waktu 4 hari.</Desc>
 		</Text>
 		<Text Name="God_ProductUp3">
-			<DisplayName>Satu Mantra Iman</DisplayName>
-			<Desc>Meningkatkan keluaran material dasar dari area yang ditempati pengguna sebesar 500% selama 1 hari.</Desc>
+			<DisplayName>Sole Reverence Spell</DisplayName>
+			<Desc>Tingkatkan hasil material dasar dari area milik dewa Anda sebesar 500% dalam 1 hari.</Desc>
 		</Text>
 		<Text Name="God_TongLing_Plant">
-			<DisplayName>Mantra Berkah Surga</DisplayName>
-			<Desc>Tumbuhan adalah makhluk hidup tetapi tidak mempunyai pikiran. Ia menggunakan satu pikiran manusia untuk meningkatkan kesadaran tanaman. Ia menggunakan 9 batu permata dan 1 batu permata untuk menyadarkannya akan Qi langit dan bumi. Diperlukan waktu tertentu sebelum efek mantra terungkap dan mantra tidak dapat diulangi pada tanaman saat berada di bawah pengaruh mantra. Semakin tinggi kesadaran ilahi perapal mantra dan periode pencerahan tanaman, Semakin besar kemungkinannya untuk mencapai pencerahan.</Desc>
-			<TargetDesc>Pilih tanaman</TargetDesc>
+			<DisplayName>Divine Mercy</DisplayName>
+			<Desc>Tumbuhan itu hidup tapi tidak punya belas kasihan. Untuk menerangi tanaman membutuhkan 1 Kemanusiaan sebagai primer. Harganya 9 Permata Obsesi dan 1 Permata Jiwa Primordial untuk mencoba menerangi kekuatan psikisnya. Hasil iluminasi memerlukan waktu untuk muncul. Tanaman tidak dapat disinari dengan kekuatan batin lagi saat berada dalam sesi iluminasi. Semakin tinggi keilahian perapal mantra, dan semakin sering tanaman tersebut diterangi, semakin mudah item tersebut berhasil diterangi.</Desc>
+			<TargetDesc>Pilih tanaman.</TargetDesc>
 		</Text>
 	</List>
 </Texts>
