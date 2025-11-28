@@ -1,84 +1,84 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="StarDustLake">
-			<DisplayName>Danau Saengdara</DisplayName>
-			<Desc>"Perairan dari seluruh penjuru bertemu di sini untuk bergabung bersama sebelum mengalir ke lautan luas. Ini adalah tempat yang seperti pintu gerbang ke dunia yang lebih luas di mana bahkan Bima Sakti bertemu di sini pada malam hari." Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+			<DisplayName>Starlit Lake</DisplayName>
+			<Desc>“Air dari segala arah berkumpul di sini melalui kanal dan kemudian mengalir keluar menuju daratan yang jauh, menghubungkan dunia terbuka yang luas. Bahkan Bima Sakti bertemu di sini pada malam hari.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Kebijakan: Studi Alam tidak terkunci.</Effect>
 		</Text>
 		<Text Name="XiuXianCollege">
-			<DisplayName>Institut Tao</DisplayName>
-			<Desc>“Pendidikan harus selalu memilih lokasi yang tenang dan terpencil. Sehingga meskipun siswa merasa bosan, mereka tidak akan bisa melarikan diri.” Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Bahan konstruksi menurun sebesar 20%.</Effect>
+			<DisplayName>Universal Taoist School</DisplayName>
+			<Desc>“Pendidikan perlu dilakukan di tempat yang tenang dan terisolasi, dimana meskipun siswa bosan, mereka tidak punya tempat lain untuk pergi.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Biaya bangunan berkurang 20%.</Effect>
 		</Text>
 		<Text Name="HugeToolCabin">
-			<DisplayName>Stupa Kebijaksanaan</DisplayName>
-			<Desc>"Pagoda Kebijaksanaan bukanlah tempat biasa. Masing-masing cabang dan departemen dapat bekerja sendiri-sendiri dan hasilnya di luar imajinasi. Jika digunakan dalam produksi tekstil Anda akan mendapatkan pakaian yang sangat nyaman dipakai. Atau jika Anda menggunakannya untuk menempa senjata? Anda akan menerima pedang yang bahkan dapat memotong berlian." Menurut 'Kitab Penciptaan'</Desc>
-			<Effect>Dua boneka</Effect>
+			<DisplayName>Ingenuity Pagoda</DisplayName>
+			<Desc>"Pagoda Ingenuity bukanlah bangunan biasa. Masing-masing cabang berfungsi sendiri-sendiri dan dapat melakukan keajaiban yang melampaui imajinasi. Gunakan untuk memproduksi tekstil, Anda akan mendapatkan kain yang paling nyaman. Gunakan untuk membuat senjata, Anda akan memiliki bilah yang dapat memotong berlian." Dari 'Scroll of Creations'</Desc>
+			<Effect>Dua kapal dihadiahkan.</Effect>
 		</Text>
 		<Text Name="CelestialCommercial">
-			<DisplayName>Kamar Dagang Awan Putih</DisplayName>
-			<Desc>"Kamar dagang ini terletak di atas gunung, yang dilindungi oleh formasi pertahanan yang besar dan sangat kuat. Tempat ini juga merupakan pusat perdagangan antar petani." Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Item dapat dibeli dari merchant atau sekte lain dengan diskon 20%.</Effect>
+			<DisplayName>Cloud Chamber of Commerce</DisplayName>
+			<Desc>“Terletak di pegunungan, Kamar Dagang ini dilindungi oleh Formasi canggih yang sangat besar dan merupakan basis untuk semua transaksi antar makhluk abadi. Kami tidak tahu mengapa semua sekte tidak memiliki Formasi ini.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Bisa membeli semuanya dari merchant dan sekte dengan diskon 20%.</Effect>
 		</Text>
 		<Text Name="GreenBrothel">
-			<DisplayName>Menara Giok Hijau</DisplayName>
-			<Desc>"Aula Giok adalah aula halaman yang terletak di atas danau. Di mata orang biasa, itu akan terlihat seperti tempat peristirahatan hanya untuk para elit. Tapi di mata para penggarap Mereka akan tahu bahwa tempat ini memiliki layanan khusus untuk menjernihkan pikiran mereka. Mungkin inilah alasan utama mengapa para penggarap mengunjungi tempat ini. " Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Suasana hati untuk berpetualang meningkat.</Effect>
+			<DisplayName>Green Pagoda</DisplayName>
+			<Desc>“Terletak di sebuah danau, Pagoda Hijau hanya tampak seperti penginapan mewah bagi sebagian besar manusia, namun bagi setiap penggarap, mereka menawarkan layanan khusus yang membantu menjernihkan pikiran. Mungkin inilah salah satu alasan mengapa orang memilih menjadi penggarap.”</Desc>
+			<Effect>Dapatkan suasana hati yang baik dalam berpetualang di sini.</Effect>
 		</Text>
 		<Text Name="AppTower">
-			<DisplayName>Pagoda Keanggunan</DisplayName>
-			<Desc>“Betapa besarnya kebajikan dan kebaikan yang menciptakan jalan bagi para dewa.” Menurut 'Kitab Penciptaan'</Desc>
-			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+			<DisplayName>Pagoda of Grace</DisplayName>
+			<Desc>“Sungguh kebaikan yang luar biasa untuk membangun tempat bagi para dewa untuk lewat.” Dari 'Scroll of Creations'</Desc>
+			<Effect>Semua kultivator Shendao akan memiliki 1 area Alam Ilahi lagi.</Effect>
 		</Text>
 		<Text Name="RiverDam">
-			<DisplayName>bendungan sungai</DisplayName>
-			<Desc>"Pikirkan berapa generasi tiran yang tidak tahu malu yang diperlukan untuk menyelesaikan struktur sebesar ini. Apakah tidak mungkin bagi para Suci untuk turun dan menawarkan bantuan?" Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+			<DisplayName>River Weir</DisplayName>
+			<Desc>“Pikirkan berapa banyak tiran tak tahu malu yang diperlukan untuk menyelesaikan sebuah bangunan raksasa. Tidak bisakah makhluk abadi turun dan membantu?”</Desc>
+			<Effect>Semua kultivator Shendao akan memiliki 1 area Alam Ilahi lagi.</Effect>
 		</Text>
 		<Text Name="MountTemple">
-			<DisplayName>Chedi menyatu dengan pegunungan</DisplayName>
-			<Desc>"Bendungan Seribu Mil bisa runtuh dengan kerusakan yang sama besarnya dengan sarang semut. Namun, Puncak Zhang dan Punggung Bukit Sepuluh Ribu Puncak bisa digabungkan untuk membentuk benteng yang kuat. Hanya mereka yang memiliki keterampilan, kecerdasan, dan kelicikan yang bisa menemukan metode seperti itu." Menurut 'Kitab Penciptaan'</Desc>
-			<Effect>Semua Penggarap Jalan Ilahi akan memiliki 1 Wilayah Ilahi tambahan.</Effect>
+			<DisplayName>Hillside Pagoda</DisplayName>
+			<Desc>“Bendungan yang lebar pada akhirnya akan pecah jika terjadi kerusakan sekecil apa pun. Gabungan pegunungan pencakar langit dapat menjadi benteng yang tak tertembus yang hanya dapat ditemukan oleh orang yang paling terampil, berwawasan luas, dan berani.” Dari 'Scroll of Creations'</Desc>
+			<Effect>Semua kultivator Shendao akan memiliki 1 area Alam Ilahi lagi.</Effect>
 		</Text>
 		<Text Name="SanQingTemple">
-			<DisplayName>Kuil Tiga Permata</DisplayName>
-			<Desc>"Orang-orang membutuhkan tempat untuk memuja Tiga Permata. Tapi menciptakan benda seperti itu adalah tugas yang sangat sulit. Naik ke tanah manusia." Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Hubungan antara semua sekte meningkat 1 unit.</Effect>
+			<DisplayName>Triple Purity Temple</DisplayName>
+			<Desc>“Semua orang menginginkan tempat untuk memuja tiga yang suci. Namun membangunnya di alam fana adalah pekerjaan yang sulit dan tidak memuaskan.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Satu lagi hubungan dengan semua sekte.</Effect>
 		</Text>
 		<Text Name="TreeGrave">
-			<DisplayName>Lautan Kayu Pemakaman</DisplayName>
-			<Desc>“Orang-orang Xinjiang Selatan percaya bahwa pohon adalah makhluk hidup seperti binatang. Dan akan mudah untuk menarik kemarahan dan kutukan mereka jika upacara pemakaman tidak dilakukan dengan benar. Oleh karena itu, pohon-pohon mati kuno dikumpulkan dan diukir menjadi bentuk makhluk hidup. Dan tampaknya patung-patung itu juga dapat menyerap Qi.” Menurut ‘Kitab Penciptaan’</Desc>
-			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+			<DisplayName>Deadwood Sea</DisplayName>
+			<Desc>“Di Perbatasan Selatan, orang-orang percaya bahwa pohon itu seperti binatang, jika tidak dikubur akan mengundang kebencian dan kutukan. Pohon-pohon kuno yang mati dikumpulkan dan dijadikan bentuk pohon hidup yang seolah-olah mengumpulkan Qi dari semua makhluk.”</Desc>
+			<Effect>Kebijakan: Studi Alam tidak terkunci.</Effect>
 		</Text>
 		<Text Name="GroundAlter">
-			<DisplayName>Pot Tanah</DisplayName>
-			<Desc>"Di dalam pegunungan yang sulit dijangkau oleh manusia normal. Ada lubang segi delapan raksasa berisi air terjun yang mengalir turun dari gunung, dan di tengah-tengah tempat itu berdiri sebuah pot raksasa. Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Kebijakan: Buka Kebijakan Studi Dao Alami</Effect>
+			<DisplayName>Altar of Earth</DisplayName>
+			<Desc>“Jauh di pegunungan terpencil, sebuah lubang segi delapan raksasa diisi dengan aliran air yang menetes dari pegunungan, dengan kuali besar terletak di tengahnya.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Kebijakan: Studi Alam tidak terkunci.</Effect>
 		</Text>
 		<Text Name="WaterTemple">
-			<DisplayName>Kuil Sumeru</DisplayName>
-			<Desc>"Kuil ini ibarat sebuah kapal yang meskipun berguncang, namun terasa aman dan tenteram. Mau tak mau aku bertanya-tanya apakah kuil ini benar-benar sebuah kapal yang terapung di tengah lautan." Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Stabilitas formasi meningkat sebesar 20%.</Effect>
+			<DisplayName>Temple of Sumeru</DisplayName>
+			<Desc>“Candi ini seperti sebuah perahu di mana Anda dapat merasakan guncangannya namun juga mengetahui bahwa candi ini aman dan stabil. Mau tidak mau saya bertanya-tanya apakah stupa adalah candi yang mengapung di atas air.” Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Stabilitas Formasi meningkat sebesar 20%.</Effect>
 		</Text>
 		<Text Name="CelestialPalace">
-			<DisplayName>Istana Awan Ungu</DisplayName>
-			<Desc>"Istana Awan Ungu bagaikan tempat suci di surga yang sulit dijangkau. Dan semua orang mengetahuinya dengan baik." Menurut 'Kitab Penciptaan'</Desc>
-			<Effect>Hubungan antara semua sekte meningkat 1 unit.</Effect>
+			<DisplayName>Purple Cloud Palace</DisplayName>
+			<Desc>"Istana Awan Ungu adalah tempat suci surgawi yang jangkauannya luas dan diketahui semua orang." Dari 'Scroll of Creations'</Desc>
+			<Effect>Satu lagi hubungan dengan semua sekte.</Effect>
 		</Text>
 		<Text Name="CircleTemple">
-			<DisplayName>Kuil Yuanxuan</DisplayName>
-			<Desc>"Seperti kata pepatah, semakin besar, semakin banyak orang yang tinggal di dalamnya. Luas alun-alun Kuil Yuanxuan sangat luas. Dan setiap tahun banyak orang datang mengunjungi tempat ini." Menurut 'Catatan Enam Jalan'</Desc>
-			<Effect>Tingkat perolehan Iman atau Kebencian meningkat 2 kali lipat.</Effect>
+			<DisplayName>Pagoda of Enigma</DisplayName>
+			<Desc>"Semakin besar tempatnya, semakin banyak orang yang berkumpul. Pagoda Enigma memiliki alun-alun besar yang belum pernah ada sebelumnya, tempat banyak pengunjung berjalan berdampingan." Dari 'Catatan Enam Hukum'</Desc>
+			<Effect>Keyakinan/Kebencian berkumpul di sini dengan kecepatan ganda.</Effect>
 		</Text>
 		<Text Name="CityMansion">
-			<DisplayName>Bangunan tempat tinggal</DisplayName>
-			<Desc>Bangunan Tempat Tinggal: Tingkat pertumbuhan populasi di semua lokasi meningkat sebesar 100%. “Bangunan Penghuni Ini adalah jenis perumahan baru yang dapat dibangun hampir di mana saja dengan sumber daya yang minim. Namun dengan bertambahnya populasi, mungkin akan timbul masalah kelaparan juga.”</Desc>
-			<Effect>Laju pertumbuhan penduduk di seluruh lokasi meningkat sebesar 100%.</Effect>
+			<DisplayName>City Housing</DisplayName>
+			<Desc>Perumahan Kota: Tingkat peningkatan populasi di semua lokasi meningkat sebesar 100%. “Perumahan Kota adalah bentuk tempat tinggal baru yang dapat dibangun hampir di mana saja dengan sedikit sumber daya yang dibutuhkan. Namun populasi yang lebih besar tidak menyelesaikan masalah kelaparan.”</Desc>
+			<Effect>Tingkat peningkatan populasi di lokasi ini meningkat sebesar 100%.</Effect>
 		</Text>
 		<Text Name="RedTombstone">
-			<DisplayName>Hutan Batu Merah</DisplayName>
-			<Desc>"Hutan Batu Merah telah mencatat kehidupan banyak orang. Termasuk kaisar dan penduduk desa bermata hitam. Dan satu-satunya kesamaan yang mereka miliki adalah bahwa mereka semua adalah orang-orang yang telah meninggal." Menurut 'Catatan Enam Jalan', "Apa yang tercatat di Hutan Batu Merah adalah sejarah yang panjang. Tujuh emosi dunia dan berbagai keinginan manusia semuanya tercatat di sana. Sayangnya, manusia tidak dapat mengatasi keinginan dan keserakahan tersebut. Akhirnya, cerita baru Oleh karena itu selalu tercatat di dalamnya." Menurut 'Kitab Penciptaan'</Desc>
-			<Effect>Lihatlah ke dalam pikiran orang-orang dan langsung pahami hobi mereka.</Effect>
+			<DisplayName>Red Stele Forest</DisplayName>
+			<Desc>"Hutan Prasasti menyimpan catatan kehidupan banyak orang. Dari kaisar hingga rakyat biasa, satu-satunya kesamaan yang mereka miliki adalah bahwa mereka semua sudah mati."</Desc>
+			<Effect>Melihat siapa saja dan langsung mengetahui salah satu hobinya.</Effect>
 		</Text>
 	</List>
 </Texts>
