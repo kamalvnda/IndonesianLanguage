@@ -1,76 +1,76 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_WuDang_HuangJing" sParam="Item">
-			<ThingName>Esensi Tanah</ThingName>
+			<ThingName>Soil Essence</ThingName>
 			<Desc>Ramuan manis dan menyegarkan yang tidak hanya mengurangi rasa lapar tetapi juga menambah nutrisi. Dianggap sebagai Ganoderma oleh makhluk abadi, ramuan ini dikenal sebagai Soil Essence karena menyerap esensi bumi.</Desc>
-			<Item.FabaoSuffix>Buah, Manik, Bolus, Bola</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
-			<ThingName>Bubuk Esensi Tanah</ThingName>
+			<ThingName>Soil Essence Powder</ThingName>
 			<Desc>Bubuk bubuk dari Soil Essence kering. Meski sedikit manjur, ini lebih sering digunakan untuk membuat ramuan.</Desc>
-			<Item.FabaoSuffix>Pasir, Kristal, Debu, Bubuk, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponFuChen" sParam="Item">
-			<ThingName>Terbang-Kocok</ThingName>
+			<ThingName>Fly-Whisk</ThingName>
 			<Desc>Pengocok lalat yang sering digunakan oleh makhluk abadi dan penganut Tao.</Desc>
-			<Item.FabaoSuffix>Lembut. Mengocok</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Soft. Whisk</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponDaoSword" sParam="Item">
-			<ThingName>Pedang Tao</ThingName>
+			<ThingName>Sword of Tao</ThingName>
 			<Desc>Pedang yang cocok dengan sihir yang khusus digunakan untuk ritual Tao.</Desc>
-			<Item.FabaoSuffix>Pedang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
-			<ThingName>Pelat Nimbus Suci</ThingName>
+			<ThingName>Sacred Nimbus Plate</ThingName>
 			<Desc>Piring liontin yang diukir dengan gelar suci Kaisar Prajurit Sempurna. Kenakan untuk mendapatkan berkah Kaisar dan meningkatkan Keberuntungan dan Kondisi Mental.</Desc>
-			<Item.FabaoSuffix>Piring</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
-			<ThingName>Pil Puasa Qi</ThingName>
+			<ThingName>Qi Fasting Pill</ThingName>
 			<Desc>Pil puasa rahasia Pegunungan Wudang. Dibandingkan dengan pil puasa biasa, pil ini bertahan lebih lama (total 30 hari).</Desc>
 		</Text>
 		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
-			<ThingName>Pil Esensi Trimerous</ThingName>
+			<ThingName>Trimerous Essence Pill</ThingName>
 			<Desc>Ramuan rahasia Pegunungan Wudang. Ambil untuk meningkatkan Max Qi dengan jumlah yang tetap. Meskipun tidak terlalu berguna bagi kultivator berpengalaman, disarankan untuk membantu meletakkan dasar bagi murid baru. Namun efeknya akan berkurang secara signifikan jika diminum berkali-kali.</Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
-			<ThingName>Pedang Prajurit yang Disempurnakan</ThingName>
+			<ThingName>Perfected Warrior Sword</ThingName>
 			<Desc>Juga dikenal sebagai Exorcist Prime, Prajurit Sempurna menggunakan pedang berharga ini untuk mengusir semua kejahatan. Panjangnya sekitar 3 inci, pedang ini ditempa dari batu giok dengan kekuatan pengusiran setan yang sebenarnya; sehingga memiliki cahaya keunguan yang mengesankan di sekitarnya. Setelah ditarik, itu berubah menjadi petir ungu sepanjang satu inci yang menghancurkan apa pun yang disentuhnya.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Bunuh 1 Snake Demon sambil membawa item ini.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.ActiveCondition.1.des>Bunuh 1 Wolf Demon sambil membawa item ini.</Item.Fabao.ActiveCondition.1.des>
-			<Item.Fabao.ActiveCondition.2.des>Bunuh 1 Bear Demon sambil membawa item ini.</Item.Fabao.ActiveCondition.2.des>
-			<Item.Fabao.ActiveCondition.3.des>Bunuh 1 Turtle Demon sambil membawa item ini.</Item.Fabao.ActiveCondition.3.des>
-			<Item.Fabao.ActiveCondition.4.des>Bunuh 1 Boar Demon sambil membawa item ini.</Item.Fabao.ActiveCondition.4.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Menimbulkan damage 3x ketika menyerang ras alien (ras non-manusia).</Item.Fabao.SpecialAbility.0.Desc>
-			<Item.Fabao.SpecialAbility.1.Desc>Menimbulkan kerusakan 3x saat digunakan oleh manusia.</Item.Fabao.SpecialAbility.1.Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 1 Snake Demon while carrying this item.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Kill 1 Wolf Demon while carrying this item.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Kill 1 Bear Demon while carrying this item.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Kill 1 Turtle Demon while carrying this item.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Kill 1 Boar Demon while carrying this item.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Deals 3x damage when attacking alien races (non-human races).</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>Deals 3x damage when equipped by a human.</Item.Fabao.SpecialAbility.1.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
-			<ThingName>Ukuran Awan Ungu</ThingName>
+			<ThingName>Purple Cloud Measure</ThingName>
 			<Desc>Artefak rahasia Sekte Wudang. Diukir dari Batu Suci yang lengkap, ukuran tersebut memiliki sisik yang diukir dengan 7 Nafas Surga dan kekuatan astral dan ditempa setelah 7 Kesengsaraan Surgawi. Setelah dikuasai, artefak tersebut dapat digunakan untuk mengukur kontribusi semua kehidupan dengan keyakinan surga, dan bahkan mempercepat Kesengsaraan Surgawi musuh.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Bertahan dari 7 Kesengsaraan Kenaikan sambil membawa artefak.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Serangan menghasilkan kerusakan berdasarkan perbedaan antara Pencapaian kedua belah pihak. Kesenjangan 1 Pencapaian meningkatkan kerusakan sebesar 1%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.ActiveCondition.0.des>Survive 7 Ascension Tribulations while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Attacks deal damage based on the difference between the Attainment of both sides. A gap of 1 Attainment increases damage by 1%. </Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Fish_SkySnake" sParam="Item">
-			<ThingName>Belut Awan</ThingName>
+			<ThingName>Cloud Eel</ThingName>
 			<Desc>Belut spesial yang unik di Lautan Awan. Karena Qi memenuhi tubuhnya, daging belut menjadi lembut dan seringan udara.</Desc>
-			<Item.FabaoSuffix>Surimi, Ikan, Tulang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_SkyFish" sParam="Item">
-			<ThingName>Ikan Mas Malam</ThingName>
+			<ThingName>Night Carp</ThingName>
 			<Desc>Ikan mas yang hidup di awan dan hanya muncul pada malam hari.</Desc>
 		</Text>
 		<Text Name="Fish_SkyCrab" sParam="Item">
-			<ThingName>Cakar Emas</ThingName>
+			<ThingName>Golden Claw</ThingName>
 			<Desc>Kepiting yang hidup di Lautan Awan dan memiliki tubuh paling keras. Dikatakan bahwa mereka memakan energi petir di awan.</Desc>
 		</Text>
 		<Text Name="Item_XuanWuEgg" sParam="Item">
-			<ThingName>Giok Kura-kura Hitam</ThingName>
-			<StoryBnts.0.Name>Memeriksa</StoryBnts.0.Name>
+			<ThingName>Black Tortoise Jade</ThingName>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Periksa Giok Kura-kura Hitam</StoryBnts.0.Desc>
 			<Desc>Sebuah batu giok yang dikirim oleh Sekte Wudang sebagai hadiah. Tampaknya itu adalah salah satu dari sekumpulan item.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
-			<ThingName>Bimbingan yang Disempurnakan</ThingName>
+			<ThingName>Perfected Guidance</ThingName>
 			<Desc>Sejumlah kecil Panduan yang Disempurnakan. Itu dapat digunakan untuk membangun Patung Prajurit yang Disempurnakan.</Desc>
 		</Text>
 	</List>
