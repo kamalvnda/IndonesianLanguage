@@ -1,189 +1,189 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FanRenEvent">
-			<DisplayName>Pertemuan Fana</DisplayName>
+			<DisplayName>Mortal Encounters</DisplayName>
 			<Desc>Sikap yang Anda ambil ketika berhadapan dengan manusia saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Berhati hangat</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Warm-hearted</Selection.0.DisplayName>
 			<Selection.0.Desc>Bantulah mereka saat mereka dalam kesulitan, dan usahakan untuk tidak memberikan dampak negatif pada mereka saat melakukan sesuatu.</Selection.0.Desc>
-			<Selection.1.DisplayName>Berhati Dingin</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Cold-Hearted</Selection.1.DisplayName>
 			<Selection.1.Desc>Melakukan apapun yang Anda inginkan, tidak peduli apa dampaknya terhadap manusia.</Selection.1.Desc>
-			<Selection.2.DisplayName>Mengabaikan</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Ignoring</Selection.2.DisplayName>
 			<Selection.2.Desc>Masalah sepele manusia ini tidak sepadan dengan waktuku.</Selection.2.Desc>
 		</Text>
 		<Text Name="JiangHuFenZheng">
-			<DisplayName>Perselisihan Duniawi</DisplayName>
+			<DisplayName>Worldly Dispute</DisplayName>
 			<Desc>Sikap yang Anda ambil ketika berhadapan dengan kultivator saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Hanya Kultivator</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Just Cultivator</Selection.0.DisplayName>
 			<Selection.0.Desc>Saat menghadapi kejadian seperti ini, pertama-tama cobalah menanganinya sebagai orang sekte Adil.</Selection.0.Desc>
-			<Selection.1.DisplayName>Penggarap Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Evil Cultivator</Selection.1.DisplayName>
 			<Selection.1.Desc>Saat menghadapi kejadian seperti ini, pertama-tama cobalah menanganinya sebagai orang sekte Jahat.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Menjauhlah dan hindari terlibat saat menghadapi hal-hal semacam ini.</Selection.2.Desc>
 		</Text>
 		<Text Name="FindTreasure">
-			<DisplayName>Keberuntungan Abadi</DisplayName>
+			<DisplayName>Immortal Luck</DisplayName>
 			<Desc>Tindakan yang Anda ambil saat menghadapi peluang keberuntungan terkait keabadian saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Jelajahi dan Maju</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Explore and Advance</Selection.0.DisplayName>
 			<Selection.0.Desc>Pertama-tama cobalah mengambil kesempatan ketika menghadapi peristiwa semacam ini.</Selection.0.Desc>
-			<Selection.1.DisplayName>Menghindari Masalah</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Avoiding Trouble</Selection.1.DisplayName>
 			<Selection.1.Desc>Menjauhlah dan hindari terlibat saat menghadapi hal-hal semacam ini.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindProduce">
-			<DisplayName>Pengumpulan Sumber Daya</DisplayName>
+			<DisplayName>Resource Collection</DisplayName>
 			<Desc>Sikap yang Anda ambil ketika wilayah setempat memiliki sumber daya eksklusif saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Pengumpulan Sumber Daya</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Resource Collection</Selection.0.DisplayName>
 			<Selection.0.Desc>Kumpulkan sumber daya secara aktif saat menghadapi peristiwa semacam ini.</Selection.0.Desc>
-			<Selection.1.DisplayName>Mengabaikan</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
 			<Selection.1.Desc>Jangan buang waktu untuk hal-hal semacam ini.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindHighProduce">
-			<DisplayName>Pengumpulan Harta Karun</DisplayName>
+			<DisplayName>Treasure Gathering</DisplayName>
 			<Desc>Sikap yang Anda ambil ketika daerah setempat memiliki harta langka yang eksklusif saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Mencoba Mencari</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Attempt Searching</Selection.0.DisplayName>
 			<Selection.0.Desc>Cobalah untuk mencari harta karun ketika menghadapi peristiwa semacam ini.</Selection.0.Desc>
-			<Selection.1.DisplayName>Mengabaikan</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
 			<Selection.1.Desc>Jangan buang waktu untuk hal-hal semacam ini.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindSecret">
-			<DisplayName>Kisah Aneh</DisplayName>
+			<DisplayName>Strange Tales</DisplayName>
 			<Desc>Sikap yang Anda ambil ketika mendengar beberapa cerita aneh di sepanjang perjalanan saat Anda bepergian keliling dunia.</Desc>
-			<Selection.0.DisplayName>Menyelidiki</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Investigate</Selection.0.DisplayName>
 			<Selection.0.Desc>Cobalah untuk bertanya dan menelusuri detailnya ketika menghadapi peristiwa semacam ini.</Selection.0.Desc>
-			<Selection.1.DisplayName>Mengabaikan</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
 			<Selection.1.Desc>Jangan buang waktu untuk hal-hal semacam ini.</Selection.1.Desc>
 		</Text>
 		<Text Name="School_All">
-			<DisplayName>Hubungan Sekte</DisplayName>
-			<Desc>Tubuh Logika</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<DisplayName>Sect Relations</DisplayName>
+			<Desc>Badan Logika</Desc>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_1">
-			<DisplayName>Hubungan Sekte – Tempat Tinggal Kerai</DisplayName>
+			<DisplayName>Sect Relation - Sunshade Abode</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Sunshade Abode.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_2">
-			<DisplayName>Hubungan Sekte - Istana Kunlun</DisplayName>
+			<DisplayName>Sect Relation - Kunlun Palace</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Istana Kunlun.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_3">
-			<DisplayName>Hubungan Sekte - Istana Skydome</DisplayName>
+			<DisplayName>Sect Relation - Skydome Palace</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Istana Skydome.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_4">
-			<DisplayName>Hubungan Sekte – Kuil Awan Ungu</DisplayName>
+			<DisplayName>Sect Relation - Purple Cloud Temple</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Kuil Awan Ungu.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_5">
-			<DisplayName>Hubungan Sekte - Sekte Persatuan Mistik</DisplayName>
+			<DisplayName>Sect Relation - Mystic Unity Sect</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Sekte Persatuan Mistik.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_6">
-			<DisplayName>Hubungan Sekte – Kuil Teratai Biru</DisplayName>
+			<DisplayName>Sect Relation - Blue Lotus Temple</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Kuil Teratai Biru.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_7">
-			<DisplayName>Hubungan Sekte - Evenfall Abode</DisplayName>
+			<DisplayName>Sect Relation - Evenfall Abode</DisplayName>
 			<Desc>Sikap yang harus diambil murid sekte Anda ketika berhadapan dengan Evenfall Abode.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_8">
-			<DisplayName>Hubungan Sekte - Gunung Seratus Serangga</DisplayName>
-			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Gunung Seratus Serangga.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<DisplayName>Sect Relation - Mt. Hundred Insects</DisplayName>
+			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Gunung Hundred Insects.</Desc>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_9">
-			<DisplayName>Hubungan Sekte - Pit of Doom</DisplayName>
+			<DisplayName>Sect Relation - Pit of Doom</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Pit of Doom.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_10">
-			<DisplayName>Hubungan Sekte – Sekte Tujuh Pembantaian</DisplayName>
+			<DisplayName>Sect Relation - Seven-Slaughtering Sect</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Sekte Tujuh Pembantaian.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_11">
-			<DisplayName>Hubungan Sekte - Sekte Bergembira</DisplayName>
+			<DisplayName>Sect Relation - Exultant Sect</DisplayName>
 			<Desc>Sikap yang harus diambil oleh murid sekte Anda ketika berhadapan dengan Sekte Exultant.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_12">
-			<DisplayName>Hubungan Sekte - Kuil Daemonia</DisplayName>
+			<DisplayName>Sect Relation - Daemonia Temple</DisplayName>
 			<Desc>Sikap yang harus diambil murid sekte Anda ketika berhadapan dengan Kuil Daemonia.</Desc>
-			<Selection.0.DisplayName>Penuh kebajikan</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
 			<Selection.0.Desc>Menghadapi mereka dengan sikap ramah.</Selection.0.Desc>
-			<Selection.1.DisplayName>Jahat</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
 			<Selection.1.Desc>Menghadapi mereka dengan sikap bermusuhan.</Selection.1.Desc>
-			<Selection.2.DisplayName>Menghindari Masalah</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
 			<Selection.2.Desc>Ambil inisiatif untuk menghindari mereka saat bertemu dengan orang-orangnya.</Selection.2.Desc>
 		</Text>
 		<Text Name="lingguangyishan">
-			<DisplayName>Percikan Inspirasi</DisplayName>
+			<DisplayName>Spark of Inspiration</DisplayName>
 		</Text>
 	</List>
 </Texts>
