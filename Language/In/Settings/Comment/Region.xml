@@ -1,136 +1,136 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="AgentConstructionHeYin">
-			<Title>Tunjuk perwakilan Sekte - Muang Sai Nam Huan</Title>
-			<Desc>Tunjuk perwakilan Sekte - Muang Sai Nam Huan</Desc>
+			<Title>Proxy construction - Riverback City</Title>
+			<Desc>Konstruksi proxy - Kota Riverback</Desc>
 		</Text>
 		<Text Name="AgentManagementHeYin">
-			<Title>Kelola perwakilan Sekte - Muang Sai Nam Huan</Title>
-			<Desc>Kelola perwakilan Sekte - Muang Sai Nam Huan</Desc>
+			<Title>Agent management - Riverback City</Title>
+			<Desc>Manajemen agen - Riverback City</Desc>
 		</Text>
 		<Text Name="BeliefManagementHeYin">
-			<Title>Mengelola Iman - Kota Sai Nam Huan</Title>
-			<Desc>Mengelola Iman - Kota Sai Nam Huan</Desc>
+			<Title>Belief management - Riverback City</Title>
+			<Desc>Manajemen kepercayaan - Riverback City</Desc>
 		</Text>
 		<Text Name="AgentConstructionGuanHai">
-			<Title>Tunjuk perwakilan Biro – Kota Pemandangan Laut</Title>
-			<Desc>Tunjuk perwakilan Biro – Kota Pemandangan Laut</Desc>
+			<Title>Proxy construction - Seascape City</Title>
+			<Desc>Konstruksi proxy - Seascape City</Desc>
 		</Text>
 		<Text Name="AgentManagementGuanHai">
-			<Title>Kelola perwakilan Sekte - Pemandangan Kota Laut</Title>
-			<Desc>Kelola perwakilan Sekte - Pemandangan Kota Laut</Desc>
+			<Title>Agent management - Seascape City</Title>
+			<Desc>Manajemen agen - Seascape City</Desc>
 		</Text>
 		<Text Name="BeliefManagementGuanhai">
-			<Title>Mengelola Iman - Ocean View City</Title>
-			<Desc>Mengelola Iman - Ocean View City</Desc>
+			<Title>Belief management - Seascape City</Title>
+			<Desc>Manajemen kepercayaan - Seascape City</Desc>
 		</Text>
 		<Text Name="AgentConstructionPanShe">
-			<Title>Penunjukan Perwakilan Biro - Desa Ekor Ular</Title>
-			<Desc>Penunjukan Perwakilan Biro - Desa Ekor Ular</Desc>
+			<Title>Proxy construction - Snaketail Village</Title>
+			<Desc>Konstruksi proxy - Desa Snaketail</Desc>
 		</Text>
 		<Text Name="AgentManagementPanShe">
-			<Title>Perwakilan Biro Pelaksana – Desa Ekor Ular</Title>
-			<Desc>Perwakilan Biro Pelaksana – Desa Ekor Ular</Desc>
+			<Title>Agent management - Snaketail Village</Title>
+			<Desc>Manajemen agen - Desa Snaketail</Desc>
 		</Text>
 		<Text Name="BeliefManagementPanShe">
-			<Title>Mengelola Iman - Desa Ekor Ular</Title>
-			<Desc>Mengelola Iman - Desa Ekor Ular</Desc>
+			<Title>Belief management - Snaketail Village</Title>
+			<Desc>Manajemen kepercayaan - Desa Ekor Ular</Desc>
 		</Text>
 		<Text Name="AgentConstructionFeng">
-			<Title>Tunjuk perwakilan Sekte - Muang Mahasap</Title>
-			<Desc>Tunjuk perwakilan Sekte - Muang Mahasap</Desc>
+			<Title>Proxy construction - City of Abundance</Title>
+			<Desc>Konstruksi proxy - Kota Kelimpahan</Desc>
 		</Text>
 		<Text Name="AgentManagementFeng">
-			<Title>Kelola perwakilan Sekte - Muang Mahasap</Title>
-			<Desc>Kelola perwakilan Sekte - Muang Mahasap</Desc>
+			<Title>Agent management - City of Abundance</Title>
+			<Desc>Manajemen agen - Kota Kelimpahan</Desc>
 		</Text>
 		<Text Name="BeliefManagementFeng">
-			<Title>Manajemen Iman - Muang Mahasap</Title>
-			<Desc>Manajemen Iman - Muang Mahasap</Desc>
+			<Title>Belief management - City of Abundance</Title>
+			<Desc>Manajemen Keyakinan - Kota Kelimpahan</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaLiang">
-			<Title>Penunjukan perwakilan Sekte - Kota Daliang</Title>
-			<Desc>Penunjukan perwakilan Sekte - Kota Daliang</Desc>
+			<Title>Proxy construction - City of Desolation</Title>
+			<Desc>Konstruksi proxy - Kota Desolation</Desc>
 		</Text>
 		<Text Name="AgentManagementDaLiang">
-			<Title>Manajemen perwakilan Sekte - Kota Daliang</Title>
-			<Desc>Manajemen perwakilan Sekte - Kota Daliang</Desc>
+			<Title>Agent management - City of Desolation</Title>
+			<Desc>Manajemen agen - Kota Desolation</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaLiang">
-			<Title>Manajemen Iman - Kota Daliang</Title>
-			<Desc>Manajemen Iman - Kota Daliang</Desc>
+			<Title>Belief management - City of Desolation</Title>
+			<Desc>Manajemen Keyakinan - Kota Desolation</Desc>
 		</Text>
 		<Text Name="AgentConstructionZhongYuan">
-			<Title>Penunjukan Perwakilan Biro - Central Plains</Title>
-			<Desc>Penunjukan Perwakilan Biro - Central Plains</Desc>
+			<Title>Proxy construction - Central Plains</Title>
+			<Desc>Konstruksi proxy - Dataran Tengah</Desc>
 		</Text>
 		<Text Name="AgentManagementZhongYuan">
-			<Title>Kelola Perwakilan Biro - Central Plains</Title>
-			<Desc>Kelola Perwakilan Biro - Central Plains</Desc>
+			<Title>Agent management - Central Plains</Title>
+			<Desc>Manajemen agen - Central Plains</Desc>
 		</Text>
 		<Text Name="BeliefManagementZhongYuan">
-			<Title>Manajemen Iman - Dataran Tengah</Title>
-			<Desc>Manajemen Iman - Dataran Tengah</Desc>
+			<Title>Belief management - Central Plains</Title>
+			<Desc>Manajemen Keyakinan - Central Plains</Desc>
 		</Text>
 		<Text Name="AgentConstructionJiangAnWoYe">
-			<Title>Tunjuk perwakilan Sekte - Thung Praip Sai Nam Huan</Title>
-			<Desc>Tunjuk perwakilan Sekte - Thung Praip Sai Nam Huan</Desc>
+			<Title>Proxy construction - Riverbank Plains</Title>
+			<Desc>Konstruksi proxy - Dataran Tepi Sungai</Desc>
 		</Text>
 		<Text Name="AgentManagementJiangAnWoYe">
-			<Title>Kelola perwakilan Sekte - Thung Praip Sai Nam Huan</Title>
-			<Desc>Kelola perwakilan Sekte - Thung Praip Sai Nam Huan</Desc>
+			<Title>Agent management - Riverbank Plains</Title>
+			<Desc>Manajemen agen - Riverbank Plains</Desc>
 		</Text>
 		<Text Name="BeliefManagementJiangAnWoYe">
-			<Title>Mengelola Iman - Dataran Thung Sai Nam Huan</Title>
-			<Desc>Mengelola Iman - Dataran Thung Sai Nam Huan</Desc>
+			<Title>Belief management - Riverbank Plains</Title>
+			<Desc>Manajemen Keyakinan - Dataran Tepi Sungai</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaXueYuan">
-			<Title>Penunjukan Perwakilan Biro – Negeri Salju Abadi</Title>
-			<Desc>Penunjukan Perwakilan Biro – Negeri Salju Abadi</Desc>
+			<Title>Proxy construction - the Great Snowland</Title>
+			<Desc>Konstruksi proxy - Great Snowland</Desc>
 		</Text>
 		<Text Name="AgentManagementDaXueYuan">
-			<Title>Perwakilan Biro Pelaksana – Negeri Salju Abadi</Title>
-			<Desc>Perwakilan Biro Pelaksana – Negeri Salju Abadi</Desc>
+			<Title>Agent management - the Great Snowland</Title>
+			<Desc>Manajemen agen - Great Snowland</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaXueYuan">
-			<Title>Mengelola Iman - Tanah Salju Abadi</Title>
-			<Desc>Mengelola Iman - Tanah Salju Abadi</Desc>
+			<Title>Belief management - the Great Snowland</Title>
+			<Desc>Manajemen kepercayaan - Great Snowland</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaMo">
-			<Title>Tunjuk Perwakilan Biro – Gurun Tanpa Batas</Title>
-			<Desc>Tunjuk Perwakilan Biro – Gurun Tanpa Batas</Desc>
+			<Title>Proxy construction - Great Desert</Title>
+			<Desc>Konstruksi proxy - Gurun Besar</Desc>
 		</Text>
 		<Text Name="AgentManagementDaMo">
-			<Title>Perwakilan Biro Pelaksana – Gurun Tanpa Batas</Title>
-			<Desc>Perwakilan Biro Pelaksana – Gurun Tanpa Batas</Desc>
+			<Title>Agent management - Great Desert</Title>
+			<Desc>Manajemen agen - Gurun Besar</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaMo">
-			<Title>Mengelola Iman - Gurun Tanpa Batas</Title>
-			<Desc>Mengelola Iman - Gurun Tanpa Batas</Desc>
+			<Title>Belief management - Great Desert</Title>
+			<Desc>Manajemen Keyakinan - Gurun Besar</Desc>
 		</Text>
 		<Text Name="AgentConstructionNanHuang">
-			<Title>Tunjuk perwakilan Biro - Hutan Selatan</Title>
-			<Desc>Tunjuk perwakilan Biro - Hutan Selatan</Desc>
+			<Title>Proxy construction - Wild South</Title>
+			<Desc>Konstruksi proxy - Wild South</Desc>
 		</Text>
 		<Text Name="AgentManagementNanHuang">
-			<Title>Kelola perwakilan Sekte - Hutan Selatan</Title>
-			<Desc>Kelola perwakilan Sekte - Hutan Selatan</Desc>
+			<Title>Agent management - Wild South</Title>
+			<Desc>Manajemen agen - Wild South</Desc>
 		</Text>
 		<Text Name="BeliefManagementNanHuang">
-			<Title>Mengelola Iman - Hutan Selatan</Title>
-			<Desc>Mengelola Iman - Hutan Selatan</Desc>
+			<Title>Belief management - Wild South</Title>
+			<Desc>Manajemen kepercayaan - Wild South</Desc>
 		</Text>
 		<Text Name="AgentConstructionOurPlace">
-			<Title>Tunjuk perwakilan Biro - Pegunungan Selatan</Title>
-			<Desc>Tunjuk perwakilan Biro - Pegunungan Selatan</Desc>
+			<Title>Proxy construction - Mt. South</Title>
+			<Desc>Konstruksi proxy - Gunung Selatan</Desc>
 		</Text>
 		<Text Name="AgentManagementOurPlace">
-			<Title>Kelola Perwakilan Biro - Pegunungan Selatan</Title>
-			<Desc>Kelola Perwakilan Biro - Pegunungan Selatan</Desc>
+			<Title>Agent management - Mt. South</Title>
+			<Desc>Manajemen agen - Mt. Selatan</Desc>
 		</Text>
 		<Text Name="BeliefManagementOurPlace">
-			<Title>Mengelola Iman - Pegunungan Selatan</Title>
-			<Desc>Mengelola Iman - Pegunungan Selatan</Desc>
+			<Title>Belief management - Mt. South</Title>
+			<Desc>Manajemen Kepercayaan - Gunung Selatan</Desc>
 		</Text>
 	</List>
 </Texts>
