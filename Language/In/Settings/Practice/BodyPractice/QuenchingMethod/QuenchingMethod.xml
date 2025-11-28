@@ -1,60 +1,60 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BPQuenchingMethods_test1">
-			<DisplayName>tes hijau</DisplayName>
-			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+			<DisplayName>Test Green</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_test2">
-			<DisplayName>tes ungu</DisplayName>
-			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+			<DisplayName>Test Purple</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_test3">
-			<DisplayName>uji oranye</DisplayName>
-			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+			<DisplayName>Test Orange</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_1">
-			<DisplayName>Tempa titik meridian</DisplayName>
-			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan menjalani satu sesi peleburan sederhana.</Desc>
+			<DisplayName>Acupoint Remold</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_1_1">
-			<DisplayName>Tempa Delapan Pulsa</DisplayName>
-			<Desc>Salah satu Sihir Pemurnian Tubuh paling dasar untuk Penggarap Fisik Abadi. Hasilnya setara dengan menggunakan Pulse Point Fusion 8 kali berturut-turut. Setiap kali Anda menggunakan metode ini Bagian yang dipilih mengalami 8 fusi normal, dan terakhir kali menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+			<DisplayName>Remold of Eight Acupoints</DisplayName>
+			<Desc>Salah satu mantra remold paling dasar bagi kultivator fisik, sama dengan menggunakan Acupoint Remolding sebanyak 8 kali berturut-turut. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang standar sebanyak delapan kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang langka.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_2">
-			<DisplayName>Menempa tubuh iblis</DisplayName>
-			<Desc>Tempa tubuhmu menggunakan kekuatan iblis. Gunakan Dao Essence dalam jumlah besar untuk merangsang tubuh menciptakan jalur evolusi yang lebih besar. Setiap kali Anda menggunakan metode ini, pecahan yang dipilih akan ditempa untuk membuat jalur evolusi 1 kali lebih banyak dari biasanya.</Desc>
+			<DisplayName>Wild Remold</DisplayName>
+			<Desc>Mantra cetakan ulang yang digunakan oleh setan liar. Membutuhkan lebih banyak esensi untuk merangsang tubuh fisik guna menciptakan lebih banyak arah evolusi. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang satu kali yang menciptakan lebih banyak arah evolusi.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_3">
-			<DisplayName>Tempa Enam Jalan</DisplayName>
-			<Desc>Menggunakan aturan enam jalur untuk membantu menyempurnakan tubuh bersama dengan Inti Dao. yang melemahkan karakteristik namun memberikan efisiensi tinggi. Setiap kali Anda menggunakan metode ini Potongan yang dipilih akan mengalami peleburan normal sebanyak 6 kali.</Desc>
+			<DisplayName>Remold of Six Directions</DisplayName>
+			<Desc>Menggunakan kesatuan enam arah untuk mengerjakan esensi, yang melemahkan sifatnya tetapi menawarkan efisiensi tinggi. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang dasar sebanyak enam kali.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_4">
-			<DisplayName>Menempa Jalan Kaisar</DisplayName>
-			<Desc>Sebuah seni pemurnian tubuh yang diciptakan oleh lima kaisar kuno. Gunakan Dao Essence dalam jumlah besar untuk memicu jalur evolusi langka. Setiap kali Anda menggunakan metode ini, bidak yang dipilih akan ditempa oleh Jalur Evolusi Lanjutan sebanyak 1 kali.</Desc>
+			<DisplayName>Emperor Remold</DisplayName>
+			<Desc>Mantra pembuatan ulang yang ditemukan oleh Lima Kaisar kuno, membutuhkan sejumlah besar esensi untuk efek penuhnya guna merangsang tubuh untuk berevolusi ke arah yang langka. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang satu kali yang kemungkinan besar akan menghasilkan evolusi tingkat lanjut.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_5">
-			<DisplayName>Menyempurnakan Fisik Sembilan Yin</DisplayName>
-			<Desc>Rahasia memurnikan tubuh menggunakan kekuatan Yin yang dikombinasikan dengan teknik ramalan ilahi. Setiap kali Anda menggunakan metode ini Bagian yang dipilih mengalami 8 fusi normal, dan terakhir kali menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+			<DisplayName>Aqua Remold</DisplayName>
+			<Desc>Membentuk kembali tubuh dengan Perhitungan Derivatif. Setiap kali mantra diucapkan, bagian target akan melalui pembentukan ulang standar sebanyak sembilan kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang langka.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_6">
-			<DisplayName>Tempa Bintang Ungu</DisplayName>
-			<Desc>Rahasia memurnikan tubuh menggunakan kekuatan bintang untuk membantu menentukan jalur evolusi. Setiap kali Anda menggunakan metode ini Fragmen yang dipilih mengalami 14 fusi normal, dan terakhir kali akan menghasilkan setidaknya satu jalur evolusi yang langka.</Desc>
+			<DisplayName>Purple Star Remold</DisplayName>
+			<Desc>Membentuk kembali tubuh sesuai dengan Astrologi Bintang Ungu. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang standar sebanyak 14 kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang luar biasa.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp1">
-			<DisplayName>Tempa tubuh matahari</DisplayName>
-			<Desc>Menggunakan darah Iblis Api Ilahi untuk merangsang pemurnian Inti Dao di dalam tubuh seseorang. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika menggunakan metode ini untuk menyatukan tulang belakang Kecil kemungkinannya tulang belakang akan mengalami perubahan misterius. Hal ini memungkinkan berkembangnya potensi evolusi semua tulang.</Desc>
+			<DisplayName>Firestruck Remold</DisplayName>
+			<Desc>Menggunakan Firestruck Blood untuk menstimulasi esensi pembentukan kembali. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali tulang belakang, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh tulang.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp2">
-			<DisplayName>Tempa tubuh iblis</DisplayName>
-			<Desc>Gunakan kesadaran hantu untuk merangsang pemurnian inti dao di dalam tubuh. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika menggunakan metode ini untuk menyatukan otak Kecil kemungkinan organ dalam akan mengalami perubahan misterius. Ini mengembangkan potensi evolusioner semua organ dalam.</Desc>
+			<DisplayName>Illusion Remold</DisplayName>
+			<Desc>Menggunakan Illusion Remold untuk merangsang esensi pembentukan ulang. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali otak, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh organ.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp3">
-			<DisplayName>Memperbaiki tubuh musuh</DisplayName>
-			<Desc>Gunakan Roh Dao untuk memanfaatkan kekuatan Antimateri dan menggunakannya untuk merangsang Pemurnian Inti Dao di dalam tubuh. Meskipun jumlah jalur evolusi di setiap bengkel sedikit, namun hal ini akan memberikan peluang lebih besar untuk memperoleh jalur evolusi yang lebih tinggi. Jika Anda menggunakan cara ini untuk meluluhkan hati Kecil kemungkinan tubuh fisik akan mengalami perubahan misterius. Ini mengembangkan potensi evolusi seluruh tubuh fisik.</Desc>
+			<DisplayName>Rejection Remold</DisplayName>
+			<Desc>Menggunakan Hati Transenden untuk memberikan Kekuatan Penolakan untuk menstimulasi esensi pembentukan kembali. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali jantung, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh daging.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_ReQuenching">
-			<DisplayName>Tubuhnya meleleh.</DisplayName>
-			<Desc>Memaksa Qi Sejati di dalam tubuh untuk menolak semua organ palsu di tubuh menggunakan Inti Abadi sebagai panduan. Dengan melakukan ini, semua hasil pemurnian tubuh akan hancur dan kultivator akan menjadi manusia biasa sekali lagi.</Desc>
+			<DisplayName>Destruction Remold</DisplayName>
+			<Desc>Karena produk Qi ditolak oleh tubuh pemurni, ia menggunakan Esensi Abadi untuk mengatur ulang semua hasil pencetakan ulang di bagian tertentu untuk mengembalikannya ke keadaan fana.</Desc>
 		</Text>
 	</List>
 </Texts>
