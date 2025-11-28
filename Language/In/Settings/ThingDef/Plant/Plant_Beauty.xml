@@ -9,7 +9,7 @@
 			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
-			<ThingName>Bunga es</ThingName>
+			<ThingName>Iceflower</ThingName>
 			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
 		</Text>
 		<Text Name="Flower2" sParam="Plant">
@@ -29,7 +29,7 @@
 			<Desc>Tanaman indah dengan sedikit elemen Tanah.</Desc>
 		</Text>
 		<Text Name="ShiChe" sParam="Plant">
-			<ThingName>Bunga jagung</ThingName>
+			<ThingName>Cornflowers</ThingName>
 			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 		<Text Name="CongRong" sParam="Plant">
@@ -37,7 +37,7 @@
 			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 		<Text Name="CamelSting" sParam="Plant">
-			<ThingName>Duri unta</ThingName>
+			<ThingName>Camelthorn</ThingName>
 			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
 		</Text>
 	</List>
