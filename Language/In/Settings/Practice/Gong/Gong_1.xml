@@ -4,45 +4,45 @@
 			<DisplayName>Sixteen Supreme Steps Law</DisplayName>
 			<Desc>Salah satu Hukum unsur sebenarnya dari Sekte Taiyi, termasuk 4 negara bagian dan 16 batasan berbeda yang memerlukan kemajuan langkah demi langkah. Tidak mudah untuk mencapai tingkatan yang lebih tinggi dalam Undang-undang ini, namun tidak memerlukan banyak hal untuk memulainya. Anda akan membuat kemajuan yang mantap dalam kultivasi, dan keabadian pada akhirnya akan terjadi.</Desc>
 			<SelectDesc>Undang-undang ini memerlukan kemajuan selangkah demi selangkah dan terutama landasan yang stabil, tetapi Anda harus mengalami kesengsaraan pertama selama pembentukan inti. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Pembekuan Qi</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Qi Congealment</Stages.0.DisplayName>
 			<Stages.0.Desc>Keadaan pertama pada Undang-undang ini. Membutuhkan pikiran yang tenang dan meditasi yang lama. Lebih sulit bagi orang yang cerdas untuk membuang pikiran dari benaknya dan melewati keadaan ini.</Stages.0.Desc>
-			<Stages.0.Necks.0.DisplayName>Konsentrasi</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Concentration</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>Pusatkan pikiran dan hilangkan pikiran acak lainnya dalam meditasi.[color=#D06508]\nTerobosan ini akan lebih sulit bagi karakter dengan kecerdasan tinggi.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Introspeksi</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Introspection</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>Setelah konsentrasi, rasakan lebih jauh perubahan internal dalam tubuh seseorang, seperti orang buta yang merasakan sekelilingnya, dan akhirnya mencapai keadaan mampu merasakan kondisi organ dalam dirinya.[color=#D06508]\nTerobosan ini akan lebih sulit bagi karakter dengan kecerdasan tinggi.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Gerakan Qi</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Qi Motion</Stages.0.Necks.2.DisplayName>
 			<Stages.0.Necks.2.Desc>Seiring berkembangnya introspeksi, seseorang akan dapat menemukan Qi Sense pertama dalam meditasi. Ini adalah awal dari Konversi Stamina, yang disebut ‘Persepsi Pertama’.[color=#D06508]\nTerobosan ini akan lebih sulit bagi karakter dengan indera Qi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.0.Necks.2.Desc>
-			<Stages.0.Necks.3.DisplayName>Surga yang Terbatas</Stages.0.Necks.3.DisplayName>
+			<Stages.0.Necks.3.DisplayName>The Bounded Heavens</Stages.0.Necks.3.DisplayName>
 			<Stages.0.Necks.3.Desc>Dalam keadaan ini, Anda perlu meningkatkan Qi batin secara bertahap dan mengarahkannya melalui Pembuluh Pemerintahan dan Konsepsi untuk menciptakan siklus batin. Ini disebut 'Siklus Universal'.</Stages.0.Necks.3.Desc>
-			<Stages.1.DisplayName>Pembentukan Inti</Stages.1.DisplayName>
+			<Stages.1.DisplayName>Core Shaping</Stages.1.DisplayName>
 			<Stages.1.Desc>Syarat kedua dalam Undang-undang ini. Penting untuk mempertaruhkan nyawa demi pengaturan antara Air dan Api, untuk membentuk Inti Emas.</Stages.1.Desc>
-			<Stages.1.Necks.0.DisplayName>Gerbang Pikiran</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Mind Gate</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>Buka gerbang pikiran untuk terhubung dengan langit dan bumi. Tinggalkan semua masalah duniawi.</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Pemenuhan</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Fulfillment</Stages.1.Necks.1.DisplayName>
 			<Stages.1.Necks.1.Desc>Biarkan Qi mengalir bebas ke seluruh tubuh, sehingga Anda dapat mencapai kondisi kesempurnaan.</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Kuali Bagian Dalam</Stages.1.Necks.2.DisplayName>
-			<Stages.1.Necks.2.Desc>Bangunlah kuali bagian dalam untuk membentuk inti dengan menggunakan dada dan perut sebagai kuali, jantung sebagai api, ginjal sebagai air, dan kehidupan sebagai bahan bakar.[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Konstitusi rendah. \nGagal melakukan terobosan dapat mengakibatkan cedera.[/color]</Stages.1.Necks.2.Desc>
-			<Stages.1.Necks.3.DisplayName>Pembekuan Inti</Stages.1.Necks.3.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Inner Cauldron</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Bangunlah kuali bagian dalam untuk membentuk inti dengan menggunakan dada dan perut sebagai kuali, jantung sebagai api, ginjal sebagai air, dan kehidupan sebagai bahan bakar.[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Konstitusi rendah. \nGagal melakukan terobosan dapat menyebabkan cedera.[/color]</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.3.DisplayName>Core Congealment</Stages.1.Necks.3.DisplayName>
 			<Stages.1.Necks.3.Desc>Gabungkan energi, Qi, dan semangat seseorang menjadi satu Inti Emas, menjadikannya landasan Hukum.</Stages.1.Necks.3.Desc>
-			<Stages.2.DisplayName>Penyempurnaan Inti</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Core Refinement</Stages.2.DisplayName>
 			<Stages.2.Desc>Negara ketiga dalam Undang-undang ini. Kembali ke sifat asli dan paling murni. Seseorang harus membebaskan pikirannya dan menyadari jati dirinya dalam keadaan ini.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Kesengsaraan Pertama</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.DisplayName>First Tribulation</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>Guntur Kesengsaraan akan menimpa Anda setelah terbentuknya Inti Emas.</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>benih</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Germinal</Stages.2.Necks.1.DisplayName>
 			<Stages.2.Necks.1.Desc>Diri sejati seseorang secara bertahap terbentuk di dalam Inti Emas, seolah-olah pada tahap awal perkembangan pralahir.[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.2.Necks.1.Desc>
-			<Stages.2.Necks.2.DisplayName>Embrionik</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Embryonic</Stages.2.Necks.2.DisplayName>
 			<Stages.2.Necks.2.Desc>Diri sejati seseorang perlahan mulai terbentuk dan siap untuk berkembang.[color=#D06508]Terobosan ini lebih sulit bagi karakter dengan Konstitusi rendah.[/color]</Stages.2.Necks.2.Desc>
-			<Stages.2.Necks.3.DisplayName>Janin</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Fetal</Stages.2.Necks.3.DisplayName>
 			<Stages.2.Necks.3.Desc>Bentuk paling murni seseorang dalam Roh Batin mulai menerobos batas-batas tubuh fana, memasuki keadaan hampir keabadian di bumi.</Stages.2.Necks.3.Desc>
-			<Stages.3.DisplayName>Kendaraan Hebat</Stages.3.DisplayName>
+			<Stages.3.DisplayName>Great Vehicle</Stages.3.DisplayName>
 			<Stages.3.Desc>Negara keempat dalam Undang-undang ini. Roh Batin akan diselamatkan dari Guntur Kesengsaraan, menjadi makhluk murni, meninggalkan tubuh fana dan naik sebagai Yang Abadi.</Stages.3.Desc>
-			<Stages.3.Necks.0.DisplayName>Penempaan Roh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Spirit Forging</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>Bentuk semangat seseorang dengan nafas Yin murni Dewi Bumi.</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Semangat Melonjak</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Spirit Soaring</Stages.3.Necks.1.DisplayName>
 			<Stages.3.Necks.1.Desc>Menjauhlah dari tubuh fana dan biarkan roh berkeliaran di dunia.[color=#D06508]\nPerhatikan bahwa menerobos akan sangat merusak umur seseorang.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Semangat Tercerahkan</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Spirit Enlightened</Stages.3.Necks.2.DisplayName>
 			<Stages.3.Necks.2.Desc>Mencerahkan semangat seseorang dengan berkah surga. Seseorang akan menghadapi Kesengsaraan Surgawi setelah melanggar batas ini.[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.3.Necks.2.Desc>
-			<Stages.3.Necks.3.DisplayName>Kenaikan</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.3.DisplayName>Ascension</Stages.3.Necks.3.DisplayName>
 			<Stages.3.Necks.3.Desc>Selamat dari kutukan kesengsaraan dari langit dan bumi dan naik menuju keabadian. Jika tidak, hal itu akan melenyapkan seluruh keberadaan seseorang.</Stages.3.Necks.3.Desc>
 		</Text>
 	</List>
