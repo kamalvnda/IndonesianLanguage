@@ -1,29 +1,29 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Building_Geothermy" sParam="Building">
-			<ThingName>Jurang yang Berapi-api</ThingName>
+			<ThingName>Fiery Chasm</ThingName>
 			<Desc>Jurang retak hingga ke inti bumi. Angin panas terus bertiup.</Desc>
 		</Text>
 		<Text Name="Building_ColdHole" sParam="Building">
-			<ThingName>Tungku Beku</ThingName>
+			<ThingName>Frozen Furnace</ThingName>
 			<Desc>Seorang bijak kuno mencoba membuat ramuan pembalik nasib di sini, namun ciptaan mereka dihancurkan oleh kesengsaraan surgawi. Nyala api tungku berubah menjadi es yang tidak meleleh, bahkan setelah ratusan abad.</Desc>
 		</Text>
 		<Text Name="Building_OuterWorld" sParam="Building">
-			<ThingName>Keretakan Dunia Lain</ThingName>
+			<ThingName>Otherworld Rift</ThingName>
 			<Desc>Ruang di sini telah hancur karena pertempuran antara orang bijak yang kuat, dan telah berubah menjadi Celah Dunia Lain yang stabil selama bertahun-tahun, memungkinkan item atau penggarap dari pesawat lain melewatinya dari waktu ke waktu.</Desc>
 		</Text>
 		<Text Name="Building_YinYang" sParam="Building">
-			<ThingName>Prasasti Yin Yang</ThingName>
+			<ThingName>Yin Yang Stela</ThingName>
 			<Desc>Sebuah batu aneh yang tercipta selama pertukaran Yin dan Yang yang berisi rahasia langit dan bumi. Semakin tinggi tingkatan muridnya, semakin mendalam wahyu tersebut. Namun bermeditasi pada prasasti batu tersebut akan selalu menimbulkan fenomena astronomi yang tidak normal.</Desc>
 		</Text>
 		<Text Name="Building_DiMu" sParam="Building">
-			<ThingName>Kuil Ibu Bumi</ThingName>
+			<ThingName>Earthmother Shrine</ThingName>
 			<Desc>Sebuah kuil yang ditinggalkan oleh sekte kuno yang memuja Ibu Bumi. Seseorang dapat membuat permohonan pada sisa wasiat Ibu Bumi dengan mempersembahkannya dengan Batu Roh, meskipun hal ini dapat membawa bencana alam.</Desc>
 		</Text>
 		<Text Name="LingShu" sParam="Building">
-			<ThingName>pohon terang</ThingName>
+			<ThingName>Illumitree</ThingName>
 			<Desc>Tanaman aneh yang dapat mengubah tanah di dekatnya menjadi tanah spiritual. Namun, serbuk sari yang dilepaskannya dapat menyebabkan penyumbatan meridian dan menekan Qi.</Desc>
-			<StoryBnts.0.Name>Merasa</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Rasakan Qi di sekitar Illumitree.</StoryBnts.0.Desc>
 		</Text>
 	</List>
