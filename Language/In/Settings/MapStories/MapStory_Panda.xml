@@ -1,8 +1,8 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Ls_School_Panda">
-			<DisplayName>Duta Besar Keabadian</DisplayName>
-			<Desc>Panda Xianxian telah mencoba dan meningkatkan hubungan kami [SCHOOL] .</Desc>
+			<DisplayName>Ambassador of Immortals</DisplayName>
+			<Desc>Panda Xianxian telah mencoba dan meningkatkan hubungan kami dengan [SCHOOL] .</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_FindPanda">
@@ -11,17 +11,17 @@
 			<Selections.0.Display>Temukan dengan Hati-hati</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_CallPanda">
-			<DisplayName>Menghancurkan</DisplayName>
+			<DisplayName>Destroy</DisplayName>
 			<Desc>Giok ini mengandung dua jenis nafas, Yin dan Yang. Mereka digabungkan satu sama lain, lucu dan kuno.</Desc>
 			<Selections.0.Display>Menghancurkan</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Fish">
-			<DisplayName>Ikan Eureka</DisplayName>
+			<DisplayName>Fish Eureka</DisplayName>
 			<Desc>[NAME] mendapat inspirasi!</Desc>
 			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
 		</Text>
 		<Text Name="Little_Panda">
-			<DisplayName>Panda Xiu Xiu</DisplayName>
+			<DisplayName>Panda Xiuxiu</DisplayName>
 			<Desc>Panda Xiuxiu lainnya datang ke sini setelah mendengar suara Xianxian!</Desc>
 			<Selections.0.Display>Selamat datang</Selections.0.Display>
 		</Text>
