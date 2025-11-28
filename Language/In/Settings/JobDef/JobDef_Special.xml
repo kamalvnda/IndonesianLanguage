@@ -1,31 +1,31 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobFreePatrol">
-			<DisplayName>Patroli</DisplayName>
+			<DisplayName>Patrol</DisplayName>
 		</Text>
 		<Text Name="JobFreeFollow">
-			<DisplayName>Mengikuti</DisplayName>
+			<DisplayName>Follow</DisplayName>
 		</Text>
 		<Text Name="JobFollow">
-			<DisplayName>Mengikuti</DisplayName>
+			<DisplayName>Follow</DisplayName>
 		</Text>
 		<Text Name="JobGoOutspread">
-			<DisplayName>Pergi Sebagai Kepala Biara</DisplayName>
+			<DisplayName>Go As Abbot</DisplayName>
 		</Text>
 		<Text Name="JobLeaveOutspread">
-			<DisplayName>Pensiun</DisplayName>
+			<DisplayName>Retire</DisplayName>
 		</Text>
 		<Text Name="JobGoOutsMember">
-			<DisplayName>Menjadi Murid</DisplayName>
+			<DisplayName>Become Disciple</DisplayName>
 		</Text>
 		<Text Name="JobSpringXiaoYao">
-			<DisplayName>Setan Menjadi Liar</DisplayName>
+			<DisplayName>Demons Run Wild</DisplayName>
 		</Text>
 		<Text Name="JobSpringXiaoYaoEscape">
-			<DisplayName>Kabur karena Terkejut</DisplayName>
+			<DisplayName>Flee in Shock</DisplayName>
 		</Text>
 		<Text Name="JobDiMuWish">
-			<DisplayName>Mengharapkan</DisplayName>
+			<DisplayName>Wish</DisplayName>
 		</Text>
 	</List>
 </Texts>
