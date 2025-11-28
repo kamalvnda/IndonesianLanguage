@@ -5,53 +5,53 @@
 			<Desc>Kosong</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_Disappointment">
-			<DisplayName>Pemimpin Cabang yang Mengecewakan</DisplayName>
+			<DisplayName>Disappointing Branch Leader</DisplayName>
 			<Desc>Bahkan orang setingkat ini bisa menjadi Pemimpin Cabang? Kurasa bahkan aku bisa menjadi Pemimpin Cabang jika terus begini...</Desc>
 			<StoryDesc>Merasa mudah untuk merasa tidak puas dengan Pemimpin Cabang yang mengecewakan</StoryDesc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen1">
-			<DisplayName>Pemimpin Baru</DisplayName>
-			<Desc>Saya sangat senang itu[TXT]telah menjadi Pemimpin Sekte kami!</Desc>
+			<DisplayName>A New Leader</DisplayName>
+			<Desc>Saya sangat senang [TXT] telah menjadi Pemimpin Sekte kami!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen2">
-			<DisplayName>Pemimpin Baru</DisplayName>
-			<Desc>[TXT]telah menjadi Pemimpin Sekte kami, ini mengerikan!</Desc>
+			<DisplayName>A New Leader</DisplayName>
+			<Desc>[TXT] telah menjadi Pemimpin Sekte kami, ini mengerikan!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen3">
-			<DisplayName>Diberhentikan</DisplayName>
+			<DisplayName>Dismissed</DisplayName>
 			<Desc>Saya pikir saya masih bisa menjabat sebagai Pemimpin Sekte...</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen4">
-			<DisplayName>Mengundurkan diri sebagai Pemimpin Sekte</DisplayName>
-			<Desc>Sayangnya,[TXT]tidak akan lagi menjadi Pemimpin Sekte kami!</Desc>
+			<DisplayName>Resigning as Sect Leader</DisplayName>
+			<Desc>Sayangnya, [TXT] tidak lagi menjadi Pemimpin Sekte kami!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen5">
-			<DisplayName>Mengundurkan diri sebagai Pemimpin Sekte</DisplayName>
-			<Desc>[TXT]tidak akan lagi menjadi Pemimpin Sekte kita...ini bagus!</Desc>
+			<DisplayName>Resigning as Sect Leader</DisplayName>
+			<Desc>[TXT] tidak lagi menjadi Pemimpin Sekte kami...ini bagus!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu0">
-			<DisplayName>Menjadi Pemimpin Cabang</DisplayName>
+			<DisplayName>Becoming Branch Leader</DisplayName>
 			<Desc>Saya telah menjadi Pemimpin Cabang...Saya harus melakukan yang terbaik untuk memenuhi posisi ini!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu1">
-			<DisplayName>Pemimpin Cabang di Kantor</DisplayName>
-			<Desc>Saya sangat senang itu[TXT]telah menjadi Pemimpin Cabang!</Desc>
+			<DisplayName>Branch Leader in Office</DisplayName>
+			<Desc>Saya sangat senang [TXT] telah menjadi Pemimpin Cabang!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu2">
-			<DisplayName>Pemimpin Cabang di Kantor</DisplayName>
-			<Desc>Bahkan[TXT]telah menjadi Pemimpin Cabang? Saya kira siapa pun bisa menjadi Pemimpin Cabang jika terus begini.</Desc>
+			<DisplayName>Branch Leader in Office</DisplayName>
+			<Desc>Bahkan [TXT] sudah menjadi Pemimpin Cabang? Saya kira siapa pun bisa menjadi Pemimpin Cabang jika terus begini.</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu3">
-			<DisplayName>Diberhentikan</DisplayName>
+			<DisplayName>Dismissed</DisplayName>
 			<Desc>Saya merasa bahwa saya dapat melanjutkan sebagai Pemimpin Cabang... mendedikasikan diri saya pada Sekte...</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu4">
-			<DisplayName>Mengundurkan diri sebagai Pemimpin Cabang</DisplayName>
-			<Desc>Saya tidak percaya itu[TXT]tidak lagi menjadi Pemimpin Cabang kami!</Desc>
+			<DisplayName>Resigning as Branch Leader</DisplayName>
+			<Desc>Saya tidak percaya [TXT] tidak lagi menjadi Pemimpin Cabang kami!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu5">
-			<DisplayName>Mengundurkan diri sebagai Pemimpin Cabang</DisplayName>
-			<Desc>Akhirnya,[TXT]tidak lagi menjadi Pemimpin Cabang kami!</Desc>
+			<DisplayName>Resigning as Branch Leader</DisplayName>
+			<Desc>Akhirnya, [TXT] tidak lagi menjadi Pemimpin Cabang kami!</Desc>
 		</Text>
 	</List>
 </Texts>
