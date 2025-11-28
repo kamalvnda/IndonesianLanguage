@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="XianKongA">
-			<IVNUMBER.0.Animal.DisplayName>kandang banteng</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Pelatihan yang diterima dari sekte tersebut memberikan kenangan terkait dengan keterampilan penyembuhan.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Bull Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor banteng di Negara Kebangkitan. Pelatihan yang diterimanya dari sekte telah memberinya Pemikiran terkait Penyembuhan.</IVNUMBER.0.Animal.Tip>
 		</Text>
 		<Text Name="XianKongAL">
-			<IVNUMBER.0.Animal.DisplayName>Kandang banteng biasa</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan rasa takut.</IVNUMBER.0.Animal.Tip>
-			<IVNUMBER.1.Animal.DisplayName>Kandang banteng biasa</IVNUMBER.1.Animal.DisplayName>
-			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan pemikiran.</IVNUMBER.1.Animal.Tip>
-			<IVNUMBER.2.Animal.DisplayName>Kandang banteng biasa</IVNUMBER.2.Animal.DisplayName>
-			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kebahagiaan.</IVNUMBER.2.Animal.Tip>
-			<IVNUMBER.3.Animal.DisplayName>Kandang banteng biasa</IVNUMBER.3.Animal.DisplayName>
-			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kemarahan.</IVNUMBER.3.Animal.Tip>
-			<IVNUMBER.4.Animal.DisplayName>Kandang banteng biasa</IVNUMBER.4.Animal.DisplayName>
-			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor banteng yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kecemasan.</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Simple Bull Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor banteng dalam kondisi Kebangkitan, ia memiliki Kecerdasan Ketakutan.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Simple Bull Cage</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Di dalamnya terdapat seekor banteng dalam kondisi Kebangkitan, ia memiliki Kecerdasan Pikiran.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Simple Bull Cage</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor banteng dalam kondisi Kebangkitan, ia memiliki Intelijen Kegembiraan.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Simple Bull Cage</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor banteng dalam kondisi Kebangkitan, ia memiliki Intelijen Kemarahan.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Simple Bull Cage</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor banteng dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kecemasan.</IVNUMBER.4.Animal.Tip>
 		</Text>
 	</List>
 </Texts>
