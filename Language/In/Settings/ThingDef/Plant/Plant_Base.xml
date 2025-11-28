@@ -1,8 +1,8 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="SYS_LOSTPLANT" sParam="Plant">
-			<ThingName>Tanaman Hilang</ThingName>
-			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
+			<ThingName>Lost Plant</ThingName>
+			<Desc>Sebuah tanaman terlupakan yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
 		</Text>
 	</List>
 </Texts>
