@@ -1,46 +1,46 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_HorseBase" sParam="Item">
-			<Item.FabaoSuffix>Gulir, Gambar, Kontrak</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Scroll,Image,Contract</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
-			<ThingName>Kontrak Roh: Kelinci</ThingName>
+			<ThingName>Spirit Contract: Rabbit</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
-			<ThingName>Kontrak Roh: Ayam</ThingName>
+			<ThingName>Spirit Contract: Chicken</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
-			<ThingName>Kontrak Roh: Serigala</ThingName>
+			<ThingName>Spirit Contract: Wolf</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
-			<ThingName>Kontrak Roh: Ular</ThingName>
+			<ThingName>Spirit Contract: Snake</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
-			<ThingName>Kontrak Roh: Babi Hutan</ThingName>
+			<ThingName>Spirit Contract: Boar</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
-			<ThingName>Kontrak Roh: Beruang</ThingName>
+			<ThingName>Spirit Contract: Bear</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
-			<ThingName>Kontrak Roh: Katak</ThingName>
+			<ThingName>Spirit Contract: Frog</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
-			<ThingName>Kontrak Roh: Penyu</ThingName>
+			<ThingName>Spirit Contract: Turtle</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
-			<ThingName>Kontrak Roh: Kucing</ThingName>
+			<ThingName>Spirit Contract: Cat</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
-			<ThingName>Kontrak Roh: Banteng</ThingName>
+			<ThingName>Spirit Contract: Bull</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
-			<ThingName>Kontrak Roh: Harimau</ThingName>
+			<ThingName>Spirit Contract: Tiger</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromLuShu" sParam="Item">
-			<ThingName>Kontrak Roh: Lushu</ThingName>
+			<ThingName>Spirit Contract: Lushu</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromFei" sParam="Item">
-			<ThingName>Kontrak Roh: Fei</ThingName>
+			<ThingName>Spirit Contract: Fei</ThingName>
 		</Text>
 	</List>
 </Texts>
