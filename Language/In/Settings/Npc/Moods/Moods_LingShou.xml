@@ -1,27 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsHelpPlayHappy">
-			<DisplayName>Sangat senang</DisplayName>
+			<DisplayName>Very Happy</DisplayName>
 			<Desc>Bermain dengan hewan peliharaan roh telah membuat Anda merasa nyaman sepanjang hari.</Desc>
 			<StoryDesc>Merasa bahwa ketika seseorang ceria, itu benar-benar mencerahkan hari seseorang</StoryDesc>
 		</Text>
 		<Text Name="BiteHappy">
-			<DisplayName>Senang sekali</DisplayName>
+			<DisplayName>Delighted</DisplayName>
 			<Desc>Gigitan lembut dari hewan peliharaan roh membuat Anda merasa didukung.</Desc>
 			<StoryDesc>Merasa tidak sakit sama sekali, hanya sedikit gatal</StoryDesc>
 		</Text>
 		<Text Name="BiteSad">
-			<DisplayName>Gundah</DisplayName>
+			<DisplayName>Upset</DisplayName>
 			<Desc>Ditampar keras oleh hewan peliharaan roh itu dan masih terasa sakit. Sepertinya dia tidak terlalu menyukaiku.</Desc>
 			<StoryDesc>Merasa Tidak Bahagia</StoryDesc>
 		</Text>
 		<Text Name="PetHeal">
-			<DisplayName>Hewan Peliharaan Roh di Perusahaan</DisplayName>
+			<DisplayName>Spirit Pet in Company</DisplayName>
 			<Desc>Dengan hewan peliharaan sebagai teman, suasana hati Anda menjadi jauh lebih baik.</Desc>
 			<StoryDesc>Merasa Tidak Bahagia</StoryDesc>
 		</Text>
 		<Text Name="PetStay">
-			<DisplayName>Hewan Peliharaan Roh di Perusahaan</DisplayName>
+			<DisplayName>Spirit Pet in Company</DisplayName>
 			<Desc>Dengan hewan peliharaan sebagai teman, suasana hati Anda menjadi jauh lebih baik.</Desc>
 			<StoryDesc>Merasa Tidak Bahagia</StoryDesc>
 		</Text>
