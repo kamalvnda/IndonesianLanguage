@@ -1,19 +1,19 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="DiMuWish">
-			<DisplayName>Memuja</DisplayName>
+			<DisplayName>Worship</DisplayName>
 			<Desc>Tawarkan Batu Roh ke Kuil Ibu Bumi</Desc>
 			<Selections.0.Display>Harapan: Batu Roh</Selections.0.Display>
 			<Selections.1.Display>Harapan: Alam</Selections.1.Display>
 		</Text>
 		<Text Name="YinYangCanWu">
-			<DisplayName>Ini adalah inspirasi</DisplayName>
+			<DisplayName>Yin Yang Inspiration</DisplayName>
 			<Desc>Batu Yin Yang berisi aturan Yin dan Yang. Renungkan untuk mendapatkan wawasan tentang latihan kultivasi.</Desc>
 			<Selections.0.Display>Ini adalah inspirasi</Selections.0.Display>
 			<Selections.1.Display>Tidak terjadi apa-apa...</Selections.1.Display>
 		</Text>
 		<Text Name="FeelQi">
-			<DisplayName>Rasakan Qi</DisplayName>
+			<DisplayName>Feel Qi</DisplayName>
 			<Desc>Ada beberapa Qi luar biasa yang mengelilingi Pohon Illumi, yang dapat beresonansi dengan para penggarap.</Desc>
 			<Selections.0.Display>Rasakan Qi</Selections.0.Display>
 			<Selections.1.Display>Tidak terjadi apa-apa...</Selections.1.Display>
