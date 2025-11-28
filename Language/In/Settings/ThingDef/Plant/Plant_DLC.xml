@@ -1,7 +1,7 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Plant_Bamboo" sParam="Plant">
-			<ThingName>Bambu</ThingName>
+			<ThingName>Bamboo</ThingName>
 			<Desc>Tanaman umum yang tumbuh dengan cepat dan dapat digunakan untuk membuat bangunan dan barang khusus. Setelah matang, akarnya bisa dipanen dan juga bisa dimakan.</Desc>
 		</Text>
 	</List>
