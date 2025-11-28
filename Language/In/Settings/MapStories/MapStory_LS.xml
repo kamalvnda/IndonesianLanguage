@@ -1,21 +1,21 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Pet Qi Kelelahan</DisplayName>
+			<DisplayName>Pet Qi Exhausted</DisplayName>
 			<Desc>Qi hewan peliharaan telah habis. Anda harus membangun patung yang sesuai untuk menghidupkannya kembali, dan prosesnya akan memakan waktu tiga hari.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_SecLs">
-			<DisplayName>Hewan Peliharaan Kedua</DisplayName>
+			<DisplayName>Second Pet</DisplayName>
 			<Desc>Anda hanya dapat memiliki satu hewan peliharaan. Pet ini akan menghilang untuk sementara waktu. Untuk memanggil hewan peliharaan ini, Anda perlu membuat patungnya terlebih dahulu.</Desc>
 		</Text>
 		<Text Name="Ls_Outspread_Stability">
-			<DisplayName>Mungkin Terkenal</DisplayName>
+			<DisplayName>Renowned Might</DisplayName>
 			<Desc>Naga terapung terbang tinggi di atas, dengan awan gelap, kilat dan guntur memenuhi langit. Mereka yang telah melakukan perbuatan salah akan sangat takut.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_Outspread_Attractive">
-			<DisplayName>Tanda-tanda Keberuntungan</DisplayName>
+			<DisplayName>Auspicious Signs</DisplayName>
 			<Desc>Dark Phoenix melayang di langit selama beberapa hari sebelum jatuh di atas aula utama, mengeluarkan tiga tangisan panjang dan terbang menjauh. Kebanyakan orang percaya bahwa ini adalah Tujuh Pembantaian yang sangat bagus.</Desc>
 			<Selections.0.Display>Oke</Selections.0.Display>
 		</Text>
