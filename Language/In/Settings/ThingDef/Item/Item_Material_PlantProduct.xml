@@ -1,9 +1,9 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Cotton" sParam="Item">
-			<ThingName>Kapas</ThingName>
+			<ThingName>Cotton</ThingName>
 			<Desc>Peti dari bahan katun yang merupakan bahan utama yang digunakan untuk menenun. Selain menanam kapas, kamu juga bisa mengumpulkannya dengan jalan-jalan ke Mt. Barren in Adventure.</Desc>
-			<Item.FabaoSuffix>Benang, Tali, Tali, Damask, Tali</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Thread, Rope, Cord, Damask, String</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>
