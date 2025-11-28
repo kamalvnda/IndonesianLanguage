@@ -1,152 +1,152 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BottleNeck1">
-			<DisplayName>Terobosan</DisplayName>
+			<DisplayName>Breakthrough</DisplayName>
 			<Desc>Saya akhirnya berhasil melakukan terobosan.</Desc>
 			<StoryDesc>Merasa bahwa Terobosan meninggalkan satu rhapsodic</StoryDesc>
 		</Text>
 		<Text Name="BottleNeck2">
-			<DisplayName>Terobosan yang Gagal</DisplayName>
+			<DisplayName>Failed Breakthrough</DisplayName>
 			<Desc>Latihan lebih sulit dari yang saya kira...</Desc>
 			<StoryDesc>Merasa Gagal melakukan Terobosan benar-benar membuat seseorang putus asa</StoryDesc>
 		</Text>
 		<Text Name="BottleNeck3">
-			<DisplayName>Hukum yang Dikaburkan menuju Keabadian...</DisplayName>
+			<DisplayName>Obscured Law to Immortality...</DisplayName>
 			<Desc>Keadaan ini telah berlangsung terlalu lama tanpa Terobosan...</Desc>
 			<StoryDesc>Merasa terjebak dalam latihan benar-benar membuat seseorang gelisah dan mudah tersinggung</StoryDesc>
 		</Text>
 		<Text Name="BottleNeck4">
-			<DisplayName>Akhirnya, Sebuah Terobosan!</DisplayName>
+			<DisplayName>Finally, a Breakthrough!</DisplayName>
 			<Desc>Kerja kerasku akhirnya membuahkan hasil!</Desc>
 			<StoryDesc>Merasa bahwa Terobosan yang telah lama ditunggu-tunggu benar-benar membuat seseorang bahagia</StoryDesc>
 		</Text>
 		<Text Name="BottleNeck5">
-			<DisplayName>Bimbang Sepanjang Jalan Menuju Keabadian</DisplayName>
+			<DisplayName>Wavering Along the Road to Immortality</DisplayName>
 			<Desc>Keadaan ini telah berlangsung terlalu lama tanpa Terobosan...</Desc>
 			<StoryDesc>Merasa terjebak dalam latihan benar-benar membuat seseorang gelisah dan mudah tersinggung</StoryDesc>
 		</Text>
 		<Text Name="ThunderDisaster1">
-			<DisplayName>Kesengsaraan yang Akan Datang</DisplayName>
+			<DisplayName>Impending Tribulation</DisplayName>
 			<Desc>Saya bisa merasakan kesengsaraan yang akan datang.</Desc>
 			<StoryDesc>merasa sulit untuk menenangkan pikiran dalam situasi seperti ini</StoryDesc>
 		</Text>
 		<Text Name="ThunderDisaster2">
-			<DisplayName>Kesengsaraan Selamat!</DisplayName>
+			<DisplayName>Tribulation Survived!</DisplayName>
 			<Desc>Itu sudah dekat, tapi sudah berakhir.</Desc>
 			<StoryDesc>Merasa bahwa Bertahan dalam kesengsaraan benar-benar membuat seseorang tersenyum!</StoryDesc>
 		</Text>
 		<Text Name="ThunderDisaster3">
-			<DisplayName>Fondasi Hancur</DisplayName>
+			<DisplayName>Foundation Destroyed</DisplayName>
 			<Desc>Kesengsaraan Surgawi sangat kejam...sepertinya tidak ada harapan untuk kenaikan sekarang.</Desc>
 			<StoryDesc>Merasa bahwa Masa Kesengsaraan telah gagal, dan sepertinya Hukum telah berakhir untuk hal ini sungguh melumpuhkan</StoryDesc>
 		</Text>
 		<Text Name="Dan1">
-			<DisplayName>Abadi dalam Penglihatan</DisplayName>
+			<DisplayName>Immortal in Sight</DisplayName>
 			<Desc>Keabadian sudah di depan mata!</Desc>
 			<StoryDesc>Merasa bahwa Yang Esa disegarkan oleh mendekatnya keabadian mereka</StoryDesc>
 		</Text>
 		<Text Name="Dan2">
-			<DisplayName>Menjadi Abadi</DisplayName>
+			<DisplayName>Becoming an Immortal</DisplayName>
 			<Desc>Membentuk Inti Emas, menjadi Dewa duniawi, ini adalah langkah pertama menuju keabadian sejati.</Desc>
 			<StoryDesc>Perasaan bahwa Inti Emas telah terbentuk membantu seseorang untuk bernapas lega</StoryDesc>
 		</Text>
 		<Text Name="Dan3">
-			<DisplayName>Inti Emas bermutu tinggi</DisplayName>
+			<DisplayName>High-grade Golden Core</DisplayName>
 			<Desc>Saya membentuk Inti Emas bermutu tinggi, ini berita luar biasa!</Desc>
 			<StoryDesc>Merasakan rasa bangga yang membuncah atas pencapaian yang begitu besar</StoryDesc>
 		</Text>
 		<Text Name="Dan4">
-			<DisplayName>Inti Emas Kelas Menengah</DisplayName>
+			<DisplayName>Mid-grade Golden Core</DisplayName>
 			<Desc>Inti Emas kelas menengah jarang terjadi.</Desc>
 			<StoryDesc>Merasa bahwa pencapaian seperti itu benar-benar mengilhami seseorang dengan rasa pencapaian</StoryDesc>
 		</Text>
 		<Text Name="StageUp">
-			<DisplayName>Negara Bagian yang Ditinggikan</DisplayName>
+			<DisplayName>Elevated State</DisplayName>
 			<Desc>Pelatihan jangka panjang pada akhirnya memberikan manfaatnya.</Desc>
 			<StoryDesc>Merasa bahwa Terobosan Seperti itu membuat seseorang cukup senang</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind1">
-			<DisplayName>Kerusakan Mental</DisplayName>
+			<DisplayName>Mental Breakdown</DisplayName>
 			<Desc>Terlalu banyak yang harus dilakukan, saya tidak bisa melakukan semuanya!</Desc>
 			<StoryDesc>Perasaan bahwa kondisi mental yang terpencar menyebabkan kehancuran</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind2">
-			<DisplayName>Keadaan Mental Tidak Stabil</DisplayName>
+			<DisplayName>Unstable Mental State</DisplayName>
 			<Desc>Aku terganggu dan tidak bisa tenang...</Desc>
 			<StoryDesc>Perasaan bahwa kondisi mental yang tidak stabil memang bisa membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind3">
-			<DisplayName>Keadaan Pikiran yang Baik</DisplayName>
+			<DisplayName>Good State of Mind</DisplayName>
 			<Desc>Semuanya normal, tidak buruk atau baik.</Desc>
 			<StoryDesc>merasa tidak buruk ketika semuanya begitu normal</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind4">
-			<DisplayName>Terpenuhi</DisplayName>
+			<DisplayName>Fulfilled</DisplayName>
 			<Desc>Saya merasa purnama seperti bulan dan kuat seperti laut.</Desc>
 			<StoryDesc>Merasakan rasa kepuasan seperti ini sungguh memuaskan</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind5">
-			<DisplayName>Jelas</DisplayName>
+			<DisplayName>Clear Headed</DisplayName>
 			<Desc>Pikiranmu seperti kaca.</Desc>
 			<StoryDesc>Merasakan rasa kejelasan seperti ini sungguh memuaskan</StoryDesc>
 		</Text>
 		<Text Name="FrameOfMind6">
-			<DisplayName>Tanpa cela</DisplayName>
+			<DisplayName>Flawless</DisplayName>
 			<Desc>Pikiranku terasa sempurna seperti tidak ada yang merusaknya.</Desc>
 			<StoryDesc>Merasa bahwa perasaan tanpa cela seperti itu sangatlah tidak biasa</StoryDesc>
 		</Text>
 		<Text Name="TravelExperience">
-			<DisplayName>gelisah</DisplayName>
+			<DisplayName>Antsy</DisplayName>
 			<Desc>Aku sudah lama tidak melakukan petualangan, aku cukup gelisah.</Desc>
 			<StoryDesc>Merasa terlalu lama terjebak di suatu tempat dapat menyebabkan seseorang mendambakan petualangan</StoryDesc>
 		</Text>
 		<Text Name="SitCrosslegged1">
-			<DisplayName>Duduk Bermeditasi</DisplayName>
+			<DisplayName>Sitting Meditating</DisplayName>
 			<Desc>Andai saja ada tempat yang lebih nyaman untuk berlatih...</Desc>
 			<StoryDesc>Merasa bahwa Meditasi di tanah menyebabkan gangguan</StoryDesc>
 		</Text>
 		<Text Name="SitCrosslegged2">
-			<DisplayName>Latihan yang Menyenangkan</DisplayName>
+			<DisplayName>Pleasant Practice</DisplayName>
 			<Desc>Saya merasa seperti saya menyelesaikan pekerjaan dua kali lebih banyak dengan setengah usaha!</Desc>
 			<StoryDesc>Merasa bahwa Latihan yang menyenangkan terasa sungguh bermanfaat</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing1">
-			<DisplayName>Qi yang intens</DisplayName>
+			<DisplayName>Intense Qi</DisplayName>
 			<Desc>Tempat ini memiliki Qi yang sangat kuat, tempat ini benar-benar bagus untuk Latihan seseorang.</Desc>
 			<StoryDesc>Merasa bahwa Latihan berjalan lancar di tempat dengan Qi yang begitu kuat</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing2">
-			<DisplayName>Qi yang cukup</DisplayName>
+			<DisplayName>Sufficient Qi</DisplayName>
 			<Desc>Tempat ini memiliki Qi yang cukup untuk menjadikannya tempat yang bagus untuk Latihan.</Desc>
 			<StoryDesc>Merasa Latihan berjalan dengan baik di tempat seperti ini</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing3">
-			<DisplayName>Qi tidak mencukupi</DisplayName>
+			<DisplayName>Insufficient Qi</DisplayName>
 			<Desc>Qi di sini tidak cukup, tetapi terkadang Anda hanya perlu mencukupinya.</Desc>
 			<StoryDesc>Merasa bahwa Tempat dengan jumlah Qi yang tidak mencukupi tidaklah ideal</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing4">
-			<DisplayName>Qi yang malang</DisplayName>
+			<DisplayName>Poor Qi</DisplayName>
 			<Desc>Tempat ini tidak bagus untuk Latihan, tidak ada tempat yang cukup dekat dengan Qi.</Desc>
 			<StoryDesc>Merasa bahwa Mencoba berlatih di tempat dengan Qi yang buruk membuat seseorang merasa tidak puas</StoryDesc>
 		</Text>
 		<Text Name="PracticeElement1">
-			<DisplayName>Keselarasan Sempurna dari Lima Elemen</DisplayName>
+			<DisplayName>Perfect Alignment of the Five Elements</DisplayName>
 			<Desc>Lima Elemen di sini sangat selaras dengan milik saya, ini sangat bagus untuk Latihan.</Desc>
 			<StoryDesc>Merasa bahwa Lima Elemen berada dalam keselarasan sempurna benar-benar membuat seseorang merasa seperti ikan di air</StoryDesc>
 		</Text>
 		<Text Name="PracticeElement2">
-			<DisplayName>Lima Elemen berada dalam Harmoni</DisplayName>
+			<DisplayName>The Five Elements are in Harmony</DisplayName>
 			<Desc>Tempat ini tidak buruk untuk Latihanku.</Desc>
 			<StoryDesc>Merasa bahwa segala sesuatunya berjalan lancar ketika Lima Elemen selaras dengan diri sendiri</StoryDesc>
 		</Text>
 		<Text Name="PracticeElement3">
-			<DisplayName>Lima Elemen Berantakan</DisplayName>
+			<DisplayName>The Five Elements are in Disarray</DisplayName>
 			<Desc>Ini bukan tempat yang baik untuk Latihan saya.</Desc>
 			<StoryDesc>Merasa bahwa Mencoba berlatih di tempat di mana Lima Elemen berada dalam kekacauan akan membuat seseorang gelisah</StoryDesc>
 		</Text>
 		<Text Name="PracticeElement4">
-			<DisplayName>Lima Elemen Saling Menahan</DisplayName>
+			<DisplayName>The Five Elements are Restraining Each Other</DisplayName>
 			<Desc>Saya tidak bisa tinggal lama di sini, Lima Elemen berada pada posisi yang berlawanan dengan milik saya.</Desc>
 			<StoryDesc>Merasa bahwa Lima Elemen tidak selaras akan melemahkan semangat seseorang</StoryDesc>
 		</Text>
