@@ -1,70 +1,70 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Tower_Enemy_achai">
-			<DisplayName>Pergeseran Bentuk Shiba</DisplayName>
+			<DisplayName>Shiba Shapeshift</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Cat">
-			<DisplayName>Temukan kucing</DisplayName>
+			<DisplayName>Find cat</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Xian">
-			<DisplayName>Gaya Kondensasi</DisplayName>
+			<DisplayName>Condensation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Ti">
-			<DisplayName>Kekuatan Kondensasi</DisplayName>
+			<DisplayName>Condensation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Yao">
-			<DisplayName>Kekuatan Kondensasi</DisplayName>
+			<DisplayName>Condensation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Root">
-			<DisplayName>Kekuatan Kondensasi</DisplayName>
+			<DisplayName>Condensation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Part">
-			<DisplayName>Kekuatan Kondensasi</DisplayName>
+			<DisplayName>Condensation Force</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiQi">
-			<DisplayName>Gelombang Pasang</DisplayName>
+			<DisplayName>Rising Tide</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXi0">
-			<DisplayName>Pasang Datar</DisplayName>
+			<DisplayName>Flat Tide</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiLuo">
-			<DisplayName>Gelombang Jatuh</DisplayName>
+			<DisplayName>Falling Tide</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongOur">
-			<DisplayName>Kebobrokan</DisplayName>
+			<DisplayName>Dilapidation</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongEnm">
-			<DisplayName>Kemakmuran</DisplayName>
+			<DisplayName>Prosperity</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_WuZhi">
-			<DisplayName>Sangkar Kebenaran</DisplayName>
+			<DisplayName>Cage of Truth</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian0">
-			<DisplayName>Keyakinan Iman</DisplayName>
+			<DisplayName>Conviction of Faith</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian1">
-			<DisplayName>Meningkatkan Iman</DisplayName>
+			<DisplayName>Faith Enhance</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown1">
-			<DisplayName>Pengakuan Iman yang Perkasa</DisplayName>
+			<DisplayName>Mighty Creed</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown2">
-			<DisplayName>Ancaman Perkasa</DisplayName>
+			<DisplayName>Mighty Menace</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown3">
-			<DisplayName>Tanah Lembut</DisplayName>
+			<DisplayName>Tender Land</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown4">
-			<DisplayName>Larangan Raja</DisplayName>
+			<DisplayName>King's Ban</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown5">
-			<DisplayName>Teror Pikiran</DisplayName>
+			<DisplayName>Mind Terror</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown6">
-			<DisplayName>Nafas Keserakahan</DisplayName>
+			<DisplayName>Greed Breath</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown7">
-			<DisplayName>Botol Dilarang</DisplayName>
+			<DisplayName>Bottle Forbidden</DisplayName>
 		</Text>
 	</List>
 </Texts>
