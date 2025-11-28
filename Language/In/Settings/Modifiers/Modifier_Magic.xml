@@ -1,46 +1,46 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_SnatchBody">
-			<DisplayName>Kepemilikan Dewa Yin</DisplayName>
+			<DisplayName>Yin God Possession</DisplayName>
 		</Text>
 		<Text Name="Gong_LifeBurning">
-			<DisplayName>Pembakaran Kehidupan</DisplayName>
+			<DisplayName>Life Burning</DisplayName>
 			<Desc>Meningkatkan kemampuan untuk waktu singkat dengan mengorbankan kerusakan pada tubuh saat selesai.</Desc>
 		</Text>
 		<Text Name="Gong_DevilBlood">
-			<DisplayName>Demonisasi</DisplayName>
+			<DisplayName>Demonization</DisplayName>
 			<Desc>Berkomunikasi dengan Iblis Surgawi dan menjelekkan tubuh seseorang sepenuhnya, sangat meningkatkan kualitas fisik dan kecepatan kultivasi. Tapi mulai sekarang, seseorang akan dibenci oleh makhluk surgawi dan manusia.</Desc>
 		</Text>
 		<Text Name="Gong_DevilBlood_LianHun">
-			<DisplayName>Sempurnakan Jiwa</DisplayName>
+			<DisplayName>Refine Soul</DisplayName>
 			<Desc>Menahan siksaan, jiwa telah menanggung kesakitan yang luar biasa.</Desc>
 		</Text>
 		<Text Name="Gong_HunTin_Self">
-			<DisplayName>Pemisahan Jiwa</DisplayName>
+			<DisplayName>Soul Splitting</DisplayName>
 			<Desc>Karena membelah sebagian Roh Primordial untuk melakukan Infeksi Jiwa, kesadaran karakter menjadi rusak. Kecerdasan, Kecepatan Kultivasi, dan Kecepatan Memperoleh Inspirasi akan sedikit berkurang.</Desc>
 		</Text>
 		<Text Name="Gong_TaHua_Self">
-			<DisplayName>Simpati yang dieksploitasi</DisplayName>
+			<DisplayName>Exploited sympathy</DisplayName>
 			<Desc>Lakukan teknik Eksploitasi untuk memperoleh Inspirasi dan Budidaya dari pikiran makhluk hidup lainnya. Namun akibatnya akan menurunkan nilai dasar Mood dan Mental State.</Desc>
 		</Text>
 		<Text Name="Gong_TaHua_Self1">
-			<DisplayName>Simpati yang dieksploitasi</DisplayName>
+			<DisplayName>Exploited sympathy</DisplayName>
 			<Desc>Lakukan teknik Eksploitasi untuk memperoleh Inspirasi dan Budidaya dari pikiran makhluk hidup lainnya. Namun akibatnya akan menurunkan nilai dasar Mood dan Mental State.</Desc>
 		</Text>
 		<Text Name="Gong_TianMoWu">
-			<DisplayName>Daya Tarik Setan Surgawi</DisplayName>
+			<DisplayName>Fascination of Celestial Demon</DisplayName>
 		</Text>
 		<Text Name="Gong_SoulKeYin">
-			<DisplayName>Jejak Pikiran</DisplayName>
+			<DisplayName>Mind Imprint</DisplayName>
 		</Text>
 		<Text Name="Modifier_GongXinYin_Damage">
-			<DisplayName>Nyanyian Resonansi Menjadi Bumerang</DisplayName>
+			<DisplayName>Chant of Resonance Backfire</DisplayName>
 		</Text>
 		<Text Name="WuYinKeShenRestore">
-			<DisplayName>Pemulihan Lima Jejak Spiritual</DisplayName>
+			<DisplayName>Five Spiritual Imprints Recovery</DisplayName>
 		</Text>
 		<Text Name="TianMoWuRestore">
-			<DisplayName>Pemulihan Tarian Setan Surgawi</DisplayName>
+			<DisplayName>Celestial Demon Dance Recovery</DisplayName>
 		</Text>
 	</List>
 </Texts>
