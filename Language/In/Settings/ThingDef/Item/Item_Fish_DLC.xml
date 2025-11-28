@@ -1,266 +1,266 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="FishBase" sParam="Item">
-			<ThingName>Ikan (Umum)</ThingName>
-			<Item.FabaoSuffix>Surimi, Ikan, Tulang</Item.FabaoSuffix>
+			<ThingName>Fish (General)</ThingName>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_StoneCrab" sParam="Item">
-			<ThingName>Kepiting</ThingName>
+			<ThingName>Crab</ThingName>
 			<Desc>Kepiting biasa yang hidup di tanah dan bebatuan.</Desc>
 		</Text>
 		<Text Name="Fish_Ji" sParam="Item">
-			<ThingName>Karper</ThingName>
+			<ThingName>Carp</ThingName>
 			<Desc>Ikan air tawar umum yang hidup di semua jenis perairan.</Desc>
 		</Text>
 		<Text Name="Fish_t6" sParam="Item">
-			<ThingName>Cichlid Kurcaci Biru</ThingName>
+			<ThingName>Blue Dwarf Cichlid</ThingName>
 			<Desc>Ikan yang biasa terlihat di Mt.Kunlun.</Desc>
 		</Text>
 		<Text Name="Fish_t8" sParam="Item">
-			<ThingName>Ikan Killi Merah</ThingName>
+			<ThingName>Red Killifish</ThingName>
 			<Desc>Ikan pembunuh berukuran besar yang hanya hidup di pegunungan dan tahan terhadap cuaca dingin.</Desc>
 		</Text>
 		<Text Name="Fish_s3" sParam="Item">
-			<ThingName>Ikan Air tawar Amur Biru</ThingName>
+			<ThingName>Blue Amur Bream</ThingName>
 			<Desc>Bream yang hanya hidup di Heavenstep Peak. Suka makan Bunga Es.</Desc>
 		</Text>
 		<Text Name="Fish_s7" sParam="Item">
-			<ThingName>Ikan Datar Dataran Tinggi</ThingName>
+			<ThingName>Highland Flatfish</ThingName>
 			<Desc>Flatfish yang hanya hidup di pegunungan barat laut.</Desc>
 		</Text>
 		<Text Name="Fish_s9" sParam="Item">
-			<ThingName>Ikan Datar Batu Hitam</ThingName>
+			<ThingName>Blackstone Flatfish</ThingName>
 			<Desc>Ikan pipih yang hanya hidup di Gunung Blackstone. Dipengaruhi oleh Pilar Pedang, warnanya hitam dan keras serta menyukai benda berelemen logam.</Desc>
 		</Text>
 		<Text Name="Fish_ChillyCrab" sParam="Item">
-			<ThingName>Kepiting Rime</ThingName>
+			<ThingName>Rime Crab</ThingName>
 			<Desc>Kepiting dengan daging lezat yang hanya terlihat di daerah dingin.</Desc>
-			<Item.FabaoSuffix>Surimi, Cangkang, Tulang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_BaiHuang" sParam="Item">
-			<ThingName>Ikan Mas Telanjang Salju</ThingName>
+			<ThingName>Snow Naked Carp</ThingName>
 			<Desc>Jenis ikan mas telanjang langka yang hanya hidup di Danau Jakestone dan muncul selama musim dingin. Dagingnya rasanya enak dan bisa dimakan langsung.</Desc>
 		</Text>
 		<Text Name="Fish_s1" sParam="Item">
-			<ThingName>Ikan Killi Putih</ThingName>
+			<ThingName>White Killifish</ThingName>
 			<Desc>Ikan pembunuh berukuran besar seputih salju yang jarang muncul di perairan dingin.</Desc>
 		</Text>
 		<Text Name="Fish_r6" sParam="Item">
-			<ThingName>Loach Kolam Sirip Merah</ThingName>
+			<ThingName>Red-fin Pond Loach</ThingName>
 			<Desc>Danau kolam langka dengan sirip merah tajam yang hidup di daerah dingin dan konon hanya muncul selama musim dingin.</Desc>
 		</Text>
 		<Text Name="Fish_QingHei" sParam="Item">
-			<ThingName>Kepala Ular Hijau</ThingName>
+			<ThingName>Green Snakehead</ThingName>
 			<Desc>Sejenis ikan gabus dengan kepala berwarna hijau yang sulit ditangkap.</Desc>
 		</Text>
 		<Text Name="Fish_t2" sParam="Item">
-			<ThingName>Ikan Mas Crucian</ThingName>
+			<ThingName>Crucian Carp</ThingName>
 			<Desc>Ikan umum yang terutama terlihat di sekitar Mountainsouth.</Desc>
 		</Text>
 		<Text Name="Fish_s2" sParam="Item">
-			<ThingName>ikan air tawar</ThingName>
+			<ThingName>Bream</ThingName>
 			<Desc>Ikan pipih dan umum yang terutama terlihat di aliran sungai dekat Mountainsouth.</Desc>
 		</Text>
 		<Text Name="Fish_r8" sParam="Item">
-			<ThingName>Belut Rawa Sirip Biru</ThingName>
+			<ThingName>Blue-fin Swamp Eel</ThingName>
 			<Desc>Dikatakan bahwa itu hanya muncul di dekat Sekte Taiyi dan terjadi pada Malam Kutub. Ia mempunyai stamina yang besar, sehingga diberi nama "Peri Air"</Desc>
 		</Text>
 		<Text Name="Fish_s5" sParam="Item">
-			<ThingName>Ikan Air Tawar Amur Merah Muda</ThingName>
+			<ThingName>Pink Amur Bream</ThingName>
 			<Desc>Ikan air tawar Amur berwarna merah muda yang konon merupakan hasil persilangan ikan mas dan ikan air tawar. Saat musim gugur, ia berenang dari laut ke sungai untuk bertelur dan tubuhnya menjadi lunak untuk menyesuaikan diri dengan bebatuan di sungai air tawar.</Desc>
 		</Text>
 		<Text Name="Fish_t1" sParam="Item">
-			<ThingName>Ikan Cahaya Bulan</ThingName>
+			<ThingName>Moonlight Fish</ThingName>
 			<Desc>Ikan langka yang dagingnya manis dan gurih. Tinggal di Celestial Pool dan hanya muncul setelah tengah malam musim gugur.</Desc>
 		</Text>
 		<Text Name="Fish_t5" sParam="Item">
-			<ThingName>Cichlid Kerdil Merah Muda</ThingName>
+			<ThingName>Pink Dwarf Cichlid</ThingName>
 			<Desc>Ikan kecil yang sering terlihat di dekat Gunung Nelumbo.</Desc>
 		</Text>
 		<Text Name="Fish_r2" sParam="Item">
-			<ThingName>Kolam Loach</ThingName>
+			<ThingName>Pond Loach</ThingName>
 			<Desc>Ikan panjang dan ramping yang hidup di tanah dekat sungai.</Desc>
 		</Text>
 		<Text Name="Fish_r1" sParam="Item">
-			<ThingName>Ikan Datar Putih</ThingName>
+			<ThingName>White Flatfish</ThingName>
 			<Desc>Ikan pipih langka yang hidup di Gunung Shu.</Desc>
 		</Text>
 		<Text Name="Fish_r11" sParam="Item">
-			<ThingName>Ikan Esensi Giok</ThingName>
+			<ThingName>Jade Essence Fish</ThingName>
 			<Desc>Ikan langka yang terlihat di sekitar Gunung Shu yang menyukai Jade Essence. Mungkin ia tertarik oleh Qi Buminya.</Desc>
 		</Text>
 		<Text Name="Fish_FenLi" sParam="Item">
-			<ThingName>Ikan Mas Merah Muda</ThingName>
+			<ThingName>Pink Carp</ThingName>
 			<Desc>Ikan mas yang seluruh tubuhnya berwarna merah muda. Beberapa orang mengira hal itu dipengaruhi oleh bunga persik di dekatnya.</Desc>
 		</Text>
 		<Text Name="Fish_t11" sParam="Item">
-			<ThingName>Ikan Pembunuh Setan</ThingName>
+			<ThingName>Demon Killifish</ThingName>
 			<Desc>Killifish yang hidup di rawa-rawa di Wild South dan dikatakan memiliki pola di sekujur tubuhnya karena telah menghirup aura Demon Emperor. Hanya muncul selama musim semi.</Desc>
 		</Text>
 		<Text Name="Fish_r3" sParam="Item">
-			<ThingName>Loach Kolam Hitam</ThingName>
+			<ThingName>Black Pond Loach</ThingName>
 			<Desc>Danau kolam hitam besar yang hanya muncul di Wild South.</Desc>
 		</Text>
 		<Text Name="Fish_Black" sParam="Item">
-			<ThingName>Kepala ular</ThingName>
+			<ThingName>Snakehead</ThingName>
 			<Desc>Ikan air tawar umum yang sebagian besar hidup di sungai.</Desc>
 		</Text>
 		<Text Name="Fish_BlueFish" sParam="Item">
-			<ThingName>Ikan Mas Biru</ThingName>
+			<ThingName>Blue Carp</ThingName>
 			<Desc>Ikan mas biru langka yang hidup di sungai besar. Tubuhnya membiru setelah menyerap Qi Air selama beberapa generasi.</Desc>
 		</Text>
 		<Text Name="Fish_Huang" sParam="Item">
-			<ThingName>Ikan Mas Telanjang</ThingName>
+			<ThingName>Naked Carp</ThingName>
 			<Desc>Ikan mas yang kebanyakan hidup di sungai-sungai besar.</Desc>
 		</Text>
 		<Text Name="Fish_HongHuang" sParam="Item">
-			<ThingName>Ikan Mas Telanjang Topi Merah</ThingName>
+			<ThingName>Red-cap Naked Carp</ThingName>
 			<Desc>Ikan mas telanjang yang bertopi merah dan jarang muncul di sungai besar.</Desc>
 		</Text>
 		<Text Name="Fish_r13" sParam="Item">
-			<ThingName>Belut Rawa Putih</ThingName>
+			<ThingName>White Swamp Eel</ThingName>
 			<Desc>Belut rawa putih dengan daging gurih dan kenyal yang hanya hidup di sungai besar.</Desc>
 		</Text>
 		<Text Name="Fish_RedFish" sParam="Item">
-			<ThingName>Ikan Trout Pelangi</ThingName>
+			<ThingName>Rainbow Trout</ThingName>
 			<Desc>Ikan air tawar merah yang hidup jauh di sungai dekat Kota Galepeak dan hanya mengapung di atas selama musim dingin.</Desc>
 		</Text>
 		<Text Name="Fish_t10" sParam="Item">
-			<ThingName>Ikan Pembunuh Giok</ThingName>
+			<ThingName>Jade Killifish</ThingName>
 			<Desc>Killifish yang hidup di Air Spiritual.</Desc>
 		</Text>
 		<Text Name="Fish_JadeCrab" sParam="Item">
-			<ThingName>Kepiting Giok</ThingName>
+			<ThingName>Jade Crab</ThingName>
 			<Desc>Kepiting yang sangat langka hanya muncul pada siang hari. Tubuhnya telah terpengaruh oleh Air Spiritual dan menjadi seperti batu giok. Beberapa petani memeliharanya di Gunung Nulumbo.</Desc>
-			<Item.FabaoSuffix>Surimi, Cangkang, Tulang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_s6" sParam="Item">
-			<ThingName>Ikan Air Merak</ThingName>
+			<ThingName>Peacock Bream</ThingName>
 			<Desc>Ikan air tawar berwarna hijau bening dan indah yang hidup di Air Spiritual. Semua sekte menyimpan beberapa untuk tujuan hiasan.</Desc>
 		</Text>
 		<Text Name="Fish_r5" sParam="Item">
-			<ThingName>Loach Kolam Persik</ThingName>
+			<ThingName>Peach Pond Loach</ThingName>
 			<Desc>Pond loach yang hanya hidup di Air Spiritual dan suka memakan Batu Roh.</Desc>
 		</Text>
 		<Text Name="Fish_r12" sParam="Item">
-			<ThingName>Belut Rawa Bersinar</ThingName>
+			<ThingName>Shinning Swamp Eel</ThingName>
 			<Desc>Belut rawa langka yang hidup di Air Spiritual, hanya muncul selama musim panas dan memakan Akar Roh yang berharga.</Desc>
 		</Text>
 		<Text Name="Fish_XieLi" sParam="Item">
-			<ThingName>Ikan Mas Setan</ThingName>
+			<ThingName>Demon Carp</ThingName>
 			<Desc>Ikan mas yang hanya muncul di Darah Tipis dengan pola setan di tubuhnya.</Desc>
 		</Text>
 		<Text Name="Fish_t3" sParam="Item">
-			<ThingName>Snakehead bermata gelap</ThingName>
+			<ThingName>Dark-eye Snakehead</ThingName>
 			<Desc>Snakehead dengan mata hitam pekat raksasa yang hanya muncul di Blood Water.</Desc>
 		</Text>
 		<Text Name="Fish_s4" sParam="Item">
-			<ThingName>ikan air tawar merah</ThingName>
+			<ThingName>Red Bream</ThingName>
 			<Desc>Ikan air tawar yang hanya hidup di Darah Tipis dan sering menyerang hewan yang lewat di dekatnya.</Desc>
 		</Text>
 		<Text Name="Fish_s11" sParam="Item">
-			<ThingName>Ikan Datar Setan</ThingName>
+			<ThingName>Demon Flatfish</ThingName>
 			<Desc>Ikan pipih langka yang hidup di Air Darah dengan bau yang menyengat sehingga menjauhkannya dari predatornya. Jadi, air darah sering kali berbau tidak sedap di Springs.</Desc>
 		</Text>
 		<Text Name="Fish_FireCrab" sParam="Item">
-			<ThingName>Kepiting Api</ThingName>
+			<ThingName>Fire Crab</ThingName>
 			<Desc>Kepiting yang hidup di daerah panas memiliki cangkang yang membantunya bertahan dalam cuaca dingin.</Desc>
-			<Item.FabaoSuffix>Surimi, Cangkang, Tulang</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_HongGui" sParam="Item">
-			<ThingName>Salmon Sockeye</ThingName>
+			<ThingName>Sockeye Salmon</ThingName>
 			<Desc>Salmon merah dengan topi keputihan yang muncul di dekat Gurun Besar.</Desc>
 		</Text>
 		<Text Name="Fish_t4" sParam="Item">
-			<ThingName>Cichlid Kurcaci Emas</ThingName>
+			<ThingName>Golden Dwarf Cichlid</ThingName>
 			<Desc>Ikan yang hidup di gurun. Terlahir untuk menahan lapar. Mungkin karena hanya memakan makanan berelemen Kayu.</Desc>
 		</Text>
 		<Text Name="Fish_s10" sParam="Item">
-			<ThingName>Ikan Datar Coklat</ThingName>
+			<ThingName>Brown Flatfish</ThingName>
 			<Desc>Flatfish yang terlihat di Great Desert.</Desc>
 		</Text>
 		<Text Name="Fish_r4" sParam="Item">
-			<ThingName>Loach Kolam Igneocopper</ThingName>
+			<ThingName>Igneocopper Pond Loach</ThingName>
 			<Desc>Loach kolam yang hidup di dekat tambang Igneocopper dan memakan mineral dalam bijihnya. Tubuhnya bisa mengeluarkan panas.</Desc>
 		</Text>
 		<Text Name="Fish_r7" sParam="Item">
-			<ThingName>Loach Pasir</ThingName>
+			<ThingName>Sand Loach</ThingName>
 			<Desc>Sejenis loach yang hidup di gurun.</Desc>
 		</Text>
 		<Text Name="Fish_t7" sParam="Item">
-			<ThingName>Killifish bermulut besar</ThingName>
+			<ThingName>Big-mouth Killifish</ThingName>
 			<Desc>Ikan dengan mulut tebal yang sering terlihat di laut.</Desc>
 		</Text>
 		<Text Name="Fish_t9" sParam="Item">
-			<ThingName>Ikan Pembunuh Hitam</ThingName>
+			<ThingName>Black Killifish</ThingName>
 			<Desc>Ikan pembunuh langka yang hidup di laut.</Desc>
 		</Text>
 		<Text Name="Fish_t12" sParam="Item">
-			<ThingName>Ikan Pembunuh Api</ThingName>
+			<ThingName>Flame Killifish</ThingName>
 			<Desc>Killifish yang hanya bisa dilihat saat musim panas. Hanya sedikit orang yang pernah melihatnya di Poison Dragon Lake.</Desc>
 		</Text>
 		<Text Name="Fish_s12" sParam="Item">
-			<ThingName>Flatfish bermata gelap</ThingName>
+			<ThingName>Dark-eye Flatfish</ThingName>
 			<Desc>Ikan berukuran besar yang hidup di laut dalam dan hanya bertelur di perairan dangkal.</Desc>
 		</Text>
 		<Text Name="Fish_s8" sParam="Item">
-			<ThingName>Ikan Pipih Sirip Biru</ThingName>
+			<ThingName>Blue-fin Flatfish</ThingName>
 			<Desc>Flatfish yang biasa terlihat di laut.</Desc>
 		</Text>
 		<Text Name="Fish_r9" sParam="Item">
-			<ThingName>Belut Laut</ThingName>
+			<ThingName>Sea Eel</ThingName>
 			<Desc>Belut yang biasa terlihat di laut.</Desc>
 		</Text>
 		<Text Name="Fish_r10" sParam="Item">
-			<ThingName>Belut Berbintik</ThingName>
+			<ThingName>Spotted Eel</ThingName>
 			<Desc>Belut langka yang hidup di laut. Pola bintik-bintik tersebut kemungkinan disebabkan karena ia memakan abu vulkanik di dasar laut.</Desc>
 		</Text>
 		<Text Name="Shrimp1" sParam="Item">
-			<ThingName>Udang Sungai</ThingName>
+			<ThingName>River Shrimp</ThingName>
 			<Desc>Udang biasa, hidup di semua perairan tawar.</Desc>
 		</Text>
 		<Text Name="Shrimp2" sParam="Item">
-			<ThingName>Udang Laut</ThingName>
+			<ThingName>Sea Shrimp</ThingName>
 			<Desc>Udang biasa ada di laut, dengan ukuran lebih besar.</Desc>
 		</Text>
 		<Text Name="Shrimp3" sParam="Item">
-			<ThingName>Udang Ungu</ThingName>
+			<ThingName>Purple Shrimp</ThingName>
 			<Desc>Udang yang hanya hidup di pegunungan dekat Istana Skydome.</Desc>
 		</Text>
 		<Text Name="Shrimp4" sParam="Item">
-			<ThingName>Udang Merah</ThingName>
+			<ThingName>Red Shrimp</ThingName>
 			<Desc>Khusus udang cangkang merah, tahan suhu tinggi.</Desc>
 		</Text>
 		<Text Name="Shrimp5" sParam="Item">
-			<ThingName>Udang Pasir</ThingName>
+			<ThingName>Sand Shrimp</ThingName>
 			<Desc>Udang yang hidup di gurun pasir, dengan ukuran yang kecil.</Desc>
 		</Text>
 		<Text Name="Shrimp6" sParam="Item">
-			<ThingName>Udang itu</ThingName>
+			<ThingName>Acele Shrimp</ThingName>
 			<Desc>Udang yang hidup di dekat sungai besar, dengan ukuran kecil.</Desc>
 		</Text>
 		<Text Name="Shrimp7" sParam="Item">
-			<ThingName>Udang Garis Biru</ThingName>
+			<ThingName>Blue Stripe Shrimp</ThingName>
 			<Desc>Udang yang hidup di dekat Dataran Tengah, tidak mudah ditangkap.</Desc>
 		</Text>
 		<Text Name="Shrimp8" sParam="Item">
-			<ThingName>Udang Bintik Kuning</ThingName>
+			<ThingName>Yellow Spot Shrimp</ThingName>
 			<Desc>Udang yang hidup di dekat Wild South, rasanya pahit.</Desc>
 		</Text>
 		<Text Name="Shrimp9" sParam="Item">
-			<ThingName>Udang Darah</ThingName>
+			<ThingName>Blood Shrimp</ThingName>
 			<Desc>Udang yang hidup di air darah, sangat ganas.</Desc>
 		</Text>
 		<Text Name="Shrimp10" sParam="Item">
-			<ThingName>Udang Darah Tinggi</ThingName>
+			<ThingName>High Blood Shrimp</ThingName>
 			<Desc>Seekor udang yang muncul di air darah di pegunungan dan hanya memakan makanan berelemen Api. Juga muncul di jenis air lain karena sifatnya yang invasif.</Desc>
 		</Text>
 		<Text Name="Shrimp11" sParam="Item">
-			<ThingName>Udang Fluoresensi</ThingName>
+			<ThingName>Fluorescence Shrimp</ThingName>
 			<Desc>Udang yang hanya muncul di Kolam Lima Naga pada malam musim panas. Tubuh mereka bersinar, dikatakan karena mereka hanya memakan makanan berelemen Logam.</Desc>
 		</Text>
 		<Text Name="Shrimp12" sParam="Item">
-			<ThingName>Udang Persik</ThingName>
+			<ThingName>Peach Shrimp</ThingName>
 			<Desc>Udang yang hanya muncul di Perennial Miasma di mata air. Tubuh merah jambu mereka dipengaruhi oleh bunga persik.</Desc>
 		</Text>
 	</List>
