@@ -4,38 +4,38 @@
 			<DisplayName>Six Paths Reincarnation Law</DisplayName>
 			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Kultivator akan menjadi yang paling kuat di awal setiap keadaan, namun seiring dengan kemajuan budidaya, kekuatan mereka akan menurun selangkah demi selangkah hingga kultivator menjadi sama lemahnya dengan manusia lainnya. Seseorang hanya dapat terlahir kembali dan maju dalam kultivasi setelah melakukan terobosan. Oleh karena itu, Undang-undang ini populer di kalangan penggarap, namun hanya sedikit yang berhasil.</Desc>
 			<SelectDesc>Seseorang akan menjadi kuat dalam pertempuran ketika berkultivasi mengikuti Hukum ini, tetapi tidak terampil dalam alkimia atau pembuatan artefak. Namun, seseorang harus mengalami reinkarnasi dan secara bertahap kehilangan kekuatannya hingga kenaikan terakhir. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Pengakuan Iman Manusia</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Terlahir kembali</Stages.0.Necks.0.DisplayName>
+			<Stages.0.DisplayName>Creed of Man</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Reborn</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Tenggelamnya</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.2.DisplayName>Reinkarnasi</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Sinking</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Reincarnation</Stages.0.Necks.2.DisplayName>
 			<Stages.0.Necks.2.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.0.Necks.2.Desc>
-			<Stages.1.DisplayName>Pengakuan Iman Hewan</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Terlahir kembali</Stages.1.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Creed of Animal</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Reborn</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Tenggelamnya</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.2.DisplayName>Reinkarnasi</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Pengakuan Hantu</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Terlahir kembali</Stages.2.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Sinking</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Reincarnation</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Creed of Ghost</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Reborn</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Tenggelamnya</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Reinkarnasi</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sinking</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Reincarnation</Stages.2.Necks.2.DisplayName>
 			<Stages.2.Necks.2.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.2.Necks.2.Desc>
-			<Stages.3.DisplayName>Pengakuan Neraka</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Terlahir kembali</Stages.3.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Creed of Hell</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Reborn</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Tenggelamnya</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.2.DisplayName>Reinkarnasi</Stages.3.Necks.2.DisplayName>
-			<Stages.4.DisplayName>Pengakuan Iman Asura</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Terlahir kembali</Stages.4.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Sinking</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Reincarnation</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Creed of Asura</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Reborn</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>Tenggelamnya</Stages.4.Necks.1.DisplayName>
-			<Stages.4.Necks.2.DisplayName>Reinkarnasi</Stages.4.Necks.2.DisplayName>
-			<Stages.5.DisplayName>Pengakuan Iman Surga</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Terlahir kembali</Stages.5.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Sinking</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Reincarnation</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Creed of Heaven</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Reborn</Stages.5.Necks.0.DisplayName>
 			<Stages.5.Necks.0.Desc>[color=#D06508]\nTerobosan ini dapat diselesaikan setelah upaya berulang kali. \nTerobosan ini lebih sulit untuk karakter dengan Intelegensi rendah.[/color]</Stages.5.Necks.0.Desc>
-			<Stages.5.Necks.1.DisplayName>Tenggelamnya</Stages.5.Necks.1.DisplayName>
-			<Stages.5.Necks.2.DisplayName>Reinkarnasi</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.1.DisplayName>Sinking</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Reincarnation</Stages.5.Necks.2.DisplayName>
 			<Stages.5.Necks.2.Desc>Setelah reinkarnasi ini, seseorang akan meninggalkan keenam keyakinan tersebut dan mencapai keabadian.</Stages.5.Necks.2.Desc>
 		</Text>
 	</List>
