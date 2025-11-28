@@ -1,166 +1,166 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv3_2_1">
-			<DisplayName>Lilin Matahari-Bulan dan Menyusut</DisplayName>
+			<DisplayName>Sun-Moon Wax and Wane</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_2">
-			<DisplayName>Yin-Yang Bangkit dan Jatuh</DisplayName>
+			<DisplayName>Yin-Yang Rise and Fall</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_3">
-			<DisplayName>Evolusi Ruang-Waktu</DisplayName>
+			<DisplayName>Space-Time Evolution</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_4">
-			<DisplayName>Siklus Awal dan Akhir</DisplayName>
+			<DisplayName>Cycle of Beginning and End</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_5">
-			<DisplayName>Semuanya Hidup dan Mati</DisplayName>
+			<DisplayName>Everything's Life and Death</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_6">
-			<DisplayName>Rahasia Penciptaan</DisplayName>
+			<DisplayName>Secrets of Creation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_1">
-			<DisplayName>Matahari Surgawi</DisplayName>
+			<DisplayName>Heavenly Sun</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_2">
-			<DisplayName>Matahari yang Gemuruh</DisplayName>
+			<DisplayName>Thunderous Sun</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_3">
-			<DisplayName>Matahari Jenuh</DisplayName>
+			<DisplayName>Saturated Sun</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_4">
-			<DisplayName>Matahari Pegunungan</DisplayName>
+			<DisplayName>Mountainous Sun</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_5">
-			<DisplayName>Bulan Bumi</DisplayName>
+			<DisplayName>Earthy Moon</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_6">
-			<DisplayName>Bulan Berangin</DisplayName>
+			<DisplayName>Windy Moon</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_7">
-			<DisplayName>Bulan yang berapi-api</DisplayName>
+			<DisplayName>Fiery Moon</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_8">
-			<DisplayName>Bulan Basah</DisplayName>
+			<DisplayName>Sodden Moon</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_9">
-			<DisplayName>Yang Surga</DisplayName>
+			<DisplayName>Yang Heaven</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_10">
 			<DisplayName>Yang Thunder</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_11">
-			<DisplayName>Air Yang</DisplayName>
+			<DisplayName>Yang Water</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_12">
 			<DisplayName>Yang Mountain</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_13">
-			<DisplayName>Bumi Yin</DisplayName>
+			<DisplayName>Yin Earth</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_14">
-			<DisplayName>Angin Yin</DisplayName>
+			<DisplayName>Yin Wind</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_15">
-			<DisplayName>Api Yin</DisplayName>
+			<DisplayName>Yin Fire</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_16">
-			<DisplayName>Rawa Yin</DisplayName>
+			<DisplayName>Yin Swamp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_17">
-			<DisplayName>Surga Luar Angkasa</DisplayName>
+			<DisplayName>Heaven of Space</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_18">
-			<DisplayName>Guntur Luar Angkasa</DisplayName>
+			<DisplayName>Thunder of Space</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_19">
-			<DisplayName>Air Luar Angkasa</DisplayName>
+			<DisplayName>Water of Space</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_20">
-			<DisplayName>Gunung Luar Angkasa</DisplayName>
+			<DisplayName>Mountain of Space</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_21">
-			<DisplayName>Bumi Waktu</DisplayName>
+			<DisplayName>Earth of Time</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_22">
-			<DisplayName>Angin Waktu</DisplayName>
+			<DisplayName>Wind of Time</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_23">
-			<DisplayName>Api Waktu</DisplayName>
+			<DisplayName>Fire of Time</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_24">
-			<DisplayName>Rawa Waktu</DisplayName>
+			<DisplayName>Swamp of Time</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_25">
-			<DisplayName>Permulaan Surga</DisplayName>
+			<DisplayName>Heaven's Beginning</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_26">
-			<DisplayName>Awal mula Guntur</DisplayName>
+			<DisplayName>Thunder's Beginning</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_27">
-			<DisplayName>Permulaan Air</DisplayName>
+			<DisplayName>Water's Beginning</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_28">
-			<DisplayName>Permulaan Gunung</DisplayName>
+			<DisplayName>Mountain's Beginning</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_29">
-			<DisplayName>Ujung Bumi</DisplayName>
+			<DisplayName>Earth's End</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_30">
-			<DisplayName>Akhir Angin</DisplayName>
+			<DisplayName>Wind's End</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_31">
-			<DisplayName>Akhir Api</DisplayName>
+			<DisplayName>Fire's End</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_32">
-			<DisplayName>Ujung Rawa</DisplayName>
+			<DisplayName>Swamp's End</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_33">
-			<DisplayName>Surga Kehidupan</DisplayName>
+			<DisplayName>Heaven of Life</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_34">
-			<DisplayName>Guntur Kehidupan</DisplayName>
+			<DisplayName>Thunder of Life</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_35">
-			<DisplayName>Air Kehidupan</DisplayName>
+			<DisplayName>Water of Life</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_36">
-			<DisplayName>Gunung Kehidupan</DisplayName>
+			<DisplayName>Mountain of Life</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_37">
-			<DisplayName>Bumi Kematian</DisplayName>
+			<DisplayName>Earth of Death</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_38">
-			<DisplayName>Angin Kematian</DisplayName>
+			<DisplayName>Wind of Death</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_39">
-			<DisplayName>Api Kematian</DisplayName>
+			<DisplayName>Fire of Death</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_40">
-			<DisplayName>Rawa Kematian</DisplayName>
+			<DisplayName>Swamp of Death</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_41">
-			<DisplayName>Surga Penciptaan</DisplayName>
+			<DisplayName>Heaven of Creation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_42">
-			<DisplayName>Guntur Penciptaan</DisplayName>
+			<DisplayName>Thunder of Creation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_43">
-			<DisplayName>Air Penciptaan</DisplayName>
+			<DisplayName>Water of Creation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_44">
-			<DisplayName>Gunung Penciptaan</DisplayName>
+			<DisplayName>Mountain of Creation</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_45">
-			<DisplayName>Bumi Takdir</DisplayName>
+			<DisplayName>Earth of Destiny</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_46">
-			<DisplayName>Angin Takdir</DisplayName>
+			<DisplayName>Wind of Destiny</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_47">
-			<DisplayName>Api Takdir</DisplayName>
+			<DisplayName>Fire of Destiny</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_48">
-			<DisplayName>Rawa Takdir</DisplayName>
+			<DisplayName>Swamp of Destiny</DisplayName>
 		</Text>
 	</List>
 </Texts>
