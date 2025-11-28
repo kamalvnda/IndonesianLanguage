@@ -1,7 +1,7 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Unsure">
-			<DisplayName>Lelang Misteri</DisplayName>
+			<DisplayName>Mystic Auction</DisplayName>
 			<Npc.0.Talk.Bid.0>meningkatkan!</Npc.0.Talk.Bid.0>
 			<Npc.0.Talk.Bid.1>saya ikuti!</Npc.0.Talk.Bid.1>
 			<Npc.0.Talk.Bid.2>Sangat murah lagi!</Npc.0.Talk.Bid.2>
