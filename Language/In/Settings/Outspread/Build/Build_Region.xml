@@ -1,22 +1,22 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MainHall_Base">
-			<DisplayName>Aula utama dasar</DisplayName>
+			<DisplayName>Basic Main Hall</DisplayName>
 		</Text>
 		<Text Name="MainHall1">
-			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan.</Desc>
+			<Desc>Aula utama melambangkan kekuatan kita; di sinilah orang-orang belajar tentang kami. Membuka kebijakan Amal. Tunjukkan kebaikan kita dengan bersedekah.</Desc>
 		</Text>
 		<Text Name="MainHall2">
-			<DisplayName>Aula utama perantara</DisplayName>
-			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula utama pusat akan lebih besar dari sebelumnya. Hal ini juga memungkinkan untuk membangun lebih banyak bangunan. Patung dewa juga dapat ditempatkan di aula utama untuk mewariskan iman kepada para penggarap jalan ketuhanan.</Desc>
+			<DisplayName>Intermediate Main Hall</DisplayName>
+			<Desc>Aula utama melambangkan kekuatan kita; di sinilah orang-orang belajar tentang kami. Membuka kebijakan Amal. Tunjukkan kebaikan kita dengan bersedekah. Aula utama perantara berukuran lebih besar dan memungkinkan kami menampung lebih banyak bangunan. Sebuah patung dapat ditempatkan di dalam untuk secara langsung mentransfer keyakinan kepada seorang kultivator ilahi.</Desc>
 		</Text>
 		<Text Name="MainHall3">
-			<DisplayName>Aula utama tingkat tinggi</DisplayName>
-			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula Utama tingkat tinggi akan memperluas wilayah Anda lebih jauh. Ini juga dapat membantu menciptakan keajaiban di kota ini.</Desc>
+			<DisplayName>Advanced Main Hall</DisplayName>
+			<Desc>Aula utama melambangkan kekuatan kita; di sinilah orang-orang belajar tentang kami. Membuka kebijakan Amal. Tunjukkan kebaikan kita dengan bersedekah. Aula utama yang canggih memperluas pengaruh kami dan memungkinkan keajaiban dibangun di lokasi ini.</Desc>
 		</Text>
 		<Text Name="MainHall4">
-			<DisplayName>Aula utama tingkat tinggi</DisplayName>
-			<Desc>Aula utama adalah cerminan kekuatan sekte tersebut. Apalagi orang akan mengingat dan mengetahui lebih banyak tentang kantor Anda dari tempat ini. Membuka kunci aula utama akan membuka Merit Making Order. Digunakan untuk menunjukkan kebaikan kepada mereka yang membutuhkan dengan menyumbangkan barang-barang yang dibutuhkan. Aula Utama tingkat tinggi akan memperluas wilayah Anda lebih jauh. Ini juga dapat membantu menciptakan keajaiban di kota ini.</Desc>
+			<DisplayName>Advanced Main Hall</DisplayName>
+			<Desc>Aula utama melambangkan kekuatan kita; di sinilah orang-orang belajar tentang kami. Membuka kebijakan Amal. Tunjukkan kebaikan kita dengan bersedekah. Aula utama yang canggih memperluas pengaruh kami dan memungkinkan keajaiban dibangun di lokasi ini.</Desc>
 		</Text>
 	</List>
 </Texts>
