@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HeHuanA">
-			<IVNUMBER.0.Animal.DisplayName>kandang ular</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Pelatihan yang diterima dari sekte tersebut telah memberinya ingatan yang berkaitan dengan pengertian Qi.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Snake Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ular di Negara Kebangkitan. Pelatihan yang diterimanya dari sekte telah memberinya Pemikiran terkait Qi Sense.</IVNUMBER.0.Animal.Tip>
 		</Text>
 		<Text Name="HeHuanAL">
-			<IVNUMBER.0.Animal.DisplayName>Kandang ular biasa</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan rasa takut.</IVNUMBER.0.Animal.Tip>
-			<IVNUMBER.1.Animal.DisplayName>Kandang ular biasa</IVNUMBER.1.Animal.DisplayName>
-			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan pemikiran.</IVNUMBER.1.Animal.Tip>
-			<IVNUMBER.2.Animal.DisplayName>Kandang ular biasa</IVNUMBER.2.Animal.DisplayName>
-			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kebahagiaan.</IVNUMBER.2.Animal.Tip>
-			<IVNUMBER.3.Animal.DisplayName>Kandang ular biasa</IVNUMBER.3.Animal.DisplayName>
-			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kemarahan.</IVNUMBER.3.Animal.Tip>
-			<IVNUMBER.4.Animal.DisplayName>Kandang ular biasa</IVNUMBER.4.Animal.DisplayName>
-			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor ular yang sedang dalam keadaan sadar. Ia menerima kebijaksanaan kecemasan.</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Simple Snake Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ular dalam kondisi Kebangkitan, ia memiliki Kecerdasan Ketakutan.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Simple Snake Cage</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor ular dalam Keadaan Kebangkitan, ia memiliki Kecerdasan Pikiran.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Simple Snake Cage</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor ular dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kegembiraan.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Simple Snake Cage</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor ular dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kemarahan.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Simple Snake Cage</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor ular dalam Keadaan Kebangkitan, ia memiliki Kecerdasan Kecemasan.</IVNUMBER.4.Animal.Tip>
 		</Text>
 	</List>
 </Texts>
