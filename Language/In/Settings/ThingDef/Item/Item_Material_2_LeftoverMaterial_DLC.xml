@@ -1,9 +1,9 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_BambooLeftover" sParam="Item">
-			<ThingName>Pemotongan Bambu</ThingName>
+			<ThingName>Bamboo Offcut</ThingName>
 			<Desc>Sisa bahan bangunan dicampur dengan potongan bambu. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Bambu</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Bamboo</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
