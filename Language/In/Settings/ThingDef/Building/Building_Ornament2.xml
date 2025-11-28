@@ -1,222 +1,222 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
-			<ThingName>Templat Tanaman</ThingName>
-			<StoryBnts.0.Name>Kumpulkan sampel</StoryBnts.0.Name>
+			<ThingName>Plant Template</ThingName>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah untuk mengumpulkan sampel objek ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
-			<ThingName>Templat Bangunan</ThingName>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<ThingName>Building Template</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="MiracleBase" sParam="Building">
 			<Desc>Sekte Keajaiban</Desc>
-			<StoryBnts.0.Name>Mengambil</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Take</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Terimalah keajaiban ini dengan paksa.</StoryBnts.0.Desc>
-			<StoryBnts.1.Name>Inspirasi</StoryBnts.1.Name>
+			<StoryBnts.1.Name>Inspiration</StoryBnts.1.Name>
 			<StoryBnts.1.Desc>Renungkan cara surgawi yang tinggal di dalamnya.</StoryBnts.1.Desc>
 		</Text>
 		<Text Name="Building_BaBaoGongDe" sParam="Building">
-			<ThingName>Kolam Kebajikan</ThingName>
+			<ThingName>Pool of Virtues</ThingName>
 			<Desc>Pemandangan ikonik Sunshade Abode, konon mengandung rahasia mengenai jalannya alam semesta.</Desc>
 		</Text>
 		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
-			<ThingName>Kolam Kebajikan</ThingName>
+			<ThingName>Pool of Virtues</ThingName>
 			<Desc>Pemandangan ikonik Sunshade Abode, konon mengandung rahasia mengenai jalannya alam semesta.</Desc>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
-			<ThingName>Tahta Taos</ThingName>
+			<ThingName>Throne of Taos</ThingName>
 			<Desc>Pemandangan ikonik Istana Kunlun konon mengandung rahasia cara penciptaan langit dan bumi.</Desc>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
-			<ThingName>Tahta Taos</ThingName>
+			<ThingName>Throne of Taos</ThingName>
 			<Desc>Pemandangan ikonik Istana Kunlun konon mengandung rahasia cara penciptaan langit dan bumi.</Desc>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu" sParam="Building">
-			<ThingName>Kayu Emosi</ThingName>
+			<ThingName>Wood of Emotions</ThingName>
 			<Desc>Pemandangan ikonik Istana Skydome, konon mengandung rahasia mengenai cara yin dan yang.</Desc>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
-			<ThingName>Kayu Emosi</ThingName>
+			<ThingName>Wood of Emotions</ThingName>
 			<Desc>Pemandangan ikonik Istana Skydome, konon mengandung rahasia mengenai cara yin dan yang.</Desc>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
-			<ThingName>Lempeng Astral</ThingName>
+			<ThingName>Astral Plate</ThingName>
 			<Desc>Pemandangan ikonik Kuil Awan Ungu konon mengandung rahasia asal usul ruang dan waktu, serta jalur Matahari dan Bulan.</Desc>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
-			<ThingName>Lempeng Astral</ThingName>
+			<ThingName>Astral Plate</ThingName>
 			<Desc>Pemandangan ikonik Kuil Awan Ungu konon mengandung rahasia asal usul ruang dan waktu, serta jalur Matahari dan Bulan.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
-			<ThingName>Pagoda Drakonik</ThingName>
+			<ThingName>Draconic Pagoda</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Persatuan Mistik, dikatakan memiliki rahasia mengenai awal dan akhir.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
-			<ThingName>Pagoda Drakonik</ThingName>
+			<ThingName>Draconic Pagoda</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Persatuan Mistik, dikatakan memiliki rahasia mengenai awal dan akhir.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi" sParam="Building">
-			<ThingName>Kolam Pedang</ThingName>
+			<ThingName>Pool of Sword</ThingName>
 			<Desc>Pemandangan ikonik Kuil Teratai Biru, dikatakan mengandung rahasia mengenai cara penciptaan dan penghancuran.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
-			<ThingName>Kolam Pedang</ThingName>
+			<ThingName>Pool of Sword</ThingName>
 			<Desc>Pemandangan ikonik Kuil Teratai Biru, dikatakan mengandung rahasia mengenai cara penciptaan dan penghancuran.</Desc>
 		</Text>
 		<Text Name="Building_LingYuFeng" sParam="Building">
-			<ThingName>Puncak Numinus</ThingName>
+			<ThingName>Numinous Peak</ThingName>
 			<Desc>Pemandangan ikonik di Evenfall Abode, konon mengandung rahasia pertumbuhan semua makhluk hidup.</Desc>
 		</Text>
 		<Text Name="Building_LingYuFeng_Our" sParam="Building">
-			<ThingName>Puncak Numinus</ThingName>
+			<ThingName>Numinous Peak</ThingName>
 			<Desc>Pemandangan ikonik di Evenfall Abode, konon mengandung rahasia pertumbuhan semua makhluk hidup.</Desc>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan" sParam="Building">
-			<ThingName>Altar Kematian</ThingName>
+			<ThingName>Altar of Death</ThingName>
 			<Desc>Pemandangan ikonik Gunung Seratus Serangga, konon mengandung rahasia penghapusan ruang dan waktu.</Desc>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
-			<ThingName>Altar Kematian</ThingName>
+			<ThingName>Altar of Death</ThingName>
 			<Desc>Pemandangan ikonik Gunung Seratus Serangga, konon mengandung rahasia penghapusan ruang dan waktu.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng" sParam="Building">
-			<ThingName>Kawah Magnetik</ThingName>
+			<ThingName>Magnetic Crater</ThingName>
 			<Desc>Pemandangan ikonik Pit of Doom, konon mengandung rahasia kehancuran langit dan bumi.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
-			<ThingName>Kawah Magnetik</ThingName>
+			<ThingName>Magnetic Crater</ThingName>
 			<Desc>Pemandangan ikonik Pit of Doom, konon mengandung rahasia kehancuran langit dan bumi.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei" sParam="Building">
-			<ThingName>Prasasti Pembantaian</ThingName>
+			<ThingName>Stele of Slaughter</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Tujuh Pembantaian, konon merupakan perwujudan rahasia kematian semua makhluk hidup.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
-			<ThingName>Prasasti Pembantaian</ThingName>
+			<ThingName>Stele of Slaughter</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Tujuh Pembantaian, konon merupakan perwujudan rahasia kematian semua makhluk hidup.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan" sParam="Building">
-			<ThingName>Mata Air Yin Suci</ThingName>
+			<ThingName>Sacred Yin Spring</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Exultant, dikatakan memiliki rahasia mengenai cara keberuntungan.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
-			<ThingName>Mata Air Yin Suci</ThingName>
+			<ThingName>Sacred Yin Spring</ThingName>
 			<Desc>Pemandangan ikonik dari Sekte Exultant, dikatakan memiliki rahasia mengenai cara keberuntungan.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai" sParam="Building">
-			<ThingName>Sisa-sisa Iblis Leluhur</ThingName>
+			<ThingName>Ancestral Demon's Remains</ThingName>
 			<Desc>Pemandangan ikonik Kuil Daemonia, konon merupakan perwujudan kenangan akan Iblis Leluhur.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
-			<ThingName>Sisa-sisa Iblis Leluhur</ThingName>
+			<ThingName>Ancestral Demon's Remains</ThingName>
 			<Desc>Pemandangan ikonik Kuil Daemonia, konon merupakan perwujudan kenangan akan Iblis Leluhur.</Desc>
 		</Text>
 		<Text Name="Building_QiShi1" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_QiShi2" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_QiShi3" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_QiShi4" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_QiShi5" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_QiShi6" sParam="Building">
-			<ThingName>Batu Aneh</ThingName>
+			<ThingName>Strange Rock</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
-			<ThingName>Batu Aqua yang Aneh</ThingName>
+			<ThingName>Strange Aqua Rock</ThingName>
 		</Text>
 		<Text Name="Building_LingShu1" sParam="Building">
-			<ThingName>Pohon Roh</ThingName>
+			<ThingName>Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_LingShu2" sParam="Building">
-			<ThingName>Pohon Roh</ThingName>
+			<ThingName>Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_LingShu3" sParam="Building">
-			<ThingName>Pohon Roh</ThingName>
+			<ThingName>Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_LingShu4" sParam="Building">
-			<ThingName>Pohon Roh Aqua</ThingName>
+			<ThingName>Aqua Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_LingShu5" sParam="Building">
-			<ThingName>Pohon Roh Aqua</ThingName>
+			<ThingName>Aqua Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_LingShu6" sParam="Building">
-			<ThingName>Pohon Roh Aqua</ThingName>
+			<ThingName>Aqua Spirit Tree</ThingName>
 		</Text>
 		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
-			<ThingName>Pohon Awan Ungu</ThingName>
+			<ThingName>Purplecloud Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu1" sParam="Building">
-			<ThingName>Pohon Iblis</ThingName>
+			<ThingName>Fiend Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu2" sParam="Building">
-			<ThingName>Pohon Iblis</ThingName>
+			<ThingName>Fiend Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu3" sParam="Building">
-			<ThingName>Pohon Iblis</ThingName>
+			<ThingName>Fiend Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu4" sParam="Building">
-			<ThingName>Pohon Iblis</ThingName>
+			<ThingName>Fiend Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
-			<ThingName>Pohon Aqua</ThingName>
+			<ThingName>Aqua Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
-			<ThingName>Pohon Aqua</ThingName>
+			<ThingName>Aqua Tree</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
-			<ThingName>Pohon Aqua</ThingName>
+			<ThingName>Aqua Tree</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu1" sParam="Building">
-			<ThingName>Pohon persik</ThingName>
+			<ThingName>Peach Tree</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu2" sParam="Building">
-			<ThingName>Pohon persik</ThingName>
+			<ThingName>Peach Tree</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu3" sParam="Building">
-			<ThingName>Pohon persik</ThingName>
+			<ThingName>Peach Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu1" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu2" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu3" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu4" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu5" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_YuShu6" sParam="Building">
-			<ThingName>Pohon Abadi</ThingName>
+			<ThingName>Immortal Tree</ThingName>
 		</Text>
 		<Text Name="Building_CongRong1" sParam="Building">
 			<ThingName>Cistanche</ThingName>
@@ -225,293 +225,293 @@
 			<ThingName>Cistanche</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai1" sParam="Building">
-			<ThingName>Peninggalan Kuno</ThingName>
+			<ThingName>Ancient Remains</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai2" sParam="Building">
-			<ThingName>Peninggalan Kuno</ThingName>
+			<ThingName>Ancient Remains</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai3" sParam="Building">
-			<ThingName>Peninggalan Kuno</ThingName>
+			<ThingName>Ancient Remains</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai4" sParam="Building">
-			<ThingName>Peninggalan Kuno</ThingName>
+			<ThingName>Ancient Remains</ThingName>
 		</Text>
 		<Text Name="Building_LuoTuoCao" sParam="Building">
-			<ThingName>duri unta</ThingName>
+			<ThingName>Camelthorn</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu1" sParam="Building">
-			<ThingName>bunga jagung</ThingName>
+			<ThingName>Cornflower</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu2" sParam="Building">
-			<ThingName>bunga jagung</ThingName>
+			<ThingName>Cornflower</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu3" sParam="Building">
-			<ThingName>bunga jagung</ThingName>
+			<ThingName>Cornflower</ThingName>
 		</Text>
 		<Text Name="Building_GuMu1" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_GuMu2" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_GuMu3" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_GuMu4" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_GuMu5" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_GuMu6" sParam="Building">
-			<ThingName>Tunggul Kuno</ThingName>
+			<ThingName>Ancient Stump</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi1" sParam="Building">
-			<ThingName>Reruntuhan Kuno</ThingName>
+			<ThingName>Ancient Ruins</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi2" sParam="Building">
-			<ThingName>Reruntuhan Kuno</ThingName>
+			<ThingName>Ancient Ruins</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi3" sParam="Building">
-			<ThingName>Reruntuhan Kuno</ThingName>
+			<ThingName>Ancient Ruins</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi4" sParam="Building">
-			<ThingName>Reruntuhan Kuno</ThingName>
+			<ThingName>Ancient Ruins</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi5" sParam="Building">
-			<ThingName>Reruntuhan Kuno</ThingName>
+			<ThingName>Ancient Ruins</ThingName>
 		</Text>
 		<Text Name="Building_LingDiShuiChi" sParam="Building">
-			<ThingName>Kolam Roh</ThingName>
+			<ThingName>Spirit Pond</ThingName>
 		</Text>
 		<Text Name="Building_LianFaTan" sParam="Building">
-			<ThingName>Altar Sihir</ThingName>
+			<ThingName>Altar of Magic</ThingName>
 		</Text>
 		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
-			<ThingName>Pilar yang Selalu Es</ThingName>
+			<ThingName>Ever-Ice Pillar</ThingName>
 		</Text>
 		<Text Name="Build_KunLunFang" sParam="Building">
-			<ThingName>Gerbang Kunlun</ThingName>
+			<ThingName>Kunlun Gate</ThingName>
 			<Desc>Gerbang sekte yang megah.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_QingTongLong" sParam="Building">
-			<ThingName>Naga Perunggu</ThingName>
+			<ThingName>Bronze Dragon</ThingName>
 		</Text>
 		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
-			<ThingName>Pedupaan Perunggu</ThingName>
+			<ThingName>Bronze Censer</ThingName>
 		</Text>
 		<Text Name="Building_QingTongFanQi" sParam="Building">
-			<ThingName>Spanduk Perunggu</ThingName>
+			<ThingName>Bronze Banner</ThingName>
 		</Text>
 		<Text Name="Building_YanDiTai" sParam="Building">
-			<ThingName>Platform Asal</ThingName>
+			<ThingName>Origin Platform</ThingName>
 		</Text>
 		<Text Name="Building_JuXingXiangLu" sParam="Building">
-			<ThingName>Pedupaan Raksasa</ThingName>
+			<ThingName>Giant Censer</ThingName>
 		</Text>
 		<Text Name="Building_TengLongZhu" sParam="Building">
-			<ThingName>Pilar Naga yang Bangkit</ThingName>
+			<ThingName>Dragonrising Pillar</ThingName>
 		</Text>
 		<Text Name="Building_HuangLongDengTai" sParam="Building">
-			<ThingName>Tempat Lampu Naga</ThingName>
+			<ThingName>Dragon Lampstand</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_LianHuaDengTai" sParam="Building">
-			<ThingName>Lampu Teratai</ThingName>
+			<ThingName>Lotus Lamp</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_YuHeQingLian1" sParam="Building">
-			<ThingName>Teratai Hati Pedang</ThingName>
+			<ThingName>Swordheart Lotus</ThingName>
 		</Text>
 		<Text Name="Building_YuHeQingLian2" sParam="Building">
-			<ThingName>Teratai Hati Pedang</ThingName>
+			<ThingName>Swordheart Lotus</ThingName>
 		</Text>
 		<Text Name="Building_YuHeQingLian3" sParam="Building">
-			<ThingName>Teratai Hati Pedang</ThingName>
+			<ThingName>Swordheart Lotus</ThingName>
 		</Text>
 		<Text Name="Building_JianYiFuDiao" sParam="Building">
-			<ThingName>Bantuan Pedang</ThingName>
+			<ThingName>Sword Relief</ThingName>
 		</Text>
 		<Text Name="Building_XiaoDanLu1" sParam="Building">
-			<ThingName>Tungku Kecil</ThingName>
+			<ThingName>Small Furnace</ThingName>
 		</Text>
 		<Text Name="Building_XiaoDanLu2" sParam="Building">
-			<ThingName>Tungku Kecil</ThingName>
+			<ThingName>Small Furnace</ThingName>
 		</Text>
 		<Text Name="Building_HuoDing" sParam="Building">
-			<ThingName>Kuali Api</ThingName>
+			<ThingName>Fire Cauldron</ThingName>
 		</Text>
 		<Text Name="Building_ShuiLianTai" sParam="Building">
-			<ThingName>Peron Teratai</ThingName>
+			<ThingName>Lotus Platform</ThingName>
 		</Text>
 		<Text Name="Building_XieXiDeng" sParam="Building">
-			<ThingName>Cahaya Hantu Jahat</ThingName>
+			<ThingName>Evil Specter Light</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_KuLouDeng" sParam="Building">
-			<ThingName>Cahaya Nether</ThingName>
+			<ThingName>Nether Light</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Build_BaiManFang" sParam="Building">
-			<ThingName>Gerbang Serangga</ThingName>
+			<ThingName>Insect Gate</ThingName>
 			<Desc>Gerbang sekte yang megah.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_DiMuJiDeng" sParam="Building">
-			<ThingName>Lampu Pengorbanan</ThingName>
+			<ThingName>Sacrificial Lamp</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_DiMuJiQi" sParam="Building">
-			<ThingName>Spanduk Ibu Bumi</ThingName>
+			<ThingName>Earthmother Banner</ThingName>
 		</Text>
 		<Text Name="Building_DiMuMiXue" sParam="Building">
-			<ThingName>Sarang Ibu Bumi</ThingName>
+			<ThingName>Earthmother Hive</ThingName>
 		</Text>
 		<Text Name="Building_QiShaJianZhu" sParam="Building">
-			<ThingName>Pilar Pedang</ThingName>
+			<ThingName>Sword Pillar</ThingName>
 		</Text>
 		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
-			<ThingName>Naga Jahat</ThingName>
+			<ThingName>Evil Dragon</ThingName>
 		</Text>
 		<Text Name="Building_XiongKuiDeng" sParam="Building">
-			<ThingName>Lampu Boneka Jahat</ThingName>
+			<ThingName>Wicked Puppet Lamp</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ShaZhang1" sParam="Building">
-			<ThingName>Tirai Sutra</ThingName>
+			<ThingName>Silk Curtain</ThingName>
 		</Text>
 		<Text Name="Building_ShaZhang2" sParam="Building">
-			<ThingName>Tirai Sutra</ThingName>
+			<ThingName>Silk Curtain</ThingName>
 		</Text>
 		<Text Name="Building_QingShaDeng" sParam="Building">
-			<ThingName>Lampu Terselubung</ThingName>
+			<ThingName>Veiled Lamp</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_BingFengDiaoSu" sParam="Building">
-			<ThingName>Phoenix Es</ThingName>
+			<ThingName>Ice Phoenix</ThingName>
 		</Text>
 		<Text Name="Building_DiMuKuiShou" sParam="Building">
-			<ThingName>Ketua Ibu Bumi</ThingName>
+			<ThingName>Earthmother Chief</ThingName>
 		</Text>
 		<Text Name="Building_MoMenJiQi" sParam="Building">
-			<ThingName>Spanduk Setan</ThingName>
+			<ThingName>Demonic Banner</ThingName>
 		</Text>
 		<Text Name="Building_MoMenJiQi1" sParam="Building">
-			<ThingName>Spanduk Setan</ThingName>
+			<ThingName>Demonic Banner</ThingName>
 		</Text>
 		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
-			<ThingName>Patung Cakar</ThingName>
+			<ThingName>Claw Sculpture</ThingName>
 		</Text>
 		<Text Name="Building_MoWenHuaPing" sParam="Building">
-			<ThingName>Botol Setan</ThingName>
+			<ThingName>Demonhead Bottle</ThingName>
 		</Text>
 		<Text Name="Building_KuLouHuaPing" sParam="Building">
-			<ThingName>Cabang Iblis</ThingName>
+			<ThingName>Fiend Branch</ThingName>
 		</Text>
 		<Text Name="Building_XiePingFeng" sParam="Building">
-			<ThingName>Layar Jahat</ThingName>
+			<ThingName>Fiendish Screen</ThingName>
 		</Text>
 		<Text Name="Building_YaoHuoPen" sParam="Building">
-			<ThingName>Tungku Hewan Tanpa Kepala</ThingName>
+			<ThingName>Headless Animalian Furnace</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChangMingDeng" sParam="Building">
-			<ThingName>Lampu Animalian yang Selalu Menyala</ThingName>
+			<ThingName>Animalian Ever-burning Lamp</ThingName>
 			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_JuXingShouGu" sParam="Building">
-			<ThingName>Ukiran Tulang Raksasa</ThingName>
+			<ThingName>Behemoth Bone Carving</ThingName>
 		</Text>
 		<Text Name="Building_LongXingYuanPan" sParam="Building">
-			<ThingName>Singgasana Naga Melingkar</ThingName>
+			<ThingName>Coiled Dragon Throne</ThingName>
 		</Text>
 		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
-			<ThingName>Patung Liar</ThingName>
+			<ThingName>Savage Statue</ThingName>
 		</Text>
 		<Text Name="Building_YaoShouDing" sParam="Building">
-			<ThingName>Kuali Raja Iblis</ThingName>
+			<ThingName>Demon Lord's Cauldron</ThingName>
 		</Text>
 		<Text Name="Build_WanYaoMen" sParam="Building">
-			<ThingName>Gerbang Setan</ThingName>
+			<ThingName>Daemonia Gate</ThingName>
 			<Desc>Gerbang sekte yang megah.</Desc>
-			<StoryBnts.0.Name>Mengamati</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_TianSheQi" sParam="Building">
-			<ThingName>Spanduk Ular</ThingName>
+			<ThingName>Serpentis Banner</ThingName>
 		</Text>
 		<Text Name="Building_YaoZuXingJia" sParam="Building">
-			<ThingName>Rak Setan</ThingName>
+			<ThingName>Demonic Rack</ThingName>
 		</Text>
 		<Text Name="Building_RPG_YingTianTai" sParam="Building">
-			<ThingName>Altar Gema Surga</ThingName>
+			<ThingName>Heaven Echo Altar</ThingName>
 			<Desc>Sebuah bangunan khusus terdengar dari seorang pria rahasia di Otherworld Rift. Dapat digunakan untuk berkomunikasi dengan dunia lain dalam pikiran, sangat misterius.</Desc>
-			<StoryBnts.0.Name>Memasuki</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Enter</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Masuki ruang yang ditunjukkan oleh Heaven Echo Altar.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
-			<ThingName>Altar Gema Surga</ThingName>
+			<ThingName>Heaven Echo Altar</ThingName>
 			<Desc>Sebuah bangunan khusus terdengar dari seorang pria rahasia di Otherworld Rift. Dapat digunakan untuk berkomunikasi dengan dunia lain dalam pikiran, sangat misterius.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_1" sParam="Building">
-			<ThingName>Pagoda Lentera</ThingName>
+			<ThingName>Lantern Pagoda</ThingName>
 			<Desc>Pagoda menawan dengan lentera gantung yang menyala di malam hari.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_2" sParam="Building">
-			<ThingName>Lentera Seni: Keberuntungan</ThingName>
+			<ThingName>Art Lantern: Fortune</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan akan keberuntungan.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_3" sParam="Building">
-			<ThingName>Lentera Seni: Teratai</ThingName>
+			<ThingName>Art Lantern: Lotus</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan untuk reuni keluarga.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_4" sParam="Building">
-			<ThingName>Lentera Seni: Lili Air</ThingName>
+			<ThingName>Art Lantern: Water Lily</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan akan kerukunan dan persatuan.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_5" sParam="Building">
-			<ThingName>Lentera Seni: Kehangatan</ThingName>
+			<ThingName>Art Lantern: Warmth</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan untuk kebangkitan kehidupan.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_6" sParam="Building">
-			<ThingName>Lentera Seni: Singa</ThingName>
+			<ThingName>Art Lantern: Lion</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan untuk mengusir segala kejahatan.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_7" sParam="Building">
-			<ThingName>Lentera - Kuncup Bunga</ThingName>
-			<Desc>Lampu hias yang menandakan musim semi.</Desc>
+			<ThingName>Lantern - Flower Bud</ThingName>
+			<Desc>Lampu hias yang melambangkan musim semi.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_8" sParam="Building">
-			<ThingName>Lentera - Salju Murni</ThingName>
-			<Desc>Lampu hias yang menandakan musim semi.</Desc>
+			<ThingName>Lantern - Pure Snow</ThingName>
+			<Desc>Lampu hias yang melambangkan musim semi.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_9" sParam="Building">
-			<ThingName>Lentera Seni: Kenaikan</ThingName>
+			<ThingName>Art Lantern: Ascension</ThingName>
 			<Desc>Lampu hias yang melambangkan musim semi, dengan harapan akan kehebatan di tahun baru.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_10" sParam="Building">
-			<ThingName>Lentera Seni: Gerbang Naga</ThingName>
+			<ThingName>Art Lantern: Dragon's Gate</ThingName>
 			<Desc>Lampu hias yang menandakan musim semi, dengan harapan akan perubahan menyeluruh di tahun baru.</Desc>
 		</Text>
 	</List>
