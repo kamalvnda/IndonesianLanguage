@@ -1,24 +1,24 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Tang_Dan">
-			<DisplayName>Menempa pil</DisplayName>
-			<Desc>Ahli dalam pemurnian obat Tingkatkan kemampuan yang terkait dengan pemurnian pil murid cabang sesuai dengan tingkat kemampuan pemimpin cabang.</Desc>
+			<DisplayName>Alchemy</DisplayName>
+			<Desc>Khusus dalam Alkimia. Meningkatkan kemampuan murid yang berhubungan dengan Alkimia sesuai dengan kemampuan Pemimpin Cabang.</Desc>
 		</Text>
 		<Text Name="Tang_Qi">
-			<DisplayName>Menempa senjata ajaib</DisplayName>
-			<Desc>Mengkhususkan diri dalam menempa senjata ajaib. Tingkatkan kemampuan yang terkait dengan penempaan senjata magis murid cabang sesuai dengan tingkat kemampuan pemimpin cabang.</Desc>
+			<DisplayName>Artifact Crafting</DisplayName>
+			<Desc>Spesialisasi dalam Pembuatan Artefak. Meningkatkan kemampuan terkait Pembuatan Artefak murid sesuai dengan kemampuan Pemimpin Cabang.</Desc>
 		</Text>
 		<Text Name="Tang_Zhan">
-			<DisplayName>Bertarung</DisplayName>
-			<Desc>Ahli dalam pertarungan Tingkatkan kemampuan yang berhubungan dengan pertempuran murid cabang sesuai dengan tingkat kemampuan master cabang.</Desc>
+			<DisplayName>Battle</DisplayName>
+			<Desc>Khusus dalam Pertempuran. Tingkatkan kemampuan murid yang berhubungan dengan Pertempuran sesuai dengan kemampuan Pemimpin Cabang.</Desc>
 		</Text>
 		<Text Name="Tang_XiuLian">
-			<DisplayName>Latihlah diri sendiri</DisplayName>
-			<Desc>Ahli dalam budidaya dan budidaya. Menaikkan tingkat kemampuan yang berkaitan dengan budidaya dan budidaya murid cabang sesuai dengan tingkat kemampuan kepala cabang.</Desc>
+			<DisplayName>Cultivate</DisplayName>
+			<Desc>Khusus dalam Budidaya/Pelatihan. Meningkatkan kemampuan yang berhubungan dengan Budidaya/Pelatihan murid sesuai dengan kemampuan Pemimpin Cabang.</Desc>
 		</Text>
 		<Text Name="Tang_WaiShi">
-			<DisplayName>Duta Persahabatan</DisplayName>
-			<Desc>Ahli dalam diplomasi Tingkatkan kemampuan terkait diplomasi murid cabang sesuai dengan tingkat kemampuan pemimpin cabang.</Desc>
+			<DisplayName>Foreign Affairs</DisplayName>
+			<Desc>Spesialisasi dalam Luar Negeri. Meningkatkan kemampuan kerja dan keterampilan murid sesuai dengan yang dimiliki Pemimpin Cabang.</Desc>
 		</Text>
 	</List>
 </Texts>
