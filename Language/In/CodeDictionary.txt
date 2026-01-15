@@ -36,7 +36,7 @@ Key	Value
 神名	Gelar Ilahi
 变身成人形态	Berubah wujud menjadi wujud manusia
 没有空闲中的工作台	Tidak ada stasiun Kerja yang tersedia
-成功率:{0} 灵气:{1} 心境:{2}	Tingkat Keberhasilan:{0}Qi:{1}Keadaan Mental:{2}
+成功率:{0} 灵气:{1} 心境:{2}	Tingkat Keberhasilan:{0} Qi:{1} Keadaan Mental:{2}
 友好	Teman
 移除	Menghapus
 {0}阶	Tingkat{0}
@@ -47,7 +47,7 @@ Key	Value
 关闭	Menutup
 影响角色灵气抵挡伤害的能力。	(Perlindungan) Mempengaruhi kemampuan karakter untuk mempertahankan diri dari kerusakan menggunakan Qi.
 取消放置	Batalkan Penempatan
-修行	Martial
+修行	Latihan
 聆听	Mendengarkan
 （需要激活{0}才能挑战）	(Tersedia setelahnya{0}diaktifkan)
 其他	Lain-lain
@@ -139,7 +139,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 可生效{0}次	{0}\nKali
 参悟经验：{0}\n	XP Inspirasi:{0}\n
 编队	Antre
-灵气:{0:N0}/{1:N0}	Qi: {0:N0}/{1:N0}
+灵气:{0:N0}/{1:N0}	Qi:{0:N0}/{1:N0}
 修行时杂念频起，正感觉有点生气	Terganggu oleh pikiran acak saat bermeditasi; merasa marah karenanya
 屋顶	Atap
 由修行者夺舍而来，只要积累足够精元就可以开启灵智\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Yang dimiliki oleh seorang kultivator, dapat dibangkitkan kecerdasannya selama Stamina yang terkumpul cukup.\nKapasitas stamina: {0:F0}/{1:F0} ({2:F0}%)
@@ -182,7 +182,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 游戏中有大量可以提高角色基础属性与技能的方法，而角色初始属性过高，可能对您的游戏体验造成较大地破坏，请谨慎考虑！	Permainan ini menawarkan banyak cara untuk meningkatkan atribut dan keterampilan dasar karakter. Namun, atribut awal yang terlalu tinggi dapat sangat mengganggu pengalaman bermain game Anda. Harap pertimbangkan ini dengan cermat!
 多次画符	Gambar Jimat Berganda
 阵法真意图鉴需要玩家结成包含对应真意的阵法来点亮。	Untuk membuka isi Ensiklopedia Kebenaran Formasi, Anda perlu membentuk formasi lengkap dari Kebenaran yang sesuai.
-从{0}前往{1}	Dari {0} ke {1}
+从{0}前往{1}	Dari {0} Ke {1}
 模组商店及万界天宫的内容(UGC)是由玩家所制作，这些内容可能会影响你的游戏体验，包括但不仅限于：内容不适、数值崩溃、历程失控等。我们未对这些分享内容进行任何功能和数值上的审核或者协助，您必须自行分辨并承担下载该内容的风险。	Mod Store dan konten Workshop (User Generated Contents) dibuat oleh pemain. Konten ini dapat memengaruhi pengalaman bermain game Anda, termasuk namun tidak terbatas pada: konten yang tidak pantas, statistik yang tidak seimbang, kemajuan game yang terganggu, dll. Kami tidak mengambil bagian dalam pembuatan konten yang dibagikan ini. Anda harus mengunduh dan bermain dengan risiko Anda sendiri.
 护体	Melindungi
 土壤肥沃	Tanah yang Kaya
@@ -340,7 +340,7 @@ defName=>{0} {1}_effect.sParam2 配置为空,应该配置物品名字！	namadef
 (总值)	(Total)
 潜力	POTENSI
 所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Hukum yang Dipelajari:{0} ({2})\n{1}\nJenis kelamin:{5}\nUsia: {3:N0}\nPencapaian: {4:N0}
-巧匠	kerajinan
+巧匠	Kerajinan
 挖土	Menggali
 {0}的尸体	{0}Mayat
 埋葬	Mengubur
@@ -519,7 +519,7 @@ CloudSave->解压完成	CloudSave->Dekompresi Selesai
 正在加载支付信息...	Memuat informasi pembayaran...
 选择研习弟子	Pilih seorang murid untuk dipelajari
 阳寿已尽	Almarhum
-灵气：{0}\n	Qi:{0}\n
+灵气：{0}\n	Qi: {0}\n
 请选择一个可以赋灵的物品	Pilih item untuk memberinya semangat.
 炼化增补	Suplemen Pemurnian
 {0:N0}秒	{0:N0} Detik
@@ -662,7 +662,7 @@ ui状态异常，请关闭ui再次打开	Tidak dapat memuat UI. Silakan tutup da
 让代理人落实政策。政策期间会发生对应事件，不同手段处理会有不同结果，直接影响此地的信众、总人口、我方代理的吸引力，以及其他门派的势力。不采取政策，信众则会认为代理人不作为，每日损失信众。	Minta agen untuk menerapkan kebijakan tersebut. Peristiwa serupa akan terjadi selama implementasi kebijakan. Metode yang berbeda akan memberikan hasil yang berbeda, secara langsung mempengaruhi pengikut, populasi, daya tarik lembaga kami, dan kekuatan sekte lain. Jika tidak ada kebijakan yang diterapkan, pengikut akan menganggap agen tersebut tidak bertanggung jawab, dan Anda akan kehilangan pengikut setiap hari.
 需求境界：{0}\n	Keadaan yang Diperlukan:{0}\n
 建筑是发展门派的核心内容。使用主材料的不同，建筑也会拥有不同的属性，并以此来影响周围的环境。\n例如：寒晶锭建造的建筑，会使周围的水属性增多。	Struktur adalah inti dari pengembangan sebuah sekte. Atribut suatu bangunan bergantung pada bahan utama yang digunakan dalam konstruksinya, dan atributnya juga mempengaruhi lingkungan sekitarnya.\nMisalnya, struktur yang terbuat dari Batangan Kristal Es akan meningkatkan atribut Air di sekitarnya.
-启用	Memungkinkan
+启用	Mengaktifkan
 (永久)	(Secara permanen)
 删除该建筑。	Hapus gedung ini.
 被击	terserang
@@ -986,7 +986,7 @@ CloudSave->压缩完成:{0}	CloudSave->Kompresi Selesai:{0}
 击杀模式	Modus membunuh
 金属性伤害减免	Pengurangan Kerusakan Logam
 遇到瓶颈	mencapai batas.
-[temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperature]{0:N0}[/temperature]ke[temperature]{1:N0}[/temperature]
+[temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperature]{0:N0}[/temperature] Ke [temperature]{1:N0}[/temperature]
 重建	Membangun kembali
 当前阵图仍有阵眼，无法删除阵枢	Rencana tersebut masih memiliki alat bantu. Tidak dapat menghapus pilar.
 \n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404]Tidak bisa hidup berdampingan:[/color]
@@ -1036,7 +1036,7 @@ CloudSave->压缩完成:{0}	CloudSave->Kompresi Selesai:{0}
 施放	Api
 取消下载	Batalkan Pengunduhan
 修为	Pengalaman
-额外灵气:{0:N0}	Lingqi Ekstra: {0:N0}
+额外灵气:{0:N0}	Lingqi Ekstra:{0:N0}
 (正常工作)	(Operasional)
 八	Delapan
 成长期	Tahap Pembelajaran
@@ -1218,7 +1218,7 @@ CloudSave->开始拉取云存档:{0}	CloudSave->Mulai Mengambil Cloud Save:{0}
 角色入玄失败，请重新尝试	Tautan surga gagal, coba lagi.
 强	Kuat
 PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak dapat menemukan informasi produk untuk ID{0}dengan ID produk:{1}
-开采	Milikku
+开采	Menambang
 该角色不能作为目标	Karakter ini tidak dapat ditargetkan.
 房间温度\n室内的当前温度	Suhu Kamar\nSuhu saat ini di dalam ruangan.
 普通物品	Umum
@@ -1269,7 +1269,7 @@ PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak da
 赞同或反对灵宠的行为，使其执行行为的权重改变。	Setujui atau cegah perilaku tertentu hewan peliharaan Anda, sehingga memengaruhi nilai bobot preferensinya terhadap berbagai perilaku, sehingga mengubah cara tindakannya.
 动物角色	Karakter Hewan
 {0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}% ({1:N2}%)\nNyeri:{2}
-{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\nKesehatan: {1:P0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana hati: {5:N0}
+{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\nKesehatan: {1:P0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana Hati: {5:N0}
 魔(恸哭)	Setan (Meratap)
 {0}折	{0}mati
 消耗25点香火值，为一个外门角色治疗所有疾病，恢复所有器官，并提高五维。	Harganya 25 Dupa. Menyembuhkan segala penyakit, memulihkan seluruh organ, dan meningkatkan panca indera bagi murid luar.
@@ -1329,7 +1329,7 @@ PayMgr-> 找不到ID为{0}商品中产品ID:{1}的商品信息	PayMgr-> Tidak da
 五境:反虚	Lv V: Tidak Ada
 门派人数已达上限	Mencapai populasi sekte maksimum
 扫地	Sapu Lantai
-灵气:	Qi:
+灵气: 	Qi: 
 灵石	Batu Roh
 飞升天劫	Kesengsaraan Kenaikan
 点击[太阳符]。	Tekan Jimat Yang Tertinggi
@@ -1594,7 +1594,7 @@ CloudSave->删除旧存档完成:{0}	CloudSave->Simpan Lama dihapus:{0}
 魔(幽闭)	Setan (Terbatas)
 精通	Berpengalaman
 网络错误,请检查网络稍后再试！	Kesalahan jaringan, periksa jaringan dan coba lagi nanti!
-练功	Kereta
+练功	Pelatihan
 购买该道具需要先激活<font color=#FF0000>[b]{0}[/b]</font>,是否前往激活?	Sebelum membeli ini, <font color=#FF0000>[b]{0}[/b]</font> perlu diaktifkan. Apakah Anda ingin pergi dan mengaktifkan?
 子时,子夜时分,三更时分,夜半时分,夜深之时,万籁俱静	Saat itu sekitar pukul 23.00–1.00, langit malam dipenuhi bintang yang berkelap-kelip
 提供帮助：{0}次	Bantuan yang Diberikan:{0}
@@ -1643,7 +1643,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 蓝图中存在失落之物!	Item yang hilang dalam cetak biru!
 脚本名字不能为空	Nama Skrip tidak boleh kosong.
 晴天	Hari yang cerah
-\n情绪影响:\n {0:N0}%	\nSuasana hati:\n{0:N0}%
+\n情绪影响:\n {0:N0}%	\nSuasana Hati:\n{0:N0}%
 所需境界：{0}\n{1}	Keadaan yang Diperlukan:{0}\n{1}
 似乎有个沉甸甸的东西上钩了！！它竟然是--	Sesuatu yang berat mengambil umpannya! Dan itu…
 水劫	Kesengsaraan Air
@@ -1657,7 +1657,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 门派人数已达上限，无法增加弟子！	Populasi sekte maksimum telah tercapai. Tidak dapat menambah Murid lagi!
 门派掌门	Pemimpin Sekte
 酉时,日落时分,日沉之刻,傍晚时分,暮色怅晚,鸟倦云舒	Saat itu sekitar pukul 17:00–19:00, cahaya muncul dari gubuk besar dan kecil
-采矿	Milikku
+采矿	Menambang
 杀戮	Pembunuhan
 此次修行大有所获，正感欣喜	Belajar banyak dari sesi meditasi; sangat senang tentang hal itu
 鼎炉潜力尚未开发，炼精化气效率极高。	Potensi Kuali Dalam yang Belum Terkembang; efisiensi konversi Stamina yang sangat tinggi.
@@ -1778,7 +1778,7 @@ ApplyEffect!  激活次数 UsedTimes is {0}	Terapkan Efek! Waktu aktivasi UsedTi
 许愿	Buatlah Permintaan
 锻造时，被叮叮当当的声音弄得有点烦	Penempaan; sedikit kesal dengan semua dentingan itu
 : 等待服务器响应	: Menunggu server merespons
-平衡	Keseimbangan
+平衡	Seimbangkan
 添加寒晶锭到队列中。	Tambahkan Ice Crystal Bar ke antrian.
 无法炼化该类型的物品	Tidak dapat menyempurnakan item jenis ini.
 Name\t显示名称\t认知\t理智\t感知\t万界天宫\n	Nama\tNAMA\Realisasi\Rasionalitas\Persepsi\tIstana Alam\n
@@ -1794,7 +1794,7 @@ Name\t显示名称\t认知\t理智\t感知\t万界天宫\n	Nama\tNAMA\Realisasi\
 领悟道法	Memahami Hukum
 测试物品	Barang Tes
 请输入名称	Nama Masukan
-交易区	Kawasan Perdagangan
+交易区	Perdagangkan
 它	Dia
 {0} 邀请 {1} 进行比试，惜败。	{0}mengundang{1}untuk bertarung dan kalah.
 居	Tempat tinggal
@@ -1806,7 +1806,7 @@ Name\t显示名称\t认知\t理智\t感知\t万界天宫\n	Nama\tNAMA\Realisasi\
 八境:纯阳	Lv VIII: Yang Murni
 存档完成	Permainan disimpan!
 春	Musim semi
-调心	Pikiran
+调心	Mental
 分享码无效。	Kode berbagi tidak valid.
 {0}需要选择政策	{0}perlu memilih suatu kebijakan
 恸哭	meratap
@@ -1855,11 +1855,11 @@ npc无丹药耐必信息，没有条目可以删除!	npc tidak memiliki info res
 一件以{0}炼制成的{1}阶法宝。	Tingkatan{1}artefak dibuat dari{0}.
 {0}天 {1:D2}:{2:D2}	{0}d {1:D2}:{2:D2}
 开始测试 {0}！	Mulai pengujian{0}!
-{2}\n灵气:{0:N0}/{1:N0}	{2}\nQi: {0:N0}/{1:N0}
+{2}\n灵气:{0:N0}/{1:N0}	{2}\nQi:{0:N0}/{1:N0}
 分类:{0}	Kategori:{0}
 输入存档名	Masukkan nama untuk penyimpanan Anda.
 地图存储	Simpan Peta
-禁用	Cacat
+禁用	Blokir
 少量的	Agak
 成功！	Kesuksesan!
 处于养殖区	Di Area Padang Rumput
@@ -1969,7 +1969,7 @@ npc无丹药耐必信息，没有条目可以删除!	npc tidak memiliki info res
 淬体[{0}-{1}]	Cetakan ulang[{0}-{1}]
 轩	Rumah
 已将分享码复制到粘贴板中。	Kode berbagi telah disalin ke clipboard.
-成功率:{0} 灵气:{1}	Tingkat Keberhasilan:{0}Qi:{1}
+成功率:{0} 灵气:{1}	Tingkat Keberhasilan:{0} Qi:{1}
 生成世界	Menghasilkan dunia
 人型角色	Karakter Manusia
 真炁恢复\n在启用该秘体时，会持续的恢复真炁。	Pemulihan Qi Sejati\nJumlah True Qi yang terus Anda pulihkan saat Badan Rahasia ini diaktifkan.
@@ -2063,7 +2063,7 @@ defName=>{0} {1}_effect.sParam1 配置为空,应该配置物品类型！	namadef
 门派存亡之际不宜外出。	Sekte Anda berada di ambang kehancuran. Ini bukan waktunya untuk pergi.
 祭祀仙人遗蜕	Sembahlah tubuh fana yang abadi.
 术法消耗加成:	Bonus Biaya Mantra:
-{0}代弟子	Jenderal{0}Murid
+{0}代弟子	MuridGen Ke-{0}
 影响制作物品速度，制作物品品质等。	Mempengaruhi kecepatan dan kualitas produk saat membuat item.
 未找到丹气常量配置	Tidak ditemukan konfigurasi konstan untuk qi alkimia
 打开右下角的门派面板，建立自己的门派。	Buka menu Sekte di pojok kanan bawah dan buat sekte Anda sendiri.
@@ -2168,7 +2168,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 读取中...	Memuat…
 选择信仰程度达到100%的核心信徒	Pilih pengikut inti dengan keyakinan 100%.
 指定天气	Pilih Cuaca
-{0}\n从{1}前往{2}	{0}\nDari {1} ke {2}
+{0}\n从{1}前往{2}	{0}\nDari {1} Ke {2}
 全扩展包首购福利将在购买任意扩展包后失效，是否继续购买？	Manfaat pembelian pertama untuk paket ekspansi penuh akan dibatalkan setelah membeli paket ekspansi apa pun. Apakah Anda ingin melanjutkan pembelian?
 <font color=#D06508>[装备]</font>\n	<font color=#D06508>[Gear]</font>\n
 解锁神通:[{0}]\n	Buka Keajaiban:[{0}]\n
@@ -2263,7 +2263,7 @@ XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额�
 购买失败,如果您已经完成了支付,请稍等后再次点击购买尝试补发。	Pembelian gagal. Jika Anda sudah menyelesaikan pembayaran, harap tunggu sebentar dan coba klik lagi tombol beli untuk mencoba menerbitkan kembali pembelian.
 欲慧中求空，必须达圆满境后，在心斋之下保持心境500，且心绪低于10，持续{0:N1}天。	Untuk mencari pikiran yang 'kosong', pertahankan kondisi mental pada 500 dan tekanan lebih rendah dari 10 selama puasa pikiran setelah mencapai Kondisi Pencapaian selama {0:N1} hari.
 <font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Internal Core]</font>\n
-灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会将信仰转化为灵气\n当前信仰：{2:F0}	Qi: {0:N0}/{1:N0}\nQi adalah sumber daya dasar yang digunakan untuk tindakan budidaya.\nKarakter akan mengubah keyakinan menjadi Qi.\nKeyakinan Saat Ini: {2:F0}
+灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会将信仰转化为灵气\n当前信仰：{2:F0}	Qi:{0:N0}/{1:N0}\nQi adalah sumber daya dasar yang digunakan untuk tindakan budidaya.\nKarakter akan mengubah keyakinan menjadi Qi.\nKeyakinan Saat Ini: {2:F0}
 (等待被移动)	(Bergerak)
 种植区 ({0}格)	Luas Penanaman ({0}Ruang angkasa)
 {0}\n基础值: {1}\n提升率：{2:P3}\n额外加值：{3}	{0}\nNilai dasar:{1}\nPeningkatan persentase: {2:P3}\nNilai bonus:{3}
@@ -2560,7 +2560,7 @@ CloudSave->找到旧存档:{0}	CloudSave->Ditemukan Simpanan lama:{0}
 滞留{0}次	Arahkan kursor{0}kali.
 第{0}日	Hari {0}
 该角色不能再次作为目标了	Karakter ini tidak dapat ditargetkan lagi.
-木客	penebang
+木客	Penebang
 {2}数量限制：{0}({1}){3}\n	{2}Membatasi:{0} ({1}) {3}\n
 护盾强度:	Kekuatan Penghalang:
 \n道行不够：{0}	\nPencapaian terlalu rendah:{0}
@@ -2718,7 +2718,7 @@ defName=>{0} {1} 缺少丹药相关配置项，请重新检查配置！	namadef=
 {0} 被 {1} 邀请进行战斗，获得了胜利。	{0}diundang oleh{1}untuk bertarung dan menang.
 理智	Rasionalitas
 放纵	Kesenangan
-开采:{0}	Milikku:{0}
+开采:{0}	Menambang:{0}
 在锻造之时，正感觉有点无聊	Penempaan; terasa sedikit bosan
 已经被其他角色绑定	Terikat jiwa pada karakter lain.
 选择政策	Pilih Kebijakan
@@ -2780,7 +2780,7 @@ CloudSave->开始删除云存档:{0}	CloudSave->Mulai Menghapus Cloud Save:{0}
 角色按钮显示\n左键点击:\n显示内门:{0}\n显示外门:{1}\n\n右键点击:\n简易模式:{2}	Tampilan Karakter\nKlik Kiri:\nTampilkan Batin:{0}\nTampilkan Luar:{1}\n\nKlik kanan:\nModus Sederhana:{2}
 易	Mudah
 简陋	tanpa tulang
-{0}[{6}]\n灵气:{7:N0}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{6}]\nQi: {7:N0}\nKesehatan: {1:P0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana hati: {5:N0}
+{0}[{6}]\n灵气:{7:N0}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{6}]\nQi: {7:N0}\nKesehatan: {1:P0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana Hati: {5:N0}
 不能使用	Tidak tersedia
 随机普通矿	Acak Bijih Biasa
 阵法稳定度不足，无法布阵	Tidak dapat membentuk formasi karena stabilitas yang tidak memadai.
@@ -3085,7 +3085,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 {0}导致{1}被破坏	{0}menyebabkan kehancuran{1}.
 兑换失败,{0}(错误码:{1})	Penukaran gagal,{0}(Kode Kesalahan:{1})
 当前效果:{0}	Efek Saat Ini:{0}
-{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nKesehatan: {1:P0}\nKeadaan Mental: {6:N0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana hati: {5:N0}
+{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nKesehatan: {1:P0}\nKeadaan Mental: {6:N0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana Hati: {5:N0}
 [color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	Tergantung pada bahan yang digunakan[color=#ff0000]Dekorasi[/color]/[color=#ff0000]Lantai[/color]/[color=#ff0000]dinding[/color], Anda dapat mengubah aliran lima elemen di sekitarnya. Coba gunakan material yang lebih tepat dan ubah konstruksi di dekat tempat tidur untuk meningkatkan Feng Shui.
 还算不错	Memadai
 在工作时略有所得，正喜上眉梢	Bekerja; merasa senang karena telah mempelajari sesuatu
@@ -3202,7 +3202,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 该角色自身所学需要容量{0}，现在的藏经阁容量为{1}/{2} 不足以容纳	Pengetahuan karakter membutuhkan{0}slot, dan kapasitas Paviliun Manual saat ini adalah{1}/{2}. Tidak mampu menampung ilmunya.
 云存档数量已达上限,无法设置更多云存档!	Jumlah penyimpanan cloud telah mencapai batas, tidak dapat mengatur penyimpanan cloud lebih banyak!
 易用性	Kegunaan
-调整	Menyesuaikan
+调整	Penjahit
 破碎时空，话外别传	Epilog dalam ruang dan waktu yang hancur
 轻点星形以评分	Ketuk bintang untuk menilai
 坚韧	Keras
@@ -3241,7 +3241,7 @@ ID:{0}没有云端数据!	PENGENAL:{0}- Tidak Ada Data Cloud Tersedia!
 \n温度不适	\nSuhu Tidak Sesuai
 以建筑风水为例：\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。	Ambil struktur Feng Shui sebagai contoh:\n[color=#ff0000]Api[/color]-elemen bangunan di a[color=#ff0000]Air[/color]-elemen lingkungan akan memiliki Feng Shui yang buruk[color=#ff0000]Air memadamkan Api[/color].\n[color=#ff0000]Api[/color]-elemen bangunan di a[color=#ff0000]Kayu[/color]-elemen lingkungan akan memiliki Feng Shui yang hebat[color=#ff0000]Kayu menjadi bahan bakar Api[/color].
 已习得\n({0}/{1})种	({0}/{1}) dipelajari.
-装备给与	Melengkapi
+装备给与	Kenakan
 可以预见，此人对你的劝化[color=#33cc00]不屑一顾[/color]，不太能听得进去	Orang ini akan menjadi[color=#33cc00]cuek[/color]menuju dan mengabaikan bujukan Anda.
 随便看看	Lihat lihat
 CombineBrushTexture_A_耗时 :	GabungkanBrushTexture_A_耗时：
@@ -3436,7 +3436,7 @@ CombineBrushTexture_A_耗时 :	GabungkanBrushTexture_A_耗时：
 刚完成建筑工作，准备洗洗手收工	Baru saja menyelesaikan pekerjaan konstruksi; akan mencuci tangan dan berhenti bekerja
 天谴	Penghukuman
 周天神算	Pandangan ke Depan Universal
-装备道具	Melengkapi
+装备道具	Kenakan
 长孙	Zhangsun
 器官	Organ
 土属性伤害减免	Pengurangan Kerusakan Bumi
@@ -3470,7 +3470,7 @@ CombineBrushTexture_A_耗时 :	GabungkanBrushTexture_A_耗时：
 壮加	Tambah Otot
 大型综合	Umum
 <font color=#00FF00>可选中</font>	<font color=#00FF00>Dapat dipilih</font>
-制作	kerajinan
+制作	Kerajinan
 刚练完护体，正觉得有点意犹未尽	Pelatihan perlindungan selesai; berpikir untuk melakukan pelatihan tambahan
 敌视	Agresif
 重载FightDriver	Muat ulang FightDriver
@@ -3545,7 +3545,7 @@ CloudSave->开始拉取云存档信息	CloudSave->Mulai Mengambil Info Penyimpan
 与行商交易。	Berdaganglah dengan pedagang.
 妙法玄机	Sihir & Metode
 当前额外次数:{0}\n购买妙法宝匣获得额外次数，无次数上限\n使用仙灵妙法时会优先消耗额外次数。	Waktu tambahan:{0}\nBeli Miracle Casket untuk waktu tambahan (Tanpa batas)\nSaat menggunakan berkah abadi, itu akan menghabiskan waktu ekstra terlebih dahulu.
-练习护体	Perlindungan Kereta Api
+练习护体	Melatih perlindungan tubuh
 六	Enam
 主存档数量为{0},无法打包	Jumlah Simpan File Utama adalah{0}, Tidak Dapat Berkemas
 余{0}次/{1}天	{0}kali/{1}hari
@@ -3692,7 +3692,7 @@ Lua回调类名	Nama Kelas Panggilan Balik Lua
 删除特殊效果	Hapus Efek Khusus
 -灵胎	- Inkubasi
 请选择移动目的地	Silakan pilih tujuan pemindahan
-{0}[{7}]\n真炁:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi Sejati: {8:N0}\nKesehatan: {1:P0}\nKeadaan Mental: {6:N0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana hati: {5:N0}
+{0}[{7}]\n真炁:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi Sejati: {8:N0}\nKesehatan: {1:P0}\nKeadaan Mental: {6:N0}\nKelaparan: {2:N0}\nHaus: {3:N0}\nEnergi: {4:N0}\nSuasana Hati: {5:N0}
 娱乐:{0}	Santai:{0}
 仙人{0}经过无量劫难，度{1}重天劫，于天苍历{2}年{3}斩断尘缘，以{4}证得灵仙之境。	Setelah melalui berbagai cobaan,{0}dilanda kesengsaraan Surga{1}; di tahun{2}dari Era Tiancang,{3}'s meninggalkan tubuh fana mereka dan mencapai keabadian karena{4}.
 等级:{0}	Tingkat:{0}
@@ -3818,7 +3818,7 @@ PayMgr-> 找不到ID为{0}的商品信息	PayMgr-> 找不到ID为{0}的商品信
 [多个物体]	[Multiple Objects]
 广为人知	Terkenal
 我们完成了{0}的任务，他们的长老表示感谢，并欠了我们人情。\n获得了{0}的{1}点人情。	Kami menyelesaikan tugas untuk{0}. Orang yang lebih tua mengungkapkan rasa terima kasihnya dan menjadi lebih terhubung dengan kami.\nDiperoleh{1}mendukung dengan{0}.
-熔炼	Mencium
+熔炼	Lebur/Tempa
 核心信徒	Pengikut Inti
 在工作之时，突觉莫名伤心	Bekerja; tiba-tiba terasa agak sedih
 炼制法宝结束，正感叹炼器之道博大精深	Artefak kerajinan yang sudah jadi; mengagumi kedalaman kerajinan
@@ -3876,7 +3876,7 @@ defName=>{0} {1} 该物品未找到，请重新检查配置！	namadef=>{0} {1}i
 请输入标题	Silakan Masukkan Judul
 五	Lima
 取出：	Menarik:
-衣匠	Menyesuaikan
+衣匠	Penjahit
 无法在此地突破	Tidak dapat melakukan terobosan di lokasi ini.
 【{0}】出价[{1}]	[{0}]penawaran[{1}].
 生成云雾	Menghasilkan awan
@@ -4283,7 +4283,7 @@ Trap编辑。	Sunting Perangkap.
 名门正派	Dihormati
 XiaWorld -> Wnd_NpcGentrate:生成角色失败，原因为：{0}	XiaWorld -> Wnd_NpcGentrate:生成色失败，原因为：{0}
 保存	Menyimpan
-放置	Tempat
+放置	Tempatkan
 吸引力\n我方代理势力的吸引力，吸引力越高越容易吸引其他势力的信徒。主要通过布施获得。吸引力会每日衰减。	Menarik\nKemampuan agensi kami untuk menarik pengikut dari kekuatan lain. Semakin tinggi daya tariknya, semakin mudah untuk mendapatkan pengikut. Terutama diperoleh dari menjalankan amal. Banding akan berkurang dari hari ke hari.
 上传存档失败,请检查存档格式,请检查存档是否正确!	Pengunggahan penyimpanan gagal, harap periksa format penyimpanan dan pastikan penyimpanan sudah benar!
 在种植作物间余，小憩片刻	Menanam tanaman; sedang istirahat
@@ -4326,7 +4326,7 @@ XiaWorld -> Wnd_NpcGentrate:生成角色失败，原因为：{0}	XiaWorld -> Wnd
 请选择一个进行吐纳的地点	Pilih lokasi untuk memulai Pernapasan.
 恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Selamat! Anda menyelesaikan tantangannya! Kembali ke menu utama dan pilih yang lain atau lanjutkan bermain.
 极难	Sangat keras
-进行调心	Pikiran
+进行调心	Mental
 该角色已经是内门	Karakter ini sudah menjadi murid batiniah.
 击败修行者：{0}个	Penggarap Dikalahkan:{0}
 在世真仙	Setengah dewa
